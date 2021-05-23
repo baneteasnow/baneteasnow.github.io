@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Şimdi Okuduğum Kitap
+title: Şimdi 
 ---
 
+### okuduğum kitap
+
 Shoe Dog (2016)
-by Phil Knight
+<br />by Phil Knight
