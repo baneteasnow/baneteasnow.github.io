@@ -3,12 +3,6 @@
 #   - title: rss url: feed.xml
 
 entries:
-  - title: info
-    entries:
-      - title: a new webpage here.
-      - title: thebookish.de
-        url: https://www.thebookish.de/
-      - title: "created by <a href='https://www.thebookish.de/'>thebookish.de</a>"
 
   - title: Kitaplar # all posts
     post_list:
@@ -16,6 +10,14 @@ entries:
       show_more: true
       show_more_text: Devamı # See archive...
       show_more_url: archive.html
+      
+  - title: info
+    entries:
+      - title: a new webpage here.
+      - title: thebookish.de
+        url: https://www.thebookish.de/
+      - title: "created by <a href='https://www.thebookish.de/'>thebookish.de</a>"
+
 
   - title: posts by category
     post_list:
