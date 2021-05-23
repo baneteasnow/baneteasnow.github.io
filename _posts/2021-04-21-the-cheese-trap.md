@@ -16,4 +16,4 @@ The Cheese Trap: How Breaking a Surprising Addiction Will Help You Lose Weight, 
 <br />Neal Barnard
 <br />358 sayfa
 <br />2018
-<br />_[goodreads](https://www.goodreads.com/book/show/30364205-the-cheese-trap)_
+<br />_[goodreads](https://www.goodreads.com/book/show/30364205-the-cheese-trap){:target="_blank"}_
