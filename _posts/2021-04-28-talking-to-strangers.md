@@ -25,4 +25,4 @@ Talking To Strangers - What We Should Know about the People We Don't Know
 <br />Malcolm Gladwell
 <br /> 2019
 <br />400 sayfa
-<br />_[goodreads](https://www.goodreads.com/book/show/43848929-talking-to-strangers)_
+<br />_[goodreads](https://www.goodreads.com/book/show/43848929-talking-to-strangers){:target="_blank"}_
