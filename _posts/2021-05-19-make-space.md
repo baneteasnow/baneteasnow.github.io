@@ -20,9 +20,9 @@ Minimalizme giden yolda fiziksel eşyalar, sosyal medya, bilgisayar, email gibi 
 
 Minimalizm algısı oldukça kişisel ve sürekli gelişmeyi gerektiriyor. Önce bir alışkanlığa sonra da hayatın her alanına yayılan bir hayat felsefesine dönüşüyor, beraberinde de aslında hayata odaklanmayı getiriyor.
 
-Make Space - A Minimalist's Guide to the Good and the Extraordinary
-\Hayata Yer Aç - Bir Sadeleşme Rehberi 
-\Regina Wong  
-\2018
-\154 sayfa
-\_[goodreads](https://www.goodreads.com/book/show/31213421-make-space){:target="_blank"}_
+Make Space - A Minimalist's Guide to the Good and the Extraordinary\
+Hayata Yer Aç - Bir Sadeleşme Rehberi\
+Regina Wong \
+2018\
+154 sayfa\
+_[goodreads](https://www.goodreads.com/book/show/31213421-make-space){:target="_blank"}_
