@@ -35,8 +35,8 @@ entries:
 
   - title: kitaplar # posts by category
      post_list:
-      category: book
       limit: 5
+      category: book
       show_more: true
       show_more_text: devamı # See more posts...
       show_more_url: bookshelf.html
