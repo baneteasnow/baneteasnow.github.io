@@ -32,14 +32,13 @@
   
 
 entries:
-
-  - title: kitaplar # posts by category
+      
+  - title: kitaplar # all posts
      post_list:
       limit: 5
-      category: book
       show_more: true
-      show_more_text: devamı # See more posts...
-      show_more_url: bookshelf-archive.html
+      show_more_text: devamı # See archive...
+      show_more_url: archive.html
       
   - title: şimdi
     entries:
