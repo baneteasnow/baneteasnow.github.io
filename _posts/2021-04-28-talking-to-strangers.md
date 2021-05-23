@@ -20,9 +20,9 @@ Gladwell, ikinci öğe olarak 'şeffaflık yanılgısını' (The illusion of Tra
 
 Kitap, birbirlerini iyi tanımayan iki kişinin ya da birbirlerine yabancı olanların birbirleri ile olan ilişkilerinin yanlış gitmeye ne kadar müsait olduğunu anlatıyor, yanılgı ve yanlış anlaşılmalar sonucunda meydana gelen olumsuz durumları örneklerle açıklıyor.
 
-Talking To Strangers - What We Should Know about the People We Don't Know
-<br />Ötekiyle Konuşmak 
-<br />Malcolm Gladwell
-<br /> 2019
-<br />400 sayfa
-<br />_[goodreads](https://www.goodreads.com/book/show/43848929-talking-to-strangers){:target="_blank"}_
+Talking To Strangers - What We Should Know about the People We Don't Know\
+Ötekiyle Konuşmak \
+Malcolm Gladwell\
+2019\
+400 sayfa\
+_[goodreads](https://www.goodreads.com/book/show/43848929-talking-to-strangers){:target="_blank"}_
