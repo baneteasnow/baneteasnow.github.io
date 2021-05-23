@@ -39,7 +39,7 @@ entries:
       category: book
       show_more: true
       show_more_text: devamı # See more posts...
-      show_more_url: bookshelf.html
+      show_more_url: bookshelf-archive.html
       
   - title: şimdi
     entries:
