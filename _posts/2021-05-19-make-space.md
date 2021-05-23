@@ -23,6 +23,6 @@ Minimalizm algısı oldukça kişisel ve sürekli gelişmeyi gerektiriyor. Önce
 Make Space - A Minimalist's Guide to the Good and the Extraordinary
 <br />Hayata Yer Aç - Bir Sadeleşme Rehberi 
 <br />Regina Wong  
-<br />2018
+2018
 <br />154 sayfa
 <br />_[goodreads](https://www.goodreads.com/book/show/31213421-make-space){:target="_blank"}_
