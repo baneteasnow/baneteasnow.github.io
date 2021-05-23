@@ -1,6 +1,13 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 #
+# - title: # all posts
+#  post_list:
+#     limit: 5
+#     show_more: true
+#     show_more_text: See archive...
+#     show_more_url: archive.html
+#
 #    - title: posts by category
 #   post_list:
 #     category: example2
@@ -14,6 +21,7 @@
 #     - title: thebookish.de
 #       url: https://www.thebookish.de/
 #     - title: "created by <a href='https://www.thebookish.de/'>thebookish.de</a>"
+#
 #    - title: another list
 #   entries:
 #     - title: with subitems
@@ -25,12 +33,12 @@
 
 entries:
 
-  - title: kitaplar # all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: devamı # See archive...
-      show_more_url: archive.html
+  - title: kitaplar # posts by category
+     post_list:
+     category: book
+     show_more: true
+     show_more_text: devamı # See more posts...
+     show_more_url: bookshelf.html
       
   - title: şimdi
     entries:
