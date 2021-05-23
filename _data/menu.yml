@@ -10,11 +10,11 @@ entries:
         url: https://www.thebookish.de/
       - title: "created by <a href='https://www.thebookish.de/'>thebookish.de</a>"
 
-  - title: all posts
+  - title: Kitaplar # all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: Devamı # See archive...
       show_more_url: archive.html
 
   - title: posts by category
@@ -31,6 +31,6 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
-  - title: Thanks for reading!
+  - title: Eski yazılar için 
     entries:
-      - title: please visit <a href='https://www.thebookish.de/'>thebookish.de</a> for more content.
+      - title: <a href='https://www.thebookish.de/'>thebookish.de</a>
