@@ -20,9 +20,9 @@ Son bölümde ise, kitabın genel gidişatına oldukça yakışır biçimde yaln
 
 Michael Pollan'ın bu kitabı, Eric Schlosser'in Hamburger Cumhuriyeti kitabı ile aynı kategoride ve gayet bilgilendirici.
 
-The Omnivore's Dilemma - A Natural History of Four Meals
-<br />Etobur-Otobur İkilemi
-<br />2009
-<br />Michael Pollan
-<br />512 sayfa
-<br />_[goodreads](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma){:target="_blank"}_
+The Omnivore's Dilemma - A Natural History of Four Meals\
+Etobur-Otobur İkilemi\
+2009\
+Michael Pollan\
+512 sayfa\
+_[goodreads](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma){:target="_blank"}_
