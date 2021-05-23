@@ -10,10 +10,9 @@ Peynir işlenmiş gıdaların başında geliyor ve arkasında tüm dünyada lobi
 
 Kitapta dikkat çekilen bir başka nokta da, sütun elde ediliş yöntemi ve hayvanların bulunduğu ortam ve yaşamlarını nasıl geçirdikleri. Bu da işin etik kısmı ve ayrıntılar bir hayli rahatsız edici.
 
-The Cheese Trap: How Breaking a Surprising Addiction Will Help You Lose Weight, Gain Energy, and Get Healthy
-
-<br />Peynir Tuzağı: Beklenmedik bir bağımlılıktan kurtulmak kilo vermenize, enerji kazanmanıza ve sağlıklı kalmanıza nasıl yardımcı olur?
-<br />Neal Barnard
-<br />358 sayfa
-<br />2018
-<br />_[goodreads](https://www.goodreads.com/book/show/30364205-the-cheese-trap){:target="_blank"}_
+The Cheese Trap: How Breaking a Surprising Addiction Will Help You Lose Weight, Gain Energy, and Get Healthy\
+Peynir Tuzağı: Beklenmedik bir bağımlılıktan kurtulmak kilo vermenize, enerji kazanmanıza ve sağlıklı kalmanıza nasıl yardımcı olur?\
+Neal Barnard\
+358 sayfa\
+2018\
+_[goodreads](https://www.goodreads.com/book/show/30364205-the-cheese-trap){:target="_blank"}_
