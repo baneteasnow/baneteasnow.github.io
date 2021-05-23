@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Omnivore's Dilemma | Michael Pollan"
-slug: the omnivore's dilemma by michael pollan
 category: book
 ---
 
