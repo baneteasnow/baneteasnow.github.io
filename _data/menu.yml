@@ -35,10 +35,10 @@ entries:
 
   - title: kitaplar # posts by category
      post_list:
-     category: book
-     show_more: true
-     show_more_text: devamı # See more posts...
-     show_more_url: bookshelf.html
+      category: book
+      show_more: true
+      show_more_text: devamı # See more posts...
+      show_more_url: bookshelf.html
       
   - title: şimdi
     entries:
