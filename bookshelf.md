@@ -1,7 +1,7 @@
 ---
 layout: archive
 which_category: book
-title: 'kitaplar' 
+title: '# kitaplar' 
 ---
 
 <!--All posts of category 'kitaplar'-->
