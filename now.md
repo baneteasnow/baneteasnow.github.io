@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Şimdi 
+title: şimdi 
 ---
 
 ### okuduğum kitap
