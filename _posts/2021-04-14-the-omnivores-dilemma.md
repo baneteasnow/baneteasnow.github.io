@@ -25,4 +25,4 @@ The Omnivore's Dilemma - A Natural History of Four Meals
 <br />2009
 <br />Michael Pollan
 <br />512 sayfa
-<br />_[goodreads](goodreads.com/book/show/3109.The_Omnivore_s_Dilemma)_
+<br />_[goodreads](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma)_
