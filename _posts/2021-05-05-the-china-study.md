@@ -22,4 +22,4 @@ Kitabın Adı: Çin Mucizesi - Uzun Yaşama, Kilo Verme ve Diyet Hakkında Şaş
 <br />T. Colin Campbell, Thomas M. Campbell (II.)
 <br />2016
 <br />493 sayfa
-<br />[goodreads](https://goodreads.com/book/show/178788.The_China_Study)
+<br />_[goodreads](https://goodreads.com/book/show/178788.The_China_Study){:target="_blank"}_
