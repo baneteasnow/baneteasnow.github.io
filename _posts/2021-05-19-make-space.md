@@ -25,4 +25,4 @@ Hayata Yer Aç - Bir Sadeleşme Rehberi\
 Regina Wong \
 2018\
 154 sayfa\
-_[goodreads](https://www.goodreads.com/book/show/31213421-make-space){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/31213421-make-space){:target="_blank"}_</span>
