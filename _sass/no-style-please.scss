@@ -94,13 +94,12 @@ img {
 }
 
 a {
-  color:inherit;
-  text-decoration:none;
+  color:#777777;
+  text-decoration:none !important;
   transition:background-color .15s ease-in-out,border-color .15s ease-in-out,color .15s ease-in-out,opacity .15s ease-in-out;
 }
 a:hover{
   color:#017BFF;
-  background: linear-gradient(to top, #fff 20%, transparent 20%);
-  text-decoration: none !important;
+  text-decoration: underline !important;
 }
 
