@@ -59,14 +59,16 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
-.abc {
-  &:after { width: 100%;
-    content: '....';
-    font-size: 1em;
-    bottom: .4rem;
-    position: absolute;
-    white-space: nowrap;
-  }   
+.dots::before {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  content: 
+    "................"
+    "................"
+    "................"
+    "................"
 }
 
 table { width: 100%; }
