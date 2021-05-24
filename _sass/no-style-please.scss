@@ -60,13 +60,12 @@ hr {
 }
 
 .abc {
-  :before {
-    width: 100%;
+  &:before { width: 100%;
+    content: '....';
     font-size: 1em;
     bottom: .4rem;
     position: absolute;
     white-space: nowrap;
-    content: '....'
     border-bottom: 2px dotted #ddd;
   }   
 }
