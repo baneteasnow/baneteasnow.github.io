@@ -60,12 +60,12 @@ hr {
 }
 
 .abc {
-  &:before {width: 100%;
+  &:after {width: fit-content;
     font-size: .55em;
     position: absolute;
     bottom: .4em;
     white-space: nowrap;
-    content: '.....................'}
+    content: '....'}
 }
 
 table { width: 100%; }
