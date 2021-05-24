@@ -59,20 +59,6 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
-.dots::before {
-  display: block;
-  overflow: hidden;
-  text-overflow: clip;
-  height: 1em;
-  content: 
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .';
-}
-
 table { width: 100%; }
 
 table, th, td {
