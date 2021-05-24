@@ -18,6 +18,7 @@
           <span style="text-align: right; float: right;">{{- post.date | date: site.theme_config.date_format -}}</span>
         </div>
     {%- endfor -%}
+    <br />
     {%- if include.show_more and limit_exceeded -%}
       <span><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></span>
     {%- endif -%}
