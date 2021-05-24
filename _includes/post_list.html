@@ -19,6 +19,7 @@
           <br />
         </div>
     {%- endfor -%}
+    <div style="clear: both;"></div>
    <span class="link1"><em> {%- if include.show_more and limit_exceeded -%}
       <a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></em></span>
     {%- endif -%}
