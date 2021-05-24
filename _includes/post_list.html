@@ -20,7 +20,7 @@
         </div>
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}
-      <span style="color: blue;"><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></span>
+      <span class="link1;"><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></span>
     {%- endif -%}
   </div>
 {%- endif -%}
