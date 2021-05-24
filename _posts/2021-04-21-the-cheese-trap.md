@@ -15,4 +15,4 @@ Peynir Tuzağı: Beklenmedik bir bağımlılıktan kurtulmak kilo vermenize, ene
 Neal Barnard\
 358 sayfa\
 2018\
-_[goodreads](https://www.goodreads.com/book/show/30364205-the-cheese-trap){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/30364205-the-cheese-trap){:target="_blank"}_</span>
