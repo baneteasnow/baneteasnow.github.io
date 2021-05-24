@@ -14,10 +14,10 @@
   <ul>
     {%- for post in posts limit: include.limit -%}
         <li style="list-style-type:none;">
-          <span style="float: left;">
+          <div style="float: left;">
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
-          </span>
-          <span style="float: right;">{{- post.date | date: site.theme_config.date_format -}}</span>
+          </div>
+          <div style="float: right;">{{- post.date | date: site.theme_config.date_format -}}</div>
         </li>
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}
