@@ -109,3 +109,60 @@ a:hover{
   color: blue;
   text-decoration: underline !important;
 }
+
+/* Table of contents */
+
+ul.toc {
+  overflow: hidden;
+}
+
+ul.toc * + * {
+  margin: 0;
+}
+
+ul.toc li {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  margin: 0;
+}
+
+ul.toc li + li {
+  margin: .25em 0 0 0;
+}
+
+ul.toc li a {
+  color: currentColor;
+  flex: 1;
+}
+
+ul.toc li a:hover {
+  color: var(--link-color);
+}
+
+ul.toc li a span {
+  background: var(--back-color);
+  padding-right: .3em;
+}
+
+ul.toc li time {
+  font-variant-numeric: tabular-nums;
+  z-index: 1;
+  padding-left:.3em;
+  background: var(--back-color);
+}
+
+ul.toc li a:after {
+  width: 100%;
+  font-size: .55em;
+  position: absolute;
+  bottom: .4em;
+  white-space: nowrap;
+  content:
+  ' . . . . . . . . . . . . . . . . . . . . . .'
+  ' . . . . . . . . . . . . . . . . . . . . . .'
+  ' . . . . . . . . . . . . . . . . . . . . . .'
+  ' . . . . . . . . . . . . . . . . . . . . . .'
+  ' . . . . . . . . . . . . . . . . . . . . . .'
+  ' . . . . . . . . . . . . . . . . . . . . . .';
+}
