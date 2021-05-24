@@ -1,12 +1,12 @@
-<ul style="list-style-type:none;">
+<span>
   {%-for item in include.collection-%}
-    <li style="list-style-type:none;">
+    <span>
     {%- if item.url -%}
       <a href="{{ item.url }}">{{ item.title }}</a>
     {%- else -%}
       {{ item.title }}
     {%- endif -%}
-    </li>
+    </span>
 
     {%-if item.post_list-%}
       {%
@@ -23,4 +23,4 @@
       {%-include menu_item.html collection=item.entries-%}
     {%-endif-%}
   {%-endfor-%}
-</ul>
+</span>
