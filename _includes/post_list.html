@@ -15,7 +15,7 @@
     {%- for post in posts limit: include.limit -%}
         <li style="list-style-type:none;">
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
-          <span style="text-align:right">{{- post.date | date: site.theme_config.date_format -}}</span>
+          <span style="text-align: right; float: right;">{{- post.date | date: site.theme_config.date_format -}}</span>
         </li>
     {%- endfor -%}
     {%- if include.show_more and limit_exceeded -%}
