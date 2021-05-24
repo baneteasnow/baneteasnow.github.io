@@ -11,7 +11,7 @@
 {%-endif-%}
 
 {%- if posts.size > 0 -%}
-  <ul>
+  <div>
     {%- for post in posts limit: include.limit -%}
         <div style="text-align: left;">
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
@@ -21,5 +21,5 @@
     {%- if include.show_more and limit_exceeded -%}
       <span><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></span>
     {%- endif -%}
-  </ul>
+  </div>
 {%- endif -%}
