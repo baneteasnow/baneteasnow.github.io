@@ -109,3 +109,9 @@ a:hover{
   color: blue;
   text-decoration: underline !important;
 }
+.line1{
+        display: inline-block;
+        border-right: 1px solid #ccc;
+        margin: 0 10px;
+        height: 125px;
+    }
