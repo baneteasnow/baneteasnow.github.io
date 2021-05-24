@@ -52,9 +52,9 @@ li { margin: 0.4rem 0; }
 }
 
 hr {
-  text-align: center;
+  text-align: left;
   border: 0;
-
+  width: auto;
   &:before { content: '___' }
   &:after { content: attr(data-content) '___' }
 }
