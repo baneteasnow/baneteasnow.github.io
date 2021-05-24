@@ -109,7 +109,7 @@ a:hover{
   color: blue;
   text-decoration: underline !important;
 }
-line1:after,
+.line1:after,
 line1:before{
     content:"\00a0\00a0\00a0\00a0\00a0";
     text-decoration:line-through;
