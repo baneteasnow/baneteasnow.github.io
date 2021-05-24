@@ -60,7 +60,7 @@ hr {
 }
 
 .abc {
-  &:before { width: 100%;
+  &:after { width: 100%;
     content: '....';
     font-size: 1em;
     bottom: .4rem;
