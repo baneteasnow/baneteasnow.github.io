@@ -20,8 +20,8 @@ Teknolojinin pek çok mevcut pozisyonu ortadan kaldıracak olmasına rağmen, so
 
 Colvin, kitabında geleceğe yönelik bu becerileri örnekler eşliğinde anlatıyor.
 
-Humans Are Underrated: What High Achievers Know that Brilliant Machines Never Will
-Geoff Colvin
-2015
-256 sayfa
+Humans Are Underrated: What High Achievers Know that Brilliant Machines Never Will\
+Geoff Colvin\
+2015\
+256 sayfa\
 _[goodreads]()_
