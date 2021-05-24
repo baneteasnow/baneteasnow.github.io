@@ -32,7 +32,6 @@ entries:
       show_more_text: devamı # See archive...
       show_more_url: archive.html
       
-  - title: şimdi  
-        url: now
+  - title: <a href="/now.html">şimdi</a>
   - title: daha fazla içerik için - <a href='https://www.thebookish.de/'>thebookish.de</a> 
     
