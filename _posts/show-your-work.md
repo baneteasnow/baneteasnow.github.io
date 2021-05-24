@@ -31,8 +31,8 @@ Kitaptaki başlıklar şöyle:
 9. Satış yapın
 10. Israrcı olun
 
-Show Your Work! : 10 Ways to Share Your Creativity and Get Discovered
-Austin Kleon
-2014
-116 sayfa
+Show Your Work! : 10 Ways to Share Your Creativity and Get Discovered\
+Austin Kleon\
+2014\
+116 sayfa\
 _[goodreads}()_
