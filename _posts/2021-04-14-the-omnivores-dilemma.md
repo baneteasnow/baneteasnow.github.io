@@ -25,4 +25,4 @@ Etobur-Otobur İkilemi\
 2009\
 Michael Pollan\
 512 sayfa\
-_[goodreads](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma){:target="_blank"}_</span>
