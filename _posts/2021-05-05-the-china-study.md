@@ -21,4 +21,4 @@ The China Study: Revised and Expanded Edition: The Most Comprehensive Study of N
 T. Colin Campbell, Thomas M. Campbell (II.)\
 2016\
 493 sayfa\
-_[goodreads](https://goodreads.com/book/show/178788.The_China_Study){:target="_blank"}_
+<span class="link1">_[goodreads](https://goodreads.com/book/show/178788.The_China_Study){:target="_blank"}_</span>
