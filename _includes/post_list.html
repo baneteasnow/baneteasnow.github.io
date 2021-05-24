@@ -14,7 +14,7 @@
   <div>
     {%- for post in posts limit: include.limit -%}
         <div style="text-align: left;">
-          <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> { ::after <hr> }
+          <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> ......
           <span style="text-align: right; float: right;"> {{- post.date | date: site.theme_config.date_format -}}</span>
           <br />
         </div>
