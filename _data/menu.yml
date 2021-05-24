@@ -27,15 +27,12 @@ entries:
 
   - title: kitaplar # all posts
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: devamı # See archive...
       show_more_url: archive.html
       
-  - title: şimdi
-    entries:
-      - title: şimdi okuduğum kitap  
+  - title: şimdi  
         url: now
-  - title: daha fazla içerik için -
-    entries:
-      - title: <a href='https://www.thebookish.de/'>thebookish.de</a> 
+  - title: daha fazla içerik için - <a href='https://www.thebookish.de/'>thebookish.de</a> 
+    
