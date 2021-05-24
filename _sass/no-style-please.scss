@@ -109,14 +109,14 @@ a:hover{
   color: blue;
   text-decoration: underline !important;
 }
-line1 {
+.line1 {
   text-align: center;
   display: flex;
   flex-direction: row;
   justify-content: center;
  }
 
-line1:before, 
+.line1:before, 
 line1:after {
   flex-grow: 1;
   height: 1px;
@@ -126,10 +126,10 @@ line1:after {
   top: 0.5em;
 }
 
-line1:before {
+.line1:before {
   margin-right:10px;
 }
 
-line1:after {
+.line1:after {
   margin-left:10px;
 }
