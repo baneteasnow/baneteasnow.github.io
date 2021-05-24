@@ -60,10 +60,9 @@ hr {
 }
 
 .abc {
-  &:after {width: fit-content;
-    font-size: .55em;
+  &:after {width: 100%;
+    font-size: 1em;
     position: absolute;
-    bottom: .4em;
     white-space: nowrap;
     content: '....'}
 }
