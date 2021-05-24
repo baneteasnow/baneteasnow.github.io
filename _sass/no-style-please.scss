@@ -59,7 +59,7 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
-.dots::before {
+.dots::after {
   display: block;
   white-space: nowrap;
   overflow: hidden;
