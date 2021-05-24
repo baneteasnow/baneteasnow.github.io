@@ -15,7 +15,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "..." # customize text for homepage link in post layout
-  date_format: "%b-%y" # customize how date is formatted %Y-%m-%d
+  date_format: "%b %y" # customize how date is formatted %Y-%m-%d
   show_description: false # show blog description in home page
 
 sass:
