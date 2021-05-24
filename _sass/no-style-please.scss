@@ -109,14 +109,27 @@ a:hover{
   color: blue;
   text-decoration: underline !important;
 }
-.line1:after,
-line1:before{
-    content:"\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0"
-            "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0"
-            "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0"
-            "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0"
-            "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0"
-            "\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0";
-    text-decoration:line-through;
-    white-space: nowrap;
+line1 {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ }
+
+line1:before, 
+line1:after {
+  flex-grow: 1;
+  height: 1px;
+  content: '\a0';
+  background-color: #ddd;
+  position: relative;
+  top: 0.5em;
+}
+
+line1:before {
+  margin-right:10px;
+}
+
+line1:after {
+  margin-left:10px;
 }
