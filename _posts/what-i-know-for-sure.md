@@ -1,0 +1,18 @@
+---
+layout: post
+category: book
+title: "What I Know For Sure | Oprah Winfrey"
+---
+
+2021-09-15-
+
+What I Know For Süre, Oprah Winfrey'in kendi dergisi O (The Oprah Magazine)'da aynı isimle yayınlanan köşesinde yer alan yazıların bir derlemesinden oluşuyor. Köşesinin adı, film eleştirmeni Gene Siskel'in 1998 yılında kendisi ile yaptığı bir röportajda yönelttiği şu sorudan geliyor: 'Tam olarak bildiğinize emin olduğunuz ne var?'
+
+Yazılar, 'Mutluluk', 'Esneklik', 'Yakınlık', 'Minnet', 'Olasılık', 'Hayranlık', 'Net Olmak' ve 'Güç' başlıklı bölümler altında toplanmış. Oprah Winfrey, yazılarında kendi hayatından kesitleri ve hayat deneyimlerini paylaştığı gibi pek çok ünlü isimle olan anılarını da anlatıyor. The Oprah Show'un en popüler dönemlerinden bahsettiği gibi çocukluğunda yaşadığı travmaları ve kendisine her zaman destek olan arkadaşları ile olan ilişkilerini de aktarıyor. Dünyanın en güçlü kadınları arasında ilk sırada yer alan Winfrey'in, kendi korkularını, kaygılarını ve hayallerini okumak oldukça ilham verici. Kitabın ana mesajı, bir insanın mutluluğu, sevgiyi, cesareti ve fırsatları kendi hayatına getirmesinin ancak kendisinin sorumluluk alması ile mümkün olduğu.
+
+What I Know For Sure\
+Artık Biliyorum\
+Oprah Winfrey\
+2014\
+240 sayfa\
+_[goodreads]()_
