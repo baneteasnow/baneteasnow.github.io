@@ -14,9 +14,9 @@ Havadan yapılan ilaçlamalar, bahçe bitkilerinin ve kuşların ölümüne yol 
 
 Carson, kitabında doğrudan kimyasal tarım ilaçlarının yasaklanmasını önermiyor. Onun dikkati çektiği nokta, bu ilaçların ölçüsüz ve kontrolsüz kullanılması. Hedef alınan 'zararlı' canlıların bir süre sonra ilaçlar etki göstermediği için popülasyonlarının giderek artacağının ve kim bilir daha ne gibi istenmeyen sonuçlara yol açılacağının altını çiziyor. Bu tür zararlılar ile mücadele için Carson'un önerdiği yöntem ise, biyotik bir yaklaşım sağlanması.
 
-Silent Spring - The Classic That Launched The Environmental Movement
-Sessiz Bahar
-Rachel Carson
-2002
-368 sayfa
+Silent Spring - The Classic That Launched The Environmental Movement\
+Sessiz Bahar\
+Rachel Carson\
+2002\
+368 sayfa\
 _[goodreads]()_
