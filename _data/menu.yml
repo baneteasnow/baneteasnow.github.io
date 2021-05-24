@@ -29,7 +29,7 @@ entries:
     post_list:
       limit: 3
       show_more: true
-      show_more_text:  ...devamı # See archive...
+      show_more_text: nbsp; nbsp; ...devamı # See archive...
       show_more_url: archive.html
       
   - title: <a href="/now.html">şimdi</a>
