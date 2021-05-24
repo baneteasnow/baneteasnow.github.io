@@ -109,13 +109,8 @@ a:hover{
   color: blue;
   text-decoration: underline !important;
 }
-line1:before {
-    border-top: 1px solid black;
-    display: block;
-    height: 1px;
-    content: " ";
-    width: 40%;
-    position: absolute;
-    left: 0;
-    top: 1.2em;
+line1:after,
+line1:before{
+    content:"\00a0\00a0\00a0\00a0\00a0";
+    text-decoration:line-through;
 }
