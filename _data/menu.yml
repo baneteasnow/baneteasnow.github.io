@@ -5,7 +5,7 @@
 
 entries:
 
-  - title: kitaplar # all posts
+  - title: # all posts
     post_list:
       limit: 3
       show_more: true
