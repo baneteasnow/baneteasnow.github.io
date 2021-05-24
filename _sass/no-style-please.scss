@@ -53,10 +53,8 @@ li { margin: 0.4rem 0; }
 
 hr {
   text-align: center;
-  border: 0;
+  border: 1;
 
-  &:before { content: '/////' }
-  &:after { content: attr(data-content) '/////' }
 }
 
 table { width: 100%; }
