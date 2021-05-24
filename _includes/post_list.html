@@ -13,7 +13,7 @@
 {%- if posts.size > 0 -%}
   <ul>
     {%- for post in posts limit: include.limit -%}
-        <span style="text-align: left;">
+        <div style="text-align: left;">
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
           <span style="text-align: right; float: right;">{{- post.date | date: site.theme_config.date_format -}}</span>
         </li>
