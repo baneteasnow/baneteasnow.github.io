@@ -14,10 +14,9 @@
   <div>
     {%- for post in posts limit: include.limit -%}
         <div style="text-align: left;">
-          <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> &nbsp;<span class="dotted"></span>
-          <span style="text-align: right; float: right;"> {{- post.date | date: site.theme_config.date_format -}}</span>
+          <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></div> &nbsp;<div class="dotted"></div>
+          <span style="text-align: right; float: right;"> {{- post.date | date: "%-d %B %Y" -}}</span>
               <div style="clear: both;"></div>
-        </div>
     {%- endfor -%}
     <div style="clear: both;"></div>
    <span class="link1"><em> {%- if include.show_more and limit_exceeded -%}
