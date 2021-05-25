@@ -2,7 +2,6 @@ title: notes.thebookish.de # name of the site
 author: notes.thebookish.de # name of site's author
 url: https://notes.thebookish.de # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-markdown: kramdown
 description: > # description of the site (multiple lines allowed)
   thebookish.de - okuduğum kitaplar
 
@@ -16,7 +15,7 @@ remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "..." # customize text for homepage link in post layout
-  date_format: "%b %y" # customize how date is formatted (%Y-%m-%d - year month day)
+  date_format: "%-m %y" # customize how date is formatted (%Y-%m-%d - year month day)
   show_description: false # show blog description in home page
 
 sass:
