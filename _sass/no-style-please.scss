@@ -111,5 +111,6 @@ a:hover{
 }
 .dotted{
     border-bottom: 1px dotted grey;
-    margin-bottom:2px;
+    display: inline-block;
+    max-width: 100%;
 }
