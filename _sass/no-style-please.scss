@@ -109,3 +109,8 @@ a:hover{
   color: blue;
   text-decoration: underline !important;
 }
+.dotted{
+     border-bottom: 1px dotted grey;
+     display: inline-block;
+     max-width: 100%;
+ }
