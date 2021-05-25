@@ -1,4 +1,4 @@
 ---
 layout: archive
-title: yazılar
+title: tüm yazılar `kitap`
 ---
