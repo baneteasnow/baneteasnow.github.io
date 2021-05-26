@@ -24,3 +24,4 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-last-modified-at
