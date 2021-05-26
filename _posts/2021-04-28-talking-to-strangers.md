@@ -3,7 +3,7 @@ layout: post
 category: book
 last_modified_at: 2021-04-28
 published: true
-title: "Talking To Strangers | Malcolm Gladwell"
+title: "Talking To Strangers | Malcolm Gladwell (Kitap)"
 ---
 
 Malcolm Gladwell, Talking to Strangers isimli kitabında birbirlerini iyi tanımayan insanların etkileşimlerini inceliyor. Ortaya çıkan kimi olumsuz durumları irdeliyor, 'yanlış anlaşılmanın' veya 'karşı tarafı yanlış yorumlamanın' hangi noktada başladığını açıklıyor.
