@@ -19,5 +19,4 @@ Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi\
 Matthew Walker\
 2017\
 344 sayfa\
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep)_</span>\
-{{ page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep)_</span>
