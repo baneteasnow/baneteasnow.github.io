@@ -5,4 +5,4 @@ last_modified_at: 16-05-2021
 ---
 
 Shoe Dog (2016) by Phil Knight\
-![logo](assets/thebookishde-logo-512x512.png)
+<!--![logo](assets/thebookishde-logo-512x512.png)-->
