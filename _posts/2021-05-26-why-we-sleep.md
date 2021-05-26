@@ -16,9 +16,9 @@ Gece gündüz döngüsünde uykunun açılmasını veya uykunun gelmesini sağla
 
 Saat farkı olan bir yere seyahat ettiğimizde niçin jetlag yaşadığımız, rüyalar, öğrenme, öğrendiklerimizin uzun süreli belleğe geçmesi, yaşanan travmalar ve hatıralar ile uykunun ilişkisi, uyumakta neden zorlandığımız, uyku ilaçlarının etkisinin olup olmadığı gibi pek çok konu kitapta işleniyor.
 
-Why We Sleep - Unlocking the Power of Sleep and Dreams\
-Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi\
-Matthew Walker\
-2017\
-344 sayfa\
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep)_</span>
+Why We Sleep - Unlocking the Power of Sleep and Dreams <!-- kitabin adi -->\
+Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi <!-- tr -->\
+Matthew Walker <!-- yazar -->\
+2017 <!-- yıl -->\
+344 sayfa <!-- sayfa sayısı -->\
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep)_</span> <!--goodreads-->
