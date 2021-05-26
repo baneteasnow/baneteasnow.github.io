@@ -18,9 +18,9 @@ Benzer şekilde Campbell'in laboratuvar ortamında kobay farelerle gerçekleşti
 
 Kitap, vegan veya vejetaryen beslenmeyi doğrudan önermemekle birlikte, bitkisel bazlı, az yağlı ve tam tahıllı beslenme tipinin en doğrusu olduğunu vurguluyor. Et ve süt ürünlerinden kaçınmanın önemin altını çizen kitapta beslenmede çeşitlilik ve az ama sık yemek de vurgulanan diğer noktalar.
 
-The China Study: Revised and Expanded Edition: The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet, Weight Loss, and Long-Term Health\
-Çin Mucizesi - Uzun Yaşama, Kilo Verme ve Diyet Hakkında Şaşırtıcı Bilgiler\
-T. Colin Campbell, Thomas M. Campbell (II.)\
-2016\
-493 sayfa\
-<span class="link1">_[goodreads](https://goodreads.com/book/show/178788.The_China_Study){:target="_blank"}_</span>
+The China Study: Revised and Expanded Edition: The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet, Weight Loss, and Long-Term Health <!-- kitabin adi -->\
+Çin Mucizesi - Uzun Yaşama, Kilo Verme ve Diyet Hakkında Şaşırtıcı Bilgiler <!-- tr -->\
+T. Colin Campbell, Thomas M. Campbell (II.) <!-- yazar -->\
+2016 <!-- yıl -->\
+493 sayfa <!-- sayfa sayısı -->\
+<span class="link1">_[goodreads](https://goodreads.com/book/show/178788.The_China_Study){:target="_blank"}_</span> <!-- goodreads -->
