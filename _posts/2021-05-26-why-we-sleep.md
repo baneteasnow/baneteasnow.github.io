@@ -3,7 +3,7 @@ layout: post
 category: book
 last_modified_at: 2021-05-26
 published: true
-title: "Why We Sleep | Matthew Walker"
+title: "Why We Sleep | Matthew Walker (Kitap)"
 ---
 
 Matthew Walker, Why We Sleep isimli kitabında uyku ve uykuya dair pek çok şeyi anlatıyor. Kitap, öncelikle uykunun evrimsel geçmişi ile başlıyor. Uykunun mekaniği mercek altına alınıyor; uykunun evreleri, uykunun nasıl işlediği ve vücuttaki değişimler inceleniyor. Kitap, uykunun önemi kadar, uykusuzluğun yol açtığı fiziksel ve bedensel sorunlara da odaklanıyor.
