@@ -2,6 +2,7 @@
 layout: post
 category: book
 last_modified_at: 2021-04-28
+published: true
 title: "Talking To Strangers | Malcolm Gladwell"
 ---
 
