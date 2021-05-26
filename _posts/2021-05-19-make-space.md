@@ -3,7 +3,7 @@ layout: post
 category: book
 last_modified_at: 2021-05-19
 published: true
-title: "Make Space | Regina Wong"
+title: "Make Space | Regina Wong" (Kitap)
 ---
 
 Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap. Kitabın yazarı Regina Wong'un 'livewellwithless' (önceki adı 'simple and minimal') isminde bir blogu bulunuyor.
