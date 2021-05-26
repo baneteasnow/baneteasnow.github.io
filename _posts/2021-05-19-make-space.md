@@ -2,6 +2,7 @@
 layout: post
 category: book
 last_modified_at: 2021-05-19
+published: true
 title: "Make Space | Regina Wong"
 ---
 
