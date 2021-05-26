@@ -1,6 +1,7 @@
 ---
 layout: post
 category: book
+last_modified_at: 2021-05-05
 title: "The China Study | T. Colin Campbell, Thomas M. Campbell"
 ---
 
