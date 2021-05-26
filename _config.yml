@@ -24,3 +24,11 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+defaults:
+  -
+    values:
+      # the default layout to use if none is specified
+      layout: post
+      # true or false
+      published: true
