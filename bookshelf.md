@@ -1,7 +1,8 @@
 ---
 layout: archive
 which_category: book
-title: '`#` kitaplar' 
+published: true
+title: '# kitaplar' 
 ---
 
-<!--All posts of category 'kitaplar'-->
+<!--All posts of category 'book'-->
