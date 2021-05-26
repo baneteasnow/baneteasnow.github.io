@@ -19,6 +19,7 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
+// fit-content
 html, body { background: white; }
 
 html { height: 100%; }
@@ -45,7 +46,7 @@ li { margin: 0.4rem 0; }
 *:target { background: yellow; }
 
 .w {
-  width: fit-content;
+  width: 100%;
   max-width: 640px;
   margin: 0 auto;
   padding: 4rem 2rem;
