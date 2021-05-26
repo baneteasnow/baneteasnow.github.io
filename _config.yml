@@ -25,7 +25,18 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - module DateFilter
-  MONTHS = %w(Januar Februar März April Mai Juni July August September Oktober November Dezember)
+  MONTHS = %w(Januar 
+              Februar 
+              März 
+              April 
+              Mai 
+              Juni 
+              July 
+              August 
+              September 
+              Oktober 
+              November 
+              Dezember)
 
   def german_long_month(input)
     MONTHS[input.strftime("%m").to_i - 1]
