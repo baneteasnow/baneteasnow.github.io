@@ -3,7 +3,7 @@ layout: post
 category: book
 last_modified_at: 2021-04-21
 published: true
-title: "The Cheese Trap | Neal Barnard"
+title: "The Cheese Trap | Neal Barnard (Kitap)"
 ---
 
 Peynir Tuzağı, yıllardır pek çok kişinin dünyanın en sağlıklı yiyecekleri arasında sayarak tükettiği peyniri ve peynir tüketimini inceliyor. Kitapta peynir yeme alışkanlığının adeta bir bağımlılığa dönüştüğünden bahsediliyor. Kitabın yazarı Neal Barnard, bir tip doktoru ve bitki bazlı diyetin savunucularından. Süt ve sütten yapılmış ürünlerin hepsi içerikleri nedeni ile insan sağlığına sanıldığı kadar yararlı değil aslında. En basitinden bir hayvanın süt salgılaması için öncesinde bir hamilelik geçirmesi gerekli, bunun anlamı da vücuttaki bazı hormon seviyelerinin yükselmesi. Sonuç olarak da, bu hormonlar o hayvandan alınan süte geçiyor. Sütün içeriğinde yüksek seviyede sodyum, kalori ve proteinler var ancak, süt peynire dönüştürüldüğünde, uygulanan işlem nedeni ile sütun içindeki maddeler daha da yoğun hale geliyor ve bu maddeler de peynir tüketimini yokluğunu hissettiren bir bağımlılığa dönüştürüyor. Aşırı süt ve süt ürünü tüketimi ayrıca D vitamini seviyesini olumsuz etkileyebiliyor.
