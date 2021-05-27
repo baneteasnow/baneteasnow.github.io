@@ -1,7 +1,12 @@
 ---
 layout: post
 category: book
-title: "Vejetaryenliğin Yararları | Sadik Hidayet"
+title: "Vejetaryenliğin Yararları | Sadik Hidayet (Kitap)"
+tr: "Vejetaryenliğin Yararları"
+kitap: "Fevayid-i Giyahhari"
+yazar: "Sadik Hidayet"
+yil: "2018"
+sayfa: "73"
 ---
 
 2021-08-04-
@@ -12,9 +17,9 @@ Bu yanılgı tek bir şeyden kaynaklanıyor: İnsan yaşamak için öldürmek zo
 
 İnsanın yaşamı et tüketimine mi bağlı? Gerekli ve yararlı olmadığı halde hayvansal besinler insanın kuvvetini mi arttırıyor? Ya da zararlı mı? Sağlık ve yaşamın karşısında mı? Değerlendirmek gerek. (sayfa 17)
 
-Vejetaryenliğin Yararları\
-Fevayid-i Giyahhari\
-Sadik Hidayet\
-2018\
-73 satfa\
-_[goodreads]()_
+{{ page.tr }}  
+{{ page.kitap }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar){:target="_blank"}_
