@@ -1,7 +1,12 @@
 ---
 layout: post
 category: book
-title: "The Four Agreements | Don Miguel Ruiz"
+title: "The Four Agreements | Don Miguel Ruiz (Kitap)"
+kitap: "The Four Agreements - A Practical Guide to Personal Freedom (A Toltec Wisdom Book)"
+tr: Dört Anlaşma: Toltek Bilgelik Kitabı"
+yazar: "Don Miguel Ruiz"
+yil: "2018"
+sayfa: "160"
 ---
 
 2021-09-22-
@@ -13,9 +18,9 @@ Don Miguel Ruiz'in eski Toltek Bilgelik öğretilerini anlattığı Dört Anlaş
 3. Anlaşma: Varsayımda Bulunma
 4. Anlaşma: Daima Yapabildiğinin
 
-The Four Agreements - A Practical Guide to Personal Freedom (A Toltec Wisdom Book)\
-Dört Anlaşma: Toltek Bilgelik Kitabı\
-Don Miguel Ruiz\
-2018\
-160 sayfa\
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.tr }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/6596.The_Four_Agreements){:target="_blank"}_
