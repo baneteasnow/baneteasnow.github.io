@@ -29,4 +29,4 @@ Kitapta bu işlerin ortaya çıkmasına sebep olan sosyoekonomik mekanizmalar da
 {{ page.tr }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/34466958-bullshit-jobs){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466958-bullshit-jobs){:target="_blank"}_</span>
