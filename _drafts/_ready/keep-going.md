@@ -1,7 +1,12 @@
 ---
 layout: post
 category: book
-title: "Keep Going | Austin Kleon"
+title: "Keep Going | Austin Kleon (Kitap)"
+kitap: "Keep Going: 10 Ways to Stay Creative in Good Times and Bad"
+tr: "Devam Edebilmek - İyi ve Kötü Zamanlarda Yaratıcı Olabilmenin On Yolu"
+yazar: "Austin Kleon"
+yil: "2020"
+sayfa: "224"
 ---
 
 2021-06-16-
@@ -31,9 +36,9 @@ Kitapta yer alan başlıklar şöyle
 9. Zalimler taze havayı sevmezler
 10. Bahçenize yeni bitkiler ekin
 
-Keep Going: 10 Ways to Stay Creative in Good Times and Bad\
-Devam Edebilmek - İyi ve Kötü Zamanlarda Yaratıcı Olabilmenin On Yolu\
-Austin Kleon\
-2020\
-224 sayfa\
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.tr }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/40591677-keep-going){:target="_blank"}_
