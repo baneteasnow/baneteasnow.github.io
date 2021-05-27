@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "101 Things I Learned in Law School | Vibeke Norgaard Martin, Matthew Frederick (Kitap)"
-kitabin adi: "101 Things I Learned in Law School"
+kitap: "101 Things I Learned in Law School"
 yazar: "Vibeke Norgaard Martin, Matthew Frederick"
 yil: "2019"
 sayfa: "226"
@@ -14,7 +14,7 @@ Kitapta vurgulanan noktalardan bir tanesi, duruşmalarda söylenilenler kadar bu
 
 Kitapta, çeşitli davalardan örnekler de yer alıyor. 
 
-{{ page.kitabin_adi }}  
+{{ page.kitap }}  
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
