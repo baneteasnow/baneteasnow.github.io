@@ -2,9 +2,12 @@
 layout: post
 category: book
 title: "Bullshit Jobs - A Theory | David Graeber"
+kitabin adi: "Bullshit Jobs - A Theory - The Rise of Pointless Work, and What We Can Do About It"
+tr: "Tırışka İşler"
+yazar: "David Graeber"
+yil: "2018"
+sayfa: "347"
 ---
-
-2021-06-02-
 
 Bir antropolog olan David Graeber, 2013 Ağustos'ta STRIKE! Magazine'de 'On the Phenomenon of Bullshit Jobs: A Work Rant' ismi ile yayınlanan makalesinde hemen hiç kimsenin çalışmak istemediği, hiçbir değer yaratmayan, hatta belki topluma zararı dokunan 'zırva' işleri (bullshit jobs) anlatır. Bu makalesi büyük ilgi uyandırır ve saatler içinde viral olur. Sonraki birkaç hafta süresince, Graeber makalesinde tanımladığı mesleklere sahip kişilerden yüzlerce mesaj almış olduğunu yazıyor kitabında. Makalesinde bu tür işlere örnek olarak CEO'ları, lobicilik faaliyeti sürdürenleri, telepazarlamacıları, kurumsal iletişim faaliyetlerini sürdürenleri ve yasal danışmanları veriyor. "Bu işlerin pek çoğunluğu aslında yüksek ücretle çalışılan işler ancak bu işleri yapan kişilere bakıldığında onlar da anlamsız, 'aslında yapılmasa da olur' işlerde çalıştıklarının farkındalar ve bu nedenle hemen hepsi çalıştıkları müşterilere çok önemli katkı yapıyormuş havasını, sırf mevcut işlerini korumak adına, vermek zorundalar" diye özetliyor durumu.
 
@@ -22,9 +25,8 @@ Graeber'in bir başka vurguladığı nokta da, bazı durumlarda tirişkadan işl
 
 Kitapta bu işlerin ortaya çıkmasına sebep olan sosyoekonomik mekanizmalar da inceleniyor. Graeber, tüm bu yazdıklarından sonra okuyucunun kendisinden bir çözüm önerisi beklediğinin de farkında, ancak o mevcut durumun adeta bir resmini çekerek bugüne nasıl geldiğimizi anlatmayı tercih etmiş. Kitabın sonunda doğrudan bir çözüm önerisi geliştirme de, kendi yorumunu ortaya koyduğu sayfalarda son yılların tartışmalı konularından bir tanesi olan 'temel vatandaşlık geliri (üniversal basıc income)'nin seçeneklerden bir tanesi olabileceğini belirtiyor.
 
-Bullshit Jobs - A Theory - The Rise of Pointless Work, and What We Can Do About It\
-Tırışka İşler\
-David Graeber\
-2018\
-347 sayfa\
-_[goodreads]()_
+{{ page.kitabin_adi }}  
+{{ page.tr }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/34466958-bullshit-jobs){:target="_blank"}_
