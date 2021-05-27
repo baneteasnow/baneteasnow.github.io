@@ -1,7 +1,11 @@
 ---
 layout: post
 category: book
-title: "Humans Are Underrated | Geoff Colvin"
+title: "Humans Are Underrated | Geoff Colvin (Kitap)"
+kitap: "Humans Are Underrated: What High Achievers Know that Brilliant Machines Never Will"
+yazar: "Geoff Colvin"
+yil: "2015"
+sayfa: "256"
 ---
 
 2021-06-30-
@@ -20,8 +24,8 @@ Teknolojinin pek çok mevcut pozisyonu ortadan kaldıracak olmasına rağmen, so
 
 Colvin, kitabında geleceğe yönelik bu becerileri örnekler eşliğinde anlatıyor.
 
-Humans Are Underrated: What High Achievers Know that Brilliant Machines Never Will\
-Geoff Colvin\
-2015\
-256 sayfa\
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/23398714-humans-are-underrated){:target="_blank"}_
