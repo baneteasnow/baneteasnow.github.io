@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "101 Things I Learned in Film School | Neil Landau, Matthew Frederick (Kitap)"
-kitabin adi: "101 Things I Learned in Film School"
+kitap: "101 Things I Learned in Film School"
 yazar: "Neil Landau, Matthew Frederick"
 yil: "2021"
 sayfa: "218"
@@ -19,7 +19,7 @@ Kitapta vurgulanan diğer bir nokta da, bir şeyi söyleyerek ifade etmektense g
 
 101 Things I Learned in Film School, hem hikaye anlatıcılığı hem de film çekiminin teknik yönü hakkında çeşitli ipuçlarını ünlü filmlerden örneklerle birlikte okuyucuyla paylaşıyor. 
 
-{{ page.kitabin_adi }}  
+{{ page.kitap }}  
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
