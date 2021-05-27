@@ -2,6 +2,11 @@
 layout: post
 category: book
 title: "Ikigai | Héctor García, Francesc Miralles (Kitap)"
+kitap: "Ikigai: The Japanese Secret to a Long and Happy Life"
+tr: "Ikigai - Japonların Uzun ve Mutlu Yaşam Sırrı"
+yazar: "Héctor García, Francesc Miralles"
+yil: "2017"
+sayfa: "176"
 ---
 
 2021-08-25-
@@ -37,11 +42,9 @@ Teşekkürlerinizi şunun.
 Ani yaşayın.
 Ikigainizi takip edin.
 
-Ikigai: The Japanese Secret to a Long and Happy Life\
-Ikigai - Japonların Uzun ve Mutlu Yaşam Sırrı\
-Héctor García, Francesc Miralles\
-2017\
-176 sayfa\
-_[goodreads]()_
-
-
+{{ page.kitap }}
+{{ page.tr }}
+{{ page.yazar }}
+{{ page.yil }}
+{{ page.sayfa }} sayfa
+_[goodreads](https://www.goodreads.com/book/show/57670254-ikigai){:target="_blank"}_
