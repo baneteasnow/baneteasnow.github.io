@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 16-05-2021
+last_modified_at: 27-05-2021
 ---
 
-Shoe Dog (2016) by Phil Knight <span style="color: white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis cursus erat quis tempus. Fusce semper eu eros in tristique.</span>
+The Seed Underground: A Growing Revolution to Save Food (2012) by Janisse Ray <span style="color: white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis cursus erat quis tempus. Fusce semper eu eros in tristique.</span>
