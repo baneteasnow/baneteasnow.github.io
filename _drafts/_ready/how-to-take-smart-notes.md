@@ -1,7 +1,11 @@
 ---
 layout: post
 category: book
-title: "How to Take Smart Notes | Sönke Ahrens"
+title: "How to Take Smart Notes | Sönke Ahrens (Kitap)"
+kitap: "How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers"
+yazar: "Sönke Ahrens"
+yil: "2017"
+sayfa: "178"
 ---
 
 2021-07-28-
@@ -22,8 +26,8 @@ Ahrens, kitabında anlattığı 'akıllı' not tutma sistemini, Alman sosyolog N
 
 Ahrens, yazmanın boş bir sayfa açmaktan çok önce başlayan ve sürekli devam eden bir süreç olduğundan bahsediyor. Birbirinden çok farklıymış ve ayrı işliyormuş gibi görünen aktiviteler aslında yazma sürecinin bir parçası ve bu aktiviteler birbiri ile bağlantılı. Okumak, okuduğunu anlamak, fikir üretmek, bağlantı kurmak, şekillendirmek, organize etmek, düzenlemek, hataları gidermek için tekrar yazmak bu sürecin adımlarından sadece birkaç tanesi. Bu kadar karmaşık bir süreçte, anlamak için okumak ve gerçekten kullanılabilir, yeni metinlere dönüştürülebilir 'akıllı' notlar almak oldukça kritik. Kitapta vurgulanan diğer bir nokta da, bu not sisteminin asla bir kerelik bir çabadan ibaret olmadığı ve zaman içinde mutlaka bir alışkanlığa dönüştürülmesi gerektiği.
 
-How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers\
-Sönke Ahrens\
-2017\
-178 sayfa\
-_[goodreads]()_
+{{ page.kitap }}
+{{ page.yazar }}
+{{ page.yil }}
+{{ page.sayfa }} sayfa
+_[goodreads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes){:target="_blank"}_
