@@ -4,4 +4,4 @@ category: book
 title: "Why Vegan? | Peter Singer"
 ---
 
-_[goodreads]()_
+_[goodreads](){:target="_blank"}_
