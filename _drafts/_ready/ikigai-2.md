@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Ikigai | Héctor García, Francesc Miralles"
+title: "Ikigai | Héctor García, Francesc Miralles (Kitap)"
 ---
 
 2021-08-25-
