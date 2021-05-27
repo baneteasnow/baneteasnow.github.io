@@ -11,4 +11,4 @@ entries:
       show_more: true
       show_more_text:  ... tüm yazılar # See archive...
       show_more_url: archive.html
-   - <span style="color: white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis cursus erat quis tempus. Fusce semper eu eros in tristique.</span>
+      <span style="color: white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis cursus erat quis tempus. Fusce semper eu eros in tristique.</span>
