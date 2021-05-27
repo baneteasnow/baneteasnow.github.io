@@ -1,7 +1,11 @@
 ---
 layout: post
 category: book
-title: "How to Make Sense of Any Mess | Abby Covert"
+title: "How to Make Sense of Any Mess | Abby Covert (Kitap)"
+kitap: "How To Make Sense Of Any Mess: Information Architecture for Everybody"
+yazar: "Abby Covert"
+yil: "2014"
+sayfa: "176"
 ---
 
 2021-07-14-
@@ -26,8 +30,8 @@ Dünyanın düzeni, adeta sonsuz seçenekten oluşmaktadır. Ancak, gerçekte, h
 
 Kitap başlangıç seviyesinde olsa da, bu kavramı her gün kullananlar için farklı bir bakış açısı vermeyi de başarıyor. Ancak, kullanılan örnekler, yer yer tek tip hale gelmiş.
 
-How To Make Sense Of Any Mess: Information Architecture for Everybody/
-Abby Covert\
-2014\
-176 sayfa\
-_[goodreads]()_
+{{ page.kitap }}
+{{ page.yazar }}
+{{ page.yil }}
+{{ page.sayfa }} sayfa
+_[goodreads](https://www.goodreads.com/book/show/23557020-how-to-make-sense-of-any-mess){:target="_blank"}_
