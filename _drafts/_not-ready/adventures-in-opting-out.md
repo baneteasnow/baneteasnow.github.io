@@ -1,7 +1,17 @@
 ---
 layout: post
 category: book
-title: "Adventures in Opting Out | Cait Flanders"
+title: "Adventures in Opting Out | Cait Flanders (Kitap)"
+kitap: "Adventures in Opting Out: A Field Guide to Leading an Intentional Life"
+yazar: "Cait Flanders"
+yil: "2020"
+sayfa: "273"
 ---
 
-_[goodreads]()_
+
+
+{{ page.kitap }}
+{{ page.yazar }}
+{{ page.yil }}
+{{ page.sayfa }} sayfa
+_[goodreads](https://www.goodreads.com/book/show/50710787-adventures-in-opting-out){:target="_blank"}_
