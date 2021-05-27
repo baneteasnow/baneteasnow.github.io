@@ -19,8 +19,8 @@ Kitapta vurgulanan diğer bir nokta da, bir şeyi söyleyerek ifade etmektense g
 
 101 Things I Learned in Film School, hem hikaye anlatıcılığı hem de film çekiminin teknik yönü hakkında çeşitli ipuçlarını ünlü filmlerden örneklerle birlikte okuyucuyla paylaşıyor. 
 
-{{ page.kitabin_adi }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
+{{ page.kitabin_adi }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
 _[goodreads](https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school){:target="_blank"}_
