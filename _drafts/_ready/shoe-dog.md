@@ -1,13 +1,12 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-05-27
-kitabin_adi: "Shoe Dog: A Memoir by the Creator of Nike"
+title: "Shoe Dog: A Memoir by the Creator of Nike | Phil Knight (Kitap)"
+kitap: "Shoe Dog: A Memoir by the Creator of Nike (Kitap)"
 tr: "Ayakkabı Gurusu"
 yazar: "Phil Knight"
 yil: "2016"
 sayfa: "351"
-title: "Shoe Dog: A Memoir by the Creator of Nike | Phil Knight (Kitap)"
 ---
 
 Phil 'Buck' Knight, Shoe Dog isimli kitabında dünyanın en ünlü markalarından biri olan Nike'ın kuruluş hikayesini ve varolma mücadelesini anlatıyor. Knight, Blue Ribbon Sports (1964) isimli şirketini 20'li yaşlarının henüz başında üniversiteden yeni mezun olduğu dönemde kurmuş. Ayakkabıya odaklanmasının en büyük nedeni bir koşucu olması ve bu nedenle spor ayakkabılara duyduğu büyük tutkusu. Hiçbir zaman çok parlak bir koşucu olmasa da, Knight, kitabında hayatının en büyük kararlarını çıktığı uzun koşulardan sonra aldığını aktarıyor.
@@ -23,4 +22,4 @@ Kitap, 1962 yılından başlayarak 1980 yılında Nike'ın halka arz edilmesine 
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-*[goodreads](https://www.goodreads.com/book/show/27220736-shoe-dog)*
+_[goodreads](https://www.goodreads.com/book/show/27220736-shoe-dog){:target="_blank"}_
