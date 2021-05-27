@@ -1,7 +1,12 @@
 ---
 layout: post
 category: book
-title: "Silent Spring | Rachel Carson"
+title: "Silent Spring | Rachel Carson (Kitap)"
+kitap: "Silent Spring - The Classic That Launched The Environmental Movement"
+tr: "Sessiz Bahar"
+yazar: "Rachel Carson"
+yil: "2020"
+sayfa: "368"
 ---
 
 2021-08-18-
@@ -14,9 +19,9 @@ Havadan yapılan ilaçlamalar, bahçe bitkilerinin ve kuşların ölümüne yol 
 
 Carson, kitabında doğrudan kimyasal tarım ilaçlarının yasaklanmasını önermiyor. Onun dikkati çektiği nokta, bu ilaçların ölçüsüz ve kontrolsüz kullanılması. Hedef alınan 'zararlı' canlıların bir süre sonra ilaçlar etki göstermediği için popülasyonlarının giderek artacağının ve kim bilir daha ne gibi istenmeyen sonuçlara yol açılacağının altını çiziyor. Bu tür zararlılar ile mücadele için Carson'un önerdiği yöntem ise, biyotik bir yaklaşım sağlanması.
 
-Silent Spring - The Classic That Launched The Environmental Movement\
-Sessiz Bahar\
-Rachel Carson\
-2002\
-368 sayfa\
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.tr }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/27333.Silent_Spring){:target="_blank"}_
