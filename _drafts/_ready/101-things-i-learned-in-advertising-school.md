@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "101 Things I Learned in Advertising School | Tracy Arrington & Matthew Frederick (Kitap)"
-kitabin adi: "101 Things I Learned in Advertising School"
+kitap: "101 Things I Learned in Advertising School"
 yazar: "Tracy Arrington, Matthew Frederick"
 yil: "2018"
 sayfa: "212"
@@ -19,7 +19,7 @@ Reklamlarla ilgili kısa ipuçları ileten kitapta, ayrıca iyi bir reklamda bul
 "Reklamlar, söz konusu ürünleri pozitif içerikle sattırır."
 "İnsanlar söylediklerinizi ya da yaptıklarınızı unutur, ama onlara neler hissettirdiğinizi asla unutmaz. - *Maya Angelou*"
 
-{{ page.kitabin_adi }}  
+{{ page.kitap }}  
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
