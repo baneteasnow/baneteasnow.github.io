@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Digital Minimalism | Cal Newport"
+title: "Digital Minimalism | Cal Newport (Kitap)"
 kitap: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
 tr: "Dijital Minimalizm - Ekran Bağımlılığı ve Teknoloji Yorgunluğu Sarmalından Kurtulmak İçin Bir Yol Haritası"
 yazar: "Cal Newport"
