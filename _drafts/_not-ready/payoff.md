@@ -1,8 +1,16 @@
 ---
 layout: post
 category: book
-title: "Payoff | Dan Ariely"
+title: "Payoff | Dan Ariely (Kitap)"
+kitap: "Payoff"
+yazar: "Dan Ariely"
+yil: "2016"
+sayfa: "128"
 ---
 
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/29430779-payoff)_
 
