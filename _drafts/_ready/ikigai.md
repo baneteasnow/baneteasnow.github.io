@@ -1,7 +1,12 @@
 ---
 layout: post
 category: book
-title: "Ikigai | Ken Mogi"
+title: "Ikigai | Ken Mogi (Kitap)"
+kitap: "The Little Book of Ikigai - The Japanese Guide to Finding Your Purpose in Life"
+tr: "Ikigai - Sabah Yataktan Kalkmak İçin Sebebiniz Olmalı"
+yazar: "Ken Mori"
+yil: "2018"
+sayfa: "152"
 ---
 
 2021-06-09-
@@ -22,9 +27,9 @@ Ikigai, 'sabah yataktan kalkma sebebi' olarak ifade edilebilir. Yaşamaya sizi s
 
 Kitap, adım adım Ikigai'yi inceliyor ve kendi Ikigaisini bulmuş kişilerin hayatlarından kesitler paylaşıyor.
 
-The Little Book of Ikigai - The Japanese Guide to Finding Your Purpose in Life\
-Ikigai - Sabah Yataktan Kalkmak İçin Sebebiniz Olmalı\
-Ken Mogi\
-2018\
-152 sayfa\
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.tr }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai){:target="_blank"}_
