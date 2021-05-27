@@ -18,8 +18,6 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted (%b %y - year month day)
   show_description: false # show blog description in home page
 
-future: false
-
 sass:
   style: :compressed
 
