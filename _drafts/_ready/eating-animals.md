@@ -2,6 +2,10 @@
 layout: post
 category: book
 title: "Eating Animals | Jonathan Safran Foer"
+kitabin_adi: "Eating Animals - Should We Stop?"
+tr: "Hayvan Yemek"
+yil: "2010"
+sayfa: "352"
 ---
 
 2021-06-23-
@@ -22,9 +26,9 @@ Yazar, kitabı için araştırma yaparken hayvan çiftliklerini de ziyaret ediyo
 
 Sağlık için tüketilmesi önerilen hayvansal ürünlerin aslında yarardan çok zarar verip vermediği sorgulanması gereken bir nokta. Kitap, bu sorgulaya ışık tuttuğu gibi alternatif bir beslenmenin mümkün olduğunu üstelik bu beslenme tarzının hem etik bir yönü bulunduğunu hem de çevreye daha az zarar verdiğini okuyucuya anlatıyor.
 
-Eating Animals - Should We Stop?\
-Hayvan Yemek\
-Jonathan Safran Foer\
-2010\
-352 sayfa
+
+{{ page.kitabin_adi }}  
+{{ page.tr }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
 _[goodreads]()_
