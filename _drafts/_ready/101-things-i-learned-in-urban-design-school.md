@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "101 Things I Learned in Urban Design School | Matthew Frederick, Vikas Mehta" (Kitap)
+title: "101 Things I Learned in Urban Design School | Matthew Frederick, Vikas Mehta (Kitap)"
 kitap: "101 Things I Learned in Urban Design School"
 yazar: "Matthew Frederick, Vikas Mehta"
 yil: "2020"
