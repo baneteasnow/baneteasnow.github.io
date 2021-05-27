@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Eating Animals | Jonathan Safran Foer"
+title: "Eating Animals | Jonathan Safran Foer (Kitap)"
 kitap: "Eating Animals - Should We Stop?"
 yazar: "Jonathan Safran Foer"
 tr: "Hayvan Yemek"
