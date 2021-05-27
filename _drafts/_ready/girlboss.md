@@ -1,7 +1,11 @@
 ---
 layout: post
 category: book
-title: "#\ Girlboss | Sophia Amoruso"
+title: "#\ Girlboss | Sophia Amoruso (Kitap)"
+kitap: "#\ Girlboss"
+yazar: "Sophia Amoruso"
+yil: "2015"
+sayfa: "256"
 ---
 
 2021-09-08-
@@ -12,8 +16,8 @@ Bu kitabın yayınlanmasından sonra, 'Girlboss' kelimesi iş dünyasında güç
 
 Kitabın öncelikli olarak verdiği mesaj, başarının risk almadan gelmeyeceği, hata yapmaktan korkmamak ve çok çalışmaktan kaçınmamak gerektiği. Bir kişi, kendi güçlü ve zayıf yönlerini ne kadar iyi bilirse, o derecede kendisine güvenir ve başarılı olur. Sophia Amoruso, online girişimcilik ile ilgili deneyimlerini kendi iş fikrini hayata geçirmek isteyenler için bu kitapta paylaşıyor.
 
-#\ Girlboss\
-Sophia Amoruso\
-2015\
-256\
-_[goodreads]()_
+{{ page.kitap }}
+{{ page.yazar }}
+{{ page.yil }}
+{{ page.sayfa }} sayfa
+_[goodreads](https://www.goodreads.com/book/show/18667945-girlboss){:target="_blank"}_
