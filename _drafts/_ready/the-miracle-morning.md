@@ -1,7 +1,12 @@
 ---
 layour: post
 category: book
-title: "The Miracle Morning | Hal Elrod"
+title: "The Miracle Morning | Hal Elrod (Kitap)"
+kitap: "The Miracle Morning - The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)"
+tr: "Sabah Mucizesi - 08.00’den Önce Hayatınızı Değiştirme Garantili 6 Dakika"
+yazar: "Hal Elrod"
+yil: "2012"
+sayfa: "180"
 ---
 
 2021-09-01-
@@ -20,9 +25,9 @@ Hal Elrod, haftada 7 gün sabah saat 5'te uyanmayı ve sonraki bir saati kişise
 
 Sabah mucizesinin esas amacı bir amaçla uyanmak, seçilen aktivitelerle proaktif davranarak kişinin hem kendi iç hem de dış dünyasını geliştirmesini sağlamak.
 
-The Miracle Morning - The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)\
-Sabah Mucizesi - 08.00’den Önce Hayatınızı Değiştirme Garantili 6 Dakika\
-Hal Elrod\
-2012\
-180\
-_[goodreads]()_
+{{ page.kitap }}
+{{ page.tr }}
+{{ page.yazar }}
+{{ page.yil }}
+{{ page.sayfa }} sayfa
+_[goodreads](https://www.goodreads.com/book/show/17166225-the-miracle-morning){:target="_blank"}_
