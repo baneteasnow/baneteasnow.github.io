@@ -1,7 +1,11 @@
 ---
 layout: post
 category: book
-title: "Show Your Work! | Austin Kleon"
+title: "Show Your Work! | Austin Kleon (Kitap)"
+kitap: "Show Your Work! : 10 Ways to Share Your Creativity and Get Discovered"
+yazar: "Austin Kleon"
+yil: "2014"
+sayfa: "116"
 ---
 
 2021-08-11-
@@ -31,8 +35,8 @@ Kitaptaki başlıklar şöyle:
 9. Satış yapın
 10. Israrcı olun
 
-Show Your Work! : 10 Ways to Share Your Creativity and Get Discovered\
-Austin Kleon\
-2014\
-116 sayfa\
-_[goodreads}()_
+{{ page.kitap }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads}(https://www.goodreads.com/book/show/18290401-show-your-work){:target="_blank"}_
