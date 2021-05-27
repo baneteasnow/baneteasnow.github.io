@@ -11,4 +11,4 @@ permalink: /text
 
 {{ page.tldr }} 
 
-<!-- https://seankilleen.com/2019/10/better-technical-interviews-part-5-common-questions/ -->
+<!-- https://seankilleen.com/2020/02/how-to-deploy-github-pages-on-a-schedule-to-publish-future-posts/ -->
