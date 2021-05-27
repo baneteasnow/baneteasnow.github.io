@@ -1,7 +1,17 @@
 ---
 layout: post
 category: book
-title: "Adventures in Human Being | Gavin Francis"
+title: "Adventures in Human Being | Gavin Francis (Kitap)"
+kitap: "Adventures in Human Being: A Grand Tour from the Cranium to the Calcaneum"
+tr: "İnsan Vücuduna Seyahat: Tepeden Tırnağa Bir Büyük Macera"
+yazar: "Gavin Francis"
+yil: "2015"
+sayfa: "266"
 ---
 
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.tr }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/25246544-adventures-in-human-being){:target="_blank"}_
