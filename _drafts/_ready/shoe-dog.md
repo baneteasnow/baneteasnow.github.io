@@ -2,11 +2,10 @@
 layout: post
 category: book
 last_modified_at: 2021-05-27
-published: 2021-05-30
-kitabin_adi: Shoe Dog: A Memoir by the Creator of Nike
-tr: Ayakkabı Gurusu
-yil: 2016
-sayfa: 351
+kitabin_adi: "Shoe Dog: A Memoir by the Creator of Nike"
+tr: "Ayakkabı Gurusu"
+yil: "2016"
+sayfa: "351"
 title: "Shoe Dog: A Memoir by the Creator of Nike (Kitap)"
 ---
 
