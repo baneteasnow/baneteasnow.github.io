@@ -2,6 +2,11 @@
 layout: post
 category: book
 title: "Digital Minimalism | Cal Newport"
+kitap: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
+tr: "Dijital Minimalizm - Ekran Bağımlılığı ve Teknoloji Yorgunluğu Sarmalından Kurtulmak İçin Bir Yol Haritası"
+yazar: "Cal Newport"
+yil: "2019"
+sayfa: "240"
 ---
 
 2021-07-07-
@@ -28,10 +33,10 @@ Cal Newport, Dijital Minimalizmin 3 temel unsurunu şöyle sıralıyor:
 
 Cal Newport, bu kitabında hem dijital minimalizme geçiş sürecine dair önerilerini aktarıyor hem de ekran bağımlılığından kaçınarak teknolojinin olumsuz etkilerinden korunmaya dair ilkeleri paylaşıyor.
 
-Digital Minimalism: Choosing a Focused Life in a Noisy World\
-Dijital Minimalizm - Ekran Bağımlılığı ve Teknoloji Yorgunluğu Sarmalından Kurtulmak İçin Bir Yol Haritası\
-Cal Newport\
-2019\
-240 sayfa\
-_[goodreads]()_
+{{ page.kitap }}  
+{{ page.tr }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+_[goodreads](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"}_
 
