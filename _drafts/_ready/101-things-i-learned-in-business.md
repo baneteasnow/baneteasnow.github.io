@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "101 Things I Learned in Business School | Michael W. Preis, Matthew Frederick"
-kitabin adi: "101 Things I Learned in Business School"
+kitap: "101 Things I Learned in Business School"
 yazar: "Michael W. Preis, Matthew Frederick"
 yil: "2021"
 sayfa: "214"
@@ -23,7 +23,7 @@ Sunum yaparken görseller kullanılmasının gerçek nedeni merak uyandırarak s
 
 101 Things I Learned in Business School, okuyucuya yönetim bilimi kavramlarından bazılarını giriş seviyesinde özetleyen pratik bir kaynak kitap.
 
-{{ page.kitabin_adi }}  
+{{ page.kitap }}  
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
