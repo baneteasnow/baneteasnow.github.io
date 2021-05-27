@@ -10,3 +10,5 @@ permalink: /text
 ---
 
 {{ page.tldr }} 
+
+<!-- https://seankilleen.com/2019/10/better-technical-interviews-part-5-common-questions/ -->
