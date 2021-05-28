@@ -30,4 +30,4 @@ Sabah mucizesinin esas amacı bir amaçla uyanmak, seçilen aktivitelerle proakt
 {{ page.yazar }}
 {{ page.yil }}
 {{ page.sayfa }} sayfa
-_[goodreads](https://www.goodreads.com/book/show/17166225-the-miracle-morning){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/17166225-the-miracle-morning){:target="_blank"}_</span>
