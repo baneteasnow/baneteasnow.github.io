@@ -11,9 +11,9 @@ sayfa: "293"
 
 
 
-{{ page.kitap }}
-{{ page.tr }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
-_[goodreads](https://www.goodreads.com/book/show/15751404-david-and-goliath){:target="_blank"}_
+{{ page.kitap }}  
+{{ page.tr }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/15751404-david-and-goliath){:target="_blank"}_</span>
