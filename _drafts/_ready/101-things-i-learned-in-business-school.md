@@ -27,4 +27,4 @@ Sunum yaparken görseller kullanılmasının gerçek nedeni merak uyandırarak s
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/7767560-101-things-i-learned-in-business-school){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/7767560-101-things-i-learned-in-business-school){:target="_blank"}_</span>
