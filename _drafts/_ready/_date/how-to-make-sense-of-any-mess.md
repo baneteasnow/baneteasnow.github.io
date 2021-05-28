@@ -3,6 +3,7 @@ layout: post
 category: book
 title: "How to Make Sense of Any Mess | Abby Covert (Kitap)"
 kitap: "How To Make Sense Of Any Mess: Information Architecture for Everybody"
+tr: "-"
 yazar: "Abby Covert"
 yil: "2014"
 sayfa: "176"
