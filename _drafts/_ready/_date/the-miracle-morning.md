@@ -7,6 +7,7 @@ tr: "Sabah Mucizesi - 08.00’den Önce Hayatınızı Değiştirme Garantili 6 D
 yazar: "Hal Elrod"
 yil: "2012"
 sayfa: "180"
+goodreads: "https://www.goodreads.com/book/show/17166225-the-miracle-morning"
 ---
 
 2021-09-01-
@@ -24,10 +25,3 @@ Hedef başarı seviyesini '10.seviye (Level 10)' olarak isimlendiriyor. Yaratıc
 Hal Elrod, haftada 7 gün sabah saat 5'te uyanmayı ve sonraki bir saati kişisel gelişimi hedefleyen farklı aktivitelerle geçirmeyi öneriyor. Bu aktiviteler arasında, kısa bir egzersiz, günlük yazma, hedefleri görselleştirme, olumlama, meditasyon ve kitap okumak yer alıyor. (SAVERS - Silence/Meditation, Affırmation, Visualizations, Exercise, Reading, Scribing)
 
 Sabah mucizesinin esas amacı bir amaçla uyanmak, seçilen aktivitelerle proaktif davranarak kişinin hem kendi iç hem de dış dünyasını geliştirmesini sağlamak.
-
-{{ page.kitap }}
-{{ page.tr }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/17166225-the-miracle-morning){:target="_blank"}_</span>
