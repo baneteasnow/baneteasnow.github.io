@@ -22,4 +22,4 @@ Bu yanılgı tek bir şeyden kaynaklanıyor: İnsan yaşamak için öldürmek zo
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar){:target="_blank"}_</span>
