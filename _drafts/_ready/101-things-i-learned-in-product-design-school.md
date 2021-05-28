@@ -24,4 +24,4 @@ Yaratıcılık doğrusal değildir.
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/49188385-101-things-i-learned-in-product-design-school){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/49188385-101-things-i-learned-in-product-design-school){:target="_blank"}_</span>
