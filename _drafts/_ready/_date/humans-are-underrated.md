@@ -3,6 +3,7 @@ layout: post
 category: book
 title: "Humans Are Underrated | Geoff Colvin (Kitap)"
 kitap: "Humans Are Underrated: What High Achievers Know that Brilliant Machines Never Will"
+tr: "-"
 yazar: "Geoff Colvin"
 yil: "2015"
 sayfa: "256"
