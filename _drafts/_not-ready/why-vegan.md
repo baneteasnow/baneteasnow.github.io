@@ -14,4 +14,4 @@ sayfa: "87"
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/54922430-why-vegan){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/54922430-why-vegan){:target="_blank"}_</span>
