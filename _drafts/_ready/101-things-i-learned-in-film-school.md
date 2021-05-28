@@ -23,4 +23,4 @@ Kitapta vurgulanan diğer bir nokta da, bir şeyi söyleyerek ifade etmektense g
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school){:target="_blank"}_</span>
