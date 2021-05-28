@@ -7,6 +7,7 @@ tr: "Dijital Minimalizm - Ekran Bağımlılığı ve Teknoloji Yorgunluğu Sarma
 yazar: "Cal Newport"
 yil: "2019"
 sayfa: "240"
+goodreads: "https://www.goodreads.com/book/show/40672036-digital-minimalism"
 ---
 
 2021-07-07-
@@ -32,11 +33,3 @@ Cal Newport, Dijital Minimalizmin 3 temel unsurunu şöyle sıralıyor:
 3. Niyet tatmin yaratır. Dijital minimalistler, yeni bir teknolojiyi hayatlarına kabul ederken bu teknolojinin kendileri için gerçekte neye hizmet ettiğini sorgularlar.
 
 Cal Newport, bu kitabında hem dijital minimalizme geçiş sürecine dair önerilerini aktarıyor hem de ekran bağımlılığından kaçınarak teknolojinin olumsuz etkilerinden korunmaya dair ilkeleri paylaşıyor.
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"}_</span>
-
