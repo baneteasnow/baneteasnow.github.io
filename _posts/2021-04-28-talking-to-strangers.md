@@ -5,11 +5,13 @@ last_modified_at: 2021-04-28
 published: true
 title: "Talking To Strangers | Malcolm Gladwell (Kitap)"
 kitap: "Talking To Strangers - What We Should Know about the People We Don't Know"
-tr: "Ötekiyle Konuşmak"
+tr: 
 yazar: "Malcolm Gladwell"
 yil: "2019" 
 sayfa: "400"
 ---
+
+"Ötekiyle Konuşmak"
 
 Malcolm Gladwell, Talking to Strangers isimli kitabında birbirlerini iyi tanımayan insanların etkileşimlerini inceliyor. Ortaya çıkan kimi olumsuz durumları irdeliyor, 'yanlış anlaşılmanın' veya 'karşı tarafı yanlış yorumlamanın' hangi noktada başladığını açıklıyor.
 
@@ -27,7 +29,7 @@ Gladwell, ikinci öğe olarak 'şeffaflık yanılgısını' (The illusion of Tra
 
 Kitap, birbirlerini iyi tanımayan iki kişinin ya da birbirlerine yabancı olanların birbirleri ile olan ilişkilerinin yanlış gitmeye ne kadar müsait olduğunu anlatıyor, yanılgı ve yanlış anlaşılmalar sonucunda meydana gelen olumsuz durumları örneklerle açıklıyor.
 
-{{ page.kitp }}  
+{{ page.kitap }}  
 {{ page.tr }}  
 {{ page.yazar }}  
 {{ page.yil }}  
