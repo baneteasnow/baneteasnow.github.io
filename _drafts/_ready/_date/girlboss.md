@@ -20,4 +20,4 @@ Kitabın öncelikli olarak verdiği mesaj, başarının risk almadan gelmeyeceğ
 {{ page.yazar }}
 {{ page.yil }}
 {{ page.sayfa }} sayfa
-_[goodreads](https://www.goodreads.com/book/show/18667945-girlboss){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/18667945-girlboss){:target="_blank"}_</span>
