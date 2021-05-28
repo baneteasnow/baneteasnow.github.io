@@ -18,4 +18,4 @@ Kitapta, çeşitli davalardan örnekler de yer alıyor.
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/15791130-101-things-i-learned-in-law-school){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/15791130-101-things-i-learned-in-law-school){:target="_blank"}_</span>
