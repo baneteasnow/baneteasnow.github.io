@@ -32,4 +32,4 @@ Sağlık için tüketilmesi önerilen hayvansal ürünlerin aslında yarardan ç
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/6604712-eating-animals){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/6604712-eating-animals){:target="_blank"}_</span>
