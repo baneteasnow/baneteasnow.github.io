@@ -38,5 +38,5 @@ Cal Newport, bu kitabında hem dijital minimalizme geçiş sürecine dair öneri
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/40672036-digital-minimalism){:target="_blank"}_</span>
 
