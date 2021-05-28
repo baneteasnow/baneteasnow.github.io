@@ -3,6 +3,7 @@ layout: post
 category: book
 title: "#\ Girlboss | Sophia Amoruso (Kitap)"
 kitap: "#\ Girlboss"
+tr: "-"
 yazar: "Sophia Amoruso"
 yil: "2015"
 sayfa: "256"
