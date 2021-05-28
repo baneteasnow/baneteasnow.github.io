@@ -7,13 +7,7 @@ tr: "Tabağındaki Yüz: Gıda Hakkındaki Gerçekler"
 yazar: "Jeffrey Moussaieff Masson"
 yil: "2010"
 sayfa: "288"
+goodreads: "https://www.goodreads.com/book/show/5289150-the-face-on-your-plate"
 ---
 
 
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/5289150-the-face-on-your-plate){:target="_blank"}_</span>
