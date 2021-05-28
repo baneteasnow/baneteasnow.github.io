@@ -30,4 +30,4 @@ Ahrens, yazmanın boş bir sayfa açmaktan çok önce başlayan ve sürekli deva
 {{ page.yazar }}
 {{ page.yil }}
 {{ page.sayfa }} sayfa
-_[goodreads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes){:target="_blank"}_</span>
