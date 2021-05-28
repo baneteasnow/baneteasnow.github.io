@@ -7,6 +7,7 @@ tr: "Artık Biliyorum"
 yazar: "Oprah Winfrey"
 yil: "2014"
 sayfa: "240 sayfa"
+goodreads: "https://www.goodreads.com/book/show/21531503-what-i-know-for-sure"
 ---
 
 2021-09-15-
@@ -14,10 +15,3 @@ sayfa: "240 sayfa"
 What I Know For Süre, Oprah Winfrey'in kendi dergisi O (The Oprah Magazine)'da aynı isimle yayınlanan köşesinde yer alan yazıların bir derlemesinden oluşuyor. Köşesinin adı, film eleştirmeni Gene Siskel'in 1998 yılında kendisi ile yaptığı bir röportajda yönelttiği şu sorudan geliyor: 'Tam olarak bildiğinize emin olduğunuz ne var?'
 
 Yazılar, 'Mutluluk', 'Esneklik', 'Yakınlık', 'Minnet', 'Olasılık', 'Hayranlık', 'Net Olmak' ve 'Güç' başlıklı bölümler altında toplanmış. Oprah Winfrey, yazılarında kendi hayatından kesitleri ve hayat deneyimlerini paylaştığı gibi pek çok ünlü isimle olan anılarını da anlatıyor. The Oprah Show'un en popüler dönemlerinden bahsettiği gibi çocukluğunda yaşadığı travmaları ve kendisine her zaman destek olan arkadaşları ile olan ilişkilerini de aktarıyor. Dünyanın en güçlü kadınları arasında ilk sırada yer alan Winfrey'in, kendi korkularını, kaygılarını ve hayallerini okumak oldukça ilham verici. Kitabın ana mesajı, bir insanın mutluluğu, sevgiyi, cesareti ve fırsatları kendi hayatına getirmesinin ancak kendisinin sorumluluk alması ile mümkün olduğu.
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/21531503-what-i-know-for-sure){:target="_blank"}_</span>
