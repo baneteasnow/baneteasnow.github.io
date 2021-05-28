@@ -4,6 +4,12 @@ category: book
 last_modified_at: 2021-05-19
 published: true
 title: "Make Space | Regina Wong (Kitap)"
+kitap: "Make Space: A Minimalist's Guide to the Good and the Extraordinary"
+tr: "Hayata Yer Aç - Bir Sadeleşme Rehberi"
+yazar: "Regina Wong"
+yil: "2018"
+sayfa: "154"
+goodreads: "https://www.goodreads.com/book/show/31213421-make-space"
 ---
 
 Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap. Kitabın yazarı Regina Wong'un 'livewellwithless' (önceki adı 'simple and minimal') isminde bir blogu bulunuyor.
@@ -21,10 +27,3 @@ ABD'de son 50 yılda evlerin yüz ölçümü iki katına çıkmış (ortalama 21
 Minimalizme giden yolda fiziksel eşyalar, sosyal medya, bilgisayar, email gibi kategorilerde düzene ulaşmanın yanı sıra, kurulan bu düzenin korunması ve sürdürülmesi de bir o kadar önemli. Fazlalıklar kaygı yarattığı gibi, geride kalma korkusu da ayrı bir baskı yaratıyor. Bu noktada önemli olan doğru ve gerçekçi hedefler koyabilmek.
 
 Minimalizm algısı oldukça kişisel ve sürekli gelişmeyi gerektiriyor. Önce bir alışkanlığa sonra da hayatın her alanına yayılan bir hayat felsefesine dönüşüyor, beraberinde de aslında hayata odaklanmayı getiriyor.
-
-Make Space - A Minimalist's Guide to the Good and the Extraordinary <!-- kitabin adi -->\
-Hayata Yer Aç - Bir Sadeleşme Rehberi <!-- tr -->\
-Regina Wong <!-- yazar -->\
-2018 <!-- yıl -->\
-154 sayfa <!-- sayfa sayısı -->\
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/31213421-make-space){:target="_blank"}_</span> <!-- goodreads -->
