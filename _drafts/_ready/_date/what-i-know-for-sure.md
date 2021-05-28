@@ -20,4 +20,4 @@ Yazılar, 'Mutluluk', 'Esneklik', 'Yakınlık', 'Minnet', 'Olasılık', 'Hayranl
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/21531503-what-i-know-for-sure){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/21531503-what-i-know-for-sure){:target="_blank"}_</span>
