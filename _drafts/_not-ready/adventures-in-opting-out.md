@@ -10,8 +10,8 @@ sayfa: "273"
 
 
 
-{{ page.kitap }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
-_[goodreads](https://www.goodreads.com/book/show/50710787-adventures-in-opting-out){:target="_blank"}_
+{{ page.kitap }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/50710787-adventures-in-opting-out){:target="_blank"}_</span>
