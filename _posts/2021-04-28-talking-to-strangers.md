@@ -9,7 +9,7 @@ tr: "Ötekiyle Konuşmak"
 yazar: "Malcolm Gladwell"
 yil: "2019" 
 sayfa: "400"
-xxx: "https://www.thebookish.de/"
+xxx: "https://www.goodreads.com/book/show/43848929-talking-to-strangers"
 ---
 
 Malcolm Gladwell, Talking to Strangers isimli kitabında birbirlerini iyi tanımayan insanların etkileşimlerini inceliyor. Ortaya çıkan kimi olumsuz durumları irdeliyor, 'yanlış anlaşılmanın' veya 'karşı tarafı yanlış yorumlamanın' hangi noktada başladığını açıklıyor.
