@@ -9,6 +9,7 @@ tr: "Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi"
 yazar: "Matthew Walker"
 yil: "2017"
 sayfa: "344"
+goodreads: "https://www.goodreads.com/book/show/34466963-why-we-sleep"
 ---
 
 Matthew Walker, Why We Sleep isimli kitabında uyku ve uykuya dair pek çok şeyi anlatıyor. Kitap, öncelikle uykunun evrimsel geçmişi ile başlıyor. Uykunun mekaniği mercek altına alınıyor; uykunun evreleri, uykunun nasıl işlediği ve vücuttaki değişimler inceleniyor. Kitap, uykunun önemi kadar, uykusuzluğun yol açtığı fiziksel ve bedensel sorunlara da odaklanıyor.
@@ -20,5 +21,3 @@ Kitabın ilk yarısı uykunun mekaniğine odaklanıyor. Vücutta uykuyu tetikley
 Gece gündüz döngüsünde uykunun açılmasını veya uykunun gelmesini sağlayan döngü Sirkadiyen Ritim (Circadian Rhythm). Uykunun iki çeşidi var: Non-Rapid-Eye-Movement (NREM) ve Rapid-Eye-Movement (REM).
 
 Saat farkı olan bir yere seyahat ettiğimizde niçin jetlag yaşadığımız, rüyalar, öğrenme, öğrendiklerimizin uzun süreli belleğe geçmesi, yaşanan travmalar ve hatıralar ile uykunun ilişkisi, uyumakta neden zorlandığımız, uyku ilaçlarının etkisinin olup olmadığı gibi pek çok konu kitapta işleniyor.
-
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep){:target="_blank"}_</span>
