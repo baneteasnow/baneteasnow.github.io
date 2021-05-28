@@ -22,4 +22,4 @@ Kitap, 1962 yılından başlayarak 1980 yılında Nike'ın halka arz edilmesine 
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/27220736-shoe-dog){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/27220736-shoe-dog){:target="_blank"}_</span>
