@@ -7,6 +7,7 @@ tr: "Dört Anlaşma: Toltek Bilgelik Kitabı"
 yazar: "Don Miguel Ruiz"
 yil: "2018"
 sayfa: "160"
+goodreads: "https://www.goodreads.com/book/show/6596.The_Four_Agreements"
 ---
 
 2021-09-22-
@@ -17,10 +18,3 @@ Don Miguel Ruiz'in eski Toltek Bilgelik öğretilerini anlattığı Dört Anlaş
 2. Anlaşma: Hiçbir Şeyi Kişisel Algılama
 3. Anlaşma: Varsayımda Bulunma
 4. Anlaşma: Daima Yapabildiğinin
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/6596.The_Four_Agreements){:target="_blank"}_</span>
