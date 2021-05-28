@@ -4,6 +4,12 @@ category: book
 last_modified_at: 2021-05-26
 published: true
 title: "Why We Sleep | Matthew Walker (Kitap)"
+kitap: "Why We Sleep - Unlocking the Power of Sleep and Dreams"
+tr: "Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi"
+yazar: "Matthew Walker"
+yil: "2017"
+sayfa: "344"
+url: "https://www.goodreads.com/book/show/34466963-why-we-sleep"
 ---
 
 Matthew Walker, Why We Sleep isimli kitabında uyku ve uykuya dair pek çok şeyi anlatıyor. Kitap, öncelikle uykunun evrimsel geçmişi ile başlıyor. Uykunun mekaniği mercek altına alınıyor; uykunun evreleri, uykunun nasıl işlediği ve vücuttaki değişimler inceleniyor. Kitap, uykunun önemi kadar, uykusuzluğun yol açtığı fiziksel ve bedensel sorunlara da odaklanıyor.
@@ -16,9 +22,4 @@ Gece gündüz döngüsünde uykunun açılmasını veya uykunun gelmesini sağla
 
 Saat farkı olan bir yere seyahat ettiğimizde niçin jetlag yaşadığımız, rüyalar, öğrenme, öğrendiklerimizin uzun süreli belleğe geçmesi, yaşanan travmalar ve hatıralar ile uykunun ilişkisi, uyumakta neden zorlandığımız, uyku ilaçlarının etkisinin olup olmadığı gibi pek çok konu kitapta işleniyor.
 
-Why We Sleep - Unlocking the Power of Sleep and Dreams <!-- kitabin adi -->\
-Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi <!-- tr -->\
-Matthew Walker <!-- yazar -->\
-2017 <!-- yıl -->\
-344 sayfa <!-- sayfa sayısı -->\
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep)_</span> <!--goodreads-->
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep)_</span>
