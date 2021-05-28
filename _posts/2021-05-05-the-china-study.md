@@ -4,6 +4,12 @@ category: book
 last_modified_at: 2021-05-05
 published: true
 title: "The China Study | T. Colin Campbell, Thomas M. Campbell (Kitap)"
+kitap: "The China Study: Revised and Expanded Edition: The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet, Weight Loss, and Long-Term Health"
+tr: "Çin Mucizesi - Uzun Yaşama, Kilo Verme ve Diyet Hakkında Şaşırtıcı Bilgiler"
+yazar: "T. Colin Campbell, Thomas M. Campbell (II.)"
+yil: "2016"
+sayfa: "493"
+goodreads: "https://goodreads.com/book/show/178788.The_China_Study"
 ---
 
 İlk olarak 2004 yılında yayınlanan The China Study, 1980'li yıllarda başlayan ve yaklaşık olarak 20 yıl devam eden Chinese Academy of Preventive Medicine, Cornell Üniversitesi ve Oxford Üniversitesi China-Cornell-Oxford ortak projesine dayanıyor. Dünya çapında beslenme üzerine en çok satan kitaplardan biri haline gelen The China Study (Çin Mucizesi), bu araştırmanın ayrıntılarını inceliyor. Araştırmada Çin'de 3000 yetişkinin diyetlerinin ve yaşam tarzlarının takibi yapılmış ve hayvansal ürünlerin tüketilmesi ile prostat kanseri, meme kanseri, bağırsak kanseri, diyabet, ve kalp krizi gibi çeşitli kronik rahatsızlıklar arasındaki ilişki incelenmiştir. Kitapta da vurgulandığı üzere, bu araştırma beslenme ile ilgili olarak bugüne kadar gerçekleştirilen en kapsamlı çalışma olma iddiasını taşımaktadır.
@@ -17,10 +23,3 @@ Campbell daha önceki bir başka çalışmasında, Filipinler'de süt ürünü a
 Benzer şekilde Campbell'in laboratuvar ortamında kobay farelerle gerçekleştirdiği bir başka çalışmasında, beslenme tarzının tümör gelişimine olan etkisini incelemiştir. 20% kazein (süt proteini) ağırlıklı beslediği fareleri bir süre sonra bitkisel beslenmeye geçirmiş ve farelerdeki tümör gelişiminin yavaşladığını; buna karşılık, eski beslenme tarzına dönüş yaptığında ise hızlandığını tespit etmiştir.
 
 Kitap, vegan veya vejetaryen beslenmeyi doğrudan önermemekle birlikte, bitkisel bazlı, az yağlı ve tam tahıllı beslenme tipinin en doğrusu olduğunu vurguluyor. Et ve süt ürünlerinden kaçınmanın önemin altını çizen kitapta beslenmede çeşitlilik ve az ama sık yemek de vurgulanan diğer noktalar.
-
-The China Study: Revised and Expanded Edition: The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet, Weight Loss, and Long-Term Health <!-- kitabin adi -->\
-Çin Mucizesi - Uzun Yaşama, Kilo Verme ve Diyet Hakkında Şaşırtıcı Bilgiler <!-- tr -->\
-T. Colin Campbell, Thomas M. Campbell (II.) <!-- yazar -->\
-2016 <!-- yıl -->\
-493 sayfa <!-- sayfa sayısı -->\
-<span class="link1">_[goodreads](https://goodreads.com/book/show/178788.The_China_Study){:target="_blank"}_</span> <!-- goodreads -->
