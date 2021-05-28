@@ -7,6 +7,7 @@ yazar: "Jonathan Safran Foer"
 tr: "Hayvan Yemek"
 yil: "2010"
 sayfa: "352"
+goodreads: "https://www.goodreads.com/book/show/6604712-eating-animals"
 ---
 
 2021-06-23-
@@ -26,10 +27,3 @@ Denizden toplanan ürünlerin yalnızca 2%'sı karidestir ve geriye kalan kısı
 Yazar, kitabı için araştırma yaparken hayvan çiftliklerini de ziyaret ediyor, hatta bir aktivistle birlikte 'hayvan kurtarma' operasyonu için kaçak şekilde bir çiftliğe sızıyor. Bu esnada, hayvanların pek de uygun olmayan şartlarda yaşadığını gözlemler. Bu ortamlarda yetiştirilen havanların etleri tüketildiğinde, çeşitli bakteriler insanlarda hastalıklara sebep olabilmektedir. Ayrıca, kalabalık nedeni ile hareket alanları neredeyse hiç olmadan yetişen hayvanların kemikleri çok zayıf kalmakta ve hatta kırılmaktadır. Hayvanların ne ile beslendikleri de insan sağlığı açısından bir tartışma konusudur.
 
 Sağlık için tüketilmesi önerilen hayvansal ürünlerin aslında yarardan çok zarar verip vermediği sorgulanması gereken bir nokta. Kitap, bu sorgulaya ışık tuttuğu gibi alternatif bir beslenmenin mümkün olduğunu üstelik bu beslenme tarzının hem etik bir yönü bulunduğunu hem de çevreye daha az zarar verdiğini okuyucuya anlatıyor.
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/6604712-eating-animals){:target="_blank"}_</span>
