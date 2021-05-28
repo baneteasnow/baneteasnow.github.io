@@ -34,4 +34,4 @@ Kitap başlangıç seviyesinde olsa da, bu kavramı her gün kullananlar için f
 {{ page.yazar }}
 {{ page.yil }}
 {{ page.sayfa }} sayfa
-_[goodreads](https://www.goodreads.com/book/show/23557020-how-to-make-sense-of-any-mess){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/23557020-how-to-make-sense-of-any-mess){:target="_blank"}_</span>
