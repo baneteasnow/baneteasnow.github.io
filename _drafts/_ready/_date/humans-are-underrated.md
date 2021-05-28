@@ -6,6 +6,7 @@ kitap: "Humans Are Underrated: What High Achievers Know that Brilliant Machines 
 yazar: "Geoff Colvin"
 yil: "2015"
 sayfa: "256"
+goodreads: "https://www.goodreads.com/book/show/23398714-humans-are-underrated"
 ---
 
 2021-06-30-
@@ -23,9 +24,3 @@ Colvin, teknolojide yaşanan ilerlemeler doğrultusunda çalışanların bilgisa
 Teknolojinin pek çok mevcut pozisyonu ortadan kaldıracak olmasına rağmen, sosyal ilişkiler giderek daha da önemli hale gelerek takım halinde çalışma, hikaye anlatma ve kişiler arası etkileşimin önemi hep devam edecek. Bu durumda, Colvin şu kilit soruyu soruyor: Empatinin, takım çalışmasının ve başarılı hikaye anlatıcılığının (story telling) arandığı bir geleceğe hazırlanan çocuklar okulda zamanlarının çoğunu neden fen, teknoloji, mühendislik ve matematik (STEM - science, technology, engineering and math) alanındaki derslere harcıyorlar? STEM yetkinlikleritabiii ki gelecekte aranan beceriler arasındaki yerini koruyacak, ancak bilgiye dayalı beceriler yerine ilişki temelli beceriler açık ara on planda olacak. Gelecekteki iş tanımları bu becerilerin bir kombinasyonuna evrilecek. Empati yapabilen bir mühendis veya çok iyi hikaye anlatıcı bir avukat, gibi.
 
 Colvin, kitabında geleceğe yönelik bu becerileri örnekler eşliğinde anlatıyor.
-
-{{ page.kitap }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/23398714-humans-are-underrated){:target="_blank"}_</span>
