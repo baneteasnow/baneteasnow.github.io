@@ -7,6 +7,7 @@ kitap: "Fevayid-i Giyahhari"
 yazar: "Sadik Hidayet"
 yil: "2018"
 sayfa: "73"
+goodreads: "https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar"
 ---
 
 2021-08-04-
@@ -16,10 +17,3 @@ Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 192
 Bu yanılgı tek bir şeyden kaynaklanıyor: İnsan yaşamak için öldürmek zorunda olduğunu, etin kuvvet verici bir besin olduğunu ve yemezse öleceğini sanmış bir kere. Gerçekten de insan yaşamı için et yemek kaçınılmaz bir gereksinim mi?
 
 İnsanın yaşamı et tüketimine mi bağlı? Gerekli ve yararlı olmadığı halde hayvansal besinler insanın kuvvetini mi arttırıyor? Ya da zararlı mı? Sağlık ve yaşamın karşısında mı? Değerlendirmek gerek. (sayfa 17)
-
-{{ page.tr }}  
-{{ page.kitap }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar){:target="_blank"}_</span>
