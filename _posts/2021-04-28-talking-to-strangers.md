@@ -27,10 +27,3 @@ Gladwell, ikinci öğe olarak 'şeffaflık yanılgısını' (The illusion of Tra
 Üçüncü ve son olarak ele alınan öğe ise Coupling yani eşleşme. Buna göre, davranışlar belirli şartlara ve koşullara bağlı olarak ortaya çıkar. İyi tanımadığımız bir kişinin hal ve hareketlerini anlamaya çalıştığımızda, onun mevcut durumunun yanı sıra, o andaki ortama, kişinin geçmişine, yaşadıklarına, geldiği kültüre, çevresel faktörlere bakmamız gerekir. Ancak bütünsel bir değerlendirme ile davranışları ve tavırları doğru değerlendirmek mümkün olur.
 
 Kitap, birbirlerini iyi tanımayan iki kişinin ya da birbirlerine yabancı olanların birbirleri ile olan ilişkilerinin yanlış gitmeye ne kadar müsait olduğunu anlatıyor, yanılgı ve yanlış anlaşılmalar sonucunda meydana gelen olumsuz durumları örneklerle açıklıyor.
-
-{{ page.tr }}
-{{ page.kitap }}    
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/43848929-talking-to-strangers){:target="_blank"}_</span> <!-- goodreads -->
