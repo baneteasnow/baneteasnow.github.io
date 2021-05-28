@@ -6,6 +6,7 @@ kitap: "How to Take Smart Notes - One Simple Technique to Boost Writing, Learnin
 yazar: "Sönke Ahrens"
 yil: "2017"
 sayfa: "178"
+goodreads: "https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes"
 ---
 
 2021-07-28-
@@ -25,9 +26,3 @@ Ahrens, kitabında anlattığı 'akıllı' not tutma sistemini, Alman sosyolog N
 4- Project Notes: Uzun nitelikli proje odaklı notlardır. Kalıcı notlar ile oluşturulan taslak metinler gerekli şekilde düzenlenir.
 
 Ahrens, yazmanın boş bir sayfa açmaktan çok önce başlayan ve sürekli devam eden bir süreç olduğundan bahsediyor. Birbirinden çok farklıymış ve ayrı işliyormuş gibi görünen aktiviteler aslında yazma sürecinin bir parçası ve bu aktiviteler birbiri ile bağlantılı. Okumak, okuduğunu anlamak, fikir üretmek, bağlantı kurmak, şekillendirmek, organize etmek, düzenlemek, hataları gidermek için tekrar yazmak bu sürecin adımlarından sadece birkaç tanesi. Bu kadar karmaşık bir süreçte, anlamak için okumak ve gerçekten kullanılabilir, yeni metinlere dönüştürülebilir 'akıllı' notlar almak oldukça kritik. Kitapta vurgulanan diğer bir nokta da, bu not sisteminin asla bir kerelik bir çabadan ibaret olmadığı ve zaman içinde mutlaka bir alışkanlığa dönüştürülmesi gerektiği.
-
-{{ page.kitap }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes){:target="_blank"}_</span>
