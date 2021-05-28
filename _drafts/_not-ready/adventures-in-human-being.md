@@ -9,9 +9,11 @@ yil: "2015"
 sayfa: "266"
 ---
 
+
+
 {{ page.kitap }}  
 {{ page.tr }}  
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/25246544-adventures-in-human-being){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/25246544-adventures-in-human-being){:target="_blank"}_</span>
