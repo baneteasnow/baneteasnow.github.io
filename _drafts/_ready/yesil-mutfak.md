@@ -16,4 +16,4 @@ Yeşil Mutfak, vegan ve vejetaryen beslenmeyle ilgili pratik bilgilere ve öneri
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/6400219-cook-food?){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/6400219-cook-food?){:target="_blank"}_</span>
