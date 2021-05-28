@@ -12,5 +12,5 @@ sayfa: "128"
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/29430779-payoff)_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/29430779-payoff)_</span>
 
