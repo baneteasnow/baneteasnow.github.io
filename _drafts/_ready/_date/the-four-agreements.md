@@ -23,4 +23,4 @@ Don Miguel Ruiz'in eski Toltek Bilgelik öğretilerini anlattığı Dört Anlaş
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/6596.The_Four_Agreements){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/6596.The_Four_Agreements){:target="_blank"}_</span>
