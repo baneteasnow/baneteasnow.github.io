@@ -16,4 +16,4 @@ Kitabın öncelikle şehir planlamaya odaklanıyor. Her gün içinde yürüdüğ
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[Goodreads](https://www.goodreads.com/book/show/39730422-101-things-i-learned-in-urban-design-school){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/39730422-101-things-i-learned-in-urban-design-school){:target="_blank"}_</span>
