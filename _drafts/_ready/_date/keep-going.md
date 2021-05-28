@@ -7,6 +7,7 @@ tr: "Devam Edebilmek - İyi ve Kötü Zamanlarda Yaratıcı Olabilmenin On Yolu"
 yazar: "Austin Kleon"
 yil: "2020"
 sayfa: "224"
+goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
 ---
 
 2021-06-16-
@@ -35,10 +36,3 @@ Kitapta yer alan başlıklar şöyle
 8. Kuşkuya düştüğünüzde, toparlanın
 9. Zalimler taze havayı sevmezler
 10. Bahçenize yeni bitkiler ekin
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/40591677-keep-going){:target="_blank"}_</span>
