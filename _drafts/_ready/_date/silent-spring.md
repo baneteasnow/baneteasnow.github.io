@@ -7,6 +7,7 @@ tr: "Sessiz Bahar"
 yazar: "Rachel Carson"
 yil: "2020"
 sayfa: "368"
+goodreads: "https://www.goodreads.com/book/show/27333.Silent_Spring"
 ---
 
 2021-08-18-
@@ -18,10 +19,3 @@ Carson'ın kitapta paylaştığı çoğu örnek olayda, tek bir zararlı popüla
 Havadan yapılan ilaçlamalar, bahçe bitkilerinin ve kuşların ölümüne yol açmakla kalmıyor, evcil hayvanları ve ilaçla teması olan insanları da zehirliyor. Kullanılan kimyasal ilaçların kalıntıları ise, sebze ve meyvelerde yapılan ölçümlerle tespit edilebiliyor. Sonuçta, insanlar kanser başta olmak üzere pek çok hastalığa yakalanırken, kuşlar başta olmak üzere doğada yaşam alanları zehirlenen pek çok hayvan ise yok oluyor.
 
 Carson, kitabında doğrudan kimyasal tarım ilaçlarının yasaklanmasını önermiyor. Onun dikkati çektiği nokta, bu ilaçların ölçüsüz ve kontrolsüz kullanılması. Hedef alınan 'zararlı' canlıların bir süre sonra ilaçlar etki göstermediği için popülasyonlarının giderek artacağının ve kim bilir daha ne gibi istenmeyen sonuçlara yol açılacağının altını çiziyor. Bu tür zararlılar ile mücadele için Carson'un önerdiği yöntem ise, biyotik bir yaklaşım sağlanması.
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/27333.Silent_Spring){:target="_blank"}_</span>
