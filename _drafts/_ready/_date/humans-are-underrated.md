@@ -28,4 +28,4 @@ Colvin, kitabında geleceğe yönelik bu becerileri örnekler eşliğinde anlat�
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/23398714-humans-are-underrated){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/23398714-humans-are-underrated){:target="_blank"}_</span>
