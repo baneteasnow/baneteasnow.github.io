@@ -16,4 +16,4 @@ sayfa: "275"
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek){:target="_blank"}_</span>
