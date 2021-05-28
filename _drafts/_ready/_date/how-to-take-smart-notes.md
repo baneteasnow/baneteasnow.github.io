@@ -3,6 +3,7 @@ layout: post
 category: book
 title: "How to Take Smart Notes | Sönke Ahrens (Kitap)"
 kitap: "How to Take Smart Notes - One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers"
+tr: "-"
 yazar: "Sönke Ahrens"
 yil: "2017"
 sayfa: "178"
