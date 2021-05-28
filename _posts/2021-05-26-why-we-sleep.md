@@ -9,7 +9,6 @@ tr: "Niçin Uyuruz? Yeni Uyku ve Rüya Bilimi"
 yazar: "Matthew Walker"
 yil: "2017"
 sayfa: "344"
-goodreads: "<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466963-why-we-sleep){:target="_blank"}_</span>"
 ---
 
 Matthew Walker, Why We Sleep isimli kitabında uyku ve uykuya dair pek çok şeyi anlatıyor. Kitap, öncelikle uykunun evrimsel geçmişi ile başlıyor. Uykunun mekaniği mercek altına alınıyor; uykunun evreleri, uykunun nasıl işlediği ve vücuttaki değişimler inceleniyor. Kitap, uykunun önemi kadar, uykusuzluğun yol açtığı fiziksel ve bedensel sorunlara da odaklanıyor.
