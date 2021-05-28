@@ -7,6 +7,7 @@ tr: "Ikigai - Sabah Yataktan Kalkmak İçin Sebebiniz Olmalı"
 yazar: "Ken Mori"
 yil: "2018"
 sayfa: "152"
+goodreads: "https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai"
 ---
 
 2021-06-09-
@@ -26,10 +27,3 @@ How to live to be 100+ başlıklı bir TED konuşmasında Amerikalı yazar Dan B
 Ikigai, 'sabah yataktan kalkma sebebi' olarak ifade edilebilir. Yaşamaya sizi sürekli teşvik edendir. (sayfa 23)
 
 Kitap, adım adım Ikigai'yi inceliyor ve kendi Ikigaisini bulmuş kişilerin hayatlarından kesitler paylaşıyor.
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai){:target="_blank"}_</span>
