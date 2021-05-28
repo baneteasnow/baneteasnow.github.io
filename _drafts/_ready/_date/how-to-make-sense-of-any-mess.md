@@ -6,6 +6,7 @@ kitap: "How To Make Sense Of Any Mess: Information Architecture for Everybody"
 yazar: "Abby Covert"
 yil: "2014"
 sayfa: "176"
+goodreads: "https://www.goodreads.com/book/show/23557020-how-to-make-sense-of-any-mess"
 ---
 
 2021-07-14-
@@ -29,9 +30,3 @@ Bilgi, ipucu verir. Bizler, karşı taraf için bir yapıyı anlamlı hale getir
 Dünyanın düzeni, adeta sonsuz seçenekten oluşmaktadır. Ancak, gerçekte, her şey, daha küçük parçalara ayrılabilir ve ortaya kendini tekrar eden kalıplar çıkar. Bu kalıplar yan yana farklı kombinasyonlarla geldiklerinde farklı formları oluştururlar.
 
 Kitap başlangıç seviyesinde olsa da, bu kavramı her gün kullananlar için farklı bir bakış açısı vermeyi de başarıyor. Ancak, kullanılan örnekler, yer yer tek tip hale gelmiş.
-
-{{ page.kitap }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/23557020-how-to-make-sense-of-any-mess){:target="_blank"}_</span>
