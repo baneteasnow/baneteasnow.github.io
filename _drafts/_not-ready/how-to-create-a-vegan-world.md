@@ -10,8 +10,8 @@ sayfa: "216"
 
 
 
-{{ page.kitap }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
+{{ page.kitap }}  
+{{ page.yazar }}  
+{{ page.yil }}  
+{{ page.sayfa }} sayfa  
 <span class="link1">_[goodreads](https://www.goodreads.com/book/show/35468340-how-to-create-a-vegan-world){:target="_blank"}_</span>
