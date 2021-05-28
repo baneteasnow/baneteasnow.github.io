@@ -7,6 +7,7 @@ tr: "Ikigai - Japonların Uzun ve Mutlu Yaşam Sırrı"
 yazar: "Héctor García, Francesc Miralles"
 yil: "2017"
 sayfa: "176"
+goodreads: "https://www.goodreads.com/book/show/57670254-ikigai"
 ---
 
 2021-08-25-
@@ -41,10 +42,3 @@ Doğayla tekrar bağlantı kurun.
 Teşekkürlerinizi şunun.
 Ani yaşayın.
 Ikigainizi takip edin.
-
-{{ page.kitap }}
-{{ page.tr }}
-{{ page.yazar }}
-{{ page.yil }}
-{{ page.sayfa }} sayfa
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/57670254-ikigai){:target="_blank"}_</span>
