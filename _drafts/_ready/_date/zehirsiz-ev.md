@@ -3,9 +3,11 @@ layout: post
 category: book
 title: "Zehirsiz Ev | Mercan Yurdakuler (Kitap)"
 kitap: "Zehirsiz Ev"
+tr: "-"
 yazar: "Mercan Yurdakuler"
 yil: "2018"
 sayfa: "140"
+goodreads: "https://www.goodreads.com/book/show/29468074-zehirsiz-ev"
 ---
 
 2021-07-21-
@@ -27,9 +29,3 @@ Antibakteriyel ürünlerden ve antibiyotiklerden uzak dur.
 Etiket okumayı öğren.
 'Ya hep ya hiç' deme.
 Kendine ve çevrendekilere karşı sabırlı ol.
-
-{{ page.kitap }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/29468074-zehirsiz-ev){:target="_blank"}_
