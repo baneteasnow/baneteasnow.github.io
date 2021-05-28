@@ -39,4 +39,4 @@ Kitaptaki başlıklar şöyle:
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads}(https://www.goodreads.com/book/show/18290401-show-your-work){:target="_blank"}_
+<span class="link1">_[goodreads}(https://www.goodreads.com/book/show/18290401-show-your-work){:target="_blank"}_</span>
