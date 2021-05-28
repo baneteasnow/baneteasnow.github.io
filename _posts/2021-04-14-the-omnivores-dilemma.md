@@ -3,7 +3,13 @@ layout: post
 category: book
 last_modified_at: 2021-04-14
 published: true
-title: "The Omnivore's Dilemma | Michael Pollan (Kitap)"
+title: "The Omnivore's Dilemma |  (Kitap)"
+kitap: "The Omnivore's Dilemma - A Natural History of Four Meals"
+tr: "Etobur-Otobur İkilemi"
+yazar: "Michael Pollan"
+yil: "2009"
+sayfa: "512"
+goodreads:
 ---
 
 Michael Pollan, 'Etobur-Otobur İkilemi' isimli kitabında, yediğimiz yiyeceklerin kaynağını gıda zincirine bakarak sorguluyor. Ayrıca, bunun küresel olarak ne anlama geldiğini inceliyor.
@@ -21,10 +27,3 @@ Pollan'ın ilk incelediği gıda zinciri 'endüstriyel' tarz. Bu alanda temel gi
 Son bölümde ise, kitabın genel gidişatına oldukça yakışır biçimde yalnızca kendi ürettiği ya da topladığı malzemeler ile konuklarına mini bir ziyafet vererek kitaba katkı sağlayan herkese teşekkür ediyor. Son olarak, vejetaryenliği kendisi için mantıklı bir seçenek olarak düşündüğünü dile getiriyor.
 
 Michael Pollan'ın bu kitabı, Eric Schlosser'in Hamburger Cumhuriyeti kitabı ile aynı kategoride ve gayet bilgilendirici.
-
-The Omnivore's Dilemma - A Natural History of Four Meals  <!-- kitabin adi -->\
-Etobur-Otobur İkilemi  <!-- tr -->\
-2009  <!-- yıl -->\
-Michael Pollan <!-- yazar -->\
-512 sayfa <!-- sayfa sayısı -->\
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma){:target="_blank"}_</span> <!-- goodreads -->
