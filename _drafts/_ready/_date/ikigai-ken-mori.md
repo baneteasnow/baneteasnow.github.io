@@ -32,4 +32,4 @@ Kitap, adım adım Ikigai'yi inceliyor ve kendi Ikigaisini bulmuş kişilerin ha
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai){:target="_blank"}_</span>
