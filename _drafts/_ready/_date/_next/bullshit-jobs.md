@@ -2,11 +2,12 @@
 layout: post
 category: book
 title: "Bullshit Jobs - A Theory | David Graeber"
-kitabin adi: "Bullshit Jobs - A Theory - The Rise of Pointless Work, and What We Can Do About It"
+kitap: "Bullshit Jobs - A Theory - The Rise of Pointless Work, and What We Can Do About It"
 tr: "Tırışka İşler"
 yazar: "David Graeber"
 yil: "2018"
 sayfa: "347"
+goodreads: "https://www.goodreads.com/book/show/34466958-bullshit-jobs"
 ---
 
 2021-06-02-
@@ -26,9 +27,3 @@ Tirişkadan bir iş kitapta şöyle tanımlanıyor: Tamamıyla gereksiz ve anlam
 Graeber'in bir başka vurguladığı nokta da, bazı durumlarda tirişkadan işlerde çalışanların günlerce hatta haftalarca işyerlerine uğramadan maaşlarını almaya devam etmeleri ve kimsenin bunu fark etmemiş olması. Hikayesi paylaşılan çalışanlardan bazıları ise günlük olarak yapmaları gereken işleri çok kısa sürede bitirerek günlerinin geri kalanını ınternette çeşitli şekillerde harcadıklarını belirtmişler, hatta aralarında online dersleri tamamlayarak yeni yetkinlikler elde edenler de var.
 
 Kitapta bu işlerin ortaya çıkmasına sebep olan sosyoekonomik mekanizmalar da inceleniyor. Graeber, tüm bu yazdıklarından sonra okuyucunun kendisinden bir çözüm önerisi beklediğinin de farkında, ancak o mevcut durumun adeta bir resmini çekerek bugüne nasıl geldiğimizi anlatmayı tercih etmiş. Kitabın sonunda doğrudan bir çözüm önerisi geliştirme de, kendi yorumunu ortaya koyduğu sayfalarda son yılların tartışmalı konularından bir tanesi olan 'temel vatandaşlık geliri (üniversal basıc income)'nin seçeneklerden bir tanesi olabileceğini belirtiyor.
-
-{{ page.kitabin_adi }}  
-{{ page.tr }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/34466958-bullshit-jobs){:target="_blank"}_</span>
