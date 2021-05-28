@@ -16,4 +16,4 @@ sayfa: "288"
 {{ page.yazar }}
 {{ page.yil }}
 {{ page.sayfa }} sayfa
-_[goodreads](https://www.goodreads.com/book/show/5289150-the-face-on-your-plate){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/5289150-the-face-on-your-plate){:target="_blank"}_</span>
