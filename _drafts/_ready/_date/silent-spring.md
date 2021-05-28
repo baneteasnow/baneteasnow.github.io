@@ -24,4 +24,4 @@ Carson, kitabında doğrudan kimyasal tarım ilaçlarının yasaklanmasını ön
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/27333.Silent_Spring){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/27333.Silent_Spring){:target="_blank"}_</span>
