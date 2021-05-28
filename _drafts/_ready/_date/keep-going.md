@@ -41,4 +41,4 @@ Kitapta yer alan başlıklar şöyle
 {{ page.yazar }}  
 {{ page.yil }}  
 {{ page.sayfa }} sayfa  
-_[goodreads](https://www.goodreads.com/book/show/40591677-keep-going){:target="_blank"}_
+<span class="link1">_[goodreads](https://www.goodreads.com/book/show/40591677-keep-going){:target="_blank"}_</span>
