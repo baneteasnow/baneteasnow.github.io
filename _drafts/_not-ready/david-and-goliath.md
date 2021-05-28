@@ -7,13 +7,7 @@ tr: "Davut ve Golyat: Olağan Mağluplar İçin Devlerle Savaşma Sanatı"
 yazar: "Malcolm Gladwell"
 yil: "2013"
 sayfa: "293"
+goodreads: "https://www.goodreads.com/book/show/15751404-david-and-goliath"
 ---
 
 
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/15751404-david-and-goliath){:target="_blank"}_</span>
