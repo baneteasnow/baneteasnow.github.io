@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "The Face on Your Plate | Jeffrey Moussaieff Masson (Kitap)"
-kitap: "The Face on Your Plate"
+kitap: "The Face on Your Plate: The Truth About Food"
 tr: "Tabağındaki Yüz: Gıda Hakkındaki Gerçekler"
 yazar: "Jeffrey Moussaieff Masson"
 yil: "2010"
