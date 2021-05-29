@@ -7,6 +7,7 @@ tr: "İnsan Vücuduna Seyahat: Tepeden Tırnağa Bir Büyük Macera"
 yazar: "Gavin Francis"
 yil: "2015"
 sayfa: "266"
+goodreads: "https://www.goodreads.com/book/show/25246544-adventures-in-human-being"
 ---
 
 2021-07-14-
@@ -16,10 +17,3 @@ Adventures in Human Being, bir doktor olan Gavin Francis'in her biri insan vücu
 İnsan anatomisini incelerken mitoloji, felsefe, tarih, doğa, sanat ve edebiyattan çeşitli örnekler ve anektotlar aktaran yazar, aynı zamanda dünyanın çeşitli bölgeleri arasındaki kültürel farklılıklara da konu ekseninde yer veriyor. Kitap, halen gizemini koruyan pek çok unsuru bünyesinde barındıran insan vücuduna farklı bir perspektiften bakıyor ve bir anlamda insanın aslında ne kadar da kırılgan olduğunu hatırlatıyor.
 
 Kitapta, teknik terimler de oldukça az kullanılmış.
-
-{{ page.kitap }}  
-{{ page.tr }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/25246544-adventures-in-human-being){:target="_blank"}_</span>
