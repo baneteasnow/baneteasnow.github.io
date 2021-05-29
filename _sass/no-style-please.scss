@@ -116,3 +116,10 @@ a:hover{
 // .PageNavigation a {display: block; width: 50%; float: left; margin: 1em 0;}
 
 // .PageNavigation .next {text-align: right; float: right;}
+
+.list0 {
+  color: black;
+}
+list:after {
+  content: "\00BB|;
+}
