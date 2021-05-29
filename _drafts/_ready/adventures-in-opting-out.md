@@ -6,6 +6,7 @@ kitap: "Adventures in Opting Out: A Field Guide to Leading an Intentional Life"
 yazar: "Cait Flanders"
 yil: "2020"
 sayfa: "273"
+goodreads: "https://www.goodreads.com/book/show/50710787-adventures-in-opting-out"
 ---
 
 2021-08-11-
@@ -17,9 +18,3 @@ Cait Flanders, belli bir yasa kadar ailesinin ona kodladığı yaşamı kuruyor.
 Adventures in Opting Out isimli kitabında da, çok severek yaptığı doğa yürüyüşlerinde yaşadıklarını metafor olarak kullanarak, insanın hayatta gerçekten istediği yönde ilerleme yolculuğuna göndermeler yapıyor. Bir sonraki adımının ne olacağını bilmeden, sadece ana odaklanarak yaşamaya başlıyor. İlk başta zorlansa ve plansız olmanın zorlukları ile karşılaşsa da, kendini yeniden hazır hissedince tekrar tekrar bu seyahatlere çıkıyor.
 
 Bu seyahatlerinde hem kendine daha fazla güvenmeye başlıyor hem de çok değer verdiği arkadaşlar ediniyor. Kitabında ise şu mesajı veriyor: "Hayat yolculuğunuzu kendi istediğiniz gibi sürdürün, başkalarının size tarif ettiği şekilde değil. Bir yolculuktan vazgeçmeniz veya yolculuğunuzu kısa kesmeniz gerekiyorsa bunu yapın. Hislerinize güvenin ve tekrar hazır olduğunuzda yeniden deneyin. Ta ki başarana kadar."
-
-{{ page.kitap }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/50710787-adventures-in-opting-out){:target="_blank"}_</span>
