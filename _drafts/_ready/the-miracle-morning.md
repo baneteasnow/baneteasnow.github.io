@@ -10,7 +10,7 @@ sayfa: "180"
 goodreads: "https://www.goodreads.com/book/show/17166225-the-miracle-morning"
 ---
 
-2021-09-01-
+2021-12-08-
 
 The Miracle Morning, Hal Elrod'un başarılı bir satış temsilcisi iken genç yaşında başına gelen talihsizlikler sonucu depresyona kadar sürüklenen hikayesini ve bu zorlu süreçten kişisel gelişimine katkı yapacak bir sabah rutini oluşturması ile iyileşmesini anlatıyor.
 
