@@ -10,7 +10,7 @@ sayfa: "73"
 goodreads: "https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar"
 ---
 
-2021-08-04-
+2021-11-10-
 
 Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 1926-1927 yıllarında kaleme aldığı çeşitli metinlerden oluşuyor. Vejetaryenliğin geçmişi, yiyeceklerin pişirilmesi ve vejetaryenliğin etik yönünü ele alıyor. İnsanın çevresine zarar vermeden beslenebilmesinin ve sağlıklı olmasının mümkün olduğunu kendi gözlemleri ile birlikte aktarıyor.
 
