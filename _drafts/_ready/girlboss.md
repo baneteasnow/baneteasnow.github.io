@@ -10,7 +10,7 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/18667945-girlboss"
 ---
 
-2021-09-08-
+2021-12-15-
 
 #\ Girlboss, Sophia Amoruso'nun online olarak vintage kıyafetler satan web sitesi Nasty Gal'i kurmasını ve firmasını adım adım büyütmesini anlatıyor. Sophia Amoruso, attığı doğru adımlar ile 2016 yılında Forbes dergisinin en zengin iş kadınlar listesine girmeyi başarır.
 
