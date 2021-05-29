@@ -6,6 +6,7 @@ kitap: "101 Things I Learned in Film School"
 yazar: "Neil Landau, Matthew Frederick"
 yil: "2021"
 sayfa: "218"
+goodreads: "https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school"
 ---
 
 2021-09-22-
@@ -20,9 +21,3 @@ sayfa: "218"
 Kitapta vurgulanan diğer bir nokta da, bir şeyi söyleyerek ifade etmektense görüntüleyerek göstermenin daha etkili olacağıdır. Nokta atışı cümleler veya ortasında başlayan diyaloglar, filmi sıkıcı olmaktan kurtararak daha takip edilebilir kılacaktır. 
 
 101 Things I Learned in Film School, hem hikaye anlatıcılığı hem de film çekiminin teknik yönü hakkında çeşitli ipuçlarını ünlü filmlerden örneklerle birlikte okuyucuyla paylaşıyor. 
-
-{{ page.kitap }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school){:target="_blank"}_</span>
