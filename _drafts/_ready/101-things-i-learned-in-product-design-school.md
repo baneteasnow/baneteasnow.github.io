@@ -8,6 +8,8 @@ yil: "2020"
 sayfa: "216"
 ---
 
+2021-06-16-
+
 101 Things I Learned in Product Design School, tasarımın aslında fiziksel bir eylem olduğu ve sadece masabaşında yapılamayacağı vurgusu ile başlıyor. Bazen deneme yanılma yöntemi ile, bazen deneyimleyerek söz konusu dizayn adım adım en iyi haline getirilebilir. Kullanıcı gibi davranıp, kullanıcının deneyimini edinmek, dizaynı kullanıcının perspektifinden görebilmek çok önemlidir. Aksi takdirde, tasarımcının bakış açısı sadece bildikleri ile sınırlı kalacaktır.
 
 Tasarım, mutlaka bir sistem içinde gerçekleşir. Sistem, birbiri ile bağlantılı alt parçalardan oluşur. Her bir parça diğerleri ile ilintilidir. Bu nedenle, tasarım bütünsel bakmayı da gerektirir. İç içe geçmiş sistemler de göz önünde tutulmalıdır. Tasarım kadar, o ürünün paketlemesi, nakliyesi, taşınma şekli gibi unsurlar da planlanmalıdır. İyi bir tasarım fikri, bir destek sistemi olmaksızın gerçek dünyada mümkün hale gelemez.
