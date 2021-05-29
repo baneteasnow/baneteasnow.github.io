@@ -9,6 +9,8 @@ sayfa: "214"
 
 ---
 
+2021-08-04-
+
 İşletme bilimi, iletişim, ekonomi, finans, liderlik, yönetim, pazarlama, operasyon ve strateji gibi pek çok alanı kapsar. 101 Things I Learned in Business School, tüm bu alanlara odaklanarak temel kavramları 101 maddede paylaşıyor.
 
 Kitapta ele alınan noktalardan bir tanesi, yönetim teorileri ile gerçek hayatın ne kadar kesiştiği tartışması. Buna göre, teorinin içeriğini anlamayanlar, genellikle teorinin gerçekle uyuşmadığını savunuyorlar. Tam tersine, teoriyi özümseyerek yeni durumlara uyarlayabilenler uzun vadede ayakta kalanlar oluyor.
