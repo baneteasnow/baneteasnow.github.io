@@ -8,6 +8,8 @@ yil: "2021"
 sayfa: "218"
 ---
 
+2021-09-22-
+
 101 Things I Learned in Film School, sinema ve film yapımcılığı ile ilgili temel kavramları aktarıyor. Kitapta cevabı yer alan sorular arasından bazı örnekler şöyle:
 
 - Bir sahne nasıl kurgulanır?
