@@ -10,6 +10,8 @@ sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/29430779-payoff"
 ---
 
+2021-09-29-
+
 Dan Ariely, TED kitapları serisinde yer alan Payoff isimli kitabında insanları gerçekte neyin motive ettiğini sorguluyor. Üzerinde durduğu noktalar arasında şunlar var:
 - Paranın işteki performans için yeterli bir motivasyon olup olmadığı,
 - İyi bir iş çıkarmanın ve başkaları tarafından takdir edilmenin motivasyon açısından değeri,
