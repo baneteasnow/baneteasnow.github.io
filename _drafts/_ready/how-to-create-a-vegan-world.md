@@ -10,6 +10,8 @@ sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/35468340-how-to-create-a-vegan-world"
 ---
 
+2021-08-18-
+
 Tobias Leenaert, How to Create a Vegan World isimli kitabında 'Veganville (Veganköy)' olarak isimlendirdiği bir dünyaya giden yolu tarif ediyor. Veganville hiç kuşkusuz ki bir ütopya. Leenaert, pragmatik bir anlayışı benimseyerek, veganlığı savunan pek çok kişiden farklı bir perspektif sunuyor. "Go vegan! (Vegan ol!)" mesajına yoğunlaşmak yerine herkesi öncelikle daha az hayvansal ürün tüketmeye davet etmenin ve kamuda bu mesajı yaymanın daha gerçekçi bir anlayış olacağını savunuyor. Aynı şekilde, hayvansal ürünlerin tüketimini azaltma nedeni olarak da etiksel kaygılar kadar diğer başka etkenlerin de ileri sürülebileceğini vurguluyor. Çünkü, kitabın ilk sayfalarında altı çizildiği gibi, insanlar tavırlarını davranışlarını değiştirdikten sonra değiştirirler.
 
 Vegan bir dünya, inanlarla hayvanlar arasındaki karşılıklı ilişkinin süreceği ancak hayvanların zarar görmeyecekleri ve acı çekmeyecekleri bir ortamın yaratılmasıdır. Bu açıdan, aslında 'vegan bir dünya', veganlık vizyonuna doğru giden yolda bir araçtır. Peki, veganlar, vegan olmayanlardan ne bekliyorlar? Veganlar, vegan olmayanların davranışlarını değiştirerek hayvansal ürünleri tüketmeyi bırakmalarını ve tavırlarını değiştirerek hayvanları gerçekten umursadıkları için hayvansal ürünleri tüketmemelerini beklerler. Diğer bir deyişle, doğru şeyi doğru bir nedenden ötürü yapmalarını beklerler.
