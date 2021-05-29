@@ -10,6 +10,8 @@ sayfa: "293"
 goodreads: "https://www.goodreads.com/book/show/15751404-david-and-goliath"
 ---
 
+2021-09-15-
+
 Malcolm Gladwell, David and Goliath isimli kitabında avantajlı görünenlerle dezavantajlı görünenlerin hikayesini anlatıyor ve 'avantaj' ile 'dezavantaj' sayılan unsurların aslında göründükleri gibi olmayabileceğini vurguluyor.
 
 David and Goliath'da Malcolm Gladwell'in ortaya koyduğu ana tez, bir olayda avantajlı görünen tarafın elindeki avantajın kolaylıkla onun en zayıf yönüne dönüşebilecek olmasıdır. Aynı şekilde, dezavantaj yaratan bir nitelik de, belli şartlar altında ve üzerinde çalışılarak zaman içinde avantaja dönüşebilir.
