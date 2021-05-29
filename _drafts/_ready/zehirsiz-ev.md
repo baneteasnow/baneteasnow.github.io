@@ -10,7 +10,7 @@ sayfa: "140"
 goodreads: "https://www.goodreads.com/book/show/29468074-zehirsiz-ev"
 ---
 
-2021-07-21-
+2021-10-27-
 
 Zehirsiz Ev, günlük olarak kullanılan ve yoğun kimyasallar içeren ürünlerin alternatiflerini öneren bir kitap. Kitap, ev, kişisel bakım, anne ve bebek bakımı, sağlık, gıda ve diğer tarifler olmak üzere bölümlere ayrılmış. Kitabın ilk sayfalarında bir 'malzeme çantası' yer alıyor. Bu kısımda, tariflerde kullanılan malzemelerin çeşitli özellikleri bir tabloda listelenmiş. Devamında ise, uçucu ve sabit yağlar hakkında bilgiler ve uyarılar var.
 
