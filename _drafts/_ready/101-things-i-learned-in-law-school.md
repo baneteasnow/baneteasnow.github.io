@@ -8,6 +8,8 @@ yil: "2019"
 sayfa: "226"
 ---
 
+2021-07-07-
+
 Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in Law School, ABD'deki hukuk sisteminin nasıl işlediğini de ele alıyor. 
 
 Kitapta vurgulanan noktalardan bir tanesi, duruşmalarda söylenilenler kadar bu söylemlerin nasıl yapıldığının da çok önemli olduğu. Dikkat çekici diğer iki nokta ise dürüst olmakla doğruları söylemek arasındaki fark ve bir kuralın istisnası varsa, çoğu kez bu istisna kuralın yerine geçeceği vurgusu. 
