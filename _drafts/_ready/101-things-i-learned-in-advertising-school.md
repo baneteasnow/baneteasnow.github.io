@@ -6,6 +6,7 @@ kitap: "101 Things I Learned in Advertising School"
 yazar: "Tracy Arrington, Matthew Frederick"
 yil: "2018"
 sayfa: "212"
+goodreads: "https://www.goodreads.com/book/show/35742911-101-things-i-learned-in-advertising-school"
 ---
 
 2022-01-05-
@@ -20,9 +21,3 @@ Reklamlarla ilgili kısa ipuçları ileten kitapta, ayrıca iyi bir reklamda bul
 "İyi bir reklam, kötü bir ürünün başına gelebilecek en kötü şeydir."
 "Reklamlar, söz konusu ürünleri pozitif içerikle sattırır."
 "İnsanlar söylediklerinizi ya da yaptıklarınızı unutur, ama onlara neler hissettirdiğinizi asla unutmaz. - *Maya Angelou*"
-
-{{ page.kitap }}  
-{{ page.yazar }}  
-{{ page.yil }}  
-{{ page.sayfa }} sayfa  
-<span class="link1">_[goodreads](https://www.goodreads.com/book/show/35742911-101-things-i-learned-in-advertising-school){:target="_blank"}_</span>
