@@ -41,7 +41,7 @@ hr { margin: 2rem 0; }
 
 p { margin: 1rem 0; }
 
-// .li { margin: 0.4rem 0; }
+.li { margin: 0.4rem 0; }
 
 *:target { background: yellow; }
 
@@ -116,17 +116,3 @@ a:hover{
 // .PageNavigation a {display: block; width: 50%; float: left; margin: 1em 0;}
 
 // .PageNavigation .next {text-align: right; float: right;}
-
-.li {
-  margin: 0;
-}
-.li:after {
-  content:   
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .'
-  ' . . . . . . . . . . . . . . . . . . . . . .';
-  width: 100%;
-}
