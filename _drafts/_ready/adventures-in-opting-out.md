@@ -8,6 +8,8 @@ yil: "2020"
 sayfa: "273"
 ---
 
+2021-08-11-
+
 The Year of Less (Alışveriş Yapmadığım Yıl) isimli kitabında içinde bulunduğu borçlarından ve içinde bulunduğu olumsuz durumdan nasıl kurtulduğunu anlatan Cait Flanders, ikinci kitabı olan Adventures in Opting Out'da ise çevreniz tarafından size yüklenilen hedefleri sorgulamanız gerektiğini hatırlatarak, bu hedeflerden ne kadarını gerçekten istediğinizi keşfetmenin yollarını kişisel deneyiminden örnekler vererek paylaşıyor.
 
 Cait Flanders, belli bir yasa kadar ailesinin ona kodladığı yaşamı kuruyor. Ancak, oldukça mutsuz hissettiği bir dönemde gereksiz harcamalar yapmaya başlıyor. Kişisel hayatındaki zorluklar da problemlerini katlıyor. Bir süre sonra kendini finansal açıdan oldukça zor durumda buluyor ve birkaç yakın arkadaşının da yardımı ile alışveriş yapmadığı ve minimalist br hayat tarzını benimseyerek bu zorlu günleri atlatıyor. Sonrasında serbest çalışma düzenine geçen Cait Flanders, kendi konfor alanının dışına çıkabilmek için Avrupa'da uzun süreli seyahat edip yaşamanın planını yapıyor.
