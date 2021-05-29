@@ -122,4 +122,9 @@ a:hover{
 }
 .list0:after {
   content: "\00BB";
+  width: 100%;
+  font-size: .55em;
+  position: absolute;
+  bottom: .4em;
+  white-space: nowrap;
 }
