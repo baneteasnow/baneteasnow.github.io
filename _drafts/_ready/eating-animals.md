@@ -10,7 +10,7 @@ sayfa: "352"
 goodreads: "https://www.goodreads.com/book/show/6604712-eating-animals"
 ---
 
-2021-06-23-
+2021-07-28-
 
 Jonathan Safran Foer, Eating Animals isimli kitabında yemek yeme alışkanlıklarımızın aslında kültürle nasıl iç içe geçtiğini anlatan bir kitap. Yemek tariflerinde hayvansal ürünler kullanılıyor ve çoğu kişi bunu sorgulamadan alışveriş listesini hazırlıyor. Jonathan Safran Foer de bu çoğunluğa dahil iken, eşi ile bir çocukları olacağını öğrendikten sonra, yediklerini sorgulaması gerektiğini düşünmeye başlıyor. Daha önceden pek çok kez çeşitli nedenlerle vejetaryenliği deneyip her seferinde bırakan biri iken, bu kez daha sorgulayıcı bir bakış açısı ile hayvanların yetiştirilme sürecini ve yemek olarak kullanılmasını mercek altına alıyor, çocuğunun geleceği için vegan beslenmeyi nasıl ve neden seçtiğini anlatıyor.
 
