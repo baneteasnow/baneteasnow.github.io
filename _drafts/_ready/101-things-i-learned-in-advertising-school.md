@@ -3,6 +3,7 @@ layout: post
 category: book
 title: "101 Things I Learned in Advertising School | Tracy Arrington & Matthew Frederick (Kitap)"
 kitap: "101 Things I Learned in Advertising School"
+tr: "-"
 yazar: "Tracy Arrington, Matthew Frederick"
 yil: "2018"
 sayfa: "212"
