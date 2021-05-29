@@ -9,6 +9,8 @@ yil: "2016"
 sayfa: "178"
 ---
 
+2021-07-21-
+
 Yeşil Mutfak, vegan ve vejetaryen beslenmeyle ilgili pratik bilgilere ve önerilere yer veren bir kitap. Çeşitli tariflerin yanı sıra yemek kültürü, malzeme kullanımı ve secimi ile de ilgili olarak çeşitli notlar paylaşılmış. Kitabın son kısmında çeşitli okuma önerilerine yer verilmiş.
 
 {{ page.kitap }}  
