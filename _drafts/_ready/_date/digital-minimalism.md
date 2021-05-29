@@ -10,7 +10,7 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/40672036-digital-minimalism"
 ---
 
-2021-07-07-
+2021-10-06-
 
 Pürdikkat (Deep Work) isimli kitabı ile tanınan Cal Newport Dijital Minimalizm isimli kitabında ise ekran başında geçirilen zamanı azaltmanın gerekliliğini ve yollarını tartışıyor. Cal Newport, internetin gücünün ve faydalarının yadsınamaz olduğunu belirterek eğer bir şeyler değişmezse çoğu kişi için artık bir bağımlılık haline gelmiş olan ekran süresinin pek çok olumsuz sonucu da beraberinde getireceğini vurguluyor.
 
