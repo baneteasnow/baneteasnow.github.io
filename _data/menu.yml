@@ -7,7 +7,7 @@ entries:
 
   - title: # all posts
     post_list:
-      limit: 5
+      limit: 50
       show_more: true
       show_more_text:  ... tüm yazılar # See archive...
       show_more_url: archive.html
