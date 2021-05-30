@@ -16,9 +16,9 @@ goodreads: "https://www.goodreads.com/book/show/35742911-101-things-i-learned-in
 
 Reklam sektöründe büyük bütçeler söz konusu olsa da, bu sektör aslında tek başına durabilen bir sektör değildir. Pek çok farklı nitelikte ve farklı uzmanlıklara sahip insanların bu sektörde yer alması gereklidir.
 
-Reklamlarla ilgili kısa ipuçları ileten kitapta, ayrıca iyi bir reklamda bulunması gereken nitelikler de yer alıyor.
+"Ürünün kendisi ile değil karşılayacağı istekle veya ihtiyaçla işe başlayın."  
+"İyi bir reklam, kötü bir ürünün başına gelebilecek en kötü şeydir."  
+"Reklamlar, söz konusu ürünleri pozitif içerikle sattırır."  
+"İnsanlar söylediklerinizi ya da yaptıklarınızı unutur, ama onlara neler hissettirdiğinizi asla unutmaz. - *Maya Angelou*"  
 
-"Ürünün kendisi ile değil karşılayacağı istekle veya ihtiyaçla işe başlayın."
-"İyi bir reklam, kötü bir ürünün başına gelebilecek en kötü şeydir."
-"Reklamlar, söz konusu ürünleri pozitif içerikle sattırır."
-"İnsanlar söylediklerinizi ya da yaptıklarınızı unutur, ama onlara neler hissettirdiğinizi asla unutmaz. - *Maya Angelou*"
+Reklamlarla ilgili kısa ipuçları ileten kitapta, ayrıca iyi bir reklamda bulunması gereken nitelikler de yer alıyor.
