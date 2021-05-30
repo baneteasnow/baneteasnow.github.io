@@ -3,7 +3,7 @@ layout: post
 category: book
 last_modified_at: 2021-04-14
 published: true
-title: "The Omnivore's Dilemma |  (Kitap)"
+title: "The Omnivore's Dilemma | Michael Pollan (Kitap)"
 kitap: "The Omnivore's Dilemma - A Natural History of Four Meals"
 tr: "Etobur-Otobur İkilemi"
 yazar: "Michael Pollan"
