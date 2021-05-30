@@ -1,0 +1,21 @@
+---
+layout: post
+category: book
+title: "Why Vegan? | Peter Singer (Kitap)"
+kitap: "Why Vegan?: Eating Ethically"
+tr: "-"
+yazar: "Peter Singer"
+yil: "2020"
+sayfa: "87"
+goodreads: "https://www.goodreads.com/book/show/54922430-why-vegan"
+---
+
+2022-01-19-
+
+Avustralyalı filozof ve hayvan hakları savunucusu Peter Singer, Why Vegan isimli kitabında 1973 ve 2020 yılları arasında kaleme aldığı en önemli dokuz makalesine yer veriyor. Kitabın en başında ise, bugün artık bir manifesto haline gelmiş ünlü kitabı Animal Liberation'ın 1973 ve 1975 tarihli önsözlerine yer veriyor. Kitapta yer alan makalelerden her biri Singer'in hayvanların endüstriyel üretimden balıkçılığa hayvanlara yapılan zulüm ve bunu önlemek için özellikle ahlaki açıdan insanlara düşen sorumlulukları ele alıyor.
+
+Peter Singer'in 1970'li yıllarda ortaya attığı ve o yıllarda marjinal karşılanan tezi olan insanların hayvanlara karşı ahlaki bir sorumluluğu olduğu çünkü hayvanların 'acı' çektiği tezi, son 50 yılda pek çok bilimsel araştırmada doğrulanmış durumda. Singer'in hayvanların özgürleşmesi ve hayvan hakları mücadelesine hız kazandıran çalışmalarında kullandığı dil oldukça keskin ve direkt ancak aynı zamanda herkesin anlayabileceği kadar basit ve yalın. Kendini esnek bir vegan olarak tanımlayan Peter Singer, hiç kuşkusuz ki alanında en etkili isimlerden biri.
+
+Kitap, Singer'in 1982 yılında kaleme aldığı 'The Oxford Vegetarians: A Personal Account' isimli makalesi ile başlıyor. Bu bölümde kendi vejetaryen olma hikayesini anlatan Singer, ilerleyen sayfalarda et tüketiminin küresel ısınmaya olan etkisini, yapay et üretimine yönelik olan çalışmaları, ticari balıkçılık faaliyetinin okyanuslara verdiği zararı ve benzer daha pek çok konuyu ele alıyor.
+
+Kitabın Paola Cavalieri ile birlikte hazırladıkları son bölümü ise Covid-19'dan bahsediyor. 'The Two Dark Sides of Covid-19' başlığını taşıyan bu bölümde ise, pandeminin Wuhan'da ortaya çıktığı tahmin edilen şartları ele alarak et tüketmemek için nasıl bir sebep daha doğduğunu anlatıyor. Bu bölümü sadece Çin'de değil, tüm dünyada canlı hayvanların satıldığı ve öldürüldüğü pazarların yasaklanması gerektiğini belirterek, aşırı kalabalık kafeslerde sürdürülen endüstriyel hayvancılığın taşıdığı olumsuz koşulların farklı virüslerin ortaya çıkması için ideal ortamı sağladığını vurguluyor. Pandemi hakkındaki bu güncel bölüm ile konunun önemine bir kez daha dikkat çeken Why Vegan, okuyucuları hayvan kullanımı hakkında düşünmeye ve alternatifi sorgulamaya sevk ediyor.
