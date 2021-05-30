@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "Why Vegan? | Peter Singer (Kitap)"
-kitap: "Why Vegan?"
+kitap: "Why Vegan?: Eating Ethically"
 tr: "-"
 yazar: "Peter Singer"
 yil: "2020"
