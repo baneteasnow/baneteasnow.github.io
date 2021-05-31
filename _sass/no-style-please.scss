@@ -54,11 +54,13 @@ p { margin: 1rem 0; }
 
 hr {
   text-align: left;
-  border: 0;
+  border: 1;
+  border-color: #777777;
   width: auto;
-  &:before { content: '___' }
-  &:after { content: attr(data-content) '___' }
 }
+
+//  &:before { content: '___' }
+//  &:after { content: attr(data-content) '___' }
 
 table { width: 100%; }
 
