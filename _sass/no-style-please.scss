@@ -63,9 +63,10 @@ hr {
 table { width: 100%; }
 
 table, th, td {
-  border: thin solid red;
+  border: thin solid;
   border-collapse: collapse;
   padding: 0.4rem;
+  color: #777777;
 }
 
 code {
