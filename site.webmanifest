@@ -13,6 +13,12 @@
             "sizes":"512x512",
             "type":"image/png"
            }
+    {
+      "src": "/assets/images/maskable_icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
           ],
   "theme_color":"#ffffff",
   "background_color":"#cdf8e8",
