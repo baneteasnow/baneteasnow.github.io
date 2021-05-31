@@ -10,6 +10,7 @@ yazar: "Regina Wong"
 yil: "2018"
 sayfa: "154"
 goodreads: "https://www.goodreads.com/book/show/31213421-make-space"
+summary: "Michael Pollan, 'Etobur-Otobur İkilemi' isimli kitabında, yediğimiz yiyeceklerin kaynağını gıda zincirine bakarak sorguluyor. Ayrıca, bunun küresel olarak ne anlama geldiğini inceliyor."
 ---
 
 Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap. Kitabın yazarı Regina Wong'un 'livewellwithless' (önceki adı 'simple and minimal') isminde bir blogu bulunuyor.
