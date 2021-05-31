@@ -4,7 +4,7 @@
   "short_name":"notes.thebookish.de",
   "icons":[
            {
-             "src":"https://notes.thebookish.de/assets/images/android-chrome-512x512.png/assets/images/android-chrome-192x192.png",
+             "src":"https://notes.thebookish.de/assets/images/android-chrome-192x192.png",
             "sizes":"192x192",
             "type":"image/png"
            },
