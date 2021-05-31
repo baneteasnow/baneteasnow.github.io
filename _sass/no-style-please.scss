@@ -53,12 +53,11 @@ p { margin: 1rem 0; }
 }
 
 hr {
-  text-align: left;
-  border: 1;
-  border-color: #777777;
+  color: #777777;
   width: auto;
 }
-
+//  text-align: left;
+//  border: 1;
 //  &:before { content: '___' }
 //  &:after { content: attr(data-content) '___' }
 
