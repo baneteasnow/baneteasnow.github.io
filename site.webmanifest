@@ -17,7 +17,7 @@
       "src": "/assets/images/maskable_icon.png",
       "sizes": "196x196",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
           ],
   "theme_color":"#ffffff",
