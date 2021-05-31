@@ -10,6 +10,7 @@ yazar: "T. Colin Campbell, Thomas M. Campbell (II.)"
 yil: "2016"
 sayfa: "493"
 goodreads: "https://goodreads.com/book/show/178788.The_China_Study"
+summary: "Çin Mucizesi (The China Study), beslenme ile ilgili olarak bugüne kadar gerçekleştirilen en kapsamlı çalışma olma iddiasını taşıyan China-Cornell-Oxford ortak projesini ve sonuçlarını konu alıyor. Araştırma süresince, Çin'de 3000 yetişkinin diyetlerinin ve yaşam tarzlarının takibi yapılmış ve hayvansal ürünlerin tüketilmesi ile prostat kanseri, meme kanseri, bağırsak kanseri, diyabet, ve kalp krizi gibi çeşitli kronik rahatsızlıklar arasındaki ilişki incelenmiş."
 ---
 
 İlk olarak 2004 yılında yayınlanan The China Study, 1980'li yıllarda başlayan ve yaklaşık olarak 20 yıl devam eden Chinese Academy of Preventive Medicine, Cornell Üniversitesi ve Oxford Üniversitesi China-Cornell-Oxford ortak projesine dayanıyor. Dünya çapında beslenme üzerine en çok satan kitaplardan biri haline gelen The China Study (Çin Mucizesi), bu araştırmanın ayrıntılarını inceliyor. Araştırmada Çin'de 3000 yetişkinin diyetlerinin ve yaşam tarzlarının takibi yapılmış ve hayvansal ürünlerin tüketilmesi ile prostat kanseri, meme kanseri, bağırsak kanseri, diyabet, ve kalp krizi gibi çeşitli kronik rahatsızlıklar arasındaki ilişki incelenmiştir. Kitapta da vurgulandığı üzere, bu araştırma beslenme ile ilgili olarak bugüne kadar gerçekleştirilen en kapsamlı çalışma olma iddiasını taşımaktadır.
