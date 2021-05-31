@@ -24,6 +24,6 @@
   "background_color":"#cdf8e8",
   "display":"standalone",
   "orientation": "natural",
-  "categories": ["blog"],
+  "categories": ["books"],
   "start_url": "/"
 }
