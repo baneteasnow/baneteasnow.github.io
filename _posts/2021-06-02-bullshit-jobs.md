@@ -4,7 +4,7 @@ category: book
 last_modified_at: 2021-06-02
 published: true
 summary: 
-title: "Bullshit Jobs - A Theory | David Graeber"
+title: "Bullshit Jobs - A Theory | David Graeber (Kitap)"
 kitap: "Bullshit Jobs - A Theory - The Rise of Pointless Work, and What We Can Do About It"
 tr: "Tırışka İşler"
 yazar: "David Graeber"
