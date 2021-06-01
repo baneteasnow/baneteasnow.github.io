@@ -17,7 +17,7 @@
           ],
   "theme_color":"#ffffff",
   "background_color":"#cdf8e8",
-  "display":"minimal-ui",
+  "display":"standalone",
   "orientation": "natural",
   "categories": ["books"],
   "start_url": "https://notes.thebookish.de"
