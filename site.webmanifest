@@ -1,10 +1,11 @@
 
 {
   "name":"notes.thebookish.de",
-  "short_name":"notes.thebookish.de",
+  "short_name":"thebookish",
+  "description":"notes.thebookish.de - okuduğum kitaplar",
   "icons":[
            {
-             "src":"https://notes.thebookish.de/assets/images/android-chrome-192x192.png",
+            "src":"https://notes.thebookish.de/assets/images/android-chrome-192x192.png",
             "sizes":"192x192",
             "type":"image/png"
            },
