@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-last-modified-at: 2021-06-02
+last_modified_at: 2021-06-02
 published: true
 summary: 
 title: "Bullshit Jobs - A Theory | David Graeber"
