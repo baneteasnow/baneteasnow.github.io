@@ -7,12 +7,15 @@
            {
             "src":"https://notes.thebookish.de/assets/images/android-chrome-192x192.png",
             "sizes":"192x192",
-            "type":"image/png"
+            "type":"image/png",
+            "purpose": "any maskable"
+             
            },
            {
             "src":"https://notes.thebookish.de/assets/images/android-chrome-512x512.png",
             "sizes":"512x512",
-            "type":"image/png"
+            "type":"image/png",
+            "purpose": "any maskable"
            }
           ],
   "theme_color":"#ffffff",
@@ -20,5 +23,21 @@
   "display":"standalone",
   "orientation": "natural",
   "categories": ["books"],
-  "start_url": "https://notes.thebookish.de"
+  "start_url": "https://notes.thebookish.de",
+  "shortcuts" : [
+  {
+    "name": "şimdi",
+    "url": "https://notes.thebookish.de/simdi.html",
+    "description": "şimdi okuduğum kitap"
+  },
+  {
+    "name": "2021",
+    "description": "okuduğum kitaplar `2021`",
+    "url": "https://notes.thebookish.de/2021.html"
+  },
+  {
+    "name": "thebookish.de",
+    "url": "https://www.thebookish.de"
+  }
+]
 }
