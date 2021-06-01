@@ -22,21 +22,5 @@
   "display":"minimal-ui",
   "orientation": "natural",
   "categories": ["books"],
-  "start_url": "https://notes.thebookish.de",
-  "shortcuts" : [
-  {
-    "name": "şimdi",
-    "url": "https://notes.thebookish.de/simdi.html",
-    "description": "şimdi okuduğum kitap"
-  },
-  {
-    "name": "2021",
-    "description": "okuduğum kitaplar `2021`",
-    "url": "https://notes.thebookish.de/2021.html"
-  },
-  {
-    "name": "thebookish.de",
-    "url": "https://www.thebookish.de"
-  }
-]
+  "start_url": "https://notes.thebookish.de"
 }
