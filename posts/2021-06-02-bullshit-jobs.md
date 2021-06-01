@@ -10,8 +10,6 @@ sayfa: "347"
 goodreads: "https://www.goodreads.com/book/show/34466958-bullshit-jobs"
 ---
 
-2021-06-02-
-
 Bir antropolog olan David Graeber, 2013 Ağustos'ta STRIKE! Magazine'de 'On the Phenomenon of Bullshit Jobs: A Work Rant' ismi ile yayınlanan makalesinde hemen hiç kimsenin çalışmak istemediği, hiçbir değer yaratmayan, hatta belki topluma zararı dokunan 'zırva' işleri (bullshit jobs) anlatır. Bu makalesi büyük ilgi uyandırır ve saatler içinde viral olur. Sonraki birkaç hafta süresince, Graeber makalesinde tanımladığı mesleklere sahip kişilerden yüzlerce mesaj almış olduğunu yazıyor kitabında. Makalesinde bu tür işlere örnek olarak CEO'ları, lobicilik faaliyeti sürdürenleri, telepazarlamacıları, kurumsal iletişim faaliyetlerini sürdürenleri ve yasal danışmanları veriyor. "Bu işlerin pek çoğunluğu aslında yüksek ücretle çalışılan işler ancak bu işleri yapan kişilere bakıldığında onlar da anlamsız, 'aslında yapılmasa da olur' işlerde çalıştıklarının farkındalar ve bu nedenle hemen hepsi çalıştıkları müşterilere çok önemli katkı yapıyormuş havasını, sırf mevcut işlerini korumak adına, vermek zorundalar" diye özetliyor durumu.
 
 Bullshit Jobs, bu makaleden sonra Graeber'in araştırmasını genişleterek kaleme aldığı bir kitap. Kitapta bu işlerin içerikleri, çalışanların düşünceleri kadar, bu işlerin ortaya çıkmasına sebep olan sosyoekonomik ve kültürel mekanizmalar da inceleniyor. Ayrıca Birleşik Krallık'ta yapılan iki farklı araştırmanın sonuçlarına yer veriliyor.
