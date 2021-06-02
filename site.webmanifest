@@ -24,18 +24,6 @@
   "orientation": "natural",
   "categories": ["books"],
   "start_url": "https://notes.thebookish.de",
-  "screenshots" : [
-  {
-    "src": "https://notes.thebookish.de/assets/images/mobile.PNG",
-    "sizes": "1242x2688",
-    "type": "image/png"
-  },
-  {
-    "src": "https://notes.thebookish.de/assets/images/desktop.PNG",
-    "sizes": "4096x2304",
-    "type": "image/png"
-  }
-],
   "shortcuts" : [
   {
     "name": "şimdi",
