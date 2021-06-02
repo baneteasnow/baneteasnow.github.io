@@ -8,10 +8,27 @@ layout: default
   {%-endif-%}
 </header>
 
-<h1>{{ site.posts.first.title }}</h1>
+<h4>{{ site.posts.first.title }}</h4>
 {{ site.posts.first.content }}
 <!-- {{ site.posts.last.url }} -->
-
+<span style="font-size: 85%; color: #777;">
+  <i>
+    {{ page.kitap }}
+      <br /> 
+    {{ page.tr }}
+      <br />   
+    {{ page.yazar }}
+      <br /> 
+    {{ page.yil }}
+      <br />
+    {{ page.sayfa }} sayfa 
+      <br />
+    </span>
+    <span class="link1" style="font-size: 85%;">
+      <a href="{{ page.goodreads }}" target="_blank">goodreads</a>
+    </span>
+  </i>
+<br />
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
 {{ content }}
