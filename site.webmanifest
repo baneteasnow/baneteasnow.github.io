@@ -27,7 +27,7 @@
   "shortcuts" : [
   {
     "name": "şimdi",
-    "url": "https://notes.thebookish.de/simdi.html",
+    "url": "https://notes.thebookish.de/now.html",
     "description": "şimdi okuduğum kitap",
     "icons": [{ "src": "https://notes.thebookish.de/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
   },
