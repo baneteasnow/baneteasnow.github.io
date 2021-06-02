@@ -8,10 +8,9 @@ layout: default
   {%-endif-%}
 </header>
 
-
-<h1>{{ site.posts.last.title }}</h1>
-{{ site.posts.last.content }}
-{{ site.posts.last.url }}
+<h1>{{ site.posts.first.title }}</h1>
+{{ site.posts.first.content }}
+<!-- {{ site.posts.last.url }} -->
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
