@@ -37,5 +37,12 @@
     "url": "https://notes.thebookish.de/2021.html",
     "icons": [{ "src": "https://notes.thebookish.de/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
   }
+],
+  "screenshots" : [
+  {
+    "src": "https://notes.thebookish.de/assets/images/mobile1.png",
+    "sizes": "720x1280",
+    "type": "image/png"
+  },
 ]
 }
