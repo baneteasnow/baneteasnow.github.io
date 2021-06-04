@@ -29,13 +29,13 @@
     "name": "şimdi",
     "url": "https://notes.thebookish.de/now.html",
     "description": "şimdi okuduğum kitap",
-    "icons": [{ "src": "https://notes.thebookish.de/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
+    "icons": [{ "src": "https://notes.thebookish.de/assets/images/android-chrome1-192x192.png", "sizes": "192x192" }]
   },
   {
     "name": "2021",
     "description": "okuduğum kitaplar `2021`",
     "url": "https://notes.thebookish.de/2021.html",
-    "icons": [{ "src": "https://notes.thebookish.de/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
+    "icons": [{ "src": "https://notes.thebookish.de/assets/images/android-chrome1-192x192.png", "sizes": "192x192" }]
   }
                 ],
   "screenshots" : [
