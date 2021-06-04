@@ -1,61 +1,44 @@
-const CACHE = "pwabuilder-offline";
+const OFFLINE_VERSION = 1;
+const CACHE_NAME = 'offline';
+const OFFLINE_URL = 'offline.html';
 
-const offlineFallbackPage = "index.html";
-
-// Install stage sets up the index page (home page) in the cache and opens a new cache
-self.addEventListener("install", function (event) {
-  console.log("Install Event processing");
-
-  event.waitUntil(
-    caches.open(CACHE).then(function (cache) {
-      console.log("Cached offline page during install");
-
-      if (offlineFallbackPage === "https://notes.thebookish.de/offline.html") {
-        return cache.add(new Response("Update the value of the offlineFallbackPage constant in the serviceworker."));
-      }
-      return cache.add(offlineFallbackPage);
-    })
-  );
+self.addEventListener('install', (event) => {
+  event.waitUntil((async () => {
+    const cache = await caches.open(CACHE_NAME);
+    await cache.add(new Request(OFFLINE_URL, {cache: 'reload'}));
+  })());
 });
 
-// If any fetch fails, it will look for the request in the cache and serve it from there first
-self.addEventListener("fetch", function (event) {
-  if (event.request.method !== "GET") return;
+self.addEventListener('activate', (event) => {
+  event.waitUntil((async () => {
+    if ('navigationPreload' in self.registration) {
+      await self.registration.navigationPreload.enable();
+    }
+  })());
 
-  event.respondWith(
-    fetch(event.request)
-      .then(function (response) {
-        console.log("Add page to offline cache: " + response.url);
-
-        // If request was success, add or update it in the cache
-        event.waitUntil(updateCache(event.request, response.clone()));
-
-        return response;
-      })
-      .catch(function (error) {
-        console.log("Network request Failed. Serving content from cache: " + error);
-        return fromCache(event.request);
-      })
-  );
+  self.clients.claim();
 });
 
-function fromCache(request) {
-  // Check to see if you have it in the cache
-  // Return response
-  // If not in the cache, then return error page
-  return caches.open(CACHE).then(function (cache) {
-    return cache.match(request).then(function (matching) {
-      if (!matching || matching.status === 404) {
-        return Promise.reject("no-match");
+self.addEventListener('fetch', (event) => {
+  if (event.request.mode === 'navigate') {
+    event.respondWith((async () => {
+      try {
+        // First, try to use the navigation preload response if it's supported.
+        const preloadResponse = await event.preloadResponse;
+        if (preloadResponse) {
+          return preloadResponse;
+        }
+
+        const networkResponse = await fetch(event.request);
+        return networkResponse;
+      } catch (error) {
+
+        console.log('Fetch failed; returning offline page instead.', error);
+
+        const cache = await caches.open(CACHE_NAME);
+        const cachedResponse = await cache.match(OFFLINE_URL);
+        return cachedResponse;
       }
-
-      return matching;
-    });
-  });
-}
-
-function updateCache(request, response) {
-  return caches.open(CACHE).then(function (cache) {
-    return cache.put(request, response);
-  });
-}
+    })());
+  }
+});
