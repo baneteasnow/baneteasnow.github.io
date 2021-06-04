@@ -1,36 +1,61 @@
-'use strict';
+const CACHE = "pwabuilder-offline";
 
-var cacheVersion = 1;
-var currentCache = {
-   offline: 'offline-cache' + cacheVersion
-};
+const offlineFallbackPage = "offline.html";
 
-// Page you want to cache
-const offlinePage = ‘offline.html';
+// Install stage sets up the index page (home page) in the cache and opens a new cache
+self.addEventListener("install", function (event) {
+  console.log("Install Event processing");
 
-this.addEventListener('install', event => {
-   event.waitUntil(
-      caches.open(currentCache.offline).then(function(cache) {
-         return cache.addAll([offlinePage]);
+  event.waitUntil(
+    caches.open(CACHE).then(function (cache) {
+      console.log("Cached offline page during install");
+
+      if (offlineFallbackPage === "https://notes.thebookish.de/offline.html") {
+        return cache.add(new Response("Update the value of the offlineFallbackPage constant in the serviceworker."));
+      }
+      return cache.add(offlineFallbackPage);
+    })
+  );
+});
+
+// If any fetch fails, it will look for the request in the cache and serve it from there first
+self.addEventListener("fetch", function (event) {
+  if (event.request.method !== "GET") return;
+
+  event.respondWith(
+    fetch(event.request)
+      .then(function (response) {
+        console.log("Add page to offline cache: " + response.url);
+
+        // If request was success, add or update it in the cache
+        event.waitUntil(updateCache(event.request, response.clone()));
+
+        return response;
       })
-   );
+      .catch(function (error) {
+        console.log("Network request Failed. Serving content from cache: " + error);
+        return fromCache(event.request);
+      })
+  );
 });
 
-// Now to retrieve the cached pages, we will use the fetch event.
-this.addEventListener('fetch', event => {
-   if(event.request.mode === 'navigate' || (event.request.method === 'GET')) {
-      event.respondWith(
-         fetch(event.request.url).catch(error => {
-            // Return the offline page
-            return caches.match(offlinePage);
-         })
-      );
-   }
-   else{
-      event.respondWith(
-         caches.match(event.request).then(function (response) {
-            return response || fetch(event.request);
-         })
-      );
-   }
-});
+function fromCache(request) {
+  // Check to see if you have it in the cache
+  // Return response
+  // If not in the cache, then return error page
+  return caches.open(CACHE).then(function (cache) {
+    return cache.match(request).then(function (matching) {
+      if (!matching || matching.status === 404) {
+        return Promise.reject("no-match");
+      }
+
+      return matching;
+    });
+  });
+}
+
+function updateCache(request, response) {
+  return caches.open(CACHE).then(function (cache) {
+    return cache.put(request, response);
+  });
+}
