@@ -10,8 +10,6 @@ sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai"
 ---
 
-2021-06-09-
-
 Ken Mogi, Ikigai'nin 5 boyutu olduğunu ileterek başlıyor kitabına. (sayfa 5)
 
 Ufaktan başlamak
