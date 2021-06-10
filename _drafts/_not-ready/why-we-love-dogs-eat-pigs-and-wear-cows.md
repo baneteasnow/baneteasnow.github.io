@@ -9,3 +9,5 @@ yil: "2020"
 sayfa: "221"
 goodreads: "https://www.goodreads.com/book/show/50915414-why-we-love-dogs-eat-pigs-and-wear-cows"
 ---
+
+
