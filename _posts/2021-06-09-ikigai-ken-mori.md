@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-06-10
+last_modified_at: 2021-06-09
 published: true
 summary: "'Sabah yataktan kalkma sebebi' olarak tanımlanan Ikigai'yi inceleyen kitap, kendi Ikigai'sini bulmuş kişilerin hikayelerine de yer veriyor."
 title: "Ikigai | Ken Mogi (Kitap)"
