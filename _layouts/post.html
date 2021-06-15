@@ -26,6 +26,10 @@ layout: default
    {{ page.yazar }}
 {% endif %}
     <br />
+    {% if page.tr == "" and page.tr == nil %}
+     {{ page.yazar }}
+    {% endif %}
+    <br />
     {% if page.tr != "" and page.tr != nil %}
     {{ page.yil }}
     {% else %}
