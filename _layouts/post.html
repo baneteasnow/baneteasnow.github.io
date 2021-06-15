@@ -21,10 +21,11 @@ layout: default
     {{ page.kitap }}
       <br />
 {% if page.tr != "" and page.tr != nil and page.tr != "-" %}
-   {{ page.tr }}
+   {{ page.tr }} <br />
 {% else %}
     <div style="visibility: hidden;"></div>
-{% endif %}    
+{% endif %}<br />
+    
     {{ page.yazar }}
       <br /> 
     {{ page.yil }}
