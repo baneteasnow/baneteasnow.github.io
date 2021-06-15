@@ -1,6 +1,8 @@
 ---
 layout: post
 category: book
+last_modified_at: 2021-06-16
+published: true
 title: "101 Things I Learned in Product Design School | Sung Jang, Martin Thaler, Matthew Frederick (Kitap)"
 kitap: "101 Things I Learned in Product Design School"
 tr: "-"
@@ -9,8 +11,6 @@ yil: "2020"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/49188385-101-things-i-learned-in-product-design-school"
 ---
-
-2021-06-16-
 
 101 Things I Learned in Product Design School, tasarımın aslında fiziksel bir eylem olduğu ve sadece masabaşında yapılamayacağı vurgusu ile başlıyor. Bazen deneme yanılma yöntemi ile, bazen deneyimleyerek söz konusu dizayn adım adım en iyi haline getirilebilir. Kullanıcı gibi davranıp, kullanıcının deneyimini edinmek, dizaynı kullanıcının perspektifinden görebilmek çok önemlidir. Aksi takdirde, tasarımcının bakış açısı sadece bildikleri ile sınırlı kalacaktır.
 
