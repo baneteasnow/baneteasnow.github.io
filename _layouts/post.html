@@ -20,8 +20,12 @@ layout: default
   <i>
     {{ page.kitap }}
       <br /> 
-    {{ page.tr }}
-      <br />   
+{% if page.tr != "" and page.tr != nil and page.tr != "-" %}
+   {{ page.tr }}
+{% else %}
+   "(kitabın Türkçe baskısı henüz yok)"
+{% endif %}      
+    <br />   
     {{ page.yazar }}
       <br /> 
     {{ page.yil }}
