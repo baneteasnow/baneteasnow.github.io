@@ -20,28 +20,14 @@ layout: default
   <i>
     {{ page.kitap }}
       <br /> 
-    {% if page.tr != "" and page.tr != nil %}
-   {{ page.tr }}
-{% else %}
-   {{ page.yazar }}
-{% endif %}
-    <br />
-    {% if page.tr == "" and page.tr == nil %}
-     {{ page.yazar }}
-    {% endif %}
-    <br />
-    {% if page.tr != "" and page.tr != nil %}
-    {{ page.yil }}
-    {% else %}
-    {{ page.yil }}
-    {% endif %}
+    {{ page.tr }}
+      <br />   
+    {{ page.yazar }}
       <br /> 
-    {% if page.tr != "" and page.tr != nil %}
+    {{ page.yil }}
+      <br />
     {{ page.sayfa }} sayfa 
-    {% else %}
-    {{ page.sayfa }} sayfa 
-    {% endif %}
-    <br />
+      <br />
     </span>
     <span class="link1" style="font-size: 85%;">
       <a href="{{ page.goodreads }}" target="_blank">goodreads</a>
