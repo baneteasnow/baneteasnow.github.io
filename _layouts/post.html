@@ -23,15 +23,21 @@ layout: default
     {% if page.tr != "" and page.tr != nil %}
    {{ page.tr }}
 {% else %}
-   page.tr is not set
+   {{ page.yazar }}
 {% endif %}
-      <br />   
-    {{ page.yazar }}
-      <br /> 
+    <br />
+    {% if page.tr != "" and page.tr != nil %}
     {{ page.yil }}
-      <br />
+    {% else %}
+    {{ page.yil }}
+    {% endif %}
+      <br /> 
+    {% if page.tr != "" and page.tr != nil %}
     {{ page.sayfa }} sayfa 
-      <br />
+    {% else %}
+    {{ page.sayfa }} sayfa 
+    {% endif %}
+    <br />
     </span>
     <span class="link1" style="font-size: 85%;">
       <a href="{{ page.goodreads }}" target="_blank">goodreads</a>
