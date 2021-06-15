@@ -5,7 +5,7 @@ last_modified_at: 2021-06-16
 published: true
 title: "101 Things I Learned in Product Design School | Sung Jang, Martin Thaler, Matthew Frederick (Kitap)"
 kitap: "101 Things I Learned in Product Design School"
-tr: ""
+tr: "-"
 yazar: "Sung Jang, Martin Thaler, Matthew Frederick"
 yil: "2020"
 sayfa: "216"
