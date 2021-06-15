@@ -20,7 +20,11 @@ layout: default
   <i>
     {{ page.kitap }}
       <br /> 
-    {{ page.tr }}
+    {% if page.tr != "" and page.tr != nil %}
+   {{ page.tr }}
+{% else %}
+   page.tr is not set
+{% endif %}
       <br />   
     {{ page.yazar }}
       <br /> 
