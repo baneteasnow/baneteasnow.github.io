@@ -24,4 +24,3 @@ Yaratıcılık doğrusal değildir.
 
 101 Things I Learned in Product Design School, çeşitli örneklerle temel kavramları da okuyucuya aktarıyor.
 
-<!--tr: "-"-->
