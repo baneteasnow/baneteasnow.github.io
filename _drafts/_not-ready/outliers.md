@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Outliers | Malcolm Gladwell"
+title: "Outliers | Malcolm Gladwell (Kitap)"
 kitap: "Outliers: The Story of Success"
 tr: "Outliers (Çizginin Dışındakiler) - Bazı İnsanlar Neden Daha Başarılı Olur?"
 yazar: "Malcolm Gladwell"
