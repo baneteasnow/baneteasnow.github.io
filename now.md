@@ -10,7 +10,7 @@ The Burnout Society (Yorgunluk Toplumu) (2015)
 Does the Richness of Few Benefits Us All? (Azınlığın Zenginliği Hepimizin Çıkarına mıdır?) (2015)  
 <i>by</i> Zygmunt Bauman  
 <br />
-Outliers: The Story of Success (2008)
+Outliers: The Story of Success (2008)  
 <i>by</i> Malcolm Gladwell
 <br />
 
