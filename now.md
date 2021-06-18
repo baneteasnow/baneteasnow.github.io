@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-06-13
+last_modified_at: 2021-06-18
 ---
 
 Yorgunluk Toplumu (The Burnout Society) (2015)  
