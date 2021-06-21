@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-06-18
+last_modified_at: 2021-06-21
 ---
 
 A Repurposed Life (2020)  
