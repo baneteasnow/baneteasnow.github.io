@@ -1,8 +1,8 @@
 ---
 layout: post
 category: book
-title: "Does the Richness of Few Benefits Us All? | Zygmunt Bauman (Kitap)"
-kitap: "Does the Richness of Few Benefits Us All?"
+title: "Does the Richness of the Few Benefits Us All? | Zygmunt Bauman (Kitap)"
+kitap: "Does the Richness of the Few Benefits Us All?"
 tr: "Azınlığın Zenginliği Hepimizin Çıkarına mıdır?"
 yazar: "Zygmunt Bauman"
 yil: "2015"
