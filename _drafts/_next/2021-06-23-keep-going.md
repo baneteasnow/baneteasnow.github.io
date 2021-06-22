@@ -7,10 +7,10 @@ tr: "Devam Edebilmek - İyi ve Kötü Zamanlarda Yaratıcı Olabilmenin On Yolu"
 yazar: "Austin Kleon"
 yil: "2020"
 sayfa: "224"
+published: true
+last_modified_at: 2021-06-22
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
 ---
-
-2021-06-23-
 
 Austin Kleon, çok satan Bir Sanatçı Gibi Araklayın (Steal Like An Artist) isimli kitabında başkalarının ürettiği eserlerden esinlenmenin yaratıcılığı nasıl beslediğini anlatıyor. Yazar, Devam Edebilmek (Keep Going) isimli bu kitabında ise, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolunu paylaşıyor.
 
