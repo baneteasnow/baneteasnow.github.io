@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-24
 ---
 
 Outliers: The Story of Success (2008)  
