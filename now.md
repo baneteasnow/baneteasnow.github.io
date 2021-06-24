@@ -4,9 +4,6 @@ title: şimdi okuduğum kitap
 last_modified_at: 2021-06-22
 ---
 
-A Repurposed Life (2020)  
-<i>by</i> Ronni Kahn  
-<br />
 Outliers: The Story of Success (2008)  
 <i>by</i> Malcolm Gladwell  
 <br />
