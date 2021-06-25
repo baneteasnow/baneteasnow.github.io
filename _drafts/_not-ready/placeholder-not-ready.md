@@ -20,5 +20,6 @@ yil: ""
 sayfa: ""  
 goodreads: ""  
 last_modified_at:   
-published:   
-summary:  
+published: true/false  
+summary: ""  
+permalink: /text  
