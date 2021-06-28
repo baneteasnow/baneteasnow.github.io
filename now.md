@@ -4,7 +4,7 @@ title: şimdi okuduğum kitap
 last_modified_at: 2021-06-28
 ---
 
-The Bomber Mafia: A Story Set in War (2021)  
+The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War (2021)  
 <i>by</i> Malcolm Gladwell  
 <br />
 The McDonaldization of Society: An Investigation Into the Changing Character of Contemporary Social Life (Toplumun McDonaldlaştırılması: Çağdaş Toplum Yaşamının Değişen Karakteri Üzerine Bir İnceleme) (2016)  
