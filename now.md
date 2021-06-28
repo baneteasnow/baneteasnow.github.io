@@ -1,15 +1,17 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-06-25
+last_modified_at: 2021-06-28
 ---
 
-Outliers: The Story of Success (2008)  
+The Bomber Mafia: A Story Set in War (2021)  
 <i>by</i> Malcolm Gladwell  
 <br />
 The McDonaldization of Society: An Investigation Into the Changing Character of Contemporary Social Life (Toplumun McDonaldlaştırılması: Çağdaş Toplum Yaşamının Değişen Karakteri Üzerine Bir İnceleme) (2016)  
 <i>by</i> George Ritzer  
 <br />
+The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory (2015)  
+<i>by</i> Carol J. Adams  
 <span style="color: white"> -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- </span>
 
 <!-- <span style="color: white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis cursus erat quis tempus. Fusce semper eu eros in tristique.</span> -->
