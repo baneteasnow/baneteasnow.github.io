@@ -9,6 +9,7 @@ yil: "2020"
 sayfa: "224"
 published: true
 last_modified_at: 2021-06-22
+summary: ""
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
 ---
 
