@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-06-28
+last_modified_at: 2021-06-29
 ---
 
 The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War (2021)  
