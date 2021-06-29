@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "The 4-Hour Workweek | Tim Ferriss (Kitap)"
-kitap: "The 4-Hour Workweek"
+kitap: "The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich"
 tr: "4 Saatlik Hafta: Az Çalış, Çok Kazan ve İyi Yaşa!"
 yazar: "Tim Ferriss"
 yil: "2011"
