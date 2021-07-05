@@ -4,8 +4,8 @@ title: 'kitaplık'
 last_modified_at: 2021-07-05
 ---
 
-  <a href="#">
-   <img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 3%; width: 22%;" title="thebookishde" /></a>
+  <!--<a href="#">
+   <img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 3%; width: 22%;" title="thebookishde"/></a>-->
 
   <a href="https://notes.thebookish.de/the-4-hour-workweek.html">
 <img alt="the 4-hour workweek" src="https://notes.thebookish.de/assets/images/images-new/the-4-hour-workweek.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 3%; width: 22%;" title="the 4-hour workweek" /></a>
