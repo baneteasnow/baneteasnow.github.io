@@ -13,6 +13,6 @@ layout: default
 </span> 
  <span class="link1" style="text-align: right; float: right; font-size: 85%;">
      <em><a href="/now.html">şimdi</a> &nbsp;
-       <a href="/worth-rereading">#yenidenoku</a> &nbsp;
+       <a href="/worth-rereading">#yeniden</a> &nbsp;
      <a href='https://www.thebookish.de/'>thebookish.de</a></em>
     </span>
