@@ -33,6 +33,11 @@ layout: default
       <br />
     {{ page.sayfa }} sayfa 
       <br />
+    {% if page.rereading != "yes" %}
+    <div style="visibility: hidden;"> <br />
+{% else %}
+    "#reread" </div>
+{% endif %}
     </span>
     <span class="link1" style="font-size: 85%;">
       <a href="{{ page.goodreads }}" target="_blank">goodreads</a>
