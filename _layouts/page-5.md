@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<!-- page: 'now' -->
+<span class="link1">{%-include back_link.html-%}</span>
+
+<i><h4>{{ page.title }}</h4></i>
+
+{{ content }}
+
+  <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
+   🌿 <em>son güncelleme: {{ page.last_modified_at | date: "%B %-d, %Y" }}</em> &nbsp;
+</span> 
+ <span class="link1" style="text-align: right; float: right; font-size: 85%;">
+     <a href="/worth-rereading">#yenidenoku</a> &nbsp;
+     <a href='https://www.thebookish.de/'>thebookish.de</a></i>
+    </span>
