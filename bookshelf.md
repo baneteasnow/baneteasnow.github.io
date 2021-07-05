@@ -7,12 +7,6 @@ last_modified_at: 2021-07-05
   <a href="#">
    <img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
 
-  <a href="#">
-   <img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
-
-  <a href="#">
-<img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
-
   <a href="https://notes.thebookish.de/the-4-hour-workweek.html">
 <img alt="the 4-hour workweek" src="https://notes.thebookish.de/assets/images/images-new/the-4-hour-workweek.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="the 4-hour workweek" /></a>
 
@@ -51,5 +45,14 @@ last_modified_at: 2021-07-05
 
   <a href="https://notes.thebookish.de/bad-blood.html">
 <img alt="bad blood" src="https://notes.thebookish.de/assets/images/images-new/bad-blood.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="bad blood" /></a>
+
+ <a href="https://notes.thebookish.de/how-starbucks-saved-my-life.html">
+<img alt="how starbucks saved my life" src="https://notes.thebookish.de/assets/images/images-new/how-starbucks-saved-my-life.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="how starbucks saved my life" /></a>
+
+ <a href="https://notes.thebookish.de/what-they-teach-you-at-harvard-business-school.html">
+<img alt="what they teach you at harvard business school" src="https://notes.thebookish.de/assets/images/images-new/what-they-teach-you-at-harvard-business-school.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="what they teach you at harvard business school" /></a>
+
+  <a href="https://notes.thebookish.de/crowdsourcing.html">
+<img alt="crowdsourcing" src="https://notes.thebookish.de/assets/images/images-new/crowdsourcing.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="crowdsourcing" /></a>
 
 <br />
