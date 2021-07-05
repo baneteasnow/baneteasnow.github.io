@@ -33,10 +33,10 @@ layout: default
       <br />
     {{ page.sayfa }} sayfa 
       <br />
-    {% if page.rereading != "yes" %}
+    {% if page.rereading != "#reread" %}
     <div style="visibility: hidden;"> <br />
 {% else %}
-    "#reread" </div>
+    "{{ page.rereading }}" </div>
 {% endif %}
     </span>
     <span class="link1" style="font-size: 85%;">
