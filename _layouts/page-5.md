@@ -12,6 +12,7 @@ layout: default
    🌿 <em>son güncelleme: {{ page.last_modified_at | date: "%B %-d, %Y" }}</em> &nbsp;
 </span> 
  <span class="link1" style="text-align: right; float: right; font-size: 85%;">
-     <a href="/worth-rereading">#yenidenoku</a> &nbsp;
-     <a href='https://www.thebookish.de/'>thebookish.de</a></i>
+     <em><a href="/now.html">şimdi</a> &nbsp;
+       <a href="/worth-rereading">#yenidenoku</a> &nbsp;
+     <a href='https://www.thebookish.de/'>thebookish.de</a></em>
     </span>
