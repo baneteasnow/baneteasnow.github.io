@@ -13,8 +13,6 @@ last_modified_at: 2021-07-05
 published: true
 ---
 
-2020-10-27-
-
 Kitabın yazarı ve gazeteci Jeff Howe, Crowdsourcing kavramından ilk kez 2006 yılında Wired dergisinde yayınlanan 'The Rise of Crowdsourcing' isimli makalesinde bahseder. Bu kavramı kullanırken, outsourcing kavramından esinlenmiştir. Outsourcing kavramının yaygınlaşması ile bazı işlerin Çin veya Hindistan gibi ülkelerde yapılır hale gelmiş olması gibi, crowdsourcing kavramı ile de internetin yaygınlaşması ve iletişimin kolaylaşmasının beraberinde kalabalıkların gücünden yararlanan yeni iş modellerinin ortaya çıkması ifade edilmiştir.   
   
 Crowdsourcing, öncelikle katılımcıların herhangi bir maddi kaygı ile hareket etmediği, tamamen gönüllülük esasına dayalı ve ilgi alanlarına göre internet üzerinde biraraya gelerek ortak bir alanda çalışmaları ve o alanda bir gelişim sağlamak için çaba sarfetmeleri temeline dayanan bir kavram. Bu sayede, kitleler interaktif olarak kendi yaratıcılıklarını kullanma fırsatı yakalıyorlar.   
