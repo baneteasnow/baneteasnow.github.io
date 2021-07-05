@@ -4,52 +4,52 @@ title: 'kitaplık'
 last_modified_at: 2021-07-05
 ---
 
-  <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="#">
+   <img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
 
-  <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="#">
+   <img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="#">
+<img alt="thebookishde" src="https://notes.thebookish.de/assets/images/images-new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/the-4-hour-workweek.html">
+<img alt="the 4-hour workweek" src="https://notes.thebookish.de/assets/images/images-new/the-4-hour-workweek.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="the 4-hour workweek" /></a>
 
- <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+ <a href="https://notes.thebookish.de/keep-going.html">
+   <img alt="keep going" src="https://notes.thebookish.de/assets/images/images-new/keep-going.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="keep going" /></a>
 
-  <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/101-things-i-learned-in-product-design-school.html">
+   <img alt="101 things i learned in product design school" src="https://notes.thebookish.de/assets/images/images-new/101-things-i-learned-in-product-design-school.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="101 things i learned in product design school" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/ikigai-ken-mori.html">
+<img alt="ikigai | ken mogi" src="https://notes.thebookish.de/assets/images/images-new/ikigai-ken-mogi.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="ikigai | ken mogi" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/bullshit-jobs.html">
+<img alt="bullshit jobs" src="https://notes.thebookish.de/assets/images/images-new/bullshit-jobs.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="bullshit jobs" /></a>
 
-  <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/why-we-sleep.html">
+   <img alt="why we sleep" src="https://notes.thebookish.de/assets/images/images-new/why-we-sleep.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="why we sleep" /></a>
 
-  <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/make-space.html">
+   <img alt="make space" src="https://notes.thebookish.de/assets/images/images-new/make-space.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="make space" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/range.html">
+<img alt="range" src="https://notes.thebookish.de/assets/images/images-new/range.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="range" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/the-china-study.html">
+<img alt="the china study" src="https://notes.thebookish.de/assets/images/images-new/the-china-study.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="the china study" /></a>
 
- <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+ <a href="https://notes.thebookish.de/talking-to-strangers.html">
+   <img alt="talking to strangers" src="https://notes.thebookish.de/assets/images/images-new/talking-to-strangers.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="talking to strangers" /></a>
 
-  <a href="#kitap">
-   <img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/the-cheese-trap.html">
+   <img alt="the cheese trap" src="https://notes.thebookish.de/assets/images/images-new/the-cheese-trap.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="the cheese trap" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/the-omnivores-dilemma.html">
+<img alt="the omnivore's dilemma" src="https://notes.thebookish.de/assets/images/images-new/omnivores-dilemma.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 4%; width: 22%;" title="the omnivore's dilemma" /></a>
 
-  <a href="#kitap">
-<img alt="thebookishde" src="https://1.bp.blogspot.com/-gBk4EdMYER8/X6Mu91VLHVI/AAAAAAAARhA/nzRdGrEFtYg-RwpE3l6zZEqzTi_jOjiJACLcBGAsYHQ/s320/Image%2BPlaceholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="thebookishde" /></a>
+  <a href="https://notes.thebookish.de/bad-blood.html">
+<img alt="bad blood" src="https://notes.thebookish.de/assets/images/images-new/bad-blood.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="bad blood" /></a>
 
 <br />
