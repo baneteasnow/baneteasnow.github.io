@@ -56,3 +56,4 @@ last_modified_at: 2021-07-05
 <img alt="crowdsourcing" src="https://notes.thebookish.de/assets/images/images-old/crowdsourcing.jpg" style="float: left; height: 70%; margin-bottom: 1em; width: 22%;" title="crowdsourcing" /></a>
 
 <br />
+<div style="clear: both;"></div>
