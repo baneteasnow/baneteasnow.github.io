@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book2
-title: "Harvard Business School'da Size Ne Öğretirler? | Philip Delves Broughton (Kitap)"  
+title: "What They Teach You at Harvard Business School | Philip Delves Broughton (Kitap)"  
 kitap: "What They Teach You at Harvard Business School: My Two Years Inside the Cauldron of Capitalism"  
 tr: "Harvard Business School'da Size Ne Öğretirler? - Kapitalizmin Mutfağında Geçirdiğim İki Yıl"  
 yazar: "Philip Delves Broughton"  
