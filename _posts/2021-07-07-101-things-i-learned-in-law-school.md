@@ -8,9 +8,10 @@ yazar: "Vibeke Norgaard Martin, Matthew Frederick"
 yil: "2019"
 sayfa: "226"
 goodreads: "https://www.goodreads.com/book/show/15791130-101-things-i-learned-in-law-school"
+published: true
+summary: "Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in Law School, ABD'deki hukuk sisteminin nasıl işlediğini de ele alıyor."
+last_modified_at: 2021-07-07
 ---
-
-2021-07-07-
 
 Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in Law School, ABD'deki hukuk sisteminin nasıl işlediğini de ele alıyor. 
 
