@@ -13,6 +13,6 @@ A World Without Email: Reimagining Work in an Age of Communication Overload (202
 The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory (2015)  
 <i>by</i> Carol J. Adams  
 <br />
-<span style="color: white"> -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- </span>
+<span style="color: white">-_-_-_-_- </span>
 
 <!-- <span style="color: white">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis cursus erat quis tempus. Fusce semper eu eros in tristique.</span> -->
