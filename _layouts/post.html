@@ -7,6 +7,12 @@ layout: default
 <article>
   <p class="post-meta">
     <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    <br />
+    {% if page.rereading != "#reread" %}
+    <div style="visibility: hidden;"></div>
+{% else %}
+    <a href="/worth-rereading.html">{{ page.rereading }}</a><br />
+{% endif %}
   </p>
   
   <h4>{{ page.title }}</h4>
