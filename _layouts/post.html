@@ -16,9 +16,8 @@ layout: default
 <!-- 〰〰〰 
 <div style="font-size: 85%; color: #777;">_ _ _</div> 
 --- kitabın Türkçe baskısı henüz yok -->
-
+<i>
 <span style="font-size: 85%; color: #777;">
-  <i>
     {{ page.kitap }}
       <br />
 {% if page.tr != "" and page.tr != nil and page.tr != "-" %}
@@ -26,9 +25,8 @@ layout: default
 {% else %}
     <div style="visibility: hidden;"></div>
 {% endif %}
-    
     {{ page.yazar }}
-      <br /> 
+      <br />
     {{ page.yil }}
       <br />
     {{ page.sayfa }} sayfa
@@ -43,6 +41,7 @@ layout: default
      <a href="{{ page.goodreads }}" target="_blank">goodreads</a>
     </span>
   </i>
+<br />
 <!--
 <em> <span style="font-size: 85%; cursor: default; color: #777;">#{{page.category | join: ' #'}} </span> </em>
 <br />  
