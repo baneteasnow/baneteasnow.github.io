@@ -1,6 +1,6 @@
 ---
 layout: post  
-category: book2  
+category: [book2, reread]  
 title: "The Shallows | Nicholas Carr (Kitap)"  
 kitap: "The Shallows: What the Internet Is Doing to Our Brains"  
 tr: "Yüzeysellik - İnternet Bizi Aptal Mı Yapıyor?"  
@@ -11,6 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/9778945-the-shallows"
 summary: "Yüzeysellik, internetin getirilerini kabul ederken, teknolojinin kısa & uzun vadeli bedelini sorguluyor, insan hayatından alıp götürdüklerine bakıyor."
 last_modified_at: 2021-07-08
 published: true
+rereading: '#yeniden'
 ---
 
 Nicholas Carr'in kaleme aldığı Yüzeysellik: İnternet Bizi Aptal Mı Yapıyor? isimli kitap, yazarın the Atlantic dergisinde 2008 yılında yayınlanan 'Is Google Making Us Stupid' (Google Bizi Aptallaştırıyor Mu) başlıklı makalesine dayanıyor.  
