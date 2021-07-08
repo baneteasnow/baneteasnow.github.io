@@ -7,12 +7,12 @@ layout: default
 <article>
   <p class="post-meta">
     <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-    <br />
+    <!--<br />
     {% if page.rereading != "#reread" %}
     <div style="visibility: hidden;"></div>
 {% else %}
     <a href="/worth-rereading.html">{{ page.rereading }}</a>
-{% endif %}
+{% endif %}-->
   </p>
   
   <h4>{{ page.title }}</h4>
@@ -37,11 +37,11 @@ layout: default
       <br />
     {{ page.sayfa }} sayfa
       <br />
-    {% if page.rereading != "#reread" %}
+    <!--{% if page.rereading != "#reread" %}
     <div style="visibility: hidden;"></div>
 {% else %}
     <a href="/worth-rereading.html">{{ page.rereading }}</a><br />
-{% endif %}
+{% endif %}-->
     </span>
     <span class="link1" style="font-size: 85%;">
      <a href="{{ page.goodreads }}" target="_blank">goodreads</a>
@@ -64,7 +64,11 @@ layout: default
  -->
 <br />
 <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
-    🌿 <em>2021</em> &nbsp;
+    🌿 <em> {% if page.rereading != "#reread" %}
+    2020-2021
+{% else %}
+    <a href="/worth-rereading.html">{{ page.rereading }}</a>
+{% endif %}</em> &nbsp;
 </span>
 <span class="link1" style="text-align: right; float: right; font-size: 85%;">
              <em><a href="/now.html">şimdi</a> &nbsp;
