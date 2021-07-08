@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-2
 which_category: book2
 published: true
 title: 'eski yazılar `kitap`' 
