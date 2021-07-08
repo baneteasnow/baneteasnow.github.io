@@ -1,6 +1,6 @@
 ---
 layout: post  
-category: book2  
+category: [book2, reread]  
 title: "Happy As A Dane | Malene Rydahl (Kitap)"  
 kitap: "Happy As A Dane: 10 Secrets of the Happiest People ın the World"  
 tr: "Danimarkalı Gibi Mutlu - Dünyanın En Mutlu İnsanları Olmalarının On Nedeni"  
@@ -11,6 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/33827779-happy-as-a-dane"
 summary: "Danimarkalı Gibi Mutlu, yapılan araştırmalarda yüksek mutluluk oranları ile dikkat çeken Danimarka'nın günlük yaşamına odaklanan bir kitap."
 last_modified_at: 2021-07-08
 published: true
+rereading: '#yeniden'
 ---
 
 Danimarka'nın Kopenhag şehrinde doğan kitabın yazarı Malene Rydahl, 18 yaşında halen yaşamakta olduğu Paris'e yerleşmiştir. Yazar, çocukluğunu geçirdiği ülkesinde dahil olduğu Danimarka modelinin genel hatlarını kaleme aldığı Danimarkalı Gibi Mutlu kitabında anlatıyor.  
