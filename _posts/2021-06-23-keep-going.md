@@ -11,7 +11,7 @@ published: true
 last_modified_at: 2021-06-22
 summary: "Keep Going, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolu paylaşıyor."
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
-rereading: '#reread'
+rereading: '#yeniden'
 ---
 
 Austin Kleon, çok satan Bir Sanatçı Gibi Araklayın (Steal Like An Artist) isimli kitabında başkalarının ürettiği eserlerden esinlenmenin yaratıcılığı nasıl beslediğini anlatıyor. Yazar, Devam Edebilmek (Keep Going) isimli bu kitabında ise, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolunu paylaşıyor.
