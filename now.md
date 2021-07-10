@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-07-08
+last_modified_at: 2021-07-10
 ---
 
 The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory (2015)  
