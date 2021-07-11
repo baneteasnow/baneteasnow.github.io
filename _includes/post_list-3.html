@@ -1,0 +1,48 @@
+{%-if include.category-%}
+  {%-assign posts = site.categories[include.category]-%}  
+{%-else-%}
+  {%-assign posts = site.posts-%}
+{%-endif-%}
+
+{%-if include.limit and posts.size > include.limit-%}
+  {%-assign limit_exceeded = true-%}
+{%-else-%}
+  {%-assign limit_exceeded = false-%}
+{%-endif-%}
+
+{%- if posts.size > 0 -%}
+<div>
+  {%- for post in posts limit: include.limit -%}
+    <div style="text-align: left; margin-bottom: 15px; line-height: 25px;">
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+  		 <span style="text-align: left; float: left;>{{ year.name }}</span>
+
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+{% for month in postsByMonth %}
+<span style="float: right;>{{ month.name }}</span>
+
+{% assign postsByDay = month.items | group_by_exp:"post", "post.date | date: '%d'" %}
+{% for day in postsByDay %}
+<span>{{ day.name }}</span>
+
+  <div style="text-align: right; float: right;>
+  {% for post in day.items %}
+    <div style="text-align: left; float: left;>
+      <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+    </p>
+  {% endfor %}
+</div>
+
+{% endfor %}
+{% endfor %}
+{% endfor %}
+              <div style="clear: both;"></div>
+          </div>
+    {%- endfor -%}
+    <div style="clear: both;"></div>
+   <span class="link1"><em> {%- if include.show_more and limit_exceeded -%}
+      <a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></em></span>
+    {%- endif -%}
+  </div>
+{%- endif -%}
