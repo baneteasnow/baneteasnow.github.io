@@ -124,7 +124,7 @@ a:hover{
     position: relative;
     display: inline-block;
 }
-.decorated > span:before{
+.decorated > span:before, .decorated > span:after{
     content: '';
     position: absolute;
     top: 50%;
@@ -135,7 +135,9 @@ a:hover{
 .decorated > span:before{
     right: 100%;
 }
-
+.decorated > span:after{
+    left: 100%;
+}
 
 // .xxx
 
