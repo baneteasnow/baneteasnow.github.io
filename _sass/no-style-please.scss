@@ -124,7 +124,7 @@ a:hover{
     display: inline-block;
 }
 .decorated > span:before, .decorated > span:after{
-    content: '...';
+    content: '';
     position: absolute;
     top: 90%;
     border-bottom: 1px dotted red;
