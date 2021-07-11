@@ -14,28 +14,15 @@
 <div>
   {%- for post in posts limit: include.limit -%}
     <div style="text-align: left; margin-bottom: 15px; line-height: 25px;">
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear =
+    site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-  		 <div>{{ year.name }}</div>
-
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-{% for month in postsByMonth %}
-<div>{{ month.name }}</div>
-
-{% assign postsByDay = month.items | group_by_exp:"post", "post.date | date: '%d'" %}
-{% for day in postsByDay %}
-<div>{{ day.name }}</div>
-
-  <div>
-  {% for post in day.items %}
+  <h1>{{ year.name }}</h1>
     <div>
-      <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+      {% for post in year.items %}
+        <div><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}-{{ post.date }}</a></div>
+      {% endfor %}
     </div>
-  {% endfor %}
-</div>
-
-{% endfor %}
-{% endfor %}
 {% endfor %}
               <div style="clear: both;"></div>
           </div>
