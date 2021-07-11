@@ -16,19 +16,19 @@
     <div style="text-align: left; margin-bottom: 15px; line-height: 25px;">
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-  		 <span style="text-align: left; float: left;>{{ year.name }}</span>
+  		 <div style="text-align: left; float: left;>{{ year.name }}</div>
 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
-<span style="float: right;>{{ month.name }}</span>
+<div style="float: right;>{{ month.name }}</div>
 
 {% assign postsByDay = month.items | group_by_exp:"post", "post.date | date: '%d'" %}
 {% for day in postsByDay %}
-<span>{{ day.name }}</span>
+<div>{{ day.name }}</div>
 
-  <div style="text-align: left; float: right;>
+  <div>
   {% for post in day.items %}
-    <div style="text-align: left; float: left;>
+    <div>
       <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
     </div>
   {% endfor %}
