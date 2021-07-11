@@ -1,7 +1,7 @@
-<span style="text-align: right; float: right">
-  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}</span>
+<div style="text-align: right; float: right">
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}</div>
 {% for year in postsByYear %}
-  <span style="text-align: right; float: right">{{ year.name }}</span>
+  <div style="text-align: right; float: right">{{ year.name }}</div>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
