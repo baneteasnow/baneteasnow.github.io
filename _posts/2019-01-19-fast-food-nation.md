@@ -8,9 +8,11 @@ yazar: "Eric Schlosser"
 yil: "2004"  
 sayfa: "341"  
 goodreads: "https://www.goodreads.com/book/show/1097.Fast_Food_Nation"
-summary: "Hamburger Cumhuriyeti, kırmızı et ağırlıklı ilerleyen hazır gıda sektörünün perde arkasını çarpıcı biçimde gözler önüne seriyor."
+description: "Hamburger Cumhuriyeti, kırmızı et ağırlıklı ilerleyen hazır gıda sektörünün perde arkasını çarpıcı biçimde gözler önüne seriyor."
 last_modified_at: 2021-07-09
 published: true
+posted: 2019-01-19
+image: "https://notes.thebookish.de/assets/old/fast-food-nation.jpg"
 ---
 
 Gazeteci Eric Schlosser'in kaleme aldığı Hamburger Cumhuriyeti, 2000'li yılların başında yazılmış bir kitap. Kitap, kırmızı et ağırlıklı ilerleyen hazır gıda sektörünün perde arkasını çarpıcı biçimde gözler önüne seriyor. Bu kitabı okuduktan sonra insanın kendi yediklerini sorgulamaması mümkün olmuyor. Bu nedenle, bu kitap, yedikleri hakkında bilinçlenmek isteyenlere önerilen kitapların başında geliyor.  
