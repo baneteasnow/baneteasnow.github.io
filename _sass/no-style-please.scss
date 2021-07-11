@@ -126,7 +126,7 @@ a:hover{
 .decorated > span:before, .decorated > span:after{
     content: '';
     position: absolute;
-    bottom: 0%;
+    top: 90%;
     border-bottom: 2px solid;
     width: 100vw;
     margin: 0 20px;
