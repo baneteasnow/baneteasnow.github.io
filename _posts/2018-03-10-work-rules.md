@@ -8,9 +8,11 @@ yazar: "Laszlo Bock"
 yil: "2017"  
 sayfa: "432"  
 goodreads: "https://www.goodreads.com/book/show/22875447-work-rules"
-summary: "Google'da People Operations departmanının yöneticisi olarak çalışan Laszlo Bock, Google'daki İK uygulamalarını anlatıyor."
+description: "Google'da People Operations departmanının yöneticisi olarak çalışan Laszlo Bock, Google'daki İK uygulamalarını anlatıyor."
 last_modified_at: 2021-07-06
 published: true
+posted: 2018-03-10
+image: "https://notes.thebookish.de/assets/old/how-starbucks-saved-my-life.jpg/assets/old/work-rules.jpg"
 ---
 
 Google Sırları isimli kitabın yazarı Laszlo Bock, 11 yıla yakın bir süre Google'da People Operations'da yani insan kaynakları departmanında çalışmıştır. Bock, kitabında  birçoğu haberlere konu olmuş olan Google HR uygulamalarına değinmiş ve bilinmeyen birtakım yönleri de paylaşmıştır. Kendisi yakın zamanda 'işi daha iyi yapmayı' hedefleyen ve yapay zekayı kullanan Humu isimli bir firmanın kurucu ortağı olmuştur.  
