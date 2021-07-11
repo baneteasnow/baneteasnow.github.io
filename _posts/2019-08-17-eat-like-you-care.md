@@ -8,9 +8,11 @@ yazar: "Gary L. Francione, Anna Charlton"
 yil: "2016"  
 sayfa: "136"  
 goodreads: "https://www.goodreads.com/book/show/18138630-eat-like-you-care"
-summary: "İnsan Neden Vegan Olur, vegan olmakla ilgili pek çok kişinin aklındaki ortak soruları yanıtlayan bir kitap."
+description: "İnsan Neden Vegan Olur, vegan olmakla ilgili pek çok kişinin aklındaki ortak soruları yanıtlayan bir kitap."
 last_modified_at: 2021-07-08
 published: true
+posted: 2019-08-17
+image: "https://notes.thebookish.de/assets/old/eat-like-you-care.jpg"
 ---
 
 Hukuk profesörleri Gary L. Francione ve Anna Charlton vegan olma kararını alma konusunu çok net olarak ele almışlar; vegan beslenme düzeni ile ilgili pek çok noktayı da aydınlatmışlar.  
