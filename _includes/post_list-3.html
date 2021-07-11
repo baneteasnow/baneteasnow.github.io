@@ -7,9 +7,9 @@
 <strong><span style="text-align: right; float: right;"> {{ month.name | downcase }} </span></strong>
 <div>
   {% for post in month.items %}
-    <div>
+    <p>
       <a href="{{ post.url }}">{{ post.title | downcase }}</a>  &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span>
-    </div>
+    </p>
   {% endfor %}
 </div>
 
