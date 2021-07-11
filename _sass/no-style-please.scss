@@ -128,14 +128,14 @@ a:hover{
     position: absolute;
     top: 90%;
     border-bottom: 1px dotted #777;
-    width: 100vw;
+    width: 100%;
     margin: 0 20px;
 }
 .decorated > span:before{
-    right: 50%;
+    right: 0%;
 }
 .decorated > span:after{ 
-    left: 100%;
+    left: 0%;
 }
 
 // .xxx
