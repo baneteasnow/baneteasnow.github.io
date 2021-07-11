@@ -10,7 +10,7 @@ layout: default
 {%-include post_list-2.html category=page.which_category-%}
 
 <!-- xxx -->
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
   <span>{{ year.name }}</span>
 
@@ -18,12 +18,20 @@ layout: default
 {% for month in postsByMonth %}
 <span>{{ month.name }}</span>
 
+{% assign postsByDay = month.items | group_by_exp:"post", "post.date | date: '%d'" %}
+{% for day in postsByDay %}
+<span>{{ day.name }}</span>
+
 <p>
   {% for post in month.items %}
+  <p>
+  {% for post in day.items %}
     <p>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </p>
   {% endfor %}
+</p>
+{% endfor %}
 </p>
 
 {% endfor %}
