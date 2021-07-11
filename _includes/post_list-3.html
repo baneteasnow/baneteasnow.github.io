@@ -5,13 +5,13 @@
 
 {% for month in postsByMonth %}
 <h2>{{ month.name }}</h2>
-<ul>
+<div>
   {% for post in month.items %}
-    <li>
+    <div>
       <a href="{{ post.url }}">{{ post.title | downcase }}</a>
-    </li>
+    </div>
   {% endfor %}
-</ul>
+</div>
 
 {% endfor %}
 {% endfor %}
