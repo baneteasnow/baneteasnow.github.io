@@ -8,10 +8,12 @@ yazar: "Nicholas Carr"
 yil: "2012"  
 sayfa: "279"  
 goodreads: "https://www.goodreads.com/book/show/9778945-the-shallows"
-summary: "Yüzeysellik, internetin getirilerini kabul ederken, teknolojinin kısa & uzun vadeli bedelini sorguluyor, insan hayatından alıp götürdüklerine bakıyor."
+description: "Yüzeysellik, internetin getirilerini kabul ederken, teknolojinin kısa & uzun vadeli bedelini sorguluyor, insan hayatından alıp götürdüklerine bakıyor."
 last_modified_at: 2021-07-08
 published: true
 rereading: '#yeniden'
+posted: 2018-09-15
+image: "https://notes.thebookish.de/assets/old/the-shallows.jpg"
 ---
 
 Nicholas Carr'in kaleme aldığı Yüzeysellik: İnternet Bizi Aptal Mı Yapıyor? isimli kitap, yazarın the Atlantic dergisinde 2008 yılında yayınlanan 'Is Google Making Us Stupid' (Google Bizi Aptallaştırıyor Mu) başlıklı makalesine dayanıyor.  
