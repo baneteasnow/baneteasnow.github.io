@@ -7,37 +7,7 @@ layout: default
 <h4>{{ page.title }}</h4>-->
 <p style="color: blue; cursor: default;">notes.thebookish.de</p>
 
-{%-include post_list-2.html category=page.which_category-%}
-
-<!-- xxx -->
-  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-  <span>{{ year.name }}</span>
-
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-{% for month in postsByMonth %}
-<span>{{ month.name }}</span>
-
-{% assign postsByDay = month.items | group_by_exp:"post", "post.date | date: '%d'" %}
-{% for day in postsByDay %}
-<span>{{ day.name }}</span>
-
-
-  <p>
-  {% for post in day.items %}
-    <p>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </p>
-  {% endfor %}
-</p>
-
-
-{% endfor %}
-{% endfor %}
-{% endfor %}
-
-<!-- xxx -->
-
+{%-include post_list-3.html category=page.which_category-%}
 
 <br />
 <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
