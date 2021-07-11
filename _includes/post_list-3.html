@@ -26,11 +26,11 @@
 {% for day in postsByDay %}
 <span>{{ day.name }}</span>
 
-  <div style="text-align: right; float: right;>
+  <div style="text-align: left; float: right;>
   {% for post in day.items %}
     <div style="text-align: left; float: left;>
       <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
-    </p>
+    </div>
   {% endfor %}
 </div>
 
