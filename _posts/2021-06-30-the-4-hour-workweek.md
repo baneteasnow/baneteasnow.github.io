@@ -8,9 +8,11 @@ yazar: "Tim Ferriss"
 yil: "2011"
 sayfa: "275"
 goodreads: "https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek"
-summary: "Timothy Ferriss, 4 Saatlik Hafta isimli kitabında uzaktan çalışma düzenini kurarak hayalindeki yaşama nasıl ulaştığını anlatıyor."
+description: "Timothy Ferriss, 4 Saatlik Hafta isimli kitabında uzaktan çalışma düzenini kurarak hayalindeki yaşama nasıl ulaştığını anlatıyor."
 published: true
 last_modified_at: 2021-06-30
+posted: 2021-06-30
+image: "https://notes.thebookish.de/assets/new/the-4-hour-workweek.jpg"
 ---
 
 Timothy Ferriss, 4 Saatlik Hafta isimli kitabında uzaktan çalışma düzenini kurarak hayalindeki yaşama nasıl ulaştığını anlatıyor. Kitabın savunduğu bakış açısı daha fazla çalışmaya değil daha akılcı ve planlı çalışmaya dayanıyor. Başkalarına devredebileceği işleri ilgili kişilere veya birimlere devretmeyi gerektiriyor. Kitapta bu durum Hindistan'da bulunan firmalardan sanal asistanlık hizmeti satın alınması üzerinden örneklenerek anlatılmış.
