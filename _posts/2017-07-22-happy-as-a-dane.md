@@ -8,10 +8,12 @@ yazar: "Malene Rydahl"
 yil: "2017"  
 sayfa: "144"  
 goodreads: "https://www.goodreads.com/book/show/33827779-happy-as-a-dane"
-summary: "Danimarkalı Gibi Mutlu, yapılan araştırmalarda yüksek mutluluk oranları ile dikkat çeken Danimarka'nın günlük yaşamına odaklanan bir kitap."
+description: "Danimarkalı Gibi Mutlu, yapılan araştırmalarda yüksek mutluluk oranları ile dikkat çeken Danimarka'nın günlük yaşamına odaklanan bir kitap."
 last_modified_at: 2021-07-08
 published: true
 rereading: '#yeniden'
+posted: 2017-07-22
+image: "https://notes.thebookish.de/assets/old/happy-as-a-dane.jpg"
 ---
 
 Danimarka'nın Kopenhag şehrinde doğan kitabın yazarı Malene Rydahl, 18 yaşında halen yaşamakta olduğu Paris'e yerleşmiştir. Yazar, çocukluğunu geçirdiği ülkesinde dahil olduğu Danimarka modelinin genel hatlarını kaleme aldığı Danimarkalı Gibi Mutlu kitabında anlatıyor.  
