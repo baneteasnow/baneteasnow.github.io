@@ -8,9 +8,11 @@ yazar: "Eric Weiner"
 yil: "2010"  
 sayfa: "400"  
 goodreads: "https://www.goodreads.com/book/show/1918305.The_Geography_of_Bliss"
-summary: "Mutluluğun Coğrafyası, okuyucuyu farklı ülkelerde mutluluk arayışı üzerine bir seyahate çıkarıyor."
+description: "Mutluluğun Coğrafyası, okuyucuyu farklı ülkelerde mutluluk arayışı üzerine bir seyahate çıkarıyor."
 last_modified_at: 2021-07-09
 published: true
+posted: 2019-05-01
+image: "https://notes.thebookish.de/assets/old/the-geography-of-bliss.jpg"
 ---
 
 Amerikalı Gazeteci Eric Weiner'in kaleme aldığı Mutluluğun Coğrafyası, okuyucuyu farklı ülkelerde mutluluk arayışı üzerine bir seyahate çıkarıyor. Eric Weiner, 10 farklı ülkeyi ziyaret ediyor ve yerel halka mutlu olup olmadıklarını ve mutluluk hakkında ne düşündüklerini soruyor. Ayrıca, günlük yaşamı gözlemliyor ve o ülkede bir süre kaldıktan sonra ne hissettiğini de satırları arasına ekliyor.  
@@ -38,7 +40,6 @@ Mutluluk seviyesinin ölçülmesi ile ilgili olarak en büyük sorunlardan bir t
   
 Bütün şartlar göz önünde bulundurulduğunda, bugünlerde kendinizi ne kadar mutlu hissediyorsunuz?  
   
-
 Dikkat edilmesi gereken nokta, mutluluk kavramının farklı kişilerce farklı şekilde tanımlanması. Veritabanından elde edilen bilgilere göre, farklı kültürler mutluluğu farklı derecelerde önemsiyorlarmış. Örneğin, Doğu Asya ülkeleri uyuma ve sosyal zorunluklukları yerine getirmeye bireysel mutluluktan daha fazla önem veriyor.  
   
 ###### İsviçre  
@@ -69,7 +70,6 @@ Taylandlılar, mutlu olup olmadıklarını düşünemeyecek kadar başka şeyler
   
 ###### Büyük Britanya
 
-  
 Yazar, Londra'da Heathrow Havaalanı'dan birkaç kilometre uzakta yer alan Slough'da bir televizyon deneyinin parçası olarak 50 kişiye verilen mutluluk manifestosunu ve sonrasında bu kişilerin mutluluklarının artıp artmadığını gözlemlemeye çalışıyor.  
   
 ###### Hindistan  
