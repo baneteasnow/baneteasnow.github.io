@@ -12,18 +12,19 @@ layout: default
 <!-- xxx -->
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-  <h1>{{ year.name }}</h1>
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+  <span>{{ year.name }}</span>
 
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
-<h2>{{ month.name }}</h2>
-<ul>
+<span>{{ month.name }}</span>
+
+<p>
   {% for post in month.items %}
-    <li>
+    <p>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    </p>
   {% endfor %}
-</ul>
+</p>
 
 {% endfor %}
 {% endfor %}
