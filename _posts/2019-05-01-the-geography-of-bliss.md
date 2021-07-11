@@ -65,6 +65,7 @@ Yılın yarısını karanlıkta diğer yarısını da sürekli aydınlıkta geç
 Yazarın aktardığına göre, Moldavalılar kendi başarısızlıklarından çok komşularının başarısızlığına sevinirlermiş. (sayfa 244)  
   
 #### Tayland
+
 Taylandlılar, mutlu olup olmadıklarını düşünemeyecek kadar başka şeylerle meşgullerdi. Aslında, mutluluk hakkında düşünmek bizi daha az mutlu yapıyordu. (sayfa 270) Tayland'da yoğun şekilde "dert etme", "bırak ve yoluna devam et" anlayışı vardır. Ülkeye gelen yabancılar bu anlayışa ayak uyduramazlarsa, bu ülkeye alışamazlarmış. Taylandlıların başlarına gelen şeyleri kabul etmelerinin temelinde olayları uzun vadede değerlendirmeleri yatmaktadır.  
   
 #### Büyük Britanya
