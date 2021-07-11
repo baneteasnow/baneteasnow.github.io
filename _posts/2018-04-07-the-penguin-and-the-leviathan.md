@@ -8,9 +8,11 @@ yazar: "Yochai Benkler"
 yil: "2012"  
 sayfa: "214"  
 goodreads: "https://www.goodreads.com/book/show/7286895-the-penguin-and-the-leviathan"
-summary: "Penguen ve Leviathan, internet üzerinde işbirliği ile ilerleyen gönüllülük esasına dayanan projeler çağında insanın bireyci yaklaşımını sorguluyor."
+description: "Penguen ve Leviathan, internet üzerinde işbirliği ile ilerleyen gönüllülük esasına dayanan projeler çağında insanın bireyci yaklaşımını sorguluyor."
 last_modified_at: 2021-07-07
 published: true
+posted: 2018-04-07
+image: "https://notes.thebookish.de/assets/old/how-starbucks-saved-my-life.jpgassets/old/the-penguin-and-the-leviathan.jpg"
 ---
 
 Yazarı Harvard Üniversitesi Hukuk Profesörü Yochai Benkler olan kitap, iş birliği ile inşa edilen modellerle ilgili en çok kullanılan örnekler olan Wikipedia ve Linux ile başlıyor. Bu örneklerin her ikisi de insanlar arası iş birliği üzerine kurulmuş sistemler.  
