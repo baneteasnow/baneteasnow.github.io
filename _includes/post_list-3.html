@@ -1,3 +1,4 @@
+<!-- assign postsByYear = site.posts-->
 {% assign postsByYear = site.categories[include.category] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
