@@ -10,7 +10,9 @@ yazar: "Regina Wong"
 yil: "2018"
 sayfa: "154"
 goodreads: "https://www.goodreads.com/book/show/31213421-make-space"
-summary: "Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap."
+description: "Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap."
+posted: 2021-05-19
+image: "https://notes.thebookish.de/assets/new/make-space.jpg"
 ---
 
 Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap. Kitabın yazarı Regina Wong'un 'livewellwithless' (önceki adı 'simple and minimal') isminde bir blogu bulunuyor.
@@ -24,6 +26,7 @@ Ragina Wong'un kitapta vurguladığı en önemli noktalardan bir tanesi, minimal
 Kitapta çarpıcı bazı notlar da yer alıyor:
 Perakende sektörünün temeli güdüsel ve anlık satın almalara dayanıyor. Çoğu kişi, dolabındaki giysilerin yalnızca 20%'sını aktif olarak kullanırken, geri kalan 80%'ı ise çoğu kez 'kısa süreli bir mutluluğa kavuşmak' için satın alınmıştır.
 UCLA'ya bağlı CELF (Center on Everday Lives of Families) tarafından Los Angeles'da 32 ailenin evinde bir araştırma yapılmış. Bu evlerden en küçüğü 91 m2 ve sadece iki yatak odası ile oturma odasında 2.226 parça eşyanın bulunduğu tespit edilmiş. Üstelik bu rakama dolapların veya çekmecelerin içi dahil edilmemiş, sadece görünen parçalar sayılmış.
+
 ABD'de son 50 yılda evlerin yüz ölçümü iki katına çıkmış (ortalama 213 m2). Evlerine sığamadıkları için depo kiralayanların sayısı her geçen yıl artarken, depolara kaldırılan eşyaların pek çoğu bir daha kullanılmıyor ve hatta varlıkları unutulduğu için aynı eşyalar yeniden satın alınıyor.
 Minimalizme giden yolda fiziksel eşyalar, sosyal medya, bilgisayar, email gibi kategorilerde düzene ulaşmanın yanı sıra, kurulan bu düzenin korunması ve sürdürülmesi de bir o kadar önemli. Fazlalıklar kaygı yarattığı gibi, geride kalma korkusu da ayrı bir baskı yaratıyor. Bu noktada önemli olan doğru ve gerçekçi hedefler koyabilmek.
 
