@@ -114,6 +114,31 @@ a:hover{
   text-decoration: underline !important;
 }
 
+// .xxx
+
+.decorated{
+     overflow: hidden;
+     text-align: center;
+ }
+.decorated > span{
+    position: relative;
+    display: inline-block;
+}
+.decorated > span:before, 
+    content: '---';
+    position: absolute;
+    top: 50%;
+    border-bottom: 0px solid;
+    width: 100vw;
+    margin: 0 20px;
+}
+.decorated > span:before{
+    right: 100%;
+}
+
+
+// .xxx
+
 // .PageNavigation {font-size: 14px; display: block; width: auto; overflow: hidden;}
 
 // .PageNavigation a {display: block; width: 50%; float: left; margin: 1em 0;}
