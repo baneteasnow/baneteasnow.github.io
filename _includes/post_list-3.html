@@ -1,16 +1,14 @@
-        {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y %B'" %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y %B'" %}
 {% for year in postsByYear %}
-<h4>{{ year.name | downcase }}</h4>
-  
-   {% assign postsByMonth = year.items | group_by_exp:"post" %}
+  <h4>{{ year.name }}</h4>
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
- {% for month in postsByMonth %}
-<h4>{{ month.name | downcase }}</h4>
-
+{% for month in postsByMonth %}
+<h4>{{ month.name }}</h4>
 <div>
   {% for post in month.items %}
     <div>
-      <a href="{{ post.url }}">{{ post.title | downcase }}</a> &nbsp; {{- post.date | date: '%e' -}}
+      <a href="{{ post.url }}">{{ post.title | downcase }}</a>  &nbsp; {{- post.date | date: '%e' -}}
     </div>
   {% endfor %}
 </div>
