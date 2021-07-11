@@ -2,7 +2,10 @@
 {% for year in postsByYear %}
 <h4>{{ year.name | downcase }}</h4>
   
+   {% assign postsByMonth = year.items | group_by_exp:"post" %}
 
+ {% for month in postsByMonth %}
+<h4>{{ month.name | downcase }}</h4>
 
 <div>
   {% for post in month.items %}
@@ -13,4 +16,4 @@
 </div>
 
 {% endfor %}
-
+{% endfor %}
