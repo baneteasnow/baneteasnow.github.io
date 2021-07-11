@@ -124,11 +124,11 @@ a:hover{
     position: relative;
     display: inline-block;
 }
-.decorated > span:before, 
-    content: '';
+.decorated > span:before{
+    content: '---';
     position: absolute;
     top: 50%;
-    border-bottom: 2px solid;
+    border-bottom: 0px solid;
     width: 100vw;
     margin: 0 20px;
 }
