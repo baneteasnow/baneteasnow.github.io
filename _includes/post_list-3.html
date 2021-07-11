@@ -1,15 +1,20 @@
-        <ul>
-  {% for post in site.posts %}
-      {% assign year = post.date | date: "%Y" %}
+        {% assign var currentYear = 0 %}
+{% assign var currentMonth = 0 %}
+{% for post in site.posts  %}
+{% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+{% capture month %}{{ post.date | date: "%B" }}{% endcapture %}
 
-      {% if year != prev_year %}
-        <h3>{{year}}</h3>
-      {% endif %}
-
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% assign prev_year = year %}
-  {% endfor %}
-</ul>
+{% if currentYear != year %}
+<div>
+  <h2>{{ year }}</h2>
+</div>
+{% assign var currentYear = year %}
+{% endif %}
+{% if currentMonth != month %}
+<div>
+  <h3>{{ month }}</h3>
+</div>
+{% assign var currentMonth = month %}
+{% endif %}
+<p>{{ post.title }}</p>
+{% endfor %}
