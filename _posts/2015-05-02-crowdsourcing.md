@@ -8,9 +8,11 @@ yazar: "Jeff Howe"
 yil: "2008"  
 sayfa: "246"  
 goodreads: "https://www.goodreads.com/book/show/2601510-crowdsourcing"
-summary: "Jeff Howe Crowdsourcing'de gönüllülük esasına dayalı olarak internet üzerinde bir araya gelerek çeşitli projeler üretenlerin hikayelerini anlatıyor."
+description: "Jeff Howe Crowdsourcing'de gönüllülük esasına dayalı olarak internet üzerinde bir araya gelerek çeşitli projeler üretenlerin hikayelerini anlatıyor."
 last_modified_at: 2021-07-05
 published: true
+posted: 2015-05-02
+image: "https://notes.thebookish.de/assets/old/how-starbucks-saved-my-life.jpg/assets/old/crowdsourcing.jpg"
 ---
 
 Kitabın yazarı ve gazeteci Jeff Howe, Crowdsourcing kavramından ilk kez 2006 yılında Wired dergisinde yayınlanan 'The Rise of Crowdsourcing' isimli makalesinde bahseder. Bu kavramı kullanırken, outsourcing kavramından esinlenmiştir. Outsourcing kavramının yaygınlaşması ile bazı işlerin Çin veya Hindistan gibi ülkelerde yapılır hale gelmiş olması gibi, crowdsourcing kavramı ile de internetin yaygınlaşması ve iletişimin kolaylaşmasının beraberinde kalabalıkların gücünden yararlanan yeni iş modellerinin ortaya çıkması ifade edilmiştir.   
