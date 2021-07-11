@@ -22,8 +22,7 @@ layout: default
 {% for day in postsByDay %}
 <span>{{ day.name }}</span>
 
-<p>
-  {% for post in month.items %}
+
   <p>
   {% for post in day.items %}
     <p>
@@ -31,8 +30,7 @@ layout: default
     </p>
   {% endfor %}
 </p>
-{% endfor %}
-</p>
+
 
 {% endfor %}
 {% endfor %}
