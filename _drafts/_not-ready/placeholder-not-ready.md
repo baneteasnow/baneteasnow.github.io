@@ -8,10 +8,14 @@ yazar: ""
 yil: ""
 sayfa: ""
 goodreads: ""
+last_modified_at: 
+description: "" 
+posted:
+image: 
 ---
 
 layout: post  
-category: book  
+category: book  -  book2 -  in-english
 title: ""  
 kitap: ""  
 tr: ""  
@@ -21,5 +25,8 @@ sayfa: ""
 goodreads: ""  
 last_modified_at:   
 published: true/false  
-summary: ""  
+description: ""  
 permalink: /text  
+posted: xxxx-xx-xx
+image: "https://notes.thebookish.de/assets/old/xxx.jpg"
+image: "https://notes.thebookish.de/assets/new/xxx.jpg"
