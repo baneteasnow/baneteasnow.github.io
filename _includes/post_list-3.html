@@ -1,10 +1,10 @@
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-  <span style="text-align: left">{{ year.name }}</span>
+  <span style="text-align: right">{{ year.name }}</span>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
-<span style="text-align: left">{{ month.name | downcase }}</span>
+<span style="text-align: right">{{ month.name | downcase }}</span>
 <div>
   {% for post in month.items %}
     <div>
