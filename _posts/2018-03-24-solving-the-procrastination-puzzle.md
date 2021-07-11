@@ -8,9 +8,11 @@ yazar: "Timothy A. Pychyl"
 yil: "2016"  
 sayfa: "120"  
 goodreads: "https://www.goodreads.com/book/show/18079767-solving-the-procrastination-puzzle"
-summary: "Timothy A. Pychyl, Prokrastineyşın'da savsaklama alışkanlığını ve bu alışkanlıkla mücadele yöntemlerini anlatıyor."
+description: "Timothy A. Pychyl, Prokrastineyşın'da savsaklama alışkanlığını ve bu alışkanlıkla mücadele yöntemlerini anlatıyor."
 published: true
 last_modified_at: 2021-07-08
+posted: 2018-03-24
+image: "https://notes.thebookish.de/assets/old/solving-the-procrastination-puzzle.jpg"
 ---
 
 Psychology Today için Don't Delay isimli bir blog yazısı yazan Timothy A. Pychyl'nin savsaklama alışkanlığı ve bu alışkanlıkla mücadele yöntemleri üzerine kaleme aldığı Prokrastineyşın - Başlanıp Bitirilmesi Gereken İşleri İnatla Erteleme, Savsaklama ve Oturup Çalışmak Yerine Ivır Zıvır Şeylerle Oyalanma Alışkanlığıyla Mücadele Kılavuzu isimli kitabı 2016 yılında Metropolis Kitap tarafından basılmış.  
