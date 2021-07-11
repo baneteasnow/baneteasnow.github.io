@@ -114,7 +114,7 @@ a:hover{
   text-decoration: underline !important;
 }
 
-// .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;     width: 100%;
+// .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;     
 
 .decorated{
      overflow: hidden;
@@ -128,6 +128,7 @@ a:hover{
     position: absolute;
     top: 50%;
     border-bottom: 2px solid;
+    width: 100%;
     margin: 0 20px;
 }
 .decorated > span:before{
