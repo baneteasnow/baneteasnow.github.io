@@ -8,9 +8,11 @@ yazar: "Gad Saad"
 yil: "2012"  
 sayfa: "420"  
 goodreads: "https://www.goodreads.com/book/show/11034732-the-consuming-instinct"
-summary: "Tüketim İçgüdüsü, evrimsel psikolojiyi pazarlama ve tüketici davranışları açısından ele alıyor."
+description: "Tüketim İçgüdüsü, evrimsel psikolojiyi pazarlama ve tüketici davranışları açısından ele alıyor."
 last_modified_at: 2021-07-06
 published: true
+posted: 2016-09-01
+image: "https://notes.thebookish.de/assets/old/how-starbucks-saved-my-life.jpg/assets/old/the-consuming-instinct.jpg"
 ---
 
 Son yılların dikkat çekici araştırma konularından biri olan evrimsel psikoloji üzerine yazılmış, oldukça akıcı bir dile sahip bir kitap Tüketim İçgüdüsü. Yazarı Gad Saad, evrimsel psikolojiyi pazarlama ve tüketici davranışları bakımından ele alıyor ve kendi ailevi özellikleri ile kişisel bakış açısını da zaman zaman okuyucuya yansıtarak güncel örnekler paylaşıyor. 
