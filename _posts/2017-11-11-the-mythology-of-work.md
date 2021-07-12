@@ -12,7 +12,7 @@ description: "Çalışmanın Mitolojisi, çalışmayı ve çalışma hayatını 
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-11-11
-image: "https://notes.thebookish.de/assets/old/the-mythology-of-work.jpg"
+image: "https://www.thebookish.de/assets/old/the-mythology-of-work.jpg"
 ---
 
 Çalışmayı ve çalışma hayatını çeşitli açılardan ele alan Çalışmanın Mitolojisi, çalışmak ile yaşamak kavramlarının ayrılmaz biçimde iç içe geçmesinden ötürü çalışma fikrini sorgulamanın yaşamın kendisini sorgulamaya benzediğini vurgulayarak başlıyor.  
