@@ -3,6 +3,19 @@ layout: page-5
 title: 'images'
 last_modified_at: 2021-07-13
 ---
+
+{%-if include.image-%}
+{%-assign posts = site.posts-%}
+{%-endif-%}
+
+<div><a href="{{ post.url | relative_url }}" title="{{ post.title | downcase }}">
+  <img src="{{ page.image }} " alt="{{ filename }}" /></a>
+  </div>
+<div style="clear: both;"></div>
+
+
+
+
 <div>
   {% assign sorted = site.static_files | sort: 'date' | reverse %}
   {% for file in sorted %}
@@ -11,7 +24,7 @@ last_modified_at: 2021-07-13
     {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
        <div><a href="{{ post.url | relative_url }}" title="{{ filename }}">
-         <img src="{{ page.image }} " alt="{{ filename }}"  class="img-gallery" />
+         <img src="{{ page.image }} " alt="{{ filename }}" />
        </a></div>
       {% endif %}
     {% endif %}
