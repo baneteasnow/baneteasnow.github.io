@@ -12,7 +12,7 @@ description: "Kapitalizm Hakkında Size Söylenmeyen 23 Şey, dünya ekonomisini
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-12-23
-image: "https://notes.thebookish.de/assets/old/23-things-they-dont-tell-you-about-capitalism.jpg"
+image: "https://www.thebookish.de/assets/old/23-things-they-dont-tell-you-about-capitalism.jpg"
 ---
 
 Eğer kendi başlarına bırakılırsa piyasaların en iyi sonuçlar üreteceği anlayışına dayanan serbest piyasa ekonomisi 1980'lerden beri dünyada giderek yaygınlaştı. Pek çok ülke, son otuz yılda serbest piyasa politikalarına geçerek kamu sanayiini ve finans kuruluşlarını özelleştirdi; finans ve sanayi üzerindeki devlet kontrollerini kaldırdı; uluslararası ticaret ve yatırım serbestleştirildi; gelir vergisi ve sosyal yardım ödenekleri kesintiye uğradı. Ancak etkileri uzun süre devam eden 2008 küresel ekonomik krizi Büyük Buhran (The Great Depression)'dan bu yana tarihteki en büyük ikinci ekonomik kriz olma özelliğini koruyor.  
