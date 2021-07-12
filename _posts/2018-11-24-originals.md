@@ -8,7 +8,7 @@ yazar: "Adam Grant"
 yil: "2017"  
 sayfa: "268"  
 goodreads: "https://www.goodreads.com/book/show/25614523-originals"
-description: "Orijinaller, geleneksel yollar yerine daha az tercih edilen yoldan giderek "orijinal" olmayı tercih edenleri anlatıyor."
+description: "Orijinaller, geleneksel yollar yerine daha az tercih edilen yoldan giderek 'orijinal' olmayı tercih edenleri anlatıyor."
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-11-24
