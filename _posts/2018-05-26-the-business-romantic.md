@@ -1,10 +1,10 @@
 ---
 layout: post  
 category: book2  
-title: "The Business Romantic | Tim Leberecht (Kitap)  
+title: "The Business Romantic | Tim Leberecht (Kitap)"  
 kitap: "The Business Romantic: Give Everything, Quantify Nothing, and Create Something Greater Than Yourself"  
 tr: "Business Romantik"  
-yazar: "Tim Leberecht "  
+yazar: "Tim Leberecht"  
 yil: "2015"  
 sayfa: "348"  
 goodreads: "https://www.goodreads.com/book/show/21936826-the-business-romantic"
