@@ -12,7 +12,7 @@ description: "Walmart Etkisi, bugün dünyanın en büyük ve en yaygın peraken
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-02-18
-image: "https://notes.thebookish.de/assets/old/the-walmart-effect.jpg"
+image: "https://www.thebookish.de/assets/old/the-walmart-effect.jpg"
 ---
 
 Walmart Etkisi, bugün dünyanın en büyük ve en yaygın perakendecisi konumundaki Walmart'ın hikayesini anlatıyor. Walmart, öyle bir konuma ve büyüklüğe ulaşmış durumda ki, ne tüketiciler, ne de tedarikçiler onun etkisinden kaçamıyor. Hatta, sınırları içinde Walmart'ın bir şubesi bulunmayan ancak Walmart'tan gelen siparişleri yetiştirmek için geceli gündüzlü çalışan pek çok fabrikanın bulunduğu ülkeler de onun etkisi altına çoktan girmiş durumda. Kitap, Walmart'ın bu etkisini olumlu ve olumsuz yönleriyle okuyucuya akıcı bir dille yansıtıyor.  
