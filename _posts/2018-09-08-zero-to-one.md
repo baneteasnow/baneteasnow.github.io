@@ -12,7 +12,7 @@ description: "Sıfırdan Bire, bir iş modelinin nasıl kurgulanacağına ilişk
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-09-08
-image: "https://notes.thebookish.de/assets/old/zero-to-one.jpg"
+image: "https://www.thebookish.de/assets/old/zero-to-one.jpg"
 ---
 
 PayPal'ın kurucu ortaklarından ve Facebook'un yatırımcılarından biri olan girişimci Peter Thiel'in Thiel Capital COO'su (ve eski öğrencisi) Blake Masters ile birlikte kaleme aldığı Sıfırdan Bire, bir iş modelinin kurgulanması sırasında iki seçenek söz konusu olduğunu açıklayarak başlıyor. Bunlardan birincisi, mevcut ve halihazırda başarılı bir modeli taklit etmek ve ikincisi ise, daha önce denenmemiş bir model kurgulayarak yepyeni bir şey üretmek. Mevcut bir modeli taklit etmek, yeni bir şey yapmaktan daha kolaydır; ancak nasıl yapıldığını bilinen bir şeyi yapmak dünyayı 1'den n'e taşıyacaktır. Yeni bir şey üretildiğinde ise, 0'dan 1'e gitmek söz konusu olur ki, kitaba ismini veren model de budur. 
