@@ -12,7 +12,7 @@ description: "Minimalist Yaşam, yaşamınızdaki fazla eşyalardan arınmanız�
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-14
-image: "https://notes.thebookish.de/assets/old/minimalist-living.jpg"
+image: "https://www.thebookish.de/assets/old/minimalist-living.jpg"
 ---
 
 Minimalist Yaşam, yaşamınızdaki fazla eşyalardan arınmanızın, yüklerinizden de arınmanızı sağlayacağını ve böylece daha kaliteli yaşamaya başlayacağınızı vurguluyor.  
