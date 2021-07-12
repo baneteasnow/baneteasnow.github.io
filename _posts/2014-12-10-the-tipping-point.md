@@ -12,7 +12,7 @@ description: "Kıvılcım Anı, neden bazı fikirlerin, markaların, davranış 
 published: true
 last_modified_at: 2021-07-12
 posted: 2014-12-10
-image: "https://notes.thebookish.de/assets/old/the-tipping-point.jpg"
+image: "https://www.thebookish.de/assets/old/the-tipping-point.jpg"
 ---
 
 Kıvılcım Ani (The Tipping Point) Malcolm Gladwell'in en ünlü kitaplarından biri. Bu kitap, neden bazı fikirlerin, markaların, davranış tarzlarının aniden yükselişe geçerek trend olduklarını çeşitli örneklerle anlatıyor. Malcolm Gladwell, artık bir klasik niteliğinde olan bu kitabında, trendleri salgın olarak adlandırıyor ve bu salgınların üç kuralından bahsediyor.   
