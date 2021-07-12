@@ -12,7 +12,7 @@ description: "Kitap, teknolojide yaşanan gelişmeler ile birlikte gelecekteki d
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-06-17
-image: "https://notes.thebookish.de/assets/old/augmented.jpg"
+image: "https://www.thebookish.de/assets/old/augmented.jpg"
 ---
 
 Kitap, teknolojide yaşanan gelişmeler ile birlikte gelecekteki dünyanın nasıl bir yer olacağını anlatıyor. İlk sayfalarda, bugünkü teknolojiye nasıl ulaşıldığı anlatılıyor, sonraki sayfalarda ise gelecekte günlük hayatta yaşanacak değişiklikler ve gelişmeler; ulaşım, trafik, akıllı ev sistemleri, sağlık / tedavi süreçleri, eğitim, ödeme sistemleri, vb açısından detaylandırılarak akıcı bir dille ele alınıyor.  
