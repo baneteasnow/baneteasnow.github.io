@@ -12,7 +12,7 @@ description: "Görünmez Goril, 'olsaydı mutlaka farkederdim' dediğimiz ama as
 published: true
 last_modified_at: 2021-07-12
 posted: 2014-09-06
-image: "https://notes.thebookish.de/assets/old/the-invisible-gorilla.jpg"
+image: "https://www.thebookish.de/assets/old/the-invisible-gorilla.jpg"
 ---
 
 Görünmez Goril, 'olsaydı mutlaka farkederdim' dediğimiz ama aslında dikkatimizden kaçan şeylerin hayatımızda ne kadar fazla yer kapladığını sosyal deneylere dayanarak anlatıyor.   
