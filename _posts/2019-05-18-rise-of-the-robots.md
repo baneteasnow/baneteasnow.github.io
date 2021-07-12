@@ -12,7 +12,7 @@ description: "E-Sosyal Toplum, internetin artık tartışılmaz önemini mahremi
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-05-18
-image: "https://notes.thebookish.de/assets/old/rise-of-the-robots.jpg"
+image: "https://www.thebookish.de/assets/old/rise-of-the-robots.jpg"
 ---
 
 Robotların Yükselişi, gelecekte robotların hangi alanlarda kullanılacağı ve yapay zekanın günlük hayatımızdaki yerinin ne olacağı sorularına yanıt arayan güncel bir kitap. Benzer konuları işleyen başka kitaplarda, Martin Ford'un imzasını taşıyan bu kitaptan çeşitli alıntılara rastlamak mümkün.  
