@@ -12,7 +12,7 @@ description: "Contagious, herhangi bir şeyin tutulmasını ve kısa sürede pop
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-09-19
-image: "https://notes.thebookish.de/assets/old/contagious.jpg"
+image: "https://www.thebookish.de/assets/old/contagious.jpg"
 ---
 
 Kalite, fiyat ve reklam ürünlerin ve fikirlerin başarılı olmasına katkı yapabilir ama esas başarıyı sosyal etkileme ve ağızdan ağıza yayılma ile gelir. İnsanlar çevrelerine duydukları hikaye ve haberleri anlatmayı severler, sahip oldukları bilgileri ve yaşadıkları deneyimleri paylaşırlar. Başkalarının söyledikleri kişilerin kararlarında, düşüncelerinde, seçimlerinde, satın alma davranışlarında, gittikleri yerlerde etkili olur.  
