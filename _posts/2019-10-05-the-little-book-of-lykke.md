@@ -12,7 +12,7 @@ description: "Meik Wiking, Lykke isimli kitabında Danimarkalıların mutluluk s
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-10-05
-image: "https://notes.thebookish.de/assets/old/the-little-book-of-lykke.jpg"
+image: "https://www.thebookish.de/assets/old/the-little-book-of-lykke.jpg"
 ---
 
 Hygge kitabının da yazarı olan Meik Wiking, Lykke (mutluluk) isimli kitabında Danimarkalıların mutluluk sırlarını ve Danimarka’da günlük hayata dair çeşitli ayrıntıları paylaşıyor. Wiking, Kopenhag merkezli Mutluluk Araştırmaları Enstitütüsü’nün CEO’su ve mutluluk alanında dünyanın önde gelen uzmanlarından bir tanesi.  
