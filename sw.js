@@ -10,7 +10,7 @@ self.addEventListener("install", function (event) {
     caches.open(CACHE).then(function (cache) {
       console.log("Cached offline page during install");
 
-      if (offlineFallbackPage === "https://notes.thebookish.de/offline.html") {
+      if (offlineFallbackPage === "https://www.thebookish.de/offline.html") {
         return cache.add(new Response("Update the value of the offlineFallbackPage constant in the serviceworker."));
       }
       return cache.add(offlineFallbackPage);
