@@ -12,7 +12,7 @@ description: "Dan Ariely tarafından kaleme alınan Dürüst Olmamanın Ardında
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-02-13
-image: "https://notes.thebookish.de/assets/old/the-honest-truth-about-dishonesty.jpg"
+image: "https://www.thebookish.de/assets/old/the-honest-truth-about-dishonesty.jpg"
 ---
 
 Dan Ariely tarafından kaleme alınan Dürüst Olmamanın Ardındaki (Dürüst) Gerçek isimli kitap, dürüstlük ve yalan söylemek konularını inceliyor.   
