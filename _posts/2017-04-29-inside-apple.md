@@ -12,7 +12,7 @@ description: "Apple Mucizesi, Steve Jobs liderliğinde Apple'ın nasıl bugünk�
 last_modified_at: 2021-07-07
 published: true
 posted: 2017-04-29
-image: "https://notes.thebookish.de/assets/old/inside-apple.jpg"
+image: "https://www.thebookish.de/assets/old/inside-apple.jpg"
 ---
 
 Adam Lashinsky tarafından kaleme alınan Apple Mucizesi, Steve Jobs liderliğinde Apple'ın nasıl bugünkü konumuna geldiğini ilgi çekici kesitlerle aktaran bir kitap.   
