@@ -12,7 +12,7 @@ description: "Al Gore tarafından kaleme alınan Gelecek küreselleşmeyi yarata
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-09-30
-image: "https://notes.thebookish.de/assets/old/the-future.jpg"
+image: "https://www.thebookish.de/assets/old/the-future.jpg"
 ---
 
 ABD Eski Başkan Yardımcısı Al Gore tarafından kaleme alınan Gelecek küreselleşmeyi yaratan dinamikler çerçevesinde günümüz problemlerini irdeliyor, bugüne nasıl geldiğimizi açıklıyor ve dünyayı nasıl bir geleceğin beklediğine ilişkin ipuçları paylaşıyor. Kitap 6 ana bölüm ile giriş ve sonuç kısmından oluşuyor:  
