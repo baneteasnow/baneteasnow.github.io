@@ -12,7 +12,7 @@ description: "Yaratıcı Sınıf Adres Değiştiriyor, yaratıcı sınıfın kü
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-12-22
-image: "https://notes.thebookish.de/assets/old/the-new-urban-crisis.jpg"
+image: "https://www.thebookish.de/assets/old/the-new-urban-crisis.jpg"
 ---
 
 Richard Florida, Yaratıcı Sınıf Adres Değiştiriyor isimli kitabında teknoloji devrimine imza atan olan yaratıcı sınıfın küreselleşme sonucunda yaşayacağı ve çalışacağı bölgeyi seçerken nelere dikkat ettiğini ve kararını neyin şekillendirdiğini anlatır.  
