@@ -12,7 +12,7 @@ description: "Google Nasıl Yönetiliyor, dünyanın en popüler şirketlerinin 
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-04-30
-image: "https://notes.thebookish.de/assets/old/how-google-works.jpg"
+image: "https://www.thebookish.de/assets/old/how-google-works.jpg"
 ---
 
 Google Nasıl Yönetiliyor, dünyanın en popüler şirketlerinin arasında olan Google hakkında önemli ipuçları veriyor. Yeni çıkarılan ürünler, başarısız olanlar, ders çıkarılanlar, rekabet karşısındaki duruş, firma içi kültürün nasıl oluşturulduğu ve sürdürüldüğü, işe alımın önemi, çalışanlarla iletişim ve daha birçok konu okunması gayet zevkli şekilde kağıda dökülmüş. Kitap, yazarlarının (Eric Schmidt - Google İcra Heyeti Başkanı - eski CEO, Jonathan Rosenberg - Google Kıdemli Başkan Yardımcısı, Alan Eagle - Google Kurumsal İletişim Müdürü) üst düzey yönetici olmaları nedeni ile de Google'ı yönetenlerin bakış açısını da ilk ağızdan sunuyor. Kitabın önsözünü ise Google Kurucu ortağı ve CEO'su olan Larry Page kaleme almış.  
