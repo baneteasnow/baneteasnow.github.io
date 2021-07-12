@@ -12,7 +12,7 @@ description: "Geleceğin Fiziği, 2100 yılına kadar bilimde ve teknolojide ya�
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-04-13
-image: "https://notes.thebookish.de/assets/old/physics-of-the-future.jpg"
+image: "https://www.thebookish.de/assets/old/physics-of-the-future.jpg"
 ---
 
 New York City Üniversitesi’nde profesör olan Michio Kaku'nun imzasını taşıyan Geleceğin Fiziği, son derece anlaşılır bir dille yazılmış, gerekli terimlerin adım adım açıklandığı, akıcı bir kitap. Kitabın çevirisi de oldukça iyi.  
