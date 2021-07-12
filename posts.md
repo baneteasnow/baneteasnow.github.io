@@ -1,6 +1,5 @@
 ---
-layout: archive-2
+layout: archive-3
 published: true
-title: '#kitap' 
-which_category: [book, book2]
+title: '#kitaplar' 
 ---
