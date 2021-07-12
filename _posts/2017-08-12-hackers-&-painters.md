@@ -12,7 +12,7 @@ description: "Paul Graham, hayatın içinden pek çok konuyu bir yazılımcını
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-08-12
-image: "https://notes.thebookish.de/assets/old/hackers-&-painters.jpg"
+image: "https://www.thebookish.de/assets/old/hackers-&-painters.jpg"
 ---
 
 Bilgisayar bilimi alanında doktora yaptıktan sonra resim eğitimi alan Paul Graham'in yazdığı Hackers & Painters, hayatın içinden pek çok konuyu bir yazılımcının gözünden yorumluyor, aynı zamanda kurucularından olduğu Viaweb isimli firmanın Yahoo tarafından satınalınmasını da anlatıyor, girişimcilik ve startuplar için ipuçları paylaşıyor. 
