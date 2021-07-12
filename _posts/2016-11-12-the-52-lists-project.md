@@ -12,7 +12,7 @@ description: "52 Liste Projesi, bir yıl boyunca farklı konularda listeler haz�
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-11-12
-image: "https://notes.thebookish.de/assets/old/the-52-lists-project.jpg"
+image: "https://www.thebookish.de/assets/old/the-52-lists-project.jpg"
 ---
 
 Fabooks tarafından yayınlanan 52 Liste Projesi, bir yıl boyunca farklı konularda listeler hazırlamanızı sağlayacak farkındalık arttırıcı bir günlük. Yazarı Moorea Seal.  
