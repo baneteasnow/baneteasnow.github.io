@@ -12,7 +12,7 @@ description: "Steve Jobs Olmak, Steve Jobs'in hayatını ve kariyerini konu alı
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-09-09
-image: "https://notes.thebookish.de/assets/old/becoming-steve-jobs.jpg"
+image: "https://www.thebookish.de/assets/old/becoming-steve-jobs.jpg"
 ---
 
 Brent Schlender ve Rick Tetzeli tarafından kaleme alınan "Steve Jobs Olmak" isimli kitap, yazarlardan Brent Schlender'in ağzından yazılmış. Brent Schlender, önce Wall Street Journal'da sonrasında ise Fortune'da bulunduğu teknoloji muhabirliği ve editörlük görevleri sırasında Steve Jobs ve Apple hakkında pek çok yazı kaleme almış (pek çok kez onu Fortune dergisinin kapağına taşımış) bir gazeteci. Kitabın önsözünde belirtildiğine göre Steve Jobs, günlük konuşmaları sırasında ve beklenmedik sorular karşısında dahi özenle kurulmuş cümlelerinden vazgeçmiyordu. Estetik kaygısı ve yüksek standartları nedeni ile kendisi ve çalışmaları hakkında yazılanlar üzerinde kontrol sahibi olmak istiyor ve kendisi hakkında yazacak olanları kendisi seçiyordu. Seçtiği kişilerin de konuya hakimiyetlerini sorduğu sorularla ölçüyor ve haklarında olumlu karar verirse ancak o zaman görüşmeye zaman ayırıyordu.  
