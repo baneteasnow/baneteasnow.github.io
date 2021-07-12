@@ -12,7 +12,7 @@ description: "Google'da Çalışacak Kadar Akıllı Mısınız, Google mülakatl
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-01-24
-image: "https://notes.thebookish.de/assets/old/are-you-smart-enough-to-work-at-google.jpg"
+image: "https://www.thebookish.de/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 
 Fuji Dağı'nı Nasıl Taşırsınız isimli kitabında olduğu gibi yazar, bu kitapta da cevapları ile birlikte ilginç mülakat sorularına yer vermiş.  
