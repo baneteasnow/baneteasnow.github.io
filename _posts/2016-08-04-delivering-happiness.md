@@ -12,7 +12,7 @@ description: "İnternet üzerinden ayakkabı satışı yapmak üzere kurulan ve 
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-08-04
-image: "https://notes.thebookish.de/assets/old/delivering-happiness.jpg"
+image: "https://www.thebookish.de/assets/old/delivering-happiness.jpg"
 ---
 
 İnternet üzerinden ayakkabı satışı yapmak üzere kurulan ve şu anda Amazon.com bünyesinde bulunan Zappos.com'un hikayesini anlatan 'Mutluluk Dağıtmak' isimli kitap, firmanın CEO'su Tony Hsieh tarafından kaleme alınmış.  
