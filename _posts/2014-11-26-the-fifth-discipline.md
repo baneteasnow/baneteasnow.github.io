@@ -12,7 +12,7 @@ description: "Beşinci Disiplin, öğrenen örgütleri inceliyor"
 published: true
 last_modified_at: 2021-07-12
 posted: 2014-11-26
-image: "https://notes.thebookish.de/assets/old/the-fifth-discipline.jpg"
+image: "https://www.thebookish.de/assets/old/the-fifth-discipline.jpg"
 ---
 
 Peter M. Senge'nin 1990 yılında çıkan ve tüm dünyada en çok okunan kitaplar arasına girmiş, binlerce makale ve teze konu olmuş kitabı 'Beşinci Disiplin', öğrenen örgütleri inceliyor. Öğrenen organizasyon kavramı ilk ortaya atıldığı günden bu yana çok kez tanımlanmış ve tartışılmıştır. Dünyada organizasyonların gelmek istediği nokta olmuştur, eğitim programları, danışmanlar sürekli olarak bu konuyu işlemektedir. Türkiye'de ise, maalesef bu kitapta yer alanların çoğu şu anda uygulama alanı bulamamaktadır. Kitap, 1980'li yıllardan itibaren yapılan konu ile ilgili çalışmaların incelendiği bir kaynaktır.  
