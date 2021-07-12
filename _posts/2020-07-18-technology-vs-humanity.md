@@ -12,7 +12,7 @@ description: "Teknolojiye Karşı İnsanlık, teknolojinin insan yaşamını gel
 published: true
 last_modified_at: 2021-07-12
 posted: 2020-07-18
-image: "https://notes.thebookish.de/assets/old/technology-vs-humanity.jpg"
+image: "https://www.thebookish.de/assets/old/technology-vs-humanity.jpg"
 ---
 
 Futurist ve konuşmacı Gerd Leonhard tarafından kaleme alınan, Teknolojiye Karşı İnsanlık teknolojinin insan yaşamını gelecekte hangi yönde değiştireceğini tartışıyor ve hemen şu noktaya da vurgu yapıyor, insanlarla robotlar arasındaki ilişkinin etik boyutunu tartışmanın tam da sırası çünkü gelecek aslında neredeyse bugüne dönmek üzere. Bu noktada yazar, yer yer pozitif kalsa da, kitaptaki genel bakış açısı pek iyimser değil. Genel olarak insan ile makineler arasında bir çatışma ve uyumsuzluğa doğru sürüklenmenin eşiğinde olduğumuzu çeşitli örneklerle anlatıyor. Teknoloji bağımlılığının giderek yaygınlaşması (dijital obezite olarak tanımlanmış), ekran başında geçirdiğimiz zamanın giderek uzaması, çoğu zaman başka biri ile sohbet etmektense telefonumuzu ya da tabletimizi kullanmayı tercih etmemiz, pek çok kişinin kullanamadıklarında sosyal medyanın eksikliğini duyması kitapta yer alan örnekler arasında. Bütün bunların yanında konunun etik boyutu da var ve bu boyut maalesef gereken ilgiyi görmüyor ve fazla tartışılmıyor.   
