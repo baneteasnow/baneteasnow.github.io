@@ -12,7 +12,7 @@ description: "Aradığın Her Şey, dünyanın en büyük firmalarından biri ha
 published: true
 last_modified_at: 2021-07-08
 posted: 2018-12-15
-image: "https://notes.thebookish.de/assets/old/the-everything-store.jpg"
+image: "https://www.thebookish.de/assets/old/the-everything-store.jpg"
 ---
 
 Aradığın Her Şey: Jeff Bezos ve Amazon Çağı kitabında yazar Brad Stone, dünyanın en büyük firmalarından biri haline gelen Amazon'un kuruluşu ve bugünkü konumuna nasıl geldiğini akıcı bir dille anlatıyor. Dünyanın en zengin kişisi haline gelen Jeff Bezos'un hayat hikayesi ve yönetim tarzı da kitapta ayrıntılı şekilde yer alıyor.  
