@@ -12,7 +12,7 @@ description: "Mahremiyet, 21. yüzyılda teknolojinin ve internetin yaygınlaşm
 published: true
 last_modified_at: 2021-07-12
 posted: 2020-07-04
-image: "https://notes.thebookish.de/assets/old/mahremiyet.jpg"
+image: "https://www.thebookish.de/assets/old/mahremiyet.jpg"
 ---
 
 Norveçli yazar Eirik Løkke'nin kaleme aldığı Mahremiyet - Dijital Toplumda Özel Hayat isimli kitap, 21. yüzyılda teknolojinin ve internetin yaygınlaşması ile birlikte bireylerin özel yaşamlarının hangi yönde etkilendiğini inceliyor. İnternet üzerinde genellikle ücretsiz hizmet veren pek çok şirketin kullanıcılarının hesap bilgilerini hangi yönde kullandıkları tartışması uzun zamandır sürüyor, ancak bu konuda bireyler adına henüz bir ilerleme kaydedilmiş değil. Evet, bu şirketler 'kişisel bilgi güvenliği' ya da 'kişisel verilerin korunması' gibi isimlerle kullanıcılardan çeşitli izinler alıyorlar, güvenlik ayarlarına her geçen gün yenilerini ekliyorlar, ancak kitapta da vurgulandığı gibi, hukuki açıdan getirilmesi gereken düzenlemelerle ilgili henüz fikir birliğine varılamamış durumda.  
