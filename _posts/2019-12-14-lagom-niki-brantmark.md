@@ -12,7 +12,7 @@ description: "Niki Brentmark evlendikten sonra İsveç'e yerleşmiş. Kitabında
 published: true
 last_modified_at: 2021-07-08
 posted: 2019-12-14
-image: "https://notes.thebookish.de/assets/old/lagom-niki-brantmark.jpg"
+image: "https://www.thebookish.de/assets/old/lagom-niki-brantmark.jpg"
 ---
 
 Lagom, myscandinavianhome.com blogunun yaratıcısı Niki Brantmark'ın kaleme aldığı bir kitap. Brentmark evlendikten sonra İsveç'e yerleşen bir İngiliz. Lagom kavramını kişisel hayatta, aile ve ilişkilerde ve daha geniş dünyada olmak üzere üç ana bölümde incelemiş. Lagom 'ne çok fazla, ne çok az' ve 'her şey ılımlı şekilde' anlamlarına geliyor.  
