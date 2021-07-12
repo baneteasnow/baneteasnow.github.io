@@ -12,7 +12,7 @@ description: "Mutlu Pazartesiler, çalışmanın ve çalışma yaşamının insa
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-12-24
-image: "https://notes.thebookish.de/assets/old/happy-mondays.jpg"
+image: "https://www.thebookish.de/assets/old/happy-mondays.jpg"
 ---
 
 Mutlu Pazartesiler, çalışmanın aslında kişileri nasıl mutlu eden bir olgu olduğunu hatırlatıyor. Kitaba göre çalışmanın kötü bir şey olduğu, yorgunluk getireceği, çalışmaya ayrılan zaman diliminin kişinin hobilerine ve ailesine zaman ayırmasının önündeki en büyük engel olduğu gibi birtakım olumsuzluklar bize dayatılmaktadır. Hatta kişisel sağlık ve özel yaşamla ilgili pek çok sorunun kaynağı olarak da çalışma hayatı gösterilmektedir: Stres, kalp hastalıkları, çocuklara zaman ayıramama, depresyon, tükenmişlik sendromu, işkoliklik, kariyer sorunları, vb. Her gün gazete ve haberlerde bu konular yoğun çalışmanın olumsuz bir şey olduğu vurgusu ile birlikte işlenmektedir. Yazar, bu noktada, esas sorunun çalışmanın kötü bir şey olması değil, kişilerin çalışmaya karşı tutumlarının kötü olması olduğunu vurguluyor. Bu nedenle, çalışma için daha iyi bir söyleme bir an önce geçilmesi gerektiğini belirtiyor. Sevdiği bir işi bulan bir insanın asla fazladan bir gün daha çalışmayacağını söyleten Konfuçyüs'ü da unutmamak gerekir.  
