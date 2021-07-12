@@ -12,7 +12,7 @@ description: "Yeni Dijital Çağ, internetin getirdiği değişimleri inceliyor 
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-12-17
-image: "https://notes.thebookish.de/assets/old/the-new-digital-age.jpg"
+image: "https://www.thebookish.de/assets/old/the-new-digital-age.jpg"
 ---
 
 Yeni Dijital Çağ, internetin getirdiği değişimleri inceliyor ve aslında yolun daha çok başında olduğumuzun sinyalini vererek geleceğin dünyasının bugünden çok farklı olacağını anlatıyor. Kitabın Giriş bölümündeki ilk cümleler oldukça çarpıcı:  
