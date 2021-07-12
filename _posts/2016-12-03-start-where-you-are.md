@@ -12,7 +12,7 @@ description: "Start Where You Are, New York'lu sanatçı Meera Lee Petal tarafı
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-12-03
-image: "https://notes.thebookish.de/assets/old/start-where-you-are.jpg"
+image: "https://www.thebookish.de/assets/old/start-where-you-are.jpg"
 ---
 
 Start Where You Are, New York'lu sanatçı Meera Lee Petal tarafından hazırlanmış ve çizimleri yapılmış bir kitap - günlük. Kitabın içinde okuyucuyu düşünmeye sevk edecek birçok egzersiz bulunuyor. Hayal gücünü ve yaratıcılığı harekete geçirecek sorulara çeşitli çizimler eşlik ediyor.  
