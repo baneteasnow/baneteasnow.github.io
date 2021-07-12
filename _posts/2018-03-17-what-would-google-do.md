@@ -12,7 +12,7 @@ description: "Jeff Jarvis, Google Olsa Ne Yapardı isimli kitabında Google'ın 
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-03-17
-image: "https://notes.thebookish.de/assets/old/what-would-google-do.jpg"
+image: "https://www.thebookish.de/assets/old/what-would-google-do.jpg"
 ---
 
 Gazeteci - yazar ve City University of New York'ta "Girişimci Gazetecilik" alanında ders veren Jeff Jarvis, Google Olsa Ne Yapardı isimli kitabında Google'ın neyi farklı yaptığını inceliyor ve kurulduğu tarihten bu yana neleri farklı yaparak bugünkü Google haline geldiğini kendi gözlemlerine dayanarak açıklamaya çalışıyor. Google'ın neyi nasıl yapacağından yola çıkarak farklı sektörlerde ve farklı alanlarda Google gibi düşünebilmenin ve hareket edebilmenin peşine düşüyor.  
