@@ -12,7 +12,7 @@ description: "Hygge, Danimarka'nın günlük yaşamına odaklaniyor, Danimarka'd
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-28
-image: "https://notes.thebookish.de/assets/old/the-little-book-of-hygge.jpg"
+image: "https://www.thebookish.de/assets/old/the-little-book-of-hygge.jpg"
 ---
 
 Hygge, Danimarka'nın günlük yaşamına odaklanan bir kitap, küçük dokunuşlarla mutlu bir ortam yaratmanın mümkün olduğunu aktarıyor okuyucuya. Kitapta bir yaşam tarzından kesitler sunuluyor aslında.  
