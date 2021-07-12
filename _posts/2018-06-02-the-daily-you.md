@@ -12,7 +12,7 @@ description: "Kitap, sosyal medya ve internet ile birlikte markaların ve reklam
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-02
-image: "https://notes.thebookish.de/assets/old/the-daily-you.jpg"
+image: "https://www.thebookish.de/assets/old/the-daily-you.jpg"
 ---
 
 Kitap, sosyal medya ve internetin tüketicilerin hayatına girmesi ile birlikte markaların ve reklam sektörünün sosyal profilleme yoluyla hedef kitlelerini ayrıştırma yollarını inceliyor. Kitabın odaklandığı önemli noktalardan biri, kontrolün kimin elinde olduğu. Kullanıcılar, sosyal medya profillerindeki gizlilik ayarlarını doğru şekilde yapsalar bile kişisel bilgi güvenliklerini yeterli ölçüde sağlayabiliyorlar mı? Ya da Google'da bir kelime ile arama yapan bir kişi aynı kelime üzerine arama yapan bir başka kullanıcı ile aynı sonuçları aynı sıra mı ile mi görüntülüyor?  
