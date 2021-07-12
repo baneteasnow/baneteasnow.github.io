@@ -12,7 +12,7 @@ description: "Ayşe Birsel, Sevdiğiniz Yaşamı Tasarlayın isimli kitabında �
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-11-09
-image: "https://notes.thebookish.de/assets/old/design-the-life-you-love.jpg"
+image: "https://www.thebookish.de/assets/old/design-the-life-you-love.jpg"
 ---
 
 Motivasyon dolu bu kitabın yazarı Ayşe Birsel, bir tasarımcı ve kitabında aslında çoğu kişinin atladığı bir konunun altını çiziyor: 'En önemli projeniz kendi yaşamınızdır'.  
