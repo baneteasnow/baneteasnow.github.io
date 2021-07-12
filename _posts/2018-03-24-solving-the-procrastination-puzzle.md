@@ -12,7 +12,7 @@ description: "Timothy A. Pychyl, Prokrastineyşın'da savsaklama alışkanlığ�
 published: true
 last_modified_at: 2021-07-08
 posted: 2018-03-24
-image: "https://notes.thebookish.de/assets/old/solving-the-procrastination-puzzle.jpg"
+image: "https://www.thebookish.de/assets/old/solving-the-procrastination-puzzle.jpg"
 ---
 
 Psychology Today için Don't Delay isimli bir blog yazısı yazan Timothy A. Pychyl'nin savsaklama alışkanlığı ve bu alışkanlıkla mücadele yöntemleri üzerine kaleme aldığı Prokrastineyşın - Başlanıp Bitirilmesi Gereken İşleri İnatla Erteleme, Savsaklama ve Oturup Çalışmak Yerine Ivır Zıvır Şeylerle Oyalanma Alışkanlığıyla Mücadele Kılavuzu isimli kitabı 2016 yılında Metropolis Kitap tarafından basılmış.  
