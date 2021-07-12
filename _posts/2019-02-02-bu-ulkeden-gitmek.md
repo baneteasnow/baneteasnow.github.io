@@ -12,7 +12,7 @@ description: "Bu Ülkeden Gitmek, Türkiye'den son yıllarda diğer ülkelere ya
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-02-02
-image: "https://notes.thebookish.de/assets/old/bu-ulkeden-gitmek.jpg"
+image: "https://www.thebookish.de/assets/old/bu-ulkeden-gitmek.jpg"
 ---
 
 Gözde Kazaz ve İlksen Mavituna'nın kaleme aldığı Bu Ülkeden Gitmek isimli kitap Türkiye'den son yıllarda diğer ülkelere yaşanan göçü, giden kişilerin bakışçılarını, neden gitmeyi seçtiklerini ve kalanların ise neden gitmemeyi tercih ettiklerini konu alıyor. Yazarlar, kitabı gazeteci perspektifinden yazdıklarını belirtiyorlar. Kullandıkları yöntem ise, derinlemesine mülakat tekniği. Görüştükleri kişilerin kimliklerini gizli tutarak hikayelerini ve görüşlerini paylaşıyorlar. Çalışma kapsamında, 28-49 yaş aralığında 16 kadın ve 11 erkek toplam 27 kişi ile görüşme yapmışlar. Türkiye'de bulunanlar ile çeşitli semtlerde yüz yüze görüşmüşler, diğerleri ile internet üzerinden görüntülü iletişim araçları üzerinden konuşmuşlar.  
