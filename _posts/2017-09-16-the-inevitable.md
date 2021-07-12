@@ -12,7 +12,7 @@ description: "Büyük Teknolojik Dönüşüm, teknolojik, kültürel ve sosyal �
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-09-16
-image: "https://notes.thebookish.de/assets/old/the-inevitable.jpg"
+image: "https://www.thebookish.de/assets/old/the-inevitable.jpg"
 ---
 
 Wired dergisinin kurucularından olan Kevin Kelly tarafından yazılan Büyük Teknolojik Dönüşüm, teknolojik, kültürel ve sosyal öğelerin geleceği nasıl şekillendireceğini anlatıyor. Yazarın gelecekten kastı, önsözde belirttiğine göre, gelecek 30 yıl. Teknolojinin doğasında onu belli bir yöne iten bir tek yanlılık olduğunu vurgulayan yazar, toplam 12 teknolojik kuvvete yer vermiş. Bu kuvvetlerin hepsi birbirine bağımlıdır, birbirlerini hızlandırır ve örtüsurler, herhangi birinden tekil olarak söz etmek pek mümkün olmaz, bir kuvvet diğerleri ile bir bütünlük içindedir.  
@@ -21,13 +21,13 @@ Değişim kaçınılmaz olmakla birlikte bazı yönlerden bazı kesimler tarafı
   
 Yazar, 'son 200 yılın en büyük icadının şu ya da bu cihaz değil, bizzat bilimsel sürecin keşfi' olduğunu belirtmiştir. Çünkü, 'bilimsel metodu bulduktan sonra, diğer yollardan asla keşfedemeyeceğimiz binlerce müthiş şeyi anında yaratabiliyoruz'. Yani, çağımızda süreçler, ürünlere baskın gelmektedir. (sayfa 13)  
   
-###### 1\. Oluş  
+#### 1\. Oluş  
  
 Teknolojik sistemler için sürekli güncelleme yapılması oldukça kritiktir. Makinelerin ve işletim sistemlerinin çoğu, artık otomatik güncelleme yapıyor. Güncellemeyi geciktirmek yıkıcı sonuçlara neden olabilir. Kişisel teknoloji, adeta canlı bir ekosisteme dönüştü. Giderek daha karmaşık ve daha çok ilgi ister hale geliyor. Çünkü, bir alette yapılan bir güncelleme sonrasında, cihazların birbirlerine entegre şekilde doğru çalışması için, sahip olunan tüm aletlerin güncellenmesi gerekiyor. Güncellemeler geliyor, özellikler değişiyor ve bunlar aslında adım adım oluyor. Bir oluşum söz konusu, bu evrim bize - belki de minik adımlar halinde olduğu için - doğal geliyor.  
   
 Hepimiz - tek tek her birimiz - gelecekte, sadece ayak uydurmaya gayret eden, sonsuza kadar acemiler olacağız. Nedeni şu: Birincisi, önümüzdeki otuz yıl boyunca hakim olacak önemli teknolojilerin çoğu henüz icat edilmedi, dolayısıyla, onlar karşısında cahil kalacağız. İkincisi, yeni teknoloji sonsuz güncelleme gerektireceğinden, acemi cehaletinden hiç kurtulamayacağız. Üçüncüsü, ömrünü doldurup eskime çevrimi hızlandığından (bir telefon uygulamasının ortalama ömrü topu topu 30 gündür!) , devre dışı kalmadan üzerinde ustalaşacak kadar zamanımız olmayacak, bu yüzden de sonsuza kadar acemi çaylak olarak kalmaya devam edeceğiz. Yaşınız ya da deneyiminiz ne olursa olsun, Sonsuza Kadar Acemilik herkes için geçerli özellik olacak. (sayfa 19)  
   
-###### 2\. Bilişlenme  
+#### 2\. Bilişlenme  
   
 Ucuz, güçlü ve her yere yayılmış Yapay Zeka (YZ), kadar her şeyi değiştirebilecek bir şey yoktur. Yapay Zeka, 'aptal' olan bir şeyi 'akıllı' hale getirir, bu çok önemli bir adımdır. Yapay Zeka, insanlar tarafından kullanıldıkça iyileşir. Bugün artık, eskiden elektrikli olan her şey bilişlendirilme (akıllandırılma) noktasında bulunuyor.  
   
@@ -39,7 +39,7 @@ Büyük veri
   
 Daha iyi algoritmalar  
   
-###### 3\. Akış  
+#### 3\. Akış  
   
 İnternet, dünyanın en büyük kopyalama makinesidir. ... Eğer bir şey - bir şarkı, bir film, bir kitap - kopya edilebiliyorsa ve internetle teması varsa, kopyalanır. ... Kopyalar serbestçe akar, intenet adeta süper iletken işlevindedir. (sayfa 73) Teknoloji ile birlikte kopyaların değeri azalıyor, kopyalanamayan şeyler ise seyrek hale gelerek daha değerli oluyor.  
   
@@ -60,7 +60,7 @@ Parasız. Yaygın.
 Akış. Paylaşım.  
 Açılış. Oluş.  
   
-###### 4\. Görüntüleme  
+#### 4\. Görüntüleme  
   
 Bundan sonra, bulduğumuz her düz yüzeye bir izlenebilir ekran koyacağız. (sayfa 100) 
   
@@ -72,7 +72,7 @@ Kitaplar giderek 'şebekeleşecek', içeriğinde barındırdığı linkler ve di
   
 Ekranları kullanırken bir insan tüm bedenini hareket ettirir, dokunmatik ekran parmakların ekranla aralıksız temasını mümkün kılar, oyun konsollarının sensörleri el ve kol hareketlerini takip eder, bakışları yakalayan cep telefonları vardır.  
   
-###### 5\. Erişim
+#### 5\. Erişim
   
 Artık sahiplik, eskisi kadar önem taşımıyor. Erişim her zamankinden daha önemli. (sayfa 127)  
   
@@ -88,11 +88,11 @@ Platform sinerjisi: "Uzun bir süre, insanların çalışma faaliyetlerini düze
   
 Bulutlar: Bulut, milyonlarca bilgisayarın pürüzsüz bir şekilde birbirine örülerek tek bir devasa bilgisayar gibi hareket ettiği bir bilgisayar kolonisidir.  
   
-###### 6\. Paylaşım  
+#### 6\. Paylaşım  
   
 Wikipedia, yeni oluşmakta olan kollektivizmin iyi bir örneğidir. Vikiler, el birliği ile üretilen belgeler kümesidir, herkes düzenleme ve değişiklik yapabilir. Digg, StumbleUpon, Reddit, Pinterest ve Tümblr gibi siteler işbirliğine dayalı yorum siteleridir ve kullanıcıları bu siteler üzerinde yer alan içerikleri sıralar, puanlar, listeler haline getirir, yeni fikirler ekler, ilham alır, paylaşır, not ekler ve akış haline getirir.  
   
-###### 7\. Filtreleme  
+#### 7\. Filtreleme  
   
 Önümüzdeki on yıllarda seçeneklerin çoğalmasıyla baş edebilmek için pek çok yeni filtreleme turu bulmak zorunda kalacağız. (sayfa 192)  
   
@@ -100,7 +100,7 @@ Filtreleme konusunda devreye giren unsurlar; 'hoşlandığım şeyler' (Amazon g
   
 Filtrelerin kullanımının neredeyse zorunlu hale gelmesi ve kolaylaşması ile birlikte kişiselleşme derecesi de yükselmiş olacak.  
   
-###### 8\. Remiks  
+#### 8\. Remiks  
   
 Modern teknolojiler, eski ilkel teknolojilerin yeniden karıştırılıp düzenlenen bileşimleridir. ... Bir üretici remiks çağındayız. ... Olası bileşim sayısı katlanarak artar, kültürü ve ekonomiyi genişletir. (sayfa 219)  
   
@@ -108,7 +108,7 @@ Vine ile 6 saniyelik videolar hazırlanması ve paylaşılması, sonsuz tekrarı
   
 Otuz yıl içinde en önemli kültürel eserler ve en önemli araçlar, en fazla remiks edilenler olacak.  
   
-###### 9\. Etkileşim  
+#### 9\. Etkileşim  
   
 Sanal Gerçeklik (VR - Virtual Reality), mutlak sahicilik hissi veren bir sahte dünyadır. Sanal Gerçeklik, görüntülere on dakikadan fazla maruz kalınması halinde mide bulantısı gibi fiziksel rahatsızlıklara yol açtığı için pratik kullanım açısından yaygınlaşmamıştır. Sanal gerçekliğin iki temel faydası vardır: orada olmak ve etkileşim. Sanal gerçeklik, önümüzdeki on yıl içinde giderek daha 'gerçek' hale gelecek, böylece gerçeklik gösterisi izlerken gerçek bir dünyadan gerçek bir pencereye bakıldığı hissini verebilecek. Titreme vb sorunları ortadan kalkacak. İkinci nesil sanal gerçeklik, ışık alanı projeksiyonuna dayanıyor. Çıplak gözle görünen gerçekliğin üzerine yansıtılan 'gerçekliğin' bindirilmesine olanak veren yeni yöntem Artırılmış Gerçeklik (AR - Augmented Reality) olarak adlandırılıyor.  
   
@@ -120,7 +120,7 @@ Daha çok duyu, daha çok yakınlık ve daha çok sürükleyicilik.
   
 Teknolojinin geleceği büyük ölçüde yeni etkileşimlerin keşfinde yatıyor. (sayfa 268)  
   
-###### 10\. İzleme  
+#### 10\. İzleme  
   
 İnsanlar sahip oldukları akıllı cihazlar sayesinde, beslenmelerini, zindeliklerini, uyku düzenlerini, ruh hallerini, kan değerlerini, genlerini, bulundukları yerleri vb şeyleri nicel birimler halinde ölçerek takip ediyorlar, izliyorlar. Bu şekilde oluşan veri nehrinden somut anlamlar çıkarabilmek için yapay zeka devreye giriyor, kayıtları tarayarak anlamlı kalıplar çıkarabiliyor.  
   
@@ -132,13 +132,13 @@ Her yıl toplanan enformasyonun artan bir yüzdesi, o enformasyonla ilgili olara
   
 Kişiselleştirme ve şeffaflık arasında paralel bir ilişki vardır, kişiselleştirmenin artması şeffaflığın artışı ile mümkün olur. Sosyal medya, insanların paylaşma güdüsünün kendini gizleme güdüsüne baskın çıktığının bir göstergesidir.  
   
-###### 11\. Sorgulama  
+#### 11\. Sorgulama  
   
 Wikipedia, başarılı oldu, çünkü doğru araçlarla zarar gören yazıyı onarmanın (Wikipedia'nın değişiklikleri geri alma fonksiyonu) hasarlı yazı üretmekten (Vandalizm) daha kolay olduğu, bu nedenle yeterince iyi bir metnin tuttuğu ve yavaş yavaş iyileşmeye devam ettiği görüldü. (sayfa 304)  
   
 Toplumumuz katı hiyerarşi düzeninden, desantralize olmanın akıcılığına doğru ilerliyor. İsimler fiillere, somut elle tutulur sonuçlardan soyut oluşlara doğru ilerliyor. Sabit medyadan karışık remiks edilmiş medyaya doğru ilerliyor. Mağazalardan akışlara doğru. Değer lokomotifi, yanıtlatın kesinliğinden soruların kesinliğine doğru ilerliyor. Olgular, düzen ve yanıtlar her zaman gerekli ve yararlı olacak. ... Yanıt üretme teknolojileri asli bir nitelik kazanırken, yanıtlar her yerde ve anında bulunabilir, güvenilir ve bedava olacak. Ama soru üretme teknolojileri daha fazla değer görecek. Soru üretenler haklı olarak, durmak bilmeyen turumuzun keşfe çıkabileceği yeni alanlar, yeni sektörler, yeni markalar, yeni olanaklar, yeni kıtalar üretenler olarak görülecek. Sorgulamak yanıtlamaktan daha güçlüdür.  
   
-###### 12\. Başlangıç  
+#### 12\. Başlangıç  
   
 Holos teriminin içine bütün makinelerin kollektif davranışıyla bütünleşmiş kollektif aklı, artı doğanın aklını, artı bu bütünden türeyen her davranışı katıyorum. Bu bütün eşittir holos. (sayfa 328)  
   
