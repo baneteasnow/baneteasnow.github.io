@@ -12,7 +12,7 @@ description: "Ruhuna Pansuman, klinik psikolog ve dışa vurumcu sanat terapisti
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-11-02
-image: "https://notes.thebookish.de/assets/old/ruhuna-pansuman.jpg"
+image: "https://www.thebookish.de/assets/old/ruhuna-pansuman.jpg"
 ---
 
 Ruhuna Pansuman, klinik psikolog ve dışa vurumcu sanat terapisti Suzi Amado'nun kaleme aldığı, öneriler ve farkındalık egzersizleri ile dolu bir kitap.  
