@@ -12,7 +12,7 @@ description: "Bolluk, dünyada her şeyin daha kötüye gitmediğini düşündü
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-12-02
-image: "https://notes.thebookish.de/assets/old/abundance.jpg"
+image: "https://www.thebookish.de/assets/old/abundance.jpg"
 ---
 
 'Dünya daha iyiye mi gidiyor?' sorusuna pek çok kişi muhtemelen olumsuz cevap verecektir. Haberlerin, yaşanan krizlerin ve sorunlu dönemeçlerin bu çıkarımda etkisinin büyük olduğu tartışma götürmez. Bolluk isimli kitapta ise yazarlar Peter H. Diamandis ve Steven Kotler, bu olumsuz bakış açısının kırılabilmesi için aslında her şeyin kötüye gitmediğini düşündürecek gelişmeleri paylaşıyorlar. Bu gelişmeler arasında, bilim, mühendislik, sosyal trendler ve ekonomik kuvvetlerle ilgili olanlar var.   
