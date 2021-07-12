@@ -12,7 +12,7 @@ description: "Akıldışı Ama Öngörülebilir, kararlarımızı biçimlendiren
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-02-06
-image: "https://notes.thebookish.de/assets/old/predictably-irrational.jpg"
+image: "https://www.thebookish.de/assets/old/predictably-irrational.jpg"
 ---
 
 Kararlarımızı biçimlendiren gizli kuvvetleri konu alan Akıldışı Ama Öngörülebilir isimli kitapta, yazar tarafından davranışsal iktisat konularını incelemek üzere yapılan pek çok deneyden de örnekler paylaşılmıştır. Klasik iktisada göre insanların her zaman için en mantıklı ve en akılcı olan seçenekleri seçmeleri beklenirken, insanlar pek çok konuda böyle yapmamakta, tam tersine akıl dışı davranmaktadır; üstelik de bunu defalarca tekrarlayabilmektedir. Yazarın kitabında yer verdiği davranışsal iktisat konuları hem psikolojinin hem de iktisadin görüşlerinden yararlanmaktadır. Yazar, işte bu akıl dışı davranışların dayandığı temeli incelemekte ve beklenenin her zaman gerçekleşmeyeceğini vurgulamaktadır.  
