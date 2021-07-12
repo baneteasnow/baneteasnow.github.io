@@ -12,7 +12,7 @@ description: "Brandwashed isimli kitapta markaların nasıl kendi logolarını, 
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-07-07
-image: "https://notes.thebookish.de/assets/old/brandwashed.jpg"
+image: "https://www.thebookish.de/assets/old/brandwashed.jpg"
 ---
 
 Brandwashed isimli kitapta markaların nasıl kendi logolarını, sloganlarını, ürünlerini tüketicilerin bilinçaltına adeta ilmek ilmek işleyerek yerleştirdikleri ve hatta bunu bebeklikten itibaren yaptıkları anlatılıyor. Böylece çocukluk anıları arasında belli markalar bulunan kişiler, yetişkin olup kendi alışverişlerini yapmaya başladıklarında bilinçsiz şekilde o markaları tercih etme eğiliminde oluyorlar. Bu şekilde markalar da gelecekte kendi potansiyel müşterileri olacak nesiller yetişirken onların hep yanı başında yer alıyor.  
