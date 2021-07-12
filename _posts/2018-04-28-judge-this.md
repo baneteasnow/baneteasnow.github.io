@@ -12,7 +12,7 @@ description: "Chip Kidd, kendi telefonu (iPhone 5s) ile çektiği resimleri tasa
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-04-28
-image: "https://notes.thebookish.de/assets/old/judge-this.jpg"
+image: "https://www.thebookish.de/assets/old/judge-this.jpg"
 ---
 
 İlk İzlenim Her Şey kitabının yazarı Chip Kidd, bir grafik tasarımcı ve kitap kapakları tasarımı konusunda uzmanlaşmış. Tasarladığı kapaklar arasında Orhan Pamuk'un Masumiyet Müzesi (The Museum of Innocence) isimli kitabının İngilizce baskısının kapak tasarımı da yer alıyor.  
