@@ -1,7 +1,7 @@
 ---
 layout: post  
 category: book2  
-title: "The Attention Merchants"  
+title: "The Attention Merchants | Tim Wu (Kitap)"  
 kitap: "The Attention Merchants: The Epic Scramble to Get Inside Our Heads"  
 tr: "Dikkat Tacirleri - İnsan Zihnine Girmek İçin Verilen Amansız Mücadele"  
 yazar: "Tim Wu"  
