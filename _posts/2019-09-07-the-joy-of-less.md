@@ -12,7 +12,7 @@ description: "Azla Mutlu Olmak, öncelikle sade yaşamın felsefesini yani minim
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-07
-image: "https://notes.thebookish.de/assets/old/the-joy-of-less.jpg"
+image: "https://www.thebookish.de/assets/old/the-joy-of-less.jpg"
 ---
 
 Azla Mutlu Olmak, Francine Jay'ın kaleme aldığı bir kitap. Kendisinin missminimalist.com isminde bir blogu var. Blogunda gerçek minimalistlerin yaşamlarından örnekler ve minimalist yaşama dair ipuçları bulunuyor.  
