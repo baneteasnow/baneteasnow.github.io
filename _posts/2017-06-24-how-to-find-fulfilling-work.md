@@ -12,7 +12,7 @@ description: "Roman Krznaric tarafından kaleme alınan Kendimize Uygun İşi Na
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-06-24
-image: "https://notes.thebookish.de/assets/old/how-to-find-fulfilling-work.jpg"
+image: "https://www.thebookish.de/assets/old/how-to-find-fulfilling-work.jpg"
 ---
 
 Roman Krznaric tarafından kaleme alınan Kendimize Uygun İşi Nasıl Buluruz, iş yaşamına ve kariyer basamaklarına farklı bir bakış açısı sunuyor. Kişinin kariyer beklentisinin gerek eğitimi, gerek ailesinin ve çevresinin yönlendirmesi, gerekse de çevresinden gördüğü 'başarılı diye tabir edilen' örneklerle mi şekillenmesi gerektiğini yoksa; kişinin er ya da geç kendisini mutlu edecek 'anlamlı' bir iş aramaktan vazgeçmemesi mi gerektiğini tartışıyor.  
