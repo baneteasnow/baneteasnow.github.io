@@ -12,7 +12,7 @@ description: "Gerçekçiler İçin Ütopya, içinde bulunduğumuz 'bolluk çağ�
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-09-22
-image: "https://notes.thebookish.de/assets/old/utopia-for-realists.jpg"
+image: "https://www.thebookish.de/assets/old/utopia-for-realists.jpg"
 ---
 
 Gerçekçiler İçin Ütopya, içinde bulunduğumuz 'bolluk çağı'nı irdeleyerek başlıyor.   
