@@ -12,7 +12,7 @@ description: "Yedi Günlük Hafta Sonu, iş-yaşam dengesi üzerinde duruyor ve 
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-11-25
-image: "https://notes.thebookish.de/assets/old/the-seven-day-weekend.jpg"
+image: "https://www.thebookish.de/assets/old/the-seven-day-weekend.jpg"
 ---
 
 Semco Partners firmasının uzun süre CEO'lük görevini yürütmüş olan Ricardo Semler, firmanın geçirdiği dönüşümün ilk yıllarını 'Maverick' isimli kitabında anlatmıştı.   
