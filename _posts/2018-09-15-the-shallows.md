@@ -13,7 +13,7 @@ last_modified_at: 2021-07-08
 published: true
 rereading: '#yeniden'
 posted: 2018-09-15
-image: "https://notes.thebookish.de/assets/old/the-shallows.jpg"
+image: "https://www.thebookish.de/assets/old/the-shallows.jpg"
 ---
 
 Nicholas Carr'in kaleme aldığı Yüzeysellik: İnternet Bizi Aptal Mı Yapıyor? isimli kitap, yazarın the Atlantic dergisinde 2008 yılında yayınlanan 'Is Google Making Us Stupid' (Google Bizi Aptallaştırıyor Mu) başlıklı makalesine dayanıyor.  
