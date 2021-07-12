@@ -12,7 +12,7 @@ description: "Dört Gelecek, dört farklı senaryo ile kapitalizm sonrası gelec
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-07-20
-image: "https://notes.thebookish.de/assets/old/four-futures.jpg"
+image: "https://www.thebookish.de/assets/old/four-futures.jpg"
 ---
 
 Dört Gelecek, dört farklı senaryo ile kapitalizm sonrası geleceği ele alıyor. Bu senaryolardan iki tanesi olumlu bir tablo çizerken (bolluk yaşanması durumu) diğer ikisi oldukça olumsuz (kıtlık yaşanması durumu). 
