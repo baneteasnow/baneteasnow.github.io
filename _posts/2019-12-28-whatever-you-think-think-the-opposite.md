@@ -12,7 +12,7 @@ description: "Aklını Kullan Tersini Düşün, alışıldık yolun tam tersini 
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-12-28
-image: "https://notes.thebookish.de/assets/old/whatever-you-think-think-the-opposite.jpg"
+image: "https://www.thebookish.de/assets/old/whatever-you-think-think-the-opposite.jpg"
 ---
 
 Reklam dünyasının tanınmış ismi Paul Arden'in kaleme aldığı Aklını Kullan Tersini Düşün, alışıldık yolun tam tersini yapmanın bazen en iyi yöntem olduğunu okuyucuya gösteriyor. Yanlış sanılanın en doğru karar olabileceğini, risk almanın hayat kurtardığını, mantıklı davranmanın aslında pek de mantıklı olmayabileceğini kendi deneyimlerinden ve reklam dünyasından verdiği örneklerle anlatıyor. Farklı düşünebilmek, aksini görebilmek, fikrini kararlılıkla savunmak, reddedilmekten korkmamak ve en önemlisi kendine güvenerek şansını denemek üzerine yazarın önerileri kitapta yer alıyor.  
