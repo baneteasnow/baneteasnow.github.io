@@ -12,7 +12,7 @@ description: "Siyah Kuğu, ihtimal dışı olarak sayılan pek çok olayın asl�
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-06-01
-image: "https://notes.thebookish.de/assets/old/the-black-swan.jpg"
+image: "https://www.thebookish.de/assets/old/the-black-swan.jpg"
 ---
 
 Nassim Nicholas Taleb'in kaleme aldığı Siyah Kuğu isimli kitapta yazar, "Siyah Kuğu" terimini bir metafor olarak kullanıyor. 'Bugüne kadar gördüğünüz tüm kuğuların beyaz olması, siyah kuğuların bulunmadığı anlamına gelmez. Tek bir siyah kuğunun bile görülmesi yeterlidir.'' fikrinden hareket eden yazar, Siyah Kuğu olarak bahsedeceği olaylar için 3 temel özellik belirlemiştir (sayfa 9-10):  
