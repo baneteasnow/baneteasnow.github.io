@@ -12,7 +12,7 @@ sayfa: "216"
 description: "101 Things I Learned in Product Design School, ürün tasarımı hakkında ipuçları veren bir kitap."
 goodreads: "https://www.goodreads.com/book/show/49188385-101-things-i-learned-in-product-design-school"
 posted: 2021-06-16
-image: "https://notes.thebookish.de/assets/new/101-things-i-learned-in-product-design-school.jpg"
+image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-product-design-school.jpg"
 ---
 
 101 Things I Learned in Product Design School, tasarımın aslında fiziksel bir eylem olduğu ve sadece masabaşında yapılamayacağı vurgusu ile başlıyor. Bazen deneme yanılma yöntemi ile, bazen deneyimleyerek söz konusu dizayn adım adım en iyi haline getirilebilir. Kullanıcı gibi davranıp, kullanıcının deneyimini edinmek, dizaynı kullanıcının perspektifinden görebilmek çok önemlidir. Aksi takdirde, tasarımcının bakış açısı sadece bildikleri ile sınırlı kalacaktır.
