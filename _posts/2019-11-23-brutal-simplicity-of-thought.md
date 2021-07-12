@@ -12,7 +12,7 @@ description: "Düşüncenin Acımasız Basitliği, 'eğer bir şeyi yeterince an
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-11-23
-image: "https://notes.thebookish.de/assets/old/brutal-simplicity-of-thought.jpg"
+image: "https://www.thebookish.de/assets/old/brutal-simplicity-of-thought.jpg"
 ---
 
 Düşüncenin Acımasız Basitliği, 'eğer bir şeyi yeterince anlamadıysanız, onu en basite indirgeyerek açıklayamazsınız.' mottosuna dayanan bir kitap.  
