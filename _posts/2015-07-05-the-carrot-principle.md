@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/452655.The_Carrot_Principle"
 description: "Havuç İlkesi, 'en iyi yöneticiler çalışanlarını takdir ederek onların yeteneklerini nasıl daha fazla kullanmalarını sağlarlar?' sorusuna cevap arıyor."
 published: true
 last_modified_at: 2021-07-12
-posted: 2015-07-05
+posted: 2014-07-05
 image: "https://www.thebookish.de/assets/old/the-carrot-principle.jpg"
 ---
 
