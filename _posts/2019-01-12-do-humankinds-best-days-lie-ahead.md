@@ -8,7 +8,7 @@ yazar: "Alain De Botton, Steven Pinker, Matt Ridley, Malcolm Gladwell"
 yil: "2017"  
 sayfa: "132"  
 goodreads: "https://www.goodreads.com/book/show/29340854-do-humankind-s-best-days-lie-ahead"
-description: "4 ünlü yazar, Gelecek Daha Güzel Günler Mi Getirecek'de "insanlık olarak daha iyiye mi, yoksa daha kötüye mi gidiyoruz?" sorusuna cevap arıyorlar."
+description: "4 ünlü yazar, Gelecek Daha Güzel Günler Mi Getirecek'de 'insanlık olarak daha iyiye mi, yoksa daha kötüye mi gidiyoruz?' sorusuna cevap arıyorlar."
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-01-12
@@ -42,7 +42,7 @@ Münazara 90 dakika sürüyor ve her bir münazaracı kendine ayrılan sürede s
   
 ##### Geleceğin Daha Güzel Günler Getireceğini Savunanlar (Pro)  
 
-###### Steven Pinker  
+##### Steven Pinker  
   
 10 farklı konuda tüm dünya için gidişatın olumlu olduğunu savunarak söze başlıyor. Bu konular şöyle:  
   
@@ -59,7 +59,7 @@ Münazara 90 dakika sürüyor ve her bir münazaracı kendine ayrılan sürede s
   
 Pinker, son dönemde yaşanan tüm bu gelişmelerin teknolojideki ilerlemeleri de desteklediğini belirtiyor. İki tehlikeye işaret ediyor; nükleer terörizm ve iklim değişikliği. Ancak, bu tehlikelerin de çözülebileceğini savunuyor.  
   
-###### Matt Ridley  
+##### Matt Ridley  
   
 Geçmişte geleceğin kendisine oldukça karanlık gözüktüğü bir dönem yaşadığını belirtiyor. Bunun nedeni ise, nüfus artışı, kıtlık tehditi, kanserin yayılması, çöllerin genişlemesi, petrolün tükeniyor oluşu, asit yağmurlarının ve bazı hastalıkların yayılması, ozon tabakasındaki deliğin büyümesi gibi olası sorunların sürekli vurgulanmasıydı ona göre. Ridley, bu tehditlerin her birinin yanlış alarm olduğunu ya da abartıldığını düşünüyor ve ekliyor:  
   
@@ -70,11 +70,11 @@ Kötü giden şeyleri ise trafik ve obezite olarak belirlemiş. Bu tür sorunlar
   
 ##### Karşı Çıkan Muhalifler (Con)  
   
-###### Alain de Botton  
+##### Alain de Botton  
   
 Geleceğin daha güzel günler getireceğini savunan "iyimser" tarafın bahsettiği noktaların dört temaya dayandığını belirterek sözü devralıyor. Bunlar; cehalet, fakirlik, savaş ve hastalık. Ardından sözü kendi memleketine, dünyanın en gelişmiş ülkelerinden biri olan İsviçre'ye getiriyor. Pek çok ülkenin ilerisinde yer alsa da, İsviçre'nin de kendi sorunları olduğunu, gayrisafi milli hasılanın yüksek olmasının insanlardaki 'yetersizlik' duygusunu bastırmaya yetmediğini ve yoksulluğun asıl tanımı olan 'yeterince şeye sahip olmama hissi'nin kendi ülkesinde pek çok kişide mevcut olduğunu belirtiyor.  
   
-###### Malcolm Gladwell  
+##### Malcolm Gladwell  
   
 Gladwell, Pinker ve Ridley'i 'Pollyanalar' olarak nitelendirerek söze başlıyor. Geçmişin daha güzel günler getirmiş olduğunu ancak geleceğin daha iyi günler getirmesinin aslında dünyanın hangi bölgesinde bulunduğunuza göre değişeceğini vurgulayarak sözlerine devam ediyor. Gelecekte 'daha farklı' bir dünyanın söz konusu olacağını belirtiyor. Pek çok alanda olumlu gelişmeler yaşanmış olsa da, bunların beraberinde olumsuzlukları da getirdiğini ekliyor. Bu duruma örnek olarak, hastalıklara ve kıtlığa daha dayanıklı ekinler üretiliyor olsa da, bu yöntemin iklim değişikliğine sebep olmasını; iletişimde yaşanan ilerlemelerin Afrika gibi bölgelerde hayatı kolaylaştırmasına rağmen, terörizm tehlikesini desteklediğini veriyor. Bu şekilde, bazı riskler azaltılırken, bazı risklerin de doğası değiştirilmiş oluyor.  
   
