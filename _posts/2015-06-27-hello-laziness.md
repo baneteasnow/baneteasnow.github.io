@@ -12,7 +12,7 @@ description: "Kitap, iş hayatının farklı yönlerine göndermeler yapıyor ve
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-06-27
-image: "https://notes.thebookish.de/assets/old/hello-laziness.jpg"
+image: "https://www.thebookish.de/assets/old/hello-laziness.jpg"
 ---
 
 Merhaba Tembellik, kısa bir kitap, en fazla iki üç günde rahatlıkla okunabilir. Yazarı Fransız Corine Maier. Kitabı en iyi özetleyen cümle "İşyerinde olabildiğince az çalışmanın yolları ve gerekliliği". Kitap, iş hayatının farklı yönlerine göndermeler yapıyor ve çok çabalayanın da az çabalayanın da aslında hemen hemen aynı şeyleri elde ettiğini anlatıyor. Milyonlarca insanın çalıştığı şirketlerin dünyası şeffaf değil. Fırsatı olanlar hemen işinden ayrılıp kendi işini kurmayı tercih ediyor. Bunun altında çok temel bir mesele var yazara göre. Kendi deyimiyle "şirketler insanlara değer vermez!".  
