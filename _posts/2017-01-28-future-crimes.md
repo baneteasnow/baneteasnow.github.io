@@ -12,7 +12,7 @@ description: "Geleceğin Suçları,  yakın geçmişte yaşanan siber suc ve ter
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-01-28
-image: "https://notes.thebookish.de/assets/old/future-crimes.jpg"
+image: "https://www.thebookish.de/assets/old/future-crimes.jpg"
 ---
 
 Geleceğin Suçları, ileri teknolojilerin güvenlik üzerine etkileri, siber suçlar ve siber terör üzerine çeşitli Birleşmiş Milletler, NATO, Los Angeles Polis Departmanı gibi kurumlarda çalışmış olan Marc Goodman tarafından kaleme alınan bir kitap. Kitapta yakın geçmişte yaşanan pek çok olay (kişisel icloud vb, hesapların ele geçirilmesi, sistemlere solucan ve trojan yerleştirilmesi, virüsle yapılan saldırılar, banka hesapları ve kredi kartı bilgilerinin ele geçirilmesi gibi) akıcı bir dille ele alınıyor. Geleceğin Suçları, internetin ve teknolojinin kötü niyetli kişilerin elinde ne hal alabileceğini tahminlerimizin de ötesinde büyük suçların ne şekilde mümkün olduğunu ve daha da önemlisi bizim ne ölçüde bu tuzaklara düşmeye hazır olduğumuzu göstermesi nedeniyle oldukça önemli bir kitap.  
