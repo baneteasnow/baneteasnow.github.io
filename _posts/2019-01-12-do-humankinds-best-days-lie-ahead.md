@@ -12,7 +12,7 @@ description: "4 ünlü yazar, Gelecek Daha Güzel Günler Mi Getirecek'de 'insan
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-01-12
-image: "https://notes.thebookish.de/assets/old/do-humankinds-best-days-lie-ahead.jpg"
+image: "https://www.thebookish.de/assets/old/do-humankinds-best-days-lie-ahead.jpg"
 ---
 
 Munk Münazaraları, 2008 yılından bu yana Kanada Toronto'da altı ayda bir kez Roy Thomson Hall'da 3000 seyirci önünde gerçekleştiriliyor. Ele alınan konular genellikle jeopolitik, sosyal, ekonomik veya teknolojik meselelere yoğunlaşıyor. Amaç, dünyanın ve Kanada'nın yüz yüze olduğu temel kamu politikaları meselelerini tartışabilmeleri için önde gelen düşünürlere küresel bir forum sağlamak. Dünyanın en parlak isimlerinin belirlenen konu üzerine fikirlerini paylaştığı bu münazarada, 2015 sonbaharında felsefeye dayanan bir konu ele alınmış, bu münazaranın içeriğine ise Türkçe olarak Gelecek Daha Güzel Günler Mi Getirecek isimli kitapta yer verilmiştir.  
