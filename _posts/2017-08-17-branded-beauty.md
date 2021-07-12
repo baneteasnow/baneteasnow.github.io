@@ -12,7 +12,7 @@ description: "Pazarlama Görünüşümüzü Nasıl Değiştirdi, güzellik ve ko
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-08-17
-image: "https://notes.thebookish.de/assets/old/branded-beauty.jpg"
+image: "https://www.thebookish.de/assets/old/branded-beauty.jpg"
 ---
 
 Güzellik ve kozmetik sektörünün arka planını anlatan Pazarlama Görünüşümüzü Nasıl Değiştirdi aynı zamanda pek çok ünlü markanın kuruluş hikayesine de yer veriyor. Mark Tungate'in incelediği markalar arasında Helena Rubinstein, Elizabeth Arden, Revlon, Esteé Lauder, Clinique, L'Oréal, Vichy, Maybelline, Kiehl's, Lancôme, The Body Shop, Procter & Gambler, Unilever, Rimmel, MAC, Bobbie Brown, Nars, Chanel, Christian Dior, Yves Saint Laurent, La Prairie, Clarins, Shiseido, Sisley var. Çok satan ürünler, markaların vaat ettikleri, hazırlanan reklamlar ve tüketiciye iletilmek istenen mesajlar ilginç detaylarla aktarılıyor. 
