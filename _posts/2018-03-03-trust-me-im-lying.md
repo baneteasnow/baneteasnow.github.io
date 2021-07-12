@@ -12,7 +12,7 @@ description: "İnan Bana, Yalan Söylüyorum, kitle iletişim araçlarının asl
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-03-03
-image: "https://notes.thebookish.de/assets/old/trust-me-im-lying.jpg"
+image: "https://www.thebookish.de/assets/old/trust-me-im-lying.jpg"
 ---
 
 İnan Bana, Yalan Söylüyorum, kitle iletişim araçlarının aslında ne kadar kolay yönlendirilerek manipüle edilebildiğini, bizzat bunu yapan kişi tarafından anlatıldığı bir kitap. Kitabın yazarı Ryan Holiday, 2017 yılında el değiştirerek kapanan American Apparel markasının Pazarlama Direktörlüğünü yapmıştır. Hem bu marka için, hem de danışmanlığını yürüttüğü kişiler için yürüttüğü çeşitli kampanyalar sırasında, yaymak istediği haberin geniş kitlelere ulaşabilmesi için kullandığı yöntemi kitabında açıklamaktadır.  
