@@ -12,7 +12,7 @@ description: "Deneyim Ekonomisi, çalışanlar, müşteriler ve tüketiciler ile
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-11-28
-image: "https://notes.thebookish.de/assets/old/the-experience-economy.jpg"
+image: "https://www.thebookish.de/assets/old/the-experience-economy.jpg"
 ---
 
 Deneyim Ekonomisi, çalışanlar, müşteriler ve tüketiciler ile daha güçlü ve yakın ilişkiler kurmada deneyimlerden faydalanmayı anlatan bir kitap, iş dünyasının en önemli kaynakları arasında gösteriliyor.   
