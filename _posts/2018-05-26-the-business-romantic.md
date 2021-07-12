@@ -12,7 +12,7 @@ description: "Business Romantik, iş hayatında duyguların daha yoğun yaşand�
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-05-26
-image: "https://notes.thebookish.de/assets/old/the-business-romantic.jpg"
+image: "https://www.thebookish.de/assets/old/the-business-romantic.jpg"
 ---
 
 Business Romantik, iş dünyasına farklı bir açıdan bakarak duyguların daha yoğun yaşandığı, entelektüelitenin daha yüksek olduğu ve ruhsal ihtiyaçların göz önüne alındığı bir yapının mümkün olduğunu gösteriyor. Yazar, iş hayatında romantik davranarak anlam arayışına çıkıyor.  
