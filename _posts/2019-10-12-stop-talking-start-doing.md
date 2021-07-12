@@ -12,7 +12,7 @@ description: "Konuşmayı Kes, Harekete Geç, okuyucuya aklında ne varsa artık
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-10-12
-image: "https://notes.thebookish.de/assets/old/stop-talking-start-doing.jpg"
+image: "https://www.thebookish.de/assets/old/stop-talking-start-doing.jpg"
 ---
 
 Konuşmayı Kes, Harekete Geç kitabının ismi, kitabı çok güzel özetliyor.  
