@@ -12,7 +12,7 @@ description: "Small Data, büyük verinin yetersiz kaldığı noktada küçük v
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-12-01
-image: "https://notes.thebookish.de/assets/old/small-data.jpg"
+image: "https://www.thebookish.de/assets/old/small-data.jpg"
 ---
 
 Büyük veri, günümüzde firmaların gündem maddeleri arasında en üst sıralarda yer alıyor. Büyük verinin toplanması, işlenmesi, anlamlı hale getirilmesi üzerine danışmanlık alınıyor, uzmanlar görev yapıyor. Ancak, tüm faydalarına rağmen, büyük veri kimi zaman bazı tüketici eğilimlerini açıklayamıyor, satır aralarının okunmasına yardımcı olamıyor veya yetersiz kalabiliyor. Pek çok ünlü markaya danışmanlık yapan Martin Lindstrom, Small Data isimli kitabında büyük verinin yetersiz kaldığı noktada küçük veriden nasıl yararlanılacağına ilişkin pratik bilgileri danışmanlığını yaptığı firmalardan gerçek örneklerle paylaşıyor.  
