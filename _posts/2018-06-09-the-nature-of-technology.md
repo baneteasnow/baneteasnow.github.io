@@ -12,7 +12,7 @@ description: "Teknolojinin Doğası, adım adım teknolojinin gerçek doğasın�
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-09
-image: "https://notes.thebookish.de/assets/old/the-nature-of-technology.jpg"
+image: "https://www.thebookish.de/assets/old/the-nature-of-technology.jpg"
 ---
 
 Yazar, kitapta adım adım teknolojinin gerçek doğasını sorguluyor, teknolojinin ne olduğunu ve nasıl evrim geçirdiğini tartışıyor. Teknolojinin altında yatan ilkeler ve teknolojinin gidişatı ve gelişimini belirleyecek ortak bir yön kitabın çıkış noktasını oluşturuyor.  
