@@ -12,7 +12,7 @@ description: "Lagom, İsveç kültürünün önemli bir parçası.  Linnea Dunne
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-12-21
-image: "https://notes.thebookish.de/assets/old/lagom-linnea-dunne.jpg"
+image: "https://www.thebookish.de/assets/old/lagom-linnea-dunne.jpg"
 ---
 
 Lagom, İsveç kültürünün önemli bir parçası. Tam kararında olmayı ve dengeyi ifade eden bu kavram, aynı zamanda İsveçlilerin mutluluklarının kaynağı olarak gösteriliyor.  
