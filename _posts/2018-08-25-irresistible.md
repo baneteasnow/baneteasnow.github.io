@@ -12,7 +12,7 @@ description: "Karşı Konulmaz, bağımlılık yapıcı davranışları yani 'Da
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-08-25
-image: "https://notes.thebookish.de/assets/old/irresistible.jpg"
+image: "https://www.thebookish.de/assets/old/irresistible.jpg"
 ---
 
 Karşı Konulmaz, bağımlılık yapıcı davranışları yani 'Davranışsal Bağımlılığı' özellikle teknoloji açısından ele alıyor. Kitapta, konuyla ilgili olarak yapılan araştırmaların ve deneylerin sonuçları da paylaşılıyor.  
