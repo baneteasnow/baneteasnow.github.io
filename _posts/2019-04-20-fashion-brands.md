@@ -12,7 +12,7 @@ description: "Hızlı moda akımının (fast fashion) ortaya çıkışını ince
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-04-20
-image: "https://notes.thebookish.de/assets/old/fashion-brands.jpg"
+image: "https://www.thebookish.de/assets/old/fashion-brands.jpg"
 ---
 
 Hızlı moda akımının (fast fashion) ortaya çıkışını inceleyen Modada Marka Olmak, Zara, TopShop, H&M gibi markaların neredeyse her hafta yeni bir koleksiyon çıkarmayı nasıl başardıklarını anlatıyor. Ayrıca pek çok ünlü moda markasının kuruluş hikayesi, ilk yılları, yükselişleri, gerçekleştirdikleri ünlü reklam kampanyaları da kitabın önemli kısmını oluşturuyor.
