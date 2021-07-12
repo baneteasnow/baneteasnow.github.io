@@ -12,7 +12,7 @@ description: "Sonsuz Dikkat Dağınıklığı, dikkat dağılmasının dijitalle
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-10-14
-image: "https://notes.thebookish.de/assets/old/infinite-distraction.jpg"
+image: "https://www.thebookish.de/assets/old/infinite-distraction.jpg"
 ---
 
 Sonsuz Dikkat Dağınıklığı, internet ve özellikle de sosyal medyanın beraberinde getirdiği kaçınılmaz sonuçlardan biri olan dikkat dağınıklığına odaklanarak, sosyal medyanın dikkati nasıl farklı yönlere çektiğini ve dikkati nasıl parçalara böldüğünü inceliyor; kısaca dikkat dağılmasının dijitalleşmesini konu alıyor.  
