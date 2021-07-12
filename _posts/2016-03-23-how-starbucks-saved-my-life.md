@@ -12,7 +12,7 @@ description: "Michael Gates Gill, reklam sektöründeki kariyeri sonrasında Sta
 last_modified_at: 2021-07-05
 published: true
 posted: 2016-03-23
-image: "https://notes.thebookish.de/assets/old/how-starbucks-saved-my-life.jpg"
+image: "https://www.thebookish.de/assets/old/how-starbucks-saved-my-life.jpg"
 ---
 
 Starbucks Hayatımı Nasıl Kurtardı, yazarı Michael Gates Gill'in başından geçenleri anlatıyor. Michael Gates Gill, New Yorker dergisi yazarı Brendan Gill'in oğlu ve büyük bir malikanede zenginlik içinde büyümüş. Yale Üniversitesi'nden mezun olduktan sonra, dünyanın en büyük reklam ajanslarından biri olan J. Walter Thompson firmasında uzun yıllar Kreatif Direktörlük yapmış ve bol sıfırlı yıllık kazançlar elde etmiş. 60 yaşına geldiğinde ise hayatında pek çok negatif gelişme yaşamaya başlamış, önce işinden çıkarılmış, sonrasında eşi ile sorunlar yaşamaya başlamış ve aynı dönemde beyninde yavaş ilerleyen bir ur tespit edilmiş.    
