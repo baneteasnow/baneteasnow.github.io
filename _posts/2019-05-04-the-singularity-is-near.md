@@ -12,7 +12,7 @@ description: "İnsanlık 2.0, dünyanın tanınmış futuristlerinden Ray Kurzwe
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-05-04
-image: "https://notes.thebookish.de/assets/old/the-singularity-is-near.jpg"
+image: "https://www.thebookish.de/assets/old/the-singularity-is-near.jpg"
 ---
 
 Dünyanın tanınmış fütüristlerinden biri olan Ray Kurzweil, aynı zamanda bir düşünür ve mucit. İnsanlık 2.0 - Tekilliğe Doğru Biyolojisini Aşan İnsan, çok yeni bir kitap değil, 2005 yılında yazılmış. Bugüne kadar okuduğum pek çok kitapta, bu kitaptan çeşitli alıntılar yapıldığı, Ray Kurzweil'in görüşlerine yer verildiği için ben de bu kitabı okumak istedim. Bazı kitaplar, Kurzweil'in iddialarını aşırı derecede eleştirip, dayanak noktalarını zayıf bulurken, bazıları da onu destekliyordu. Kendisi de kitabının son sayfalarında gelen eleştirilerin bazılarını değerlendirip cevap vermiş zaten.  
