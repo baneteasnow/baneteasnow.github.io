@@ -12,7 +12,7 @@ description: "Dan Ariely, Wall Street Journal'da yayınlanan Ask Ariely isimli k
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-07-28
-image: "https://notes.thebookish.de/assets/old/irrationally-yours.jpg"
+image: "https://www.thebookish.de/assets/old/irrationally-yours.jpg"
 ---
 
 Akıldışı Ama Öngörülebilir, Akıldışının Mantığı ve Dürüst Olmamanın Ardındaki (Dürüst) Gerçek kitaplarının yazarı Dan Ariely, bu kez Wall Street Journal'da yayınlanan "Ariely'e Sorun (Ask Ariely)" isimli köşesinde yayınlanmış yazıların bir antolojisini "Akıldışı Sevgilerimle" isimli kitapta sunuyor.  
