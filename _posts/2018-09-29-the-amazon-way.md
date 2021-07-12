@@ -12,7 +12,7 @@ description: "Kitapta, Amazon.com'u rakiplerin farklılaştıran, onu lider konu
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-09-29
-image: "https://notes.thebookish.de/assets/old/the-amazon-way.jpg"
+image: "https://www.thebookish.de/assets/old/the-amazon-way.jpg"
 ---
 
 1996 yılında önce online kitap satışı ile başlayan, ardından, oyuncak, elektronik, kozmetik gibi farklı kategorileri içeren ve giderek "her şeyi satan bir yer" olma yolunda ilerleyen, kendini bir pazaryerine de dönüştüren e-ticaret devi Amazon.com'u anlatan, inceleyen pek çok kitap var. Amazon - Jeff Bezos Oyunun Kuralları Yeniden Yazıldı isimli kitabın farkı ise, yazarının "Kurumsal Hizmetler Yöneticisi" unvanı ile Amazon.com'da çalışmış olması. Bu nedenle de, kitabında, kendi yaşadığı çeşitli anektotlara da ilk ağızdan yer veriyor.  
