@@ -12,7 +12,7 @@ description: "Geleceğin Endüstrileri, teknolojinin bizi götürdüğü yere ve
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-11-17
-image: "https://notes.thebookish.de/assets/old/the-industries-of-the-future.jpg"
+image: "https://www.thebookish.de/assets/old/the-industries-of-the-future.jpg"
 ---
 
 Geleceğin Endüstrileri kitabının yazarı Alec Ross, ABD Başkanı Barack Obama'ya ve ABD Dış İşleri Bakanlığı'nda Hilary Clinton'a danışmanlık yapmış bir isim. Edindiği tecrübeleri kitabına da yansıtan yazar, teknolojinin bizi götürdüğü yere ve geleceğe dair pek çok farklı konuya yer veriyor.  
