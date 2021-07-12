@@ -12,7 +12,7 @@ description: "Uzun Kuyruk kavramı, niş ürünleri piyasaya çıkaran ve onlar�
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-12-08
-image: "https://notes.thebookish.de/assets/old/the-long-tail.jpg"
+image: "https://www.thebookish.de/assets/old/the-long-tail.jpg"
 ---
 
 Bugün bir teori halini almış olan 'uzun kuyruk' kavramı, ilk olarak Wired dergisinde 2004 yılında 'The Long Tail' başlıklı bir makale olarak yayınlanmış. Bu kavram, niş ürünleri piyasaya çıkaran ve onları tüketici ile buluşturan firmaların başarılarına işaret ediyor.  
