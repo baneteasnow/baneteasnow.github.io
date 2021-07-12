@@ -12,7 +12,7 @@ description: "Orijinaller, geleneksel yollar yerine daha az tercih edilen yoldan
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-11-24
-image: "https://notes.thebookish.de/assets/old/originals.jpg"
+image: "https://www.thebookish.de/assets/old/originals.jpg"
 ---
 
 Sheryl Sandberg'in önsözünü kaleme aldığı Orijinaller, geleneksel yollar yerine daha az tercih edilen yoldan giderek "orijinal" olmayı tercih edenleri anlatıyor.  
