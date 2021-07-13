@@ -12,7 +12,6 @@ summary: "Adventures in Human Being, bir doktor olan Gavin Francis'in her biri i
 last_modified_at: 2021-07-14
 description: "Adventures in Human Being, bir doktor olan Gavin Francis'in her biri insan vücudunda tek bir organa odaklanan 18 makalesinden oluşuyor."
 posted: 2021-07-14
-published: true
 image: "https://www.thebookish.de/assets/new/adventures-in-human-being.jpg"
 ---
 
