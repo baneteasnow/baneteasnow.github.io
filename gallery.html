@@ -1,8 +1,0 @@
----
-layout: page-5
----
-
-      {% for image in page.image %} <!-- Loop through the photos from the YAML frontmatter from an empty Jekyll post -->
-        <img src="{{ page.image[forloop.index0] }}"> <!-- Insert the src, the alt text for each image, using the forloop.index0 liquid helper -->
-      {% endfor %}
-   
