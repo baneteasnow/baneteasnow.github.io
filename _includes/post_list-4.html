@@ -9,11 +9,6 @@
   {% for post in month.items %}
     <p>
       <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>  &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
-
-<div><a href="{{ post.url | relative_url }}">
-  <img src="{{ page.image }}" /></a>
-  </div> 
-
 </p>
   {% endfor %}
 </p>
