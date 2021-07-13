@@ -5,6 +5,8 @@ baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're sit
 description: > # description of the site (multiple lines allowed)
   thebookish.de - okuduğum kitaplar
 
+# set timezone
+timezone: Australia/Sydney
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
@@ -32,4 +34,3 @@ defaults:
       layout: post
       # published: true or false OR future
       published: true
-
