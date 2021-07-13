@@ -6,7 +6,7 @@ title: 'images'
 {% assign image = page.image[0] %}
 
 <div><a href="{{ post.url | relative_url }}" title="{{ page.title | downcase }}">
-  <img src="{{ site.baseurl }}{{ include.image.url }}" alt="{{ page.title | downcase }}" /></a>
+  <img src="{{ image.url }}" alt="{{ page.title | downcase }}" /></a>
   </div>
 
 <div style="clear: both;"></div>
