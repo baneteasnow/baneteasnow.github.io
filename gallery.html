@@ -4,10 +4,10 @@ title: 'images'
 ---
 
 {%- if page.image > 0 -%}
- {%-assign image = site.posts.image[0]-%}
+ {%-assign image = site.posts.first.image[0]-%}
 {%-endif-%}
 
 <div><a href="{{ post.url | relative_url }}">
-  <img src="{{ page.image }}" alt="{{ page.title | downcase }}" /></a>
+  <img src="{{ page.image }}" /></a>
   </div>
 <div style="clear: both;"></div>
