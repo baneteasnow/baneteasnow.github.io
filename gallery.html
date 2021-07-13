@@ -5,6 +5,7 @@ title: 'images'
 
 {%-if include.image-%}
 {% assign image = page.image %}
+{%-endif-%}
 
 <div><a href="{{ post.url | relative_url }}" title="{{ page.title | downcase }}">
   <img src="{{ page.image }}" alt="{{ page.title | downcase }}" /></a>
