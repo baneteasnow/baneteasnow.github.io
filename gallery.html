@@ -6,9 +6,7 @@ title: 'images'
  {%-assign image = page.image[0]-%}
  {%-endif-%}
 
-{%- if posts.image > 0 -%}
 <div><a href="{{ post.url | relative_url }}">
   <img src="{{ page.image }}" alt="{{ page.title | downcase }}" /></a>
   </div>
- {%- endif -%}
 <div style="clear: both;"></div>
