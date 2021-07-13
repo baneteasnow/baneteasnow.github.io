@@ -8,6 +8,10 @@ yazar: "Lisa Jervis"
 yil: "2016"
 sayfa: "178"
 goodreads: "https://www.goodreads.com/book/show/6400219-cook-food"
+posted: 2021-07-21
+published:
+last_modified_at:
+image: "https://www.thebookish.de/assets/new/cook-food.jpg"
 ---
 
 2021-07-21-
