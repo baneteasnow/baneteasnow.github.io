@@ -32,4 +32,4 @@ defaults:
       layout: post
       # published: true or false
       published: true
-     
+      future: true
