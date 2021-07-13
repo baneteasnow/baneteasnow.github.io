@@ -16,15 +16,12 @@
       file.extname == '.JPG' or 
       file.extname == '.JPEG' %}
 
-      {% assign filenameparts = file.path |  replace:  "-","" | split: "/" %}
+      {% assign filenameparts = file.path |  replace:  "-"," " | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
- 
-
-  
-      <a href="{{ root_url }}{{ filename }}" title="{{ filename |  replace:  "-","" }}"> 
-        <img src="{{ file.path }}" alt="{{ filename |  replace:  "-","" }}" />
-        <span>{{ filename }}</span>
+      <a href="{{ root_url }}{{ filename }}" title="{{ filename |  replace:  "-"," " }}"> 
+        <img src="{{ file.path }}" alt="{{ filename |  replace:  "-"," " }}" />
+        <!--<span>{{ filename }}</span>-->
       </a>
     {% endif %}
   {% endif %}
