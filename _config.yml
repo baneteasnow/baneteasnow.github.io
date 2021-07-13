@@ -31,6 +31,5 @@ defaults:
       # the default layout to use if none is specified
       layout: post
       # published: true or false
+      published: true
 
-# set timezone
-timezone: Australia/Sydney
