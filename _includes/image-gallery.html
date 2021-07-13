@@ -13,7 +13,7 @@
       file.extname == '.JPG' or 
       file.extname == '.JPEG' %}
 
-      {% assign filenameparts = file.path | split: "-" %}
+      {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
       <a href="{{ root_url }}{{ filename }}" title="{{ filename }}"> 
