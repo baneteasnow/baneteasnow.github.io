@@ -4,7 +4,7 @@ title: 'images'
 ---
 
 {%- if page.image > 0 -%}
- {%-assign image = page.image[0]-%}
+ {%-assign post = site.posts.image[0]-%}
 {%-endif-%}
 
 <div><a href="{{ post.url | relative_url }}">
