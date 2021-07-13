@@ -7,12 +7,12 @@ description: "'Sabah yataktan kalkma sebebi' olarak tanımlanan Ikigai'yi incele
 title: "Ikigai | Ken Mogi (Kitap)"
 kitap: "The Little Book of Ikigai - The Japanese Guide to Finding Your Purpose in Life"
 tr: "Ikigai - Sabah Yataktan Kalkmak İçin Sebebiniz Olmalı"
-yazar: "Ken Mori"
+yazar: "Ken Mogi"
 yil: "2018"
 sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai"
 posted: 2021-06-09
-image: "https://www.thebookish.de/assets/new/ikigai-ken-mori.jpg"
+image: "https://www.thebookish.de/assets/new/ikigai-ken-mogi.jpg"
 ---
 
 Ken Mogi, Ikigai'nin 5 boyutu olduğunu ileterek başlıyor kitabına. (sayfa 5)
