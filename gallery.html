@@ -3,10 +3,12 @@ layout: default
 title: 'images'
 ---
 
-{%-assign posts = site.image-%}
+{% for image in page.image %}
 
 <div><a href="{{ post.url | relative_url }}" title="{{ page.title | downcase }}">
   <img src="{{ page.image }} " alt="{{ page.title | downcase }}" /></a>
   </div>
+
+{% endfor %}
 <div style="clear: both;"></div>
 
