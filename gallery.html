@@ -3,13 +3,10 @@ layout: page-5
 title: 'images'
 ---
 
-{%-if include.image-%}
-{% assign image = page.image %}
-{%-endif-%}
+{% assign image = page.image[0] %}
 
 <div><a href="{{ post.url | relative_url }}" title="{{ page.title | downcase }}">
-  <img src="{{ page.image }}" alt="{{ page.title | downcase }}" /></a>
+  <img src="{{ site.baseurl }}{{ include.image.url }}" alt="{{ page.title | downcase }}" /></a>
   </div>
 
 <div style="clear: both;"></div>
-
