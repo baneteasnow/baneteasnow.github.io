@@ -31,5 +31,5 @@ defaults:
       # the default layout to use if none is specified
       layout: post
       # published: true or false
-      future: false
+      published: true
 
