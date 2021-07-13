@@ -1,10 +1,10 @@
 ---
 layout: post  
 category: book2  
-title: "The Carrot Principle | Adrian Göstick, Chester Elton (Kitap)"  
+title: "The Carrot Principle | Adrian Gostick, Chester Elton (Kitap)"  
 kitap: "The Carrot Principle: How the Best Managers Use Recognition to Engage Their People, Retain Talent, and Accelerate Performance" 
 tr: "Havuç İlkesi - En İyi Yöneticiler Çalışanlarını Takdir Ederek Onların Yeteneklerini Nasıl Daha Fazla Kullanmalarını Sağlarlar?"  
-yazar: "Adrian Göstick, Chester Elton"  
+yazar: "Adrian Gostick, Chester Elton"  
 yil: "2007"  
 sayfa: "224"  
 goodreads: "https://www.goodreads.com/book/show/452655.The_Carrot_Principle"
