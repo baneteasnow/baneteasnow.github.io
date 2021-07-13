@@ -3,9 +3,7 @@ layout: page-5
 title: 'images'
 ---
 
-{%- if page.image > 0 -%}
  {%-assign image = site.posts.first.image[0]-%}
-{%-endif-%}
 
 <div><a href="{{ post.url | relative_url }}">
   <img src="{{ page.image }}" /></a>
