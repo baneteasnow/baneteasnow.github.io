@@ -12,7 +12,7 @@ description: "Akıldışının Mantığı, kararlarımızı biçimlendiren gizli
 Öngörülebilir kitabının devamı niteliğinde."
 published: true
 last_modified_at: 2021-07-12
-posted: 2016-02-20
+posted: 2016-02-13
 image: "https://www.thebookish.de/assets/old/the-upside-of-irrationality.jpg"
 ---
 
