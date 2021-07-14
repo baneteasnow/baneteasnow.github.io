@@ -1,7 +1,7 @@
-{% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+{% capture now %}{{'now' | date: '%Y-%m-%d' | plus: 0 %}}{% endcapture %}
 {% for post in site.posts %}
-  {% capture date %}{{post.date | date: '%s' | plus: 0 %}}{% endcapture %}
-  {% if date > now %}
+  {% capture date %}{{post.date | date: '%Y-%m-%d' | plus: 0 %}}{% endcapture %}
+  {% if date < now %}
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
