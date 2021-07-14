@@ -7,7 +7,7 @@ last_modified_at: 2021-07-14
 The Sexual Politics of Meat: A Feminist-Vegetarian Critical Theory (2015)  
 <i>by</i> Carol J. Adams  
 <br />
-The Power of Now: A Guide to Spiritual Enlightenment (2010)
+The Power of Now: A Guide to Spiritual Enlightenment (2010)  
 <i>by</i> Eckhart Tolle
 <br />
 <!--<span style="color: white">-_-_-_-_- </span>-->
