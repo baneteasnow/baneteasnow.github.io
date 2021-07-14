@@ -145,3 +145,19 @@ a:hover{
 // .PageNavigation a {display: block; width: 50%; float: left; margin: 1em 0;}
 
 // .PageNavigation .next {text-align: right; float: right;}
+
+// .table
+
+.tableStyle {
+    width: auto;
+}
+.tableStyle th {
+word-wrap: break-word;
+text-align: left;
+color: #777777;
+border: 1px solid #efefef;
+font-weight: normal;
+}
+.tableStyle tr:nth-child(even) { background: #efefef; }
+
+// .table
