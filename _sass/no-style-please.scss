@@ -70,11 +70,20 @@ table, th, td {
   border-collapse: collapse;
   padding: 0.4rem;
   word-wrap: break-word;
+  font-size: 85%;
 }
 tr:nth-child(even) { 
   background: #fff; 
 }
-
+table1 th:first-of-type {
+    width: 10%;
+}
+table1 th:nth-of-type(2) {
+    width: 50%;
+}
+table1 th:nth-of-type(3) {
+    width: 40%;
+}
 code {
   color: white;
   background: black;
