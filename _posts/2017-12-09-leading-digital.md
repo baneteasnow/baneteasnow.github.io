@@ -1,7 +1,7 @@
 ---
 layout: post  
 category: book2 
-title: " | George Westerman, Didier Bonnet, Andrew McAfee (Kitap)" 
+title: "Leading Digital | George Westerman, Didier Bonnet, Andrew McAfee (Kitap)" 
 kitap: "Leading Digital: Turning Technology into Business Transformation"  
 tr: "Leading Digital - Dönüşüm İçin Teknolojiyi Kullanmak"  
 yazar: "George Westerman, Didier Bonnet, Andrew McAfee"  
