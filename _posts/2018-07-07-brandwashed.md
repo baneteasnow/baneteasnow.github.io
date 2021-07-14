@@ -1,10 +1,10 @@
 ---
 layout: post  
 category: book2  
-title: "Brandwashed | Martin Lindström (Kitap)"  
+title: "Brandwashed | Martin Lindstrom (Kitap)"  
 kitap: "Brandwashed: Tricks Companies Use to Manipulate Our Minds and Persuade Us to Buy"  
 tr: "Brandwashed - Pazarlama ve Reklamcılık Sektörünün Uyguladığı Hilelere Çarpıcı Bir Bakış"  
-yazar: "Martin Lindström"  
+yazar: "Martin Lindstrom"  
 yil: "2012"  
 sayfa: "318"  
 goodreads: "https://www.goodreads.com/book/show/10326084-brandwashed"
