@@ -70,6 +70,7 @@ table, th, td {
   border-collapse: collapse;
   padding: 0.4rem;
 }
+td:nth-child(even) { background: #efefef; }
 
 code {
   color: white;
