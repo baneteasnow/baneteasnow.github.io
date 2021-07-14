@@ -9,10 +9,11 @@ layout: default
 {%-include post_list-3.html category=page.which_category-%}
 
 <!--# all posts-->
-<div style="color: #777; font-size: 85%;"><i>all:</i>{{ site.posts | size }}</div> &nbsp;
+<span style="color: #777; font-size: 50%;"><i>all:</i>{{ site.posts | size }}</span> =
 <!--# posts in one category-->
-<div style="color: #777; font-size: 50%;"><i>book: </i>{{ site.categories.book | size }}</div> &nbsp;
-<div style="color: #777; font-size: 50%;"><i>book2:</i>{{ site.categories.book2 | size }}</div>
+<span style="color: #777; font-size: 50%;"><i>book:</i>{{ site.categories.book | size }}</span> +
+<span style="color: #777; font-size: 50%;"><i>book2:</i>{{ site.categories.book2 | size }}</span> +
+<span style="color: #777; font-size: 50%;"><i>book3:</i>{{ site.categories.book3 | size }}</span>
 
 
 
