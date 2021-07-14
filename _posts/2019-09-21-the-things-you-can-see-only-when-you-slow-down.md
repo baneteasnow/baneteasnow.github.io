@@ -1,10 +1,10 @@
 ---
 layout: post  
 category: book2  
-title: "The Things You Can See Only When You Slow Down | Heamin Sunim (Kitap)"  
+title: "The Things You Can See Only When You Slow Down | Haemin Sunim (Kitap)"  
 kitap: "The Things You Can See Only When You Slow Down: How to Be Calm and Mindful in a Fast-Paced World"  
 tr: "Yalnızca Yavaşladığında Görebileceğin Şeyler - Meşgul Bir Dünyada Sakin Kalmak"  
-yazar: "Heamin Sunim"  
+yazar: "Haemin Sunim"  
 yil: "2018"  
 sayfa: "288"  
 goodreads: "https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down"
