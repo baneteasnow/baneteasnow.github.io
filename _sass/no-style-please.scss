@@ -69,6 +69,7 @@ table, th, td {
   border-color: #777777;
   border-collapse: collapse;
   padding: 0.4rem;
+  word-wrap: break-word;
 }
 tr:nth-child(even) { 
   background: #f4f4f4; 
