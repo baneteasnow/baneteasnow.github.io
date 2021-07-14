@@ -1,11 +1,21 @@
 ---
 layout: default
 ---
+<!-- new & old -->
 
 <span class="link1">{%-include back_link.html-%}</span>
 <i><h4>{{ page.title }}</h4></i>
 
 {%-include post_list-3.html category=page.which_category-%}
+
+<!--# all posts-->
+
+{{ site.posts | size }}
+
+<!--# posts in one category-->
+
+{{ site.categories.book | size }}
+{{ site.categories.book2 | size }}
 
 <br />
 <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
