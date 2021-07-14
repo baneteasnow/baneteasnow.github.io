@@ -32,7 +32,5 @@ defaults:
     values:
       # the default layout to use if none is specified
       layout: post
-      # published: true or false OR future
-
-unpublished: true
-future: false
+      # published: true or false OR future OR unpublished
+      published: true
