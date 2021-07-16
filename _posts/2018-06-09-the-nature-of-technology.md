@@ -13,6 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-09
 image: "https://www.thebookish.de/assets/old/the-nature-of-technology.jpg"
+eng: "The Nature of Technology addresses the nature and evolution of technology with straightforward and to-the-point language style."
 ---
 
 Yazar, kitapta adım adım teknolojinin gerçek doğasını sorguluyor, teknolojinin ne olduğunu ve nasıl evrim geçirdiğini tartışıyor. Teknolojinin altında yatan ilkeler ve teknolojinin gidişatı ve gelişimini belirleyecek ortak bir yön kitabın çıkış noktasını oluşturuyor.  
