@@ -2,7 +2,7 @@
 layout: page-3
 published: true
 last_modified_at: 2021-07-16
-title: ""
+title: "Tek cümlede '#kitaplar'"
 ---
 
 <div>
