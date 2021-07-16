@@ -13,6 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-01-06
 image: "https://www.thebookish.de/assets/old/tell-everyone.jpg"
+eng: "Tell Everyone is a fascinating read on the evolution of social media and how the culture is affected by it."
 ---
 
 Doğası gereği sosyal bir varlık olan insan, varolduğu günden bu yana çevresi ile iletişime geçerek paylaşımda bulunmaktadır. Zaman ilerledikçe iletişim yöntemlerine yenileri eklenmiştir ve bu yeni yöntemler birtakım endişeleri de beraberinde getirmiştir. Ancak, bugün oldukça popüler olan sosyal medyayı kullanmak öylesine kolaydır ki, sosyal medyanın insan hayatında yol açtığı radikal değişiklikler ilk bakışta anlaşılamayabilmektedir.  
