@@ -1,2 +1,2 @@
-## notes.thebookish.de
+## thebookish.de
 
