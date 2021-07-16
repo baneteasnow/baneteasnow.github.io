@@ -12,6 +12,19 @@ layout: default
 
 {{ content }}
 
+<!-- xxx -->
+<div>
+  {% for post in site.posts %}
+    <p>
+      <a href="{{ post.permalink }}">{{ post.title }}</a>
+      <p>{{ post.description }}</p>
+    </p>
+  {% endfor %}
+</div>
+
+<!-- xxx -->
+
+
 <br />
   <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
 🌿 <em>2013-{{ "now" | date: "%Y" }}</em> &nbsp;
