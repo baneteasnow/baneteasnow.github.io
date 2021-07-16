@@ -11,8 +11,6 @@ title: "#books"
       
   {% if post.eng %}
     {{ post.eng }}
-  {% else %}
-    <span style='display: none;'/>
   {% endif %}
 
   <div class="link1">  
