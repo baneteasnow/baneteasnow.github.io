@@ -10,7 +10,7 @@ title: "#books"
      <p>
   {% if post.eng %}
    <div class="link1">  
-    <a name="{{ post.url | downcase }}">{{ post.kitap }}</a>
+    <a name="{{ post.url | last | replace: file.extname,"" | downcase }}">{{ post.kitap }}</a>
   </div>
       <p>{{ post.eng }}</p>
    
