@@ -12,8 +12,8 @@ title: "#books"
    <div class="link1">  
     <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a>
   </div>
-    <div style="font-style: italic;> {{ post.yazar }} </div>
-        <div style="font-style: italic;> {{ post.yil }} </div>
+  <div><i> {{ post.yazar }} </i></div>
+  <div><i> {{ post.yil }} </i></div>
       <div> {{ post.eng }} </div>
    <br />
   {% else %}
