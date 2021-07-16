@@ -11,7 +11,7 @@ title: "#books"
       
   {% if post.eng %}
    <div class="link1">  
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{{ post.kitap }}</a>
   </div>
       <p>{{ post.eng }}</p>
    
