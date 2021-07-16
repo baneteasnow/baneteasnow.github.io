@@ -13,6 +13,7 @@ last_modified_at: 2021-07-09
 published: true
 posted: 2019-05-01
 image: "https://www.thebookish.de/assets/old/the-geography-of-bliss.jpg"
+eng: "In this book, the author Eric Weiner visits ten different countries, talks to residents to understand their concept of happiness, what makes them happy and what they do to find happiness. This book is a sociological culture book at the same time; it can be defined as 'a travel journal'."
 ---
 
 Amerikalı Gazeteci Eric Weiner'in kaleme aldığı Mutluluğun Coğrafyası, okuyucuyu farklı ülkelerde mutluluk arayışı üzerine bir seyahate çıkarıyor. Eric Weiner, 10 farklı ülkeyi ziyaret ediyor ve yerel halka mutlu olup olmadıklarını ve mutluluk hakkında ne düşündüklerini soruyor. Ayrıca, günlük yaşamı gözlemliyor ve o ülkede bir süre kaldıktan sonra ne hissettiğini de satırları arasına ekliyor.  
