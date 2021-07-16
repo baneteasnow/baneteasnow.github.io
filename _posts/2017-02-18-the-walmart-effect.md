@@ -13,6 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-02-18
 image: "https://www.thebookish.de/assets/old/the-walmart-effect.jpg"
+eng: "Walmart is one of the most influential companies in the world, especially in terms of bargaining capability and supply chain. This book tells the story of Walmart with both positive and negative sides. This company creates new jobs; at the same time, it destroys small size businesses within years. Even if you don't have a Walmart in your town, it is nearly impossible to avoid the effects of Walmart."
 ---
 
 Walmart Etkisi, bugün dünyanın en büyük ve en yaygın perakendecisi konumundaki Walmart'ın hikayesini anlatıyor. Walmart, öyle bir konuma ve büyüklüğe ulaşmış durumda ki, ne tüketiciler, ne de tedarikçiler onun etkisinden kaçamıyor. Hatta, sınırları içinde Walmart'ın bir şubesi bulunmayan ancak Walmart'tan gelen siparişleri yetiştirmek için geceli gündüzlü çalışan pek çok fabrikanın bulunduğu ülkeler de onun etkisi altına çoktan girmiş durumda. Kitap, Walmart'ın bu etkisini olumlu ve olumsuz yönleriyle okuyucuya akıcı bir dille yansıtıyor.  
