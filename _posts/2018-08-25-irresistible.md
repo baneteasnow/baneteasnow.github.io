@@ -13,6 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-08-25
 image: "https://www.thebookish.de/assets/old/irresistible.jpg"
+eng: "An informative read from Alter explaining behavioural addictions mainly on technology. This book points out an interesting fact; people who have created the devices do not let their children play with them or strictly limit the usage time. Addictions such as substance addiction, binge-watching, exercise addiction, social media addiction, gamification, virtual reality are all outlined step by step."
 ---
 
 Karşı Konulmaz, bağımlılık yapıcı davranışları yani 'Davranışsal Bağımlılığı' özellikle teknoloji açısından ele alıyor. Kitapta, konuyla ilgili olarak yapılan araştırmaların ve deneylerin sonuçları da paylaşılıyor.  
