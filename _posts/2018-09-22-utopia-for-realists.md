@@ -13,6 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-09-22
 image: "https://www.thebookish.de/assets/old/utopia-for-realists.jpg"
+eng: "I liked the book 'Utopia for Realists: And How We Can Get There' by the Dutch historian, author and journalist Rutger Bregma. Many of the ideas he presented in this book might seem unrealistic at first sight, however, the primary intention is developing a better future by using these ideas as a base. In this book, he is explaining concepts such as universal basic income; fifteen-hour working week; and open borders. As the book's subtitle indicates, these are all utopia for today, but in an 'ideal' world, they are all very realistic and applicable."
 ---
 
 Gerçekçiler İçin Ütopya, içinde bulunduğumuz 'bolluk çağı'nı irdeleyerek başlıyor.   
