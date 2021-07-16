@@ -11,7 +11,7 @@ title: "#books"
       
   {% if post.eng %}
    <div class="link1">  
-    <a href="{{ post.kitap | replace: " ","-" | downcase }}">{{ post.kitap }}</a>
+    <a name="{{ post.kitap | replace: " ","-" | downcase }}">{{ post.kitap }}</a>
   </div>
       <p>{{ post.eng }}</p>
    
