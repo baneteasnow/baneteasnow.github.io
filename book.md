@@ -11,7 +11,9 @@ title: "#books"
       
   {% if post.eng %}
     {{ post.eng }}
-  {% endif %}
+  {% else %}
+    <div style="visibility: hidden;"></div>
+{% endif %}
 
   <div class="link1">  
     <a href="{{ post.url }}">{{ post.title }}</a>
