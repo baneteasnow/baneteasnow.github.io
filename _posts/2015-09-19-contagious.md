@@ -13,6 +13,14 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2015-09-19
 image: "https://www.thebookish.de/assets/old/contagious.jpg"
+eng: "Jonah Berger is a marketing professor at the Wharton School. His book 'Contagious: Why Things Catch On' is about why some themes or ideas go viral, while others don't. He is explaining the concept of "Contagious" in six principles (STEPPS). 
+Social Currency 
+Triggers 
+Emotion 
+Public 
+Practical Value 
+Stories 
+With the STEPPS framework, he goes deep on what all contagious ideas have in common. With the examples he has provided, the book becomes catchy and sound in terms of the related theory."
 ---
 
 Kalite, fiyat ve reklam ürünlerin ve fikirlerin başarılı olmasına katkı yapabilir ama esas başarıyı sosyal etkileme ve ağızdan ağıza yayılma ile gelir. İnsanlar çevrelerine duydukları hikaye ve haberleri anlatmayı severler, sahip oldukları bilgileri ve yaşadıkları deneyimleri paylaşırlar. Başkalarının söyledikleri kişilerin kararlarında, düşüncelerinde, seçimlerinde, satın alma davranışlarında, gittikleri yerlerde etkili olur.  
