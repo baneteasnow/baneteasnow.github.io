@@ -13,3 +13,12 @@ last_modified_at: 2021-07-08
 <div style="clear: both;"></div>
 <br />
 
+<div>
+  {% for post in site.posts %}
+    <p>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.description }}</p>
+    </p>
+  {% endfor %}
+</div>
+
