@@ -13,6 +13,7 @@ last_modified_at: 2021-07-12
 published: true
 posted: 2018-08-18
 image: "https://www.thebookish.de/assets/old/hit-makers.jpg"
+eng: "Derek Thompson explains how some things become popular in the age of distraction, while others don’t."
 ---
 
 The Atlantic dergisi editörlerinden Derek Thompson'ın kaleme aldığı Hit Makers, popüler kültür ve medyada olağanüstü popülariteye ve ticari başarıya ulaşan az sayıdaki ürünü ve fikri yani 'hitleri' konu alıyor.  
