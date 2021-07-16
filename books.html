@@ -12,7 +12,9 @@ title: "#books"
    <div class="link1">  
     <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a>
   </div>
-      <p>{{ post.eng }}</p>
+      <p> {{ post.yazar }}
+      <p> {{ post.yil }}
+      <p> {{ post.eng }} </p>
    
   {% else %}
     <div style="visibility: hidden;"></div>
