@@ -7,18 +7,18 @@ title: "#books"
 
 <div>
   {% for post in site.posts %}
-    <p>
+  <p>
       
   {% if post.eng %}
-    {{ post.eng }}
-  {% else %}
-    <div style="visibility: hidden;"></div>
-{% endif %}
-
-  <div class="link1">  
+   <div class="link1">  
     <a href="{{ post.url }}">{{ post.title }}</a>
   </div>
       <p>{{ post.eng }}</p>
-    </p>
+   
+  {% else %}
+    <div style="visibility: hidden;"></div>
+{% endif %}
+</p>
+  
   {% endfor %}
 </div>
