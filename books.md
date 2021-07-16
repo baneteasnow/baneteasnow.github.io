@@ -10,7 +10,7 @@ title: "#books"
      <p>
   {% if post.eng %}
    <div class="link1">  
-    <a name="{{ post.url | split: "/" }}">{{ post.kitap }}</a>
+    <a name="{{ post.url | split: "/" | last | replace: file.extname,"" }}">{{ post.kitap }}</a>
   </div>
       <p>{{ post.eng }}</p>
    
