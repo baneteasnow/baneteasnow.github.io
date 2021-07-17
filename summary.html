@@ -12,6 +12,7 @@ title: "#kitaplar | #140karakter |"
     {% else %}
   <div class="link1"> # <a href="{{ post.url }}">{{ post.kitap }}</a> </div>
 {% endif %}
+  <p> {{ post.yazar }} | {{ post.yil }} </p>
       <p>{{ post.description }}</p>
   {% endfor %}
 </div>
