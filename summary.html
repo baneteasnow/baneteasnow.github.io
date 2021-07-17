@@ -7,10 +7,10 @@ title: "#kitaplar | tek cümlede"
 
 <div>
   {% for post in site.posts %}
-{% if page.tr != "-" %}
-  <div class="link1"> # <a href="{{ post.url }}">{{ page.tr }}</a> </div>
+{% if post.tr != "-" %}
+  <div class="link1"> # <a href="{{ post.url }}">{{ post.tr }}</a> </div>
     {% else %}
-  <div class="link1"> # <a href="{{ post.url }}">{{ page.kitap }}</a> </div>
+  <div class="link1"> # <a href="{{ post.url }}">{{ post.kitap }}</a> </div>
 {% endif %}
       <p>{{ post.description }}</p>
   {% endfor %}
