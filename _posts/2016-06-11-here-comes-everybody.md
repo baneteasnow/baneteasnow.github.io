@@ -4,11 +4,11 @@ category: book2
 title: "Here Comes Everybody | Clay Shirky (Kitap)"  
 kitap: "Here Comes Everybody: The Power of Organizing Without Organizations"  
 tr: "Herkes Örgüt - İnternet Gruplarının Gücü"  
-yazar: ""  
+yazar: "Clay Shirky"  
 yil: "2010"  
 sayfa: "282"  
 goodreads: "https://www.goodreads.com/book/show/1998185.Here_Comes_Everybody"
-description: "Kitap, nternet üzerinde aynı platformu kullanarak bir araya gelen grupların yaptırım gücünü ve yapabildiklerini anlatıyor."
+description: "Kitap, internet üzerinde aynı platformu kullanarak bir araya gelen grupların yaptırım gücünü ve yapabildiklerini anlatıyor."
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-06-11
