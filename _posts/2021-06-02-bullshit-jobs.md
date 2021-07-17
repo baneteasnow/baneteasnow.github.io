@@ -6,7 +6,7 @@ published: true
 description: "Bullshit Jobs, hemen hiç kimsenin çalışmak istemediği, hiçbir değer yaratmayan işleri konu alıyor."
 title: "Bullshit Jobs - A Theory | David Graeber (Kitap)"
 kitap: "Bullshit Jobs - A Theory - The Rise of Pointless Work, and What We Can Do About It"
-tr: "Tırışka İşler"
+tr: "Tırışkadan İşler"
 yazar: "David Graeber"
 yil: "2018"
 sayfa: "347"
