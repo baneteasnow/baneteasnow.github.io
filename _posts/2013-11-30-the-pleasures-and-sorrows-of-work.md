@@ -4,7 +4,7 @@ category: book2
 title: "The Pleasures and Sorrows of Work | Alain De Botton (Kitap)"  
 kitap: "The Pleasures and Sorrows of Work"  
 tr: "Çalışmanın Mutluluğu ve Sıkıntısı"  
-yazar: ""  
+yazar: "Alain De Botton"  
 yil: "2008"  
 sayfa: "327"  
 goodreads: "https://www.goodreads.com/book/show/5293573-the-pleasures-and-sorrows-of-work"
