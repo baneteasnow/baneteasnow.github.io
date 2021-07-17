@@ -8,7 +8,7 @@ yazar: "Meik Wiking"
 yil: "2017"  
 sayfa: "288"  
 goodreads: "https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge"
-description: "Hygge, Danimarka'nın günlük yaşamına odaklaniyor, Danimarka'daki yaşam tarzından kesitler sunuyor. Yazar: Meik Wiking"
+description: "Hygge, Danimarka'nın günlük yaşamına odaklaniyor, Danimarka'daki yaşam tarzından kesitler sunuyor."
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-28
