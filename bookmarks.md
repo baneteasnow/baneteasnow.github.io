@@ -4,8 +4,9 @@ title: bookmarks
 last_modified_at: 2021-05-29
 ---
 
-<div class="link2">
-  <a href="#">adamkeesling.com/book-notes/</a>  
+| ⁜ |
+|:---|
+adamkeesling.com/book-notes/
 blas.com/library/  
 blog.12min.com/  
 calv.info/bookshelf/  
@@ -53,4 +54,3 @@ whatsnonfiction.com/
 whatyouwilllearn.com/book/  
 willemharmsen.com/notes/  
 zailanizzat.com/blog/  
-</div>
