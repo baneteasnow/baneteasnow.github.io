@@ -5,7 +5,7 @@ last_modified_at: 2021-05-29
 ---
 
 <div class="link2">
-adamkeesling.com/book-notes/  
+  <a href="#">adamkeesling.com/book-notes/</a>  
 blas.com/library/  
 blog.12min.com/  
 calv.info/bookshelf/  
