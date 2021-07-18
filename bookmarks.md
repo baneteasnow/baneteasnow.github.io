@@ -1,5 +1,5 @@
 ---
-layout: page-3
+layout: page-7
 title: bookmarks
 last_modified_at: 2021-05-29
 ---
