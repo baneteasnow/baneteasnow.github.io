@@ -115,6 +115,19 @@ a:hover{
   text-decoration: underline !important;
 }
 
+.link2 a {
+  color: #777 !important; 
+  text-align:left;
+  padding:5px;
+  margin:10px 0;
+  background: linear-gradient(to top, #cdf8e8 20%, transparent 20%);
+} 
+.link2 a:hover {
+  color: #777 !important;
+  text-decoration: none !important;
+  background-color: #cdf8e8;
+} 
+
 // .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;      
 
 .decorated{
