@@ -41,7 +41,6 @@ last_modified_at: 2021-05-29
 | nateliason.com/notes/ |
 | nathanieldrew.com/what-i-read/ |
 | rejoiceinhim.com/category/book-review/ |
-| rogerebert.com/ |
 | rosieleizrowice.com/book-reviews/ |
 | ryanholiday.net/reading-list/ |
 | sergiocaredda.eu/inspiration/the-rebel-at-work-list-of-books/ |
@@ -56,3 +55,4 @@ last_modified_at: 2021-05-29
 
 <br />
 
+<!-- | rogerebert.com/ | -->
