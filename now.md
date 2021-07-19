@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-19
 ---
 
 The Power of Now: A Guide to Spiritual Enlightenment (2010)  
