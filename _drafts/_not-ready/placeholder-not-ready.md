@@ -15,7 +15,7 @@ image:
 ---
 
 layout: post  
-category: book  -  book2 -  in-english
+category: book  -  book2
 title: ""  
 kitap: ""  
 tr: ""  
