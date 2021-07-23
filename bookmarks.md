@@ -16,6 +16,7 @@ last_modified_at: 2021-07-24
 | dansilvestre.com/book-summaries/ | 
 | davidnmalan.com/bookreviews/ |
 | deanyeong.com/reading-notes/ |
+| dipnotski.com |
 | doktormurat.net/okuduklarim/kitap-onerileri/ |
 | durmonski.com/category/book-summaries/ |
 | elizabethfilips.com/book-summaries |
