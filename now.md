@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-07-23
+last_modified_at: 2021-07-24
 ---
 
 Lightly: The End of Education (2011)  
