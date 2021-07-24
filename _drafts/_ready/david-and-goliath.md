@@ -8,6 +8,11 @@ yazar: "Malcolm Gladwell"
 yil: "2013"
 sayfa: "293"
 goodreads: "https://www.goodreads.com/book/show/15751404-david-and-goliath"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/david-and-goliath.jpg"
 ---
 
 2021-09-15-
