@@ -10,7 +10,9 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/40796106-lightly"
 description: ""
 last_modified_at:
-published: 
+published: false
 posted:
-image: "https://www.thebookish.de/assets/new/xxx.jpg"
+image: "https://www.thebookish.de/assets/new/lightly.jpg"
 ---
+
+
