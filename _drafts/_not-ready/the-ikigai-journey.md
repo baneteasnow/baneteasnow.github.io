@@ -10,7 +10,7 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/53677560-the-ikigai-journey"
 description: ""
 last_modified_at:
-published: true
+published: false
 posted:
 image: "https://www.thebookish.de/assets/new/the-ikigai-journey.jpg"
 ---
