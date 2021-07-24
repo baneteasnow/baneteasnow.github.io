@@ -8,6 +8,11 @@ yazar: "Dan Ariely"
 yil: "2016"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/29430779-payoff"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/payoff.jpg"
 ---
 
 2021-09-29-
