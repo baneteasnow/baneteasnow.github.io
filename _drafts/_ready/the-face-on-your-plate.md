@@ -8,6 +8,11 @@ yazar: "Jeffrey Moussaieff Masson"
 yil: "2010"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/5289150-the-face-on-your-plate"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/the-face-on-your-plate.md.jpg"
 ---
 
 2022-01-12-
