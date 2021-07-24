@@ -8,6 +8,11 @@ yazar: "Tracy Arrington, Matthew Frederick"
 yil: "2018"
 sayfa: "212"
 goodreads: "https://www.goodreads.com/book/show/35742911-101-things-i-learned-in-advertising-school"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/101-things-i-learned-in-advertising-school.jpg"
 ---
 
 2022-01-05-
