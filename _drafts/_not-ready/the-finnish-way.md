@@ -10,7 +10,7 @@ sayfa: "251"
 goodreads: "https://www.goodreads.com/book/show/52813626-the-finnish-way"
 description: ""
 last_modified_at:
-published: true
+published: false
 posted:
 image: "https://www.thebookish.de/assets/new/the-finnish-way.jpg"
 ---
