@@ -8,6 +8,11 @@ yazar: "Don Miguel Ruiz"
 yil: "2018"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/6596.The_Four_Agreements"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/the-four-agreements.jpg"
 ---
 
 2021-12-29-
