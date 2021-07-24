@@ -8,6 +8,11 @@ yazar: "Héctor García, Francesc Miralles"
 yil: "2017"
 sayfa: "176"
 goodreads: "https://www.goodreads.com/book/show/57670254-ikigai"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/ikigai-garcia-miralles.md.jpg"
 ---
 
 2021-12-01-
