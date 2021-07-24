@@ -8,6 +8,11 @@ yazar: "Tobias Leenaert"
 yil: "2017"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/35468340-how-to-create-a-vegan-world"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/how-to-create-a-vegan-world.jpg"
 ---
 
 2021-08-18-
