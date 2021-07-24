@@ -8,6 +8,11 @@ yazar: "Cal Newport"
 yil: "2019"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/40672036-digital-minimalism"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/digital-minimalism.jpg"
 ---
 
 2021-10-06-
