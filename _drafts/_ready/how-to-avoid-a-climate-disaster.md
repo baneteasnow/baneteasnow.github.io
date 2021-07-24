@@ -8,6 +8,11 @@ yazar: "Bill Gates"
 yil: "2021"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/52275335-how-to-avoid-a-climate-disaster"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/how-to-avoid-a-climate-disaster.jpg"
 ---
 
 2021-09-01-
