@@ -8,6 +8,11 @@ yazar: "Phil Knight"
 yil: "2016"
 sayfa: "351"
 goodreads: "https://www.goodreads.com/book/show/27220736-shoe-dog"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/shoe-dog.jpg"
 ---
 
 2021-10-20-
