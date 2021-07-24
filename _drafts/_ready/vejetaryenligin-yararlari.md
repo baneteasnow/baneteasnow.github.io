@@ -8,6 +8,11 @@ yazar: "Sadik Hidayet"
 yil: "2018"
 sayfa: "73"
 goodreads: "https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar"
+last_modified_at:  
+published: false  
+description: ""  
+posted: 2021-XX-XX  
+image: "https://notes.thebookish.de/assets/new/vejetaryenligin-yararlari.jpg"  
 ---
 
 2021-11-10-
