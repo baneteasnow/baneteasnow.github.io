@@ -8,6 +8,11 @@ yazar: "Abby Covert"
 yil: "2014"
 sayfa: "176"
 goodreads: "https://www.goodreads.com/book/show/23557020-how-to-make-sense-of-any-mess"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/how-to-make-sense-of-any-mess.jpg"
 ---
 
 2021-10-13-
