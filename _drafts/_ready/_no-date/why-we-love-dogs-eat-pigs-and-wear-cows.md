@@ -8,6 +8,11 @@ yazar: "Melanie Joy"
 yil: "2020"
 sayfa: "221"
 goodreads: "https://www.goodreads.com/book/show/50915414-why-we-love-dogs-eat-pigs-and-wear-cows"
+last_modified_at:  
+published: false  
+description: ""  
+posted: 2021-XX-XX  
+image: "https://notes.thebookish.de/assets/new/why-we-love-dogs-eat-pigs-and-wear-cows.jpg" 
 ---
 
 İlişkiler, iletişim ve toplumsal dönüşüm alanlarında uzmanlaşmış bir psikolog olan Melanie Joy, Why We Love Dogs, Eat Pigs, and Wear Cows isimli kitabında insanların neden evlerinde çok sevdikleri evcil hayvanları ile birlikte yaşarken akşam yemeğinde et yediklerini tartışıyor. Evcil hayvan olarak köpek örneğinden ilerleyerek, köpek sahiplerinin köpeklerini adeta insanlaştırdıklarını, onlara isim verdiklerini, zaman zaman hediye aldıklarını anlatıyor. Ancak, akşam veya öğle yemeğinde tükettikleri 'et'i ise sadece bir 'yiyecek' olarak gördüklerini ve bu 'yiyeceğin' elde edilmesinin bir başka hayvanın yaşamına malolduğu gerçeğini nasıl gözardı ettiklerini açıklıyor.
