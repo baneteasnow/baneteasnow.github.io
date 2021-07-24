@@ -8,6 +8,9 @@ yazar: "Zygmunt Bauman"
 yil: "2015"
 sayfa: "80"
 goodreads: "https://www.goodreads.com/book/show/17804586-does-the-richness-of-the-few-benefit-us-all"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/xxx.jpg"
 ---
-
-
