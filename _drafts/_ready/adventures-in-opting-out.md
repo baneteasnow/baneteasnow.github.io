@@ -7,6 +7,11 @@ yazar: "Cait Flanders"
 yil: "2020"
 sayfa: "273"
 goodreads: "https://www.goodreads.com/book/show/50710787-adventures-in-opting-out"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/adventures-in-opting-out.jpg"
 ---
 
 2021-08-11-
