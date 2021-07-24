@@ -8,6 +8,11 @@ yazar: "Geoff Colvin"
 yil: "2015"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/23398714-humans-are-underrated"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/humans-are-underrated.jpg"
 ---
 
 2021-09-08-
