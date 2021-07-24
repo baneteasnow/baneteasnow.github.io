@@ -8,6 +8,11 @@ tr: "Hayvan Yemek"
 yil: "2010"
 sayfa: "352"
 goodreads: "https://www.goodreads.com/book/show/6604712-eating-animals"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/eating-animals.jpg"
 ---
 
 2021-07-28-
