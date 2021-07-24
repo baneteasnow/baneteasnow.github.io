@@ -12,21 +12,25 @@ last_modified_at:
 description: "" 
 posted:
 image: 
+permalink: /text  
 ---
 
 layout: post  
-category: book  -  book2
-title: ""  
+category: book  
+title: " | (Kitap)"  
 kitap: ""  
 tr: ""  
 yazar: ""  
 yil: ""  
 sayfa: ""  
 goodreads: ""  
-last_modified_at:   
-published: true/false  
+last_modified_at:  
+published: false  
 description: ""  
-permalink: /text  
-posted: xxxx-xx-xx
-image: "https://notes.thebookish.de/assets/old/xxx.jpg"
+posted: 2021-XX-XX  
+image: "https://notes.thebookish.de/assets/old/xxx.jpg"  
 image: "https://notes.thebookish.de/assets/new/xxx.jpg"
+
+
+
+
