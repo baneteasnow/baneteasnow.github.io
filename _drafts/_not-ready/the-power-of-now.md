@@ -10,7 +10,7 @@ sayfa: "229"
 goodreads: "https://www.goodreads.com/book/show/6708.The_Power_of_Now"
 description: ""
 last_modified_at:
-published: true
+published: false
 posted:
-image: "https://www.thebookish.de/assets/new/xxx.jpg"
+image: "https://www.thebookish.de/assets/new/the-power-of-now.jpg"
 ---
