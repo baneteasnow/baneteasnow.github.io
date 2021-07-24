@@ -8,6 +8,11 @@ yazar: "Michael W. Preis, Matthew Frederick"
 yil: "2021"
 sayfa: "214"
 goodreads: "https://www.goodreads.com/book/show/7767560-101-things-i-learned-in-business-school"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/101-things-i-learned-in-business-school.jpg"
 ---
 
 2021-08-04-
