@@ -53,7 +53,7 @@ last_modified_at: 2021-07-24
 | whatsnonfiction.com/ |
 | whatyouwilllearn.com/book/ |
 | willemharmsen.com/notes/ |
-| zailanizzat.com/blog/ |
+| https://zailanizzat.com/tag/reading-list/ |
 
 <br />
 
