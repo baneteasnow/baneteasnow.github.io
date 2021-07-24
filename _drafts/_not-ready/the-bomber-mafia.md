@@ -8,6 +8,11 @@ yazar: "Malcolm Gladwell"
 yil: "2021"
 sayfa: "257"
 goodreads: "https://www.goodreads.com/book/show/56668328-the-bomber-mafia"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/the-bomber-mafia.jpg"
 ---
 
 
