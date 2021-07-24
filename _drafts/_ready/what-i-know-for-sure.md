@@ -8,6 +8,11 @@ yazar: "Oprah Winfrey"
 yil: "2014"
 sayfa: "240 sayfa"
 goodreads: "https://www.goodreads.com/book/show/21531503-what-i-know-for-sure"
+last_modified_at:  
+published: false  
+description: ""  
+posted: 2021-XX-XX  
+image: "https://notes.thebookish.de/assets/new/what-i-know-for-sure.jpg"  
 ---
 
 2021-12-22-
