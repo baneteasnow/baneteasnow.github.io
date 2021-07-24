@@ -8,6 +8,11 @@ yazar: "Sönke Ahrens"
 yil: "2017"
 sayfa: "178"
 goodreads: "https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/how-to-take-smart-notes.md.jpg"
 ---
 
 2021-11-03-
