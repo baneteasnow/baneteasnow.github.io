@@ -8,6 +8,11 @@ yazar: "Sophia Amoruso"
 yil: "2015"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/18667945-girlboss"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/girlboss.jpg"
 ---
 
 2021-12-15-
