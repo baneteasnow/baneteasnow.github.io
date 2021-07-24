@@ -8,6 +8,11 @@ yazar: "Rachel Carson"
 yil: "2020"
 sayfa: "368"
 goodreads: "https://www.goodreads.com/book/show/27333.Silent_Spring"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/silent-spring.jpg"
 ---
 
 2021-11-24-
