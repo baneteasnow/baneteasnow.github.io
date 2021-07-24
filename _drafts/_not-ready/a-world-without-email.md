@@ -8,4 +8,11 @@ yazar: "Cal Newport"
 yil: "2021"
 sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/54326146-a-world-without-email"
+last_modified_at:
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://notes.thebookish.de/assets/new/xxx.jpg"
 ---
+
+
