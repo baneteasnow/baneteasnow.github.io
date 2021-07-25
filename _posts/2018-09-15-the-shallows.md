@@ -11,7 +11,6 @@ goodreads: "https://www.goodreads.com/book/show/9778945-the-shallows"
 description: "Yüzeysellik, internetin getirilerini kabul ederken, teknolojinin kısa & uzun vadeli bedelini sorguluyor, insan hayatından alıp götürdüklerine bakıyor."
 last_modified_at: 2021-07-08
 published: true
-rereading: '#yeniden'
 posted: 2018-09-15
 image: "https://www.thebookish.de/assets/old/the-shallows.jpg"
 ---
