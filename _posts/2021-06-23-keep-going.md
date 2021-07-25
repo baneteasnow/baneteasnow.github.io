@@ -11,7 +11,6 @@ published: true
 last_modified_at: 2021-06-22
 description: "Keep Going, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolu paylaşıyor."
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
-rereading: '#yeniden'
 posted: 2021-06-23
 image: "https://www.thebookish.de/assets/new/keep-going.jpg"
 ---
@@ -41,4 +40,4 @@ Kitapta yer alan başlıklar şöyle
 9. Zalimler taze havayı sevmezler
 10. Bahçenize yeni bitkiler ekin
 
-<!-- category: [book, reread] -->
+<!-- category: [book, reread] rereading: '#yeniden' -->
