@@ -1,6 +1,6 @@
 ---
 layout: post  
-category: [book2, reread]  
+category: book2
 title: "Happy As A Dane | Malene Rydahl (Kitap)"  
 kitap: "Happy As A Dane: 10 Secrets of the Happiest People ın the World"  
 tr: "Danimarkalı Gibi Mutlu - Dünyanın En Mutlu İnsanları Olmalarının On Nedeni"  
