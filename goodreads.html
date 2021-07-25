@@ -8,7 +8,7 @@ title: "goodreads"
 <div>
   {% for post in site.posts %}
   <div class="link1"> <a href="{{ post.url }}">{{ post.kitap }}</a> </div>
-      <p>{{ post.goodreads }}</p>
+  <p><a href="{{ post.goodreads }}" target="_blank" rel="noreferrer,nofollow"> <i class="fab fa-goodreads-g"></i> </a></p>
   {% endfor %}
 </div>
 <br />
