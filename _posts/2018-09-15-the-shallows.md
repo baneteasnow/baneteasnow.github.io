@@ -1,6 +1,6 @@
 ---
 layout: post  
-category: [book2, reread]  
+category: book2
 title: "The Shallows | Nicholas Carr (Kitap)"  
 kitap: "The Shallows: What the Internet Is Doing to Our Brains"  
 tr: "Yüzeysellik - İnternet Bizi Aptal Mı Yapıyor?"  
@@ -59,4 +59,3 @@ Nielsen ve Alman araştırmacılar tarafından yapılan araştırmalar, web sayf
   
 İnternete bağlandığımızda aldığımız birbiri ile yarışan mesaj çokluğu, yalnızca aktif hafızamızı aşırı yüklemekle kalmaz, aynı zamanda on loblarımızın dikkati yalnızca tek bir şeye yoğunlaştırmasını da güçleştirir. Bu yüzden, ani pekiştirme süreci hiç başlamaz. Ve yine nöron yollarımızın şekillendirilebilirliği sayesinde, interneti ne kadar çok kullanırsak beynimizin dikkat dağınıklığına meylini (bilgiyi, sürdürülebilir bir dikkat göstermeden, çok hızlı ve çok verimli bir şekilde işleme meylini) o kadar güçlendiririz. Bu durum, birçoğumuzun bilgisayarlardan uzaktayken bile konsantre olmakta neden zorlandığımızı açıklar. Beynimiz zamanla, unutmakta ustalaşıp, anımsamada ustalığını yitirir. Webin bilgi depolarına artan bağımlılığımız aslında bir kısır döngünün ürünüdür. Bilgisayar kullanımımız biyolojik hafızamızda bilgiyi sabitlememizi güçleştirdiği için internetin geniş ve kolay araştırılabilen yapay hafızasına gittikçe daha fazla bel bağlamak zorunda kalıyoruz. (sayfa 237)  
   
-
