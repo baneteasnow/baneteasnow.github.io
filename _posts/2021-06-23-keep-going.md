@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [book, reread]
+category: book
 title: "Keep Going | Austin Kleon (Kitap)"
 kitap: "Keep Going: 10 Ways to Stay Creative in Good Times and Bad"
 tr: "Devam Edebilmek - İyi ve Kötü Zamanlarda Yaratıcı Olabilmenin On Yolu"
@@ -40,3 +40,5 @@ Kitapta yer alan başlıklar şöyle
 8. Kuşkuya düştüğünüzde, toparlanın
 9. Zalimler taze havayı sevmezler
 10. Bahçenize yeni bitkiler ekin
+
+<!-- category: [book, reread] -->
