@@ -8,7 +8,6 @@ last_modified_at: 2021-07-24
 |:---|
 | adamkeesling.com/book-notes/ |
 | blas.com/library/ |
-| blog.12min.com/ |
 | bookmarks.reviews/category/non-fiction/ |
 | calv.info/bookshelf/ |  
 | calvinrosser.com/notes/ |  
@@ -59,3 +58,4 @@ last_modified_at: 2021-07-24
 <br />
 
 <!-- | rogerebert.com/ | -->
+<!--| ~~blog.12min.com/~~ |-->
