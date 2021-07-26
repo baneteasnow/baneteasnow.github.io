@@ -16,7 +16,7 @@ last_modified_at: 2021-07-26
 [reread](/reread.html)  
 [new posts](/new.html)   
 [old posts](/old.html)  
-[map](/map.html)  
+[map](/map.html) <i class="far fa-map"></i>  
 [goodreads](/goodreads.html)  
 
 
