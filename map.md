@@ -16,9 +16,9 @@ last_modified_at: 2021-07-26
 [reread](/reread.html)  
 [new posts](/new.html)   
 [old posts](/old.html)  
-[map](/map.html) <i class="far fa-map"></i>  
+[<i class="far fa-map"></i> map](/map.html)  
 [goodreads](/goodreads.html)  
-[instagram <i class="fab fa-instagram"></i> ](https://www.instagram.com/thebookish.de/) <i class="fab fa-instagram"></i>  
-[goodreads](https://www.goodreads.com/thebookishde/) <i class="fab fa-goodreads-g"></i>  
+[<i class="fab fa-instagram"></i> instagram](https://www.instagram.com/thebookish.de/)  
+[<i class="fab fa-goodreads-g"></i> goodreads](https://www.goodreads.com/thebookishde/)   
 
 
