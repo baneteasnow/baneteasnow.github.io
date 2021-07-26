@@ -4,7 +4,7 @@ title: 'sitemap'
 last_modified_at: 2021-07-26
 ---
 
-[home](https://www.thebookish.de)  
+[homepage](/ "thebookish.de")  
 [archive](archive.html)  
 [şimdi](/now.html)  
 [2021](/2021.html)  
@@ -18,6 +18,7 @@ last_modified_at: 2021-07-26
 [old posts](/old.html)  
 [map](/map.html) <i class="far fa-map"></i>  
 [goodreads](/goodreads.html)  
-
+[instagram](https://www.instagram.com/thebookish.de/) <i class="fab fa-instagram"></i>
+[goodreads](https://www.goodreads.com/thebookishde/) <i class="fab fa-goodreads-g"></i>  
 
 
