@@ -8,16 +8,14 @@ tr: "Hayvan Yemek"
 yil: "2010"
 sayfa: "352"
 goodreads: "https://www.goodreads.com/book/show/6604712-eating-animals"
-last_modified_at:
+last_modified_at: 2021-07-28
 published: false
-description: ""
-posted: 2021-XX-XX
+description: "Jonathan Safran Foer, Eating Animals isimli kitabında yemek yeme alışkanlıklarımızın aslında kültürle nasıl iç içe geçtiğini anlatıyor. Hayvansal gıda tüketiminin aslında nasıl da büyük bir endüstri olduğunu açıklayıp, perdenin arkasında kalan detayların tüketicilerden nasıl saklandığını gözler önüne seriyor."
+posted: 2021-07-28
 image: "https://notes.thebookish.de/assets/new/eating-animals.jpg"
 ---
 
-2021-07-28-
-
-Jonathan Safran Foer, Eating Animals isimli kitabında yemek yeme alışkanlıklarımızın aslında kültürle nasıl iç içe geçtiğini anlatan bir kitap. Yemek tariflerinde hayvansal ürünler kullanılıyor ve çoğu kişi bunu sorgulamadan alışveriş listesini hazırlıyor. Jonathan Safran Foer de bu çoğunluğa dahil iken, eşi ile bir çocukları olacağını öğrendikten sonra, yediklerini sorgulaması gerektiğini düşünmeye başlıyor. Daha önceden pek çok kez çeşitli nedenlerle vejetaryenliği deneyip her seferinde bırakan biri iken, bu kez daha sorgulayıcı bir bakış açısı ile hayvanların yetiştirilme sürecini ve yemek olarak kullanılmasını mercek altına alıyor, çocuğunun geleceği için vegan beslenmeyi nasıl ve neden seçtiğini anlatıyor.
+Jonathan Safran Foer, Eating Animals isimli kitabında yemek yeme alışkanlıklarımızın aslında kültürle nasıl iç içe geçtiğini anlatıyor. Yemek tariflerinde hayvansal ürünler kullanılıyor ve çoğu kişi bunu sorgulamadan alışveriş listesini hazırlıyor. Jonathan Safran Foer de bu çoğunluğa dahil iken, eşi ile bir çocukları olacağını öğrendikten sonra, yediklerini sorgulaması gerektiğini düşünmeye başlıyor. Daha önceden pek çok kez çeşitli nedenlerle vejetaryenliği deneyip her seferinde bırakan biri iken, bu kez daha sorgulayıcı bir bakış açısı ile hayvanların yetiştirilme sürecini ve yemek olarak kullanılmasını mercek altına alıyor, çocuğunun geleceği için vegan beslenmeyi nasıl ve neden seçtiğini anlatıyor.
 
 Foer, çocukluk anılarıyla başlıyor kitabına. Büyükannesinin pişirdiği tavuk yemeğini yerken aslında kısa süre öncesine kadar canlı olan bir hayvanın yemeğe dönüştüğünü pek de sorgulamadıklarını anlatıyor. Hayvanlara nasıl muamele edildiğini, onların hangi süreçlerden geçtiklerini ve hayvan yemenin sosyal, ekonomik ve çevresel olarak ne tür etkileri olduğunu anlatıyor. Bugün yemeğe dönüşen hayvanların 99%'u fabrikaya dönüşmüş çiftliklerden geliyor. Geriye kalan 1%'inin ise daha serbest olarak yetiştirilmiş olması ise onlara yapılan muamelenin iyi olduğu anlamına gelmiyor.
 
