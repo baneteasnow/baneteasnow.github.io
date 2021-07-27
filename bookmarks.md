@@ -14,7 +14,6 @@ last_modified_at: 2021-07-24
 | codymclain.com/notes |
 | colemanm.org/books/ |
 | dansilvestre.com/book-summaries/ | 
-| davidnmalan.com/bookreviews/ |
 | deanyeong.com/reading-notes/ |
 | dipnotski.com |
 | doktormurat.net/okuduklarim/kitap-onerileri/ |
@@ -59,3 +58,4 @@ last_modified_at: 2021-07-24
 
 <!-- | rogerebert.com/ | -->
 <!--| ~~blog.12min.com/~~ |-->
+<!-- | davidnmalan.com/bookreviews/ |-->
