@@ -29,7 +29,6 @@ last_modified_at: 2021-07-24
 | joshkaufman.net/book-notes/ |
 | joshsteimle.com/book-club/ |
 | jsilva.blog/book-summaries/ | 
-| j-dm.org/ |
 | lawsonblake.com/book-notes/ |
 | lifeclub.org/book-categories/ |
 | maggieappleton.com/library/ |
@@ -56,6 +55,7 @@ last_modified_at: 2021-07-24
 
 <br />
 
-<!-- | rogerebert.com/ | -->
+<!--| rogerebert.com/ |-->
 <!--| ~~blog.12min.com/~~ |-->
-<!-- | davidnmalan.com/bookreviews/ |-->
+<!--| davidnmalan.com/bookreviews/ |-->
+<!--| j-dm.org/ |-->
