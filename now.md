@@ -4,9 +4,6 @@ title: şimdi okuduğum kitap
 last_modified_at: 2021-07-24
 ---
 
-The End of Education: Redefining the Value of School (2011)  
-<i>by</i> Neil Postman  
-<br />
 Trading Up: Why Consumers Want New Luxury Goods--and How Companies Create Them (2008)  
 <i>by</i> Michael J. Silverstein, Neil Fiske, John Butman  
 <br />
