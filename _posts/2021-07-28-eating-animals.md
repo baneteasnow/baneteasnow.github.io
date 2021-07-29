@@ -12,7 +12,7 @@ last_modified_at: 2021-07-28
 published: true
 description: "Jonathan Safran Foer, Eating Animals isimli kitabında yemek yeme alışkanlıklarımızın aslında kültürle nasıl iç içe geçtiğini anlatıyor. Hayvansal gıda tüketiminin aslında nasıl da büyük bir endüstri olduğunu açıklayıp, perdenin arkasında kalan detayların tüketicilerden nasıl saklandığını gözler önüne seriyor."
 posted: 2021-07-28
-image: "https://notes.thebookish.de/assets/new/eating-animals.jpg"
+image: "https://www.thebookish.de/assets/new/eating-animals.jpg"
 ---
 
 Jonathan Safran Foer, Eating Animals isimli kitabında yemek yeme alışkanlıklarımızın aslında kültürle nasıl iç içe geçtiğini anlatıyor. Yemek tariflerinde hayvansal ürünler kullanılıyor ve çoğu kişi bunu sorgulamadan alışveriş listesini hazırlıyor. Jonathan Safran Foer de bu çoğunluğa dahil iken, eşi ile bir çocukları olacağını öğrendikten sonra, yediklerini sorgulaması gerektiğini düşünmeye başlıyor. Daha önceden pek çok kez çeşitli nedenlerle vejetaryenliği deneyip her seferinde bırakan biri iken, bu kez daha sorgulayıcı bir bakış açısı ile hayvanların yetiştirilme sürecini ve yemek olarak kullanılmasını mercek altına alıyor, çocuğunun geleceği için vegan beslenmeyi nasıl ve neden seçtiğini anlatıyor.
