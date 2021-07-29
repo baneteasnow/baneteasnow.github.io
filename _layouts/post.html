@@ -20,14 +20,7 @@ layout: default
   {{ content }}
 </article>
 <br />
-<!-- 〰〰〰 
-<div style="font-size: 85%; color: #777;">_ _ _</div> 
---- kitabın Türkçe baskısı henüz yok 85%-->
-<!-- <i> -->
-<!--<div class="bookinfoleft">
-  <img src="{{ page.image }}" width="200" height="200">
-</div>
-<div class="bookinforight"></div>-->
+
 <img src="{{ page.image }}" width="20%" height="20%" align="right" float="right" alt="{{ page.kitap }}" title="{{ page.kitap }}" style="margin:10px 0 10px 15px"/>
 <span style="font-size: 100%; color: #777;">
     {{ page.kitap }}
@@ -49,19 +42,13 @@ layout: default
     <a href="/worth-rereading.html">{{ page.rereading }}</a><br />
 {% endif %}-->
     </span>
-
-
   {% if page.eng %}
    <div class="link1">  
      <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">in english</a>
   </div>
-   <br />
   {% else %}
     <div style="visibility: hidden;"></div>
 {% endif %}
-
-
-
     <span class="link1" style="font-size: 100%;">
      <a href="{{ page.goodreads }}" target="_blank" rel="noreferrer,nofollow">goodreads</a>
     </span>
