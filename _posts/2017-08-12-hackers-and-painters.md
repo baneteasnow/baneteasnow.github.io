@@ -12,7 +12,7 @@ description: "Paul Graham, hayatın içinden pek çok konuyu bir yazılımcını
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-08-12
-image: "https://www.thebookish.de/assets/old/hackers-&-painters.jpg"
+image: "https://www.thebookish.de/assets/old/hackers-and-painters.jpg"
 eng: "Hackers & Painters - Big Ideas From The Computer Age is one of my favourite books. The author has a PhD in Computer Science and studied painting afterwards. This book is composed of essays on many different topics, mostly from the perspective of a programmer. He is a terrific writer and tells his own experience in art, hacking and life in general."
 ---
 
