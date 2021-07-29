@@ -1,5 +1,5 @@
 ---
-layout: page-3
+layout: page-9
 published: true
 last_modified_at: 2021-07-29
 title: "media"
@@ -18,4 +18,27 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 
 Yayın Tarihi: 2021  
 Süre: 79 dk.  
-[imdb](https://www.imdb.com/title/tt14152756/)  
+[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank"} 
+
+#### <a name="earthlings"></a> [Earthlings (Belgesel)](/media.html#earthlings)
+
+Yönetmenliğini Shaun Monson’ın yaptığı ve Joaquin Phoenix seslendirdiği belgesel Earthlings, ticari hayvancılık hakkında her bakımdan çok çarpıcı gerçeklere yer veriyor. Bu belgeseli izlemesi hiç kolay değil, zira pek çok kişi bu belgeseli izledikten sonra hayvansal ürünleri tüketemediklerini ve veganlığı benimsediklerini belirtiyor.
+
+Earthling, dünyada yaşayan tüm canlıları ifade eden bir kelime. Bütün canlılar bu dünyada yaşıyor ve tüm canlıların yaşam hakkı var. Turculuk (Speciesism) kavramı ise, insanların farklı türden olan canlılara farklı şekilde davranması durumunda ortaya çıkıyor. (En basit örnek olarak bir kişinin evcil hayvan olarak sahiplendiği köpeğini sabah saatlerinde dolaştırıp, akşam hayvansal ürün tüketmesi verilebilir, ancak bu konu hiç kuşkusuz çok derin) İnsanoğlu, kendini ‘güçlü’ ve ‘üstün’ gördüğü için diğer canlılara karşı gücü elinde bulundurduğunu düşünüyor ve bu durum da pek çok canlının acı çekmesi ile sonuçlanıyor.
+
+Earthlings, hayvanlara yapılan uygulamaları beş farklı başlık altında ele alıyor.
+
+- Evcil hayvanlar
+- Yemek
+- Giyim
+- Eğlence
+- Bilimsel deneyler
+
+Her başlık, hayvanlara yapılan uygulamalara odaklanarak adım adım inceleniyor. Hayvansal ürün tüketiminin bu canlılara bu kadar acı vermeye değip değmeyeceği sorgulanıyor.
+
+Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri. 
+
+Yayın Tarihi: 2005 
+Süre: 85 dk.
+[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank"} 
+
