@@ -22,7 +22,7 @@ last_modified_at: 2021-07-26
 [<i class="fab fa-goodreads-g"></i> goodreads](https://www.goodreads.com/thebookishde/)   
 
 <!--# all posts-->
-<span style="color: #777;"><i>all:</i>{{ site.posts | size }}=</span> 
+<span style="color: #777;"><i>all </i>{{ site.posts | size }}=</span> 
 <!--# posts in one category-->
-<span style="color: #777;"><i>book:</i>{{ site.categories.book | size }}+</span>
-<span style="color: #777;"><i>book2:</i>{{ site.categories.book2 | size }}</span>
+<span style="color: #777;">book {{ site.categories.book | size }}+</span>
+<span style="color: #777;">book2 {{ site.categories.book2 | size }}</span>
