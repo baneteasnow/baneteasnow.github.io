@@ -13,6 +13,7 @@ title: "#kitaplar '140karakter'"
   <div class="link1"> <a href="{{ post.url }}">{{ post.kitap }}</a> </div>
 {% endif %}
   <span> {{ post.yazar }} | {{ post.yil }} </span>
+  <img src="{{ page.image }}" width="20%" height="20%" align="right" float="right" alt="{{ page.kitap }}" title="{{ page.kitap }}" style="margin:0 0 15px 0"/>
       <p>{{ post.description }}</p>
   {% endfor %}
 </div>
