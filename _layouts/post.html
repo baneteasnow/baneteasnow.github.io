@@ -54,6 +54,16 @@ layout: default
     </span>
   <div style="clear: both;"></div>
 <br />
+
+<div>
+  {% if page.previous.url %}
+    <a href="{{page.previous.url}}"><i class="fas fa-long-arrow-alt-left"></i></a>
+  {% endif %}
+  {% if page.next.url %}
+    <a href="{{page.next.url}}"><i class="fas fa-long-arrow-alt-right"></i></a>
+  {% endif %}
+</div>
+
 <!-- 
 <em> <span style="font-size: 85%; cursor: default; color: #777;">#{{page.category | join: ' #'}} </span> </em>
 <br />  
