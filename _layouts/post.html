@@ -44,7 +44,7 @@ layout: default
     </span>
   {% if page.eng %}
    <div class="link1">  
-     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">in english</a>
+     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">notes in english</a>
   </div>
   {% else %}
     <div style="visibility: hidden;"></div>
@@ -53,8 +53,6 @@ layout: default
      <a href="{{ page.goodreads }}" target="_blank" rel="noreferrer,nofollow">goodreads</a>
     </span>
   <div style="clear: both;"></div>
-
- <!-- </i> 🌿 -->
 <br />
 <!-- 
 <em> <span style="font-size: 85%; cursor: default; color: #777;">#{{page.category | join: ' #'}} </span> </em>
