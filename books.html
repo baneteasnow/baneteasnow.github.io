@@ -16,7 +16,9 @@ title: "#books"
   <div><i> {{ post.yil }} </i></div>
        <a href="{{ post.url }}"><img src="{{ post.image }}" width="18%" height=18%" align="right" float="right" alt="{{ post.kitap }}" title="{{ post.kitap }}" style="margin:18px 0 0 15px;"/></a>
       <div> {{ post.eng }} </div>
-             <div class="link1"><a href="{{ post.url }}" title="Türkçe">TR</a></div>
+             <div class="link1">
+         <a href="{{ post.url }}" title="Türkçe">TR</a> nbsp; | nbsp; <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="too long; didn't read" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
+          </div>
    <br />
   {% else %}
     <div style="visibility: hidden;"></div>
