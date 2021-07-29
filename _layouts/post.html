@@ -42,8 +42,10 @@ layout: default
     <a href="/worth-rereading.html">{{ page.rereading }}</a><br />
 {% endif %}-->
     </span>
-       <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">TLDR</a>
-  {% if page.eng %}
+         <div class="link1">  
+           <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">TLDR</a>
+          </div>
+           {% if page.eng %}
    <div class="link1">  
      <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">ENG</a>
   </div>
