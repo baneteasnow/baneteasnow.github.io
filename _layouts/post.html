@@ -51,9 +51,9 @@ layout: default
     </span>
 
 
-  {% if post.eng %}
+  {% if page.eng %}
    <div class="link1">  
-     <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">in english</a>
+     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">in english</a>
   </div>
    <br />
   {% else %}
