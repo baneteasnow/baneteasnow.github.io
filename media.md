@@ -5,7 +5,7 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-#### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant | TED (Video)](/media.html#the-suprising-habits-of-original-thinkers)
+#### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant (TED](/media.html#the-suprising-habits-of-original-thinkers)
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
 
@@ -18,7 +18,7 @@ Adam Grant
 [TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-paradox-of-choice"></a> [The Paradox of Choice | Barry Schwartz | TED (Video)](/media.html#the-paradox-of-choice)
+#### <a name="the-paradox-of-choice"></a> [The Paradox of Choice | Barry Schwartz (TED)](/media.html#the-paradox-of-choice)
 
 Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
 
@@ -37,7 +37,7 @@ Barry Schwartz
 [TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="sleep-is-your-superpower"></a> [Sleep Is Your Superpower | Matt Walker | TED (Video)](/media.html#sleep-is-your-superpower)
+#### <a name="sleep-is-your-superpower"></a> [Sleep Is Your Superpower | Matt Walker (TED)](/media.html#sleep-is-your-superpower)
 
 Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
 
