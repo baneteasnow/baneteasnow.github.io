@@ -43,11 +43,11 @@ layout: default
 {% endif %}-->
     </span>
          <div class="link1">  
-           <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
+           <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tldr</a>
           </div>
            {% if page.eng %}
    <div class="link1">  
-     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">ENG</a>
+     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">eng</a>
   </div>
   {% else %}
     <div style="visibility: hidden;"></div>
