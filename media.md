@@ -5,6 +5,57 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
+#### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant | TED (Video)](/media.html#the-suprising-habits-of-original-thinkers)
+
+Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
+
+Grant ile bir öğrencisi tarafından gerçekleştirilen bir anket çalışmasına göre, orijinaller ne çok erkenci ne de erteleyici gruptalar. Kendilerine bir görev verildikten sonra, başka bir işle uğraşıyor gibi görünseler de aslında yaptıkları şey arka planda o görevin ayrıntıları üzerinde düşünmek. Aslında, belli bir oranda erteleme konuya taze bir bakış açısı getirmeye yarıyor. Orijinaller, bir konuda çalışmaya hızlı başlıyorlar ve çalışmalarını geç bitiriyorlar. Endişeleri ve korkularını herkesten farklı yönetiyorlar ve çoğu kötü olmak üzere pek çok fikir üretiyorlar. En sonunda ise, bu fikirlerinden bir tanesi ise yarıyor.
+
+Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu üzerinde düşünmeye zaman ayırmak için işleri biraz ağırdan almanın yaratıcılığı körüklemek için iyi bir fikir olduğuna işaret ediyor. Ortaya çıkan fikirlerden şüphe ederek ve deneme korkusunu aşarak motivasyonun sağlandığını ve iyi fikirler için aslında bir sürü kötü fikre ihtiyaç olduğunu vurguluyor. Özgün olabilmek kolay olmasa da Grant'a göre dünyayı daha iyi bir yer haline getirmenin en iyi yolu da bu.
+
+Adam Grant  
+2016  
+<div style="link1">[TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow"}</div>  
+
+
+#### <a name="the-paradox-of-choice"></a> [The Paradox of Choice | Barry Schwartz | TED (Video)](/media.html#the-paradox-of-choice)
+
+Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
+
+Batı'daki tüm sanayi toplumlarının resmi doğması, vatandaşların esenliğinin en üst noktaya çıkarılması için kişisel özgürlüklerin de en üst noktaya taşınmasını gerektirir. Ancak bu özgürlük alanının tanınması ile, birey kendisi için en iyi olan kararları verebilir. Özgürlük alanını genişletmenin yolu ise seçenekleri arttırmaktır. Daha çok seçenek daha fazla özgürlüğü, daha fazla özgürlük ise daha fazla esenliği beraberinde getirir. Ancak, seçim özgürlüğü beraberinde önemli bir detayı da taşır. Herhangi bir konuda her gün tekrar ve tekrar karar vermemiz gerekir, karar vermek aslında bir zorunluluğa dönüşmüştür.
+
+Yapılan tüm bu seçimler ise, bireyler üzerinde iki olumsuz etki yaratır. Seçim yapmak, özgürleşmeyi beraberinde getirmek yerine tutulup kalmaya yol açar. O kadar fazla sayıda seçenek vardır ki, seçim yapmak adeta bir eziyete dönüşür. İlk olumsuz etki budur. İkincisi ise, bu durumu aşarak bir seçim yapmış olsak bile, karşılaştığımız sonuç, daha az seçeneğe sahip olduğumuz günlere kıyasla bizi giderek daha az tatmin eder hale gelir.
+
+Ne kadar fazla seçenek ile karşı karşıya kalırsak, sonuçta belirlediğimiz seçeneğin o oranda bizi hayal kırıklığına uğratma ihtimali yükselir. Diğer bir nokta ise, 'fırsat maliyeti'dir. Bizim tercih ettiğimiz seçenek dışında kalan alternatif seçeneklerin aslında ne kadar çekici olduğu düşüncesi tatminsizlik yaratır. Sonuçta, tercihimiz aslında o kadar kötü olmasa da, alternatifleri düşündüğümüzde fırsat maliyetinden etkilenmek kaçınılmaz olur.
+
+Seçenek sayısının fazla olması beklentiyi yükseltir. Mutluluğun sırrı, beklentinin düşük olmasıdır. bugün içinde bulunduğumuz sanayileşmiş ve beklentileri mükemmele yakını yakalamak olan toplumlarda, umut edilebilecek en iyi şey mükemmele ulaşmak haline geldi. Ancak, beklentilerin neredeyse tavana vurduğu bir ortamda beklentimizi karşılayabilir olduğumuzu görmek oldukça şaşırtıcı olurdu. Hiç kuşkusuz ki, bu durum seçeneklerinin ne kadar az olduğunu görerek mutsuz olan sanayileşmemiş ülkelerde geçerli değildir, çünkü orada az seçenek tatminsizlik yaratmaktadır.
+
+Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan seçimden tatminsizlik duyulduğunda sorumluluk sizden başka herkese aitken, seçenek sayısının onlarca hatta yüzlerce olduğu günümüzde ise tercihimiz hayal kırıklığı yaratıyorsa, bunun tek sorumlusunun 'kendimiz' olduğunu düşünürüz. Çünkü daha iyisini yapabilecekken, hataya yer olmadığını düşünürüz.
+
+Barry Schwartz  
+2005  
+<div style="link1">[TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow"}</div>  
+
+
+#### <a name="sleep-is-your-superpower"></a> [Sleep Is Your Superpower | Matt Walker | TED (Video)](/media.html#sleep-is-your-superpower)
+
+Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
+
+Uyku eksikliği beyin ve vücut fonksiyonlarının işleyişi ile ilgili çeşitli sorunlara yol açıyor. Aynı zamanda, uyku öğrenmeyi de destekliyor. Uykuya, öğrenmenin gerçekleşmesinden hemen sonra olduğu gibi, hemen öncesinde de ihtiyaç duyuluyor. Bu konuda yapılan bir araştırmada, gün ortasında şekerlemelerine veya kafein tüketmelerine izin verilmeyen bir grup yetişkin iki farklı gruba ayrılıyor. İlk grup kesintisiz uyurken, diğer grubun aralıksız uyumasına izin verilmiyor. Ertesi gün bir listede yer alan bilgileri öğrenmeleri isteniyor ve bu sırada bir MRİ cihazı ile beyinlerinin görüntüsü elde ediliyor. Sonuçta, uyku eksikliğinin yeni bilgi depolama yapma kabiliyeti üzerinde 40% oranında azaltıcı etkiye sahip olduğu tespit ediliyor.
+
+Uyku, yaşlanma ve unutkanlık ile de ilişkili. İnsanlar yaşlandıkça, öğrenme ve hafıza yetenekleri azalmaya başlıyor. Ancak, uyku kalitesinin düşmüş olmasının bu noktada payı olduğu biliniyor. Uyku hapları ise, uykunun yarattığı doğal etkiyi yaratamadığı için yetersiz kalıyor.
+
+Uyku ve kalp damar sağlığı arasındaki ilişkiyi anlamak adına, dünya üzerinde 70'ten fazla ülkede her yıl sürdürülen bir deneye bakmak yeterli; yaz saati - kış saati uygulaması. Baharda yaz saati uygulaması ile yaşadığımız bir saatlik uyku kaybını takiben kalp krizi oranlarında 24% artış olurken, sonbaharda saatlerin bir saat geri alınması ile uyku süresinde meydana gelen artışın yaşanan kalp krizlerini 21% oranında düşürdüğü tespit edilmiş.
+
+Uyku süresi kısaldıkça, yaşam süresi de kısalıyor. Dünya Sağlık Örgütü (WHO) gece vardiyasında çalışmayı bir kanserojen etki olarak kabul etmiştir.
+
+Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınmanın yanı sıra, iyi bir uyku için her gün aynı saatte uyumak ve uyanmak oldukça önemli. Bu düzen, hafta içi veya hafta sonu olduğuna bakılmaksızın devam ettirilmeli. Çünkü, uyku alışkanlığı uykunun hem süresini hem de kalitesini etkiliyor. Oda sıcaklığının da serin olması (18°C) uyku kalitesine olumlu etki yapıyor.
+
+Matthew Walker  
+2019  
+<div style="link1">[TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow"}</div>  
+
+
 #### <a name="the-social-dilemma"></a> [The Social Dilemma (Belgesel)](/media.html#the-social-dilemma)
 
 Facebook, Instagram, Twitter, Pinterest, Google ve benzer diğer platformlarda gerçek ürün aslında kullanıcılar ve onların bu platformları kullanmaya ayırdıkları dikkatleri. The Social Dilemma, bu konuda yapılmış olan ilk belgesel olmasa da, görüşlerine yer verilen isimler oldukça dikkat çekici, pek çoğu bu platformları geliştiren ve onlara yeni özellikler ekleyen isimler.
@@ -15,7 +66,7 @@ Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, ins
 
 2020  
 94 dk.  
-[imdb](https://www.imdb.com/title/tt11464826/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt11464826/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="terms-and-conditions-may-apply"></a> [Terms and Conditions May Apply (Belgesel)](/media.html#terms-and-conditions-may-apply)
@@ -26,16 +77,16 @@ Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaları
 
 2013  
 80 dk.   
-[imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
-#### <a name="minimalism"></a> [Minimalism (Belgesel)](/media.html#minimalism)
+#### <a name="minimalism"></a> [Minimalism: A Documentary About the Important Things (Belgesel)](/media.html#minimalism)
 
 The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Nicodemus, bu belgeselde daha az eşya ile yaşamaya karar veren insanların öykülerini paylaşıyor. Daha azla yaşamak hiç birşeyle yaşamak değil kesinlikle. Sadece yetecek olan kadarı ile yaşamak. İçinde bulunduğunuz ortamdaki eşyaların ve nesnelerin sayısını azaltmak aynı zamanda o ortamdaki arınmayı ve ferahlığı da beraberinde getiriyor aslında. Daha sürdürülebilir bir hayat tarzına geçenlerin öyküsü aslında ilham veriyor, sadece almak için almak değil gerçekten gerekli olanı almanın hem bireylere hem de dünyaya olumlu etkisi anlatılıyor. Sürdürülebilir bir dünya için, aynı zamanda, ikinci el eşya seçeneğini de unutmamak gerekli.
 
 2015  
 79 dk.  
-[imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="food-inc"></a> [Food, Inc. (Belgesel)](/media.html#food-inc)
@@ -46,12 +97,10 @@ Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda ür
 
 2008  
 94 dk.  
-[imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt1286537/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="the-true-cost"></a> [The True Cost (Belgesel)](/media.html#the-true-cost)
-
-[imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow"}  
 
 Giydiğimiz kıyafetlerin gerçek bedelini aslında kim ödüyor? $5 etiketi ile satılan tişörtlerin dünyaya gerçek maliyeti ne? Hızlı moda (fast fashion) akımının perde arkasını anlatan bu belgesel, moda sektöründe daha adil bir üretimin yollarını arıyor, sektörün yol açtığı etkileri tartışıyor. Bir tarafta düşük bütçeli hızlı tüketime yönelik moda akımına kapılmış tüketiciler ve diğer tarafta olumsuz şartlar altında üretime devam eden, farklı ülkelerdeki ucuz işgücünden yararlanan firmalar. En acı olaylardan biri 2013 yılında Bangladeş'te büyük bir felaketle sonuçlanan Rana Plza'nın çöküşüydü. Üstelik bu ne ilk ne de son örnek. 
 
@@ -59,7 +108,7 @@ Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 
 2015  
 92 dk.  
-[imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="forks-over-knives"></a> [Forks Over Knives (Belgesel)](/media.html#forks-over-knives)
@@ -78,7 +127,7 @@ Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak iç
 
 2011  
 96 dk.  
-[imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="food-fighter"></a> [Food Fighter (Belgesel)](/media.html#food-fighter)
@@ -91,10 +140,10 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 
 2018  
 87 dk.  
-[imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
-#### <a name="the-inventor"></a> [The Inventor (Belgesel)](/media.html#the-inventor)
+#### <a name="the-inventor"></a> [The Inventor: Out for Blood in Silicon Valley (Belgesel)](/media.html#the-inventor)
 
 Elizabeth Holmes ve medikal kan testlerinin yapılış yönteminde devrim yaratma iddiası ile 2003 yılında kurduğu Theranos firmasının hikayesi bu belgeselde anlatılıyor. Elizabeth Holmes, yıllar içinde firmasına aldığı yatırımlar sayesinde Silikon Vadisi'ndeki en genç kadın milyarderlerden biri haline gelmiş, ancak The Wall Street Journal'da John Carreyrou imzasını taşıyan 'Hot Startup Theranos Has Struggled With Its Blood-Test Technology' isimli makalenin  2015 yılında yayınlanması ile firmanın sunduğu testlerin doğruluğu sorgulanmaya başlanmış. 
 
@@ -112,10 +161,10 @@ Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Car
 
 2019  
 119 dk.  
-[imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
-#### <a name="cowspiracy"></a> [Cowspiracy (Belgesel)](/media.html#cowspiracy)
+#### <a name="cowspiracy"></a> [Cowspiracy: The Sustainability Secret (Belgesel)](/media.html#cowspiracy)
 
 Belgeselin yazarı ve yönetmeni Kip Anderson, yıllar önce Al Gore'un 'An Inconvenient Truth' isimli belgeselinden etkilenerek günlük alışkanlıklarını değiştirmiş, örneğin, geri dönüşüme daha fazla önem verir almış, duşta su harcama süresini iyice azaltmış. Ancak, kazandığı bu ileri düzeyde biraz da 'takıntılı' çevreci bakışçısının yetmediğini düşünerek konuyu daha fazla araştırınca yıllık sera gazi salınımında sektörler arasında en üst sırada hayvancılığın geldiğini görmüş. Örneğin 1 hamburger için 660 galon su tüketilmesi gerekiyor. Bu miktar yaklaşık olarak iki ay süresince kısa duşlarda tüketilen su miktarına eşit. Oysa, ABD'de yıllık şu tüketimi incelendiğinde hayvancılık sektörü 55%'lik oran ile diğer tüm kalemlerin önüne geçiyor.
 
@@ -131,7 +180,7 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 
 2014  
 90 dk.  
-[imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="the-september-issue"></a> [The September Issue (Belgesel)](/media.html#the-september-issue)
@@ -144,10 +193,10 @@ Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına deva
 
 2009  
 90 dk.  
-[imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
-#### <a name="the-minimalists-less-is-now"></a> [The Minimalists Less Is Now (Belgesel)](/media.html#the-minimalists-less-is-now)
+#### <a name="the-minimalists"></a> [The Minimalists: Less Is Now (Belgesel)](/media.html#the-minimalists)
 
 Online alışverişin bu kadar kolay olması, reklamlar, alınanların mutluluk getireceği gibi çeşitli etkenler, insanları aslında ihtiyaçları olmayan ürünler almaya itiyor. Oysa, tüketimin sınırlarını çoktan zorlar duruma geldik. Elimizdeki zaten mevcut ürünleri değerlendirmek yerine yenisini almak daha kolay. Aslında yaşamak için gerekli olan günlük eşyalar o kadar az ki.
 
@@ -169,7 +218,7 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 
 2021  
 53 dk.  
-[imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="take-your-pills"></a> [Take Your Pills (Belgesel)](/media.html#take-your-pills)
@@ -182,7 +231,7 @@ Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Bel
 
 2018  
 87 dk.  
-[imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="what-the-health"></a> [What The Health (Belgesel)](/media.html#what-the-health)
@@ -197,7 +246,7 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 
 2017  
 97 dk.  
-[imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
 
 #### <a name="seaspiracy"></a> [Seaspiracy (Belgesel)](/media.html#seaspiracy)
@@ -212,7 +261,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 
 2021  
 79 dk.  
-[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow"}</div>   
 
 
 #### <a name="earthlings"></a> [Earthlings (Belgesel)](/media.html#earthlings)
@@ -235,5 +284,5 @@ Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri.
 
 2005  
 85 dk.  
-[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow"}  
+<div style="link1">[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow"}</div>  
 
