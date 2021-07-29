@@ -10,7 +10,7 @@ last_modified_at: 2021-07-26
 [2021](/2021.html)  
 [kitaplık](/bookshelf.html)  
 [books (english)](/books.html)  
-[140karakter](/summary.html)   
+[140karakter (tl;dr)](/summary.html)   
 [#kitaplar (thebookish.de)](/posts.html)  
 [bookmarks](/bookmarks.html)  
 [reread](/reread.html)  
