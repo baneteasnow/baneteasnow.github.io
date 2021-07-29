@@ -6,7 +6,7 @@ title: "media"
 ---
 
 
-## Seaspiracy (Belgesel)
+#### [Seaspiracy (Belgesel)](seaspiracy)
 
 Seaspiracy, balık tüketiminin etik ve çevre bakımından sonuçlarını küresel çapta ele alan bir belgesel. Belgeselin yapımcısı Cowspiracy (2014) ve What The Health (2017) belgeselleri ile tanınan Kip Anderson. Seaspiracy, filmin aynı zamanda yönetmeni de olan Ali Tabrizi’nin dünyanın ticari balıkçılık merkezlerinde iz sürmesini anlatıyor.
 
