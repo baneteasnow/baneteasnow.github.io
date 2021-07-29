@@ -5,7 +5,6 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-
 #### <a name="seaspiracy"></a> [Seaspiracy (Belgesel)](/media.html#seaspiracy)
 
 Seaspiracy, balık tüketiminin etik ve çevre bakımından sonuçlarını küresel çapta ele alan bir belgesel. Belgeselin yapımcısı Cowspiracy (2014) ve What The Health (2017) belgeselleri ile tanınan Kip Anderson. Seaspiracy, filmin aynı zamanda yönetmeni de olan Ali Tabrizi’nin dünyanın ticari balıkçılık merkezlerinde iz sürmesini anlatıyor.
@@ -18,7 +17,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 
 Yayın Tarihi: 2021  
 Süre: 79 dk.  
-[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank"} 
+[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow"} 
 
 #### <a name="earthlings"></a> [Earthlings (Belgesel)](/media.html#earthlings)
 
@@ -38,7 +37,7 @@ Her başlık, hayvanlara yapılan uygulamalara odaklanarak adım adım inceleniy
 
 Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri. 
 
-Yayın Tarihi: 2005 
-Süre: 85 dk.
-[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank"} 
+Yayın Tarihi: 2005  
+Süre: 85 dk.  
+[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank"}  
 
