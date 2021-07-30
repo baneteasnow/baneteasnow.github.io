@@ -5,7 +5,7 @@ last_modified_at: 2021-07-29
 title: "belgesel, vb."
 ---
 
-#### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/documentary.html#the-suprising-habits-of-original-thinkers)
+#### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
 
@@ -18,7 +18,7 @@ Adam Grant
 [TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-paradox-of-choice"></a> [The Paradox of Choice | Barry Schwartz (TED)](/documentary.html#the-paradox-of-choice)
+#### <a name="the-paradox-of-choice"></a> [The Paradox of Choice | Barry Schwartz (TED)](/media.html#the-paradox-of-choice)
 
 Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
 
@@ -37,7 +37,7 @@ Barry Schwartz
 [TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="sleep-is-your-superpower"></a> [Sleep Is Your Superpower | Matt Walker (TED)](/documentary.html#sleep-is-your-superpower)
+#### <a name="sleep-is-your-superpower"></a> [Sleep Is Your Superpower | Matt Walker (TED)](/media.html#sleep-is-your-superpower)
 
 Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
 
@@ -56,7 +56,7 @@ Matthew Walker
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-social-dilemma"></a> [The Social Dilemma (Belgesel)](/documentary.html#the-social-dilemma)
+#### <a name="the-social-dilemma"></a> [The Social Dilemma (Belgesel)](/media.html#the-social-dilemma)
 
 Facebook, Instagram, Twitter, Pinterest, Google ve benzer diğer platformlarda gerçek ürün aslında kullanıcılar ve onların bu platformları kullanmaya ayırdıkları dikkatleri. The Social Dilemma, bu konuda yapılmış olan ilk belgesel olmasa da, görüşlerine yer verilen isimler oldukça dikkat çekici, pek çoğu bu platformları geliştiren ve onlara yeni özellikler ekleyen isimler.
 
@@ -69,7 +69,7 @@ Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, ins
 [imdb](https://www.imdb.com/title/tt11464826/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="terms-and-conditions-may-apply"></a> [Terms and Conditions May Apply (Belgesel)](/documentary.html#terms-and-conditions-may-apply)
+#### <a name="terms-and-conditions-may-apply"></a> [Terms and Conditions May Apply (Belgesel)](/media.html#terms-and-conditions-may-apply)
 
 Terms and Conditions May Apply, Google, Facebook, Instagram, Twitter ve diğer pek çok ücretsiz platformda kullanıcı olabilmek için çoğu zaman hiç düşünmeden kabul ettiğimiz hüküm ve koşulların bize aslında neye malolduğunu anlatıyor. Beğendiklerimiz, arama geçmişimiz, bulunduğumuz lokasyonlar, iletişimde olduğumuz kişiler, hangi resimlere kaç saniye baktığımız gibi aslında çok değerli bilgileri bu platformlarla paylaşıyoruz, üstelik kendi isteğimizle, hiçbir itiraz hakkımız olmadığını baştan kabul ederek. Kullanıcıların dikkati, bu platformların ürünü haline geliyor.
 
@@ -80,7 +80,7 @@ Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaları
 [imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="minimalism"></a> [Minimalism: A Documentary About the Important Things (Belgesel)](/documentary.html#minimalism)
+#### <a name="minimalism"></a> [Minimalism: A Documentary About the Important Things (Belgesel)](/media.html#minimalism)
 
 The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Nicodemus, bu belgeselde daha az eşya ile yaşamaya karar veren insanların öykülerini paylaşıyor. Daha azla yaşamak hiç birşeyle yaşamak değil kesinlikle. Sadece yetecek olan kadarı ile yaşamak. İçinde bulunduğunuz ortamdaki eşyaların ve nesnelerin sayısını azaltmak aynı zamanda o ortamdaki arınmayı ve ferahlığı da beraberinde getiriyor aslında. Daha sürdürülebilir bir hayat tarzına geçenlerin öyküsü aslında ilham veriyor, sadece almak için almak değil gerçekten gerekli olanı almanın hem bireylere hem de dünyaya olumlu etkisi anlatılıyor. Sürdürülebilir bir dünya için, aynı zamanda, ikinci el eşya seçeneğini de unutmamak gerekli.
 
@@ -89,7 +89,7 @@ The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Ni
 [imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="food-inc"></a> [Food, Inc. (Belgesel)](/documentary.html#food-inc)
+#### <a name="food-inc"></a> [Food, Inc. (Belgesel)](/media.html#food-inc)
 
 Her gün markete gidip satın aldığımız yiyecekler, hangi süreçlerden geçerek tabağımıza kadar ulaşıyor? İçeriklerinde hangi katkı maddeleri yer alıyor? Ve daha da önemli bir soru: Ne yediğimizi gerçekten bilseydik eğer, gene de yemeğe devam eder miydik? 
 
@@ -100,7 +100,7 @@ Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda ür
 [imdb](https://www.imdb.com/title/tt1286537/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-true-cost"></a> [The True Cost (Belgesel)](/documentary.html#the-true-cost)
+#### <a name="the-true-cost"></a> [The True Cost (Belgesel)](/media.html#the-true-cost)
 
 Giydiğimiz kıyafetlerin gerçek bedelini aslında kim ödüyor? $5 etiketi ile satılan tişörtlerin dünyaya gerçek maliyeti ne? Hızlı moda (fast fashion) akımının perde arkasını anlatan bu belgesel, moda sektöründe daha adil bir üretimin yollarını arıyor, sektörün yol açtığı etkileri tartışıyor. Bir tarafta düşük bütçeli hızlı tüketime yönelik moda akımına kapılmış tüketiciler ve diğer tarafta olumsuz şartlar altında üretime devam eden, farklı ülkelerdeki ucuz işgücünden yararlanan firmalar. En acı olaylardan biri 2013 yılında Bangladeş'te büyük bir felaketle sonuçlanan Rana Plza'nın çöküşüydü. Üstelik bu ne ilk ne de son örnek. 
 
@@ -111,7 +111,7 @@ Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 [imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="forks-over-knives"></a> [Forks Over Knives (Belgesel)](/documentary.html#forks-over-knives)
+#### <a name="forks-over-knives"></a> [Forks Over Knives (Belgesel)](/media.html#forks-over-knives)
 
 Forks Over Knives, batı tarzı diyetin yol açtığı hastalıklara ve kilo artışına dikkat çekerek başlıyor. Batı tarzı diyet, yüksek kalorili, protein açısından zengin, bol yağlı ancak lifli beşinden yoksun kızartılmış gıdanın yoğun olarak kullanıldığı beslenme tarzını temsil ediyor. Bu beslenme tarzı, özellikle zincir restoranlar ve paketli işlenmiş hazır gıdaların yaygın hale gelmesi ile tüm dünyaya yayılmış durumda. Belgeselde paylaşılan verilerine göre ABD'de nüfusun 40%'i obezite ile karşı karşıya. Bu veriler, 2011 yılı öncesine ait. Ayrıca, ABD nüfusunun yarısı düzenli olarak reçeteli ilaç kullanıyor. Şeker, kafein, tuz, yağ en çok tüketilen besin içerikleri arasında yer alıyor. Beslenme tarzının hazır ve işlenmiş yiyeceklere dayanması kitlesel bir sağlık krizine işaret ediyor, kal hastalıkları, kanser, yüksek tansiyon, diyabet gibi kronik pek çok hastalığı beraberinde getiriyor.
 
@@ -130,7 +130,7 @@ Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak iç
 [imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="food-fighter"></a> [Food Fighter (Belgesel)](/documentary.html#food-fighter)
+#### <a name="food-fighter"></a> [Food Fighter (Belgesel)](/media.html#food-fighter)
 
 Ronni Kahn, Avustralya'da resmi otoriteleri harekete geçiren bir değişimi başlatan bir aktivist. Odaklandığı nokta, yiyecek israfı.
 
@@ -143,7 +143,7 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 [imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-inventor"></a> [The Inventor: Out for Blood in Silicon Valley (Belgesel)](/documentary.html#the-inventor)
+#### <a name="the-inventor"></a> [The Inventor: Out for Blood in Silicon Valley (Belgesel)](/media.html#the-inventor)
 
 Elizabeth Holmes ve medikal kan testlerinin yapılış yönteminde devrim yaratma iddiası ile 2003 yılında kurduğu Theranos firmasının hikayesi bu belgeselde anlatılıyor. Elizabeth Holmes, yıllar içinde firmasına aldığı yatırımlar sayesinde Silikon Vadisi'ndeki en genç kadın milyarderlerden biri haline gelmiş, ancak The Wall Street Journal'da John Carreyrou imzasını taşıyan 'Hot Startup Theranos Has Struggled With Its Blood-Test Technology' isimli makalenin  2015 yılında yayınlanması ile firmanın sunduğu testlerin doğruluğu sorgulanmaya başlanmış. 
 
@@ -164,7 +164,7 @@ Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Car
 [imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="cowspiracy"></a> [Cowspiracy: The Sustainability Secret (Belgesel)](/documentary.html#cowspiracy)
+#### <a name="cowspiracy"></a> [Cowspiracy: The Sustainability Secret (Belgesel)](/media.html#cowspiracy)
 
 Belgeselin yazarı ve yönetmeni Kip Anderson, yıllar önce Al Gore'un 'An Inconvenient Truth' isimli belgeselinden etkilenerek günlük alışkanlıklarını değiştirmiş, örneğin, geri dönüşüme daha fazla önem verir almış, duşta su harcama süresini iyice azaltmış. Ancak, kazandığı bu ileri düzeyde biraz da 'takıntılı' çevreci bakışçısının yetmediğini düşünerek konuyu daha fazla araştırınca yıllık sera gazi salınımında sektörler arasında en üst sırada hayvancılığın geldiğini görmüş. Örneğin 1 hamburger için 660 galon su tüketilmesi gerekiyor. Bu miktar yaklaşık olarak iki ay süresince kısa duşlarda tüketilen su miktarına eşit. Oysa, ABD'de yıllık şu tüketimi incelendiğinde hayvancılık sektörü 55%'lik oran ile diğer tüm kalemlerin önüne geçiyor.
 
@@ -183,7 +183,7 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 [imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-september-issue"></a> [The September Issue (Belgesel)](/documentary.html#the-september-issue)
+#### <a name="the-september-issue"></a> [The September Issue (Belgesel)](/media.html#the-september-issue)
 
 Eylül ayı sonbaharın kendini yavaş yavaş göstermeye başladığı, yeni ürün lansmanlarının yapıldığı, yeni sezon koleksiyonlarının vitrinlere çıktığı aydır. Vogue dergisi için de yılın en önemli sayısı eylül ayınınkidir, çünkü moda dünyasının 'ocak' ayı 'eylül'dur. The September Issue, Vogue US'in Eylül 2007 sayısının hazırlanması sırasında derginin ünlü editörü Anna Wintour ve ekibini adım adım takip ediyor. Anna Wintor'ün beğenmediği ve bu nedenle İptal edilen çekimler, bu çekimlerin zaman baskısı altında yenilenmesi, kapak fotoğrafının seçilmesi, renk uyumuna gösterilen titizlik, sayının ana konseptinin belirlenmesi, gibi pek çok ayrıntı belgeselde yer alıyor. 
 
@@ -196,7 +196,7 @@ Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına deva
 [imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-minimalists"></a> [The Minimalists: Less Is Now (Belgesel)](/documentary.html#the-minimalists)
+#### <a name="the-minimalists"></a> [The Minimalists: Less Is Now (Belgesel)](/media.html#the-minimalists)
 
 Online alışverişin bu kadar kolay olması, reklamlar, alınanların mutluluk getireceği gibi çeşitli etkenler, insanları aslında ihtiyaçları olmayan ürünler almaya itiyor. Oysa, tüketimin sınırlarını çoktan zorlar duruma geldik. Elimizdeki zaten mevcut ürünleri değerlendirmek yerine yenisini almak daha kolay. Aslında yaşamak için gerekli olan günlük eşyalar o kadar az ki.
 
@@ -221,7 +221,7 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 [imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="take-your-pills"></a> [Take Your Pills (Belgesel)](/documentary.html#take-your-pills)
+#### <a name="take-your-pills"></a> [Take Your Pills (Belgesel)](/media.html#take-your-pills)
 
 2018 yapımı bir Netflix belgeseli olan Take Your Pills, hem öğrencilerin hem de yetişkinlerin konsantrasyonlarını arttırmak üzere başvurdukları en başlıca yöntem olan reçeteli ilaç kullanımının olumsuz sonuçlarını inceliyor. Verilen örnekler çarpıcı da olsa, belgeselde konunun işlenişi yer yer yüzeysel kalmış.
 
@@ -234,7 +234,7 @@ Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Bel
 [imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="what-the-health"></a> [What The Health (Belgesel)](/documentary.html#what-the-health)
+#### <a name="what-the-health"></a> [What The Health (Belgesel)](/media.html#what-the-health)
 
 Kip Anderson, What The Health isimli belgeselin hem yönetmeni hem de yazarı. Belgesel, genel olarak diyet ve hastalıklar arasındaki bağlantıyı araştırıyor. Ailesinde kalp rahatsızlığı, diyabet, kanser gibi pek çok hastalık bulunan Anderson, beslenme düzenini değiştirerek bu hastalıklara yakalanma riskini azaltıp azaltamayacağını sorguluyor.
 
@@ -249,7 +249,7 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 [imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="seaspiracy"></a> [Seaspiracy (Belgesel)](/documentary.html#seaspiracy)
+#### <a name="seaspiracy"></a> [Seaspiracy (Belgesel)](/media.html#seaspiracy)
 
 Seaspiracy, balık tüketiminin etik ve çevre bakımından sonuçlarını küresel çapta ele alan bir belgesel. Belgeselin yapımcısı Cowspiracy (2014) ve What The Health (2017) belgeselleri ile tanınan Kip Anderson. Seaspiracy, filmin aynı zamanda yönetmeni de olan Ali Tabrizi’nin dünyanın ticari balıkçılık merkezlerinde iz sürmesini anlatıyor.
 
@@ -264,7 +264,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 [imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}   
 
 
-#### <a name="earthlings"></a> [Earthlings (Belgesel)](/documentary.html#earthlings)
+#### <a name="earthlings"></a> [Earthlings (Belgesel)](/media.html#earthlings)
 
 Yönetmenliğini Shaun Monson’ın yaptığı ve Joaquin Phoenix seslendirdiği belgesel Earthlings, ticari hayvancılık hakkında her bakımdan çok çarpıcı gerçeklere yer veriyor. Bu belgeseli izlemesi hiç kolay değil, zira pek çok kişi bu belgeseli izledikten sonra hayvansal ürünleri tüketemediklerini ve veganlığı benimsediklerini belirtiyor.
 
