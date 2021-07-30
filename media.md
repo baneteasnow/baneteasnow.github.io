@@ -8,8 +8,6 @@ title: "media"
 * TOC
 {:toc class="toc1"}  
 
-#### title 1 
-
 <a name="the-suprising-habits-of-original-thinkers"></a>
 
 #### [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
@@ -25,15 +23,14 @@ Adam Grant
 [TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
 
-#### <a name="the-paradox-of-choice"></a> [The Paradox of Choice | Barry Schwartz (TED)](/media.html#the-paradox-of-choice)
+<a name="the-paradox-of-choice"></a>
+#### [The Paradox of Choice | Barry Schwartz (TED)](/media.html#the-paradox-of-choice)
 
 Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
 
 Batı'daki tüm sanayi toplumlarının resmi doğması, vatandaşların esenliğinin en üst noktaya çıkarılması için kişisel özgürlüklerin de en üst noktaya taşınmasını gerektirir. Ancak bu özgürlük alanının tanınması ile, birey kendisi için en iyi olan kararları verebilir. Özgürlük alanını genişletmenin yolu ise seçenekleri arttırmaktır. Daha çok seçenek daha fazla özgürlüğü, daha fazla özgürlük ise daha fazla esenliği beraberinde getirir. Ancak, seçim özgürlüğü beraberinde önemli bir detayı da taşır. Herhangi bir konuda her gün tekrar ve tekrar karar vermemiz gerekir, karar vermek aslında bir zorunluluğa dönüşmüştür.
 
 Yapılan tüm bu seçimler ise, bireyler üzerinde iki olumsuz etki yaratır. Seçim yapmak, özgürleşmeyi beraberinde getirmek yerine tutulup kalmaya yol açar. O kadar fazla sayıda seçenek vardır ki, seçim yapmak adeta bir eziyete dönüşür. İlk olumsuz etki budur. İkincisi ise, bu durumu aşarak bir seçim yapmış olsak bile, karşılaştığımız sonuç, daha az seçeneğe sahip olduğumuz günlere kıyasla bizi giderek daha az tatmin eder hale gelir.
-
-### title 2
 
 Ne kadar fazla seçenek ile karşı karşıya kalırsak, sonuçta belirlediğimiz seçeneğin o oranda bizi hayal kırıklığına uğratma ihtimali yükselir. Diğer bir nokta ise, 'fırsat maliyeti'dir. Bizim tercih ettiğimiz seçenek dışında kalan alternatif seçeneklerin aslında ne kadar çekici olduğu düşüncesi tatminsizlik yaratır. Sonuçta, tercihimiz aslında o kadar kötü olmasa da, alternatifleri düşündüğümüzde fırsat maliyetinden etkilenmek kaçınılmaz olur.
 
@@ -70,8 +67,6 @@ Matthew Walker
 Facebook, Instagram, Twitter, Pinterest, Google ve benzer diğer platformlarda gerçek ürün aslında kullanıcılar ve onların bu platformları kullanmaya ayırdıkları dikkatleri. The Social Dilemma, bu konuda yapılmış olan ilk belgesel olmasa da, görüşlerine yer verilen isimler oldukça dikkat çekici, pek çoğu bu platformları geliştiren ve onlara yeni özellikler ekleyen isimler.
 
 Ücretsiz olan tüm bu sosyal medya platformların para kazanmak için üç temel prensipleri var. Bağlılık (engagement), yani, kullanıcıların o platformda ne kadar süre geçirdikleri; büyüme (growth) yani yeni kullanıcıları bünyelerine katabilme hızları; ve tabii ki reklamlar (advertisement), yani kişiye özel, ilgi alanlarını dikkate alarak odaklanmış reklamlar. Bu platformlar nedeni ile pek çok kişinin hayatlarını yaşamayı adeta bıraktıkları, sadece bu platformda gördükleri başkaları ile fiziksel özelliklerini karşılaştırarak mutsuz hale geldikleri, hatta daha depresif oldukları kanıtlanmış gerçekler. Oysa, tüm bunları kontrol etmek için hiçbir gerçek yaptırım yok. Bunun adı kısaca bağımlılık, işin en kötü yani ise bu bağımlılığın seviyesi her geçen gün giderek artıyor, The Social Dilemma'da sunulana göre daha da artacak. Bu platformlar, kullanıcılarının hayatlarının hemen her alanına, üstelik de onların kendi izinleri ile, dahil olup onları izliyorlar ve kontrol ediyorlar. Ve üstelik, bunun etik yönünü veya uzun vadede yol açabileceği zararları hiç düşünmeden para kazanıyorlar.
-
-## title 3
 
 Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, insana zarar vermeyecek şekilde onları yeniden yapılandırmanın bir yolu var mı?' Aslında bugüne kadar pek çok kitapta, makalede, belgeselde, haberde veya röportajlarda dile getirilmiş olan sorunlara işaret ediliyor, çözüm için ise sadece bu sosyal medya platformlarının buna gönüllü olmaları gerektiği vurgulanıyor. Ayrıca, bu platformları yaratan ekipte yer alanların kendi çocuklarına bu ürünleri kullanmayı yasaklamış olmaları da vurgulanan diğer bir nokta. Kullanıcı olma yaşının yükseltilmesi gerektiği, mümkün olduğunca bu sitelerde geçirilen zamanının kısaltılması, çocuklar için dakika sınırı konulması, tavsiye edilen videoların doğrudan izlenmesi yerine her seferinde yeni bir arama yapılması, tüm bildirimlerin kapatılması ve çok yönlü içeriğe ulaşabilmek adına pek çok farklı görüşten insanın takip edilmesi bireysel kullanıcıların yapabilecekleri arasında gösteriliyor.
 
@@ -297,3 +292,4 @@ Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri.
 85 dk.  
 [imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
+<!-- {% include toc.html class="toc1" %} -->
