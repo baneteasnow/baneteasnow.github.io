@@ -5,7 +5,9 @@ last_modified_at: 2021-07-16
 title: "140karakter - TL;DR"
 ---
 
-<div>
+<div style="text-align:left" class="link1"><i><a href="#bot">sayfa sonu</a></i></div>
+
+  <div>
   {% for post in site.posts %}
         <br />
   <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}"> </a>
@@ -33,5 +35,6 @@ title: "140karakter - TL;DR"
        <br />
     {% endfor %}
 </div>
+    <a name="bot">
 <div style="clear: both;"></div>
 <br />
