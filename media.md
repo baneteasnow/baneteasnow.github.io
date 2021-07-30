@@ -5,7 +5,7 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-{% include toc.html %}
+{% include toc.md %}
 
 
 #### title 1 
