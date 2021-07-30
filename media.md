@@ -6,7 +6,7 @@ title: "media"
 ---
 
 {% include toc.md class="toc1" %}
-
+{:toc class="toc1"}
 
 #### title 1 
 
