@@ -5,7 +5,8 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-{% include toc.md %}
+* TOC
+{:toc}
 
 #### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
 
