@@ -14,7 +14,7 @@ layout: default
 
 
 <div>
-  {% for post in site.posts offset:1 %}
+  {% for post in site.posts limit:1 %}
     <p>
       <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
       <p>{{ site.posts.first.content }}</p>
