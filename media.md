@@ -8,6 +8,9 @@ title: "media"
 * TOC
 {:toc}
 
+
+#### title 1
+
 #### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
@@ -28,6 +31,8 @@ Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasın
 Batı'daki tüm sanayi toplumlarının resmi doğması, vatandaşların esenliğinin en üst noktaya çıkarılması için kişisel özgürlüklerin de en üst noktaya taşınmasını gerektirir. Ancak bu özgürlük alanının tanınması ile, birey kendisi için en iyi olan kararları verebilir. Özgürlük alanını genişletmenin yolu ise seçenekleri arttırmaktır. Daha çok seçenek daha fazla özgürlüğü, daha fazla özgürlük ise daha fazla esenliği beraberinde getirir. Ancak, seçim özgürlüğü beraberinde önemli bir detayı da taşır. Herhangi bir konuda her gün tekrar ve tekrar karar vermemiz gerekir, karar vermek aslında bir zorunluluğa dönüşmüştür.
 
 Yapılan tüm bu seçimler ise, bireyler üzerinde iki olumsuz etki yaratır. Seçim yapmak, özgürleşmeyi beraberinde getirmek yerine tutulup kalmaya yol açar. O kadar fazla sayıda seçenek vardır ki, seçim yapmak adeta bir eziyete dönüşür. İlk olumsuz etki budur. İkincisi ise, bu durumu aşarak bir seçim yapmış olsak bile, karşılaştığımız sonuç, daha az seçeneğe sahip olduğumuz günlere kıyasla bizi giderek daha az tatmin eder hale gelir.
+
+### title 2
 
 Ne kadar fazla seçenek ile karşı karşıya kalırsak, sonuçta belirlediğimiz seçeneğin o oranda bizi hayal kırıklığına uğratma ihtimali yükselir. Diğer bir nokta ise, 'fırsat maliyeti'dir. Bizim tercih ettiğimiz seçenek dışında kalan alternatif seçeneklerin aslında ne kadar çekici olduğu düşüncesi tatminsizlik yaratır. Sonuçta, tercihimiz aslında o kadar kötü olmasa da, alternatifleri düşündüğümüzde fırsat maliyetinden etkilenmek kaçınılmaz olur.
 
