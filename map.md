@@ -16,7 +16,7 @@ last_modified_at: 2021-07-26
 [media](/media.html)  
 [reread](/reread.html)  
 [new posts](/new.html)   
-[old posts](/old.html) 
+[old posts](/old.html)  
 [category](/category.html)  
 [<i class="far fa-map"></i> map](/map.html){:target='_blank'}   
 [goodreads](/goodreads.html)  
