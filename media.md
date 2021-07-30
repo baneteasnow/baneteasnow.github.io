@@ -5,6 +5,8 @@ last_modified_at: 2021-07-29
 title: "belgesel, vb."
 ---
 
+{:toc}
+
 #### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
