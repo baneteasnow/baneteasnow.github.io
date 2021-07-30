@@ -8,7 +8,7 @@ title: 'category'
 
 {% for post in site.posts %}
     {% if post.yazar contains 'Malcolm Gladwell' %}
-      <p>&nbsp; <a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
   {% endfor %}
 
