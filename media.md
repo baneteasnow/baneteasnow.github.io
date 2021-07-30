@@ -8,6 +8,8 @@ title: "media"
 * TOC
 {:toc class="toc1"}  
 
+### TED Videoları
+
 <a name="the-suprising-habits-of-original-thinkers"></a>
 #### [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
 
@@ -61,6 +63,8 @@ Matthew Walker
 2019  
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
+
+### Belgesel
 
 <a name="the-social-dilemma"></a>
 #### [The Social Dilemma (Belgesel)](/media.html#the-social-dilemma)
