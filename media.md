@@ -5,7 +5,7 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-{% include toc.html ul class="no-bullets" %}
+{% include toc.md %}
 
 
 #### title 1
