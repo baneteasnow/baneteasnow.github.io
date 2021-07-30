@@ -311,4 +311,4 @@ Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri.
 85 dk.  
 [imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="color: blue"}  
 
-<!-- {% include toc.html class="toc1" %} -->
+<!-- {% include toc.md class="toc1" %} -->
