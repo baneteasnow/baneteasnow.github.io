@@ -43,8 +43,10 @@ p { margin: 1rem 0; }
 
 .li { margin: 0.4rem 0; }
 
-ul {
-  list-style-type: none;
+ul.no-bullets {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 *:target { background: yellow; }
