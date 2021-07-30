@@ -5,12 +5,14 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-{% include toc.md %}
-
+* TOC
+{:toc}
 
 #### title 1
 
-#### <a name="the-suprising-habits-of-original-thinkers"></a> [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
+<a name="the-suprising-habits-of-original-thinkers"></a>
+
+#### [The Surprising Habits of Original Thinkers | Adam Grant (TED)](/media.html#the-suprising-habits-of-original-thinkers)
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
 
@@ -68,6 +70,8 @@ Matthew Walker
 Facebook, Instagram, Twitter, Pinterest, Google ve benzer diğer platformlarda gerçek ürün aslında kullanıcılar ve onların bu platformları kullanmaya ayırdıkları dikkatleri. The Social Dilemma, bu konuda yapılmış olan ilk belgesel olmasa da, görüşlerine yer verilen isimler oldukça dikkat çekici, pek çoğu bu platformları geliştiren ve onlara yeni özellikler ekleyen isimler.
 
 Ücretsiz olan tüm bu sosyal medya platformların para kazanmak için üç temel prensipleri var. Bağlılık (engagement), yani, kullanıcıların o platformda ne kadar süre geçirdikleri; büyüme (growth) yani yeni kullanıcıları bünyelerine katabilme hızları; ve tabii ki reklamlar (advertisement), yani kişiye özel, ilgi alanlarını dikkate alarak odaklanmış reklamlar. Bu platformlar nedeni ile pek çok kişinin hayatlarını yaşamayı adeta bıraktıkları, sadece bu platformda gördükleri başkaları ile fiziksel özelliklerini karşılaştırarak mutsuz hale geldikleri, hatta daha depresif oldukları kanıtlanmış gerçekler. Oysa, tüm bunları kontrol etmek için hiçbir gerçek yaptırım yok. Bunun adı kısaca bağımlılık, işin en kötü yani ise bu bağımlılığın seviyesi her geçen gün giderek artıyor, The Social Dilemma'da sunulana göre daha da artacak. Bu platformlar, kullanıcılarının hayatlarının hemen her alanına, üstelik de onların kendi izinleri ile, dahil olup onları izliyorlar ve kontrol ediyorlar. Ve üstelik, bunun etik yönünü veya uzun vadede yol açabileceği zararları hiç düşünmeden para kazanıyorlar.
+
+### title 3
 
 Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, insana zarar vermeyecek şekilde onları yeniden yapılandırmanın bir yolu var mı?' Aslında bugüne kadar pek çok kitapta, makalede, belgeselde, haberde veya röportajlarda dile getirilmiş olan sorunlara işaret ediliyor, çözüm için ise sadece bu sosyal medya platformlarının buna gönüllü olmaları gerektiği vurgulanıyor. Ayrıca, bu platformları yaratan ekipte yer alanların kendi çocuklarına bu ürünleri kullanmayı yasaklamış olmaları da vurgulanan diğer bir nokta. Kullanıcı olma yaşının yükseltilmesi gerektiği, mümkün olduğunca bu sitelerde geçirilen zamanının kısaltılması, çocuklar için dakika sınırı konulması, tavsiye edilen videoların doğrudan izlenmesi yerine her seferinde yeni bir arama yapılması, tüm bildirimlerin kapatılması ve çok yönlü içeriğe ulaşabilmek adına pek çok farklı görüşten insanın takip edilmesi bireysel kullanıcıların yapabilecekleri arasında gösteriliyor.
 
