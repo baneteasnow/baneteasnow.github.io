@@ -5,7 +5,8 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-{% include toc.md class="no-bullets" %}
+* TOC
+{:toc}
 
 #### title 1
 
