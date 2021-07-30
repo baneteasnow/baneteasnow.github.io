@@ -13,7 +13,7 @@ last_modified_at: 2021-07-26
 [140karakter (tl;dr)](/summary.html)   
 [#kitaplar (thebookish.de)](/posts.html)  
 [bookmarks](/bookmarks.html)  
-[belgesel, vb.](/documentary.html)  
+[media](/media.html)  
 [reread](/reread.html)  
 [new posts](/new.html)   
 [old posts](/old.html)  
