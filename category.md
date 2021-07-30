@@ -16,15 +16,15 @@ title: "kategoriler"
 
 {% for post in site.posts %}
     {% if post.yazar contains 'Malcolm Gladwell' %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+        <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
-  {% endfor %}
+{% endfor %}
 
 <a name="dan-ariely"></a>
 ##### Dan Ariely
 
 {% for post in site.posts %}
-    {% if post.yazar contains 'Malcolm Gladwell' %}
+    {% if post.yazar contains 'Dan Ariely' %}
       <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
   {% endfor %}
@@ -41,13 +41,13 @@ title: "kategoriler"
 ### book2  
 
 {% for post in site.categories.book2 %}
-<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
 
 ### book  
 
 {% for post in site.categories.book %}
-<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
 
 <br />
