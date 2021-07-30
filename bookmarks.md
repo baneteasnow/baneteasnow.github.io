@@ -42,6 +42,7 @@ last_modified_at: 2021-07-24
 | rejoiceinhim.com/category/book-review/ |
 | rosieleizrowice.com/book-reviews/ |
 | ryanholiday.net/reading-list/ |
+| samuelthomasdavies.com/book-summaries/ |
 | scott.london/reviews/index.html |
 | sergiocaredda.eu/inspiration/the-rebel-at-work-list-of-books/ |
 | sirupsen.com/books/ |  
