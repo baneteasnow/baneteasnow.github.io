@@ -1,10 +1,10 @@
 ---
 layout: post  
 category: book2  
-title: "How Google Works | Eric Schmidt, Jonathan Rosenberg, Alan Eagle"  
+title: "How Google Works | Eric Schmidt, Jonathan Rosenberg, Alan Eagle (Kitap)"  
 kitap: "How Google Works"  
 tr: "Google Nasıl Yönetiliyor?"  
-yazar: "Eric Schmidt, Jonathan Rosenberg (Alan Eagle'ın yardımlarıyla)"  
+yazar: "Eric Schmidt, Jonathan Rosenberg, Alan Eagle"  
 yil: "2015"  
 sayfa: "319"  
 goodreads: "https://www.goodreads.com/book/show/23158207-how-google-works"
