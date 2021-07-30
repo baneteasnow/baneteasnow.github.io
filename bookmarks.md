@@ -4,6 +4,11 @@ title: bookmarks
 last_modified_at: 2021-07-24
 ---
 
+* TOC
+{:toc class="toc1"}  
+
+#### book reviews
+
 | ⁜ |
 |:---|
 | adamkeesling.com/book-notes/ |
@@ -56,7 +61,31 @@ last_modified_at: 2021-07-24
 
 <br />
 
-<!--| rogerebert.com/ |-->
 <!--| ~~blog.12min.com/~~ |-->
 <!--| davidnmalan.com/bookreviews/ |-->
 <!--| j-dm.org/ |-->
+
+#### movie reviews
+
+| ⁜ |
+|:---|
+| rogerebert.com/ |
+
+<br />
+
+#### blogroll
+
+| ⁜ |
+|:---|
+| ⁜ |
+
+<br />
+
+#### what to read next
+
+| ⁜ |
+|:---|
+| ⁜ |
+
+<br />
+
