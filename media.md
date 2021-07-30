@@ -5,7 +5,6 @@ last_modified_at: 2021-07-29
 title: "media"
 ---
 
-{% include toc.md class="toc1" %}  
 {:toc class="toc1"}  
 
 #### title 1 
