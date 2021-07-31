@@ -12,7 +12,7 @@ title: 'kategoriler'
 
 ##### Malcolm Gladwell  
 
-{% include yazar.html %}  
+    {% include yazar.html %}  
 
 
 ##### Dan Ariely
