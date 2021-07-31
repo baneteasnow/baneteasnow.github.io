@@ -116,25 +116,27 @@ a:hover{
 .link1 a:hover {
   color: #06adf8;
   text-decoration: underline !important;
+  -webkit-text-decoration-color: #777; /* Safari */  
+  text-decoration-color: #777;
 }
 
-.link11 a {
-  color: blue;
+.link11 a { /* link1 - original code */
+  color: blue; 
   text-decoration: none !important;
-}
-.link11 a:hover {
+} 
+.link11 a:hover { /* link1 - original code */
   color: blue;
   text-decoration: underline !important;
 }
 
-.link2 a {
+.link2 a { /* from blogger #cdf8e8 */
   color: #777 !important; 
   text-align:left;
   padding:5px;
   margin:10px 0;
   background: linear-gradient(to top, #cdf8e8 20%, transparent 20%);
 } 
-.link2 a:hover {
+.link2 a:hover { /* from blogger #cdf8e8 */
   color: #777 !important;
   text-decoration: none !important;
   background-color: #cdf8e8;
@@ -153,7 +155,6 @@ a:hover{
   border-bottom: 0px;
 
 } 
-
 
 // .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;      
 
