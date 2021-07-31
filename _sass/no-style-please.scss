@@ -109,7 +109,7 @@ a:hover{
   color: #06adf8;
   text-decoration: underline !important;
   -webkit-text-decoration-color: #777; /* Safari */  
-  text-decoration-color: #777;
+  text-decoration-color: #777 !important;
 }
 .link1 a {
   color: #06adf8;
@@ -119,7 +119,7 @@ a:hover{
   color: #06adf8;
   text-decoration: underline !important;
   -webkit-text-decoration-color: #777; /* Safari */  
-  text-decoration-color: #777;
+  text-decoration-color: #777 !important;
 }
 
 .link11 a { /* link1 - original code */
