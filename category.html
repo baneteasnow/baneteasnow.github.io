@@ -3,13 +3,20 @@ layout: page-9
 title: 'kategoriler'
 ---
 
-// in progress
-<br />
+<p><a href="#yazarlar">yazarlar</a></p>
+<p><a href="#malcolm-gladwell">malcolm gladwell</a></p>
+<p><a href="#book3">book3</a></p>
+<p><a href="#book2">book2</a></p>
+<p><a href="#book">book</a></p>
+
 
 <!--{%-include toc.md class="toc1"-%}-->
 
+<a name="yazarlar"></a>
 <div>yazarlar</div>
+<br/>
 
+<a name="malcolm-gladwell"></a>
 <div>Malcolm Gladwell</div>
 
 {% for post in site.posts %}
@@ -17,18 +24,9 @@ title: 'kategoriler'
       <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
-<br />
 
 
-<div>Dan Ariely</div>
-
-{% for post in site.posts %}
-    {% if post.yazar contains 'Dan Ariely' %}
-      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
-    {% endif %}
-  {% endfor %}
-
-
+<a name="book3"></a>
 <div>book3</div>
 
 {% for post in site.posts %}
@@ -38,6 +36,7 @@ title: 'kategoriler'
   {% endfor %}
 
 
+<a name="book2"></a>
 <div>book2</div>
 
 {% for post in site.categories.book2 %}
@@ -45,6 +44,7 @@ title: 'kategoriler'
 {% endfor %}
 
 
+<a name="book"></a>
 <div>book</div>
 
 {% for post in site.categories.book %}
