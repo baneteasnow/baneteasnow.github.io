@@ -94,8 +94,8 @@ last_modified_at: 2021-07-24
 | bookmarks.reviews/category/non-fiction/ |
 | whatshouldireadnext.com |
 | bookseer.com |
-| https://www.lovereading.co.uk/genres/lrnbm/non-fiction-books-of-the-month |
-| https://www.kirkusreviews.com/discover-books/nonfiction |
+| lovereading.co.uk/genres/lrnbm/non-fiction-books-of-the-month |
+| kirkusreviews.com/discover-books/nonfiction |
 | goodreads.com |
 | librarything.com |
 | 1000kitap.com |
