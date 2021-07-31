@@ -7,13 +7,12 @@ last_modified_at: 2021-07-24
 * TOC
 {:toc class="toc1"}  
 
-#### book reviews
+#### non-fiction book reviews
 
 | ⁜ |
 |:---|
 | adamkeesling.com/book-notes/ |
 | blas.com/library/ |
-| bookmarks.reviews/category/non-fiction/ |
 | calv.info/bookshelf/ |  
 | calvinrosser.com/notes/ |  
 | chomskylist.com/top100.php |
@@ -37,12 +36,10 @@ last_modified_at: 2021-07-24
 | jsilva.blog/book-summaries/ | 
 | lawsonblake.com/book-notes/ |
 | lifeclub.org/book-categories/ |
-| listmuse.com |
 | maggieappleton.com/library/ |
 | marloyonocruz.com/all-book-notes/ |
 | macwright.com/reading/ |
 | mentalpivot.com/tag/book-notes/ |
-| mostrecommendedbooks.com/ |
 | musingmind.org/book-notes/ |
 | nateliason.com/notes/ |
 | nathanieldrew.com/what-i-read/ |
@@ -66,6 +63,12 @@ last_modified_at: 2021-07-24
 <!--| ~~blog.12min.com/~~ |-->
 <!--| davidnmalan.com/bookreviews/ |-->
 <!--| j-dm.org/ |-->
+<!--| rifflebooks.com |-->
+
+<!-- #### blogroll
+| ⁜ |
+|:---|
+| ⁜ |-->
 
 #### movie reviews
 
@@ -75,19 +78,20 @@ last_modified_at: 2021-07-24
 
 <br />
 
-#### blogroll
-
-| ⁜ |
-|:---|
-| ⁜ |
-
-<br />
-
 #### what to read next
 
 | ⁜ |
 |:---|
-| ⁜ |
+| listmuse.com |
+| goodbooks.io/categories/non-fiction |
+| gnooks.com/faves.php |
+| whichbook.net |
+| olmenta.altervista.org |
+| nextbooktoread.com |
+| mostrecommendedbooks.com/ |
+| fivebooks.com |
+| bookmarks.reviews/category/non-fiction/ |
+
 
 <br />
 
