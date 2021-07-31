@@ -100,6 +100,7 @@ last_modified_at: 2021-07-24
 | librarything.com |
 | 1000kitap.com |
 | litsy.com/web/tag/nonfiction |
+| italictype.com/explore/ |
 
 <br />
 
