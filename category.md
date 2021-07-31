@@ -10,9 +10,8 @@ title: 'kategoriler'
 
 ### yazarlar 
 
-##### Malcolm Gladwell  
-
-    {% include yazar.html %}  
+##### Malcolm Gladwell
+{% include yazar.html %}  
 
 
 ##### Dan Ariely
