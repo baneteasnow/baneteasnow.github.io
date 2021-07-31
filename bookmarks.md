@@ -70,11 +70,12 @@ last_modified_at: 2021-07-24
 |:---|
 | ⁜ |-->
 
-#### movie reviews
+#### misc.
 
 | ⁜ |
 |:---|
 | rogerebert.com/ |
+| ayearofreadingtheworld.com/thelist/ |
 
 <br />
 
