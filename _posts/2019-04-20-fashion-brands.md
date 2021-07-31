@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-04-20
 image: "https://www.thebookish.de/assets/old/fashion-brands.jpg"
-eng: "Fashion Brands is a marketing book by Mark Tungate. I loved reading this book because it is mainly focusing on fast fashion brands such as Zara, H&M and TopShop. There are some stories related to successful and famous ad campaigns as well. Even though this book is not a very recent one, it is a good read for the stories of the famous brands."
+eng: "Fashion Brands is a marketing book by Mark Tungate. I like to read this book because it focuses on fast fashion brands such as Zara, H&M and TopShop. There are also stories related to successful and well-known advertising campaigns. Even though this book is not a very recent one, it is a good read for the stories of the famous brands."
 ---
 
 Hızlı moda akımının (fast fashion) ortaya çıkışını inceleyen Modada Marka Olmak, Zara, TopShop, H&M gibi markaların neredeyse her hafta yeni bir koleksiyon çıkarmayı nasıl başardıklarını anlatıyor. Ayrıca pek çok ünlü moda markasının kuruluş hikayesi, ilk yılları, yükselişleri, gerçekleştirdikleri ünlü reklam kampanyaları da kitabın önemli kısmını oluşturuyor.
