@@ -12,6 +12,7 @@ last_modified_at: 2021-07-24
 | ⁜ |
 |:---|
 | adamkeesling.com/book-notes/ |
+| aworkinglibrary.com/reading/ |
 | blas.com/library/ |
 | calv.info/bookshelf/ |  
 | calvinrosser.com/notes/ |  
