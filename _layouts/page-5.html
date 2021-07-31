@@ -4,15 +4,15 @@ layout: default
 <!-- page: 'bookshelf' -->
 <span class="link1">{%-include back_link.html-%}</span>
 
-<i><h4>{{ page.title }}</h4></i>
+<h4>{{ page.title }}</h4>
 
 {{ content }}
 
   <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
-   🌿 <em>son güncelleme: {{ "now" | date: "%B %-d, %Y" }}</em> &nbsp; 
+   🌿 son güncelleme: {{ "now" | date: "%B %-d, %Y" }} &nbsp; 
 </span> 
  <span class="link1" style="text-align: right; float: right; font-size: 85%;">
-     <em><a href="/bookmarks.html">bookmarks</a> &nbsp;
+         <a href="/bookmarks.html">bookmarks</a> &nbsp;
          <a href="/summary.html">140karakter (tl;dr)</a> &nbsp;
-         <a href='/posts.html'>thebookish.de</a></em>
+         <a href='/posts.html'>thebookish.de</a>
     </span>
