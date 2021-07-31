@@ -8,29 +8,28 @@ title: 'kategoriler'
 
 <!--{%-include toc.md class="toc1"-%}-->
 
-#### yazarlar <br />
+<div>yazarlar</div>
 
-#### Malcolm Gladwell  
+<div>Malcolm Gladwell</div>
 
 {% for post in site.posts %}
     {% if post.yazar contains 'Malcolm Gladwell' %}
-       <a href="{{ post.url }}">{{ post.title }}</a>
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
 <br />
 
 
-#### Dan Ariely
+<div>Dan Ariely</div>
 
 {% for post in site.posts %}
     {% if post.yazar contains 'Dan Ariely' %}
       <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
   {% endfor %}
-<br />
 
 
-### book3  
+<div>book3</div>
 
 {% for post in site.posts %}
     {% if post.yil contains '2015' %}
@@ -39,14 +38,14 @@ title: 'kategoriler'
   {% endfor %}
 
 
-### book2  
+<div>book2</div>
 
 {% for post in site.categories.book2 %}
     <p><a href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
 
 
-### book  
+<div>book</div>
 
 {% for post in site.categories.book %}
     <p><a href="{{ post.url }}">{{ post.title }}</a></p>
