@@ -131,6 +131,19 @@ a:hover{
   background-color: #cdf8e8;
 } 
 
+.link3 a {
+  color: #777 !important; 
+  text-align:left;
+  padding:5px;
+  margin:10px 0;
+} 
+.link3 a:hover {
+  color: #777 !important;
+  text-decoration: none !important;
+  border-bottom: 2px solid #06adf8;
+} 
+
+
 // .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;      
 
 .decorated{
