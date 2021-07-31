@@ -3,15 +3,10 @@ layout: page-9
 title: 'kategoriler'
 ---
 
-<div><a href="#yazarlar" style="color: blue">yazarlar</a></div>
-<div><a href="#malcolm-gladwell" style="color: blue">malcolm gladwell</a></div>
-<div><a href="#dan-ariely" style="color: blue">dan ariely</a></div>
+{% include toc.md class="toc1" %}  
 
-
-<a name="yazarlar"></a>
 ### yazarlar 
 
-<a name="malcolm-gladwell"></a>
 ##### Malcolm Gladwell  
 
 {% for post in site.posts %}
@@ -21,7 +16,6 @@ title: 'kategoriler'
 {% endfor %}
 
 
-<a name="dan-ariely"></a>
 ##### Dan Ariely
 
 {% for post in site.posts %}
