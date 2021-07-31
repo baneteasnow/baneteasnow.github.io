@@ -7,7 +7,7 @@ last_modified_at: 2021-07-24
 * TOC
 {:toc class="toc1"}  
 
-#### non-fiction book reviews
+#### # non-fiction book reviews
 
 | ⁜ |
 |:---|
@@ -70,7 +70,7 @@ last_modified_at: 2021-07-24
 |:---|
 | ⁜ |-->
 
-#### misc.
+#### # misc.
 
 | ⁜ |
 |:---|
@@ -79,7 +79,7 @@ last_modified_at: 2021-07-24
 
 <br />
 
-#### what to read next
+#### # what to read next
 
 | ⁜ |
 |:---|
