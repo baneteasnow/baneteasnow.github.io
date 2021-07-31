@@ -4,18 +4,16 @@ layout: default
 <!-- page: 'posts' -->
 
 <span class="link1">{%-include back_link.html-%}</span>
-<i><h4>{{ page.title }}</h4></i>
+<h4>{{ page.title }}</h4>
 
 {%-include post_list-4.html category=page.which_category-%}
 
 <br /> 
 <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
-🌿 <em>2013-{{ "now" | date: "%Y" }}</em> &nbsp;
+🌿 2013-{{ "now" | date: "%Y" }} &nbsp;
 </span>
 <span class="link1" style="text-align: right; float: right; font-size: 85%;">
-             <em>
              <a href="/now.html">şimdi</a> &nbsp;
              <a href="/bookmarks.html">bookmarks</a> &nbsp;
              <a href='/bookshelf.html'>kitaplık</a>
-             </em>
                                </span>
