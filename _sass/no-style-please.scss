@@ -116,6 +116,16 @@ a:hover{
 }
 .link1 a:hover {
   color: #06adf8;
+  text-decoration: none !important;
+  border-bottom: 0px solid #fff;
+}
+
+.link11 a {
+  color: blue;
+  text-decoration: none !important;
+}
+.link11 a:hover {
+  color: blue;
   text-decoration: underline !important;
 }
 
