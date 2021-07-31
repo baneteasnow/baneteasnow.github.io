@@ -1,5 +1,5 @@
 ---
-layout: page-9
+layout: author
 title: 'kategoriler'
 ---
 
@@ -13,7 +13,7 @@ title: 'kategoriler'
 ##### Malcolm Gladwell
 
 {% include yazar.html %}  
-
+{%-include yazar.html-%}  
 {:yazar}
 
 ##### Dan Ariely
