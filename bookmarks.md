@@ -16,6 +16,7 @@ last_modified_at: 2021-07-24
 | bookmarks.reviews/category/non-fiction/ |
 | calv.info/bookshelf/ |  
 | calvinrosser.com/notes/ |  
+| chomskylist.com/top100.php |
 | codymclain.com/notes |
 | colemanm.org/books/ |
 | dansilvestre.com/book-summaries/ | 
@@ -36,6 +37,7 @@ last_modified_at: 2021-07-24
 | jsilva.blog/book-summaries/ | 
 | lawsonblake.com/book-notes/ |
 | lifeclub.org/book-categories/ |
+| listmuse.com |
 | maggieappleton.com/library/ |
 | marloyonocruz.com/all-book-notes/ |
 | macwright.com/reading/ |
