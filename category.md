@@ -3,17 +3,16 @@ layout: page-9
 title: 'kategoriler'
 ---
 
-{% include toc.md class="toc1" %}  
+* TOC  
+{:toc class="toc1"}  
+
+
 
 ### yazarlar 
 
 ##### Malcolm Gladwell  
 
-{% for post in site.posts %}
-    {% if post.yazar contains 'Malcolm Gladwell' %}
-       <a href="{{ post.url }}">{{ post.title }}</a>
-    {% endif %}
-{% endfor %}
+{% include yazar.html %}  
 
 
 ##### Dan Ariely
