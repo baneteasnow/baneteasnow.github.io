@@ -106,8 +106,10 @@ a {
   text-decoration:none !important;
 }
 a:hover{
-  color: blue;
+  color: #06adf8;
   text-decoration: underline !important;
+  -webkit-text-decoration-color: #777; /* Safari */  
+  text-decoration-color: #777;
 }
 .link1 a {
   color: #06adf8;
