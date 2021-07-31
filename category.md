@@ -1,5 +1,52 @@
 ---
-layout: author
+layout: page-9
 title: 'kategoriler'
 ---
 
+```
+in progress
+```
+
+### yazarlar  
+
+##### Malcolm Gladwell  
+
+{% for post in site.posts %}
+    {% if post.yazar contains 'Malcolm Gladwell' %}
+       <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endif %}
+{% endfor %}
+
+
+##### Dan Ariely
+
+{% for post in site.posts %}
+    {% if post.yazar contains 'Dan Ariely' %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+  {% endfor %}
+
+
+### book3  
+
+{% for post in site.posts %}
+    {% if post.yil contains '2015' %}
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+  {% endfor %}
+
+
+### book2  
+
+{% for post in site.categories.book2 %}
+    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+{% endfor %}
+
+
+### book  
+
+{% for post in site.categories.book %}
+    <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+{% endfor %}
+
+<br />
