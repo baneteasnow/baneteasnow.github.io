@@ -183,15 +183,13 @@ a:hover{
   border-bottom: 0px;
 } 
 .title1 {
-   color: blue !important;
-   cursor: default !important;
-   line-height: .85;
-   background-image: linear-gradient(0deg, rgba(243, 208, 46, .5), rgba(243, 208, 46, .5)) !important;
-   background-size: 5px 5px !important;
-   background-repeat: repeat-x !important;
-   background-position: bottom !important;
+   color: #404040 !important;
+   cursor: default !important;   
+   text-decoration: underline !important;
+   -webkit-text-decoration-color: #f3cf2e; /* Safari */ 
+   text-decoration-color: #f3cf2e !important; 
+   text-decoration-thickness: 0.2em !important;
 }
-
 
 // .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;      
 
