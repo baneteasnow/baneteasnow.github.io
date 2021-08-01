@@ -43,8 +43,10 @@ body {
 
 .post-meta { text-align: right; }
 
-h2, h3, h4, h5, h6 { margin-top: 3rem; }
-.h4{
+h2, h3, h5, h6 { margin-top: 3rem; }
+
+h4{
+   margin-top: 3rem !important;
    color: #404040 !important;
    cursor: default !important;   
    text-decoration: underline !important;
