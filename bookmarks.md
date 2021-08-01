@@ -22,7 +22,7 @@ last_modified_at: 2021-07-24
 | colemanm.org/books/ |
 | dansilvestre.com/book-summaries/ | 
 | deanyeong.com/reading-notes/ |
-| dipnotski.com |
+| dipnotski.com/ |
 | doktormurat.net/okuduklarim/kitap-onerileri/ |
 | durmonski.com/category/book-summaries/ |
 | elizabethfilips.com/book-summaries |
@@ -54,6 +54,7 @@ last_modified_at: 2021-07-24
 | sergiocaredda.eu/inspiration/the-rebel-at-work-list-of-books/ |
 | sirupsen.com/books/ |  
 | sive.rs/book/ |
+| thefortunebook.club |
 | thekeypoint.org/book-reviews/book-covers/ |
 | vegankitap.com/ |
 | whatsnonfiction.com/ |
