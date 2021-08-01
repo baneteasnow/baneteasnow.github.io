@@ -22,13 +22,16 @@ body[a="dark"] { @include dark-appearance; }
 // w width:fit-content   max-width: 640px;
 html, body { background: white; }
 
-html { height: 100%; }
+html { 
+  height: 100%; 
+  font-size: 62.5%;  /* 10px */
+}
 
 body {
   color: black;
   font-family: 'EB Garamond', serif; /*system-ui, sans-serif;*/
-  font-size: 62.5%;
-  line-height: 2;
+  font-size: 1.6rem;  
+  line-height: 2; /* 16px */
   margin: 0;
   min-height: 100%;
 }
