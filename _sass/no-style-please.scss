@@ -33,7 +33,8 @@ html {
 
 body {
   color: black;
-  font-family: system-ui, sans-serif;
+  /* font-family: system-ui, sans-serif; */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
   font-size: 1.125rem; /*1.6rem;*/  
   line-height: 2; /* 16px */
   margin: 0;
@@ -132,8 +133,8 @@ a:hover{
     /* text-decoration: underline !important; */
     /* -webkit-text-decoration-color: #777; Safari */ 
     /* text-decoration-color: #777 !important; */
-    border-bottom-color: rgba(243, 208, 46, .8);
-    background-image: linear-gradient(to top, rgba(243, 208, 46, 0.8), rgba(243, 208, 46, 0.8))
+    border-bottom-color: rgba(243, 208, 46, .8) !important;
+    background-image: linear-gradient(to top, rgba(243, 208, 46, 0.8), rgba(243, 208, 46, 0.8)) !important;
 }
 
 .link11 a { /* link1 - original code */
