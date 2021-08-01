@@ -185,10 +185,10 @@ a:hover{
 .title1 { /* home & archive {{ site.title }} */
    color: black;
    cursor: default !important;   
-   /* text-decoration: underline !important; */
-   /* -webkit-text-decoration-color: #f3cf2e; */ /* Safari */ 
-   /* text-decoration-color: #f3cf2e !important; */
-   /* text-decoration-thickness: 0.2rem !important; */ 
+   text-decoration: underline !important; 
+   -webkit-text-decoration-color: #f3cf2e;  /* Safari */ 
+   text-decoration-color: #f3cf2e !important; 
+   text-decoration-thickness: 2px !important; 
 }
 
 // .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;      
