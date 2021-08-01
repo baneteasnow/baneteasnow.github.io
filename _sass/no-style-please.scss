@@ -110,15 +110,15 @@ img {
 }
 
 a {
-  color: black;
+  color: #404040;
   text-decoration:none !important;
 }
 a:hover{
-  color: #06adf8; /* alternative light blue #add8e6 */
-  text-decoration: underline !important;
-  -webkit-text-decoration-color: #777; /* Safari */  
-  text-decoration-color: #777 !important;
-  text-decoration-thickness: 0.01em !important;
+  color: #777777; /* 06adf8 alternative light blue #add8e6 */
+  text-decoration: none !important; /* underline */ 
+  /* -webkit-text-decoration-color: #777;  Safari */  
+  /* text-decoration-color: #777 !important; */ 
+  /* text-decoration-thickness: 0.01em !important; */ 
 }
 .link1 a {
     /*color: #06adf8; */
