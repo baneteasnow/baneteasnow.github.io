@@ -43,17 +43,7 @@ body {
 
 .post-meta { text-align: right; }
 
-h2, h3, h5, h6 { margin-top: 3rem; }
-
-h4{
-   margin-top: 3rem !important;
-   color: #404040 !important;
-   cursor: default !important;   
-   text-decoration: underline !important;
-   -webkit-text-decoration-color: #f3cf2e; /* Safari */ 
-   text-decoration-color: #f3cf2e !important; 
-   text-decoration-thickness: 0.2em !important;
-}
+h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
 hr { margin: 2rem 0; }
 
@@ -199,6 +189,7 @@ a:hover{
    -webkit-text-decoration-color: #f3cf2e; /* Safari */ 
    text-decoration-color: #f3cf2e !important; 
    text-decoration-thickness: 0.2em !important;
+  border-bottom: 1px solid #404040;
 }
 
 // .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;      
