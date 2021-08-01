@@ -183,7 +183,13 @@ a:hover{
   border-bottom: 0px;
 } 
 .title1 {
-   color: #cdf8e8 !important;
+   color: blue !important;
+   cursor: default !important;
+   line-height: .85;
+   background-image: linear-gradient(0deg, rgba(243, 208, 46, .5), rgba(243, 208, 46, .5)) !important;
+   background-size: 5px 5px !important;
+   background-repeat: repeat-x !important;
+   background-position: bottom !important;
 }
 
 
