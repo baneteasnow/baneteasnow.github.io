@@ -186,8 +186,8 @@ a:hover{
    color: black;
    cursor: default !important;   
    text-decoration: underline !important; 
-   -webkit-text-decoration-color: #ffff66; /*#f3cf2e #f3d02e*/  /* Safari */ 
-   text-decoration-color: #ffff66 !important; 
+   -webkit-text-decoration-color: rgba(255, 255, 102, 0.6); /*#f3cf2e #f3d02e*/  /* Safari */ /* #ffff66 */
+   text-decoration-color: rgba(255, 255, 102, 0.6) !important; 
    text-decoration-thickness: 5px !important; 
 }
 
