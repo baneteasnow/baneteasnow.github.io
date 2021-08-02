@@ -6,7 +6,7 @@ layout: default
 <h4>{{ page.title }}</h4>
 
 {{ content }}
-<span style="text-align: left; font-size: 85%; color: #777; cursor: default;">{%-include icon1.html-%}
-  son güncelleme: {{ page.last_modified_at | date: "%B %-d, %Y" }} &nbsp; </span>
+
+{%-include icon1.html-%}
+{%-include time-manual.html-%}
 {%-include footer-links1.html-%}
-  
