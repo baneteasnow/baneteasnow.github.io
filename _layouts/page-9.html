@@ -6,8 +6,6 @@ layout: default
 <h4>{{ page.title }}</h4>
 
 {{ content }}
-
-  <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">{%-include footer-links1.html-%}
-    son güncelleme: {{ page.last_modified_at | date: "%B %-d, %Y" }} &nbsp;
-</span> 
- {%-include footer-links1.html-%}
+<span style="text-align: left; font-size: 85%; color: #777; cursor: default;">{%-include footer-links1.html-%}
+  son güncelleme: {{ page.last_modified_at | date: "%B %-d, %Y" }} &nbsp;</span>
+{%-include footer-links1.html-%}
