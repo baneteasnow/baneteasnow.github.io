@@ -82,15 +82,12 @@ layout: default
 </div>
  -->
 <br />
-<span style="text-align: left; font-size: 85%; color: #777;">
-    🌿 {% if page.rereading != "#yeniden" %}
+<span style="text-align: left; font-size: 85%; color: #777;">{%-include icon1.html-%}
+  {% if page.rereading != "#yeniden" %}
   <span style="cursor: defauklt;">2013-2021</span>
 {% else %}
   <span class="link1"><a href="/reread.html">{{ page.rereading }}</a></span>
 {% endif %} &nbsp;
 </span>
-<span class="link1" style="text-align: right; float: right; font-size: 85%;">
-             <a href="/now.html">şimdi</a> &nbsp;
-             <a href='/bookshelf.html'>kitaplık</a> &nbsp;
-             <a href='/posts.html'>thebookish.de</a>
-                                </span>
+{%-include footer-links1.html-%}
+
