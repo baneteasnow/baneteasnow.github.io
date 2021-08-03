@@ -8,9 +8,8 @@ layout: default
 
 {{ content }}
 
-  <span style="text-align: left; font-size: 85%; color: #777; cursor: default;">
-   🌿 son güncelleme: {{ "now" | date: "%B %-d, %Y" }} &nbsp; 
-</span> 
+{%-include icon1.html-%}
+{%-include time-now.html-%}
  <span class="link1" style="text-align: right; float: right; font-size: 85%;">
          <a href="/bookmarks.html">bookmarks</a> &nbsp;
          <a href="/summary.html">140karakter (tl;dr)</a> &nbsp;
