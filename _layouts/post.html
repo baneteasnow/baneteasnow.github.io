@@ -21,67 +21,15 @@ layout: default
 </article>
 <br />
 
-<img src="{{ page.image }}" width="20%" height="20%" align="right" float="right" alt="{{ page.kitap }}" title="{{ page.kitap }}" style="margin:10px 0 10px 15px"/>
-<span style="font-size: 100%; color: #777;">
-    {{ page.kitap }}
-      <br />
-{% if page.tr != "" and page.tr != nil and page.tr != "-" %}
-   {{ page.tr }} <br />
-{% else %}
-    <div style="visibility: hidden;"></div>
-{% endif %}
-    {{ page.yazar }}
-      <br />
-    {{ page.yil }}
-      <br />
-    {{ page.sayfa }} sayfa
-      <br />
-    <!--{% if page.rereading != "#yeniden" %}
-    <div style="visibility: hidden;"></div>
-{% else %}
-    <a href="/worth-rereading.html">{{ page.rereading }}</a><br />
-{% endif %}-->
-    </span>
-         <div class="link1">  
-           <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
-          </div>
-           {% if page.eng %}
-   <div class="link1">  
-     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">eng</a>
-  </div>
-  {% else %}
-    <div style="visibility: hidden;"></div>
-{% endif %}
-    <span class="link1" style="font-size: 100%;">
-     <a href="{{ page.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads">goodreads</a>
-    </span>
+{%-include post-footer.html-%}
+
   <div style="clear: both;"></div>
 <br />
-<!--
-<div>
-  {% if page.previous.url %}
-    <a href="{{page.previous.url}}"><i class="fas fa-long-arrow-alt-left"></i></a>
-  {% endif %}
-  {% if page.next.url %}
-    <a href="{{page.next.url}}"><i class="fas fa-long-arrow-alt-right"></i></a>
-  {% endif %}
-</div>
--->
-<!-- 
-<em> <span style="font-size: 85%; cursor: default; color: #777;">#{{page.category | join: ' #'}} </span> </em>
-<br />  
- -->
-<!-- 
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
-</div>
- -->
-<br />
+
+
+<!--{%-include post-tag.html-%}-->
+
+<!--{%-include post-nav.html-%}-->
 
 <!--<span style="text-align: left; font-size: 85%; color: #777;">{%-include icon1.html-%}
   {% if page.rereading != "#yeniden" %}
@@ -91,6 +39,7 @@ layout: default
 {% endif %} &nbsp;
 </span>-->
 
+<br />
 {%-include icon1.html-%}
 {%-include year.html-%}
 {%-include footer-links1.html-%}
