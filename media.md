@@ -21,7 +21,7 @@ Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu
 
 Adam Grant  
 2016  
-[TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="the-paradox-of-choice"></a>
@@ -41,7 +41,7 @@ Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan 
 
 Barry Schwartz  
 2005  
-[TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="sleep-is-your-superpower"></a> 
@@ -61,7 +61,7 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 
 Matthew Walker  
 2019  
-[TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 ### Belgesel
@@ -77,7 +77,7 @@ Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, ins
 
 2020  
 94 dk.  
-[imdb](https://www.imdb.com/title/tt11464826/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt11464826/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="terms-and-conditions-may-apply"></a>
@@ -89,7 +89,7 @@ Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaları
 
 2013  
 80 dk.   
-[imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="minimalism"></a>
@@ -99,7 +99,7 @@ The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Ni
 
 2015  
 79 dk.  
-[imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="food-inc"></a> 
@@ -111,7 +111,7 @@ Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda ür
 
 2008  
 94 dk.  
-[imdb](https://www.imdb.com/title/tt1286537/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt1286537/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="the-true-cost"></a> 
@@ -123,7 +123,7 @@ Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 
 2015  
 92 dk.  
-[imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="forks-over-knives"></a> 
@@ -143,7 +143,7 @@ Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak iç
 
 2011  
 96 dk.  
-[imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="food-fighter"></a>
@@ -157,7 +157,7 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 
 2018  
 87 dk.  
-[imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="the-inventor"></a> 
@@ -179,7 +179,7 @@ Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Car
 
 2019  
 119 dk.  
-[imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="cowspiracy"></a> 
@@ -199,7 +199,7 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 
 2014  
 90 dk.  
-[imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="the-september-issue"></a> 
@@ -213,7 +213,7 @@ Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına deva
 
 2009  
 90 dk.  
-[imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="the-minimalists"></a> 
@@ -239,7 +239,7 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 
 2021  
 53 dk.  
-[imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="take-your-pills"></a> 
@@ -253,7 +253,7 @@ Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Bel
 
 2018  
 87 dk.  
-[imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="what-the-health"></a> 
@@ -269,7 +269,7 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 
 2017  
 97 dk.  
-[imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 
 <a name="seaspiracy"></a> 
@@ -285,7 +285,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 
 2021  
 79 dk.  
-[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}   
+[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}   
 
 
 <a name="earthlings"></a> 
@@ -309,6 +309,6 @@ Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri.
 
 2005  
 85 dk.  
-[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="color: #06adf8"}  
+[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important; color: #06adf8"}  
 
 <!-- {% include toc.md class="toc1" %} -->
