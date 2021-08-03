@@ -15,6 +15,7 @@ last_modified_at: 2021-07-24
 | animalperson.net/category/books/ |
 | aworkinglibrary.com/reading/ |
 | blas.com/library/ |
+| bryanbraun.com/books/ |
 | calv.info/bookshelf/ |  
 | calvinrosser.com/notes/ |  
 | chomskylist.com/top100.php |
