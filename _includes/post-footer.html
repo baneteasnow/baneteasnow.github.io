@@ -1,0 +1,34 @@
+<img src="{{ page.image }}" width="20%" height="20%" align="right" float="right" alt="{{ page.kitap }}" title="{{ page.kitap }}" style="margin:10px 0 10px 15px"/>
+<span style="font-size: 100%; color: #777;">
+    {{ page.kitap }}
+      <br />
+{% if page.tr != "" and page.tr != nil and page.tr != "-" %}
+   {{ page.tr }} <br />
+{% else %}
+    <div style="visibility: hidden;"></div>
+{% endif %}
+    {{ page.yazar }}
+      <br />
+    {{ page.yil }}
+      <br />
+    {{ page.sayfa }} sayfa
+      <br />
+    <!--{% if page.rereading != "#yeniden" %}
+    <div style="visibility: hidden;"></div>
+{% else %}
+    <a href="/worth-rereading.html">{{ page.rereading }}</a><br />
+{% endif %}-->
+    </span>
+         <div class="link1">  
+           <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
+          </div>
+           {% if page.eng %}
+   <div class="link1">  
+     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">eng</a>
+  </div>
+  {% else %}
+    <div style="visibility: hidden;"></div>
+{% endif %}
+    <span class="link1" style="font-size: 100%;">
+     <a href="{{ page.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads">goodreads</a>
+    </span>
