@@ -21,7 +21,7 @@ Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu
 
 Adam Grant  
 2016  
-<div class="link1">[TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow"}</div>  
+[TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="-webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 
 
 <a name="the-paradox-of-choice"></a>
