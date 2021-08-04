@@ -54,7 +54,12 @@ p { margin: 1rem 0; }
 .cat1 {
   margin: 0.8rem;
 }
-
+.cat2 {
+  text-decoration: underline !important; 
+  -webkit-text-decoration-color: rgba(255, 255, 102, 0.5) !important; 
+  text-decoration-color: rgba(255, 255, 102, 0.5) !important; 
+  text-decoration-thickness: 6px !important;
+}
 .toc1 ul { list-style-type: none !important; }
 .toc1 li { list-style-type: none !important; margin: 0; padding: 0; }
 
