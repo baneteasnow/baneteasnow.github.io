@@ -1,8 +1,8 @@
 {% for i in (1..8) %}
 {% if i <= include.rating %}
-{% assign stars = stars | append: '&#92665;' %}
+{% assign stars = stars | append: '▪️' %}
 {% else %}
-{% assign stars = stars | append: '.' %}
+{% assign stars = stars | append: '▫️' %}
 {% endif %}
 {% endfor %}
 <span style="color: #777;">{{ stars }}</span>
