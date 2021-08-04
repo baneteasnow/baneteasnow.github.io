@@ -1,0 +1,8 @@
+{% for i in (1..8) %}
+{% if i == 8 %}
+{% assign stars = stars | append: '&#92665;' %}
+{% else %}
+{% assign stars = stars | append: '&#92619;' %}
+{% endif %}
+{% endfor %}
+<p class="read"><span>{{ stars }}</span></p>
