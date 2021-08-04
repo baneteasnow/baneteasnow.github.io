@@ -29,4 +29,3 @@ Sunum yaparken görseller kullanılmasının gerçek nedeni merak uyandırarak s
 
 101 Things I Learned in Business School, okuyucuya yönetim bilimi kavramlarından bazılarını giriş seviyesinde özetleyen pratik bir kaynak kitap.
 
-{% include star-rating.html rating=4 %}
