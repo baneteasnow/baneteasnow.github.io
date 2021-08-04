@@ -4,7 +4,7 @@ category: book2
 title: "Do Humankind's Best Days Lie Ahead? | Alain De Botton, Steven Pinker, Matt Ridley, Malcolm Gladwell (Kitap)"  
 kitap: "Do Humankind's Best Days Lie Ahead?: The Munk Debates"  
 tr: "Gelecek Daha Güzel Günler Mi Getirecek?"  
-yazar: "Alain De Botton, Steven Pinker, Matt Ridley, Malcolm Gladwell"  
+yazar: "Alain de Botton, Steven Pinker, Matt Ridley, Malcolm Gladwell"  
 yil: "2017"  
 sayfa: "132"  
 goodreads: "https://www.goodreads.com/book/show/29340854-do-humankind-s-best-days-lie-ahead"
@@ -78,5 +78,4 @@ Geleceğin daha güzel günler getireceğini savunan "iyimser" tarafın bahsetti
 ##### Malcolm Gladwell  
   
 Gladwell, Pinker ve Ridley'i 'Pollyanalar' olarak nitelendirerek söze başlıyor. Geçmişin daha güzel günler getirmiş olduğunu ancak geleceğin daha iyi günler getirmesinin aslında dünyanın hangi bölgesinde bulunduğunuza göre değişeceğini vurgulayarak sözlerine devam ediyor. Gelecekte 'daha farklı' bir dünyanın söz konusu olacağını belirtiyor. Pek çok alanda olumlu gelişmeler yaşanmış olsa da, bunların beraberinde olumsuzlukları da getirdiğini ekliyor. Bu duruma örnek olarak, hastalıklara ve kıtlığa daha dayanıklı ekinler üretiliyor olsa da, bu yöntemin iklim değişikliğine sebep olmasını; iletişimde yaşanan ilerlemelerin Afrika gibi bölgelerde hayatı kolaylaştırmasına rağmen, terörizm tehlikesini desteklediğini veriyor. Bu şekilde, bazı riskler azaltılırken, bazı risklerin de doğası değiştirilmiş oluyor.  
-  
   
