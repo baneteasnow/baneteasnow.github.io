@@ -226,27 +226,26 @@ a:hover{
 
 progress {
   /* style rules */
-background-color: #f3f3f3;
-border-color: #cdf8e8;
+background-color: #fff;
+border-color: #f8f8f8;
 
 }
 progress::-webkit-progress-bar {
   /* style rules */
-background-color: #f8f8f8;
-border: #cdf8e8 solid 2px;
-
+background-color: #fff;
+border: #dfdfdf solid 2px;
 
 }
 progress::-webkit-progress-value {
   /* style rules */
-background-color: #cdf8e8;
-border: #cdf8e8 solid 2px;
+background-color: #dfdfdf;
+border: #dfdfdf solid 2px;
 
 }
 progress::-moz-progress-bar {
   /* style rules */
-background-color: #f3f3f3;
-border: #cdf8e8 solid 2px;
+background-color: #fff;
+border: #dfdfdf solid 2px;
 }
 
 // .bookinforight {text-align: left; float: left; width: 50%;}
