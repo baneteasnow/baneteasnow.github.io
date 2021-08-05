@@ -1,14 +1,58 @@
 ---
-layout: page-9
+layout: default
 title: 'kategoriler'
 ---
 
-<p>// in progress //</p>
-<!--<a href="#yazarlar">yazarlar</a>-->
+<style>
+  details {
+  color: #777;
+}
 
-<!--{%-include toc.md class="toc1"-%}-->
+details > summary {
+  padding: 2px 6px;
+  width: 15em;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  list-style: none;
+}
 
-<a name="yazarlar"></a>
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #fff;
+  padding: 2px 6px;
+  margin: 0;
+}
+</style>
+
+<details>
+  <summary><a name="yazarlar"></a>
+<div class="cat2">yazarlar</div></summary>
+    <br />
+    <a name="malcolm-gladwell"></a>
+<div class="cat2">Malcolm Gladwell</div>
+{% for post in site.posts %}
+    {% if post.yazar contains 'Malcolm Gladwell' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+
+<a name="alain-de-botton"></a>
+<div class="cat2">Alain de Botton</div>
+{% for post in site.posts %}
+    {% if post.yazar contains 'Alain de Botton' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+
+</details>
+    
+    
+    <a name="yazarlar"></a>
 <div class="cat2">yazarlar</div>
 <br/>
 
