@@ -4,32 +4,26 @@ title: 'kategoriler'
 ---
 
 <a name="malcolm-gladwell"></a>
-<details>
-  <summary><div class="cat2">Malcolm Gladwell</div></summary>
-    <br />
-    
+<div class="cat2">Malcolm Gladwell</div>
 {% for post in site.posts %}
     {% if post.yazar contains 'Malcolm Gladwell' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
-  
-</details>
 <br />
 
 <a name="alain-de-botton"></a>
-<details>
-  <summary><div class="cat2">Alain de Botton</div></summary>
-  <br />
-  
+<div class="cat2">Alain de Botton</div>  
 {% for post in site.posts %}
     {% if post.yazar contains 'Alain de Botton' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
-
-</details>
 <br />
+
+<!--<details>
+  <summary></summary>
+</details>-->
 <!--<a name="book3"></a>
 <div>book3</div>
 
@@ -39,7 +33,6 @@ title: 'kategoriler'
     {% endif %}
   {% endfor %}-->
 
-
 <!--<a name="book2"></a>
 <div>book2</div>
 
@@ -47,7 +40,5 @@ title: 'kategoriler'
     <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}-->
 
-
 <br />
-
 
