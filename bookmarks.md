@@ -53,8 +53,9 @@ last_modified_at: 2021-07-24
 | samuelthomasdavies.com/book-summaries/ |
 | scott.london/reviews/index.html |
 | sergiocaredda.eu/inspiration/the-rebel-at-work-list-of-books/ |
-| sirupsen.com/books/ |  
+| sirupsen.com/books/ |
 | sive.rs/book/ |
+| sloww.co/slow-summaries/ |
 | thefortunebook.club |
 | thekeypoint.org/book-reviews/book-covers/ |
 | vegankitap.com/ |
