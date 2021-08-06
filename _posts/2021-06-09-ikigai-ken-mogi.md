@@ -5,7 +5,7 @@ last_modified_at: 2021-06-09
 published: true
 description: "'Sabah yataktan kalkma sebebi' olarak tanımlanan Ikigai'yi inceleyen kitap, kendi Ikigai'sini bulmuş kişilerin hikayelerine de yer veriyor."
 title: "Ikigai | Ken Mogi (Kitap)"
-kitap: "The Little Book of Ikigai - The Japanese Guide to Finding Your Purpose in Life"
+kitap: "The Little Book of Ikigai - The Japanese Guide to Finding Your Purpose in Life (Awakening Your Ikigai: How the Japanese Wake Up to Joy and Purpose Every Day)"
 tr: "Ikigai - Sabah Yataktan Kalkmak İçin Sebebiniz Olmalı"
 yazar: "Ken Mogi"
 yil: "2018"
