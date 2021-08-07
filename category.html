@@ -3,20 +3,28 @@ layout: page-9
 title: 'kategoriler'
 ---
 
-<div class="cat2"><a name="malcolm-gladwell">Malcolm Gladwell</a></div>
+<a name="malcolm-gladwell"></a>
+<details>
+    <summary><div class="cat2">Malcolm Gladwell</div></summary>
+    <br />
 {% for post in site.posts %}
     {% if post.yazar contains 'Malcolm Gladwell' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
+</details>
 <br />
 
-<div class="cat2"><a name="alain-de-botton">Alain de Botton</a></div>  
+<a name="alain-de-botton"></a>
+<details>
+    <summary><div class="cat2">Alain de Botton</div></summary>
+    <br />
 {% for post in site.posts %}
     {% if post.yazar contains 'Alain de Botton' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
+</details>
 <br />
 
 <!--<details>
