@@ -4,10 +4,6 @@
   .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
   .image-gallery a img {width: 100%; display: block;}
 </style>
-
-<!--     .image-gallery a {float: left; display: block; margin: 0 0 3% 3%; width: 22%; text-align: center; text-decoration: none!important;}
- -->
-
 <div class="image-gallery">
 {% for file in site.static_files %}
   {% if file.path contains include.folder %}
