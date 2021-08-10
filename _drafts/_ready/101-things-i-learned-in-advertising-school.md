@@ -12,7 +12,7 @@ last_modified_at:
 published: false
 description: ""
 posted: 2021-XX-XX
-image: "https://notes.thebookish.de/assets/new/101-things-i-learned-in-advertising-school.jpg"
+image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-advertising-school.jpg"
 ---
 
 2022-01-05-
