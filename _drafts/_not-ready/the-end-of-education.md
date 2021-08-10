@@ -12,5 +12,5 @@ last_modified_at:
 published: false
 description: ""
 posted: 2021-XX-XX
-image: "https://notes.thebookish.de/assets/new/xxx.jpg"
+image: "https://www.thebookish.de/assets/new/xxx.jpg"
 ---
