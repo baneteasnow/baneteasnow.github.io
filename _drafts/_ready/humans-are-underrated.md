@@ -12,7 +12,7 @@ last_modified_at:
 published: false
 description: ""
 posted: 2021-XX-XX
-image: "https://notes.thebookish.de/assets/new/humans-are-underrated.jpg"
+image: "https://www.thebookish.de/assets/new/humans-are-underrated.jpg"
 ---
 
 2021-09-08-
