@@ -12,7 +12,7 @@ last_modified_at:
 published: false  
 description: ""  
 posted: 2021-XX-XX  
-image: "https://notes.thebookish.de/assets/new/the-seed-underground.jpg"  
+image: "https://www.thebookish.de/assets/new/the-seed-underground.jpg"  
 ---
  
 Janisse Ray, The Seed Underground isimli kitabını herkes için ama özellikle de gençler için yazdığını belirtiyor kitabın ilk sayfalarında. Çocukluğundan beri doğaya hayran olan ve uzun süredir bahçesinde kendi ürünlerini yetiştiren Ray, tohumları 'küçücük paketlerdeki mucizeler' tanımlıyor. 1950'li yıllarda tarımda yaşanan "yeşil devrim" ile elde edilen ürün miktarı artmış olsa da hem besin değerlerinde hem de çeşitlerde azalma yaşanmıştır. Oysa, Ray'ın de ifade ettiği gibi, tarım ürünlerindeki çeşitlilik hem doğanın mirasını korumak demektir hem de her iklim şartına uygun bir çeşidin varlığı anlamına gelir. Atalık tohumların (heirloom seeds) toplanması ve paylaşılması bu mirasın korunması açısından çok önemlidir.
