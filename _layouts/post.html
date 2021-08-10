@@ -8,12 +8,6 @@ layout: default
   <p class="post-meta">
     <span style="font-size: 100%; color: #777;"> <time datetime="{{ page.date }}">{{ page.date | date: "%B %-d, %Y" }}</time> </span>
     
-    <!--<br /> 
-    {% if page.rereading != "#yeniden" %}
-    <div style="visibility: hidden;"></div>
-{% else %}
-    <a href="/worth-rereading.html">{{ page.rereading }}</a>
-{% endif %}-->
   </p>
   
   <h4>{{ page.title }}</h4>
@@ -27,22 +21,7 @@ layout: default
   <div style="clear: both;"></div>
 <br />
 
-
-<!--{%-include post-tag.html-%}-->
-
-<!--{%-include post-nav.html-%}-->
-
-<!--{% include read_time.html %}-->
-
-<!-- <span style="text-align: left; font-size: 85%; color: #777;">
-  {% if page.rereading != "#yeniden" %}
-  <span style="cursor: defauklt;">2013-2021</span>
-{% else %}
-  <span class="link1"><a href="/reread.html">{{ page.rereading }}</a></span>
-{% endif %} &nbsp;
-</span> -->
-
 <br />
 {%-include icon1.html-%}
-{%-include post-nav1.html-%}
+{%-include year.html-%}
 {%-include footer-links1.html-%}
