@@ -58,6 +58,7 @@ last_modified_at: 2021-08-06
 | sloww.co/slow-summaries/ |
 | thefortunebook.club |
 | thekeypoint.org/book-reviews/book-covers/ |
+| thomasoppong.com/reading-list/ |
 | vegankitap.com/ |
 | whatsnonfiction.com/ |
 | whatyouwilllearn.com/book/ |
