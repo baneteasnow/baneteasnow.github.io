@@ -16,6 +16,11 @@ layout: default
 </article>
 <br />
 
+    <li class="{% if item.url == page.url %}active{% endif %}">
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+
+
 {%-include post-footer.html-%}
 
   <div style="clear: both;"></div>
