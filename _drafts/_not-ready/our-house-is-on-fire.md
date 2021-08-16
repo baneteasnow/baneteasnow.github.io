@@ -12,5 +12,5 @@ last_modified_at: 2021-XX-XX
 published: false
 description: ""
 posted: 2021-XX-XX
-image: "https://notes.thebookish.de/assets/new/our-house-is-on-fire.jpg
+image: "https://notes.thebookish.de/assets/new/our-house-is-on-fire.jpg"
 ---
