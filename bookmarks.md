@@ -47,6 +47,7 @@ last_modified_at: 2021-08-06
 | musingmind.org/book-notes/ |
 | nateliason.com/notes/ |
 | nathanieldrew.com/what-i-read/ |
+| purposefocuscommitment.com/book-review/ |
 | rejoiceinhim.com/category/book-review/ |
 | rickkettner.com/category/book-summaries/ |
 | rosieleizrowice.com/book-reviews/ |
