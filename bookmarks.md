@@ -48,6 +48,7 @@ last_modified_at: 2021-08-06
 | nateliason.com/notes/ |
 | nathanieldrew.com/what-i-read/ |
 | rejoiceinhim.com/category/book-review/ |
+| rickkettner.com/category/book-summaries/ |
 | rosieleizrowice.com/book-reviews/ |
 | ryanholiday.net/reading-list/ |
 | salman.io/notes/books/ |
