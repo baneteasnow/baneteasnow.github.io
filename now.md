@@ -15,3 +15,7 @@ Our House Is on Fire: Scenes of a Family and a Planet in Crisis (2018)
 What We Talk About When We Talk About Books (2019)  
 <i>by</i> Leah Price  
 <br />
+
+Be Happy: 170 Ways to Transform Your Day (2010)  
+<i>by</i> Patrick Lindsay  
+<br />
