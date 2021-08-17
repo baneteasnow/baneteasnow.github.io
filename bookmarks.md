@@ -29,6 +29,7 @@ last_modified_at: 2021-08-06
 | elizabethfilips.com/book-summaries |
 | ethanmaurice.com/books/ |
 | gatesnotes.com/Books/ |
+| getstoryshots.com/books/category/books/ |
 | grahammann.net/book-notes/ |
 | greatesthitsblog.com |
 | isaacjeffries.com/the-book-list/ |
