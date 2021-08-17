@@ -1,0 +1,20 @@
+---
+layout: post
+category: book
+title: "Lightly | Francine Jay (Kitap)"
+kitap: "Lightly: How to Live a Simple, Serene, and Stress-free Life"
+tr: "-"
+yazar: "Francine Jay"
+yil: "2019"
+sayfa: "256"
+goodreads: "https://www.goodreads.com/book/show/40796106-lightly"
+description: ""
+last_modified_at: 202X-XX-XX
+published: false
+posted: 202X-XX-XX
+image: "https://www.thebookish.de/assets/new/lightly.jpg"
+---
+
+The Joy of Less isimli kitabın yazarı ve missminimalist.com bloğunun sahibi olan Francine Jay'ın kaleme aldığı ikinci kitap Lightly. İlk kitabına benzer şekilde Lightly de minimalist bir yaşam için ipuçları veriyor, bölüm bölüm hem yaşamın pek çok alanına hem de evdeki çeşitli bölümlere odaklanıyor.
+
+Hafif bir çanta ile seyahat etmenin keyfini çıkaran Jay, yıllar içinde mantra olarak 'Lightly'i seçer ve hayatın her alanında daha 'hafif' olmayı hedefler. Daha azla daha fazla bir yaşam elde etmek isteyenlere rehber olarak hazırladığı bu kitap aslında arada sırada ilham almak için başvurulacak bir coffee table book niteliği de taşıyor. Tek seferde bir adım atmanın önemine de dikkat çeken Jay, fazlalıklardan arındıkça stresten de arınmanın mümkün olduğuna işaret ediyor.
