@@ -7,10 +7,10 @@ yazar: "Matthew Frederick, Vikas Mehta"
 yil: "2020"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/39730422-101-things-i-learned-in-urban-design-school"
-last_modified_at:
+last_modified_at: 2021-08-25
 published: false
 description: ""
-posted: 2021-XX-XX
+posted: 2021-08-25
 image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-urban-design-school.jpg"
 ---
 
