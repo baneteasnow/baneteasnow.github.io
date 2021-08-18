@@ -1,0 +1,28 @@
+---
+layout: post
+category: book
+title: "Outliers | Malcolm Gladwell (Kitap)"
+kitap: "Outliers: The Story of Success"
+tr: "Outliers (Çizginin Dışındakiler) - Bazı İnsanlar Neden Daha Başarılı Olur?"
+yazar: "Malcolm Gladwell"
+yil: "2008"
+sayfa: "300"
+goodreads: "https://www.goodreads.com/book/show/3228917-outliers"
+last_modified_at: 2021-XX-XX
+published: false
+description: ""
+posted: 2021-XX-XX
+image: "https://www.thebookish.de/assets/new/outliers.jpg"
+---
+
+Malcolm Gladwell, Outliers isimli kitabında üstün başarı gösteren insanların hangi açılardan farklı olduğunu sorguluyor. Pek çok kişi başarılı insanların nereden geldiklerine, aldıkları eğitime, nasıl bir ailede yetiştiklerine, büyürken edindikleri kendilerine özgü deneyimlere, yaşlarına, içinde bulundukları kültüre veya bir alanda çalışmaya ne kadar vakit ayırdıklarına bakmaksızın doğrudan onların kişiliklerine odaklanıyor. Malcolm Gladwell ise kitabı boyunca başarıyı getiren etmenin bazen içinde bulunulan ortam olduğuna dair örnekler sunuyor okuyucuya.
+
+Outliers, ünlü '10000 saat kuralı' ile başlıyor. Bu kurala göre, hiç kimse herhangi bir alanda yaklaşık olarak 10000 saatlik emek ve çaba harcamadan uzman seviyesine gelemez. Doğuştan gelen yeteneklerin önemi büyük olsa da yeterince üzerlerinde çalışılmadığı takdirde hiçbir anlamı yoktur. Bir yeteneğin üzerinde çalışarak onu iyileştirmek mümkün olur. Gladwell, ayrıca bir işi severek yapmanın özünde o işin anlamlı olmasının yattığını da belirtiyor.
+
+Belli bir beceri eşiğini aştıktan sonra, kariyerinizi etkileyen sosyal beceriler, network veya tesadüfler gibi diğer faktörlerin devreye girer. Bunun en güzel örneği okulda birbirinden farklı notlarla dersleri geçen hukuk bölümü öğrencilerinin mezun olduktan sonra birbirine benzer işler bulmaları ve bu noktadan sonra kariyerlerini şekillendiren diğer faktörlerin devreye girmesidir.
+
+Yaş farkı, ay da olsa, küçük yaşlarda önemlidir. Özellikle sporda yaşınız size büyük bir avantaj sağlayabilir ya da dezavantaja dönüşebilir. Örneğin, Gladwell, Kanada'da NHL'de oynayan hokey oyuncularını incelediğinde çoğunluğun yılın ilk yarısında hatta özellikle de ilk çeyreğinde doğmuş olduklarını tespit etmiştir. Bunun nedeni de genç sporcular için takıma kabul edilmelerinin doğum günlerine göre belirlenmesi ve başlangıç günü olarak da 1 Ocak tarihinin alınmasıdır. Bu da aralık ayında doğan çocukların ocak ayında doğanlara kıyasla neredeyse bir yaş daha küçük olmaları anlamına gelir. Genç yaşlarda ay farkı ile de olsa yaş, hız ve güç bakımından bir avantajdır. Bu nedenle de yılın ilk çeyreğinde doğan çocuklar profesyonel sporcu olmaya daha yatkındırlar.
+
+Nerede ve ne zaman doğduğunuz hayatınızı şekillendiren en büyük etmenlerden biridir. Örneğin Bill Gates'in gençlik yıllarında bilgisayara erişimi vardı ve böylece 10000 saat kuralı işlemiş oldu.
+
+Gladwell, her sıra dışı üstün başarı hikayesinin aslında pek de öyle olmadığını, bunun bir algıdan kaynaklandığını ve her başarının arkasında aslında doğru zamanda doğru yerde bulunarak ortaya koyulan yoğun çabanın bulunduğunu belirterek kitabını noktalıyor.
