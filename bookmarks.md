@@ -33,6 +33,7 @@ last_modified_at: 2021-08-06
 | grahammann.net/book-notes/ |
 | greatesthitsblog.com |
 | isaacjeffries.com/the-book-list/ |
+| jayrobb.me |
 | jamesclear.com/book-summaries/ |
 | jamesstuber.com/booknotes/ |
 | jasoncollins.blog/reviews/ |
