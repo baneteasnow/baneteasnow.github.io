@@ -1,7 +1,7 @@
 ---
 layout: post  
 category: book2  
-title: "Dark Net | Jamie Bartlett (Kitap)"  
+title: "The Dark Net | Jamie Bartlett (Kitap)"  
 kitap: "The Dark Net: Inside the Digital Underworld"  
 tr: "Dark Net - İnternetin Yeraltı Dünyası "  
 yazar: "Jamie Bartlett"  
