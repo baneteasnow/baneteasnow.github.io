@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/the-bomber-mafia.jpg"
 ---
 
+2022-02-02-
+
 Sosyal psikoloji, davranışsal iktisat ve psikoloji alanına yoğunlaşan Malcolm Gladwell, The Bomber Mafia'da bu kez tarihten bir dönem seçiyor ve okuyucuyu İkinci Dünya Savaşı günlerine götürüyor. Malcolm Gladwell, Revisionist History isimli podcastinde de bu konuya yer vermiş. Diğer kitaplarında olduğu gibi bu kitabında da aslında gerçeğin görünenden farklı olduğunu anlatıyor. Kitap, ABD Ordusu Hava Kuvvetleri stratejik bombalama doktrininin geliştirildiği dönemin hemen öncesine ve 1945 yılına yani savaş zamanına odaklanıyor, Tokyo'nun Mart 1945'te Birleşik Devletler tarafından uğradığı hava saldırısını da anlatıyor.
 
 Kitapta bahsi geçen olaylar, Hava Kuvvetleri Taktik Okulu'nda eğitim alan pilotların görevlendirildikleri hava operasyonları çerçevesinde gelişiyor. Bu gruba verilen isim 'The Bomber Mafia'. Kitap, teknoloji kullanımının amacından çıkması halinde meydana gelen olayları gösteriyor.
