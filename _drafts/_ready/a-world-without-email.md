@@ -15,7 +15,7 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/a-world-without-email.jpg"
 ---
 
-2022-01-28
+2022-01-28-
 
 Cal Newport, A World Without Email isimli kitabında dijital teknolojilerin yaygınlaşması ile birlikte başta email olmak üzere Slack, Microsoft Teams gibi iş hayatında çokça kullanılan uygulamaların üretkenlik üzerindeki etkilerini tartışıyor. Kitabın ilk kısmında emailin sanılanın aksine yarardan çok zararları olduğunu açıklayan Newport, ikinci kısımda ise emailsiz bir hayata geçiş için yapılması gerekenleri sıralıyor.
 
