@@ -15,6 +15,8 @@ posted: 202X-XX-XX
 image: "https://www.thebookish.de/assets/new/the-power-of-now.jpg"
 ---
 
+2022-06-01-
+
 Günlük koşuşturmaca içinde ya geçmişte ya da gelecekte yaşayanlara şimdiki zamana dönmeleri için bir çağrı niteliğinde olan bu kitap, tüm zamanların en çok satılanları arasında.
 
 Birçok okuyucu tarafından bir kişisel gelişim kitabı olmanın çok ötesinde olarak tanımlanan Şimdi'nin Gücü, özetle ne geçmişe, ne geleceğe, yalnızca ama yalnızca şimdiye odaklanmanın yanı ani yaşamanın önemini anlatıyor.
