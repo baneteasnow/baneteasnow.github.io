@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/does-the-richness-of-the-few-benefits-us-all.jpg"
 ---
 
+2022-03-16-
+
 Sosyolog Zygmunt Bauman, "Azınlığın Zenginliği Hepimizin Çıkarına mıdır?" isimli kitabında, dünyada çoğu kişinin cevabını birebir deneyimleyerek yaşadığı bir soruyu işliyor; zenginlerle fakirler arasındaki gelir farkı ve mevcuttaki toplumsal eşitsizliğin giderek artması.
 
 Kitapta çarpıcı pek çok veriye yer veriliyor. Dünya Gelişim Ekonomisi Araştırma Enstitüsü'nün yaptığı bir çalışma 2000 yılında yetişkin nüfusun en zengin 1%'lik bölümü dünyadaki zenginliklerin 40%'ına sahipken, en zengin 10%'lük kısım dünyadaki toplam malvarlığının 85%'ini elinde bulunduruyordu. Söz konusu nüfusun daha fakir olan yarısı küresel varlıkların sadece 1%'ine sahipti. (sayfa 9) Rocard'a göre gelir ve zenginlik paylaşımının bu kadar açılması, demokrasinin tehdit altında olması ile sonuçlanabilir.
