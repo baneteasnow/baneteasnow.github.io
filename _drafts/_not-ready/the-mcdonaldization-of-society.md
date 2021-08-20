@@ -15,4 +15,6 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/the-mcdonaldization-of-society.jpg"
 ---
 
+2022-05-04-
+
 
