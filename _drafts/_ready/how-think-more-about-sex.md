@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/how-think-more-about-sex.jpg"
 ---
 
+2022-02-16-
+
 Pek çok ünlü kitaba imza atmış olan filozof Alain de Botton, How To Think More About Sex isimli kitabında toplumun cinselliğe olan yaklaşımını ele alıyor. Cinsellik pek çok kesim tarafından halen bir tabu olarak kabul ediliyor. Oysa, insan vücudunun biyolojik olarak cinsel gelişimine başladığı ergenlik ile beraber cinsellik hayatın vazgeçilmez bir parçası olarak yerini alıyor. 1960'li yıllarda Batı'da başlayan cinsel özgürleşme ile birlikte cinsellik bazı kültürlerde hayatın olağan akışı içindeki yerini alsa da, diğer kültürler için bugün bile durum bu değildir. Biyoloji iki kişi arasındaki cinsel çekimi açıklasa da, insanlar kendilerine partner seçerken sosyal normlar başta olmak üzere pek çok unsurun etkisi altında kalıyorlar. Alain de Botton, bu unsurların başında insan psikolojisinin bulunduğunu belirtiyor.
 
 How To Think More About Sex, uzun süreli ilişkiler, reddedilme, flört, romantik ilişkiler, ebeveynlerin kişinin ilerideki yaşamına etkisi gibi farklı başlıkları cinsellik açısından ele alıyor.
