@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/a-woman-makes-a-plan.jpg"
 ---
 
+2022-03-02-
+
 Başarılı bir model ve diyetisyen olan Maye Musk, 50 yılı aşkın çok yönlü bir kariyere sahip. Bir Kadın Plan Yaparsa isimli otobiyografisinde kendi hayatından kesitler sunuyor ve sayısız kere nasıl baştan başladığını anlatıyor - bir yetişkin olarak bugüne kadar 3 farklı ülkede 9 farklı şehirde yaşamış. Kitap, Maye Musk'ın hem yaşadığı olumsuzluklar karşısında nasıl yılmadan ayakta durduğunu hem de kendince çıkardığı dersleri, her güne enerjik uyandığı, fiziksel güzelliğini koruyabildiği ve başarılı olduğu kariyerini nasıl inşa ettiğini aktarıyor. Maye Musk, Elon, Kimbal, ve Tosca Musk'ın annesi olmasının yanı sıra kamuoyunda modellik kariyeri ve CoverGirl markasının yüzü olması ile tanınıyor.
 
 Musk, Kanada'lı bir anne babanın çocuğu olarak Güney Afrika'da maceralı ve hareketli bir çocukluk geçirmiş. Kendisinin Kaye adında bir ikiz kız kardeşi var. Ailesinin mottosunun 'dikkatli şekilde tehlikeli yasa' olduğunu açıklarken özellikle babasının macera düşkünü olduğunu anlatıyor. Kalabalık bir ailede yetişen Musk, erken yaşta istemeden bir evlilik yapmış ve bu evliliği devam ederken çocuklarını dünyaya getirmiş. Modelliğe ek para kazanmak için başlayan Musk, üç çocuğunun sorumluluğunu aldıktan sonra modelliği hiç bırakmamış. Olduğu yaşta görünmek istediğini fark edince 49 yaşında saçlarını boyamayı bırakmış ve gri saçları ile daha da ünlenmiş.
