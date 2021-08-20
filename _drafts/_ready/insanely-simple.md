@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/insanely-simple.jpg"
 ---
 
+2022-06-08-
+
 O Kadar Basit ki isimli kitapta reklam ajansında kreatif direktör olarak NeXT ve Apple reklamları için Steve Jobs ile yakından çalışmış olan Ken Segall Apple'ın 'yalınlık' üzerine kurulu felsefesini anlatıyor. Kitapta her bölümde Apple'i diğer firmalardan ayıran bir nitelik işleniyor. Ayrıca Segall, yeri geldikçe yıllar içinde tanık olduğu olayları da ilk ağızdan aktarıyor. Apple'daki ikinci dönem için Steve Jobs'in nasıl bir yaklaşım içinde olduğu ve elindeki tek bir fırsatla Apple'i batmaktan son anda nasıl kurtardığı da anlatılan konular arasında.
 
 Segall'in anlattığına göre, insan davranışını çok iyi çözümleyebilen Steve Jobs, konu ne olursa olsun basitliği en önemli ilke haline getirmiş ve basitliğin karşısında duran karmaşıklıktan hep kaçınmış. Apple'ın bu ilkesini taklit eden pek çok firma, sayısız denemeden sonra bu ilkenin aslında Apple markasının özünde yattığını anlamıştır. Jobs'in oluşturduğu kültür, süreçlere değil fikirlere dayanmaktadır. Az sayıda kişiden oluşan çalışma gruplarında konuyla ilgisi bulunmayan tek bir kişi bile yer almamaktadır ve bu şekilde gerektiğinde çok hızlı kararlar alınabilmekte ve son dakika değişiklikleri yapılabilmektedir. Karar verici konumundaki kişi projenin sahibi olan kişidir, bu kişinin o gruptaki en üst pozisyondaki kişi olması gerekmez.
