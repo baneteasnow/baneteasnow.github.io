@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/trading-up.jpg" 
 ---
 
+2022-02-23-
+
 Tüketici davranışlarını ve psikolojisini ele alan Trading Up bir pazarlama kitabı. Kitap, kapağında da alt başlık olarak yer alan ‘Tüketiciler neden lüks ürün ister ve şirketler bu ürünleri nasıl yaratır?’ sorusuna ABD odaklı olarak cevap arıyor.
 
 Kitabın incelediği tüketici kitlesi orta ve orta-üst olarak adlandırılan, yıllık gelir seviyesi min $50.000 olan şehirli çoğunlukla beyaz yaka işlerde çalışan kendi ayakları üzerinde durabilen dinamik ve yenilikçi kesim. Bu tüketiciler yoğun çalışma saatleri sonrasında kendilerine ve ailelerine ayırdıkları zamanı en iyi şekilde geçirmek, hatta kendilerini ve sevdiklerini biraz da 'şımartmak' istiyorlar. Trading Up kavramı ise tüketicilerin teknik, fonksiyonel ve duygusal fayda sağlayarak kendilerine 'bir çeşit lüks' sağlayacağına inandıkları olan ürünlere normalden daha fazla ödemeye hazır olmaları ile ortaya çıkmaktadır. Bu kavramla birlikte örneğin bir tüketici hayalindeki BMW marka arabayı satın almak için para biriktirirken tasarruf amacıyla günlük olarak satın aldığı meyve sebzede organik olmayanları tercih edebilir ya da lüks aracı olan bir kişi 'düşük fiyatları ile ünlü' bir mağazadan alışveriş yapabilir.
