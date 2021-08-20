@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/outliers.jpg"
 ---
 
+2022-04-27-
+
 Malcolm Gladwell, Outliers isimli kitabında üstün başarı gösteren insanların hangi açılardan farklı olduğunu sorguluyor. Pek çok kişi başarılı insanların nereden geldiklerine, aldıkları eğitime, nasıl bir ailede yetiştiklerine, büyürken edindikleri kendilerine özgü deneyimlere, yaşlarına, içinde bulundukları kültüre veya bir alanda çalışmaya ne kadar vakit ayırdıklarına bakmaksızın doğrudan onların kişiliklerine odaklanıyor. Malcolm Gladwell ise kitabı boyunca başarıyı getiren etmenin bazen içinde bulunulan ortam olduğuna dair örnekler sunuyor okuyucuya.
 
 Outliers, ünlü '10000 saat kuralı' ile başlıyor. Bu kurala göre, hiç kimse herhangi bir alanda yaklaşık olarak 10000 saatlik emek ve çaba harcamadan uzman seviyesine gelemez. Doğuştan gelen yeteneklerin önemi büyük olsa da yeterince üzerlerinde çalışılmadığı takdirde hiçbir anlamı yoktur. Bir yeteneğin üzerinde çalışarak onu iyileştirmek mümkün olur. Gladwell, ayrıca bir işi severek yapmanın özünde o işin anlamlı olmasının yattığını da belirtiyor.
