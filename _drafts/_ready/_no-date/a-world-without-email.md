@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/a-world-without-email.jpg"
 ---
 
+2022-01-28
+
 Cal Newport, A World Without Email isimli kitabında dijital teknolojilerin yaygınlaşması ile birlikte başta email olmak üzere Slack, Microsoft Teams gibi iş hayatında çokça kullanılan uygulamaların üretkenlik üzerindeki etkilerini tartışıyor. Kitabın ilk kısmında emailin sanılanın aksine yarardan çok zararları olduğunu açıklayan Newport, ikinci kısımda ise emailsiz bir hayata geçiş için yapılması gerekenleri sıralıyor.
 
 Email ve anlık mesajlaşma uygulamaları türevleri, çalışma biçimimizi değiştirdi. Bu uygulamalarda karşı tarafa mesaj göndermek çok pratiktir, alıcının meşgul olup olmaması, sizi cevaplaması için beklemeniz gerekmez. Karşıdaki kişinin cevabını beklemeden tek taraflı olarak talebimizi veya bir olay hakkındaki görüşümüzü iletmek oldukça kolaydır. Ancak, email aynı zamanda çalışanlar için bir stres kaynağına dönüştü. Karşı taraftan ulaşan mesaj, gelen kutusuna düşer ve orada okunmayı bekler. Gelen kutusunda biriken mesajlar FOMO (Fear of Missing Out) yani birşeyleri kaçırma korkusu ile sonuçlanır. Email aracılığı ile süregiden konuşmalar çok sayıda emailin gidip gelmesi ile gerçekleşir, bazen beklenilen cevap için 'yenile' butonuna defalarca basılır.
