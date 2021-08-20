@@ -15,6 +15,8 @@ posted: 20XX-XX-XX
 image: "https://www.thebookish.de/assets/new/a-repurposed-life.jpg"
 ---
 
+2022-05-25-
+
 A Life Repurposed, Avustralya'nın lider 'yemek kurtarma' yardım kuruluşu OzHarvest'ın kurucusu Ronni Kahn'in, Güney Afrika'da başlayan, oradan İsrail'e ve sonrasında Avustralya'ya uzanan ilginç hayat hikayesini anlatıyor.
 
 Kitap, Ronni Kahn'in Güney Afrika'da geçirdiği çocukluk ve ilk gençlik yıllarını anlatarak başlıyor. Kitabın ilk kısmı, 1950'li yıllarda Güney Afrika'daki hayat ve yaşanan olumsuzlukları yansıtıyor. Üç çocuklu 'beyaz' bir ailenin en küçüğü olan Kahn, o dönemde normalleştirdikleri günlük hayatın aslında ne kadar 'aykırı' olduğunu da anlatıyor. Johannesburg'de kendi oturdukları semtteki ailelerin lehine düzenlenmiş kurallar aslında ülkede yaşanan adaletsizliği yansıtıyor. Kendi sözleri ile o günleri şöyle aktarıyor: "Her şeyi görerek büyüdük, ama hiçbirşeyi farketmedik. Bir sistemin içinde doğduğunuzda, referans noktası olarak alabileceğiniz bir başka nokta bulunmuyor, her şeyi olduğu gibi kabul ediyorsunuz." O yıllardaki mevcut sistem insanları birbirinden ayrı tutuyordu, üstelik bunu ten rengine göre yapıyordu. Kahn, OzHarvest'i kurmadan hemen önce Güney Afrika'ya yaptığı bir seyahatin kendi üzerinde bıraktığı etkileri de kitabın ilerleyen sayfalarında anlatıyor.
