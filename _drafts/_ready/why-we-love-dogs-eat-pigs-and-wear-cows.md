@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/why-we-love-dogs-eat-pigs-and-wear-cows.jpg" 
 ---
 
+2022-02-09-
+
 İlişkiler, iletişim ve toplumsal dönüşüm alanlarında uzmanlaşmış bir psikolog olan Melanie Joy, Why We Love Dogs, Eat Pigs, and Wear Cows isimli kitabında insanların neden evlerinde çok sevdikleri evcil hayvanları ile birlikte yaşarken akşam yemeğinde et yediklerini tartışıyor. Evcil hayvan olarak köpek örneğinden ilerleyerek, köpek sahiplerinin köpeklerini adeta insanlaştırdıklarını, onlara isim verdiklerini, zaman zaman hediye aldıklarını anlatıyor. Ancak, akşam veya öğle yemeğinde tükettikleri 'et'i ise sadece bir 'yiyecek' olarak gördüklerini ve bu 'yiyeceğin' elde edilmesinin bir başka hayvanın yaşamına malolduğu gerçeğini nasıl gözardı ettiklerini açıklıyor.
 
 İnsanlar neden bazı hayvanları yiyecek olarak görürken diğer bazılarını ise evlerinde beslemeyi seçiyorlar? Melanie Joy, bu soruyu görünmez olarak nitelendirdiği ancak varlığı reddedilemez olan bir kalıplaşmış bir inanç sistemi üzerinden açıklıyor. Bu noktada 'carnism'[^1] ile ilgili teorisini paylaşıyor ve bu kavramı bizi bazı hayvanları yemeye ve diğer bazılarını ise yememeye yönlendiren inanç sistemi olarak tanımlıyor. Joy ayrıca, parçası olduğu inanç sisteminin dayatması nedeni ile bu kavramın adeta tartışılamaz hale gelmiş olduğunu da vurguluyor. Veganizm ise carnism kavramının tam zıt kutbunda yer alıyor. Hayvansal ürünlerle beslenmeyi tercih etmeyenleri tanımlayan 'vegan' terimi 1944 yılında tanımlanmış, vejetaryenlik terimi ise 19. yüzyılda ortaya çıkmış.
