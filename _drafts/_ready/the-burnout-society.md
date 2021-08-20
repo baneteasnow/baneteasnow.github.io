@@ -15,6 +15,8 @@ posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/the-burnout-society.jpg"
 ---
 
+2022-04-13-
+
 Byung-chul Han, kariyerinin büyük kısmını Almanya ve İsviçre'de geçirmiş olan Kore'li bir yazar ve felsefeci. Yorgunluk Toplumu isimli kitabında modern topluma eleştirel gözle bakarken, insanların pek çoğunun neden mutsuzluk içinde yaşamlarını sürdürdüğünü de anlamaya çalışıyor.
 
 Han, toplumun insan vücudunun bağışıklık sistemine paralel bir dille hareket ettiğini belirterek başlıyor kitabına, kendi ve diğerleri olarak yapılan ayrımın tanıdık ve tanıdık olmayan olarak sürdüğünü anlatıyor. Bu bakış açısının politikada olan karşılığı ise istenmeyen bir olayla karşılaşıldığı anda savunmaya geçmek ve tetikte kalmak olduğunu aktarıyor ve buna örnek olarak da Soğuk Savaş yıllarını ve kullanılan dili veriyor. Ancak Han, 21.yüzyılda bu bakış açısının da değiştiğini vurguluyor. Buna göre, günümüzdeki tehditler dışarıdan değil tam tersine artık toplumun kendi içinden geliyor. Geçmişte politikalar olasılıklar ve olası tehditler üzerine şekillendirilirken artık kullanılan dil 'yapabilir, edebilir'e evrildi. Yasaklamalar ve kanunlar yerlerini motivasyona ve inisiyatif alabilmeye bıraktı.
