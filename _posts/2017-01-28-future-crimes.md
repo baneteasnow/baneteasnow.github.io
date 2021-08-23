@@ -8,7 +8,7 @@ yazar: "Marc Goodman"
 yil: "2016"  
 sayfa: "632"  
 goodreads: "https://www.goodreads.com/book/show/22318398-future-crimes"
-description: "Geleceğin Suçları,  yakın geçmişte yaşanan siber suc ve teror niteligindeki pek cok olayi mercek altina alarak ileri teknolojilerin güvenlik üzerine etkilerini inceliyor."
+description: "Geleceğin Suçları, yakın geçmişte yaşanan siber suc ve terör niteliğindeki pek çok olayı mercek altına alarak ileri teknolojilerin güvenlik üzerine etkilerini inceliyor."
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-01-28
