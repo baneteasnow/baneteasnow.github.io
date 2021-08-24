@@ -8,13 +8,11 @@ yil: "2020"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/39730422-101-things-i-learned-in-urban-design-school"
 last_modified_at: 2021-08-25
-published: false
-description: ""
+published: true
+description: "101 Things I Learned in Urban Design School, şehir planlama ile ilgili temel kavramları ele alıyor."
 posted: 2021-08-25
 image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-urban-design-school.jpg"
 ---
-
-2021-08-25-
 
 101 Things I Learned in Urban Design School, şehir planlama ile ilgili temel kavramları ele alıyor. Başlıklardan bazıları uygulamaya yönelik tasarım ilkelerini içerirken bazıları da problem çözmeye yönelik olarak yaratıcı ve pratik fikirler veriyor.
 
