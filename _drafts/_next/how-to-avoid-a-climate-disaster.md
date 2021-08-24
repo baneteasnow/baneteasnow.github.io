@@ -10,7 +10,7 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/52275335-how-to-avoid-a-climate-disaster"
 last_modified_at:
 published: false
-description: ""
+description: "Bill Gates, How to Avoid a Climate Disaster isimli kitabında iklim krizini giriş düzeyinde ele alarak temel kavramlara odaklanıyor."
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/how-to-avoid-a-climate-disaster.jpg"
 ---
