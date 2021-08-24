@@ -15,3 +15,7 @@ Our House Is on Fire: Scenes of a Family and a Planet in Crisis (2018)
 What We Talk About When We Talk About Books (2019)  
 <i>by</i> Leah Price  
 <br />  
+
+Vegan Devrimi ve Hayvan Özgürlüğü (2021)  
+<i>by</i> Zülâl Kalkandelen  
+<br />
