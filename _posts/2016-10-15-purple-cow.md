@@ -3,7 +3,7 @@ layout: post
 category: book2  
 title: "Purple Cow | Seth Godin (Kitap)"  
 kitap: "Purple Cow: Transform Your Business by Being Remarkable"  
-tr: "Mor İnek - Farklılaştırarak İşinizi Dönüştürün (Genişletilmiş Baskı)"  
+tr: "Mor İnek - Farklılaştırarak İşinizi Dönüştürün"  
 yazar: "Seth Godin"  
 yil: "2017"  
 sayfa: "208"  
