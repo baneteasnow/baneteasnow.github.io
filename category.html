@@ -87,11 +87,7 @@ title: 'kategoriler'
 <a name="psychology-sociology-philosophy"></a>
 <div class="link1"><a href="#psychology-sociology-philosophy">psikoloji + sosyoloji + felsefe</a></div>
     {% for post in site.posts %}
-        {% if page.tag == 'psikoloji' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
-        {% elsif page.tag == 'felsefe' %}
-        <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
-        {% else %}
+        {% if post.tag contains 'psikoloji' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
         {% endif %}
     {% endfor %}
