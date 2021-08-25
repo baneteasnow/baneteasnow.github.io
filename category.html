@@ -7,7 +7,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#vegan">veganlık</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'veganlık' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -16,7 +16,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#health">sağlık</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'sağlık' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -28,7 +28,7 @@ title: 'kategoriler'
           post.tag == 'motivasyon' or 
           post.tag == 'moda' or
           post.tag == 'seyahat' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -37,7 +37,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#minimalism">minimalizm</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'minimalizm' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -47,7 +47,7 @@ title: 'kategoriler'
 {% for post in site.posts %}
     {% if post.tag == 'pazarlama' or
           post.tag == 'reklam' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -59,7 +59,7 @@ title: 'kategoriler'
           post.tag == 'dijital kültür' or
           post.tag == 'gelecek' or
           post.tag == 'sosyal medya' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -69,7 +69,7 @@ title: 'kategoriler'
 {% for post in site.posts %}
     {% if post.tag == 'biyografi' or
           post.tag == 'marka profili' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -78,7 +78,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#work">çalışma yaşamı</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'çalışma yaşamı' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -87,7 +87,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#behavioural-economics">davranışsal iktisat</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'davranışsal iktisat' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -96,7 +96,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#economics">ekonomi</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'ekonomi' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
@@ -107,7 +107,7 @@ title: 'kategoriler'
         {% if post.tag == 'psikoloji' or
               post.tag == 'felsefe' or
               post.tag == 'sosyoloji' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
         {% endif %}
     {% endfor %}
     <br />
@@ -116,7 +116,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#other">diğer</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'diğer' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
