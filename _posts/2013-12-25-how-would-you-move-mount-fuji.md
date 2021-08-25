@@ -12,6 +12,7 @@ description: "Fuji Dağı'nı Nasıl Taşırsınız, bir dönem oldukça popüle
 published: true
 last_modified_at: 2021-07-12
 posted: 2013-12-25
+tag: "çalışma yaşamı"
 image: "https://www.thebookish.de/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 
