@@ -12,6 +12,7 @@ description: "Contagious, herhangi bir şeyin tutulmasını ve kısa sürede pop
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-09-19
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/contagious.jpg"
 eng: "Jonah Berger is a marketing professor at the Wharton School. His book 'Contagious: Why Things Catch On' is about why some themes or ideas go viral, while others don't. He is explaining the concept of contagious in six principles (STEPPS). 
 Social Currency 
@@ -46,6 +47,3 @@ Duygu Önem verdiğimizde paylaşırız.
 Aleni Görünmek için yapılan büyümek için yapılır.  
 Pratik Değer Kullanabileceğiniz haber, yararlı şeyler paylaşılır.  
 Hikayeler Enformasyon, boş gevezelik kisvesi altında seyahat eder.  
-  
-  
-  
