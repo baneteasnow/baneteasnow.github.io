@@ -12,6 +12,7 @@ description: "Beşinci Disiplin, öğrenen örgütleri inceliyor"
 published: true
 last_modified_at: 2021-07-12
 posted: 2014-11-26
+tag: "çalışma yaşamı"
 image: "https://www.thebookish.de/assets/old/the-fifth-discipline.jpg"
 ---
 
