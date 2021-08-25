@@ -93,6 +93,15 @@ title: 'kategoriler'
     {% endfor %}
     <br />
 
+<a name="xxx"></a>
+<div class="link1"><a href="#xxx">xxx</a></div>
+    {% for post in site.posts %}
+        {% if post.tag contains 'psikoloji' or 'felsefe' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+        {% endif %}
+    {% endfor %}
+    <br />
+
 <a name="other"></a>
 <div class="link1"><a href="#other">diğer</a></div>
 {% for post in site.posts %}
