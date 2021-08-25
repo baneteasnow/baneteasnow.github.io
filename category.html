@@ -112,10 +112,10 @@ title: 'kategoriler'
     {% endfor %}
     <br />
 
-<a name="other"></a>
-<div class="link1"><a href="#other">diğer</a></div>
+<a name="crowdsourcing"></a>
+<div class="link1"><a href="#crowdsourcing">crowdsourcing</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'diğer' %}
+    {% if post.tag contains 'crowdsourcing' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
