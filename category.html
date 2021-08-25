@@ -4,18 +4,21 @@ title: 'kategoriler'
 ---
 
 <a name="vegan"></a>
-<div class="link1"><a href="#vegan">veganlık</a></div>
+<div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'veganlık' %}
+    {% if post.tag == 'veganlık' 
+          post.tag == 'hayvan hakları' 
+          post.tag == 'etik' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
 
 <a name="health"></a>
-<div class="link1"><a href="#health">sağlık</a></div>
+<div class="link1"><a href="#health">sağlık + beslenme</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'sağlık' %}
+    {% if post.tag == 'sağlık' or
+          post.tag == 'beslenme' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -32,8 +35,20 @@ title: 'kategoriler'
 {% endfor %}
     <br />
 
+<a name="planning"></a>
+<div class="link1"><a href="#planning">öğrenmeyi öğrenmek + üretkenlik ve teknoloji + yazmak ve yaratıcılık + zaman planlaması</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'öğrenmeyi öğrenmek' or 
+          post.tag == 'üretkenlik ve teknoloji' or
+          post.tag == 'yazmak ve yaratıcılık' or
+          post.tag == 'zaman planlaması' %}      
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
 <a name="fashion"></a>
-<div class="link1"><a href="#fashion">moda + tasarım </a></div>
+<div class="link1"><a href="#fashion">moda + tasarım</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'moda' or 
           post.tag == 'tasarım' %}      
@@ -95,11 +110,25 @@ title: 'kategoriler'
 {% endfor %}
     <br />
 
-<a name="technology"></a>
-<div class="link1"><a href="#technology">dijital kültür + sosyal medya</a></div>
+<a name="science"></a>
+<div class="link1"><a href="#science">fen bilimleri + küresel ısınma + sıfır atık yaşam + sürdürülebilirlik + permakültür</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'fen bilimleri' or
+          post.tag == 'küresel ısınma' or
+          post.tag == 'sıfır atık yaşam' or
+          post.tag == 'sürdürülebilirlik' or
+          post.tag == 'permakültür' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="media"></a>
+<div class="link1"><a href="#media">dijital kültür + sosyal medya + medya</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'dijital kültür' or
-          post.tag == 'sosyal medya' %}
+          post.tag == 'sosyal medya' or
+          post.tag == 'medya' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
