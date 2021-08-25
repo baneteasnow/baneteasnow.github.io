@@ -12,6 +12,7 @@ description: "Kitap, iş hayatının farklı yönlerine göndermeler yapıyor ve
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-06-27
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/hello-laziness.jpg"
 ---
 
