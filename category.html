@@ -4,7 +4,7 @@ title: 'kategoriler'
 ---
 
 <a name="vegan"></a>
-   <div class="link1">sağlık, beslenme, hayat tarzı olarak veganlık</div>
+<div class="link1"><a href="vegan">sağlık, beslenme, hayat tarzı olarak veganlık</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'veganlık' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
@@ -75,10 +75,10 @@ title: 'kategoriler'
 {% endfor %}
     <br />
 
-<a name="psychology-sociology"></a>
+<a name="psychology-sociology-philosophy"></a>
    <div class="cat2">psikoloji + sosyoloji + kültür</div>
 {% for post in site.posts %}
-    {% if post.tag contains 'psikoloji sosyoloji' %}
+    {% if post.tag contains 'psikoloji sosyoloji felsefe' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
