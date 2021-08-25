@@ -12,6 +12,7 @@ description: "What The Dog Saw, Malcolm Gladwell'in 1996 ve 2006 yılları aras�
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-09-09
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/what-the-dog-saw.jpg"
 ---
 
@@ -82,5 +83,3 @@ Yetenek Efsanesi - Zeki İnsanları Gözümüzde Mi Büyütüyoruz? (sayfa 381) 
 Yeni İletişim Ağları - İş Görüşmeleri Bize Gerçekte Neler Anlatıyor? (sayfa 399) (29.05.2000)  
   
 Gladwell, bu makalesinde iş görüşmelerinde kullanılan soruları ve aday hakkında mülakatçının izlenimlerini sorguluyor. Aynı zamanda bir insan kaynakları danışmanından kendisine iş görüşmesinde sorulan soruları sormasını ve cevaplarını değerlendirmesini istiyor.  
-  
- 
