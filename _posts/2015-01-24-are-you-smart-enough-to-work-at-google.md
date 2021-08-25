@@ -12,6 +12,7 @@ description: "Google'da Çalışacak Kadar Akıllı Mısınız, Google mülakatl
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-01-24
+tag: "çalışma yaşamı"
 image: "https://www.thebookish.de/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 
@@ -43,6 +44,4 @@ Kitapta yer alan başlıklardan bazıları:
 - Algoritma soruları (sayfa 123)  
 - Mülakatta beyaz tahtayı kullanmak zorunda kalmak (sayfa 129)  
 - Tahmin soruları için varsayımlar hangi noktada devreye girer? (sayfa 144)  
-  
-
   
