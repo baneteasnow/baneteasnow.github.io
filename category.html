@@ -96,7 +96,8 @@ title: 'kategoriler'
 <a name="xxx"></a>
 <div class="link1"><a href="#xxx">yyy</a></div>
     {% for post in site.posts %}
-        {% if post.tag contains 'psikoloji', 'felsefe' %}
+        {% if post.tag == 'psikoloji' or
+              post.tag == 'felsefe' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
         {% endif %}
     {% endfor %}
