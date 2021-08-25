@@ -15,10 +15,11 @@ title: 'kategoriler'
     <br />
 
 <a name="health"></a>
-<div class="link1"><a href="#health">sağlık + beslenme</a></div>
+<div class="link1"><a href="#health">sağlık + beslenme + tıp</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'sağlık' or
-          post.tag == 'beslenme' %}
+          post.tag == 'beslenme' 
+          post.tag == 'tıp' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
