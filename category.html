@@ -22,12 +22,22 @@ title: 'kategoriler'
     <br />
 
 <a name="motivation"></a>
-<div class="link1"><a href="#motivation">lifestyle + motivasyon + moda + seyahat</a></div>
+<div class="link1"><a href="#motivation">lifestyle + motivasyon + seyahat</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'lifestyle' or
           post.tag == 'motivasyon' or 
-          post.tag == 'moda' or
           post.tag == 'seyahat' %}      
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="fashion"></a>
+<div class="link1"><a href="#fashion">moda + tasarım + endüstriyel dizayn</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'moda' or
+          post.tag == 'tasarım' or 
+          post.tag == 'endüstriyel dizayn' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -43,10 +53,20 @@ title: 'kategoriler'
     <br />
 
 <a name="marketing"></a>
-<div class="link1"><a href="#marketing">pazarlama + reklam</a></div>
+<div class="link1"><a href="#marketing">pazarlama + reklam + yönetim</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'pazarlama' or
-          post.tag == 'reklam' %}
+          post.tag == 'reklam' or
+          post.tag == 'yönetim' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="consumer"></a>
+<div class="link1"><a href="#consumer-behaviour">tüketici davranışları</a></div>
+{% for post in site.posts %}
+    {% if post.tag contains 'tüketici davranışları' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -75,9 +95,11 @@ title: 'kategoriler'
     <br />
 
 <a name="work"></a>
-<div class="link1"><a href="#work">çalışma yaşamı</a></div>
+<div class="link1"><a href="#work">çalışma yaşamı + kariyer + girişimcilik</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'çalışma yaşamı' %}
+    {% if post.tag == 'çalışma yaşamı' or
+          post.tag == 'kariyer' or
+          post.tag == 'girişimcilik' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -101,8 +123,8 @@ title: 'kategoriler'
 {% endfor %}
     <br />
 
-<a name="psychology"></a>
-<div class="link1"><a href="#psychology-sociology-philosophy">psikoloji + sosyoloji + felsefe + sosyal psikoloji + sosyal bilimler</a></div>
+<a name="social"></a>
+<div class="link1"><a href="#social">psikoloji + sosyoloji + felsefe + sosyal psikoloji + sosyal bilimler</a></div>
     {% for post in site.posts %}
         {% if post.tag == 'psikoloji' or
               post.tag == 'felsefe' or
