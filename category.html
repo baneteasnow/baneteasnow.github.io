@@ -33,11 +33,21 @@ title: 'kategoriler'
     <br />
 
 <a name="fashion"></a>
-<div class="link1"><a href="#fashion">moda + tasarım + endüstriyel dizayn</a></div>
+<div class="link1"><a href="#fashion">moda + tasarım </a></div>
 {% for post in site.posts %}
-    {% if post.tag == 'moda' or
-          post.tag == 'tasarım' or 
-          post.tag == 'endüstriyel dizayn' %}      
+    {% if post.tag == 'moda' or 
+          post.tag == 'tasarım' %}      
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="architecture"></a>
+<div class="link1"><a href="#architecture">mimarlık + mühendislik + endüstriyel tasarım</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'mimarlık' or
+          post.tag == 'mühendislik' or 
+          post.tag == 'endüstriyel tasarım' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -73,11 +83,22 @@ title: 'kategoriler'
     <br />
 
 <a name="technology"></a>
-<div class="link1"><a href="#technology">teknoloji + dijital kültür + sosyal medya + gelecek</a></div>
+<div class="link1"><a href="#technology">teknoloji + gelecek + yapay zeka + siber güvenlik + bilgisayar bilimi</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'teknoloji' or
-          post.tag == 'dijital kültür' or
+          post.tag == 'yapay zeka' or
           post.tag == 'gelecek' or
+          post.tag == 'bilgisayar bilimi' or
+          post.tag == 'siber güvenlik' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="technology"></a>
+<div class="link1"><a href="#technology">dijital kültür + sosyal medya</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'dijital kültür' or
           post.tag == 'sosyal medya' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
