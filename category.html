@@ -12,6 +12,15 @@ title: 'kategoriler'
 {% endfor %}
     <br />
 
+<a name="health"></a>
+<div class="link1"><a href="#health">sağlık</a></div>
+{% for post in site.posts %}
+    {% if post.tag contains 'sağlık' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
 <a name="motivation"></a>
 <div class="link1"><a href="#motivation">lifestyle + motivasyon</a></div>
 {% for post in site.posts %}
