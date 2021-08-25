@@ -3,7 +3,97 @@ layout: page-9
 title: 'kategoriler'
 ---
 
-<a name="malcolm-gladwell"></a>
+<a name="vegan"></a>
+   <div class="cat2">sağlık, beslenme, hayat tarzı olarak veganlık</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'veganlık' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="motivation"></a>
+   <div class="cat2">lifestyle + motivasyon</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'motivasyon' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="minimalism"></a>
+   <div class="cat2">minimalizm</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'minimalizm' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="marketing"></a>
+   <div class="cat2">pazarlama + reklam</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'pazarlama' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="technology"></a>
+   <div class="cat2">teknoloji + dijital ekonomi + gelecek</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'teknoloji' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="profile"></a>
+   <div class="cat2">otobiyografi, biyografi, marka profili</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'profil' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="work"></a>
+   <div class="cat2">çalışmak</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'çalışmak' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="behavioural-economics"></a>
+   <div class="cat2">davranışsal iktisat</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'davranışsal iktisat' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="psychology-sociology"></a>
+   <div class="cat2">psikoloji + sosyoloji + kültür</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'psikoloji sosyoloji' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="other"></a>
+   <div class="cat2">diğer</div>
+{% for post in site.posts %}
+    {% if post.tag contains 'diğer' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<!--<a name="malcolm-gladwell"></a>
 <details open>
     <summary><div class="cat2">Malcolm Gladwell</div></summary>
 {% for post in site.posts %}
@@ -23,7 +113,7 @@ title: 'kategoriler'
     {% endif %}
 {% endfor %}
 </details>
-    <br />
+    <br />-->
 
 <!--<details>
   <summary></summary>
