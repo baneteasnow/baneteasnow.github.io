@@ -12,7 +12,7 @@ description: "Çalışmanın Mutluluğu ve Sıkıntısı'nda Alain de Botton, fa
 published: true
 last_modified_at: 2021-07-12
 posted: 2013-11-30
-tag: "felsefe"
+tag: "felsefe" 
 image: "https://www.thebookish.de/assets/old/the-pleasures-and-sorrows-of-work.jpg"
 ---
 
