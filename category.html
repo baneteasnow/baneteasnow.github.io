@@ -4,7 +4,7 @@ title: 'kategoriler'
 ---
 
 <a name="vegan"></a>
-<div class="link1"><a href="#vegan">veganizm</a></div>
+<div class="link1"><a href="#vegan">veganlık</a></div>
 {% for post in site.posts %}
     {% if post.tag contains 'veganlık' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
@@ -22,9 +22,12 @@ title: 'kategoriler'
     <br />
 
 <a name="motivation"></a>
-<div class="link1"><a href="#motivation">lifestyle + motivasyon</a></div>
+<div class="link1"><a href="#motivation">lifestyle + motivasyon + moda + seyahat</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'motivasyon' %}
+    {% if post.tag == 'lifestyle' or
+          post.tag == 'motivasyon' or 
+          post.tag == 'moda' or
+          post.tag == 'seyahat' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
@@ -42,34 +45,39 @@ title: 'kategoriler'
 <a name="marketing"></a>
 <div class="link1"><a href="#marketing">pazarlama + reklam</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'pazarlama' %}
+    {% if post.tag == 'pazarlama' or
+          post.tag == 'reklam' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
 
 <a name="technology"></a>
-<div class="link1"><a href="#technology">teknoloji + dijital ekonomi + gelecek</a></div>
+<div class="link1"><a href="#technology">teknoloji + dijital kültür + sosyal medya + gelecek</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'teknoloji' %}
+    {% if post.tag == 'teknoloji' or
+          post.tag == 'dijital kültür' or
+          post.tag == 'gelecek' or
+          post.tag == 'sosyal medya' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
 
 <a name="profile"></a>
-<div class="link1"><a href="#profile">otobiyografi + biyografi + marka profili</a></div>
+<div class="link1"><a href="#profile">biyografi + marka profili</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'profil' %}
+    {% if post.tag == 'biyografi' or
+          post.tag == 'marka profili' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
     <br />
 
 <a name="work"></a>
-<div class="link1"><a href="#work">çalışmak</a></div>
+<div class="link1"><a href="#work">çalışma yaşamı</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'çalışma hayatı' %}
+    {% if post.tag contains 'çalışma yaşamı' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
 {% endfor %}
@@ -84,20 +92,21 @@ title: 'kategoriler'
 {% endfor %}
     <br />
 
+<a name="economics"></a>
+<div class="link1"><a href="#economics">ekonomi</a></div>
+{% for post in site.posts %}
+    {% if post.tag contains 'ekonomi' %}
+      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endif %}
+{% endfor %}
+    <br />
+
 <a name="psychology-sociology-philosophy"></a>
 <div class="link1"><a href="#psychology-sociology-philosophy">psikoloji + sosyoloji + felsefe</a></div>
     {% for post in site.posts %}
-        {% if post.tag contains 'psikoloji' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
-        {% endif %}
-    {% endfor %}
-    <br />
-
-<a name="xxx"></a>
-<div class="link1"><a href="#xxx">yyy</a></div>
-    {% for post in site.posts %}
         {% if post.tag == 'psikoloji' or
-              post.tag == 'felsefe' %}
+              post.tag == 'felsefe' or
+              post.tag == 'sosyoloji' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title }}</a></p>
         {% endif %}
     {% endfor %}
