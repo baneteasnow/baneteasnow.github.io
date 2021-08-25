@@ -12,6 +12,7 @@ description: "Daniel Gilbert tarafından kaleme alınan Mutluluk Üzerine Çeşi
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-07-15
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/stumbling-on-happiness.jpg"
 ---
 
