@@ -12,6 +12,7 @@ sayfa: "216"
 description: "101 Things I Learned in Product Design School, ürün tasarımı hakkında ipuçları veren bir kitap."
 goodreads: "https://www.goodreads.com/book/show/49188385-101-things-i-learned-in-product-design-school"
 posted: 2021-06-16
+tag: "endüstriyel tasarım"
 image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-product-design-school.jpg"
 ---
 
