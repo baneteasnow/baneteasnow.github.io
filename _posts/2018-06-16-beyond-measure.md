@@ -12,6 +12,7 @@ description: "Rakamlara Takılma, daha iyi bir çalışma ortamı isteyen herkes
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-16
+tag: "yönetim"
 image: "https://www.thebookish.de/assets/old/beyond-measure.jpg"
 ---
 
