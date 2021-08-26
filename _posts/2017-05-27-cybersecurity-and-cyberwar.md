@@ -12,6 +12,7 @@ description: "Siber Güvenlik ve Siber Savaş sanal dünyada yaşanan tehlikeler
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-05-27
+tag: "siber güvenlik"
 image: "https://www.thebookish.de/assets/old/cybersecurity-and-cyberwar.jpg"
 ---
 
