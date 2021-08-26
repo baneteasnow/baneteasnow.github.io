@@ -12,6 +12,7 @@ description: "Chip Kidd, kendi telefonu (iPhone 5s) ile çektiği resimleri tasa
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-04-28
+tag: "endustriyel tasarim"
 image: "https://www.thebookish.de/assets/old/judge-this.jpg"
 ---
 
