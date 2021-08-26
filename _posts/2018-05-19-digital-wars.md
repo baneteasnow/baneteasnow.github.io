@@ -12,6 +12,7 @@ description: "Dijital Savaşlar, Apple, Google ve Microsoft'un geçmişten bugü
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-05-19
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/digital-wars.jpg"
 ---
 
