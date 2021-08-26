@@ -10,7 +10,8 @@ sayfa: "178"
 goodreads: "https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes"
 last_modified_at:
 published: false
-description: ""
+description: "Sönke Ahrens, How to Take Smart Notes isimli kitabında yazanlar, öğrenenler ve düşünenler için sistemli not tutmayı anlatıyor."
+tag: "öğrenmeyi öğrenmek"
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/how-to-take-smart-notes.md.jpg"
 ---
