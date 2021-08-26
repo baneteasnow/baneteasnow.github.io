@@ -12,6 +12,7 @@ description: "Steve Jobs Olmak, Steve Jobs'in hayatını ve kariyerini konu alı
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-09-09
+tag: "biyografi"
 image: "https://www.thebookish.de/assets/old/becoming-steve-jobs.jpg"
 ---
 
