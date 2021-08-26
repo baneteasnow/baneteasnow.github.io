@@ -12,6 +12,7 @@ description: "Mesele Ne Kadar İyi Olduğun Değil, Ne Kadar İyi Olmak İstedi�
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-10-19
+tag: "yaratıcılık"
 image: "https://www.thebookish.de/assets/old/its-not-how-good-you-are-its-how-good-you-want-to-be.jpg"
 ---
 
