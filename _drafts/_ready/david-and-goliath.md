@@ -10,7 +10,8 @@ sayfa: "293"
 goodreads: "https://www.goodreads.com/book/show/15751404-david-and-goliath"
 last_modified_at:
 published: false
-description: ""
+description: "Malcolm Gladwell, David and Goliath isimli kitabında avantajlı görünenlerle dezavantajlı görünenlerin hikayesini anlatıyor ve 'avantaj' ile 'dezavantaj' sayılan unsurların aslında göründükleri gibi olmayabileceğini vurguluyor."
+tag: "psikoloji"
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/david-and-goliath.jpg"
 ---
