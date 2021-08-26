@@ -10,7 +10,8 @@ sayfa: "63"
 goodreads: "https://www.goodreads.com/book/show/25490360-the-burnout-society"
 last_modified_at: 20XX-XX-XX
 published: false
-description: ""
+description: "Byung-chul Han, kariyerinin büyük kısmını Almanya ve İsviçre'de geçirmiş olan Kore'li bir yazar ve felsefeci. Yorgunluk Toplumu isimli kitabında modern topluma eleştirel gözle bakarken, insanların pek çoğunun neden mutsuzluk içinde yaşamlarını sürdürdüğünü de anlamaya çalışıyor."
+tag: "felsefe"
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/the-burnout-society.jpg"
 ---
