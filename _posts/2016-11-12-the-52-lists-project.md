@@ -12,6 +12,7 @@ description: "52 Liste Projesi, bir yıl boyunca farklı konularda listeler haz�
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-11-12
+tag: "motivasyon"
 image: "https://www.thebookish.de/assets/old/the-52-lists-project.jpg"
 ---
 
