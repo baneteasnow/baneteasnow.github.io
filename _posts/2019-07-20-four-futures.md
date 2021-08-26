@@ -12,6 +12,7 @@ description: "Dört Gelecek, dört farklı senaryo ile kapitalizm sonrası gelec
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-07-20
+tag: "gelecek ve trendler"
 image: "https://www.thebookish.de/assets/old/four-futures.jpg"
 ---
 
