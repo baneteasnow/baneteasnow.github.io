@@ -12,6 +12,7 @@ description: "Michael Gates Gill, reklam sektöründeki kariyeri sonrasında Sta
 last_modified_at: 2021-07-05
 published: true
 posted: 2016-03-23
+tag: "biyografi"
 image: "https://www.thebookish.de/assets/old/how-starbucks-saved-my-life.jpg"
 ---
 
