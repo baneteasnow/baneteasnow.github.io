@@ -12,6 +12,7 @@ description: "Kapitalizm Hakkında Size Söylenmeyen 23 Şey, dünya ekonomisini
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-12-23
+tag: "ekonomi"
 image: "https://www.thebookish.de/assets/old/23-things-they-dont-tell-you-about-capitalism.jpg"
 ---
 
