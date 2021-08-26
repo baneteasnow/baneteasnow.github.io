@@ -12,6 +12,7 @@ description: "Timothy Ferriss, 4 Saatlik Hafta isimli kitabında uzaktan çalı�
 published: true
 last_modified_at: 2021-06-30
 posted: 2021-06-30
+tag: "kariyer"
 image: "https://www.thebookish.de/assets/new/the-4-hour-workweek.jpg"
 ---
 
