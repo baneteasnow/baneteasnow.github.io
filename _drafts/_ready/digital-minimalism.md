@@ -10,8 +10,9 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/40672036-digital-minimalism"
 last_modified_at:
 published: false
-description: ""
+description: "Cal Newport, Dijital Minimalizm isimli kitabında ekran başında geçirilen zamanı azaltmanın gerekliliğini ve yollarını tartışıyor."
 posted: 2021-XX-XX
+tag: "üretkenlik ve teknoloji"
 image: "https://www.thebookish.de/assets/new/digital-minimalism.jpg"
 ---
 
