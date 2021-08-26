@@ -66,20 +66,16 @@
           <a href="/category.html#profile">{{ page.tag | join: ' #' }}</a>
          
          {% elsif post.tag == 'çalışma yaşamı' or
-                   post.tag == 'kariyer' or
-                   post.tag == 'girişimcilik' or
-                   post.tag == 'hukuk' or
-                   post.tag == 'yönetim' %}   
+                  post.tag == 'kariyer' or
+                  post.tag == 'girişimcilik' or
+                  post.tag == 'hukuk' or
+                  post.tag == 'yönetim' %}   
             <a href="/category.html#work">{{ page.tag | join: ' #' }}</a>
 
           {% elsif post.tag contains 'davranışsal iktisat' %}
             <a href="/category.html#behavioural">{{ page.tag | join: ' #' }}</a>
   
-          {% elsif post.tag == 'psikoloji' and
-                   post.tag == 'felsefe' and
-                   post.tag == 'sosyoloji' and
-                   post.tag == 'sosyal bilimler' and
-                   post.tag == 'sosyal psikoloji' %}  
+          {% elsif post.tag == 'psikoloji' and post.tag == 'felsefe' and post.tag == 'sosyoloji' and post.tag == 'sosyal bilimler' and post.tag == 'sosyal psikoloji' %}  
              <a href="/category.html#social">{{ page.tag | join: ' #' }}</a>
   
           {% else %}
