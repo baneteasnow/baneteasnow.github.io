@@ -12,6 +12,7 @@ description: "Sosyal Ağların Şaşırtıcı Gücü, sosyal ağların yapılanm
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-09-26
+tag: "dijital kültür"
 image: "https://www.thebookish.de/assets/old/connected.jpg"
 ---
 
