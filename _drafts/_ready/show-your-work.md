@@ -10,7 +10,8 @@ sayfa: "116"
 goodreads: "https://www.goodreads.com/book/show/18290401-show-your-work"
 last_modified_at:
 published: false
-description: ""
+description: "Austin Kleon, Show Your Work! isimli kitabında ortaya çıkan eserleri görünür kılmanın ve büyük kitlelere ulaştırmanın yollarını paylaşıyor."
+tag: "yaratıcılık"
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/show-your-work.jpg"
 ---
