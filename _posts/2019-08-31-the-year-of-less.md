@@ -12,6 +12,7 @@ description: "Cait Flanders, bir minimaliste nasıl dönüştüğünü ve alış
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-08-31
+tag: "minimalizm"
 image: "https://www.thebookish.de/assets/old/the-year-of-less.jpg"
 ---
 
