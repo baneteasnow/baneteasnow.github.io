@@ -12,6 +12,7 @@ description: "Danimarkalı Gibi Mutlu, yapılan araştırmalarda yüksek mutlulu
 last_modified_at: 2021-07-08
 published: true
 posted: 2017-07-22
+tag: "lifestyle"
 image: "https://www.thebookish.de/assets/old/happy-as-a-dane.jpg"
 ---
 
