@@ -12,7 +12,7 @@ description: "Kitapta kitlelerin bir araya geldiklerinde neden bireylerden daha 
 published: true
 last_modified_at: 2021-07-12
 posted: 2015-07-29
-tag: "psikoloji"
+tag: "dijital kültür"
 image: "https://www.thebookish.de/assets/old/the-wisdom-of-crowds.jpg"
 ---
 
