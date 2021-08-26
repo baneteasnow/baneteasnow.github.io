@@ -12,6 +12,7 @@ description: "Aradığın Her Şey, dünyanın en büyük firmalarından biri ha
 published: true
 last_modified_at: 2021-07-08
 posted: 2018-12-15
+tag: "biyografi"
 image: "https://www.thebookish.de/assets/old/the-everything-store.jpg"
 ---
 
