@@ -12,6 +12,7 @@ description: "İnan Bana, Yalan Söylüyorum, kitle iletişim araçlarının asl
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-03-03
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/trust-me-im-lying.jpg"
 ---
 
