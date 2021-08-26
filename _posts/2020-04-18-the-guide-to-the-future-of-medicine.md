@@ -12,6 +12,7 @@ description: "Tıbbın Geleceğine Yolculuk, teknolojinin tıp biliminin gelece�
 published: true
 last_modified_at: 2021-07-12
 posted: 2020-04-18
+tag: "tıp"
 image: "https://www.thebookish.de/assets/old/the-guide-to-the-future-of-medicine.jpg"
 ---
 
