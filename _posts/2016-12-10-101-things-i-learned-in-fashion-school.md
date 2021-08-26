@@ -12,6 +12,7 @@ description: "Moda Okulunda Öğrendiğim 101 Şey, modanın yakın geçmişi, k
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-12-10
+tag: "moda tasarım"
 image: "https://www.thebookish.de/assets/old/101-things-i-learned-in-fashion-school.jpg"
 ---
 
