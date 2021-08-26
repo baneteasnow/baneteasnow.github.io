@@ -10,7 +10,8 @@ sayfa: "87"
 goodreads: "https://www.goodreads.com/book/show/54922430-why-vegan"
 last_modified_at:  
 published: false  
-description: ""  
+description: "Avustralyalı filozof ve hayvan hakları savunucusu Peter Singer, Why Vegan isimli kitabında 1973 ve 2020 yılları arasında kaleme aldığı en önemli dokuz makalesine yer veriyor." 
+tag: "veganlık"
 posted: 2021-XX-XX  
 image: "https://www.thebookish.de/assets/new/why-vegan.jpg"  
 ---
