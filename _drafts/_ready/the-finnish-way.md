@@ -8,7 +8,8 @@ yazar: "Katja Pantzar"
 yil: "2018"
 sayfa: "251"
 goodreads: "https://www.goodreads.com/book/show/52813626-the-finnish-way"
-description: ""
+description: "Sisu'nun Peşinde, anne-babası Finlandiya'dan Kanada'ya göç eden Katja Pantzar'ın Finlandiya'ya taşınmasını, oradaki kültürü ve bu kültürün temel parçası olan 'sisu' kavramını günlük yaşam çerçevesinde ele alıyor."
+tag: "lifestyle"
 last_modified_at: 202X-XX-XX
 published: false
 posted: 202X-XX-XX
@@ -17,7 +18,7 @@ image: "https://www.thebookish.de/assets/new/the-finnish-way.jpg"
 
 2022-03-23-
 
-Sisu'nun Peşinde, anne-babası Finlandiya'dan Kanada'ya göç eden Katja Pantzar'ın Finlandiya'ya taşınmasını ve oradaki kültürü ve bu kültürün temel parçası olan 'sisu _(see-su)_' kavramını günlük yaşam çerçevesinde ele alıyor. Başka dillerde doğrudan karşılığı olmayan bu kavramın geçmişi 1500'lü yıllara kadar uzanıyor. Temel olarak dayanıklılık, zorluklar karşısında vazgeçmeme, cesaret, motivasyon, karşılaşılan zorlukları fırsata çevirme ve tüm bunlar sayesinde kendini geliştirme üzerine kurulu bir kavram sisu. Kitap boyunca pek çoğu doğa ile alakalı pek çok örneği de paylaşılıyor.
+Sisu'nun Peşinde, anne-babası Finlandiya'dan Kanada'ya göç eden Katja Pantzar'ın Finlandiya'ya taşınmasını, oradaki kültürü ve bu kültürün temel parçası olan 'sisu _(see-su)_' kavramını günlük yaşam çerçevesinde ele alıyor. Başka dillerde doğrudan karşılığı olmayan bu kavramın geçmişi 1500'lü yıllara kadar uzanıyor. Temel olarak dayanıklılık, zorluklar karşısında vazgeçmeme, cesaret, motivasyon, karşılaşılan zorlukları fırsata çevirme ve tüm bunlar sayesinde kendini geliştirme üzerine kurulu bir kavram sisu. Kitap boyunca pek çoğu doğa ile alakalı pek çok örneği de paylaşılıyor.
 
 Vancouver'da editör olarak çalışan Katja Pantzar, Kuzey Amerika kültürü ile orta sınıf bir ailede büyümüş ve 80'li-90'lı yılların tüketim kültüründe yetişmiş biridir. Görünürde herhangi bir sorunu yoktur, güzel bir işi, kiralık bir dairesi, arabası vardır; dolabı tasarım kıyafetler ile doludur; çok sayıda arkadaşı vardır. Ancak, bir gün kendisini depresyon ve anksiyete ile mücadele ederken bulur. Ancak, hiçbir şekilde yaşam tarzı ile içinde bulunduğu zorlu durum arasında ilişki kurulmaz.
 
