@@ -12,6 +12,7 @@ description: "Bolluk, dünyada her şeyin daha kötüye gitmediğini düşündü
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-12-02
+tag: "gelecek ve trendler"
 image: "https://www.thebookish.de/assets/old/abundance.jpg"
 ---
 
