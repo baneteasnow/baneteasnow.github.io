@@ -75,10 +75,10 @@
           {% elsif post.tag contains 'davranışsal iktisat' %}
             <a href="/category.html#behavioural">{{ page.tag | join: ' #' }}</a>
   
-          {% elsif post.tag == 'psikoloji' or
-                   post.tag == 'felsefe' or
-                   post.tag == 'sosyoloji' or
-                   post.tag == 'sosyal bilimler' or
+          {% elsif post.tag == 'psikoloji' and
+                   post.tag == 'felsefe' and
+                   post.tag == 'sosyoloji' and
+                   post.tag == 'sosyal bilimler' and
                    post.tag == 'sosyal psikoloji' %}  
              <a href="/category.html#social">{{ page.tag | join: ' #' }}</a>
   
