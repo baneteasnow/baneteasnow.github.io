@@ -12,6 +12,7 @@ description: "E-Sosyal Toplum, internetin artık tartışılmaz önemini mahremi
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-02-24
+tag: "internet"
 image: "https://www.thebookish.de/assets/old/public-parts.jpg"
 ---
 
