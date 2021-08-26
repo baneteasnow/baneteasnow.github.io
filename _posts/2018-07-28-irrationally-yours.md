@@ -12,6 +12,7 @@ description: "Dan Ariely, Wall Street Journal'da yayınlanan Ask Ariely isimli k
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-07-28
+tag: "davranışsal iktisat"
 image: "https://www.thebookish.de/assets/old/irrationally-yours.jpg"
 ---
 
