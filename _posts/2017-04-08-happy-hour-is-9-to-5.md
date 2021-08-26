@@ -12,6 +12,7 @@ description: "Sabah 9'dan Akşam 6'ya Hapy Hour isimli kitapta Danimarkalı yaza
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-04-08
+tag: "çalışma yaşamı"
 image: "https://www.thebookish.de/assets/old/happy-hour-is-9-to-5.jpg"
 ---
 
