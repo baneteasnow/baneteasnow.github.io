@@ -12,6 +12,7 @@ description: "Big Data at Work, büyük veriyi anlamlandırmak ve analiz edebilm
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-10-21
+tag: "teknoloji"
 image: "https://www.thebookish.de/assets/old/big-data-at-work.jpg"
 ---
 
