@@ -10,7 +10,8 @@ sayfa: "73"
 goodreads: "https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar"
 last_modified_at:  
 published: false  
-description: ""  
+description: "Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 1926-1927 yıllarında kaleme aldığı çeşitli metinlerden oluşuyor."  
+tag: "veganlık"
 posted: 2021-XX-XX  
 image: "https://www.thebookish.de/assets/new/vejetaryenligin-yararlari.jpg"  
 ---
