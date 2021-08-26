@@ -53,7 +53,7 @@ title: 'kategoriler'
     <div class="link1"><a href="#fashion">moda markaları+ tasarım</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'moda markaları' or 
-          post.tag == 'tasarım' %}      
+          post.tag == 'moda tasarım' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -97,7 +97,7 @@ title: 'kategoriler'
 {% for post in site.posts %}
     {% if post.tag == 'teknoloji' or
           post.tag == 'yapay zeka' or
-          post.tag == 'gelecek' or
+          post.tag == 'gelecek ve trendler' or
           post.tag == 'internet' or
           post.tag == 'yazılım' or
           post.tag == 'siber güvenlik' %}
@@ -112,7 +112,8 @@ title: 'kategoriler'
     {% if post.tag == 'fen bilimleri' or
           post.tag == 'küresel ısınma' or
           post.tag == 'sürdürülebilirlik' or
-          post.tag == 'permakültür' %}
+          post.tag == 'permakültür' or
+          post.tag == 'çevre' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -165,7 +166,8 @@ title: 'kategoriler'
 <a name="economics"></a>
     <div class="link1"><a href="#economics">ekonomi</a></div>
 {% for post in site.posts %}
-    {% if post.tag contains 'ekonomi' %}
+    {% if post.tag == 'ekonomi' or
+          post.tag == 'küreselleşme' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
@@ -177,6 +179,7 @@ title: 'kategoriler'
         {% if post.tag == 'psikoloji' or
               post.tag == 'felsefe' or
               post.tag == 'sosyoloji' or
+              post.tag == 'siyaset bilim' or
               post.tag == 'sosyal bilimler' or
               post.tag == 'eğitim' or
               post.tag == 'sosyal psikoloji' %}      
