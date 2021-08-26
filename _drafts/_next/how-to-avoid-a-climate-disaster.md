@@ -12,6 +12,7 @@ last_modified_at:
 published: false
 description: "Bill Gates, How to Avoid a Climate Disaster isimli kitabında iklim krizini giriş düzeyinde ele alarak temel kavramlara odaklanıyor."
 posted: 2021-XX-XX
+tag: "küresel ısınma"
 image: "https://www.thebookish.de/assets/new/how-to-avoid-a-climate-disaster.jpg"
 ---
 
