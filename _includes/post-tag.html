@@ -37,11 +37,9 @@
          <a href="/category.html#minimalism">{{ page.tag | join: ' #' }}</a>
 
       {% elsif page.tag == 'pazarlama' or
-               page.tag == 'reklam' %}
+               page.tag == 'reklam' or
+               page.tag == 'tüketici davranışları' %}
          <a href="/category.html#marketing">{{ page.tag | join: ' #' }}</a>
-
-      {% elsif page.tag contains 'tüketici davranışları' %}
-         <a href="/category.html#consumer">{{ page.tag | join: ' #' }}</a>
 
        {% elsif page.tag == 'teknoloji' or
                 page.tag == 'yapay zeka' or
