@@ -12,6 +12,7 @@ description: "Yeni Dijital Çağ, internetin getirdiği değişimleri inceliyor 
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-12-17
+tag: "teknoloji"
 image: "https://www.thebookish.de/assets/old/the-new-digital-age.jpg"
 ---
 
