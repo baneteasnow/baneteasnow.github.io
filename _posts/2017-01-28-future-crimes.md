@@ -12,6 +12,7 @@ description: "Geleceğin Suçları, yakın geçmişte yaşanan siber suc ve ter�
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-01-28
+tag: "siber güvenlik"
 image: "https://www.thebookish.de/assets/old/future-crimes.jpg"
 ---
 
