@@ -12,6 +12,7 @@ description: "Siyah Kuğu, ihtimal dışı olarak sayılan pek çok olayın asl�
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-06-01
+tag: "felsefe"
 image: "https://www.thebookish.de/assets/old/the-black-swan.jpg"
 ---
 
