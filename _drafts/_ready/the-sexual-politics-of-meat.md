@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/51714.The_Sexual_Politics_of_Mea
 last_modified_at:
 published: false
 description: "Carol J. Adams, bir ekofeminist, hayvan hakları savunucusu ve aktivist olarak kaleme aldığı Etin Cinsel Politikası isimli kitabında erkek egemen toplumun kadınlar ve hayvanlar üzerinde kurduğu baskı ile kullanılan dilin ve anlatım tarzının mevcut kültürü nasıl şekillendirdiğini anlatıyor."
-tag: "hayvan hakları"
+tag: "etik"
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/the-sexual-politics-of-meat.jpg"
 ---
