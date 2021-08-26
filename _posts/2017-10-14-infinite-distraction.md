@@ -12,6 +12,7 @@ description: "Sonsuz Dikkat Dağınıklığı, dikkat dağılmasının dijitalle
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-10-14
+tag: "üretkenlik ve teknoloji"
 image: "https://www.thebookish.de/assets/old/infinite-distraction.jpg"
 ---
 
