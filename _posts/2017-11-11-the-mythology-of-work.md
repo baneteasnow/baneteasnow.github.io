@@ -12,6 +12,7 @@ description: "Çalışmanın Mitolojisi, çalışmayı ve çalışma hayatını 
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-11-11
+tag: "felsefe"
 image: "https://www.thebookish.de/assets/old/the-mythology-of-work.jpg"
 ---
 
