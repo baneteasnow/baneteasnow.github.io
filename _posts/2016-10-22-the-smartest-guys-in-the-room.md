@@ -12,6 +12,7 @@ description: "Gümüş Kurşun, enerji sektöründe faaliyet gösteren Enron fir
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-10-22
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/the-smartest-guys-in-the-room.jpg"
 ---
 
