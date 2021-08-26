@@ -10,8 +10,9 @@ sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/29430779-payoff"
 last_modified_at:
 published: false
-description: ""
+description: "Dan Ariely, TED kitapları serisinde yer alan Payoff isimli kitabında insanları gerçekte neyin motive ettiğini sorguluyor."
 posted: 2021-XX-XX
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/new/payoff.jpg"
 ---
 
