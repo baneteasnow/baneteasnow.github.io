@@ -12,6 +12,7 @@ description: "İnsan Neden Vegan Olur, vegan olmakla ilgili pek çok kişinin ak
 last_modified_at: 2021-07-08
 published: true
 posted: 2019-08-17
+tag: "veganlık"
 image: "https://www.thebookish.de/assets/old/eat-like-you-care.jpg"
 ---
 
