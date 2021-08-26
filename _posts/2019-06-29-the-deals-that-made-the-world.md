@@ -12,6 +12,7 @@ description: "Jacques Peretti, Dünyayı Değiştiren Gizli Anlaşmalar isimli k
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-06-29
+tag: "çalışma yaşamı"
 image: "https://www.thebookish.de/assets/old/the-deals-that-made-the-world.jpg"
 ---
 
