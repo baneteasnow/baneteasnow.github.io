@@ -12,6 +12,7 @@ description: "Gazeteci Philip Delves Broughton, Harvard Business School'da geçi
 published: true
 last_modified_at: 2021-07-05
 posted: 2015-12-26
+tag: "biyografi"
 image: "https://www.thebookish.de/assets/old/what-they-teach-you-at-harvard-business-school.jpg"
 ---
 
