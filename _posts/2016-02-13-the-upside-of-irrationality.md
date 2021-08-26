@@ -13,6 +13,7 @@ description: "Akıldışının Mantığı, kararlarımızı biçimlendiren gizli
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-02-13
+tag: "davranışsal iktisat"
 image: "https://www.thebookish.de/assets/old/the-upside-of-irrationality.jpg"
 ---
 
