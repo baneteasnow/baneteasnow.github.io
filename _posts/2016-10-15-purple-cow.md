@@ -12,6 +12,7 @@ description: "Seth Godin, Mor İnek isimli kitabında pazarlamada yeni fikirler 
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-10-15
+tag: "girişimcilik"
 image: "https://www.thebookish.de/assets/old/purple-cow.jpg"
 ---
 
