@@ -10,14 +10,15 @@ sayfa: "212"
 goodreads: "https://www.goodreads.com/book/show/35742911-101-things-i-learned-in-advertising-school"
 last_modified_at:
 published: false
-description: ""
+description: "101 Things I Learned in Advertising School, reklamcılık ile ilgili temel kavramları aktarıyor. Reklamcılık sektörü bazıları tarafından 'ruhsuz' olarak nitelendirilse de, kitabın yazarı Tracy Arrington, bunun tam tersini savunuyor ve reklamcılığın yalan söyleme değil, tam aksine doğruyu söyleme sanatı olduğunu belirtiyor."
 posted: 2021-XX-XX
+tag: "reklam"
 image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-advertising-school.jpg"
 ---
 
 2022-01-05-
 
-101 Things I Learned in Advertising School, reklamcılık ile ilgili temel kavramları aktarıyor. Reklamcılık sektörü bazıları tarafından 'ruhsuz' olarak nitelendirilse de, kitabın yazarı Tracy Arrington, bunun tam tersini savunuyor ve reklamcılığın yalan söyleme değil, tam tersine doğruyu söyleme sanatı olduğunu belirtiyor. Bir reklamın esas amacının, bir ürünün günlük hayatta nasıl bir fayda yaratacağını ve saklı kalmış 'kolaylaştırıcı' etkisini göstermek olduğunu vurguluyor.
+101 Things I Learned in Advertising School, reklamcılık ile ilgili temel kavramları aktarıyor. Reklamcılık sektörü bazıları tarafından 'ruhsuz' olarak nitelendirilse de, kitabın yazarı Tracy Arrington, bunun tam tersini savunuyor ve reklamcılığın yalan söyleme değil, tam aksine doğruyu söyleme sanatı olduğunu belirtiyor. Bir reklamın esas amacının, bir ürünün günlük hayatta nasıl bir fayda yaratacağını ve saklı kalmış 'kolaylaştırıcı' etkisini göstermek olduğunu vurguluyor.
 
 Reklam sektöründe büyük bütçeler söz konusu olsa da, bu sektör aslında tek başına durabilen bir sektör değildir. Pek çok farklı nitelikte ve farklı uzmanlıklara sahip insanların bu sektörde yer alması gereklidir.
 
