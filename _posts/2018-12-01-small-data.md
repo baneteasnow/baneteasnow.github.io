@@ -12,6 +12,7 @@ description: "Small Data, büyük verinin yetersiz kaldığı noktada küçük v
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-12-01
+tag: "tüketici davranışları"
 image: "https://www.thebookish.de/assets/old/small-data.jpg"
 ---
 
