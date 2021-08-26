@@ -12,6 +12,7 @@ description: "Eğitimde Finlandiya Modeli, Finlandiya'nın eğitim sistemini nas
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-10-13
+tag: "eğitim"
 image: "https://www.thebookish.de/assets/old/finnished-leadership.jpg"
 ---
 
