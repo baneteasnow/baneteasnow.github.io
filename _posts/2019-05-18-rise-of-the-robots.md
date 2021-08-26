@@ -12,6 +12,7 @@ description: "E-Sosyal Toplum, internetin artık tartışılmaz önemini mahremi
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-05-18
+tag: "teknoloji"
 image: "https://www.thebookish.de/assets/old/rise-of-the-robots.jpg"
 ---
 
