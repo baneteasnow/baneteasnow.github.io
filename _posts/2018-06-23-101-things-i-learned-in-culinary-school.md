@@ -12,6 +12,7 @@ description: "Mutfak Okulunda Öğrendiğim 101 Şey, yemek hazırlama ve pişir
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-23
+tag: "lifestyle"
 image: "https://www.thebookish.de/assets/old/101-things-i-learned-in-culinary-school.jpg"
 ---
 
