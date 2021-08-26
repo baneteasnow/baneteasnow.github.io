@@ -106,7 +106,8 @@ title: 'kategoriler'
     {% if post.tag == 'teknoloji' or
           post.tag == 'yapay zeka' or
           post.tag == 'gelecek' or
-          post.tag == 'bilgisayar bilimi' or
+          post.tag == 'internet' or
+          post.tag == 'yazılım' or
           post.tag == 'siber güvenlik' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
