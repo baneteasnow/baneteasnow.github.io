@@ -12,6 +12,7 @@ description: "Akıldışı Ama Öngörülebilir, kararlarımızı biçimlendiren
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-02-06
+tag: "davranışsal iktisat"
 image: "https://www.thebookish.de/assets/old/predictably-irrational.jpg"
 ---
 
