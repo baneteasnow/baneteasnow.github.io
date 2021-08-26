@@ -12,6 +12,7 @@ description: "Mutluluğun Coğrafyası, okuyucuyu farklı ülkelerde mutluluk ar
 last_modified_at: 2021-07-09
 published: true
 posted: 2019-05-01
+tag: "seyahat"
 image: "https://www.thebookish.de/assets/old/the-geography-of-bliss.jpg"
 eng: "In this book, the author Eric Weiner visits ten different countries and talks with residents to learn about their concept of happiness, the factors that make them happy, and what they do to find happiness. This book is a sociological culture book and 'a travel journal', as well."
 ---
