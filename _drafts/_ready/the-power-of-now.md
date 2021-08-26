@@ -8,7 +8,8 @@ yazar: "Eckhart Tolle"
 yil: "2004"
 sayfa: "229"
 goodreads: "https://www.goodreads.com/book/show/6708.The_Power_of_Now"
-description: ""
+description: "Günlük koşuşturmaca içinde ya geçmişte ya da gelecekte yaşayanlara şimdiki zamana dönmeleri için bir çağrı niteliğinde olan bu kitap, tüm zamanların en çok satılanları arasında."
+tag: "felsefe"
 last_modified_at: 202X-XX-XX
 published: false
 posted: 202X-XX-XX
