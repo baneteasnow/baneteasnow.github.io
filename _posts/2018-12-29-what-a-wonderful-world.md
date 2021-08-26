@@ -12,6 +12,7 @@ description: "Dünya'nın Tüm Dertleri, her şeyden biraz bahsederek dünyanın
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-12-29
+tag: "fen bilimleri"
 image: "https://www.thebookish.de/assets/old/what-a-wonderful-world.jpg"
 ---
 
