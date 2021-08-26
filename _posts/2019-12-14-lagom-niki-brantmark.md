@@ -12,6 +12,7 @@ description: "Niki Brentmark evlendikten sonra İsveç'e yerleşmiş. Kitabında
 published: true
 last_modified_at: 2021-07-08
 posted: 2019-12-14
+tag: "lifestyle"
 image: "https://www.thebookish.de/assets/old/lagom-niki-brantmark.jpg"
 ---
 
