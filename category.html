@@ -175,6 +175,7 @@ title: 'kategoriler'
     {% if post.tag == 'çalışma yaşamı' or
           post.tag == 'kariyer' or
           post.tag == 'girişimcilik' or
+          post.tag == 'hukuk' or
           post.tag == 'yönetim' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
