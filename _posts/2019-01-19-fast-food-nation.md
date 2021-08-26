@@ -12,6 +12,7 @@ description: "Hamburger Cumhuriyeti, kırmızı et ağırlıklı ilerleyen hazı
 last_modified_at: 2021-07-09
 published: true
 posted: 2019-01-19
+tag: "sağlık"
 image: "https://www.thebookish.de/assets/old/fast-food-nation.jpg"
 ---
 
