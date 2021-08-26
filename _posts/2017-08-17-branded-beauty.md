@@ -12,6 +12,7 @@ description: "Pazarlama Görünüşümüzü Nasıl Değiştirdi, güzellik ve ko
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-08-17
+tag: "moda markaları"
 image: "https://www.thebookish.de/assets/old/branded-beauty.jpg"
 ---
 
