@@ -12,6 +12,7 @@ description: "Dördüncü Sanayi Devrimi, dördüncü sanayi devrimine ve bu dev
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-08-10
+tag: "teknoloji"
 image: "https://www.thebookish.de/assets/old/the-fourth-industrial-revolution.jpg"
 ---
 
