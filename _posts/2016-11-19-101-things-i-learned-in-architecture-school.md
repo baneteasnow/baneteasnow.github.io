@@ -12,6 +12,7 @@ description: "Mimarlık Okulunda Öğrendiğim 101 Şey, tasarım ve mimarlıkla
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-11-19
+tag: "mimarlık"
 image: "https://www.thebookish.de/assets/old/101-things-i-learned-in-architecture-school.jpg"
 ---
 
