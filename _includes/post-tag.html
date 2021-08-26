@@ -28,7 +28,8 @@
 
      {% elsif page.tag == 'mimarlık' or
               page.tag == 'mühendislik' or 
-              page.tag == 'endüstriyel tasarım' %} 
+              page.tag == 'endüstriyel tasarım' or
+              page.tag == 'şehir planlama' %} 
          <a href="/category.html#architecture">{{ page.tag | join: ' #' }}</a>
 
      {% elsif page.tag == 'sıfır atık yaşam' or
