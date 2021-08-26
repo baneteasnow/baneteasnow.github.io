@@ -12,6 +12,7 @@ description: "Trend Avcısı isimli kitapta trendlerin nasıl belirlendiği, ki�
 last_modified_at: 2021-07-09
 published: true
 posted: 2015-12-12
+tag: "gelecek ve trendler"
 image: "https://www.thebookish.de/assets/old/everything-we-know-is-wrong.jpg"
 ---
 
