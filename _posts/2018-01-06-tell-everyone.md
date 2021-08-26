@@ -12,6 +12,7 @@ description: "Herkese Söyle, çeşitli örneklerle sosyal medyada kullanıcıla
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-01-06
+tag: "sosyal medya"
 image: "https://www.thebookish.de/assets/old/tell-everyone.jpg"
 eng: "Tell Everyone is a fascinating read on the evolution of social media and how the culture is affected by it."
 ---
