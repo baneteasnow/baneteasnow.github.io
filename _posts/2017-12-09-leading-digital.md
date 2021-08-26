@@ -12,6 +12,7 @@ description: "Leading Digital, teknolojide ivmelenerek artan gelişmelere uyum s
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-12-09
+tag: "yönetim"
 image: "https://www.thebookish.de/assets/old/leading-digital.jpg"
 ---
 
