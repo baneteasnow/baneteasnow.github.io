@@ -12,6 +12,7 @@ description: "Keep Going, bir sanatçının yaratıcılığını her daim sürd�
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-11-30
+tag: "yaratıcılık"
 image: "https://www.thebookish.de/assets/old/steal-like-an-artist.jpg"
 ---
 
