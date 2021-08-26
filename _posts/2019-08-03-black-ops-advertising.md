@@ -12,6 +12,7 @@ description: "Dijital Reklamın Gizli Dünyası, reklam olduğu bir bakışta an
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-08-03
+tag: "reklam"
 image: "https://www.thebookish.de/assets/old/black-ops-advertising.jpg"
 ---
 
