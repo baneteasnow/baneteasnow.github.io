@@ -27,14 +27,16 @@ title: 'kategoriler'
     <br />
 
 <a name="vegan"></a>
-<div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div>
+  <details close>
+    <summary><div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div></summary>
 {% for post in site.posts %}
     {% if post.tag == 'veganlık' or
           post.tag == 'hayvan hakları' or
           post.tag == 'etik' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
-{% endfor %}
+{% endfor %}  
+  </details>
     <br />
 
 <a name="health"></a>
