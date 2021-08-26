@@ -12,6 +12,7 @@ description: "İnternet üzerinden ayakkabı satışı yapmak üzere kurulan ve 
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-08-04
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/delivering-happiness.jpg"
 ---
 
