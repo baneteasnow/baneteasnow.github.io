@@ -20,7 +20,7 @@ title: 'kategoriler'
 <div class="link1"><a href="#health">sağlık + beslenme + tıp</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'sağlık' or
-          post.tag == 'beslenme' 
+          post.tag == 'beslenme' or
           post.tag == 'tıp' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
@@ -32,7 +32,7 @@ title: 'kategoriler'
 {% for post in site.posts %}
     {% if post.tag == 'lifestyle' or
           post.tag == 'motivasyon' or 
-          post.tag == 'seyahat' 
+          post.tag == 'seyahat' or
           post.tag == 'yaratıcılık' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
@@ -127,11 +127,12 @@ title: 'kategoriler'
     <br />
 
 <a name="media"></a>
-<div class="link1"><a href="#media">dijital kültür + sosyal medya + medya</a></div>
+<div class="link1"><a href="#media">dijital kültür + sosyal medya + medya + iletişim</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'dijital kültür' or
           post.tag == 'sosyal medya' or
-          post.tag == 'medya' %}
+          post.tag == 'medya' or
+          post.tag == 'iletişim' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
