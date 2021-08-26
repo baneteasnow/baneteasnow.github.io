@@ -12,6 +12,7 @@ description: "App Kuşağı, farklı kuşakların bakış açısı ile dijital d
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-08-04
+tag: "sosyoloji"
 image: "https://www.thebookish.de/assets/old/the-app-generation.jpg"
 ---
 
