@@ -8,10 +8,11 @@ yazar: "Haruki Murakami"
 yil: "2011"
 sayfa: "194"
 goodreads: "https://www.goodreads.com/book/show/8126085-what-i-talk-about-when-i-talk-about-running"
-description: ""
+description: "Japon roman ve kısa öykü yazarı Haruki Murakami, anı türünde kaleme aldığı Koşmasaydım Yazamazdım isimli kitabında 1982 yılından beri süregelen koşu serüvenini anlatıyor."
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
+tag: "lifestyle"
 image: "https://www.thebookish.de/assets/new/what-talk-about-when-i-talk-about-running.jpg"
 ---
 
