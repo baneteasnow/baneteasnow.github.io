@@ -12,6 +12,7 @@ description: "Geleceğin Endüstrileri, teknolojinin bizi götürdüğü yere ve
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-11-17
+tag: "gelecek ve trendler"
 image: "https://www.thebookish.de/assets/old/the-industries-of-the-future.jpg"
 ---
 
