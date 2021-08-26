@@ -12,6 +12,7 @@ description: "Kitap, internet üzerinde aynı platformu kullanarak bir araya gel
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-06-11
+tag: "dijital kültür"
 image: "https://www.thebookish.de/assets/old/here-comes-everybody.jpg"
 ---
 
