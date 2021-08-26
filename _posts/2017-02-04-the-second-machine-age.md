@@ -12,6 +12,7 @@ description: "The Second Machine Age, teknolojideki gelişmelerin ekonomik ve so
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-02-04
+tag: "teknoloji"
 image: "https://www.thebookish.de/assets/old/the-second-machine-age.jpg"
 ---
 
