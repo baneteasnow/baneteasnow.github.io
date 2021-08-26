@@ -12,6 +12,7 @@ description: "Yaratıcı Sınıf Adres Değiştiriyor, yaratıcı sınıfın kü
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-12-22
+tag: "şehir planlama"
 image: "https://www.thebookish.de/assets/old/the-new-urban-crisis.jpg"
 ---
 
