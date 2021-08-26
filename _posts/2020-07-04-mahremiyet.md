@@ -12,6 +12,7 @@ description: "Mahremiyet, 21. yüzyılda teknolojinin ve internetin yaygınlaşm
 published: true
 last_modified_at: 2021-07-12
 posted: 2020-07-04
+tag: "siber güvenlik"
 image: "https://www.thebookish.de/assets/old/mahremiyet.jpg"
 ---
 
