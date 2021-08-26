@@ -12,6 +12,7 @@ description: "Sıfırdan Bire, bir iş modelinin nasıl kurgulanacağına ilişk
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-09-08
+tag: "girişimcilik"
 image: "https://www.thebookish.de/assets/old/zero-to-one.jpg"
 ---
 
