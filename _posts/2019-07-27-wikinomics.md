@@ -12,6 +12,7 @@ description: "Vikinomi, kitlesel işbirliğini ve crowdsourcing kavramını ele 
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-07-27
+tag: "dijital kültür"
 image: "https://www.thebookish.de/assets/old/wikinomics.jpg"
 ---
 
