@@ -12,6 +12,7 @@ description: "Makine, Platform, Kitle teknoloji ile ortaya çıkan yeni tür iş
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-07-13
+tag: "teknoloji"
 image: "https://www.thebookish.de/assets/old/machine-platform-crowd.jpg"
 ---
 
