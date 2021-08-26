@@ -12,6 +12,7 @@ description: "Vegan Beslenme, bir doktorun gözünden uygulamalı vegan beslenme
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-02-01
+tag: "beslenme"
 image: "https://www.thebookish.de/assets/old/vegan-beslenme.jpg"
 ---
 
