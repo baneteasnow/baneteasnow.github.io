@@ -12,6 +12,7 @@ description: "Roman Krznaric tarafından kaleme alınan Kendimize Uygun İşi Na
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-06-24
+tag: "felsefe"
 image: "https://www.thebookish.de/assets/old/how-to-find-fulfilling-work.jpg"
 ---
 
