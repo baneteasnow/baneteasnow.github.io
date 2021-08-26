@@ -10,7 +10,8 @@ sayfa: "240 sayfa"
 goodreads: "https://www.goodreads.com/book/show/21531503-what-i-know-for-sure"
 last_modified_at:  
 published: false  
-description: ""  
+description: "What I Know For Süre, Oprah Winfrey'in kendi dergisi O (The Oprah Magazine)'da aynı isimle yayınlanan köşesinde yer alan yazıların bir derlemesinden oluşuyor."  
+tag: "motivasyon"
 posted: 2021-XX-XX  
 image: "https://www.thebookish.de/assets/new/what-i-know-for-sure.jpg"  
 ---
