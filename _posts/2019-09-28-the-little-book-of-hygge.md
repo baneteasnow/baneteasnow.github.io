@@ -12,6 +12,7 @@ description: "Hygge, Danimarka'nın günlük yaşamına odaklaniyor, Danimarka'd
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-28
+tag: "lifestyle"
 image: "https://www.thebookish.de/assets/old/the-little-book-of-hygge.jpg"
 ---
 
