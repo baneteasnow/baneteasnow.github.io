@@ -12,6 +12,7 @@ description: "Google'da People Operations departmanının yöneticisi olarak ça
 last_modified_at: 2021-07-06
 published: true
 posted: 2018-03-10
+tag: "yönetim"
 image: "https://www.thebookish.de/assets/old/work-rules.jpg"
 ---
 
