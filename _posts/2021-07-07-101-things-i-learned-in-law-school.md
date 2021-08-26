@@ -12,6 +12,7 @@ published: true
 description: "Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in Law School, ABD'deki hukuk sisteminin nasıl işlediğini de ele alıyor."
 last_modified_at: 2021-07-07
 posted: 2021-07-07
+tag: "hukuk"
 image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-law-school.jpg"
 ---
 
