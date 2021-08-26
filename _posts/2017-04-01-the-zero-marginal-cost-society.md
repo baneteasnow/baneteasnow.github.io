@@ -12,6 +12,7 @@ description: "Nesnelerin İnterneti ve İşbirliği Çağı, üçüncü sanayi d
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-04-01
+tag: "internet of things"
 image: "https://www.thebookish.de/assets/old/the-zero-marginal-cost-society.jpg"
 ---
 
