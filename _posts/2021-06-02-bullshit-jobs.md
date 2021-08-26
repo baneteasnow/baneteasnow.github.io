@@ -12,6 +12,7 @@ yil: "2018"
 sayfa: "347"
 goodreads: "https://www.goodreads.com/book/show/34466958-bullshit-jobs"
 posted: 2021-06-02
+tag: "sosyoloji"
 image: "https://www.thebookish.de/assets/new/bullshit-jobs.jpg"
 ---
 
