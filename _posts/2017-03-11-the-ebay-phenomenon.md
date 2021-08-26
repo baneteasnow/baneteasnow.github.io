@@ -12,6 +12,7 @@ description: "eBay Fenomeni, talep bazlı fiyatlandırma sistemine dayanan bir i
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-03-11
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/the-ebay-phenomenon.jpg"
 ---
 
