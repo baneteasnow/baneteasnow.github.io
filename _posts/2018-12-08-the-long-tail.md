@@ -12,6 +12,7 @@ description: "Uzun Kuyruk kavramı, niş ürünleri piyasaya çıkaran ve onlar�
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-12-08
+tag: "ekonomi"
 image: "https://www.thebookish.de/assets/old/the-long-tail.jpg"
 ---
 
