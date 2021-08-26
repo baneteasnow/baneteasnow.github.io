@@ -10,7 +10,8 @@ sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/6953508-some-we-love-some-we-hate-some-we-eat"
 last_modified_at: 2021-XX-XX
 published: false
-description: ""
+description: "Sevdiklerimiz, Tiksindiklerimiz, Yediklerimiz isimli kitapta antrozoolog Hal Herzog hayvanlarla insanlar arasındaki ilişkiyi kişisel, kültürel ve inançsal boyutları ile ahlaki açıdan ele alıyor."
+tag: "hayvan hakları"
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/some-we-love-some-we-hate-some-we-eat.jpg"
 ---
