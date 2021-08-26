@@ -12,6 +12,7 @@ description: "Kazara Milyarder, dünyanın en çok tanınan ve her ülkeden mily
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-02-25
+tag: "biyografi"
 image: "https://www.thebookish.de/assets/old/the-accidental-billionaires.jpg"
 ---
 
