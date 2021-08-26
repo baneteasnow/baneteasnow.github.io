@@ -12,6 +12,7 @@ description: "Yüzeysellik, internetin getirilerini kabul ederken, teknolojinin 
 last_modified_at: 2021-07-08
 published: true
 posted: 2018-09-15
+tag: "üretkenlik ve teknoloji"
 image: "https://www.thebookish.de/assets/old/the-shallows.jpg"
 ---
 
