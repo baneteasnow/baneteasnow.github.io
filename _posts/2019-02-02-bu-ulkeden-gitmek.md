@@ -1,7 +1,7 @@
 ---
 layout: post  
 category: book2  
-title: "Bu Ülkeden Gitmek | Gözde Kazaz, H. İlksen Mavituna (Kitap)" 
+title: "Bu Ülkeden Gitmek | Gözde Kazaz, H. Ilksen Mavituna (Kitap)" 
 kitap: "Bu Ülkeden Gitmek - Yeni Türkiye'nin Göç İklimini Buradakiler ve Oradakiler Anlatıyor"  
 tr: "-"  
 yazar: "Gözde Kazaz, H. İlksen Mavituna"  
@@ -12,6 +12,7 @@ description: "Bu Ülkeden Gitmek, Türkiye'den son yıllarda diğer ülkelere ya
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-02-02
+tag: "sosyoloji"
 image: "https://www.thebookish.de/assets/old/bu-ulkeden-gitmek.jpg"
 ---
 
