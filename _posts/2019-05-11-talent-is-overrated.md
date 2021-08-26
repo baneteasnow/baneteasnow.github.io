@@ -12,6 +12,7 @@ description: "Geoff Colvin, Yetenek Dediğin Nedir Ki'de başarı için doğuşt
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-05-11
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/talent-is-overrated.jpg"
 ---
 
