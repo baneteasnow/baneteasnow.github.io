@@ -11,6 +11,7 @@ last_modified_at: 2021-08-25
 published: true
 description: "101 Things I Learned in Urban Design School, şehir planlama ile ilgili temel kavramları ele alıyor."
 posted: 2021-08-25
+tag: "şehir planlama"
 image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-urban-design-school.jpg"
 ---
 
