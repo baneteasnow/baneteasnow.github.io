@@ -12,6 +12,7 @@ description: "Azla Mutlu Olmak, öncelikle sade yaşamın felsefesini yani minim
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-07
+tag: "minimalizm"
 image: "https://www.thebookish.de/assets/old/the-joy-of-less.jpg"
 ---
 
