@@ -12,6 +12,7 @@ sayfa: "358"
 goodreads: "https://www.goodreads.com/book/show/30364205-the-cheese-trap"
 description: "Peynir Tuzağı, yıllardır pek çok kişinin dünyanın en sağlıklı yiyecekleri arasında sayarak tükettiği peyniri ve peynir tüketimini inceliyor."
 posted: 2021-04-21
+tag: "beslenme"
 image: "https://www.thebookish.de/assets/new/the-cheese-trap.jpg"
 ---
 
