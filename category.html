@@ -85,16 +85,8 @@ title: 'kategoriler'
     <div class="link1"><a href="#marketing">pazarlama + reklam + yönetim</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'pazarlama' or
-          post.tag == 'reklam' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
-
-<a name="consumer"></a>
-    <div class="link1"><a href="#consumer">tüketici davranışları</a></div>
-{% for post in site.posts %}
-    {% if post.tag contains 'tüketici davranışları' %}
+          post.tag == 'reklam' 
+          post.tag == 'tüketici davranışları' %}
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
