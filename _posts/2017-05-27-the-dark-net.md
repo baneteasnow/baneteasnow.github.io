@@ -12,6 +12,7 @@ description: "Kitap, internetin rahatsız edici ve karanlık yüzünü mercek al
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-05-27
+tag: "siber güvenlik"
 image: "https://www.thebookish.de/assets/old/the-dark-net.jpg"
 ---
 
