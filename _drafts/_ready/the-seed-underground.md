@@ -10,8 +10,9 @@ sayfa: "242"
 goodreads: "https://www.goodreads.com/book/show/14359315-the-seed-underground"
 last_modified_at:  
 published: false  
-description: ""  
+description: "The Seed Underground, atalık tohumları korumaya ve başkaları ile paylaşmaya çalışan insanların hikayelerini anlatıyor. Janisse Ray hem kendi bahçıvanlık serüveni paylaşıyor hem de tohumların korunmasının önemine işaret ediyor."  
 posted: 2021-XX-XX  
+tag: "bahçe tarımı"
 image: "https://www.thebookish.de/assets/new/the-seed-underground.jpg"  
 ---
 
