@@ -12,6 +12,7 @@ description: "Farklı şartlara sahip piyasaların yönetilmesiyle ilgili sıra 
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-07-01
+tag: "tüketici davranışları"
 image: "https://www.thebookish.de/assets/old/who-gets-what-and-why.jpg"
 ---
 
