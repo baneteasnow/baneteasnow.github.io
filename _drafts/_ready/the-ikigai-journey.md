@@ -8,10 +8,11 @@ yazar: "Francesc Miralles, Hector Garcia"
 yil: "2019"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/53677560-the-ikigai-journey"
-description: ""
-last_modified_at:
+description: "Ikigai - Uygulama Rehberi, bir kişinin kendi Ikigaisini nasıl keşfedebileceğini çeşitli mini egzersizler eşliğinde aktarıyor."
+tag: "lifestyle"
+last_modified_at: 202X-XX-XX
 published: false
-posted:
+posted: 202X-XX-XX
 image: "https://www.thebookish.de/assets/new/the-ikigai-journey.jpg"
 ---
 
