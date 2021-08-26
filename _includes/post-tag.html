@@ -1,2 +1,8 @@
 <br />
-<span style="font-size: 85%; cursor: default; color: #777;">#{{page.tag | join: ' #'}} </span>
+<span style="font-size: 85%; cursor: default; color: #777;"> #
+  {% if page.tag == 'veganlık' or
+        page.tag == 'hayvan hakları' or
+        page.tag == 'etik' %}
+  <a href="/category.html#vegan">{{ page.tag | join: ' #' }}</a>
+  {% endif %}
+</span>
