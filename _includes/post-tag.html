@@ -23,7 +23,7 @@
        <a href="/category.html#planning">{{ page.tag | join: ' #' }}</a>
 
     {% elsif page.tag == 'moda markaları' or 
-             page.tag == 'tasarım' %} 
+             page.tag == 'moda tasarım' %} 
         <a href="/category.html#fashion">{{ page.tag | join: ' #' }}</a>
 
      {% elsif page.tag == 'mimarlık' or
@@ -46,13 +46,14 @@
                 page.tag == 'gelecek' or
                 page.tag == 'internet' or
                 page.tag == 'yazılım' or
-                page.tag == 'siber güvenlik' %}
+                page.tag == 'siber güvenl ve trendlerik' %}
           <a href="/category.html#technology">{{ page.tag | join: ' #' }}</a>
 
        {% elsif page.tag == 'fen bilimleri' or
                 page.tag == 'küresel ısınma' or
                 page.tag == 'sürdürülebilirlik' or
-                page.tag == 'permakültür' %}
+                page.tag == 'permakültür' or
+                page.tag == 'çevre' %}
           <a href="/category.html#science">{{ page.tag | join: ' #' }}</a>
 
         {% elsif page.tag == 'dijital kültür' or
@@ -77,6 +78,7 @@
   
           {% elsif page.tag == 'psikoloji' or 
                    page.tag == 'felsefe' or 
+                   page.tag == 'siyaset bilim' or
                    page.tag == 'sosyoloji' or 
                    page.tag == 'sosyal bilimler' or 
                    page.tag == 'eğitim' or
