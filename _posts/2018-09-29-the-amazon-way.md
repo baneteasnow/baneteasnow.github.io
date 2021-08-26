@@ -12,6 +12,7 @@ description: "Kitapta, Amazon.com'u rakiplerin farklılaştıran, onu lider konu
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-09-29
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/the-amazon-way.jpg"
 ---
 
