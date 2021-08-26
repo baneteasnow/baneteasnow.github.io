@@ -10,14 +10,15 @@ sayfa: "225"
 goodreads: "https://www.goodreads.com/book/show/96441.The_End_of_Education?from_search=true&from_srp=true&qid=mKrRYpHQ09&rank=1"
 last_modified_at:
 published: false
-description: ""
+description: "The End of Education kariyerine bir ilkokul öğretmeni olarak başlayan Neil Postman'ın kaleme aldığı bir kitap. Postman'ın bu kitabı yazma amacı ise ABD'de eğitimle ilgili krizi a 'dan z 'ye gözler önüne koymak. Kitabın ismi de çift anlamlı, hem okullarda verilen eğitimin olduğu şekilde devam etmesinin herhangi bir fayda getirmediğine hem de okulların başta belirlenen amaçlara hizmet edip etmediğine işaret ediyor."
+tag: "felsefe"
 posted: 2021-XX-XX
 image: "https://www.thebookish.de/assets/new/xxx.jpg"
 ---
 
 2022-05-18-
 
-The End of Education kariyerine bir ilkokul öğretmeni olarak başlayan Neil Postman'in kaleme aldığı bir kitap. Bir eğitimci olarak ilk günden beri gençlerin nasıl yetiştirileceğinin iyi planlanması ve doğru uygulamalar ile pek çok sosyal problemin önleneceğini düşündüğünü belirtiyor. Ayrıca, eğitim ile öğrenimin aynı olmadığının da altını çiziyor. Bu kitabı yazma amacı ise ABD'de eğitimle ilgili krizi a 'dan z' ye gözler önüne koymak. Kitabın ismi de çift anlamlı, hem okullarda verilen eğitimin olduğu şekilde devam etmesinin herhangi bir fayda getirmediğine hem de okulların başta belirlenen amaçlara hizmet edip etmediğine işaret ediyor.
+The End of Education kariyerine bir ilkokul öğretmeni olarak başlayan Neil Postman'ın kaleme aldığı bir kitap. Bir eğitimci olarak ilk günden beri gençlerin nasıl yetiştirileceğinin iyi planlanması ve doğru uygulamalar ile pek çok sosyal problemin önleneceğini düşündüğünü belirtiyor. Ayrıca, eğitim ile öğrenimin aynı olmadığının da altını çiziyor. Bu kitabı yazma amacı ise ABD'de eğitimle ilgili krizi a 'dan z' ye gözler önüne koymak. Kitabın ismi de çift anlamlı, hem okullarda verilen eğitimin olduğu şekilde devam etmesinin herhangi bir fayda getirmediğine hem de okulların başta belirlenen amaçlara hizmet edip etmediğine işaret ediyor.
 
 Neil Postman, eğitim ile ilgili sorunun iki temel boyutu olduğunu söylüyor. İlk boyut, öğrencilerin eğitimden ne aldıkları ile ilgili bir mühendislik sorunu iken ikinci boyut ise metafiziksel boyut yani eğitimin altında yatan amaç veya misyonla, eğitimin 'sonu' ile ilgili. Postman'in gözlemine göre, ABD'de okullarla ilgili tartışma daha çok mühendislik boyutu üzerinden yani müfredat, ders işleme yöntemleri, standart testler ve teknolojinin eğitimdeki yeri gibi konular üzerinden dönüyor. Diğer boyuta ise gereken önem verilmiyor. Bu da, okulların işlenmesi zorunlu olan konu başlıklarının üzerinden geçildiği ve gün sonunun dört gözle beklendiği yerler haline dönüşmesine yol açıyor.
 
