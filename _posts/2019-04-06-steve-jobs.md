@@ -12,6 +12,7 @@ description: "Walter Isaacson'un kaleme aldığı Steve Jobs'in biyografi kitab�
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-04-06
+tag: "biyografi"
 image: "https://www.thebookish.de/assets/old/steve-jobs.jpg"
 ---
 
