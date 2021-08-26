@@ -12,6 +12,7 @@ description: "Business Romantik, iş hayatında duyguların daha yoğun yaşand�
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-05-26
+tag: "çalışma yaşamı"
 image: "https://www.thebookish.de/assets/old/the-business-romantic.jpg"
 ---
 
