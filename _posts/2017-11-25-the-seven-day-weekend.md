@@ -12,6 +12,7 @@ description: "Yedi Günlük Hafta Sonu, iş-yaşam dengesi üzerinde duruyor ve 
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-11-25
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/the-seven-day-weekend.jpg"
 ---
 
