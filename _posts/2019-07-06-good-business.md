@@ -12,6 +12,7 @@ description: "Mihaly Csikszentmihalyi, Good Business isimli kitabında, çalış
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-07-06
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/good-business.jpg"
 ---
 
