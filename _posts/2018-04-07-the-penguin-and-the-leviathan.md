@@ -12,6 +12,7 @@ description: "Penguen ve Leviathan, internet üzerinde işbirliği ile ilerleyen
 last_modified_at: 2021-07-07
 published: true
 posted: 2018-04-07
+tag: "dijital kültür"
 image: "https://www.thebookish.de/assets/old/the-penguin-and-the-leviathan.jpg"
 ---
 
