@@ -12,6 +12,7 @@ description: "Kitap, teknolojide yaşanan gelişmeler ile birlikte gelecekteki d
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-06-17
+tag: "yapay zeka"
 image: "https://www.thebookish.de/assets/old/augmented.jpg"
 ---
 
