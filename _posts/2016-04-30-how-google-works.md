@@ -12,6 +12,7 @@ description: "Google Nasıl Yönetiliyor, dünyanın en popüler şirketlerinin 
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-04-30
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/how-google-works.jpg"
 ---
 
