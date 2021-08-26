@@ -12,6 +12,7 @@ description: "Mutlu Pazartesiler, çalışmanın ve çalışma yaşamının insa
 published: true
 last_modified_at: 2021-07-12
 posted: 2016-12-24
+tag: "çalışma yaşamı"
 image: "https://www.thebookish.de/assets/old/happy-mondays.jpg"
 ---
 
