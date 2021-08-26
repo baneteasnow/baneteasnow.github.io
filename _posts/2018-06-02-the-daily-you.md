@@ -12,6 +12,7 @@ description: "Kitap, sosyal medya ve internet ile birlikte markaların ve reklam
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-02
+tag: "internet"
 image: "https://www.thebookish.de/assets/old/the-daily-you.jpg"
 ---
 
