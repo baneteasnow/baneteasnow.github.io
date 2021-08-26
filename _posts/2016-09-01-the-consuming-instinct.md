@@ -12,6 +12,7 @@ description: "Tüketim İçgüdüsü, evrimsel psikolojiyi pazarlama ve tüketic
 last_modified_at: 2021-07-06
 published: true
 posted: 2016-09-01
+tag: "psikoloji"
 image: "https://www.thebookish.de/assets/old/the-consuming-instinct.jpg"
 ---
 
