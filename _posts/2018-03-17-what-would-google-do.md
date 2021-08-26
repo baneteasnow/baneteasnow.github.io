@@ -12,6 +12,7 @@ description: "Jeff Jarvis, Google Olsa Ne Yapardı isimli kitabında Google'ın 
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-03-17
+tag: "marka profili"
 image: "https://www.thebookish.de/assets/old/what-would-google-do.jpg"
 ---
 
