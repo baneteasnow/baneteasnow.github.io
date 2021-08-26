@@ -5,64 +5,64 @@
          page.tag == 'etik' %}
       <a href="/category.html#vegan">{{ page.tag | join: ' #' }}</a>
   
-    {% elsif post.tag == 'sağlık' or
-            post.tag == 'beslenme' or
-            post.tag == 'tıp' %}
+    {% elsif page.tag == 'sağlık' or
+             page.tag == 'beslenme' or
+             page.tag == 'tıp' %}
       <a href="/category.html#health">{{ page.tag | join: ' #' }}</a>
 
-    {% elsif post.tag == 'lifestyle' or
-            post.tag == 'motivasyon' or 
-            post.tag == 'seyahat' or
-            post.tag == 'yaratıcılık' %}     
+    {% elsif page.tag == 'lifestyle' or
+             page.tag == 'motivasyon' or 
+             page.tag == 'seyahat' or
+             page.tag == 'yaratıcılık' %}     
       <a href="/category.html#motivation">{{ page.tag | join: ' #' }}</a>
   
-    {% elsif post.tag == 'öğrenmeyi öğrenmek' or 
-            post.tag == 'üretkenlik ve teknoloji' or
-            post.tag == 'yazmak ve yaratıcılık' or
-            post.tag == 'zaman planlaması' %}   
+    {% elsif page.tag == 'öğrenmeyi öğrenmek' or 
+             page.tag == 'üretkenlik ve teknoloji' or
+             page.tag == 'yazmak ve yaratıcılık' or
+             page.tag == 'zaman planlaması' %}   
        <a href="/category.html#planning">{{ page.tag | join: ' #' }}</a>
 
-    {% elsif post.tag == 'moda' or 
-             post.tag == 'tasarım' %} 
+    {% elsif page.tag == 'moda' or 
+             page.tag == 'tasarım' %} 
         <a href="/category.html#fashion">{{ page.tag | join: ' #' }}</a>
 
-     {% elsif post.tag == 'mimarlık' or
-              post.tag == 'mühendislik' or 
-              post.tag == 'endüstriyel tasarım' %} 
+     {% elsif page.tag == 'mimarlık' or
+              page.tag == 'mühendislik' or 
+              page.tag == 'endüstriyel tasarım' %} 
          <a href="/category.html#architecture">{{ page.tag | join: ' #' }}</a>
 
-     {% elsif post.tag == 'sıfır atık yaşam' or
-              post.tag == 'minimalizm' %}
+     {% elsif page.tag == 'sıfır atık yaşam' or
+              page.tag == 'minimalizm' %}
          <a href="/category.html#minimalism">{{ page.tag | join: ' #' }}</a>
 
-      {% elsif post.tag == 'pazarlama' or
-               post.tag == 'reklam' %}
+      {% elsif page.tag == 'pazarlama' or
+               page.tag == 'reklam' %}
          <a href="/category.html#marketing">{{ page.tag | join: ' #' }}</a>
 
-      {% elsif post.tag contains 'tüketici davranışları' %}
+      {% elsif page.tag contains 'tüketici davranışları' %}
          <a href="/category.html#consumer">{{ page.tag | join: ' #' }}</a>
 
-       {% elsif post.tag == 'teknoloji' or
-                post.tag == 'yapay zeka' or
-                post.tag == 'gelecek' or
-                post.tag == 'bilgisayar bilimi' or
-                post.tag == 'siber güvenlik' %}
+       {% elsif page.tag == 'teknoloji' or
+                page.tag == 'yapay zeka' or
+                page.tag == 'gelecek' or
+                page.tag == 'bilgisayar bilimi' or
+                page.tag == 'siber güvenlik' %}
           <a href="/category.html#technology">{{ page.tag | join: ' #' }}</a>
 
-       {% elsif post.tag == 'fen bilimleri' or
-                post.tag == 'küresel ısınma' or
-                post.tag == 'sürdürülebilirlik' or
-                post.tag == 'permakültür' %}
+       {% elsif page.tag == 'fen bilimleri' or
+                page.tag == 'küresel ısınma' or
+                page.tag == 'sürdürülebilirlik' or
+                page.tag == 'permakültür' %}
           <a href="/category.html#science">{{ page.tag | join: ' #' }}</a>
 
-        {% elsif post.tag == 'dijital kültür' or
-                 post.tag == 'sosyal medya' or
-                 post.tag == 'medya' or
-                 post.tag == 'iletişim' %}
+        {% elsif page.tag == 'dijital kültür' or
+                 page.tag == 'sosyal medya' or
+                 page.tag == 'medya' or
+                 page.tag == 'iletişim' %}
           <a href="/category.html#media">{{ page.tag | join: ' #' }}</a>
 
-        {% elsif post.tag == 'biyografi' or
-                  post.tag == 'marka profili' %}
+        {% elsif page.tag == 'biyografi' or
+                 page.tag == 'marka profili' %}
           <a href="/category.html#profile">{{ page.tag | join: ' #' }}</a>
          
          {% elsif page.tag == 'çalışma yaşamı' or
@@ -72,10 +72,14 @@
                   page.tag == 'yönetim' %}   
             <a href="/category.html#work">{{ page.tag | join: ' #' }}</a>
 
-          {% elsif post.tag contains 'davranışsal iktisat' %}
+          {% elsif page.tag contains 'davranışsal iktisat' %}
             <a href="/category.html#behavioural">{{ page.tag | join: ' #' }}</a>
   
-          {% elsif page.tag == 'psikoloji' and page.tag == 'felsefe' and page.tag == 'sosyoloji' and page.tag == 'sosyal bilimler' and page.tag == 'sosyal psikoloji' %}  
+          {% elsif page.tag == 'psikoloji' or 
+                   page.tag == 'felsefe' or 
+                   page.tag == 'sosyoloji' or 
+                   page.tag == 'sosyal bilimler' or 
+                   page.tag == 'sosyal psikoloji' %}  
              <a href="/category.html#social">{{ page.tag | join: ' #' }}</a>
   
           {% else %}
