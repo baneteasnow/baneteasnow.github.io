@@ -12,6 +12,7 @@ description: "Kitap, internetin yaygınlaşması ile birlikte enformasyonun her 
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-01-21
+tag: "teknoloji"
 image: "https://www.thebookish.de/assets/old/the-attention-economy.jpg"
 ---
 
