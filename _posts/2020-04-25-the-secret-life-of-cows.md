@@ -12,6 +12,7 @@ description: "İneklerin Gizli Hayatı'nda Rosamund Young uzun yıllar çalışt
 published: true
 last_modified_at: 2021-07-12
 posted: 2020-04-25
+tag: "veganlık"
 image: "https://www.thebookish.de/assets/old/the-secret-life-of-cows.jpg"
 ---
 
