@@ -12,6 +12,7 @@ description: "Kadın ve erkeklerin alışveriş, satın alma, hizmet ve ürün t
 published: true
 last_modified_at: 2021-07-12
 posted: 2017-07-29
+tag: "tüketici davranışları"
 image: "https://www.thebookish.de/assets/old/the-x-and-y-of-buy.jpg"
 ---
 
