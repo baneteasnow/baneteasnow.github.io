@@ -12,6 +12,7 @@ description: "Akıllı Şehirler Dijital Ülkeler, teknoloji ile şekil değişt
 published: true
 last_modified_at: 2021-07-12
 posted: 2018-07-14
+tag: "şehir planlama"
 image: "https://www.thebookish.de/assets/old/smart-cities-digital-nations.jpg"
 ---
 
