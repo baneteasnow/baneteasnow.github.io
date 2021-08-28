@@ -4,8 +4,6 @@ title: 'kategoriler'
 ---
 
 <a name="vegan"></a>
-<details>
-  <summary>vegan</summary>
     <div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div> 
 {% for post in site.posts %}
     {% if post.tag == 'veganlık' or
@@ -14,12 +12,9 @@ title: 'kategoriler'
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}  
-    </details>
     <br />
 
 <a name="health"></a>
-<details open>
-  <summary>health</summary>
     <div class="link1"><a href="#health">sağlık + beslenme + tıp</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'sağlık' or
@@ -28,12 +23,9 @@ title: 'kategoriler'
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
-  </details>
     <br />
 
 <a name="motivation"></a>
-<details open>
-  <summary>lifestyle + motivasyon + seyahat + yaratıcılık</summary>
     <div class="link1"><a href="#motivation">lifestyle + motivasyon + seyahat + yaratıcılık</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'lifestyle' or
@@ -43,7 +35,6 @@ title: 'kategoriler'
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
- </details>
     <br />
 
 <a name="planning"></a>
