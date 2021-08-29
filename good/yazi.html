@@ -18,10 +18,8 @@ title: 'yazi'
 {%- if posts.size > 0 -%}
 <div>
   {%- for post in posts limit: include.limit -%}
-    <div style="text-align: left; margin-bottom: 15px; line-height: 25px;">
        <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
               <div style="clear: both;"></div>
-          </div>
     {%- endfor -%}
     <div style="clear: both;"></div>
    <span class="link1"> {%- if include.show_more and limit_exceeded -%}
