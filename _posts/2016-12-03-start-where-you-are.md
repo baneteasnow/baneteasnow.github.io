@@ -3,7 +3,7 @@ layout: post
 category: book2 
 title: "Start Where You Are | Meera Lee Petal (Kitap)"  
 kitap: "Start Where You Are: A Journal for Self-Exploration"  
-tr: "Start Where You Are - Kişisel Kesif İçin Bir Günlük"  
+tr: "Start Where You Are - Kişisel Keşif İçin Bir Günlük"  
 yazar: "Meera Lee Petal"  
 yil: "2016"  
 sayfa: "128"  
