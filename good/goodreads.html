@@ -9,7 +9,7 @@ title: 'kategoriler'
     {% if post.tag == 'veganlık' or
           post.tag == 'hayvan hakları' or
           post.tag == 'etik' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.image }}</a></p>
+      <p class="cat1"><img src="{{ post.image }}"/></p>
     {% endif %}
 {% endfor %}  
     <br />
