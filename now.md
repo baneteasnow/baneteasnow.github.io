@@ -16,6 +16,3 @@ What We Talk About When We Talk About Books (2019)
 <i>by</i> Leah Price  
 <br />  
 
-Vegan Devrimi ve Hayvan Özgürlüğü (2021)  
-<i>by</i> Zülâl Kalkandelen  
-<br />
