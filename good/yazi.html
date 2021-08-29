@@ -4,7 +4,7 @@ title: 'yazi'
 ---
 
         {% for post in site.posts %}
-           {% if post.category == 'book' %}
+           {% if post.category != 'book3' %}
        <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
             {% endif %}
         {% endfor %} 
