@@ -3,8 +3,10 @@ layout: page-9
 title: 'yazi'
 ---
 
-{% for post in site.posts %}
+        {% for post in site.posts %}
+           {% if post.category == 'book' %}
        <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
-              <div style="clear: both;"></div>
-    {%- endfor -%}
-    <div style="clear: both;"></div>
+            {% endif %}
+        {% endfor %} 
+    <br />
+<div style="clear: both;"></div>
