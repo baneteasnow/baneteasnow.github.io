@@ -2,22 +2,14 @@
 layout: page-9
 title: 'kategoriler'
 ---
-<style>
-  .image-gallery {overflow: auto; margin-left: -1%!important;}
-  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-  .image-gallery a img {width: 100%; display: block;}
-</style>
 
 <a name="vegan"></a>
     <div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div> 
-      <div class="image-gallery">
         {% for post in site.posts %}
            {% if post.tag == 'veganlık' or
                  post.tag == 'hayvan hakları' or
                  post.tag == 'etik' %}
-        <img src="{{ post.image }}"/>
+        <img src="{{ post.image }}" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 3%; width: 22%;" />
             {% endif %}
         {% endfor %} 
-      </div>
     <br />
