@@ -3,27 +3,8 @@ layout: page-9
 title: 'yazi'
 ---
 
-{%-if include.category-%}
-  {%-assign posts = site.categories[include.category]-%}  
-{%-else-%}
-  {%-assign posts = site.posts-%}
-{%-endif-%}
-
-{%-if include.limit and posts.size > include.limit-%}
-  {%-assign limit_exceeded = true-%}
-{%-else-%}
-  {%-assign limit_exceeded = false-%}
-{%-endif-%}
-
-{%- if posts.size > 0 -%}
-<div>
-  {%- for post in posts limit: include.limit -%}
+{% for post in site.posts %}
        <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
               <div style="clear: both;"></div>
     {%- endfor -%}
     <div style="clear: both;"></div>
-   <span class="link1"> {%- if include.show_more and limit_exceeded -%}
-      <a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></span>
-    {%- endif -%}
-  </div>
-{%- endif -%}
