@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-08-07
+last_modified_at: 2021-08-29
 ---
 
 New Dark Age: Technology and the End of the Future (2018)  
