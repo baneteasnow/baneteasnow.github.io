@@ -8,15 +8,14 @@ title: 'kategoriler'
   .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
   .image-gallery a img {width: 100%; display: block;}
 </style>
-<div class="image-gallery">
+
 <a name="vegan"></a>
     <div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div> 
 {% for post in site.posts %}
     {% if post.tag == 'veganlık' or
           post.tag == 'hayvan hakları' or
           post.tag == 'etik' %}
-      <p class="cat1"><img src="{{ post.image }}"/></p>
+      <div class="image-gallery"><img src="{{ post.image }}"/></div>
     {% endif %}
 {% endfor %} 
-</div>
     <br />
