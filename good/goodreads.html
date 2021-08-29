@@ -11,11 +11,13 @@ title: 'kategoriler'
 
 <a name="vegan"></a>
     <div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div> 
-{% for post in site.posts %}
-    {% if post.tag == 'veganlık' or
-          post.tag == 'hayvan hakları' or
-          post.tag == 'etik' %}
-      <div class="image-gallery"><img src="{{ post.image }}"/></div>
-    {% endif %}
-{% endfor %} 
+      <div class="image-gallery">
+        {% for post in site.posts %}
+           {% if post.tag == 'veganlık' or
+                 post.tag == 'hayvan hakları' or
+                 post.tag == 'etik' %}
+        <img src="{{ post.image }}"/>
+            {% endif %}
+        {% endfor %} 
+      </div>
     <br />
