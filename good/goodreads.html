@@ -9,7 +9,186 @@ title: 'kategoriler'
            {% if post.tag == 'veganlık' or
                  post.tag == 'hayvan hakları' or
                  post.tag == 'etik' %}
-        <img src="{{ post.image }}" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 3%; width: 22%;" />
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
             {% endif %}
         {% endfor %} 
+    <br />
+
+<a name="health"></a>
+    <div class="link1"><a href="#health">sağlık + beslenme + tıp</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'sağlık' or
+          post.tag == 'beslenme' or
+          post.tag == 'tıp' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="motivation"></a>
+    <div class="link1"><a href="#motivation">lifestyle + motivasyon + seyahat + yaratıcılık</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'lifestyle' or
+          post.tag == 'motivasyon' or 
+          post.tag == 'seyahat' or
+          post.tag == 'yaratıcılık' %}      
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="planning"></a>
+    <div class="link1"><a href="#planning">öğrenmeyi öğrenmek + üretkenlik ve teknoloji + yazmak ve yaratıcılık + zaman planlaması</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'öğrenmeyi öğrenmek' or 
+          post.tag == 'üretkenlik ve teknoloji' or
+          post.tag == 'yazmak ve yaratıcılık' or
+          post.tag == 'zaman planlaması' %} 
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="fashion"></a>
+    <div class="link1"><a href="#fashion">moda markaları+ tasarım</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'moda markaları' or 
+          post.tag == 'moda tasarım' %}      
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="architecture"></a>
+    <div class="link1"><a href="#architecture">mimarlık + mühendislik + endüstriyel tasarım + şehir planlama</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'mimarlık' or
+          post.tag == 'mühendislik' or 
+          post.tag == 'şehir planlama' or
+          post.tag == 'endüstriyel tasarım' %}      
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="minimalism"></a>
+    <div class="link1"><a href="#minimalism">minimalizm + sıfır atık yaşam</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'sıfır atık yaşam' or
+          post.tag == 'minimalizm' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="marketing"></a>
+    <div class="link1"><a href="#marketing">pazarlama + reklam + tüketici davranışları</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'pazarlama' or
+          post.tag == 'reklam' 
+          post.tag == 'tüketici davranışları' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="technology"></a>
+    <div class="link1"><a href="#technology">teknoloji + gelecek ve trendler + yapay zeka + siber güvenlik + internet + yazılım + bilgi sistemleri</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'teknoloji' or
+          post.tag == 'yapay zeka' or
+          post.tag == 'gelecek ve trendler' or
+          post.tag == 'internet' or
+          post.tag == 'internet of things' or
+          post.tag == 'yazılım' or
+          post.tag == 'bilgi sistemleri' or
+          post.tag == 'siber güvenlik' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="science"></a>
+    <div class="link1"><a href="#science">fen bilimleri + küresel ısınma + sürdürülebilirlik + permakültür + çevre</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'fen bilimleri' or
+          post.tag == 'küresel ısınma' or
+          post.tag == 'sürdürülebilirlik' or
+          post.tag == 'permakültür' or
+          post.tag == 'bahçe tarımı' or
+          post.tag == 'çevre' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="media"></a>
+    <div class="link1"><a href="#media">dijital kültür + sosyal medya + medya + iletişim + sanat</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'dijital kültür' or
+          post.tag == 'sosyal medya' or
+          post.tag == 'medya' or
+          post.tag == 'sanat' or
+          post.tag == 'iletişim' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="profile"></a>
+    <div class="link1"><a href="#profile">biyografi + marka profili</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'biyografi' or
+          post.tag == 'marka profili' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="work"></a>
+    <div class="link1"><a href="#work">çalışma yaşamı + kariyer + girişimcilik + hukuk + yönetim </a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'çalışma yaşamı' or
+          post.tag == 'kariyer' or
+          post.tag == 'girişimcilik' or
+          post.tag == 'hukuk' or
+          post.tag == 'yönetim' %}      
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="behavioural"></a>
+    <div class="link1"><a href="#behavioural">davranışsal iktisat</a></div>
+{% for post in site.posts %}
+    {% if post.tag contains 'davranışsal iktisat' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="economics"></a>
+    <div class="link1"><a href="#economics">ekonomi + küreselleşme</a></div>
+{% for post in site.posts %}
+    {% if post.tag == 'ekonomi' or
+          post.tag == 'küreselleşme' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+    {% endif %}
+{% endfor %}
+    <br />
+
+<a name="social"></a>
+    <div class="link1"><a href="#social">sosyal bilimler + psikoloji + sosyoloji + felsefe + tarih + sosyal psikoloji + siyaset bilimi + eğitim</a></div>
+    {% for post in site.posts %}
+        {% if post.tag == 'psikoloji' or
+              post.tag == 'felsefe' or
+              post.tag == 'sosyoloji' or
+              post.tag == 'siyaset bilim' or
+              post.tag == 'sosyal bilimler' or
+              post.tag == 'eğitim' or
+              post.tag == 'tarih' or
+              post.tag == 'sosyal psikoloji' %}      
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
+        {% endif %}
+    {% endfor %}
     <br />
