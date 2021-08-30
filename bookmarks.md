@@ -109,11 +109,9 @@ last_modified_at: 2021-08-06
 | bookseer.com |
 | lovereading.co.uk/genres/lrnbm/non-fiction-books-of-the-month |
 | kirkusreviews.com/discover-books/nonfiction |
-| goodreads.com |
-| librarything.com |
-| 1000kitap.com |
 | litsy.com/web/tag/nonfiction |
 | italictype.com/explore/ |
+| readthistwice.com |
 
 <br />
 
