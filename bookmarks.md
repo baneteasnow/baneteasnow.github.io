@@ -64,6 +64,7 @@ last_modified_at: 2021-08-06
 | thefortunebook.club |
 | thekeypoint.org/book-reviews/book-covers/ |
 | thomasoppong.com/reading-list/ |
+| libraryof.xyz/the_library/ |
 | vegankitap.com |
 | waiyancan.com |
 | whatsnonfiction.com |
