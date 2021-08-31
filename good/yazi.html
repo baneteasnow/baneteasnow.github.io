@@ -2,11 +2,11 @@
 layout: page-9
 title: 'yazi'
 ---
+  <!--<a href="#">
+   <img alt="thebookishde" src="https://notes.thebookish.de/assets/new/placeholder.jpg" style="float: left; height: 70%; margin-bottom: 1em; margin-right: 3%; width: 22%;" title="thebookishde"/></a>-->
 
-        {% for post in site.posts %}
-           {% if post.category != 'book3' %}
-       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 19%;" /></a>
-            {% endif %}
-        {% endfor %} 
-    <br />
+{% include image-gallery.html folder="/assets/new" %}
+<br />
+{% include image-gallery.html folder="/assets/old" %}
 <div style="clear: both;"></div>
+<br />
