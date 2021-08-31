@@ -8,11 +8,12 @@ yazar: "Bill Gates"
 yil: "2021"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/52275335-how-to-avoid-a-climate-disaster"
-last_modified_at:
+last_modified_at: 2021-09-01
 published: false
 description: "Bill Gates, How to Avoid a Climate Disaster isimli kitabında iklim krizini giriş düzeyinde ele alarak temel kavramlara odaklanıyor."
-posted: 2021-XX-XX
+posted: 2021-09-01
 tag: "küresel ısınma"
+eng: "'How to avoid a Climate Disaster' by Microsoft co-founder and philanthropist Bill Gates is an urgent call for action on climate change. According to Bill Gates, in order to prevent the climate crisis, there is no other way but to achieve zero carbon emissions as soon as possible. Although it will be a huge challenge, he is optimistic because of the upcoming technological developments in clean energy. Overall, this book is a guideline for the basics of climate change."
 image: "https://www.thebookish.de/assets/new/how-to-avoid-a-climate-disaster.jpg"
 ---
 
