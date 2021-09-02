@@ -16,6 +16,8 @@ tag: "veganlık"
 image: "https://www.thebookish.de/assets/new/vegan-devrimi-ve-hayvan-ozgurlugu.jpg"
 ---
 
+2022-06-22-
+
 Vegan Devrimi ve Hayvan Özgürlüğü, Zülal Kalkandelen'in kaleminden Türkiye'den ve dünyadan örneklerle veganizm ve hayvan haklarını tartışıyor. Gözden geçirilmiş yeni baskısında Adalar'daki faytonlarda kullanılan atların kurtarılması için verilen mücadele ve 'hayvan hakları yasası' ile ilgili detaylar yer alıyor. Kitapta Zülal Kalkandelen'in ünlü veganlar ve hayvan özgürlüğü aktivistleri ile yapmış olduğu röportajlar da var. Farklı ülkelerden veganların ve aktivistlerin kendi fikirlerini paylaştıkları bu röportajlar özellikle ilgi çekici.
 
 Zülal Kalkandelen'in kitaptaki en önemli mesajı, hayvan özgürlüğü ile veganizmin birbirinden ayrı düşünülemeyeceği, aksi takdirde sarfedilen çabaların hayvanlar için bir fark yaratmak yerine veganizmi sadece bitkisel beslenme düzeyine indirgeyecek olmasıdır. Kitabın ilk bölümünde anlatılan 'turculuk' kavramının anlaşılması bu açıdan çok önemli. Bugün hayvan özgürlüğü mücadelesinin temel dayanak noktası olan bu kavramın geliştirilmesine felsefeci Peter Singer katkı sağlamıştır. Turculuk kavramı, bir türün diğer türlerden daha üstün ya da öncelikli olduğu düşüncesiyle ayrıcalık tanınması anlamına gelir. (sayfa 21) İnsanlar bazı hayvanları evlerinde beşlerken, neden diğer bazılarının tabaklarında ya da hayvanat bahçelerinde kafeslerde tutulmalarını normal karşılarlar? Bu soruya cevap olarak 'alışkanlık' denilemez; tüm canlıların özgürce yaşam hakkı vardır. Hayvanların yaşam koşullarının iyileştirilmesi bu soruna çözüm olamaz.
