@@ -103,7 +103,7 @@ last_modified_at: 2021-08-06
 | whichbook.net |
 | olmenta.altervista.org |
 | nextbooktoread.com |
-| mostrecommendedbooks.com/ |
+| mostrecommendedbooks.com |
 | fivebooks.com |
 | bookmarks.reviews/category/non-fiction/ |
 | whatshouldireadnext.com |
