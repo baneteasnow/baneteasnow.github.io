@@ -41,6 +41,7 @@ last_modified_at: 2021-08-06
 | joshsteimle.com/book-club/ |
 | jsilva.blog/book-summaries/ | 
 | lawsonblake.com/book-notes/ |
+| libraryof.xyz/the_library/ |
 | lifeclub.org/book-categories/ |
 | maggieappleton.com/library/ |
 | marloyonocruz.com/all-book-notes/ |
@@ -64,7 +65,6 @@ last_modified_at: 2021-08-06
 | thefortunebook.club |
 | thekeypoint.org/book-reviews/book-covers/ |
 | thomasoppong.com/reading-list/ |
-| libraryof.xyz/the_library/ |
 | vegankitap.com |
 | waiyancan.com |
 | whatsnonfiction.com |
