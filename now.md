@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-08-29
+last_modified_at: 2021-09-07
 ---
 
 Our House Is on Fire: Scenes of a Family and a Planet in Crisis (2018)  
