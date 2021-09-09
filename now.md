@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-09-07
+last_modified_at: 2021-09-09
 ---
 
 What We Talk About When We Talk About Books (2019)  
