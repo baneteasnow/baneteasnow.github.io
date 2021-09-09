@@ -12,6 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
+tag: ""
 image: "https://www.thebookish.de/assets/new/what-we-talk-about-when-we-talk-about-books.jpg"
 ---
 
