@@ -12,6 +12,7 @@ last_modified_at: 2021-XX-XX
 published: false
 description: ""
 posted: 2021-XX-XX
+tag: "biyografi"
 image: "https://notes.thebookish.de/assets/new/our-house-is-on-fire.jpg"
 ---
 
