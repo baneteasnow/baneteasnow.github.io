@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "101 Things I Learned in Business School | Michael W. Preis, Matthew Frederick (Kitap)"
 kitap: "101 Things I Learned in Business School"
-tr: "-"
+tr: "İşletme Okulunda Öğrendiğim 101 Şey"
 yazar: "Michael W. Preis, Matthew Frederick"
 yil: "2021"
 sayfa: "214"
