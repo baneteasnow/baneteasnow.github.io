@@ -43,7 +43,8 @@ title: 'kategoriler'
     {% if post.tag == 'öğrenmeyi öğrenmek' or 
           post.tag == 'üretkenlik ve teknoloji' or
           post.tag == 'yazmak ve yaratıcılık' or
-          post.tag == 'zaman planlaması' %}      
+          post.tag == 'zaman planlaması' or
+          post.tag == 'kitap okumak ve kitaplar' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
 {% endfor %}
