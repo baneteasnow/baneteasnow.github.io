@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
-tag: "yazmak ve yaratıcılık"
+tag: "kitap okumak ve kitaplar"
 image: "https://www.thebookish.de/assets/new/the-world-between-two-covers.jpg"
 ---
 
