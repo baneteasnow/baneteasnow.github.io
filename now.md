@@ -4,7 +4,8 @@ title: şimdi okuduğum kitap
 last_modified_at: 2021-09-15
 ---
 
-The World Between Two Covers: Reading the Globe (2015)  
+Reading the World: Confessions of a Literary Explorer <br />
+(The World Between Two Covers: Reading the Globe) (2015)  
 <i>by</i> Ann Morgan  
 <br />
 
