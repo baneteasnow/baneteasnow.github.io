@@ -8,15 +8,13 @@ yazar: "Neil Landau, Matthew Frederick"
 yil: "2021"
 sayfa: "218"
 goodreads: "https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school"
-last_modified_at:
-published: false
+last_modified_at: 2021-09-22
+published: true
 description: "101 Things I Learned in Film School, sinema ve film yapımcılığı ile ilgili temel kavramları aktarıyor."
-posted: 2021-XX-XX
+posted: 2021-09-22
 tag: "sanat"
 image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-film-school.jpg"
 ---
-
-2021-09-22-
 
 101 Things I Learned in Film School, sinema ve film yapımcılığı ile ilgili temel kavramları aktarıyor. Kitapta cevabı yer alan sorular arasından bazı örnekler şöyle:
 
