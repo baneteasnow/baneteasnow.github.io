@@ -13,7 +13,7 @@ goodreads: "https://www.goodreads.com/book/show/31213421-make-space"
 description: "Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap."
 posted: 2021-05-19
 tag: "minimalizm"
-image: "https://www.thebookish.de/assets/new/make-space.jpg"
+image: "/assets/new/make-space.jpg"
 ---
 
 Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap. Kitabın yazarı Regina Wong'un 'livewellwithless' (önceki adı 'simple and minimal') isminde bir blogu bulunuyor.
