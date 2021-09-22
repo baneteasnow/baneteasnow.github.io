@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2016-11-19
 tag: "mimarlık"
-image: "https://www.thebookish.de/assets/old/101-things-i-learned-in-architecture-school.jpg"
+image: "/assets/old/101-things-i-learned-in-architecture-school.jpg"
 ---
 
 Mimarlık Okulunda Öğrendiğim 101 Şey, tasarım ve mimarlıkla ilgili temel hareket noktalarından ve kavramlardan bahsediyor. Kitapta, çizim, mekan, bina kat planları gibi konularda bazı ipuçları paylaşılıyor. Sağ sayfalarda çoğu zaman birkaç cümleyi aşmayan notlar ve sol sayfada da konuyla ilgili açıklayıcı bir çizim bulunuyor.  
