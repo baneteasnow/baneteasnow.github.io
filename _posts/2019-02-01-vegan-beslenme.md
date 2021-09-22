@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-02-01
 tag: "beslenme"
-image: "https://www.thebookish.de/assets/old/vegan-beslenme.jpg"
+image: "/assets/old/vegan-beslenme.jpg"
 ---
 
 Vegan Beslenme kitabının yazarı Murat Kınıkoğlu bir hekim ve hem kendisi hem de eşi vegan. Kitabında bir doktorun gözünden uygulamalı vegan beslenmeyi anlatıyor, kitabın kaynakçasında literatürden çeşitli güncel araştırmalar yer alıyor. Kitapta bu araştırmalardan çeşitli alıntılar yapılmış ve vegan beslenmenin neden en doğru beslenme düzeni olduğu gerekçelendirilmiş.  
