@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2014-07-05
 tag: "çalışma yaşamı"
-image: "https://www.thebookish.de/assets/old/the-carrot-principle.jpg"
+image: "/assets/old/the-carrot-principle.jpg"
 ---
 
 Havuç İlkesi, 'en iyi yöneticiler çalışanlarını takdir ederek onların yeteneklerini nasıl daha fazla kullanmalarını sağlarlar?' sorusuna cevap arıyor. Kitap, takdirin önemini ve iş sonuçlarına yansımasını tartışarak başlıyor. İkinci bölümde havuç ilkesi ve hızlandırıcı olarak "takdir" açıklanıyor; liderliğin temel dörtlüsüne ve ayrıntılarına yer veriliyor:  
