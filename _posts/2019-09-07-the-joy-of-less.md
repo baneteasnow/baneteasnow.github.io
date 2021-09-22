@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-07
 tag: "minimalizm"
-image: "https://www.thebookish.de/assets/old/the-joy-of-less.jpg"
+image: "/assets/old/the-joy-of-less.jpg"
 ---
 
 Azla Mutlu Olmak, Francine Jay'ın kaleme aldığı bir kitap. Kendisinin missminimalist.com isminde bir blogu var. Blogunda gerçek minimalistlerin yaşamlarından örnekler ve minimalist yaşama dair ipuçları bulunuyor.  
