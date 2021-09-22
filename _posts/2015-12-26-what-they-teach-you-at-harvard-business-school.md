@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-05
 posted: 2015-12-26
 tag: "biyografi"
-image: "https://www.thebookish.de/assets/old/what-they-teach-you-at-harvard-business-school.jpg"
+image: "/assets/old/what-they-teach-you-at-harvard-business-school.jpg"
 ---
 
 Harvard Business School'da Size Ne Öğretirler kitabının yazarı Philip Delves Broughton aslında bir gazeteci. İngiltere'de büyüyen yazar, 1994 yılında Oxford Üniversitesi New College'dan mezun olmuş ve 1998-2002 yılları arasında İngiliz The Daily Telegraph gazetesinin New York ve 2002-2004 yılları arasında da Paris temsilciliklerini sürdürmüş. 2004 yılında başvurduğu Harvard Business School MBA programına kabul edilmiştir. 2006 yılında bu okuldan mezun olmuş ve 2008 yılında da bu okulda geçirdiği iki yılı anlatan bu kitabını kaleme almıştır.  
