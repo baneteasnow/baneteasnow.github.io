@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-07-29
 tag: "tüketici davranışları"
-image: "https://www.thebookish.de/assets/old/the-x-and-y-of-buy.jpg"
+image: "/assets/old/the-x-and-y-of-buy.jpg"
 ---
 
 Elizabeth Pace, Alışverişte Kadın Erkek isimli kitabına 2002 yılında davranışları etkileyen cinsiyet farklılıkları üzerine kaleme alınan bazı kitapları (The Wonder of Girls - Michael Gürian, vb.) nasıl okuduğunu anlatarak başlıyor. Ardından, bu konuyu kendi uzmanlık alanı olan pazarlama ve satış stratejilerini kurgulamaya nasıl uyarlanabileceğini düşündüğünde, bu kitabının temelleri ortaya çıkmış oluyor.  
