@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-03-18
 tag: "biyografi"
-image: "https://www.thebookish.de/assets/old/sam-walton.jpg"
+image: "/assets/old/sam-walton.jpg"
 ---
 
 Sally Lee tarafından kaleme alınan kitap, oldukça akıcı bir dille yazılmış ve Sam Walton'ın hayatından çeşitli anektotlar da aktarılmış. Hemen her bölümde resimlerin yer aldığı kitap, küçük yaşta çalışmaya başlayan Walton'ın kendini perakendeciliğin büyüsüne kaptırarak, rakiplerine göre fark yaratmaya çalışmasını konu ediniyor. Walmart'ı kurmadan önce birkaç başarısız girişim denemesinde bulunan Walton, borçlanarak açtığı Walmart'ları dünyanın en büyük perakende zincirine dönüştürmeyi başarmıştır. Özellikle ilk yıllarda reklama hemen hiç bütçe ayırmadan, kısıtlı imkanlarla bir şeyler yapmaya çalıştıklarına dair en güzel örneklerden biri, ürünlerin fiyatlarını gösteren broşürlerin ürün resimlerinin gazeteden kesilerek yanlarına fiyat yazılması ve fotokopi ile çoğaltılması ile elde edildiğini anlatıyor.  
