@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-11-30
 tag: "yaratıcılık"
-image: "https://www.thebookish.de/assets/old/steal-like-an-artist.jpg"
+image: "/assets/old/steal-like-an-artist.jpg"
 ---
 
 Sanatçılar ve yaratıcılığını konuşturmak isteyenler için eğlenceli bir kitap önerim var: 'Bir Sanatçı Gibi Araklayın'. Bu kitap, New York Times Bestseller listesine de girmiş.  
