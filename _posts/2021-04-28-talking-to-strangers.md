@@ -13,7 +13,7 @@ goodreads: "https://www.goodreads.com/book/show/43848929-talking-to-strangers"
 description: "Malcolm Gladwell, Talking to Strangers isimli kitabında birbirlerini iyi tanımayan insanların etkileşimlerini inceliyor. Ortaya çıkan kimi olumsuz durumları irdeliyor, 'yanlış anlaşılmanın' veya 'karşı tarafı yanlış yorumlamanın' hangi noktada başladığını açıklıyor."
 posted: 2021-04-28
 tag: "psikoloji"
-image: "https://www.thebookish.de/assets/new/talking-to-strangers.jpg"
+image: "/assets/new/talking-to-strangers.jpg"
 ---
 
 Malcolm Gladwell, Talking to Strangers isimli kitabında birbirlerini iyi tanımayan insanların etkileşimlerini inceliyor. Ortaya çıkan kimi olumsuz durumları irdeliyor, 'yanlış anlaşılmanın' veya 'karşı tarafı yanlış yorumlamanın' hangi noktada başladığını açıklıyor.
