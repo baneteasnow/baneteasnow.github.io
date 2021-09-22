@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-06-29
 tag: "çalışma yaşamı"
-image: "https://www.thebookish.de/assets/old/the-deals-that-made-the-world.jpg"
+image: "/assets/old/the-deals-that-made-the-world.jpg"
 ---
 
 Gazeteci yazar Jacques Peretti, Dünyayı Değiştiren Gizli Anlaşmalar isimli kitabında herkesi ilgilendiren 15 farklı konuya değiniyor, bu konuların perde arkasını anlatırken gerçekleri de ortaya çıkarıyor. 
