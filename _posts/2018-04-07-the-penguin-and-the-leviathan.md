@@ -13,7 +13,7 @@ last_modified_at: 2021-07-07
 published: true
 posted: 2018-04-07
 tag: "dijital kültür"
-image: "https://www.thebookish.de/assets/old/the-penguin-and-the-leviathan.jpg"
+image: "/assets/old/the-penguin-and-the-leviathan.jpg"
 ---
 
 Yazarı Harvard Üniversitesi Hukuk Profesörü Yochai Benkler olan kitap, iş birliği ile inşa edilen modellerle ilgili en çok kullanılan örnekler olan Wikipedia ve Linux ile başlıyor. Bu örneklerin her ikisi de insanlar arası iş birliği üzerine kurulmuş sistemler.  
