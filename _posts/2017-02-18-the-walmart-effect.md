@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-02-18
 tag: "marka profili"
-image: "https://www.thebookish.de/assets/old/the-walmart-effect.jpg"
+image: "/assets/old/the-walmart-effect.jpg"
 eng: "Walmart is one of the most influential companies in the world, especially in terms of bargaining capability and supply chain. This book tells the story of Walmart with both positive and negative sides. This company creates new jobs; at the same time, it destroys small size businesses within years. Even if you don't have a Walmart in your town, it is nearly impossible to avoid the effects of Walmart."
 ---
 
