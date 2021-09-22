@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2013-12-25
 tag: "çalışma yaşamı"
-image: "https://www.thebookish.de/assets/old/how-would-you-move-mount-fuji.jpg"
+image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 
 William Poundstone tarafından yazılan bu kitap, bir dönem internette ve sosyal medyada oldukça popüler olan 'alışılmışın dışında - ilginç mülakat soruları' başlıklı yazıların kaynağı aslında.  
