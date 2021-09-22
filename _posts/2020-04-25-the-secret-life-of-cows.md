@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2020-04-25
 tag: "veganlık"
-image: "https://www.thebookish.de/assets/old/the-secret-life-of-cows.jpg"
+image: "/assets/old/the-secret-life-of-cows.jpg"
 ---
 
 İneklerin Gizli Hayatı, bugüne kadar okuduğum en güzel kitaplardan biriydi. Kitap, her ne kadar ineklerin yaşamını anlatsa da, aslında tüm canlıların ortak bir payda da nasıl buluştuğunu da anlatiyor; huzurlu bir ortamda ailesi ile sevdikleri ile yaşamını sürdürmek. Uzun yıllar çalıştığı aile çiftliğinde ineklerle ve çiftliğin düzeni ile ilgili gözlemleri anlatan yazar Young, bunu çok başarılı bir dil kullanarak yapıyor; kitapta ineklere karakterlerine uygun olarak verdikleri isimlerin hem hikayelerine yer veriyor hem de yer yer neşeli yer yer hüzünlü kesitleri paylaşıyor çiftlik hayatından. Kitabın veganlık ile ilgili kitap listelerinde yer aldığı notunu da paylaşmak istiyorum.  
