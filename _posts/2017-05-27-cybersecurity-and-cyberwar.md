@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-05-27
 tag: "siber güvenlik"
-image: "https://www.thebookish.de/assets/old/cybersecurity-and-cyberwar.jpg"
+image: "/assets/old/cybersecurity-and-cyberwar.jpg"
 ---
 
 P.W. Singer ve Allan Friedman tarafından yazılan Siber Güvenlik ve Siber Savaş sanal dünyada yaşanan tehlikeleri anlatıyor ve olası bir siber savaş durumunda yaşanabilecekleri tartışıyor. Bilgisayar virüsleri, solucanlar, tehlikeli yazılımların yol açtığı (ve açabileceği) tehlikeleri hem bireysel kullanıcılar, hem kurumlar hem de devletler açısından inceliyor. Bir anlık dikkatsizliğin telafisinin sanal dünyada imkanı olmadığını örneklerle açıklıyor. Ayrıca, siber güvenlik farkındalığının arttırılması için ne yapılması gerektiğini de anlatıyor.  
