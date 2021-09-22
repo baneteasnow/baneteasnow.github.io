@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-02-25
 tag: "biyografi"
-image: "https://www.thebookish.de/assets/old/the-accidental-billionaires.jpg"
+image: "/assets/old/the-accidental-billionaires.jpg"
 ---
 
 Kazara Milyarder, dünyanın en çok tanınan ve her ülkeden milyonlarca üyesi bulunan sosyal ağ Facebook'un hikayesini anlatıyor. 2003 yılında tam da internet üzerinde aktif olarak boy gösteren pek çok web sitesinin kurulduğu o günlerde, kitap bir grup Harvard öğrencisinin hayatından kesitler sunuyor. Olaylar elbette Mark Zuckerberg etrafında gelişiyor ancak, onun bu siteyi kurma ve içeriğini oluşturma, duvar, dürtme gibi kavramları oluşturma aşamasında yaşadıkları anlatılıyor.
