@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2013-11-30
 tag: "felsefe" 
-image: "https://www.thebookish.de/assets/old/the-pleasures-and-sorrows-of-work.jpg"
+image: "/assets/old/the-pleasures-and-sorrows-of-work.jpg"
 ---
 
 Alain de Botton, balıkçılık, danışmanlık, gemicilik gibi farklı mesleklere ve bu mesleklerin zorunlu olarak getirdiği farklı hayat tarzlarına sahip kişilerle görüşerek onların sıradan bir günlerini takip ediyor, çalışmayı ve çalışmanın doğasını sorguluyor. Çalışan, üreten, gün içinde çeşitli sıkıntılara katlanan ancak emeği karşılığında da verimli ve yararlı olabilen insanların elde ettikleri maddi kazançla da hayallerini gerçekleştirme ve hatta kendilerini bulma imkanına sahip olmalarının öyküsünü anlatıyor. Kitapta farklı mesleklerden kişilerin hayatlarından aktarılan kesitler resimlerle de desteklenmiş.   
