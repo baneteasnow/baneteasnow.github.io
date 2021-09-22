@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-05-11
 tag: "psikoloji"
-image: "https://www.thebookish.de/assets/old/talent-is-overrated.jpg"
+image: "/assets/old/talent-is-overrated.jpg"
 ---
 
 Geoff Colvin'in kaleme aldığı Yetenek Dediğin Nedir Ki, bir alanda başarılı olmak için doğuştan yetenekli mi olmak gerektiği yoksa başarının sırrının o alanda çok fazla alıştırma yapmak mı olduğunu pek çok örnekle anlatıyor.  
