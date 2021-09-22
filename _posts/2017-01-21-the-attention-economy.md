@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-01-21
 tag: "teknoloji"
-image: "https://www.thebookish.de/assets/old/the-attention-economy.jpg"
+image: "/assets/old/the-attention-economy.jpg"
 ---
 
 Dikkat Ekonomisi isimli kitap, yazarları Thomas H. Davenport ve John C. Beck tarafından 2001'de kaleme alınmış.  
