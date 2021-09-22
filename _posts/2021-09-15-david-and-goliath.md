@@ -13,7 +13,7 @@ published: true
 description: "Malcolm Gladwell, David and Goliath isimli kitabında avantajlı görünenlerle dezavantajlı görünenlerin hikayesini anlatıyor ve 'avantaj' ile 'dezavantaj' sayılan unsurların aslında göründükleri gibi olmayabileceğini vurguluyor."
 tag: "psikoloji"
 posted: 2021-09-15
-image: "https://www.thebookish.de/assets/new/david-and-goliath.jpg"
+image: "/assets/new/david-and-goliath.jpg"
 ---
 
 Malcolm Gladwell, David and Goliath isimli kitabında avantajlı görünenlerle dezavantajlı görünenlerin hikayesini anlatıyor ve 'avantaj' ile 'dezavantaj' sayılan unsurların aslında göründükleri gibi olmayabileceğini vurguluyor.
