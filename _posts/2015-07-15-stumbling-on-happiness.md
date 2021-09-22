@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2015-07-15
 tag: "felsefe"
-image: "https://www.thebookish.de/assets/old/stumbling-on-happiness.jpg"
+image: "/assets/old/stumbling-on-happiness.jpg"
 ---
 
 Daniel Gilbert tarafından kaleme alınan Mutluluk Üzerine Çeşitlemeler, insanın mutlu olmasını ve geleceği öngörülemesini inceleyen, araştırmalardan çarpıcı başlıklar sunan bir kitap. 
