@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-10-13
 tag: "eğitim"
-image: "https://www.thebookish.de/assets/old/finnished-leadership.jpg"
+image: "/assets/old/finnished-leadership.jpg"
 ---
 
 Kuzey Avrupa ülkesi Finlandiya'nın eğitim sistemini inceleyen bu kitapta, Finlandiya'nın eğitim sistemini nasıl farklılaştırdığı ve başarısının dayanak noktaları inceleniyor.  
