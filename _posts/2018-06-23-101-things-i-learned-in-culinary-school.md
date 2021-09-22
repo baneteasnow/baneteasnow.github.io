@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-23
 tag: "lifestyle"
-image: "https://www.thebookish.de/assets/old/101-things-i-learned-in-culinary-school.jpg"
+image: "/assets/old/101-things-i-learned-in-culinary-school.jpg"
 ---
 
 Mutfak Okulunda Öğrendiğim 101 Şey, yemek hazırlama ve pişirme, malzeme kullanımı, mutfak dili ve ekibi, menü içerikleri, yemekle ilgili öneriler, gıdalarla ilgili genel bilgiler gibi pek çok konuyu okuyucuya sunan bir kitap. Kitabın içeriği, özellikle restoran işletmeciliğine, mutfak kültürlerine ve profesyonel anlamda yemek pişirmeye ilgi duyanların ilgisini çekecektir.  
