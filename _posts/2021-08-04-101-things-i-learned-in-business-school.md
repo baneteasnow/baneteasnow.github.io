@@ -13,7 +13,7 @@ published: true
 description: "İşletme bilimi, iletişim, ekonomi, finans, liderlik, yönetim, pazarlama, operasyon ve strateji gibi pek çok alanı kapsar. 101 Things I Learned in Business School, tüm bu alanlara odaklanarak temel kavramları 101 maddede paylaşıyor."
 posted: 2021-08-04
 tag: "yönetim"
-image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-business-school.jpg"
+image: "/assets/new/101-things-i-learned-in-business-school.jpg"
 ---
 
 İşletme bilimi, iletişim, ekonomi, finans, liderlik, yönetim, pazarlama, operasyon ve strateji gibi pek çok alanı kapsar. 101 Things I Learned in Business School, tüm bu alanlara odaklanarak temel kavramları 101 maddede paylaşıyor.
