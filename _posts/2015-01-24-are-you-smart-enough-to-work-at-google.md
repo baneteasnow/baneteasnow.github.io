@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2015-01-24
 tag: "çalışma yaşamı"
-image: "https://www.thebookish.de/assets/old/are-you-smart-enough-to-work-at-google.jpg"
+image: "/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 
 Fuji Dağı'nı Nasıl Taşırsınız isimli kitabında olduğu gibi yazar, bu kitapta da cevapları ile birlikte ilginç mülakat sorularına yer vermiş.  
