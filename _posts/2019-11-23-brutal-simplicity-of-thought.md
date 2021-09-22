@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-11-23
 tag: "motivasyon"
-image: "https://www.thebookish.de/assets/old/brutal-simplicity-of-thought.jpg"
+image: "/assets/old/brutal-simplicity-of-thought.jpg"
 ---
 
 Düşüncenin Acımasız Basitliği, 'eğer bir şeyi yeterince anlamadıysanız, onu en basite indirgeyerek açıklayamazsınız.' mottosuna dayanan bir kitap.  
