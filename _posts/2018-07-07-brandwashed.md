@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-07-07
 tag: "tüketici davranışları"
-image: "https://www.thebookish.de/assets/old/brandwashed.jpg"
+image: "/assets/old/brandwashed.jpg"
 eng: "In a world that is full of advertisement, this book explains how a child is being exposed to hidden impacts of brands; and when he or she becomes an adult how his or her buying behaviour is affected."
 ---
 
