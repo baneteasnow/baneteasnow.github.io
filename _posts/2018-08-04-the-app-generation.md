@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-08-04
 tag: "sosyoloji"
-image: "https://www.thebookish.de/assets/old/the-app-generation.jpg"
+image: "/assets/old/the-app-generation.jpg"
 ---
 
 APP Kuşağı, farklı kuşakların bakış açısı ile dijital dünyayı ve değişen teknoloji kullanım alışkanlıklarını değerlendiriyor. Yazarlar, kitabın ilk sayfalarında üç ana konuya odaklandıklarını belirtmişler; kişisel kimlik duygusu, başkalarıyla yakın ilişkiler ve yaratıcılığı ve hayal gücünü ortaya koyma biçimi. Ayrıca, dijital teknolojiler sayesinde, özellikle son dönemde, kimlik, yakınlık ve hayal gücünün yeni baştan şekillendirildiğini vurguluyorlar.  
