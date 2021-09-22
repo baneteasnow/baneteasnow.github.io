@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-08-31
 tag: "minimalizm"
-image: "https://www.thebookish.de/assets/old/the-year-of-less.jpg"
+image: "/assets/old/the-year-of-less.jpg"
 ---
 
 Alışveriş Yapmadığım Yıl, genç bir kadının hayatla mücadelesini anlatan duygusal boyutu da bulunan bir kitap. Kitabı ilk okumaya başladığımda böyle bir kitapla karşılaşmayı hiç beklemiyordum, kitabı bir gün içinde hızlıca okuyup bitirdim. Bir hayli kişisel ve sürükleyiciydi.  
