@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2015-09-09
 tag: "psikoloji"
-image: "https://www.thebookish.de/assets/old/what-the-dog-saw.jpg"
+image: "/assets/old/what-the-dog-saw.jpg"
 ---
 
 Kitap, Malcolm Gladwell'in 1996 ve 2006 yılları arasında The New Yorker dergisinde yer alan makalelerinden yapılan seçmelerden oluşuyor.  
