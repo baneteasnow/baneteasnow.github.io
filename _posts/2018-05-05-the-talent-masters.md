@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-05-05
 tag: "çalışma yaşamı"
-image: "https://www.thebookish.de/assets/old/the-talent-masters.jpg"
+image: "/assets/old/the-talent-masters.jpg"
 ---
 
 Yetenekler rekabet gücünü beraberinde getirse de, yetenekleri yönetebilmek için gerekli olan liderlik gücü pek az sayıda firmada mevcuttur. Başarılı olan firmaları başarısız olanlardan ayıran en önemli nokta yetenekli çalışanlara sahip olmaktır.  
