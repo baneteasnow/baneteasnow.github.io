@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-02-04
 tag: "teknoloji"
-image: "https://www.thebookish.de/assets/old/the-second-machine-age.jpg"
+image: "/assets/old/the-second-machine-age.jpg"
 ---
 
 The Second Machine Age, teknolojideki gelişmelerin ekonomik ve sosyal sonuçlarını inceliyor. Kitapta ilk ele alınan gelişme, 18.yüzyılın ikinci yarısında buhar makinesinin bulunması ile başlayan Sanayi ya da Endüstri Devrimi. Yazarlar, Erik Brynjolfsson ve Andrew McAfee, bugün içinde bulunduğumuz çağda yaşanan dijital devrime “İkinci Makine Çağı” ismini veriyorlar. Dijital devrim, onlara göre, pek çok artı ile gelse de aynı zamanda pek çok yeni problemi de beraberinde getiriyor.   
