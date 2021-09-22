@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-04-06
 tag: "biyografi"
-image: "https://www.thebookish.de/assets/old/steve-jobs.jpg"
+image: "/assets/old/steve-jobs.jpg"
 ---
 
 Walter Isaacson'un kaleme aldığı Steve Jobs'in biyografi kitabı, Steve Jobs'in teklifi ile yazılmaya başlanmış. Kitapta aktarıldığına göre, Steve Jobs önce 2004 yılında sonrasında da 2009 yılında Isaacson'dan bu kitabı yazmasını istemiş. İlk teklifi çeşitli gerekçelerle reddeden Isaacson, 2009 yılında Jobs'in sağlık durumunun iyiye gitmiyor oluşunu da göz önüne alarak projeye başlamış. Kitapta, hem bizzat Steve Jobs ve en yakınları ile, hem de iş arkadaşları ve çeşitli ünlü isimlerle yapılmış olan pek çok görüşme yer alıyor. Ayrıca, Steve Jobs'in hem kişisel hayatı hem de iş hayatı ile ilgili pek çok detay paylaşılmış.  
