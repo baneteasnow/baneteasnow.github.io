@@ -13,7 +13,7 @@ sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai"
 posted: 2021-06-09
 tag: "lifestyle"
-image: "https://www.thebookish.de/assets/new/ikigai-ken-mogi.jpg"
+image: "/assets/new/ikigai-ken-mogi.jpg"
 ---
 
 Ken Mogi, Ikigai'nin 5 boyutu olduğunu ileterek başlıyor kitabına. (sayfa 5)
