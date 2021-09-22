@@ -12,7 +12,7 @@ description: "Kıvılcım Anı, neden bazı fikirlerin, markaların, davranış 
 published: true
 last_modified_at: 2021-07-12
 posted: 2014-12-10
-image: "https://www.thebookish.de/assets/old/the-tipping-point.jpg"
+image: "/assets/old/the-tipping-point.jpg"
 tag: "psikoloji"
 eng: "Why some of the ideas or brands become suddenly popular, while others don’t? How do trends spread, how do they stick? A classic book of Malcolm Gladwell answers all these questions and many more on trends."
 ---
