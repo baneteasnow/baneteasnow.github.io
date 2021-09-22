@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-07-13
 tag: "teknoloji"
-image: "https://www.thebookish.de/assets/old/machine-platform-crowd.jpg"
+image: "/assets/old/machine-platform-crowd.jpg"
 ---
 
 The Second Machine Age isimli kitabın devamı ve tamamlayıcısı olan Makine, Platform, Kitle ortaya çıkan yeni tür iş modellerinin firmaları nasıl etkilediğini ele alıyor. İnovasyonun da ortaya çıkışında bazı değişiklikler olduğunu vurgulayan yazarlar, kitaba da ismini veren üç büyük trendi ele alıyorlar; makine, platform ve kitle. Bu denklemde, akıl ve makine, ürünler ve platformları, çekirdek ile kitle yan yana geliyor. sonuçta, iş süreçleri değişiyor, ortaya çıkan ürünler başkalaşıyor ve değişim her yere yayılıyor.
