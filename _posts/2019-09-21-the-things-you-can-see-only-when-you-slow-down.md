@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-09-21
 tag: "lifestyle"
-image: "https://www.thebookish.de/assets/old/the-things-you-can-see-only-when-you-slow-down.jpg"
+image: "/assets/old/the-things-you-can-see-only-when-you-slow-down.jpg"
 ---
 
 Yalnızca Yavaşladığında Görebileceğin Şeyler, yavaşlamak ve sakin kalabilmeyi tekrar öğrenmemiz gerektiğini hatırlatan bir kitap. Bu kitap adeta hayatın çok hızlı aktığı duygusu karşısında tek seçeneğimizin acele etmek olmadığını fark etmemizi sağlıyor.  
