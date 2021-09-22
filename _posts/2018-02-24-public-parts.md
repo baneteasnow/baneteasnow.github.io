@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-02-24
 tag: "internet"
-image: "https://www.thebookish.de/assets/old/public-parts.jpg"
+image: "/assets/old/public-parts.jpg"
 ---
 
 Gazeteci ve yazar Jeff Jarvis tarafından kaleme alınan E-Sosyal Toplum - Dijital Çağda Sosyal Medyanın İş ve Gündelik Hayata Etkisi, internetin artık tartışılmaz önemini mahremiyet ve kamusallık tartışmalarına rağmen altını çizerek bir kez daha vurguluyor.  
