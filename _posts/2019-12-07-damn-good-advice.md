@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-12-07
 tag: "yaratıcılık"
-image: "https://www.thebookish.de/assets/old/damn-good-advice.jpg"
+image: "/assets/old/damn-good-advice.jpg"
 ---
 
 Kitabın yazarı George Lois, 1960'lı yıllarda özellikle Esquire dergisi için hazırladığı kapaklarla tanınıyor. Bu kitapta, reklamcılık ve pazarlama ile ilgili tecrübelerini 120 farklı maddede paylaşmış. Bu maddeler arasında yaratıcı olmak ile ilgili tavsiyeler, yazarın yürüttüğü başarılı reklam kampanyalarından ve reklamlardan örnekler, günlük yaşamdan ilham kaynakları yer alıyor. Pazarlama ve reklamcılık alanında okunması gereken kitaplardan.  
