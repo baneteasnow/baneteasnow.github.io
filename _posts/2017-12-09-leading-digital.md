@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-12-09
 tag: "yönetim"
-image: "https://www.thebookish.de/assets/old/leading-digital.jpg"
+image: "/assets/old/leading-digital.jpg"
 ---
 
 Leading Digital, teknolojinin hızla ilerlediğini ve hem çalışma yaşamı hem de günlük yaşamı değiştirdiğini vurgulayarak başlıyor. Bugün kısa zamanda halledilebilen pek çok işin birkaç on yıl öncesi için gerçekleşmesi neredeyse imkansız olduğu rahatlıkla söylenebilir. Big Data (büyük veri), Web 2.0 gibi kavramlar ile birlikte yeni iş alanları çoktan açıldı. Daha öncesinde bu denli köklü bir değişim Sanayi Devrimi ile yaşanmıştı, insanlık tarihinin yönü değişmişti. Bugün de insan hayatında pek çok şeyi değiştirmiş olan dijital teknolojiler sayesinde gelecek çok farklı olacak.  
