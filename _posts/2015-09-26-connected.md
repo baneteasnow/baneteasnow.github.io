@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2015-09-26
 tag: "dijital kültür"
-image: "https://www.thebookish.de/assets/old/connected.jpg"
+image: "/assets/old/connected.jpg"
 ---
 
 Sosyal Ağların Şaşırtıcı Gücü, kitle psikolojisini anlatan kitap, Nicholas A. Christakis ve James H. Fowler isimli yazarların birbirleri ile 2002 yılında ortak tanıdıkları bir meslektaşları tarafından tanıştırılma hikayeleri ile başlıyor. Yazarlar, ortak ilgi alanları olarak sosyal ağları belirlemişler ve bu konu üzerinde çalışmaya karar vermişler.  
