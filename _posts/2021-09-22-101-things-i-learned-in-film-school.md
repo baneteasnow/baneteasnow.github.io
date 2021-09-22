@@ -13,7 +13,7 @@ published: true
 description: "101 Things I Learned in Film School, sinema ve film yapımcılığı ile ilgili temel kavramları aktarıyor."
 posted: 2021-09-22
 tag: "sanat"
-image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-film-school.jpg"
+image: "/assets/new/101-things-i-learned-in-film-school.jpg"
 ---
 
 101 Things I Learned in Film School, sinema ve film yapımcılığı ile ilgili temel kavramları aktarıyor. Kitapta cevabı yer alan sorular arasından bazı örnekler şöyle:
