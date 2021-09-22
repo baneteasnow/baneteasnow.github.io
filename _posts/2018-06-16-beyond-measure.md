@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-16
 tag: "yönetim"
-image: "https://www.thebookish.de/assets/old/beyond-measure.jpg"
+image: "/assets/old/beyond-measure.jpg"
 ---
 
 Rakamlara Takılma, kimsenin formülünü bilmediği fark yaratan etken olarak tanımladığı kurum kültürünün yarattığı büyük farklara karşı küçük eylemler, alışkanlıklar ve seçimlerin eseri olduğunu vurgulayarak başlıyor. (sayfa 1)   
