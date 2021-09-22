@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-05-19
 tag: "marka profili"
-image: "https://www.thebookish.de/assets/old/digital-wars.jpg"
+image: "/assets/old/digital-wars.jpg"
 ---
 
 The Guardian'da teknoloji editörü olan Charles Arthur tarafından kaleme alınan Dijital Savaşlar, üç farklı firmanın geçmişten bugüne olan hikayesini, aralarındaki kültürel farklılıklara da değinerek inceliyor.  
