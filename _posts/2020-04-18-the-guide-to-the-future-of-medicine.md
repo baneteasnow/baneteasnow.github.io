@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2020-04-18
 tag: "tıp"
-image: "https://www.thebookish.de/assets/old/the-guide-to-the-future-of-medicine.jpg"
+image: "/assets/old/the-guide-to-the-future-of-medicine.jpg"
 ---
 
 Tıbbın Geleceğine Yolculuk, isminden de anlaşılacağı gibi teknolojinin tıp biliminin geleceğini nasıl etkileyeceğini inceliyor. Kitabı okurken gelecekte yaygınlaşması öngörülen pek çok yeni uygulamanın veya cihazın aslında bugünlerde deneme sürecinde olduğunu gördüm. Bu açıdan bakıldığında aslında teknoloji ile insan teması birbirinden ayırdedilemiyor, yani gelişim aşamasında verimli görülen bir teknoloji, henüz deneme aşaması için insan hayatına girdiğinde bekleneni karşılayamazsa rafa kaldırılıyor. Tabii ki, inovasyonda izlenen bu deneme yanılma yöntemi için ayrılan arge bütçesinin ne kadar büyük olduğunu da hatırlatmaya gerek yoktur sanırım.  
