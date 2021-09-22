@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2016-12-10
 tag: "moda tasarım"
-image: "https://www.thebookish.de/assets/old/101-things-i-learned-in-fashion-school.jpg"
+image: "/assets/old/101-things-i-learned-in-fashion-school.jpg"
 ---
 
 Moda hakkında mini bir rehber niteliği taşıyan Moda Okulunda Öğrendiğim 101 Şey, modanın yakın geçmişi, kumaş, dikiş, renk seçimi, nerede nasıl giyinilmesi gerektiği, tasarım, çizim gibi pek çok konuya odaklanan 101 kısa nottan oluşuyor. Modayla ilgili temel terimleri öğrenmek ve bugün geldiği noktayı anlamak açısından keyifle okunana mini bir kitap.  
