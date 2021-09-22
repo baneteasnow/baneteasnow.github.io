@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-01-01
 tag: "sağlık"
-image: "https://www.thebookish.de/assets/old/vegan-saglik.jpg"
+image: "/assets/old/vegan-saglik.jpg"
 ---
 
 Vegan Sağlık, Murat Kınıkoğlu'nun az yağlı vegan beslenme üzerine yazdığı ikinci kitabı. Bir hekim olarak vegan beslenmeyi benimseyen Murat Kınıkoğlu, ilk kitabı Vegan Beslenme'de, vegan beslenmenin temellerini anlatıyor. Bu kitabında ise, vegan beslenme ile ilgili detayları paylaşmaya devam ediyor.  
