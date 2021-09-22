@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-03-11
 tag: "marka profili"
-image: "https://www.thebookish.de/assets/old/the-ebay-phenomenon.jpg"
+image: "/assets/old/the-ebay-phenomenon.jpg"
 ---
 
 eBay Fenomeni, talep bazlı fiyatlandırma sistemine dayanan bir iş modeli ile kurulan online açık arttırma sitesi eBay'ı ve bugünkü şeklini alana kadar izlediği adımları yer yer ilginç detaylara da yer vererek anlatıyor. 1995-2001 yılları arasında hızla büyüyen dot-com bubble (nokta-com balonunun ) parçalarından biri olan eBay, 1995 yılında o yıllarda moda olduğu gibi bir garajda kurulmuştur. Pek çok yerde ve kitapta da geçen hikayeye göre, Pierre Omidyar, o dönemde nişanlısı sonradan eşi olan Pamela (Kerr) Omidyar'ın Pez şekerlerinin çizgi film karakterleri şeklinde tasarlanan kutularını biriktiren bir koleksiyonerdir.  
