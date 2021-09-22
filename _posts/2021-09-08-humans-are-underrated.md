@@ -13,7 +13,7 @@ published: true
 description: "Geoff Colvin, Humans Are Underrated isimli kitabında, teknolojideki gelişmeler sayesinde mevcut işlerin otomatize edilerek işgücüne ihtiyacın azalması nedeniyle gelecekte istihdamın çehresinin nasıl değişeceğini tartışıyor."
 tag: "psikoloji"
 posted: 2021-09-08
-image: "https://www.thebookish.de/assets/new/humans-are-underrated.jpg"
+image: "/assets/new/humans-are-underrated.jpg"
 ---
 
 Geoff Colvin, Humans Are Underrated isimli kitabında, teknolojideki gelişmeler sayesinde mevcut işlerin otomatize edilerek işgücüne ihtiyacın azalması nedeniyle gelecekte istihdamın çehresinin nasıl değişeceğini tartışıyor.
