@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-11-25
 tag: "marka profili"
-image: "https://www.thebookish.de/assets/old/the-seven-day-weekend.jpg"
+image: "/assets/old/the-seven-day-weekend.jpg"
 ---
 
 Semco Partners firmasının uzun süre CEO'lük görevini yürütmüş olan Ricardo Semler, firmanın geçirdiği dönüşümün ilk yıllarını 'Maverick' isimli kitabında anlatmıştı.   
