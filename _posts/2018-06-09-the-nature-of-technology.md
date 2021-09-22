@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-06-09
 tag: "teknoloji"
-image: "https://www.thebookish.de/assets/old/the-nature-of-technology.jpg"
+image: "/assets/old/the-nature-of-technology.jpg"
 eng: "The Nature of Technology addresses the nature and evolution of technology with straightforward and to-the-point language style."
 ---
 
