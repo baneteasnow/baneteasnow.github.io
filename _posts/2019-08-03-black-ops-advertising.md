@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-08-03
 tag: "reklam"
-image: "https://www.thebookish.de/assets/old/black-ops-advertising.jpg"
+image: "/assets/old/black-ops-advertising.jpg"
 ---
 
 Dijital Reklamın Gizli Dünyası, reklam olduğu bir bakışta anlaşılmayan içerikleri anlatıyor. Reklamlar artık reklamlara pek de benzemiyor. Bunun en başarılı örneklerinden bir tanesi Felix Baumgartner tarafından 14 Ekim 2012'de gerçekleştirilen uzaydan yeryüzüne atlayış. Özel bir planlama ile yüksek bütçe gerektiren, hava koşullarının adeta mükemmel olmasına bağlı oldukça tehlikeli bu atlayış Red Bull tarafından masrafları karşılanan Stratos projesi ile gerçekleştirilmişti. Red Bull o tarihte bunun bir reklam kampanyası olmadığında ısrarcı olmuştu. Bu atlayışın videoları incelendiğinde, Red Bull logosu ve logonun renkleri göründüğü ancak logonun sanki, videonun genel akışına, içeriğine adeta uydurularak ekipmana ve özel kıyafetlere yüksek özenle yerleştirilmiştir. İlk anda değil de dikkatlice bakıldığında seçilir, ancak logo asla ön planda değildir.  
