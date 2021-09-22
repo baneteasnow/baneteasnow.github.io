@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2016-02-20
 tag: "davranışsal iktisat"
-image: "https://www.thebookish.de/assets/old/the-honest-truth-about-dishonesty.jpg"
+image: "/assets/old/the-honest-truth-about-dishonesty.jpg"
 ---
 
 Dan Ariely tarafından kaleme alınan Dürüst Olmamanın Ardındaki (Dürüst) Gerçek isimli kitap, dürüstlük ve yalan söylemek konularını inceliyor.   
