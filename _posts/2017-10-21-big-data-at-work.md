@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-10-21
 tag: "teknoloji"
-image: "https://www.thebookish.de/assets/old/big-data-at-work.jpg"
+image: "/assets/old/big-data-at-work.jpg"
 ---
 
 2010 yılının ilk çeyreğinde kullanılmaya başlanan Big Data terimi kitabın ilk bölümünde şöyle tanımlanıyor (Sayfa 7):  
