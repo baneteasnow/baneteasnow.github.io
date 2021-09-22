@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-07-01
 tag: "tüketici davranışları"
-image: "https://www.thebookish.de/assets/old/who-gets-what-and-why.jpg"
+image: "/assets/old/who-gets-what-and-why.jpg"
 ---
 
 Kim Neyi Neden Alır, 2012 Nobel Ekonomi Ödülü'nü kazanan Ekonomist Alvin E. Roth tarafından kaleme alınmış. Yazar, ilk bölümlerde sorunu tanımlıyor, benzer soruna sahip olan çeşitli piyasalardan örnekler vererek eski durumu anlatıyor, sonraki bölümlerde ise bu piyasaları yeniden nasıl tasarlanarak daha işler hale getirildiğinden bahsediyor.  
