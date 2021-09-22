@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2020-07-18
 tag: "gelecek ve trendler"
-image: "https://www.thebookish.de/assets/old/technology-vs-humanity.jpg"
+image: "/assets/old/technology-vs-humanity.jpg"
 eng: "The futurist Gerd Leonhard's 'Technology and Humanity' is a critical treatise that sheds light on the other side of technology that it is less clear. We are witnessing how technology shapes our lives every day, and we read about how it can automate daily tasks. This book discusses the challenges posed by the exponential development of technology. It mainly focuses on ethical issues. A must-read book for anyone interested in technology."
 ---
 
