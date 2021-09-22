@@ -12,7 +12,7 @@ published: true
 description: "The Year of Less isimli kitabında içinde bulunduğu borçlarından ve içinde bulunduğu olumsuz durumdan nasıl kurtulduğunu anlatan Cait Flanders, ikinci kitabı olan Adventures in Opting Out'da ise çevreniz tarafından size yüklenilen hedefleri sorgulamanız gerektiğini hatırlatarak, bu hedeflerden ne kadarını gerçekten istediğinizi keşfetmenin yollarını kişisel deneyiminden örnekler vererek paylaşıyor."
 posted: 2021-08-11
 tag: "seyahat"
-image: "https://www.thebookish.de/assets/new/adventures-in-opting-out.jpg"
+image: "/assets/new/adventures-in-opting-out.jpg"
 ---
 
 The Year of Less (Alışveriş Yapmadığım Yıl) isimli kitabında içinde bulunduğu borçlarından ve içinde bulunduğu olumsuz durumdan nasıl kurtulduğunu anlatan Cait Flanders, ikinci kitabı olan Adventures in Opting Out'da ise çevreniz tarafından size yüklenilen hedefleri sorgulamanız gerektiğini hatırlatarak, bu hedeflerden ne kadarını gerçekten istediğinizi keşfetmenin yollarını kişisel deneyiminden örnekler vererek paylaşıyor.
