@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2016-10-22
 tag: "marka profili"
-image: "https://www.thebookish.de/assets/old/the-smartest-guys-in-the-room.jpg"
+image: "/assets/old/the-smartest-guys-in-the-room.jpg"
 ---
 
 Gümüş Kurşun, Amerika Birleşik Devletleri'nin Teksas eyaletinde faaliyet gösteren, New York Menkul Kıymetler Borsası'nda da ENE kısaltmasıyla yer alan enerji sektöründe faaliyet gösteren Enron firmasının iflasla sonuçlanan hikayesini anlatıyor. Aslında, kitabın ilk sayfalarından itibaren firmanın iflas etmesinin bir sürpriz olmadığı vurgulanıyor. Firmanın çöküşünün esas nedeni olan muhasebe kayıtlarında yapılan yanlış düzenlemeler ve bu düzenlemelerin üst yönetim tarafından desteklenmesi, yöneticilerin her ay sonunda ve üç aylık dönemlerde firmayı "karda", "yükselişte" ve "kazançlı" göstererek büyük miktarlardaki primleri almaya devam etme hırsları açık kanıtlarla ortaya konuluyor. Enron'un 2001 yılında iflasını açıklamasından ve yaşanan skandaldan sonra, firmanın danışmanlık hizmeti aldığı ve 90'lı yıllarda oldukça prestijli bir dönem yaşayan Arthur Anderson bağımsız denetim ve muhasebe firması da dağılmıştır.  
