@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-08-10
 tag: "teknoloji"
-image: "https://www.thebookish.de/assets/old/the-fourth-industrial-revolution.jpg"
+image: "/assets/old/the-fourth-industrial-revolution.jpg"
 ---
 
 Dördüncü Sanayi Devrimi, dördüncü sanayi devrimine ve bu devrimin etkilerine odaklanıyor. Kitabın yazarı Klaus Schwab, World Economic Forum'un kurucusu. Schwab, bazı akademisyenler ve profesyonellerin günümüzde yaşanan gelişmeleri henüz üçüncü sanayi devriminin bir parçası olarak gördüklerini vurguluyor. Ancak, yaşanan gelişmelerin kapsamı ve karmaşıklığı değerlendirildiğinde, hız (üstel artış), genişlik ve derinlik (benzeri görülmedik paradigma değişimleri), sistem etkisi (sistemlerin bütünsel dönüşümü) de göz önüne alındığında, aslında dördüncü sanayi devrimini yaşamakta olduğumuzu belirtiyor.  
