@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-07-14
 tag: "şehir planlama"
-image: "https://www.thebookish.de/assets/old/smart-cities-digital-nations.jpg"
+image: "/assets/old/smart-cities-digital-nations.jpg"
 ---
 
 2010 yılı dünyada kentlerde yaşayan kişi sayısının dünya nüfusunun yarısını geçtiği yıl olmuştur. (sayfa 27)  
