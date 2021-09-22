@@ -14,7 +14,7 @@ description: "Bill Gates, How to Avoid a Climate Disaster isimli kitabında ikli
 posted: 2021-09-01
 tag: "küresel ısınma"
 eng: "'How to avoid a Climate Disaster' by Microsoft co-founder and philanthropist Bill Gates is an urgent call for action on climate change. According to Bill Gates, in order to prevent the climate crisis, there is no other way but to achieve zero carbon emissions as soon as possible. Although it will be a huge challenge, he is optimistic because of the upcoming technological developments in clean energy. Overall, this book is a guideline for the basics of climate change."
-image: "https://www.thebookish.de/assets/new/how-to-avoid-a-climate-disaster.jpg"
+image: "/assets/new/how-to-avoid-a-climate-disaster.jpg"
 ---
 
 Microsoft'un kurucularından biri olan ve uzun süre CEO'luğunu yürüten Bill Gates, 2008 yılında görevlerini tamamen bırakarak zamanını çeşitli hayır işlerine ayırmaya başladı. Melinda Gates ile birlikte kurdukları Gates Foundation, kar amacı gütmeyen bir kuruluş olarak küresel sağlık, gelişim ve ABD'de eğitim sorunlarına odaklanıyor.
