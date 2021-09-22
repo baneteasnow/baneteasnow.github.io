@@ -1,9 +1,9 @@
-title: thebookish.de # name of the site
-author: thebookish.de # name of site's author
+title: nonfictionbooks.xyz # name of the site
+author: nonfictionbooks.xyz # name of site's author
 url: https://www.thebookish.de # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  thebookish.de - okuduğum kitaplar
+  nonfictionbooks.xyz - okuduğum kitaplar
 
 # set timezone
 timezone: Australia/Sydney
