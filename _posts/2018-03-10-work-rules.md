@@ -13,7 +13,7 @@ last_modified_at: 2021-07-06
 published: true
 posted: 2018-03-10
 tag: "yönetim"
-image: "https://www.thebookish.de/assets/old/work-rules.jpg"
+image: "/assets/old/work-rules.jpg"
 ---
 
 Google Sırları isimli kitabın yazarı Laszlo Bock, 11 yıla yakın bir süre Google'da People Operations'da yani insan kaynakları departmanında çalışmıştır. Bock, kitabında  birçoğu haberlere konu olmuş olan Google HR uygulamalarına değinmiş ve bilinmeyen birtakım yönleri de paylaşmıştır. Kendisi yakın zamanda 'işi daha iyi yapmayı' hedefleyen ve yapay zekayı kullanan Humu isimli bir firmanın kurucu ortağı olmuştur.  
