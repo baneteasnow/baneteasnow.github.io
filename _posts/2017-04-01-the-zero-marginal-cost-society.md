@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-04-01
 tag: "internet of things"
-image: "https://www.thebookish.de/assets/old/the-zero-marginal-cost-society.jpg"
+image: "/assets/old/the-zero-marginal-cost-society.jpg"
 ---
 
 Nesnelerin İnterneti ve İşbirliği Çağı isimli kitap, kapitalist dönemin yavaşça ve kaçınılmaz bir şekilde (en azından yarım yüzyıl sonra sosyal yapının bir parçası olarak kaldıktan sonra) sona ereceğinden bahsederek başlıyor. Yazara göre, insanların yaşam tarzı bir dönüşüm içinde ve yeni oluşan ekonomik paradigma İşbirlikçi Ortak Kaynakların (collaborative commons) kullanılması. Günümüzdeki piyasa şartlarında ise kapitalist sistem kendini hissettirse de paylaşım ekonomisinin etkisi pek çok alanda görünüyor. Kitap boyunca bunun pek çok örneği paylaşılıyor. En temel örnek olarak Uber, Airbnb, Couchsurfing gibi dünya çapında giderek yaygınlaşan ağlar inceleniyor.  
