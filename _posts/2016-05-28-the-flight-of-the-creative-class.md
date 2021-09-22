@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2016-05-28
 tag: "sosyoloji"
-image: "https://www.thebookish.de/assets/old/the-flight-of-the-creative-class.jpg"
+image: "/assets/old/the-flight-of-the-creative-class.jpg"
 ---
 
 Richard Florida, Yaratıcı Sınıf Adres Değiştiriyor isimli kitabında teknoloji devrimine imza atan olan yaratıcı sınıfın küreselleşme sonucunda yaşayacağı ve çalışacağı bölgeyi seçerken nelere dikkat ettiğini ve kararını neyin şekillendirdiğini anlatıyor, ülkeler arasında da en iyi yetenekleri seçmek için bir küresel rekabet yaşandığını belirtiyor. Bu kitapta, yazarın Türkçeye henüz çevrilmemiş Yaratıcı Sınıfın Yükselişi (The Rise Of The Creative Class) isimli kitabına da bolca atıfta bulunuluyor.  
