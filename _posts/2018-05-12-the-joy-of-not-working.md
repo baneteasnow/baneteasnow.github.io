@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2018-05-12
 tag: "lifestyle"
-image: "https://www.thebookish.de/assets/old/the-joy-of-not-working.jpg"
+image: "/assets/old/the-joy-of-not-working.jpg"
 eng: "The Joy of Not Working explores our relationship with our jobs while reminding us we are more than our jobs."
 ---
 
