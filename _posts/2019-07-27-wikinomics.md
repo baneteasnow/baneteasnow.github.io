@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-07-27
 tag: "dijital kültür"
-image: "https://www.thebookish.de/assets/old/wikinomics.jpg"
+image: "/assets/old/wikinomics.jpg"
 ---
 
 Vikinomi, kitlesel işbirliğini ve crowdsourcing kavramını ele alan bir kitap. Kitlesel iş birliği ile kitlelerin (çoğu kez kendiliğinden) bir araya gelmesini, kendi içinde örgütlenmesini ve bir konu özelinde iş birliği yapmasını çeşitli örneklerle anlatıyor. Yazarlar Don Tapscott ve Anthony D. Williams, 2010 yılında kitabın devamını Macrowikinomics: New Solutions for a Connected Planet ismi ile yazmışlar.   
