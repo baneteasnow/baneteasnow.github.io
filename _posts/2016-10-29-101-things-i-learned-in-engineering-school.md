@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2016-10-29
 tag: "mühendislik"
-image: "https://www.thebookish.de/assets/old/101-things-i-learned-in-engineering-school.jpg"
+image: "/assets/old/101-things-i-learned-in-engineering-school.jpg"
 ---
 
 Mühendislik Okulunda Öğrendiğim 101 Şey, farklı mühendislik dallarından çeşitli temel prensipleri okuyucuya kısa notlar şeklinde aktarıyor. Kitabın isminde de yer aldığı gibi tam 101 not paylaşılmış. Sağ sayfalarda çoğu zaman birkaç cümleyi aşmayan notlar ve sol sayfada da konuyla ilgili açıklayıcı bir çizim bulunuyor. Kitabın ilk sayfalarında İnşaat Mühendisliğinin en eski mühendislik dalı olduğu aktarılıyor. ABD'nin ilk mühendislik fakültesi 1802 yılında New York eyaletinde West Point kentinde ABD Kara Harp Okulu'nda kurulmuştur.  
