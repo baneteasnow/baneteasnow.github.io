@@ -14,7 +14,7 @@ description: "Adventures in Human Being, bir doktor olan Gavin Francis'in her bi
 posted: 2021-07-14
 published: true
 tag: "tıp"
-image: "https://www.thebookish.de/assets/new/adventures-in-human-being.jpg"
+image: "/assets/new/adventures-in-human-being.jpg"
 ---
 
 Adventures in Human Being, bir doktor olan Gavin Francis'in her biri insan vücudunda tek bir organa odaklanan 18 makalesinden oluşuyor. Bugüne kadar, aile hekimi, cerrah ve acil servis doktoru olarak çalışmış olan Francis, okuyucuyu insan vücudunda adeta bir seyahate çıkarıyor. Öncelikle beyinden başlayarak sırasıyla gözler, yüz, kulak, akciğerler, kalp, omuzlar, kollar, bilekler ve eller, böbrek, karaciğer, mide, karın boşluğu, kalça, ayaklar ve parmaklara kadar devam eden bu seyahat ile hem kendi hastalarının hikayelerini paylaşıyor hem de çeşitli hastalıkların insanı nasıl etkilediği ile ilgili gözlemlerini aktarıyor.
