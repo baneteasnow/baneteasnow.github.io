@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2017-05-27
 tag: "siber güvenlik"
-image: "https://www.thebookish.de/assets/old/the-dark-net.jpg"
+image: "/assets/old/the-dark-net.jpg"
 ---
 
 Dark Net isimli kitabı, gazeteci Jamie Bartlett kaleme almış.  
