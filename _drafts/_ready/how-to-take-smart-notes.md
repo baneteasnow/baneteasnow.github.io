@@ -13,7 +13,7 @@ published: false
 description: "Sönke Ahrens, How to Take Smart Notes isimli kitabında yazanlar, öğrenenler ve düşünenler için sistemli not tutmayı anlatıyor."
 tag: "öğrenmeyi öğrenmek"
 posted: 2021-XX-XX
-image: "https://www.thebookish.de/assets/new/how-to-take-smart-notes.md.jpg"
+image: "/assets/new/how-to-take-smart-notes.md.jpg"
 ---
 
 2021-11-03-
