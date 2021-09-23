@@ -13,7 +13,7 @@ published: false
 description: "Toplumun McDonaldlaştırılması isimli kitap sosyoloji, yönetim ve iktisat alanlarından yararlanarak günümüz modern toplumunun bir analizini yapıyor."
 tag: "sosyoloji"
 posted: 2021-XX-XX
-image: "https://www.thebookish.de/assets/new/the-mcdonaldization-of-society.jpg"
+image: "/assets/new/the-mcdonaldization-of-society.jpg"
 ---
 
 2022-05-04-
