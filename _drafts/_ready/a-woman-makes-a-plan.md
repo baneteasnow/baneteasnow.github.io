@@ -13,7 +13,7 @@ published: false
 description: "Başarılı bir model ve diyetisyen olan Maye Musk, 50 yılı aşkın çok yönlü bir kariyere sahip. Bir Kadın Plan Yaparsa isimli otobiyografisinde kendi hayatından kesitler sunuyor ve sayısız kere nasıl baştan başladığını anlatıyor."
 tag: "biyografi"
 posted: 2021-XX-XX  
-image: "https://www.thebookish.de/assets/new/a-woman-makes-a-plan.jpg"
+image: "/assets/new/a-woman-makes-a-plan.jpg"
 ---
 
 2022-03-02-
