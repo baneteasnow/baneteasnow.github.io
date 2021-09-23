@@ -13,7 +13,7 @@ published: false
 description: "Jeffrey Moussaieff Masson, The Face on Your Plate isimli kitabında yemeyi seçtiğimiz yiyeceklerin aslında ahlaki değerlerimizle nasıl bağlantılı olduğunun altını çiziyor."
 tag: "veganlık"
 posted: 2021-XX-XX
-image: "https://www.thebookish.de/assets/new/the-face-on-your-plate.md.jpg"
+image: "/assets/new/the-face-on-your-plate.md.jpg"
 ---
 
 2022-01-12-
