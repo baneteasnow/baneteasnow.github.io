@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
-image: "https://www.thebookish.de/assets/new/new-dark-age.jpg"
+image: "/assets/new/new-dark-age.jpg"
 ---
 
 XXXX-XX-XX
