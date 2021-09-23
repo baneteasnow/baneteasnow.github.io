@@ -13,7 +13,7 @@ last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
 tag: "veganlık"
-image: "https://www.thebookish.de/assets/new/vegan-devrimi-ve-hayvan-ozgurlugu.jpg"
+image: "/assets/new/vegan-devrimi-ve-hayvan-ozgurlugu.jpg"
 ---
 
 2022-06-22-
