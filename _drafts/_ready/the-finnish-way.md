@@ -13,7 +13,7 @@ tag: "lifestyle"
 last_modified_at: 202X-XX-XX
 published: false
 posted: 202X-XX-XX
-image: "https://www.thebookish.de/assets/new/the-finnish-way.jpg"
+image: "/assets/new/the-finnish-way.jpg"
 ---
 
 2022-03-23-
