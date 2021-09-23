@@ -13,7 +13,7 @@ published: false
 description: "Malcolm Gladwell, Outliers isimli kitabında üstün başarı gösteren insanların hangi açılardan farklı olduğunu sorguluyor."
 posted: 2021-XX-XX
 tag: "psikoloji"
-image: "https://www.thebookish.de/assets/new/outliers.jpg"
+image: "/assets/new/outliers.jpg"
 ---
 
 2022-04-27-
