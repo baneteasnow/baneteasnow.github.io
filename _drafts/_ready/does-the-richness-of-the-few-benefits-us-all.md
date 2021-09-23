@@ -13,7 +13,7 @@ published: false
 description: "Sosyolog Zygmunt Bauman, 'Azınlığın Zenginliği Hepimizin Çıkarına mıdır?' isimli kitabında, dünyada çoğu kişinin cevabını birebir deneyimleyerek yaşadığı bir soruyu işliyor; zenginlerle fakirler arasındaki gelir farkı ve mevcuttaki toplumsal eşitsizliğin giderek artması."
 posted: 2021-XX-XX
 tag: "felsefe"
-image: "https://www.thebookish.de/assets/new/does-the-richness-of-the-few-benefits-us-all.jpg"
+image: "/assets/new/does-the-richness-of-the-few-benefits-us-all.jpg"
 ---
 
 2022-03-16-
