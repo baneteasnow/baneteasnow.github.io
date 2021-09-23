@@ -13,7 +13,7 @@ tag: "felsefe"
 last_modified_at: 202X-XX-XX
 published: false
 posted: 202X-XX-XX
-image: "https://www.thebookish.de/assets/new/the-power-of-now.jpg"
+image: "/assets/new/the-power-of-now.jpg"
 ---
 
 2022-06-01-
