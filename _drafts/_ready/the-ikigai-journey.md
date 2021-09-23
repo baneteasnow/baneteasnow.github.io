@@ -13,7 +13,7 @@ tag: "lifestyle"
 last_modified_at: 202X-XX-XX
 published: false
 posted: 202X-XX-XX
-image: "https://www.thebookish.de/assets/new/the-ikigai-journey.jpg"
+image: "/assets/new/the-ikigai-journey.jpg"
 ---
 
 2022-05-11-
