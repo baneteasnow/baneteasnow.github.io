@@ -13,7 +13,7 @@ published: false
 description: "The Seed Underground, atalık tohumları korumaya ve başkaları ile paylaşmaya çalışan insanların hikayelerini anlatıyor. Janisse Ray hem kendi bahçıvanlık serüveni paylaşıyor hem de tohumların korunmasının önemine işaret ediyor."  
 posted: 2021-XX-XX  
 tag: "bahçe tarımı"
-image: "https://www.thebookish.de/assets/new/the-seed-underground.jpg"  
+image: "/assets/new/the-seed-underground.jpg"  
 ---
 
 2022-06-15-
