@@ -28,8 +28,9 @@ last_modified_at:
 published: false  
 description: ""  
 posted: 2021-XX-XX  
-image: "https://notes.thebookish.de/assets/old/xxx.jpg"  
-image: "https://notes.thebookish.de/assets/new/xxx.jpg"
+tag:
+image: "/assets/old/xxx.jpg"  
+image: "/assets/new/xxx.jpg"
 
 
 
