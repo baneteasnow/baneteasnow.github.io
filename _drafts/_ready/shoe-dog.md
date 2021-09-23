@@ -13,7 +13,7 @@ published: false
 description: "Phil Knight, Shoe Dog isimli kitabında dünyanın en ünlü markalarından biri olan Nike'ın kuruluş hikayesini ve varolma mücadelesini anlatıyor."
 posted: 2021-XX-XX
 tag: "biyografi"
-image: "https://www.thebookish.de/assets/new/shoe-dog.jpg"
+image: "/assets/new/shoe-dog.jpg"
 ---
 
 2021-10-20-
