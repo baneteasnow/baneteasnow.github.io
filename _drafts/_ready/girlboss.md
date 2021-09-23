@@ -13,7 +13,7 @@ published: false
 description: "#Girlboss, Sophia Amoruso'nun online olarak vintage kıyafetler satan web sitesi Nasty Gal'i kurmasını ve firmasını adım adım büyütmesini anlatıyor. Sophia Amoruso, attığı doğru adımlar ile 2016 yılında Forbes dergisinin en zengin iş kadınlar listesine girmeyi başarmıştır."
 tag: "biyografi"
 posted: 2021-XX-XX
-image: "https://www.thebookish.de/assets/new/girlboss.jpg"
+image: "/assets/new/girlboss.jpg"
 ---
 
 2021-12-15-
