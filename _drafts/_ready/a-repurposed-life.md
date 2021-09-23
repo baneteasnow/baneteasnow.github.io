@@ -13,7 +13,7 @@ published: false
 description: "A Life Repurposed, Avustralya'nın lider 'yemek kurtarma' yardım kuruluşu OzHarvest'ın kurucusu Ronni Kahn'in, Güney Afrika'da başlayan, oradan İsrail'e ve sonrasında Avustralya'ya uzanan ilginç hayat hikayesini anlatıyor."
 posted: 20XX-XX-XX
 tag: "biyografi"
-image: "https://www.thebookish.de/assets/new/a-repurposed-life.jpg"
+image: "/assets/new/a-repurposed-life.jpg"
 ---
 
 2022-05-25-
