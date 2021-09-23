@@ -13,7 +13,7 @@ last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
 tag: "lifestyle"
-image: "https://www.thebookish.de/assets/new/what-talk-about-when-i-talk-about-running.jpg"
+image: "/assets/new/what-talk-about-when-i-talk-about-running.jpg"
 ---
 
 2022-04-20-
