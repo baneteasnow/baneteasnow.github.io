@@ -13,7 +13,7 @@ last_modified_at: 202X-XX-XX
 published: false
 posted: 202X-XX-XX
 tag: "minimalizm"
-image: "https://www.thebookish.de/assets/new/lightly.jpg"
+image: "/assets/new/lightly.jpg"
 ---
 
 2022-03-30-
