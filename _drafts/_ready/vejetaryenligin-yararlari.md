@@ -13,7 +13,7 @@ published: false
 description: "Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 1926-1927 yıllarında kaleme aldığı çeşitli metinlerden oluşuyor."  
 tag: "veganlık"
 posted: 2021-XX-XX  
-image: "https://www.thebookish.de/assets/new/vejetaryenligin-yararlari.jpg"  
+image: "/assets/new/vejetaryenligin-yararlari.jpg"  
 ---
 
 2021-11-10-
