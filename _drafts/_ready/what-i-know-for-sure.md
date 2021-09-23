@@ -13,7 +13,7 @@ published: false
 description: "What I Know For Süre, Oprah Winfrey'in kendi dergisi O (The Oprah Magazine)'da aynı isimle yayınlanan köşesinde yer alan yazıların bir derlemesinden oluşuyor."  
 tag: "motivasyon"
 posted: 2021-XX-XX  
-image: "https://www.thebookish.de/assets/new/what-i-know-for-sure.jpg"  
+image: "/assets/new/what-i-know-for-sure.jpg"  
 ---
 
 2021-12-22-
