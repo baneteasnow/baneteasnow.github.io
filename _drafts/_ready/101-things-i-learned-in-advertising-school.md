@@ -13,7 +13,7 @@ published: false
 description: "101 Things I Learned in Advertising School, reklamcılık ile ilgili temel kavramları aktarıyor. Reklamcılık sektörü bazıları tarafından 'ruhsuz' olarak nitelendirilse de, kitabın yazarı Tracy Arrington, bunun tam tersini savunuyor ve reklamcılığın yalan söyleme değil, tam aksine doğruyu söyleme sanatı olduğunu belirtiyor."
 posted: 2021-XX-XX
 tag: "reklam"
-image: "https://www.thebookish.de/assets/new/101-things-i-learned-in-advertising-school.jpg"
+image: "/assets/new/101-things-i-learned-in-advertising-school.jpg"
 ---
 
 2022-01-05-
