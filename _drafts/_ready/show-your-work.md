@@ -13,7 +13,7 @@ published: false
 description: "Austin Kleon, Show Your Work! isimli kitabında ortaya çıkan eserleri görünür kılmanın ve büyük kitlelere ulaştırmanın yollarını paylaşıyor."
 tag: "yaratıcılık"
 posted: 2021-XX-XX
-image: "https://www.thebookish.de/assets/new/show-your-work.jpg"
+image: "/assets/new/show-your-work.jpg"
 ---
 
 2021-11-17-
