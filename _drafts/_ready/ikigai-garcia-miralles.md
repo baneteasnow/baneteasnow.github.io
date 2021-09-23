@@ -13,7 +13,7 @@ published: false
 description: "Ikigai isimli kitap tüm dünyaya Japonya'dan yayılan ve hep meşgul kalarak mutlu olmak anlamına gelen kavramı inceliyor."
 tag: "lifestyle"
 posted: 2021-XX-XX
-image: "https://www.thebookish.de/assets/new/ikigai-garcia-miralles.md.jpg"
+image: "/assets/new/ikigai-garcia-miralles.md.jpg"
 ---
 
 2021-12-01-
