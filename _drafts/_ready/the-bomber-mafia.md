@@ -13,7 +13,7 @@ published: false
 description: "Malcolm Gladwell, The Bomber Mafia'da bu kez tarihten bir dönem seçiyor ve okuyucuyu İkinci Dünya Savaşı günlerine götürüyor."
 tag: "tarih"
 posted: 2021-XX-XX
-image: "https://www.thebookish.de/assets/new/the-bomber-mafia.jpg"
+image: "/assets/new/the-bomber-mafia.jpg"
 ---
 
 2022-02-02-
