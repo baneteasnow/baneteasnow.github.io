@@ -13,7 +13,7 @@ published: false
 description: ""
 posted: 2021-XX-XX
 tag: "biyografi"
-image: "https://notes.thebookish.de/assets/new/our-house-is-on-fire.jpg"
+image: "/assets/new/our-house-is-on-fire.jpg"
 ---
 
 XXXX-XX-XX
