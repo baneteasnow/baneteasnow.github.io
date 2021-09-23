@@ -13,7 +13,7 @@ published: false
 description: "O Kadar Basit ki isimli kitapta reklam ajansında kreatif direktör olarak NeXT ve Apple reklamları için Steve Jobs ile yakından çalışmış olan Ken Segall Apple'ın 'yalınlık' üzerine kurulu felsefesini anlatıyor."  
 tag: "marka profili"
 posted: 2021-XX-XX  
-image: "https://www.thebookish.de/assets/new/insanely-simple.jpg"
+image: "/assets/new/insanely-simple.jpg"
 ---
 
 2022-06-08-
