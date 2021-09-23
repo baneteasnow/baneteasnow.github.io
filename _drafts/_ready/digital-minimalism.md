@@ -13,7 +13,7 @@ published: false
 description: "Cal Newport, Dijital Minimalizm isimli kitabında ekran başında geçirilen zamanı azaltmanın gerekliliğini ve yollarını tartışıyor."
 posted: 2021-XX-XX
 tag: "üretkenlik ve teknoloji"
-image: "https://www.thebookish.de/assets/new/digital-minimalism.jpg"
+image: "/assets/new/digital-minimalism.jpg"
 ---
 
 2021-10-06-
