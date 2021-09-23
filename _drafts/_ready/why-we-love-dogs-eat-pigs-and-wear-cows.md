@@ -13,7 +13,7 @@ published: false
 description: "Melanie Joy, Why We Love Dogs, Eat Pigs, and Wear Cows isimli kitabında insanların neden evlerinde çok sevdikleri evcil hayvanları ile birlikte yaşarken akşam yemeğinde et yediklerini tartışıyor."  
 tag: "veganlık"
 posted: 2021-XX-XX  
-image: "https://www.thebookish.de/assets/new/why-we-love-dogs-eat-pigs-and-wear-cows.jpg" 
+image: "/assets/new/why-we-love-dogs-eat-pigs-and-wear-cows.jpg" 
 ---
 
 2022-02-09-
