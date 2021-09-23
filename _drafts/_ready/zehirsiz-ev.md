@@ -13,7 +13,7 @@ published: false
 description: "Zehirsiz Ev, günlük olarak kullanılan ve yoğun kimyasallar içeren ürünlerin alternatiflerini öneren bir kitap."  
 posted: 2021-XX-XX
 tag: "sürdürülebilirlik"
-image: "https://www.thebookish.de/assets/new/zehirsiz-ev.jpg" 
+image: "/assets/new/zehirsiz-ev.jpg" 
 ---
 
 2021-10-27-
