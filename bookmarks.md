@@ -71,6 +71,7 @@ last_modified_at: 2021-08-06
 | whatyouwilllearn.com/book/ |
 | willemharmsen.com/notes/ |
 | zailanizzat.com/tag/reading-list/ |
+| paulaghete.com/books/ |
 
 <br />
 
