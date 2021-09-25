@@ -26,7 +26,7 @@ last_modified_at: 2021-08-06
 | dipnotski.com |
 | doktormurat.net/okuduklarim/kitap-onerileri/ |
 | durmonski.com/category/book-summaries/ |
-| elizabethfilips.com/book-summaries |
+| elizabethfilips.com/book-notes |
 | ethanmaurice.com/books/ |
 | gatesnotes.com/Books/ |
 | getstoryshots.com/books/category/books/ |
