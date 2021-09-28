@@ -13,7 +13,7 @@ published: false
 description: "Dan Ariely, TED kitapları serisinde yer alan Payoff isimli kitabında insanları gerçekte neyin motive ettiğini sorguluyor."
 posted: 2021-XX-XX
 tag: "psikoloji"
-image: "https://www.thebookish.de/assets/new/payoff.jpg"
+image: "/assets/new/payoff.jpg"
 ---
 
 2021-09-29-
