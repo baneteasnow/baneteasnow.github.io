@@ -34,10 +34,10 @@ html {
 body {
   color: black;
   /* font-family: system-ui, sans-serif; */
-  font-family: 'EB Garamond', serif;  
+  font-family: // system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
   font-size: 1.125rem; /*1.6rem;*/  
   line-height: 2; /* 16px */
-  letter-spacing: 0.5px;
+  /* letter-spacing: 0.5px; */
   margin: 0;
   min-height: 100%;
 }
@@ -291,5 +291,3 @@ details > p {
 // th:first-of-type { width: 5%; }
 // th:nth-of-type(2) { width: 65%; }
 // th:nth-of-type(3) { width: 30%; }
-
-// system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
