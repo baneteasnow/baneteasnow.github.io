@@ -7,21 +7,8 @@ entries:
 
   - title: # all posts
     post_list:
-      limit: 9
-      show_more: true
+      limit: 0
+      show_more: false
       show_more_text:  ... devamı # See archive...
       show_more_url: archive.html
 
-<style>
-
-.index-content {
-	margin-top: 30%;
-	margin-bottom: 30%;
-	font-size: 18px;
-}
-
-</style>
-
-<center>
-	<p class="index-content">nonfictionbooks.xyz</p>
-</center>
