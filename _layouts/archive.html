@@ -2,11 +2,16 @@
 layout: default
 ---
 
-<header>
-	<center><p class="title2">{{ site.title }}</p></center>
-</header>
+<!--<span class="link1">{%-include back_link.html-%}</span>
+<h4>{{ page.title }}</h4>
+<i class="fab fa-goodreads-g"></i>
+<i class="fab fa-instagram"></i>
+-->
+    <h4><p class="title1">{{ site.title }}</p></h4>
 
-{{ content }}
+{%-include post_list-2.html category=page.which_category-%}
 
+<br />
 {%-include icon1.html-%}
-{%-include footer-links7.html-%}
+{%-include year.html-%}
+{%-include footer-links6.html-%}
