@@ -8,9 +8,9 @@ layout: default
 
 {{ content }}
 <center>⁜</center>
-<center><i>bu haftanın kitabı:</i></center>
 <center> <span style="font-size: 100%; color: #777;"> <time datetime="{{ site.posts.first.date }}">{{ site.posts.first.date | date: "%B %-d, %Y" }} ({{ site.posts.first.date | date: "%V" }}.hafta)</time> </span></center>
-<center> <a href="{{  site.posts.first.url }}">{{ site.posts.first.title}}</a></center>
+<center><i>bu haftanın kitabı:</i></center>
+<center> <a href="{{  site.posts.first.url }}">{{ site.posts.first.title}}</a> </center>
 <center>⁜</center>
 <br />
 {%-include footer-links7.html-%}
