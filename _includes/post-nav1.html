@@ -1,12 +1,12 @@
 <div style="width: 100%;">
-  <span style="font-size: 85%; color: #777; align: left; float: left; width: 49%;">
+  <div style="font-size: 85%; color: #777; align: left; float: left; width: 50%;">
   {% if page.previous.url %}
-    <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+    <a href="{{ page.previous.url }}"> {{ page.previous.title }}</a>
   {% endif %}
-  </span>
-  <span style="font-size: 85%; color: #777; align: right; float: right; margin-left: 51%;">
+  </div>
+  <div style="font-size: 85%; color: #777; align: right; float: right; margin-left: 50%;">
   {% if page.next.url %} |
-    <a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</i></a>
+    <a href="{{ page.next.url }}">{{ page.next.title }} </i></a>
   {% endif %}
-  </span>
+  </div>
 </div> 
