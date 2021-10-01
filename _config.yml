@@ -27,15 +27,30 @@ collections:
   pages:
     output: true
     permalink: /:path
+  not-used:
+    output: true
+    permalink: /:slug
+
+defaults:
+  -    
+    scope:
+      path: ""
+      type: "not-used"
+    values:
+      layout: page-10    
+      published: true
+  -
+     scope:
+       path: ""
+     values:
+       layout: "default"
+       published: true
+      
+      # values:
+      # the default layout to use if none is specified layout: post
+      # published: true or false OR future OR unpublished
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-defaults:
-  -
-    values:
-      # the default layout to use if none is specified
-      layout: post
-      # published: true or false OR future OR unpublished
-      published: true
+  
