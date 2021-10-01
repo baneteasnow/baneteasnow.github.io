@@ -1,12 +1,10 @@
-{% assign currentMonth = "now" | date: "%B" %}
-{% assign currentWeek = "now" | date: "%W" %}
+{% assign currentMonth = "now" | date: "%Y %B" %}
 
 {%- for post in site.posts -%}
     
-    {% assign postMonth = post.date | date: "%B" %}
-    {% assign postWeek = post.date | date: "%W" %}
+    {% assign postMonth = post.date | date: "%Y %B" %}
     
-    {%- if currentMonth == postMonth and currentWeek == postWeek -%}
+    {%- if currentMonth == postMonth -%}
         <a href="{{ post.url }}">{{ post.title }}</a>
     {%- endif -%}
     
