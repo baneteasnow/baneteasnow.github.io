@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page-10
 permalink: /qwerty.md
 ---
 
