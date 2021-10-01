@@ -1,5 +1,5 @@
-{% assign currentMonth = site.time | date: "%B" %}
-{% assign currentWeek = site.time | date: "%W" %}
+{% assign currentMonth = "now" | date: "%B" %}
+{% assign currentWeek = "now" | date: "%W" %}
 
 {%- for post in site.posts -%}
     
