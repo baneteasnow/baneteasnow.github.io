@@ -1,6 +1,7 @@
 ---
 layout: page-8
 title: 'sitemap'
+published: true
 last_modified_at: 2021-07-26
 ---
 
