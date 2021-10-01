@@ -6,6 +6,6 @@ layout: page-10
 
 new text
 
-## totle no. 2
+## title no. 2
 
 text 
