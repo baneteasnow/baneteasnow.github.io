@@ -1,27 +1,17 @@
 <script>
-var comingFromPost = document.referrer;
+  const comingFromPost = document.referrer; 
 
-function linkToRandomBlogPost() {
-	var allPosts = [{% for post in site.posts %}
-      "{{ post.url }}"{% unless post.previous == nil %},{% endunless %}
-	}
-    {% endfor %}];
+  const allPosts = 
+    [{%- for post in site.posts -%}
+      {%- assign i = i | minus: 1 -%}
+      "{{ post.url }}"{%- unless i == 0 -%},{%- endunless -%}
+    {%- endfor -%}];
 
-var i = 0;
-do {
-	var randomPostLink = allPosts[Math.floor(Math.random() * allPosts.length)]; i++;}
-while (comingFromPost.includes(randomPostLink) || i > 10)
+  function linkToRandomBlogPost() {
+      const randomPostLink = allPosts[Math.floor(Math.random() * allPosts.length)];
+      return randomPostLink;
+  }
 
-if (i > 10 && comingFromPost !== '/blog/Getting-Random-Post-in-Jekyll') {
-	randomPostLink = '/blog/Getting-Random-Post-in-Jekyll';}
-
-if (i > 10 && comingFromPost === '/blog/Getting-Random-Post-in-Jekyll') {
-	randomPostLink = '/blog/Creating-a-Tag-Page-with-Jekyll'
-	}
-
-return randomPostLink;
-}
-
-location.replace(linkToRandomBlogPost())
-
+  location.replace(linkToRandomBlogPost())
 </script>
+
