@@ -26,6 +26,7 @@ sass:
 collections:
   news:
     output: true
+    permalink: /:path/
 
 plugins:
   - jekyll-feed
