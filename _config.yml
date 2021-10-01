@@ -24,7 +24,7 @@ sass:
   style: :compressed
   
 collections:
-  news:
+  pages:
     output: true
     permalink: /:path/
 
