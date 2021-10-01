@@ -22,6 +22,10 @@ theme_config:
 
 sass:
   style: :compressed
+  
+collections:
+  pages:
+    output: true
 
 plugins:
   - jekyll-feed
