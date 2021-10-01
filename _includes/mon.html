@@ -8,11 +8,13 @@
 <p>
   {% for post in month.items %}
     {% assign currentMonth = "September 2021" | date: "%B %Y" %}
-    {% assign postMonth = post.date | where: "September 2021" %}
+    {% assign postMonth = post.date | date: "%B %Y" %}
         {% if currentMonth == postMonth %}
     <p>
       <div><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
+{% else %}
+    <div style="visibility: hidden;"></div>
         {% endif %}
   {% endfor %}
 </p>
