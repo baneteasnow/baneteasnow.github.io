@@ -10,6 +10,7 @@
     {% assign currentMonth = "September 2021" | date: "%B %Y" %}
     {% assign postMonth = post.date | date: "%B %Y" %}
         {% if currentMonth == postMonth %}
+    {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | where: 'September 2021'" %}
     <p>
       <div><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
