@@ -1,0 +1,9 @@
+{% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%B'" %}
+  {% for month in postsByMonth %}
+    {% if post.date == "now" %} 
+        {{ post.title | downcase }} {{- post.date | date: '%e' -}}
+    {% else %}
+      {% assign previous_month = current_month %)
+        {{ post.title | downcase }} {{- post.date | date: '%e' -}}
+    {% endif %}
+  {% endfor %}
