@@ -1,11 +1,4 @@
-{%- assign current_month = "now" | date: "%B" -%}
-{% for post in site.posts %}
-  {% if current_month == 'October' %} 
-    {{ post.title | downcase }} oct
-  {% endif %}
-{% endfor %}
 
-///
 
 {% assign currentYear = site.time | date: "%Y" %}
 {% assign currentWeek = site.time | date: "%W" %}
