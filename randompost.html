@@ -3,3 +3,5 @@ layout: page-10
 ---
 
 {%- assign totalNumberOfPosts = site.posts | size -%}
+{%- assign totalNumberOfPosts = site.posts | size -%}
+{%- assign i = totalNumberOfPosts | minus: NumberOfUnlistedPosts -%}
