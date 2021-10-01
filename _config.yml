@@ -30,8 +30,16 @@ collections:
   not-used:
     output: true
     permalink: /:slug
+   drafts:
+    output: false
 
 defaults:
+  -
+   scope: 
+     path: ""
+     type: "drafts"
+   values:
+     published: false
   -    
     scope:
       path: ""
