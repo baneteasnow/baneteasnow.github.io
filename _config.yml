@@ -26,7 +26,7 @@ sass:
 collections:
   pages:
     output: true
-    permalink: /:path.html
+    permalink: /:path
 
 plugins:
   - jekyll-feed
