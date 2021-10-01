@@ -4,6 +4,6 @@
      {% if current_month.posts.size > 0 -%}
         <a href="{{ post.url }}">{{ post.title }}</a>
      {% else %}
-        {% assign previous_month = site.posts.current_month | date: "%B" %}
+        {% assign previous_month = current_month.site.posts | date: "%B" %}
      {% endif %}
 {% endfor %}
