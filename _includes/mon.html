@@ -1,0 +1,4 @@
+{%- assign current_month = "now" | date: "%B" -%}
+  {% if current_month == 'September' %} 
+    {{ post.title | downcase }}
+  {% endif %}
