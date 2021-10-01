@@ -24,7 +24,7 @@ sass:
   style: :compressed
   
 collections:
-  pages:
+  news:
     output: true
 
 plugins:
