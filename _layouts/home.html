@@ -8,13 +8,11 @@ layout: default
 
 {{ content }}
 <center>⁜</center>
-<center><i>bu haftanın kitabı:</i></center>
-<center> <i><span style="font-size: 100%; color: #777;"> <time datetime="{{ site.posts.first.date }}">{{ site.posts.first.date | date: "%B %-d, %Y" }} ({{ site.posts.first.date | date: "%V" }}.hafta)</time> </span></i></center>
-<center> <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a> </center>
+{%-include mon.html-%}
 <center>⁜</center>
 <center><i><a href="/randompost">rastgele bir yazı göster</a></i></center>
 <center>⁜</center>
 <br />
 {%-include footer-links7.html-%}
 
-{%-include mon.html-%}
+
