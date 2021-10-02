@@ -3,6 +3,7 @@
   {% assign postMonth = post.date | date: "%B %Y" -%}
     {% if currentMonth != postMonth and site.posts.currentMonth.size > 0 %}
         {{ site.posts.first.date | date: "%B %-d, %Y" }}<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
+    {% break %}
     {% else %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% break %}
@@ -16,6 +17,7 @@
   {% assign postMonth = post.date | date: "%B %Y" -%}
     {% if currentMonth != postMonth and site.posts.currentMonth.size > 0 %}
         {{ site.posts.first.date | date: "%B %-d, %Y" }}<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
+    {% break %}    
     {% else %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% break %}
@@ -29,6 +31,7 @@
   {% assign postMonth = post.date | date: "%B %Y" -%}
     {% if currentMonth != postMonth and site.posts.size > 0 %}
         {{ site.posts.first.date | date: "%B %-d, %Y" }}<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
+    {% break %}    
     {% else %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% break %}
@@ -43,10 +46,11 @@
   {% case currentMonth %}
     {% when currentMonth != postMonth and site.posts.currentMonth.size > 0 %}
         {{ site.posts.first.date | date: "%B %-d, %Y" }}<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
+    {% break %}    
     {% else %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% break %}
     {% endcase %}
 {% endfor %}
 
-.
+.//
