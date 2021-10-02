@@ -1,10 +1,14 @@
 {% for post in site.posts -%}
   {% assign currentMonth = "August 2021" | date: "%B %Y" %}
+  {% assign lastMonth = "August 2021" | date: "%B %Y" | minus: 1 %}
   {% assign postMonth = post.date | date: "%B %Y" -%}
     {% if currentMonth == postMonth and site.posts.size > 0 %}
         {% assign posts = site.posts %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
+    {% else %}
+        {% assign posts = lastMonth.site.posts %}
+        {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endif %} 
 {% endfor %}
-=
+=.
 
