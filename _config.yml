@@ -23,6 +23,20 @@ theme_config:
 sass:
   style: :compressed
   
+months:
+  - January: Ocak
+  - February: Şubat
+  - March: Mart
+  - April: Nisan
+  - May: Mayıs
+  - June: Haziran
+  - July: Temmuz
+  - Agust: Ağustos
+  - September: Eylül
+  - October: Ekim
+  - November: Kasım
+  - December: Aralık  
+  
 collections:
   pages:
     output: true
