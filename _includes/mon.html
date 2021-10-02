@@ -1,13 +1,13 @@
 {%- for post in site.posts -%}
-  {%- assign currentMonth = "now" | date: "%B %Y" -%}
-  {%- assign lastMonth = "now" | minus: 1 -%}
+  {%- assign currentMonth = "September 2021" | date: "%B %Y" -%}
+  {%- assign lastMonth = "September 2021" | date: "%B %Y" | minus: 1 -%}
   {%- assign postMonth = post.date | date: "%B %Y" -%}
     {%- if currentMonth == postMonth and posts.size > 0 -%}
         <div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {%- else -%}
        {%- assign post = site.posts.first.url -%}
-{%- assign latest_post = site.posts[0] -%}
-Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
+       {%- assign latest_post = site.posts[0] -%}
+       Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
     {%- endif -%} 
 {%- endfor -%}
 .
