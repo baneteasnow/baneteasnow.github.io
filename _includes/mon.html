@@ -1,3 +1,6 @@
+--1--
+<br />
+
 {% for post in site.posts -%}
   {% assign currentMonth = "September 2021" | date: "%B %Y" %}
   {% assign postMonth = post.date | date: "%B %Y" -%}
@@ -9,6 +12,8 @@
 
 <br />
 --1--
+<br />
+--2--
 <br />
 
 {% for post in site.posts -%}
@@ -23,7 +28,8 @@
 <br />
 --2--
 <br />
-
+--3--
+<br />
 
 {% for post in site.posts -%}
   {% assign currentMonth = "now" | date: "%B %Y" %}
@@ -38,11 +44,14 @@
 <br />
 --3--
 <br />
+--4---
+<br />
 
 {% for post in site.posts -%}
   {% assign currentMonth = "now" | date: "%B %Y" %}
   {% assign postMonth = post.date | date: "%B %Y" -%}
     {% if currentMonth == postMonth and site.posts.size == 0 %}
+        {% assign posts = site.posts %}
        <span style="font-size: 100%; color: #777;">bu haftanın kitabı:</span>
        <div style="font-size: 100%; color: #777;">{{ site.posts.first.date | date: "%B %-d, %Y" }} <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
       {% break %}
@@ -50,6 +59,6 @@
 {% endfor %}
 
 <br />
---4--
+--4---
 <br />
 
