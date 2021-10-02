@@ -3,11 +3,11 @@
   {%- assign postMonth = post.date | date: "%B %Y" -%}
     {%- if currentMonth == postMonth and site.posts.size > 0 -%}
         <div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    {%- elsif currentMonth == postMonth and site.posts.size == 0 -%}
+    {%- elsif currentMonth != postMonth and site.posts.size == 0 -%}
        <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
     {% break %}
     {%- endif -%} 
 {%- endfor -%}
-.....
+....
 
 
