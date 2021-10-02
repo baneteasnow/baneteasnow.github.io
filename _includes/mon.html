@@ -10,4 +10,19 @@
     {% endcase %}
 {% endfor %}
 
-./
+./\
+
+{% for post in site.posts -%}
+  {% assign currentMonth = "now" | date: "%B %Y" %}
+  {% assign postMonth = post.date | date: "%B %Y" -%}
+  {% case postMonth %}
+    {% when currentMonth != postMonth and site.posts.currentMonth.size > 0 %}
+        {{ site.posts.first.date | date: "%B %-d, %Y" }}<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
+    {% break %}
+    {% else %}
+        {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
+    {% break %}
+    {% endcase %}
+{% endfor %}
+
+./-
