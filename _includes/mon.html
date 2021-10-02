@@ -5,8 +5,7 @@
         {% assign posts = site.posts %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endif %} 
-
-      {% if currentMonth == postMonth and site.posts.size = 0 %}
+    {% if currentMonth == postMonth and site.posts.size = 0 %}
        {{ site.posts.first.date | date: "%B %-d, %Y" }} <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
       {% break %}
     {% endif %} 
