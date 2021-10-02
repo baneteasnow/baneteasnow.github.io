@@ -1,11 +1,13 @@
 {%- for post in site.posts -%}
   {%- assign currentMonth = "now" | date: "%B %Y" -%}
+  {%- assign lastMonth = "now" | minus: 1 -%}
   {%- assign postMonth = post.date | date: "%B %Y" -%}
-
-    {%- if currentMonth != postMonth and posts.size > 0 -%}
-              <span>new</span>
+    {%- if currentMonth == postMonth and posts.size > 0 -%}
+        <div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {%- else -%}
-  <div><a href="{{ post.url }}">{{ post.title }}</a></div>
+       {%- assign post = site.posts.first.url -%}
     {%- endif -%} 
 {%- endfor -%}
 .
+
+
