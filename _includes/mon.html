@@ -1,5 +1,5 @@
 {% for post in site.posts %}
-{% assign currentMonth = "September 2021" | date: "%B %Y" %}
+{% assign currentMonth = "now" | date: "%B %Y" %}
     {% assign postMonth = post.date | date: "%B %Y" %}
     {% if currentMonth == postMonth %}
         <div><a href="{{ post.url }}">{{ post.title }}</a></div>
