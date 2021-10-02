@@ -1,22 +1,9 @@
-{% assign currentMonth = "September 2021" | date: "%B %Y" %}
-    {% assign postMonth = post.date | date: "%B %Y" %} 
-{% if currentMonth == postMonth %}
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-<em> <span style="color: #777;">{{ year.name }}</span> </em> 
-    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
- {% for month in postsByMonth %}
-<em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
-    <p>
-{% for post in month.items %}    
-    <p>
-      <div><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
-    </p>
 
-        {% endif %}
-  {% endfor %}
-    </p>
-
- {% endfor %}
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+    <div>{{ currentdate }}</div>
+    {% assign date = currentdate %} 
+  {% endif %}
+    <div><a href="{{ post.url }}">{{ post.title }}</a></div>
 {% endfor %}
-
