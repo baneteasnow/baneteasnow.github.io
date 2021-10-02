@@ -2,7 +2,7 @@
   {% assign currentMonth = "September 2021" | date: "%B %Y" %}
   {% assign postMonth = post.date | date: "%B %Y" -%}
   {% case postMonth %}
-    {% when currentMonth == postMonth and site.posts.size > 0 %}
+    {% when currentMonth == postMonth and site.posts.currentMonth.size > 0 %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% else %}
         {{ site.posts.first.date | date: "%B %-d, %Y" }}<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
