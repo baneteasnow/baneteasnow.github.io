@@ -5,10 +5,10 @@
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {%- elsif currentMonth != postMonth -%}
        {{ site.posts.first.date | date: "%B %-d, %Y" }} <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
-    {%- break -%}
+      {%- break -%}
     {%- else -%}
     <div style="visibility: hidden;"></div>
     {%- endif -%} 
 {%- endfor -%}
-..
+.
 
