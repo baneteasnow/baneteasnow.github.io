@@ -1,10 +1,10 @@
-{%- for post in site.posts -%}
-{% assign currentMonth = "now" | date: "%B %Y" %}
+{% for post in site.posts %}
+{% assign currentMonth = "September 2021" | date: "%B %Y" %}
     {% assign postMonth = post.date | date: "%B %Y" %}
-    
-    {%- if currentMonth == postMonth -%}
+    {% if currentMonth == postMonth %}
         <div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    {%- endif -%}
-    
-{%- endfor -%}
+    {% else %}
+<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
+    {% endif %} 
+{% endfor %}
 .
