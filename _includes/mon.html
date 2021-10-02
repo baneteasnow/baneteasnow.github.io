@@ -56,7 +56,7 @@
 .//
 
 {% for post in site.posts -%}
-  {% assign currentMonth = "now" | date: "%B %Y" %}
+  {% assign currentMonth = "September 2021" | date: "%B %Y" %}
   {% assign postMonth = post.date | date: "%B %Y" -%}
   {% case currentMonth %}
     {% when site.posts.currentMonth.size > 0 %}
