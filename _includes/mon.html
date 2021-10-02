@@ -44,13 +44,13 @@
 <br />
 --3--
 <br />
---4---
+--4--
 <br />
 
 {% for post in site.posts -%}
   {% assign currentMonth = "now" | date: "%B %Y" %}
   {% assign postMonth = post.date | date: "%B %Y" -%}
-    {% if currentMonth == postMonth and site.posts.size = 0 %}
+    {% if currentMonth != postMonth %}
         {% assign posts = site.posts %}
        <span style="font-size: 100%; color: #777;">bu haftanın kitabı:</span>
        <div style="font-size: 100%; color: #777;">{{ site.posts.first.date | date: "%B %-d, %Y" }} <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
@@ -59,6 +59,6 @@
 {% endfor %}
 
 <br />
---4---
+--4--
 <br />
 
