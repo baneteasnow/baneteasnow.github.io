@@ -1,10 +1,11 @@
 {%- for post in site.posts -%}
   {%- assign currentMonth = "now" | date: "%B %Y" -%}
   {%- assign postMonth = post.date | date: "%B %Y" -%}
-    {%- if currentMonth == postMonth and posts.size > 0 -%}
-        <div><a href="{{ post.url }}">{{ post.title }}</a></div>
+
+    {%- if currentMonth != postMonth and posts.size > 0 -%}
+              <span>new</span>
     {%- else -%}
-        <span>new</span>
+  <div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {%- endif -%} 
 {%- endfor -%}
 .
