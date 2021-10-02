@@ -1,46 +1,13 @@
 {% for post in site.posts -%}
   {% assign currentMonth = "September 2021" | date: "%B %Y" %}
   {% assign postMonth = post.date | date: "%B %Y" -%}
-  {% case currentMonth %}
-    {% when currentMonth == postMonth and site.posts.currentMonth.size > 0 %}
-        {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    {% else %}
-        {{ site.posts.first.date | date: "%B %-d, %Y" }}<div><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></div>
-    {% break %}
-    {% endcase %}
-{% endfor %}
-
-<br />
-.--
-
-{% for post in site.posts -%}
-  {% assign currentMonth = "September 2021" | date: "%B %Y" %}
-  {% assign postMonth = post.date | date: "%B %Y" -%}
     {% if currentMonth == postMonth and site.posts.currentMonth.size > 0 %}
-        {% assign posts = site.posts %}
-        {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
-    {% else %}
-       {{ site.posts.first.date | date: "%B %-d, %Y" }} <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
-    {% break %}
-    {% else %}
-        <div style="visibility: hidden;"></div>
-    {% endif %} 
-{% endfor %}
-
-<br />
-======
-
-
-{% for post in site.posts -%}
-  {% assign currentMonth = "September 2021" | date: "%B %Y" %}
-  {% assign postMonth = post.date | date: "%B %Y" -%}
-    {% if currentMonth == postMonth and site.posts.size > 0 %}
-        {% assign posts = site.posts %}
         {{ post.date | date: "%B %-d, %Y" }}<div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% else %}
        {{ site.posts.first.date | date: "%B %-d, %Y" }} <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
     {% break %}
     {% endif %} 
 {% endfor %}
-<br />
-=
+
+.,.
+
