@@ -6,6 +6,8 @@
         <div><a href="{{ post.url }}">{{ post.title }}</a></div>
     {%- else -%}
        {%- assign post = site.posts.first.url -%}
+{%- assign latest_post = site.posts[0] -%}
+Latest post: <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
     {%- endif -%} 
 {%- endfor -%}
 .
