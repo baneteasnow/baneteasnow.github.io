@@ -5,7 +5,7 @@
         {% assign posts = site.posts %}
                 {% assign months = "january|february|march|april|may|june|july|august|september|october|november|december" | split: "|" %}
                 {% assign m = post.date | date: "%-m" | minus: 1 %}
-          <span><i><center>{% t month %} bu ayın kitapları:</center></i></span>
+          <span><i><center>{{ month }} bu ayın kitapları:</center></i></span>
         <div style="font-size: 100%; color: #777; font-style: italic; text-align: center;"><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endif %} 
 {% endfor %}
