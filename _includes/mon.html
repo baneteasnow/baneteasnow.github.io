@@ -4,7 +4,7 @@
     {% if currentMonth == postMonth and site.posts.size > 0 %}
         {% assign posts = site.posts %}
         {% capture i18n_date %}
-        {% assign B = page.date | date: "%-B" | minus: 1 %}
+        {% assign B = post.date | date: "%-B" | minus: 1 %}
         {{ site.data.tr.months[m] }}
         {% endcapture %}
           <span><i><center>{{ post.date | date: "%B" }} bu ayın kitapları:</center></i></span>
