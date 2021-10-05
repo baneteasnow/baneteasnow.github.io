@@ -9,6 +9,6 @@ Hayvan Deneyleri: Hayvanlar Bizim İçin mi Var? (2020)
 <i>by</i> Yagmur Özgür Güven, Oguzcan Kınıkoğlu  
 <br />
 ⁜  
-Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber (2020)  
-<i>by</i> Susan Fowler  
+Zoopolis: A Political Theory of Animal Rights (2011)  
+<i>by</i> Sue Donaldson, Will Kymlicka  
 <br />
