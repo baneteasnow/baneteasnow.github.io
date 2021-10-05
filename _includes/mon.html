@@ -3,11 +3,9 @@
   {% assign postMonth = post.date | date: "%B %Y" %}
     {% if currentMonth == postMonth and site.posts.size > 0 %}
         {% assign posts = site.posts %}
-        {% capture i18n_date %}
-        {% assign m = post.date | date: "%-m" | minus: 1 %}
-        {{ site.data.tr.months[m] }}
-        {% endcapture %}
-          <span><i><center>{{ post.date | date: "%-m" }} bu ayın kitapları:</center></i></span> {{ post.date.site.data.tr.months[m] | date: "%-m" }}
+        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
+          <span><i><center>{{ post.date | date: "%-m" }} bu ayın kitapları:</center></i></span> {{ post.date.site.data.tr.meses[m] | date: "%-m" }}
         <div style="font-size: 100%; color: #777; font-style: italic; text-align: center;"><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endif %} 
 {% endfor %}
