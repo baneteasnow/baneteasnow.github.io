@@ -5,7 +5,7 @@
         {% assign posts = site.posts %}
         {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
-          <span><i><center>{{ post.date | date: "%-m" }} bu ayın kitapları:</center></i></span> {{ post.date.site.data.tr.meses[m] | date: "%-m" }} {{ mes }}
+          <span><i><center> {{ mes }} ayının kitapları:</center></i></span> 
         <div style="font-size: 100%; color: #777; font-style: italic; text-align: center;"><a href="{{ post.url }}">{{ post.title }}</a></div>
     {% endif %} 
 {% endfor %}
