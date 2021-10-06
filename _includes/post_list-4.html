@@ -4,7 +4,7 @@
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   
 {% assign meses = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
-  {% assign m = postsByMonth.post.date | date: "%-m" | minus: 1 %}
+  {% assign m = site.posts.post.date | date: "%-m" | minus: 1 %}
   {% assign month = meses[m] %}
   {{ month }} <br />
   {{ mes }}
