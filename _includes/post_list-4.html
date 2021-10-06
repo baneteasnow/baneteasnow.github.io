@@ -9,7 +9,7 @@
         {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
 
-<em><span style="text-align: right; float: right; color: #777;"> {{ month | downcase }} </span></em><br />
+<em><span style="text-align: right; float: right; color: #777;"> {{ month.name | "post.date | 'site.data.tr.meses[mes_index]'" | downcase }} </span></em><br />
 <p>
   {% for post in month.items %}
     <p>
