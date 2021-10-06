@@ -3,11 +3,7 @@
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
-        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
-        {% assign mes = site.data.tr.meses[mes_index] %}
-
 {% for month in postsByMonth %}
-    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}<br />{{ page.date | date: "%V" }}.Hafta</time>
 
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
 <p>
