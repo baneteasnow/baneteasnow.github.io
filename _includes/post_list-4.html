@@ -7,6 +7,7 @@
         {% assign mes = site.data.tr.meses[mes_index] %}
 
 {% for month in postsByMonth %}
+{% for mes in mes_index %}
     <time datetime="{{ post.date }}">{{ mes }} {{ post.date | date: "%-d, %Y" }}</time>
 
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
@@ -17,7 +18,7 @@
 </p>
   {% endfor %}
 </p>
-
+{% endfor %}
 {% endfor %}
 {% endfor %}
 
