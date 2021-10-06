@@ -3,19 +3,15 @@
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   
-{% assign meses = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
-  {% assign m = site.posts.post.date | date: "%-m" | minus: 1 %}
-  {% assign month = meses[m] %}
-
-    {% assign mes_index = site.posts.post.date | date: "%-m" | minus: 1 %}
-    {% assign mes = site.data.tr.meses[mes_index] %}
-
+{% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign day = page.date | date: "%d" %}
+{% assign month = months[m] %}
+{% assign year = page.date | date: "%Y" %}
 
 {% for month in postsByMonth %}
-{{ meses }}
-{{ mes }}
-{{ month }}
-{{ site.posts.post.date }}
+<span class="date">{{ day }}/{{ month }}/{{ year }}</span>
+
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name }} </span></em><br />
 <p>
   {% for post in month.items %}
