@@ -22,7 +22,7 @@
 {% endcase %}
 {% for month in postsByMonth %}
 
-<em><span style="text-align: right; float: right; color: #777;"> {{ month }} </span></em><br />
+<em><span style="text-align: right; float: right; color: #777;"> {{ month.name }} </span></em><br />
 <p>
   {% for post in month.items %}
     <p>
