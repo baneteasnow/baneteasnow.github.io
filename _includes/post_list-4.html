@@ -3,6 +3,11 @@
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
+  {% assign meses = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
+  {% assign m = post.date | date: "%-m" | minus: 1 %}
+  {% assign month = meses[m] %}
+  {{ month }}
+
 {% for month in postsByMonth %}
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
 <p>
