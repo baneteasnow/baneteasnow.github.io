@@ -5,8 +5,8 @@
 
 {% for month in postsByMonth %}
 
-{% assign month = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{% assign month = post.date | date: "%-m" %}
+{{ post.date | date: "%-d" }}
 {% case month %}
   {% when '1' %}Januar
   {% when '2' %}Februar
@@ -21,7 +21,7 @@
   {% when '11' %}November
   {% when '12' %}Dezember
 {% endcase %}
-{{ page.date | date: "%Y" }}
+{{ post.date | date: "%Y" }}
 
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
 <p>
