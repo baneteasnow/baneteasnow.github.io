@@ -5,7 +5,7 @@
 
 {% for month in postsByMonth %}
 
-{% case m %}
+{% case month %}
   {% when '1' %}Januar
   {% when '2' %}Februar
   {% when '3' %}März
@@ -20,7 +20,7 @@
   {% when '12' %}Dezember
 {% endcase %}
 
-<em><span style="text-align: right; float: right; color: #777;"> {{ post.date | date: '%-m' }} </span></em><br />
+<em><span style="text-align: right; float: right; color: #777;"> {{ month }} </span></em><br />
 <p>
   {% for post in month.items %}
     <p>
