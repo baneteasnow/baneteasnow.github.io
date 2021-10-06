@@ -4,12 +4,25 @@
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
-{% capture i18n_date %}
-{% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
-{% assign m = post.date | date: "%-m" | minus: 1 %}
-{% assign month = months[m] %}
-<span>{{ month }}</span>
-{% endcapture %}
+
+{% assign month = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case month %}
+  {% when '1' %}Januar
+  {% when '2' %}Februar
+  {% when '3' %}März
+  {% when '4' %}April
+  {% when '5' %}Mai
+  {% when '6' %}Juni
+  {% when '7' %}Juli
+  {% when '8' %}August
+  {% when '9' %}September
+  {% when '10' %}Oktober
+  {% when '11' %}November
+  {% when '12' %}Dezember
+{% endcase %}
+{{ page.date | date: "%Y" }}
+
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
 <p>
   {% for post in month.items %}
