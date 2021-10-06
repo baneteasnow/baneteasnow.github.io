@@ -4,6 +4,7 @@
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
      {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
      {% assign mes = site.data.tr.meses[mes_index] %}
+{% for month in postsByMonth %}
 <em><span style="text-align: right; float: right; color: #777;"> {{ mes }} </span></em><br />
 <p>
   {% for post in month.items %}
@@ -13,6 +14,7 @@
   {% endfor %}
 </p>
 
+{% endfor %}
 {% endfor %}
 
 <!--<a href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>-->
