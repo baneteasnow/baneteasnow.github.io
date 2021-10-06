@@ -4,7 +4,7 @@
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
 
 {% assign m = post.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{{ post.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Januar
   {% when '2' %}Februar
