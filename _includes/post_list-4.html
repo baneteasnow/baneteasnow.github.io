@@ -1,7 +1,7 @@
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
 
 {% for month in postsByMonth %}
 {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
