@@ -6,7 +6,7 @@
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
-{% assign posts = site.posts %}
+{% assign month = mes %}
 {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
 {% assign mes = site.data.tr.meses[mes_index] %}
 <em><span style="text-align: right; float: right; color: #777;"> {{ mes }} </span></em><br />
