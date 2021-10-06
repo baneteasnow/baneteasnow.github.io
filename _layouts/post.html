@@ -23,3 +23,16 @@ layout: default
 {%-include icon1.html-%}
 {%-include year.html-%}
 {%-include footer-links1.html-%}
+
+<p class="post-meta">
+        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
+    <time datetime="{{ page.date }}">{{ mes }}{{ page.date | date: "%-d, %Y" }}<br />{{ page.date | date: "%V" }}.hafta</time>
+  </p>
+OR
+<p class="post-meta">
+        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
+    <div>{{ mes }}{{ page.date | date: "%-d, %Y" }}<br />{{ page.date | date: "%V" }}.hafta</div>
+  </p>
+        
