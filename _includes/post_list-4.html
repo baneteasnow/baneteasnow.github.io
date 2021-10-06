@@ -1,28 +1,10 @@
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
-{% assign m = post.date | date: "%-d" %}
-   {% capture m %}
-     {% case m %}
-      {% when '1' %}Januar
-      {% when '2' %}Februar
-      {% when '3' %}März
-      {% when '4' %}April
-      {% when '5' %}Mai
-      {% when '6' %}Juni
-      {% when '7' %}Juli
-      {% when '8' %}August
-      {% when '9' %}September
-      {% when '10' %}Oktober
-      {% when '11' %}November
-      {% when '12' %}Dezember
-     {% endcase %}
-    {% endcapture %}
 {% for month in postsByMonth %}
-
-<em><span style="text-align: right; float: right; color: #777;"> {{ m.name }} </span></em><br />
+<em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
 <p>
   {% for post in month.items %}
     <p>
@@ -35,5 +17,3 @@
 {% endfor %}
 
 <!--<a href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>-->
-
-
