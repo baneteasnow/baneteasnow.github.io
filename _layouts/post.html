@@ -8,7 +8,7 @@ layout: default
   <p class="post-meta">
         {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
-    <time datetime="{{ page.date }}">{{ mes }} &nbsp; {{ page.date | date: "%-d, %Y" }}<br />{{ page.date | date: "%V" }}.hafta</time>
+    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}<br />{{ page.date | date: "%V" }}.hafta</time>
   </p>
   
 <i><h4>{{ page.title }}</h4></i>
