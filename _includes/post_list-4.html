@@ -9,7 +9,10 @@
 
 {% for month in postsByMonth %}
   {{- month | date: "%-m" | minus: 1 -}} <br />
-  {{- meses | date: "%-m" | minus: 1 -}}
+  {{- meses | date: "%-m" -}}
+1{{ site.data.tr.months[m] }}
+2{{ site.data.tr.month[m] }}
+3{{ site.data.tr.meses[m] }}
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name }} </span></em><br />
 <p>
   {% for post in month.items %}
