@@ -5,6 +5,7 @@
 
 {% for month in postsByMonth %}
 
+<em><span style="text-align: right; float: right; color: #777;">
 {% if month.name == 'January' %}
 Januari
 {% elsif month.name == 'February' %}
@@ -30,8 +31,7 @@ November
 {% elsif month.name == 'December' %}
 December
 {% endif %}
-
-<em><span style="text-align: right; float: right; color: #777;"> {{ month.name | downcase }} </span></em><br />
+</span></em><br />
 <p>
   {% for post in month.items %}
     <p>
