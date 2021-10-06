@@ -5,30 +5,30 @@
 
 {% for month in postsByMonth %}
 
-{% if {{month}} == 'January' %}
-{{day}} Januari {{year}}
-{% elsif {{month)) == 'February' %}
-{{day}} Februari {{year}}
-{% elsif {{month)) == 'March' %}
-{{day}} Mars {{year}}
-{% elsif {{month)) == 'April' %}
-{{day}} April {{year}}
-{% elsif {{month)) == 'May' %}
-{{day}} Maj {{year}}
-{% elsif {{month)) == 'June' %}
-{{day}} Juni {{year}}
-{% elsif {{month)) == 'July' %}
-{{day}} Juli {{year}}
-{% elsif {{month)) == 'August' %}
-{{day}} Augusti {{year}}
-{% elsif {{month)) == 'September' %}
-{{day}} September {{year}}
-{% elsif {{month)) == 'October' %}
-{{day}} Oktober {{year}}
-{% elsif {{month)) == 'November' %}
-{{day}} November {{year}}
-{% elsif {{month)) == 'December' %}
-{{day}} December {{year}}
+{% if {{ month.name }} == 'January' %}
+Januari
+{% elsif {{ month.name }} == 'February' %}
+Februari
+{% elsif {{ month.name }} == 'March' %}
+Mars
+{% elsif {{ month.name }} == 'April' %}
+April
+{% elsif {{ month.name }} == 'May' %}
+Maj
+{% elsif {{ month.name }} == 'June' %}
+Juni
+{% elsif {{ month.name }} == 'July' %}
+Juli
+{% elsif {{ month.name }} == 'August' %}
+Augusti
+{% elsif {{ month.name }} == 'September' %}
+September
+{% elsif {{ month.name }} == 'October' %}
+Oktober
+{% elsif {{ month.name }} == 'November' %}
+November 
+{% elsif {{ month.name }} == 'December' %}
+December
 {% endif %}
 
 {{ month }} 1
