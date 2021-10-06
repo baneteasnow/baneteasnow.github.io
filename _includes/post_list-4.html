@@ -3,7 +3,8 @@
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
 
-{% assign posts = site.posts %}
+{% for month in postsByMonth %}
+
 {% assign m = post.date | date: "%-m" %}
 {{ post.date | date: "%-m" }}
 {% case m %}
@@ -20,7 +21,6 @@
   {% when '11' %}November
   {% when '12' %}Dezember
 {% endcase %}
-{% for month in postsByMonth %}
 
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name }} </span></em><br />
 <p>
