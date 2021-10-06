@@ -1,17 +1,12 @@
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-
-{% for month in postsByMonth %}
-        {% assign month = mes %}
-        {% assign posts = site.posts %}
-        {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
-        {% assign mes = site.data.tr.meses[mes_index] %}
-
-<em><span style="text-align: right; float: right; color: #777;"> {{ mes | 'site.data.tr.meses[post.date | date: "%-m" | minus: 1]' }} </span></em><br />
+  {% assign mes_index = year.items | group_by_exp:"post", "post.date | date: "%-m" | minus: 1" %}
+  {% assign mes = site.data.tr.meses[mes_index] %}
+{% for month in mes_index %}
+<em><span style="text-align: right; float: right; color: #777;"> {{ mes }} </span></em><br />
 <p>
-  {% for post in month.items %}
+  {% for post in mes_index.items %}
     <p>
       <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
