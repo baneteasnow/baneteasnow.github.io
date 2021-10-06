@@ -10,7 +10,8 @@
   {{ meses }}
 
 {% for month in postsByMonth %}
- 
+  {{ month }} <br />
+  {{ meses }}
 <em><span style="text-align: right; float: right; color: #777;"> {{ month.name }} </span></em><br />
 <p>
   {% for post in month.items %}
