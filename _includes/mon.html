@@ -5,7 +5,7 @@
         {% assign posts = site.posts %}
         {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
-          <span><i> {{ mes }} ayının kitapları:</i></span> 
+          <span><i><center> {{ mes }} ayının kitapları:</center></i></span> 
         <div class="link1" style="font-size: 100%; color: #777; font-style: italic; text-align: left;"><a href="{{ post.url }}">{{ post.title | downcase }}</a></div>
     {% endif %} 
 {% endfor %}
@@ -15,7 +15,7 @@
   {% assign postL = site.posts.first.date | date: "%B %Y" %}
     {% if currentMonth != postL %}
         {% assign posts = site.posts %}
-          <span><i>bu haftanın kitabı:</i></span>
+          <span><i><center>bu haftanın kitabı:</center></i></span>
        <div class="link1" style="font-size: 100%; color: #777; font-style: italic; text-align: left;">{{ site.posts.first.date | date: "%B %-d, %Y" }}<br /><a href="{{ site.posts.first.url }}">{{ site.posts.first.title | downcase }}</a></div>
       {% break %}
     {% endif %} 
