@@ -80,6 +80,11 @@ hr {
   border-color: #e5e5e5;
   width: auto;
 }
+.line1 {
+  border-right: 1px solid #ffff33;
+  text-align: left;
+  font-size: 100%;
+}
 //  text-align: left;
 //  border: 1;
 //  &:before { content: '___' }
@@ -136,11 +141,6 @@ a:hover{
   /* -webkit-text-decoration-color: #777;  Safari */  
   /* text-decoration-color: #777 !important; */ 
   /* text-decoration-thickness: 0.01em !important; */ 
-}
-line1 {
-  border-right: 1px solid #ffff33;
-  text-align: left;
-  font-size: 100%;
 }
 .link1 a {
     /*color: #06adf8; */
