@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Search
+layout: page-8
+title: Ara
 ---
 
 <style>
