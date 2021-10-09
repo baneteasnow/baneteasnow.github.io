@@ -46,3 +46,6 @@ SimpleJekyllSearch({
   exclude: ['Welcome']
 })
 </script>
+<br />
+<br />
+<div style="clear: both;"></div>
