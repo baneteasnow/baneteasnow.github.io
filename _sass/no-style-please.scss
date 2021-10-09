@@ -81,7 +81,7 @@ hr {
   width: auto;
 }
 .line1 {
-  border-left: 1px solid #edf2f7;
+  border-left: 1px solid #ffff66;
   text-align: left;
   font-size: 100%;
   padding-left: 3%;
@@ -205,6 +205,20 @@ a:hover{
   text-decoration: none !important;
   border-bottom: 0px;
 } 
+
+.link4 a {
+    line-height: .85;
+    background-image: #edf2f7;
+    background-size: 5px 5px;
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+.link4 a:hover {
+    text-decoration: none !important;
+    border-bottom-color: #edf2f7 !important;
+    background-image: #edf2f7 !important; /* #ffff33 */
+}
+
 .title1 { /* home & archive {{ site.title }} */
    color: black;
    cursor: default !important;   
