@@ -23,8 +23,3 @@ The Bullet Journal Method: Track the Past, Order the Present, Design the Future 
 Soulful Simplicity: How Living with Less Can Lead to So Much More (2017)  
 <i>by</i> Courtney Carver  
 <br />
-⁜  
-15 Things You Should Give Up to Be Happy: An Inspiring Guide to Discovering Effortless Joy (2016)  
-<i>by</i> Luminita D. Saviuc  
-<br />
-  
