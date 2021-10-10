@@ -8,10 +8,6 @@ Hayvan Deneyleri: Hayvanlar Bizim İçin mi Var? (2020)
 <i>by</i> Yagmur Özgür Güven, Oguzcan Kınıkoğlu  
 <br />
 ⁜  
-Project 333: The Minimalist Fashion Challenge That Proves Less Really Is So Much More (2020)  
-<i>by</i> Courtney Carver  
-<br />
-⁜  
 The Artist's Way: A Spiritual Path to Higher Creativity (2002)  
 <i>by</i> Julia Cameron  
 <br />
