@@ -1,8 +1,8 @@
 ---
 layout: post
 category: book
-title: "Project 333: The Minimalist Fashion Challenge That Proves Less Really Is So Much More | Courtney Carver (Kitap)"
-kitap: ""
+title: "Project 333 | Courtney Carver (Kitap)"
+kitap: "Project 333: The Minimalist Fashion Challenge That Proves Less Really Is So Much More"
 tr: "-"
 yazar: "Courtney Carver"
 yil: "2020"
