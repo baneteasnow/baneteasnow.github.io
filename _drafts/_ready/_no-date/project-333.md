@@ -1,0 +1,34 @@
+---
+layout: post
+category: book
+title: "Project 333 | Courtney Carver (Kitap)"
+kitap: "Project 333: The Minimalist Fashion Challenge That Proves Less Really Is So Much More"
+tr: "-"
+yazar: "Courtney Carver"
+yil: "2020"
+sayfa: "224"
+goodreads: "https://www.goodreads.com/book/show/52957819-project-333"
+description: ""
+last_modified_at: XXXX-XX-XX
+published: false
+posted: XXXX-XX-XX
+tag: ""
+image: "/assets/new/project-333.jpg"
+---
+
+Project 333, Courtney Carver tarafından 2010 yılında başlatılan bir challenge. Günlük koşuşturmaca ve iş hayatı arasında ne giyeceğine karar vermekte zorlanan Carver, 3 ay (bir mevsim) boyunca giymek üzere dolabından sadece 33 parça seçer. Bu 33 parçaya ayakkabı, taki, çanta, fular gibi parçalar da dahildir (egzersiz için kullandığı giysiler, alyans gibi sürekli takılan bir aksesuar, pijama veya iç çamaşırı ise dahil değildir). Carver, bu kararı verdiğinde bir dergi grubu için reklam satış direktörü olarak çalışmakta olduğunu söylüyor kitabında ve iyi bir kazancı olduğu halde yaptığı alışverişin kazancından kat kat fazla olduğunu da ekliyor.
+
+Courtney Carver, Project 333 'a bir kapsül gardrop yaratmak veya kişisel stilini baştan yaratmak amacıyla başlamamış, tam tersine bu projesine 'kişisel bir deney' olarak bakmış. Project 333, minimalizme odaklanan bir süreç. Carver oldukça bunaltıcı olarak tanımladığı bazı istatistikleri paylaşıyor kitabının ilk sayfalarında.
+- Kadınların pek çoğu zamanlarının 80% 'inde dolaplarında yer alan parçaların sadece 20% 'sini kullanıyor. Oysaki, dolapta yer alan her bir parça hem bir alan kaplıyor hem de zaman ve yeri geldiğinde de emek istiyor.
+- The American Apparel & Footwear Association'a göre, ABD'de ortalama bir tüketici bir yılda 65 parça giysi tüketiyor.
+- Tüketilen bu giysilerin 95% 'i recycle veya upçycle sürecine katılabilecekken bu yapılmıyor.
+- Kıyafetlerin üretim sürecinde her yıl 32 milyon olimpik yüzme havuzunu doldurmaya yetecek şu harcanırken dünyada 1,1 milyar insan temiz içme suyu bulmakta zorluk yaşıyor.
+- Tekstil sektöründe çalışan işçilerin maaşlarını iki katına çıkarmak için $25 fiyat etiketine sahip bir tshirte sadece $1. 35 daha eklenmesi gerekiyor.
+- Bir tüketici kendi dolabında yer alan kıyafetleri 9 ay daha fazla süre ile kullandığında şu, atık ve karbon ayak izini ortalama olarak 20-30% azaltmış oluyor.
+- Polyesterden yapılmış ürünlerin doğada çözülmesi 200 yıla yakın zaman alıyor.
+
+Bu rakamlar, ne çevre açısından ne de kişisel bütçe yönetimi açısından sürdürülebilir değil.
+
+İhtiyacımız olduğundan daha fazlasına sahip olduğumuz halde elimizdekileri halen yetersiz gördüğümüz de ortada. Satın alınan ürünlerin pek çoğunu ise 'hızlı moda' markalarının daha uygun fiyatlı ürünleri ile 'mükemmel siyah elbise'yi (the perfect little black dress), 'en trend palto'yu, doğru 'ayakkabı'yı veya 'çanta'yı bulma çabamızdan kaynaklanan alışverişler oluşturuyor. Reklamların da bu duruma etkisi çok fazla; çünkü reklamlar tüketicilere bir şeyler satın alarak ihtiyaçlarını karşılamaktan öte eksik yönlerini tamamlayabilecekleri mesajını iletiyor.
+
+Courtney Carver, kitabında hem Project 333'un kurallarına ve uygulama örneklerine yer veriyor. Courtney Carver'in bemorewothless.com adresinde güncel bir bloğu da var. (İnstagram'da da \#\project333 etiketi ile paylaşımlar yapılıyor.) Oldukça popüler bir moda deneyime dönüşen Project 333, deneyen çoğu kişiye daha minimalist bir dolaba sahip olmanın faydalarını ve pratikliğini gösteriyor.
