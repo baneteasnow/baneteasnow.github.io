@@ -1,6 +1,6 @@
 ---
 layout: page-8
-title: Ara
+title: ara
 ---
 
 <style>
