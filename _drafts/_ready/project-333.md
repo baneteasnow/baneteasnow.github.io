@@ -8,13 +8,15 @@ yazar: "Courtney Carver"
 yil: "2020"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/52957819-project-333"
-description: ""
+description: "Project 333, Courtney Carver tarafından 2010 yılında başlatılan bir challenge. Günlük koşuşturmaca ve iş hayatı arasında ne giyeceğine karar vermekte zorlanan Carver, 3 ay (bir mevsim) boyunca giymek üzere dolabından sadece 33 parça seçer ve minimalist bir dolap oluşturur. Courtney Carver, kitabında hem Project 333'un kurallarına ve uygulama örneklerine yer veriyor."
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
-tag: ""
+tag: "minimalizm"
 image: "/assets/new/project-333.jpg"
 ---
+
+2022-07-13-
 
 Project 333, Courtney Carver tarafından 2010 yılında başlatılan bir challenge. Günlük koşuşturmaca ve iş hayatı arasında ne giyeceğine karar vermekte zorlanan Carver, 3 ay (bir mevsim) boyunca giymek üzere dolabından sadece 33 parça seçer. Bu 33 parçaya ayakkabı, taki, çanta, fular gibi parçalar da dahildir (egzersiz için kullandığı giysiler, alyans gibi sürekli takılan bir aksesuar, pijama veya iç çamaşırı ise dahil değildir). Carver, bu kararı verdiğinde bir dergi grubu için reklam satış direktörü olarak çalışmakta olduğunu söylüyor kitabında ve iyi bir kazancı olduğu halde yaptığı alışverişin kazancından kat kat fazla olduğunu da ekliyor.
 
