@@ -7,6 +7,7 @@ description: > # description of the site (multiple lines allowed)
 
 # set timezone
 timezone: Australia/Sydney
+markdown: kramdown
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
