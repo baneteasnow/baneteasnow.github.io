@@ -47,7 +47,7 @@ defaults:
   -    
     scope:
       path: ""
-      type: "not-used"
+      type: "pages"
     values:
       layout: page-10    
       published: false
@@ -56,7 +56,7 @@ defaults:
        path: ""
      values:
        layout: "page-10"
-       published: true
+       published: false
       
       # values:
       # the default layout to use if none is specified layout: post
