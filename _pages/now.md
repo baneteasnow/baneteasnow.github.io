@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-10-07
+last_modified_at: 2021-10-15
 ---
 ⁜  
 Hayvan Deneyleri: Hayvanlar Bizim İçin mi Var? (2020)  
