@@ -10,11 +10,7 @@ Hayvan Deneyleri: Hayvanlar Bizim İçin mi Var? (2020)
 ⁜  
 The Artist's Way: A Spiritual Path to Higher Creativity (2002)  
 <i>by</i> Julia Cameron  
-<br />
-⁜  
-The Bullet Journal Method: Track the Past, Order the Present, Design the Future (2018)  
-<i>by</i> Ryder Carroll  
-<br />
+<br />   
 ⁜  
 Soulful Simplicity: How Living with Less Can Lead to So Much More (2017)  
 <i>by</i> Courtney Carver  
