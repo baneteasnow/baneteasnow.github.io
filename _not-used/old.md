@@ -1,7 +1,7 @@
 ---
 layout: archive-2
 which_category: book2
-published: true
+published: false
 title: 'kitap | eski yazılar' 
 ---
 
