@@ -1,6 +1,7 @@
 ---
 layout: page-11
 title: ara
+published: true
 ---
 
 <style>
