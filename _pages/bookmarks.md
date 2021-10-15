@@ -2,6 +2,7 @@
 layout: page-7
 title: bookmarks
 last_modified_at: 2021-08-06
+published: true
 ---
 
 * TOC
