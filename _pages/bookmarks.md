@@ -73,6 +73,8 @@ published: true
 | willemharmsen.com/notes/ |
 | zailanizzat.com/tag/reading-list/ |
 | paulaghete.com/books/ |
+| thebluegarret.com/blog/category/book+review |
+| matttillotson.com/book-notes |
 
 <br />
 
