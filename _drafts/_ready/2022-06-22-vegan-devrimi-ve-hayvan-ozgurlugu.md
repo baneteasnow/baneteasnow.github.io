@@ -9,14 +9,12 @@ yil: "2021"
 sayfa: "368"
 goodreads: "https://www.goodreads.com/book/show/58452883-vegan-devrimi-ve-hayvan-zg-rl"
 description: "Vegan Devrimi ve Hayvan Özgürlüğü, Zülal Kalkandelen'in kaleminden Türkiye'den ve dünyadan örneklerle veganizm ve hayvan haklarını tartışıyor."
-last_modified_at: XXXX-XX-XX
+last_modified_at: 2022-06-22
 published: false
-posted: XXXX-XX-XX
+posted: 2022-06-22
 tag: "veganlık"
 image: "/assets/new/vegan-devrimi-ve-hayvan-ozgurlugu.jpg"
 ---
-
-2022-06-22-
 
 Vegan Devrimi ve Hayvan Özgürlüğü, Zülal Kalkandelen'in kaleminden Türkiye'den ve dünyadan örneklerle veganizm ve hayvan haklarını tartışıyor. Gözden geçirilmiş yeni baskısında Adalar'daki faytonlarda kullanılan atların kurtarılması için verilen mücadele ve 'hayvan hakları yasası' ile ilgili detaylar yer alıyor. Kitapta Zülal Kalkandelen'in ünlü veganlar ve hayvan özgürlüğü aktivistleri ile yapmış olduğu röportajlar da var. Farklı ülkelerden veganların ve aktivistlerin kendi fikirlerini paylaştıkları bu röportajlar özellikle ilgi çekici.
 
