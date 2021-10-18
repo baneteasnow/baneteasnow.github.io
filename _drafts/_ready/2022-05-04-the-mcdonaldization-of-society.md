@@ -8,15 +8,13 @@ yazar: "George Ritzer"
 yil: "2016"
 sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/119849.The_McDonaldization_of_Society"
-last_modified_at:
+last_modified_at: 2022-05-04
 published: false
 description: "Toplumun McDonaldlaştırılması isimli kitap sosyoloji, yönetim ve iktisat alanlarından yararlanarak günümüz modern toplumunun bir analizini yapıyor."
 tag: "sosyoloji"
-posted: 2021-XX-XX
+posted: 2022-05-04
 image: "/assets/new/the-mcdonaldization-of-society.jpg"
 ---
-
-2022-05-04-
 
 Toplumun McDonaldlaştırılması isimli kitap sosyoloji, yönetim ve iktisat alanlarından yararlanarak günümüz modern toplumunun bir analizini yapıyor. McDonaldlaştırılma (McDonaldization) kavramını geliştiren sosyolog George Ritzer, McDonald's'ın uyguladığı stratejiye benzer şekilde hareket eden Walmart, Home Depot, Ikea, H&M, Zara, Starbucks gibi pek çok farklı markadan ve sektörden örnekler paylaşıyor, bunu yaparken toplumun ve bireyin nasıl etkilendiğine bakıp değişen yaşamları sorguluyor. Sosyoloji alanına giriş kitaplarından biri olarak kabul gören bu kitap, hazır yiyecek sektörünün öncüsü haline gelmiş olan McDonald's'ı bir simge olarak kullanıyor.
 
