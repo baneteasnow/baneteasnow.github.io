@@ -8,15 +8,13 @@ yazar: "Ronni Kahn, Jessica Chapnik Kahn"
 yil: "2020"
 sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/55152009-a-repurposed-life"
-last_modified_at: 20XX-XX-XX
+last_modified_at: 2022-05-25
 published: false
 description: "A Life Repurposed, Avustralya'nın lider 'yemek kurtarma' yardım kuruluşu OzHarvest'ın kurucusu Ronni Kahn'in, Güney Afrika'da başlayan, oradan İsrail'e ve sonrasında Avustralya'ya uzanan ilginç hayat hikayesini anlatıyor."
-posted: 20XX-XX-XX
+posted: 2022-05-25
 tag: "biyografi"
 image: "/assets/new/a-repurposed-life.jpg"
 ---
-
-2022-05-25-
 
 A Life Repurposed, Avustralya'nın lider 'yemek kurtarma' yardım kuruluşu OzHarvest'ın kurucusu Ronni Kahn'in, Güney Afrika'da başlayan, oradan İsrail'e ve sonrasında Avustralya'ya uzanan ilginç hayat hikayesini anlatıyor.
 
