@@ -9,13 +9,12 @@ yil: "2018"
 sayfa: "341"
 goodreads: "https://www.goodreads.com/book/show/34890015-factfulness"
 description: "Factfulness, dünyanın gidişatının aslında o kadar da kötü olmadığını istatistikle ve somut verilerle anlatan bir kitap."
-last_modified_at: XXXX-XX-XX
+last_modified_at: 2022-06-29
 published: false
-posted: XXXX-XX-XX
+posted: 2022-06-29
 tag: "psikoloji"
 image: "/assets/new/factfulness.jpg"
 ---
-2022-06-29-
 
 İsveçli tip doktoru Hans Rosling, aynı zamanda istatistik üzerine eğitim almış bir uluslararası sağlık profesörü. Factfulness, dünyanın gidişatının aslında o kadar da kötü olmadığını istatistikle ve somut verilerle anlatan bir kitap.
 
