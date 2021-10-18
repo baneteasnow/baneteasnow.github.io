@@ -17,8 +17,6 @@ tag: "üretkenlik ve teknoloji"
 image: "/assets/new/the-bullet-journal-method.jpg"
 ---
 
-2022-08-31-
-
 Ryder Carroll, kendi yaşamını organize etmek için geliştirdiği bullet journal (bujo) methodunu 2013 yılında açtığı web sitesi bulletjournal.com' da paylaşmaya başlar. Amacı, kendisi için oldukça yararlı olan bu metottannbirkaçç on kişinin dahi olsa yararlanabilmesidir. Ancak, çok kısa süre sonra bullet journal methodu viral olur, çünkü lifehack.org, lifehacker.com, fastcompany.com, gibi web siteleri bu method hakkında yazılar yayınlamaya başlamışlardır. Ardından, bullet journal methodunu anlatan yüzlerce video ve blog ve sonuçta da "bujo" ile hayatını organize eden koskoca bir topluluk ortaya çıkar.
 
 Ryder Carroll, Bullet Journal Metodu isimli kitabına bu methodu ilk olarak hangi nedenlerle geliştirdiğini açıklayarak başlıyor. İlkokul çağında kendisine dikkat eksikliği bozukluğu (attention deficit disorder - ADD) teşhisi konulan Carroll, doğru zamanda doğru şeye dikkatini yönlendirmekte güçlük çektiği için ilerleyen süreçte kendi zihninin çalışma biçimine uyacak bir organizasyon sistemine ihtiyaç duyar.Ortayaa çıkan yöntem ajanda, günlük, defter, sketchbook ve yapılacaklar listesinin bir kesişimi gibidir.
