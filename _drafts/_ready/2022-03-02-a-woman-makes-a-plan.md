@@ -8,15 +8,13 @@ yazar: "Maye Musk"
 yil: "2019"
 sayfa: "221"
 goodreads: "https://www.goodreads.com/book/show/51017356-a-woman-makes-a-plan"
-last_modified_at:  
+last_modified_at: 2022-03-02
 published: false  
 description: "Başarılı bir model ve diyetisyen olan Maye Musk, 50 yılı aşkın çok yönlü bir kariyere sahip. Bir Kadın Plan Yaparsa isimli otobiyografisinde kendi hayatından kesitler sunuyor ve sayısız kere nasıl baştan başladığını anlatıyor."
 tag: "biyografi"
-posted: 2021-XX-XX  
+posted: 2022-03-02
 image: "/assets/new/a-woman-makes-a-plan.jpg"
 ---
-
-2022-03-02-
 
 Başarılı bir model ve diyetisyen olan Maye Musk, 50 yılı aşkın çok yönlü bir kariyere sahip. Bir Kadın Plan Yaparsa isimli otobiyografisinde kendi hayatından kesitler sunuyor ve sayısız kere nasıl baştan başladığını anlatıyor - bir yetişkin olarak bugüne kadar 3 farklı ülkede 9 farklı şehirde yaşamış. Kitap, Maye Musk'ın hem yaşadığı olumsuzluklar karşısında nasıl yılmadan ayakta durduğunu hem de kendince çıkardığı dersleri, her güne enerjik uyandığı, fiziksel güzelliğini koruyabildiği ve başarılı olduğu kariyerini nasıl inşa ettiğini aktarıyor. Maye Musk, Elon, Kimbal, ve Tosca Musk'ın annesi olmasının yanı sıra kamuoyunda modellik kariyeri ve CoverGirl markasının yüzü olması ile tanınıyor.
 
