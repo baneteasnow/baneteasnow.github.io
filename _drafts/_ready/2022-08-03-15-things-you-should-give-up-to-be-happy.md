@@ -9,14 +9,12 @@ yil: "2016"
 sayfa: "189"
 goodreads: "https://www.goodreads.com/book/show/25776195-15-things-you-should-give-up-to-be-happy"
 description: "Luminita D. Saviuc, blogunda Mutlu Olmanız İçin Vazgeçmeniz Gereken 15 Şey başlıklı bir yazı yayınlar ve bu yazısı viral olur. Aynı ismi taşıyan bu kitabında ise 15 maddeyi daha ayrıntılı  olarak örneklerle ele alıyor."
-last_modified_at: XXXX-XX-XX
+last_modified_at: 2022-08-03
 published: false
-posted: XXXX-XX-XX
+posted: 2022-08-03
 tag: "motivasyon"
 image: "/assets/new/15-things-you-should-give-up-to-be-happy.jpg"
 ---
-
-2022-08-03-
 
 Luminita D. Saviuc, oldukça zorlu ve travmatik geçen çocukluğunun ardından kendini değersiz hissettiği, yetersiz bulduğu ve depresyonla mücadele ettiği bir döneme girer, gerek özel hayatında gerekse de iş hayatında çeşitli sorunlarla karşılaşır. Geçmişi ile barışmak ve kendini daha iyi hissetmek için kişisel gelişim alanına ilgi duymaya başlar. Romanya'dan ABD'ye, oradan Malezya'ya uzanan yaşamında, düşüncelerini ve okuduğu kitaplardan notlarını purposefairy.com adresindeki blogunda yazmaya başlar. Bir gün 'Mutlu Olmanız İçin Vazgeçmeniz Gereken 15 Şey' başlıklı bir yazı kaleme alır ve bu yazısı viral olur. Saviuc, aynı ismi taşıyan bu kitabında bu 15 maddeyi daha ayrıntılı olarak anlatıyor ve kendi hayat hikayesinden kesitler paylaşıyor. Kitapta bir kişinin geçmişte yaşadığı olumsuzlukların geleceğini belirlememesi gerektiğine ve yeni baştan başlamak için asla geç olmadığına vurgu yapılıyor.
 
