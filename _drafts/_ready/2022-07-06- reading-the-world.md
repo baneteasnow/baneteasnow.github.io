@@ -15,7 +15,6 @@ posted: 2022-07-06
 tag: "kitap okumak ve kitaplar"
 image: "/assets/new/reading-the-world.jpg"
 ---
-2022-07-06- 
 
 Yazarlık ve editörlük yapan Ann Morgan, 2012 yılını her ülkeden bir kitap okuyarak ve okuduğu kitaplara ilişkin notlarını ayearofreadingtheworld.com adresindeki blogunda paylaşarak geçirmeye karar verir. Bu projesine başlamasının nedeni çok fazla kitap okumasına rağmen okuduğu kitapların hep batı, ağırlıklı olarak Amerikan ve İngiliz, edebiyatına ait olmasıdır.
 
