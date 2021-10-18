@@ -8,15 +8,13 @@ yazar: "Ken Segall"
 yil: "2013"  
 sayfa: "217"  
 goodreads: "https://www.goodreads.com/book/show/13383957-insanely-simple"  
-last_modified_at: 2021-XX-XX
+last_modified_at: 2022-06-08
 published: false  
 description: "O Kadar Basit ki isimli kitapta reklam ajansında kreatif direktör olarak NeXT ve Apple reklamları için Steve Jobs ile yakından çalışmış olan Ken Segall Apple'ın 'yalınlık' üzerine kurulu felsefesini anlatıyor."  
 tag: "marka profili"
-posted: 2021-XX-XX  
+posted: 2022-06-08
 image: "/assets/new/insanely-simple.jpg"
 ---
-
-2022-06-08-
 
 O Kadar Basit ki isimli kitapta reklam ajansında kreatif direktör olarak NeXT ve Apple reklamları için Steve Jobs ile yakından çalışmış olan Ken Segall Apple'ın 'yalınlık' üzerine kurulu felsefesini anlatıyor. Kitapta her bölümde Apple'i diğer firmalardan ayıran bir nitelik işleniyor. Ayrıca Segall, yeri geldikçe yıllar içinde tanık olduğu olayları da ilk ağızdan aktarıyor. Apple'daki ikinci dönem için Steve Jobs'in nasıl bir yaklaşım içinde olduğu ve elindeki tek bir fırsatla Apple'i batmaktan son anda nasıl kurtardığı da anlatılan konular arasında.
 
