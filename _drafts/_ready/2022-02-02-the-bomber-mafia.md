@@ -8,15 +8,13 @@ yazar: "Malcolm Gladwell"
 yil: "2021"
 sayfa: "257"
 goodreads: "https://www.goodreads.com/book/show/56668328-the-bomber-mafia"
-last_modified_at: 2021-XX-XX
+last_modified_at: 2022-02-02
 published: false
 description: "Malcolm Gladwell, The Bomber Mafia'da bu kez tarihten bir dönem seçiyor ve okuyucuyu İkinci Dünya Savaşı günlerine götürüyor."
 tag: "tarih"
-posted: 2021-XX-XX
+posted: 2022-02-02
 image: "/assets/new/the-bomber-mafia.jpg"
 ---
-
-2022-02-02-
 
 Sosyal psikoloji, davranışsal iktisat ve psikoloji alanına yoğunlaşan Malcolm Gladwell, The Bomber Mafia'da bu kez tarihten bir dönem seçiyor ve okuyucuyu İkinci Dünya Savaşı günlerine götürüyor. Malcolm Gladwell, Revisionist History isimli podcastinde de bu konuya yer vermiş. Diğer kitaplarında olduğu gibi bu kitabında da aslında gerçeğin görünenden farklı olduğunu anlatıyor. Kitap, ABD Ordusu Hava Kuvvetleri stratejik bombalama doktrininin geliştirildiği dönemin hemen öncesine ve 1945 yılına yani savaş zamanına odaklanıyor, Tokyo'nun Mart 1945'te Birleşik Devletler tarafından uğradığı hava saldırısını da anlatıyor.
 
