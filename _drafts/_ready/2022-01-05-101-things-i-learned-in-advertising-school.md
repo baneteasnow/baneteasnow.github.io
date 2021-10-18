@@ -8,10 +8,10 @@ yazar: "Tracy Arrington, Matthew Frederick"
 yil: "2018"
 sayfa: "212"
 goodreads: "https://www.goodreads.com/book/show/35742911-101-things-i-learned-in-advertising-school"
-last_modified_at:
+last_modified_at: 2022-01-05
 published: false
 description: "101 Things I Learned in Advertising School, reklamcılık ile ilgili temel kavramları aktarıyor. Reklamcılık sektörü bazıları tarafından 'ruhsuz' olarak nitelendirilse de, kitabın yazarı Tracy Arrington, bunun tam tersini savunuyor ve reklamcılığın yalan söyleme değil, tam aksine doğruyu söyleme sanatı olduğunu belirtiyor."
-posted: 2021-XX-XX
+posted: 2022-01-05
 tag: "reklam"
 image: "/assets/new/101-things-i-learned-in-advertising-school.jpg"
 ---
