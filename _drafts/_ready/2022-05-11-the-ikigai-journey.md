@@ -10,13 +10,11 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/53677560-the-ikigai-journey"
 description: "Ikigai - Uygulama Rehberi, bir kişinin kendi Ikigaisini nasıl keşfedebileceğini çeşitli mini egzersizler eşliğinde aktarıyor."
 tag: "lifestyle"
-last_modified_at: 202X-XX-XX
+last_modified_at: 2022-05-11
 published: false
-posted: 202X-XX-XX
+posted: 2022-05-11
 image: "/assets/new/the-ikigai-journey.jpg"
 ---
-
-2022-05-11-
 
 İlk kitaplarında Ikigai kavramını anlatan yazarlar, Ikigai - Uygulama Rehberi isimli kitaplarında ise bir kişinin kendi Ikigaisini nasıl keşfedebileceğini çeşitli mini egzersizler eşliğinde aktarıyorlar. Kitap, üç bölüme ayrılmış; geleceğe yolculuk, geçmişe yolculuk ve şimdiki zamana yolculuk ve bu başlıklar altında Ikigai pratik uygulaması toplam 35 aşamada ayrıntıları ile aktarılıyor. Kitabın yazım aşamasında Japonya'yı ziyaret eden yazarlar bu bölümleri Japonya'nın şehirleri ile özdeşleştirerek sırasıyla Tokyo (modernliğin ve inovasyonun simgesi bir kent), Kyoto (geleneksel ve tarihi bir kent) ve Ise (bulunduğu bölgenin koşulları gereğince tekrar tekrar inşa edilen bir kıyı kenti) olarak isimlendirmişler. Kitabın esas amacı yaşayabileceğimiz en iyi hayata ulaşabilmek için sahip olmamız gereken düşünce biçimi ve alışkanlıkları günlük hayatımıza dengeli şekilde yerleştirme noktasında rehberlik etmek.
 
