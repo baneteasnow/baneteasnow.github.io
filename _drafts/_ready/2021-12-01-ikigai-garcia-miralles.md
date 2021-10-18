@@ -8,15 +8,13 @@ yazar: "Héctor García, Francesc Miralles"
 yil: "2017"
 sayfa: "176"
 goodreads: "https://www.goodreads.com/book/show/57670254-ikigai"
-last_modified_at:
+last_modified_at: 2021-12-01
 published: false
 description: "Ikigai isimli kitap tüm dünyaya Japonya'dan yayılan ve hep meşgul kalarak mutlu olmak anlamına gelen kavramı inceliyor."
 tag: "lifestyle"
-posted: 2021-XX-XX
+posted: 2021-12-01
 image: "/assets/new/ikigai-garcia-miralles.md.jpg"
 ---
-
-2021-12-01-
 
 Ikigai, tüm dünyaya Japonya'dan yayılan bir kavram. Kısaca, hep meşgul kalarak mutlu olmak anlamına geliyor. Japonlar uzun yaşam süreleri ile bilinseler de özellikle çok sayıda Okinawalıların 100 yasını geçtiği tespit edilmiş. Uluslararası çoksatan kitaplarında İspanyol yazarlar Héctor García ve Francesc Miralles, bu durumu Ikigai kavramı ile açıklıyor. Her sabah yataktan kalkmak için bir nedeni olan insanların daha uzun ömürlü ve mutlu olduklarına dikkat çekiyorlar.
 
