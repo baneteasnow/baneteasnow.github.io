@@ -8,15 +8,13 @@ yazar: "Hal Herzog"
 yil: "2010"
 sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/6953508-some-we-love-some-we-hate-some-we-eat"
-last_modified_at: 2021-XX-XX
+last_modified_at: 2022-03-09
 published: false
 description: "Sevdiklerimiz, Tiksindiklerimiz, Yediklerimiz isimli kitapta antrozoolog Hal Herzog hayvanlarla insanlar arasındaki ilişkiyi kişisel, kültürel ve inançsal boyutları ile ahlaki açıdan ele alıyor."
 tag: "hayvan hakları"
-posted: 2021-XX-XX
+posted: 2022-03-09
 image: "/assets/new/some-we-love-some-we-hate-some-we-eat.jpg"
 ---
-
-2022-03-09-
 
 Sevdiklerimiz, Tiksindiklerimiz, Yediklerimiz isimli kitapta antrozoolog Hal Herzog hayvanlarla insanlar arasındaki ilişkiyi kişisel, kültürel ve inançsal boyutları ile ahlaki açıdan ele alıyor. Yer yer şeytanın avukatlığını da yaparak, farklı türdeki hayvanlara farklı muamele yapıldığını örneklerle sorguluyor. Örneğin, pek çok kişi horoz dövüşlerine karşı olduğunu belirtirken kafeslerde yetiştirilmiş tavukları yemektedir. Oysaki, Herzog'un yaptığı kıyaslamaya göre, kaçınılmaz sona sahip dövüşlerde yer alan horozların marketlerde satılan tavuklara göre 15 kat daha uzun ömürleri vardır, daha iyi beslenerek daha iyi bir yaşama sahip oldukları ortadadır. Buna karşılık, adeta fabrikaya dönüşmüş tavuk çiftliklerinde bazen 10000 bazen de 20000 tavuk bir arada bulunmakta ve olumsuz koşullarda 6-7 haftalık bir yaşam sürmektedirler. Burada, hiç kuşku yok ki, Herzog'un horoz dövüşlerini desteklemediği ortadadır. Sadece konuya farklı açıdan yaklaşarak insanoğlunun tutarsızlıklarını ortaya koymaktadır.
 
