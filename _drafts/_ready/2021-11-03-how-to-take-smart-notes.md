@@ -8,15 +8,13 @@ yazar: "Sönke Ahrens"
 yil: "2017"
 sayfa: "178"
 goodreads: "https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes"
-last_modified_at:
+last_modified_at: 2021-11-03
 published: false
 description: "Sönke Ahrens, How to Take Smart Notes isimli kitabında yazanlar, öğrenenler ve düşünenler için sistemli not tutmayı anlatıyor."
 tag: "öğrenmeyi öğrenmek"
-posted: 2021-XX-XX
+posted: 2021-11-03
 image: "/assets/new/how-to-take-smart-notes.md.jpg"
 ---
-
-2021-11-03-
 
 Sönke Ahrens, How to Take Smart Notes isimli kitabında yazanlar, öğrenenler ve düşünenler için sistemli not tutmayı anlatıyor. Ahrens'in vurguladığı ilk nokta, eğer doğru şekilde not alınmıyorsa, okuduklarımız asla kalıcı olmaz, olamaz, dolayısıyla okuduklarımızdan neredeyse asla faydalanamayız. En önemlisi de, not almayı sadece okuduklarımızın altını çizmek ve önemli cümleleri bir not defterine kopyalamak olarak görürsek, bu sadece mevcut bilgiyi kopyalamak anlamına gelir. Oysaki, düşünmek, öğrenmek ve yazmak, okuduklarımızı ve aldığımız notları özümsemeyi ve ortaya kendi perspektifimizi koymayı gerektirir. Özellikle akademisyenler ve öğrenciler, okuduklarından alıntı yapacakları zaman kendi cümleleri ile anladıklarını yazmanın (paraphrase) önemini bilirler.
 
