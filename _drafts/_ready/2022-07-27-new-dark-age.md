@@ -8,14 +8,12 @@ yazar: "James Bridle"
 yil: "2018"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/36696533-new-dark-age"
-description: ""
+description: "James Bridle, Yeni Karanlık Çağ isimli kitabinda ilk bakışta ‘teknolojik ilerleme’ olarak görülen pek çok gelişmenin aslında pek çok olumsuz gelişmeye de kapı aralığını anlatıyor. Kitabın ilk sayfalarinda şu cümle yer alıyor: 'Bu kitap, neyi, nasıl bildiğimiz ve bilmediğimiz hakkında.' "
 last_modified_at: 2022-07-27
 published: false
 posted: 2022-07-27
 image: "/assets/new/new-dark-age.jpg"
 ---
-
-2022-07-27-
 
 James Bridle, Yeni Karanlık Çağ isimli kitabında ilk bakışta ‘teknolojik ilerleme’ olarak görülen pek çok gelişmenin aslında pek çok olumsuz gelişmeye de kapı aralığını anlatıyor. Kitabın ilk sayfalarında şu cümle yer alıyor: “Yeni Karanlık Çağ, neyi, nasıl bildiğimiz ve bilmediğimiz hakkında”.
 
