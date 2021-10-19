@@ -19,7 +19,7 @@
            }
           ],
   "theme_color":"#ffffff",
-  "background_color":"#ffffcc",
+  "background_color":"#ffffff",
   "display":"standalone",
   "orientation": "natural",
   "categories": ["books"],
