@@ -6,6 +6,7 @@
         {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
        {{ mes }} 
+       {% break %}
     {% endif %} 
 {% endfor %}
 
