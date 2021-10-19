@@ -1,11 +1,11 @@
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<em> <span style="color: #777;">{{ year.name }}</span> </em> 
+<em> <span style="color: #777; font-weight: bold;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
 
-<em><span style="text-align: right; float: right; color: #777;">
+<em><span style="text-align: right; float: right; color: #777; font-weight: bold;">
 {% if month.name == 'January' %}
 ocak
 {% elsif month.name == 'February' %}
@@ -35,7 +35,7 @@ aralık
 <p>
   {% for post in month.items %}
     <p>
-      <div class="decorated" style="font-size: 100%;"><a href="{{ post.url | relative_url }}" {% if post.url == page.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
+      <div class="decorated" style="font-size: 100%; font-weight: bold;"><a href="{{ post.url | relative_url }}" {% if post.url == page.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
   {% endfor %}
 </p>
@@ -44,6 +44,6 @@ aralık
 
   <br />
 
-<center> <a href="#">to top &#8593;</a></a>
+<center> <div class="link1"><a href="#">to top &#8593;</a></div> </a>
 
 <br />
