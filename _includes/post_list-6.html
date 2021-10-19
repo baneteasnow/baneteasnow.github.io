@@ -3,7 +3,7 @@
 <em> <span style="color: #777;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
-{% for month in postsByMonth limit:1 %}
+{% for month in postsByMonth limit:2 %}
 
 <em><span style="text-align: right; float: right; color: #777;">
 {% if month.name == 'January' %}
@@ -33,7 +33,7 @@ aralık
 {% endif %}
 </span></em><br />
 <p>
-  {% for post in month.items %}
+  {% for post in month.items limit:5 offset:1%}
     <p>
       <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
