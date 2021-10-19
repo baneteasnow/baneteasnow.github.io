@@ -5,11 +5,6 @@ layout: default
 <span class="link1">{%-include back_link.html-%}</span>
 
 <article>
-  <p class="post-meta">
-        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
-        {% assign mes = site.data.tr.meses[mes_index] %}
-    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
-  </p>
   
 <i><h4>{{ page.title }}</h4></i>
 
@@ -22,11 +17,10 @@ layout: default
 
 <div style="clear: both;"></div>
 <br />
-<!-- {%-include icon1.html-%} -->
-<!-- {%-include year.html-%} -->
-<!-- {{ page.date | date: "%V" }}.hafta -->
-{% assign mes_index = page.date | date: "%-m" | minus: 1 %}
-{% assign mes = site.data.tr.meses[mes_index] %}
+ <p class="post-meta">
+        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
     <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
-{%-include footer-links1.html-%}
+  </p>
+{%-include footer-links8.html-%}
 
