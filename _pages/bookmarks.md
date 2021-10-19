@@ -75,6 +75,7 @@ published: true
 | paulaghete.com/books/ |
 | thebluegarret.com/blog/category/book+review |
 | matttillotson.com/book-notes |
+| booksoftitans.com/reading-project/ |
 
 <br />
 
