@@ -23,3 +23,10 @@
 <div style="font-size: 130%; color: #777; text-align: left;">
     <a href="{{ site.posts.first.previous.url }}">&larr;</a>
   </div>
+
+<footer>
+	{%- unless page.url == "/" -%}<a href="/" title="home">nonfictionbooks.xyz</a>{%- endunless -%}
+	{%- unless page.url == "/now" -%}<a href="/" title="now">now</a>{%- endunless -%}
+	{%- unless page.url == "/posts" -%}<a href="/" title="posts">posts</a>{%- endunless -%}
+    {%- unless page.url == "/map" -%}<a href="/" title="sitemap">sitemap</a>{%- endunless -%}
+</footer>
