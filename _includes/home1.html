@@ -3,30 +3,38 @@
 
 {{ site.posts.first.content }}
 
-<a href="{{ site.posts.first.image }}" target="_blank"><img src="{{ site.posts.first.image }}" width="20%" height="20%" align="right" float="right" alt="{{ site.posts.first.kitap }}" title="{{ page.kitap }}" style="margin:10px 0 10px 15px"/></a>
-<span style="font-size: 100%; color: #777;">
-    {{ site.posts.first.kitap }}
-      <br />
-{% if site.posts.first.tr != "" and site.posts.first.tr != nil and site.posts.first.tr != "-" %}
-   {{ site.posts.first.tr }} <br />
-{% else %}
-    <div style="visibility: hidden;"></div>
-{% endif %}
-    {{ site.posts.first.yazar }}
-      <br />
-    {{ site.posts.first.yil }}
-      <br />
-    {{ site.posts.first.sayfa }} sayfa
-      <br />
-    </span>
-        
-<div style="font-size: 100%; color: #777; text-align: left;">
-    <a href="{{ site.posts.first.previous.url }}">&larr; {{ site.posts.first.previous.title }}</a>
-  </div>
+{% for post in site.posts %}
+  {% assign currentMonth = "now" | date: "%B %Y" %}
+  {% assign postMonth = post.date | date: "%B %Y" %}
+    {% if currentMonth == postMonth and site.posts.size > 0 %}
+        {% assign posts = site.posts %}
+        {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
+       {{ mes }} 
+       {% break %}
+    {% endif %} 
+{% endfor %}
 
-<div class="link1">
-	{%- unless page.url == "/" -%}<a href="/" title="home">nonfictionbooks.xyz</a> &nbsp;{%- endunless -%}
-	{%- unless page.url == "/now" -%}<a href="/now" title="now">now</a>&nbsp;{%- endunless -%}
-	{%- unless page.url == "/posts" -%}<a href="/posts" title="posts">posts</a>&nbsp;{%- endunless -%}
-        {%- unless page.url == "/map" -%}<a href="/map" title="sitemap">map</a>&nbsp;{%- endunless -%}
-</div>
+{% for post in site.posts %}
+  {% assign currentMonth = "now" | date: "%B %Y" %}
+  {% assign postMonth = post.date | date: "%B %Y" %}
+    {% if currentMonth == postMonth and site.posts.size > 0 %}
+        {% assign posts = site.posts %}
+        {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
+ <div class="link1" style="font-size: 100%; color: #777; font-style: italic; text-align: left;"><a href="{{ post.url }}">{{ post.title | downcase }}</a></div>
+    {% endif %} 
+{% endfor %}
+
+
+
+{% for post in site.posts %}
+  {% assign currentMonth = "now" | date: "%B %Y" %}
+  {% assign postL = site.posts.first.date | date: "%B %Y" %}
+    {% if currentMonth != postL %}
+        {% assign posts = site.posts %}
+          <span><i>bu haftanın kitabı:</i></span>
+       <div class="link1" style="font-size: 100%; color: #777; font-style: italic; text-align: left;">{{ site.posts.first.date | date: "%B %-d, %Y" }}<br /><a href="{{ site.posts.first.url }}">{{ site.posts.first.title | downcase }}</a></div>
+      {% break %}
+    {% endif %} 
+{% endfor %}
