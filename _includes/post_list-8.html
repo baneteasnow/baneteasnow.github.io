@@ -33,12 +33,12 @@ details > p {
   
     {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear limit:1 %}
-<em> <span style="color: #777;">{{ year.name }}</span> </em> 
+<em> <span style="color: #777; font-weight: bold;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth limit:2 %}
 
-<em><span style="text-align: right; float: right; color: #777;">
+<em><span style="text-align: right; float: right; color: #777; font-weight: bold;">
 {% if month.name == 'January' %}
 ocak
 {% elsif month.name == 'February' %}
@@ -68,14 +68,14 @@ aralık
 <p>
   {% for post in month.items limit:5 %}
     <p>
-      <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
+      <div class="decorated" style="font-size: 100%; font-weight: bold;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
   {% endfor %}
 </p>
 {% endfor %}
 {% endfor %}
 
-<center><div class="cat2">devamı</div></center>
+<center><div class="cat2"><i>devamı</i></div></center>
   
   </summary>
   <br />
@@ -84,12 +84,12 @@ aralık
   
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<em> <span style="color: #777;">{{ year.name }}</span> </em> 
+<em> <span style="color: #777; font-weight: bold;">{{ year.name }}</span> </em> 
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
 
-<em><span style="text-align: right; float: right; color: #777;">
+<em><span style="text-align: right; float: right; color: #777; font-weight: bold;">
 {% if month.name == 'January' %}
 ocak
 {% elsif month.name == 'February' %}
@@ -119,7 +119,7 @@ aralık
 <p>
   {% for post in month.items %}
     <p>
-      <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
+      <div class="decorated" style="font-size: 100%; font-weight: bold;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
   {% endfor %}
 </p>
@@ -127,7 +127,7 @@ aralık
 {% endfor %}
   
   </p>
-<center> <a href="#">to top &#8593;</a> </center>
+<center> <div style="link1"><a href="#">to top &#8593;</a></div> </center>
 </details>
 
 <br />
