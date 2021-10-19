@@ -33,7 +33,7 @@ aralık
 {% endif %}
 </span></em><br />
 <p>
-  {% for post in month.items offset:1 %}
+  {% for post in month.items %}
     {% unless forloop.first %}
     <p>
       <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == page.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
