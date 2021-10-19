@@ -11,16 +11,16 @@ layout: default
   {{ content }}
 </article>
 <br />
-
+<p class="post-meta">
+        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
+    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
+ </p>
 {%-include post-footer.html-%}
 {%-include post-tag.html-%}
 
 <div style="clear: both;"></div>
 <br />
- <p class="post-meta">
-        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
-        {% assign mes = site.data.tr.meses[mes_index] %}
-    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
-  </p>
+ 
 {%-include footer-links8.html-%}
 
