@@ -235,9 +235,12 @@ a:hover{
 }
 // .xxx decorated under overflow      text-align: center; margin: 0 20px; width: 100vw;      
 
-.decorated{
+.decorated {
      overflow: hidden;
  }
+.deco a.active {
+	font-weight: bold;
+}
 .decorated > span{
     position: relative;
     display: inline-block;
