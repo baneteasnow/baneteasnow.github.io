@@ -2,7 +2,6 @@
   {% assign currentMonth = "now" | date: "%B %Y" %}
   {% assign postMonth = post.date | date: "%B %Y" %}
     {% if currentMonth == postMonth and site.posts.size > 0 %}
-{{ mes }}
         {% assign posts = site.posts %}
         {% assign mes_index = post.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
@@ -10,7 +9,7 @@
     {% endif %} 
 {% endfor %}
 
-{% for post in site.posts -%}
+{% for post in site.posts %}
   {% assign currentMonth = "now" | date: "%B %Y" %}
   {% assign postL = site.posts.first.date | date: "%B %Y" %}
     {% if currentMonth != postL %}
