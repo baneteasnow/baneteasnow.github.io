@@ -33,12 +33,12 @@ details > p {
   
     {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear limit:1 %}
-<em> <span style="color: #777; font-weight: bold;">{{ year.name }}</span> </em> 
+<span style="color: #777; font-weight: bold;">{{ year.name }}</span>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth limit:2 %}
 
-<em><span style="text-align: right; float: right; color: #777; font-weight: bold;">
+<span style="text-align: right; float: right; color: #777; font-weight: bold;">
 {% if month.name == 'January' %}
 ocak
 {% elsif month.name == 'February' %}
@@ -64,7 +64,8 @@ kasım
 {% elsif month.name == 'December' %}
 aralık
 {% endif %}
-</span></em><br />
+</span>
+    <br />
 <p>
   {% for post in month.items limit:5 %}
     <p>
@@ -73,6 +74,7 @@ aralık
   {% endfor %}
 </p>
 {% endfor %}
+  <br />
 {% endfor %}
 
 <center><div class="cat2"><i>devamı</i></div></center>
@@ -84,12 +86,12 @@ aralık
   
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<em> <span style="color: #777; font-weight: bold;">{{ year.name }}</span> </em> 
+<span style="color: #777; font-weight: bold;">{{ year.name }}</span>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
 
-<em><span style="text-align: right; float: right; color: #777; font-weight: bold;">
+<span style="text-align: right; float: right; color: #777; font-weight: bold;">
 {% if month.name == 'January' %}
 ocak
 {% elsif month.name == 'February' %}
@@ -115,7 +117,8 @@ kasım
 {% elsif month.name == 'December' %}
 aralık
 {% endif %}
-</span></em><br />
+</span>
+<br />
 <p>
   {% for post in month.items %}
     <p>
@@ -124,6 +127,7 @@ aralık
   {% endfor %}
 </p>
 {% endfor %}
+  <br />
 {% endfor %}
   
   </p>
