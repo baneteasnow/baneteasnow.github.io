@@ -68,7 +68,7 @@ aralık
 <p>
   {% for post in month.items limit:5 %}
     <p>
-      <div class="decorated" style="font-size: 100%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right; font-weight: bold;">{{- post.date | date: '%e' -}}</span></div>
+      <div class="decorated" style="font-size: 100%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
 </p>
   {% endfor %}
 </p>
@@ -119,7 +119,7 @@ aralık
 <p>
   {% for post in month.items %}
     <p>
-      <div class="decorated" style="font-size: 100%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right; font-weight: bold;">{{- post.date | date: '%e' -}}</span></div>
+      <div class="decorated" style="font-size: 100%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
 </p>
   {% endfor %}
 </p>
