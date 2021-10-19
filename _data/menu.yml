@@ -8,7 +8,7 @@ entries:
   - title: # all posts
     post_list:
       limit: 0
-      show_more: false
+      show_more: true
       show_more_text:  ... devamı # See archive...
       show_more_url: archive.html
 
