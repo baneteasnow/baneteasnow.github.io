@@ -1,21 +1,12 @@
----
-layout: default
----
 
 <h4><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h4>
 <br />
 {{ site.posts.first.content }}
 
-<div style="width: 100%;">
-  <div style="font-size: 85%; color: #777; text-align: left; float: left; width: 50%;">
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url }}"> {{ page.previous.title }}</a>
-  {% endif %}
-  </div>
+
   <div style="font-size: 85%; color: #777; text-align: right; margin-left: 50%;">
   {% if page.next.url %}
-    <a href="{{ page.next.url }}">{{ page.next.title }} </i></a>
+    <a href="{{ site.posts.first.next.url }}">{{ page.next.title }} </i></a>
   {% endif %}
   </div>
-</div> 
 
