@@ -5,7 +5,11 @@ layout: default
 <!-- <span class="link1">{%-include back_link.html-%}</span> -->
 
 <article>
-  
+  <p class="post-meta">
+        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+        {% assign mes = site.data.tr.meses[mes_index] %}
+    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
+ </p>
   <i><h4><a href="/">{{ page.title }}</a></h4></i>
 
   {{ content }}
@@ -17,11 +21,7 @@ layout: default
 
 <div style="clear: both;"></div>
 <br />
- <p class="post-meta">
-        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
-        {% assign mes = site.data.tr.meses[mes_index] %}
-    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
- </p>
+ 
 {%-include footer-links8.html-%}
 
-{%-include post_list-4.html-%}
+{%-include post_list-6.html-%}
