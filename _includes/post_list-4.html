@@ -35,11 +35,11 @@ aralık
 <p>
   {% for post in month.items %}
     <p>
-      <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
+      <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == page.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
   {% endfor %}
 </p>
 {% endfor %}
 {% endfor %}
 
-<!--<a href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>-->
+      <li><a href="{{ item.url }}" {% if item.url == page.url %} class="active"{% endif %}>{{ item.title }}</a></li>
