@@ -6,7 +6,7 @@ published: true
 ---
 ⁜  
 Hayvan Deneyleri: Hayvanlar Bizim İçin mi Var? (2020)  
-<i>by</i> Yagmur Özgür Güven, Oguzcan Kınıkoğlu  
+<i>by</i> Yağmur Özgür Güven, Oğuzcan Kınıkoğlu  
 <br />
 ⁜  
 Soulful Simplicity: How Living with Less Can Lead to So Much More (2017)  
