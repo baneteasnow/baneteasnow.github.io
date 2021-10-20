@@ -35,15 +35,11 @@ aralık
 <br />
 <p>
   {% for post in month.items %}
-  {% if forloop.last %}
- <div style="display: none;"></div>
-{% else %}
     <p>
       <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == page.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
 </p>
-{% endif %}
  {% endfor %}
 </p>
 {% endfor %}
 {% endfor %}
-.
+
