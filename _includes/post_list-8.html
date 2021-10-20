@@ -29,9 +29,8 @@ details > p {
 
 
 <details>
-  <summary> 
-  
-    {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+  <summary>
+ {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear limit:1 %}
 <span style="color: #777; font-weight: bold;">{{ year.name }}</span>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
