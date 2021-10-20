@@ -75,12 +75,10 @@ aralık
 {% endfor %}
   <br />
 {% endfor %}
-
 <center><div class="cat2"><i>devamı</i></div></center>
-  
   </summary>
   <p>  
-  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <span style="color: #777; font-weight: bold;">{{ year.name }}</span>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
