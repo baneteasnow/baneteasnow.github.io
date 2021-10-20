@@ -118,6 +118,7 @@ published: true
 | litsy.com/web/tag/nonfiction |
 | italictype.com/explore/ |
 | readthistwice.com |
+| bookauthority.org |
 
 <br />
 
