@@ -79,10 +79,7 @@ aralık
 <center><div class="cat2"><i>devamı</i></div></center>
   
   </summary>
-  <br />
-  <p>
-
-  
+  <p>  
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <span style="color: #777; font-weight: bold;">{{ year.name }}</span>
@@ -132,7 +129,7 @@ aralık
   </p>
 <br />
 <br />
-<center> <div class="link1"><a href="#" title="top">top &#8593;</a></div> </center>
+<center> <div class="link1"><a href="#">top &#8593;</a></div> </center>
 </details>
 
 <br />
