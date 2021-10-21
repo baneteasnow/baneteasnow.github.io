@@ -45,7 +45,7 @@ Bütün şartlar göz önünde bulundurulduğunda, bugünlerde kendinizi ne kada
 Dikkat edilmesi gereken nokta, mutluluk kavramının farklı kişilerce farklı şekilde tanımlanması. Veritabanından elde edilen bilgilere göre, farklı kültürler mutluluğu farklı derecelerde önemsiyorlarmış. Örneğin, Doğu Asya ülkeleri uyuma ve sosyal zorunluklukları yerine getirmeye bireysel mutluluktan daha fazla önem veriyor.  
   
 #### [İsviçre](#isvicre)
-
+{: #isvicre }
 Yazarın İsviçre'de yaptığı gözlemlere göre, Isviçre'liler nadir bulunan bir kombinasyona sahipler; refah ve sabır. Bu nedenle, kimse saatine bakmıyor, acele etmiyor. Ağırdan almak, günlük yaşamın parçası, bunu ani yaşamak için yapıyorlar. İsviçre vatandaşları, çeşitli konularda yılda ortalama 6-7 kez oy veriyorlar, bu durum onların demokrasi anlayışlarının bir parçası. Ayrıca, güven de mutluluk tanımlarının önemli bir unsuru.  
   
 #### [Bhutan](#bhutan)
@@ -59,7 +59,7 @@ Bhutanlılar için, mutluluk 'kollektif çaba' anlamına gelmektedir.
 Oldukça sıcak ve bunaltıcı bir iklimi olan Katar'da hiçbir süs şatafat olarak algılanmıyormuş, hiçbir harcama pahalı sayılmıyormuş. Bu ülkede, yazı yazmak için hangi kalemin kullanıldığı, hangi arabanın sürüldüğü gibi pek çok detay lüks ayrıntılar içeriyormuş. Yazarın gözlemine göre, Katar'da mutluluk para harcamakla ve lüks ile eş değer tutuluyor.  
   
 #### [İzlanda](#izlanda)
-
+{: #izlanda }
 Yılın yarısını karanlıkta diğer yarısını da sürekli aydınlıkta geçiren bu ülkenin insanları yaşamın geçici doğasını kabul etmişlerdir. İzlanda'da insanlar farklı alanlarda denemeler yaparlarmış. Örneğin, yazarın aktardığına göre, müzisyenlik, sanatçılık oldukça popülermiş. Hatta, İzlanda dünyanın en yaratıcı ülkelerinden biri olarak sayılıyormuş ve hemen herkesin doğal bir tasarım ve tarz anlayışı bulunurmuş. Bir kişi bir alanda başarısız olsa bile, bu çok fazla önemsenmezmiş. Hatta, başarısızlıklara 'imrenilerek' bakılırmış. Çünkü, iyi niyetle bir işe başlayıp başarısızlığa uğrayanlardan hoşlanılıyormuş. Eğer başarısızlığa uğrama hakkınız varsa, istediğiniz kadar deneme yapabilirsiniz. Bir anlamda, başarısızlık ana tema haline gelmiştir. (sayfa 199) Ayrıca, insanların birden fazla kere kariyer değiştirmeleri normal karşılanıyormuş.  
   
 #### [Moldova](#moldova)
@@ -71,7 +71,7 @@ Yazarın aktardığına göre, Moldavalılar kendi başarısızlıklarından ço
 Taylandlılar, mutlu olup olmadıklarını düşünemeyecek kadar başka şeylerle meşgullerdi. Aslında, mutluluk hakkında düşünmek bizi daha az mutlu yapıyordu. (sayfa 270) Tayland'da yoğun şekilde "dert etme", "bırak ve yoluna devam et" anlayışı vardır. Ülkeye gelen yabancılar bu anlayışa ayak uyduramazlarsa, bu ülkeye alışamazlarmış. Taylandlıların başlarına gelen şeyleri kabul etmelerinin temelinde olayları uzun vadede değerlendirmeleri yatmaktadır.  
   
 #### [Büyük Britanya](#buyuk-britanya)
-
+{: #buyuk-britanya }
 Yazar, Londra'da Heathrow Havaalanı'dan birkaç kilometre uzakta yer alan Slough'da bir televizyon deneyinin parçası olarak 50 kişiye verilen mutluluk manifestosunu ve sonrasında bu kişilerin mutluluklarının artıp artmadığını gözlemlemeye çalışıyor.  
   
 #### [Hindistan](#hindistan)
