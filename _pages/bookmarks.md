@@ -98,6 +98,7 @@ published: true
 | ayearofreadingtheworld.com/thelist/ |
 | writerswrite.com/rr/ |
 | bookhub.com |
+| anynewbooks.com/category/nonfiction/ |
 
 
 <br />
