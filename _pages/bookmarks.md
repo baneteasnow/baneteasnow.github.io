@@ -76,13 +76,14 @@ published: true
 | thebluegarret.com/blog/category/book+review |
 | matttillotson.com/book-notes |
 | booksoftitans.com/reading-project/ |
+| blog.12min.com |
 
 <br />
 
-<!--| ~~blog.12min.com/~~ |-->
+
 <!--| davidnmalan.com/bookreviews/ |-->
 <!--| j-dm.org/ |-->
-<!--| rifflebooks.com |-->
+
 
 <!-- #### blogroll
 | ⁜ |
@@ -95,6 +96,9 @@ published: true
 |:---|
 | rogerebert.com/ |
 | ayearofreadingtheworld.com/thelist/ |
+| writerswrite.com/rr/ |
+| bookhub.com |
+
 
 <br />
 
@@ -119,6 +123,8 @@ published: true
 | italictype.com/explore/ |
 | readthistwice.com |
 | bookauthority.org |
+| ~~whichbookshouldiread.com~~ |
+| ~~rifflebooks.com~~ |
 
 <br />
 
