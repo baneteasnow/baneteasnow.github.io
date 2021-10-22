@@ -77,6 +77,9 @@ published: true
 | matttillotson.com/book-notes |
 | booksoftitans.com/reading-project/ |
 | blog.12min.com |
+| michaelperetti.com/blog-catalog/category/Books |
+| nyjournalofbooks.com/nonfiction |
+| complete-review.com/links/bloglink.htm#7source |
 
 <br />
 
@@ -100,6 +103,9 @@ published: true
 | bookhub.com |
 | anynewbooks.com/category/nonfiction/ |
 | hackernewsbooks.com/top-books-on-hacker-news |
+| bookpage.com/genres/nonfiction/ |
+| lareviewofbooks.org/articles/reviews/ or dev.lareviewofbooks.org/reviews/ |
+
 
 
 <br />
