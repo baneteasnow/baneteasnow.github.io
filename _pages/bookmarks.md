@@ -81,6 +81,7 @@ published: true
 | nyjournalofbooks.com/nonfiction |
 | complete-review.com/links/bloglink.htm#7source |
 | booksoftitans.com |
+| thebluegarret.com/blog/category/book+review |
 
 <br />
 
