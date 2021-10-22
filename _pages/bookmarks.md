@@ -99,6 +99,7 @@ published: true
 | writerswrite.com/rr/ |
 | bookhub.com |
 | anynewbooks.com/category/nonfiction/ |
+| hackernewsbooks.com/top-books-on-hacker-news |
 
 
 <br />
