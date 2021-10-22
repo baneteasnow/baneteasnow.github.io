@@ -80,6 +80,7 @@ published: true
 | michaelperetti.com/blog-catalog/category/Books |
 | nyjournalofbooks.com/nonfiction |
 | complete-review.com/links/bloglink.htm#7source |
+| booksoftitans.com |
 
 <br />
 
