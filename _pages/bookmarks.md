@@ -133,6 +133,7 @@ published: true
 | bookauthority.org |
 | ~~whichbookshouldiread.com~~ |
 | ~~rifflebooks.com~~ |
+| ~~mindthebook.com/~~ |
 
 <br />
 
