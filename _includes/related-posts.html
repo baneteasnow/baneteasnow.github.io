@@ -4,7 +4,7 @@
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
     
-<p>
+<div>
 	{% for post in site.posts %}
     
     	{% assign sameTagCount = 0 %}
@@ -19,7 +19,7 @@
 		{% endfor %}
     
         {% if sameTagCount >= minCommonTags %}
-    		<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    		<div><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
             {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
             
             {% if maxRelatedCounter >= maxRelated %}
@@ -27,4 +27,4 @@
             {% endif %}
 		{% endif %}
 	{% endfor %}
-</p>
+</div>
