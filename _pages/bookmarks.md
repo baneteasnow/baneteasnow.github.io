@@ -83,6 +83,7 @@ published: true
 | booksoftitans.com |
 | thebluegarret.com/blog/category/book+review |
 | roseannasunley.com/category/books/ |
+| mishacreatrix.com/tag/book-notes |
 
 <br />
 
