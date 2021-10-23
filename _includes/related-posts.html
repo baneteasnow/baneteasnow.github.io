@@ -1,11 +1,10 @@
-<h2>Enjoy Reading This Article?</h2>
-<p>Here are some more articles you might like to read next:</p>
+<p>Benzer yazilar</p>
     
 {% assign maxRelated = 5 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
     
-<ul>
+<p>
 	{% for post in site.posts %}
     
     	{% assign sameTagCount = 0 %}
@@ -28,4 +27,4 @@
             {% endif %}
 		{% endif %}
 	{% endfor %}
-</ul>
+</p>
