@@ -108,6 +108,7 @@ published: true
 | hackernewsbooks.com/top-books-on-hacker-news |
 | bookpage.com/genres/nonfiction/ |
 | lareviewofbooks.org/articles/reviews/ or dev.lareviewofbooks.org/reviews/ |
+| nytimes.com/by/jennifer-szalai |
 
 
 
