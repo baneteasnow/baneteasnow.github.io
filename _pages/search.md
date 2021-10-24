@@ -27,7 +27,7 @@ published: true
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="Search...">
+<input type="text" id="search-input" placeholder="Search... ⏎">
 <ol id="results-container"></ol>
 </div>
 
