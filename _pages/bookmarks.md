@@ -85,6 +85,7 @@ published: true
 | roseannasunley.com/category/books/ |
 | mishacreatrix.com/tag/book-notes |
 | thebooketlist.com/blog |
+| alexjhughes.com/booknotes |
 
 <br />
 
