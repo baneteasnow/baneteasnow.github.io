@@ -84,6 +84,7 @@ published: true
 | thebluegarret.com/blog/category/book+review |
 | roseannasunley.com/category/books/ |
 | mishacreatrix.com/tag/book-notes |
+| thebooketlist.com/blog |
 
 <br />
 
