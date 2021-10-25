@@ -79,7 +79,7 @@ published: true
 | blog.12min.com |
 | michaelperetti.com/blog-catalog/category/Books |
 | nyjournalofbooks.com/nonfiction |
-| complete-review.com/links/bloglink.htm#7source |
+| complete-review.com/links/bloglink.htm |
 | booksoftitans.com |
 | thebluegarret.com/blog/category/book+review |
 | roseannasunley.com/category/books/ |
