@@ -86,6 +86,7 @@ published: true
 | mishacreatrix.com/tag/book-notes |
 | thebooketlist.com/blog |
 | alexjhughes.com/booknotes |
+| nextbigideaclub.com/magazine/topics/book-bites/ |
 
 <br />
 
