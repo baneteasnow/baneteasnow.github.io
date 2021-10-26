@@ -24,12 +24,12 @@ Ayrıca, daha sürdürülebilir, sade ve sağlıklı bir yaşam için çeşitli 
 
 Sonsöz'de, şu yararlı önerilere yer verilmiş:
 
-Kendini fazla önemseme. (insan doğada tek canlı değildir, her istediğini yapamaz)
-Az, çoktur.
-Şüphedeysen geçmişe bak.
-Hijyen takıntısından kurtul.
-Antibakteriyel ürünlerden ve antibiyotiklerden uzak dur.
--mış gibi yapanları tanı.
-Etiket okumayı öğren.
-'Ya hep ya hiç' deme.
-Kendine ve çevrendekilere karşı sabırlı ol.
+- Kendini fazla önemseme. (insan doğada tek canlı değildir, her istediğini yapamaz)
+- Az, çoktur.
+- Şüphedeysen geçmişe bak.
+- Hijyen takıntısından kurtul.
+- Antibakteriyel ürünlerden ve antibiyotiklerden uzak dur.
+- -mış gibi yapanları tanı.
+- Etiket okumayı öğren.
+- 'Ya hep ya hiç' deme.
+- Kendine ve çevrendekilere karşı sabırlı ol.
