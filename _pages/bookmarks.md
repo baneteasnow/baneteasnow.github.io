@@ -87,6 +87,7 @@ published: true
 | thebooketlist.com/blog |
 | alexjhughes.com/booknotes |
 | nextbigideaclub.com/magazine/topics/book-bites/ |
+| highlights.sawyerh.com |
 
 <br />
 
