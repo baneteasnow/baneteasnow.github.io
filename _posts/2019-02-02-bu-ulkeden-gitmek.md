@@ -1,7 +1,7 @@
 ---
 layout: post  
 category: book2  
-title: "Bu Ülkeden Gitmek | Gözde Kazaz, H. Ilksen Mavituna (Kitap)" 
+title: "Bu Ülkeden Gitmek | Gözde Kazaz, H. İlksen Mavituna (Kitap)" 
 kitap: "Bu Ülkeden Gitmek - Yeni Türkiye'nin Göç İklimini Buradakiler ve Oradakiler Anlatıyor"  
 tr: "-"  
 yazar: "Gözde Kazaz, H. İlksen Mavituna"  
