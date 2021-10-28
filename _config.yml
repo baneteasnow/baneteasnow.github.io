@@ -16,7 +16,7 @@ goat_counter: "nonfiction" # put your GoatCounter name if you want to use GoatCo
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please theme: no-style-please
 
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "..." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted (%b %y - year month day)
   show_description: false # show blog description in home page
