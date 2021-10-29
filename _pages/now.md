@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-10-19
+last_modified_at: 2021-10-29
 published: true
 ---
 
