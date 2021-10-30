@@ -53,7 +53,7 @@ hr { margin: 2rem 0; text-align: center; width: 80%; color: #f6f6f6;}
 
 p { margin: 1rem 0; }
 
-.li { margin: 0.4rem 0; }
+li { margin: 0.4rem 0; list-style-type: none; }
 li::before {
   content: "-"; /* Insert content that looks like bullets */
   padding-right: 8px;
