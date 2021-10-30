@@ -37,7 +37,7 @@ body {
   font-family: 'EB Garamond', serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 1.125rem; /*1.6rem;*/  
+  font-size: 1.25rem; /*1.125rem - 1.6rem;*/  
   line-height: 2; /* 16px */
   /* letter-spacing: 0.5px; */
   margin: 0;
@@ -47,7 +47,7 @@ body {
 .post-meta { text-align: right; font-size: 100%; color: #777; }
 
 h2, h3, h6 { margin-top: 3rem; }
-h4 { font-family: 'EB Garamond', serif; font-size: 120%; font-weight: 500; font-style: italic; margin-top: 3rem; }
+h4 { font-family: 'EB Garamond', serif; font-size: 120%; font-weight: 500; font-style: normal; margin-top: 3rem; }
 h5 { font-size: 100%; margin-top: 3rem; }
 
 hr { margin: 2rem 0;}
@@ -57,7 +57,6 @@ p { margin: 1rem 0; }
 li { margin: 0.4rem 0; list-style-type: none; }
 li::before {
   content: "*"; /* Insert content that looks like bullets */
-  padding-right: 8px;
 }
 .cat1 {
   margin: 0.8rem;
