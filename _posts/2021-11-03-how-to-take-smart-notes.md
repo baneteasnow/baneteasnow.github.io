@@ -22,7 +22,7 @@ Ahrens, kitabında anlattığı 'akıllı' not tutma sistemini, Alman sosyolog N
 
 Çoğu kişi notlarını konularına ve kategorilerine yani içeriğe odaklanarak klasörlere hatta bazen sayısız alt klasöre ayırır. Ahrens, bunun düşünmeyi engelleyici ve sınırlayıcı olduğunu belirtiyor. Kategorilere göre notları gruplandırmak yerine, gelişim aşamasına göre notları sınıflandırmayı öneriyor. Notları 4 genel sınıfa ayırıyor:
 
-_1- Fleeting Notes_  
+_[1- Fleeting Notes](#fleeting-notes)_  
 
 Sadece hatırlamak amaçlı olarak alınan geçici notlar. Genellikle düzensiz olmasında sakınca yok ancak mümkün olan en kısa sürede temize geçilmeli. Hızlıca gelen fikirler, kitaptaki bir paragrafı okurken doğan bir düşünce, kitapta altı çizilen cümleler bu kategoriye giriyor. Bu sınıfta alınan notlar literatür ve kalıcı notlara dönüşmek üzere bir basamak oluşturuyor. Bu notlar, kalem kağıtla veya bir not defteri uygulaması ile de alınabilir.
 
