@@ -22,19 +22,23 @@ Ahrens, kitabında anlattığı 'akıllı' not tutma sistemini, Alman sosyolog N
 
 Çoğu kişi notlarını konularına ve kategorilerine yani içeriğe odaklanarak klasörlere hatta bazen sayısız alt klasöre ayırır. Ahrens, bunun düşünmeyi engelleyici ve sınırlayıcı olduğunu belirtiyor. Kategorilere göre notları gruplandırmak yerine, gelişim aşamasına göre notları sınıflandırmayı öneriyor. Notları 4 genel sınıfa ayırıyor:
 
-_[1- Fleeting Notes](#fleeting-notes)_  
+[1- Fleeting Notes](#fleeting-notes)  
+{: #fleeting-notes }  
 
 Sadece hatırlamak amaçlı olarak alınan geçici notlar. Genellikle düzensiz olmasında sakınca yok ancak mümkün olan en kısa sürede temize geçilmeli. Hızlıca gelen fikirler, kitaptaki bir paragrafı okurken doğan bir düşünce, kitapta altı çizilen cümleler bu kategoriye giriyor. Bu sınıfta alınan notlar literatür ve kalıcı notlara dönüşmek üzere bir basamak oluşturuyor. Bu notlar, kalem kağıtla veya bir not defteri uygulaması ile de alınabilir.
 
-_2- Literature Notes_  
+[2- Literature Notes](#literature-notes)  
+{: #literature-notes }  
 
 Okunanları, dinlenenleri veya izlenenleri kısaca tüketilen içeriği özetleyen, içeriği sunan ve alıntılara yer veren notlar bu sınıfta yer alır. Bu notları kolay düzenlemek için bir software gerekiyor. Bu notların referanslarının doğru ve gerektiği gibi belirtilmesine dikkat edilmeli.
 
-_3- Permanent Notes_  
+[3- Permanent Notes](#permanent-notes)  
+{: #permanent-notes }
 
 Her kalıcı not, tek bir fikir içerir. Bu fikir literatür notlarından gelir, literatür notlarında yer alan noktaların yeniden ifade edilmesi ile oluşur. Kalıcı notlar okuma amacına uygun şekilde, referansları belirterek, açık ve mümkün olduğunca kısa, tam cümleler halinde açıklanır. Kalıcı notlar, çeşitli projelerde çok az bir düzenleme ile kullanılabilir niteliktedir. Kalıcı notlar, sonrasında not arşivine eklenir ve ilgili notlarla gereken bağlantıları kurulur. Bu notlar, üzerine düşündükçe, yeni okumalar yapıldıkça gelişmeye devam eder. Bir konunun parçası haline geldiği andan itibaren, hedeflenen projenin taslağının bir parçasına dönüşür.
 
-_4- Project Notes_  
+[4- Project Notes](#project-notes)
+{: #project-notes }
 
 Uzun nitelikli proje odaklı notlardır. Kalıcı notlar ile oluşturulan taslak metinler gerekli şekilde düzenlenir.
 
