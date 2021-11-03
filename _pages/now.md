@@ -13,7 +13,3 @@ Hired: Six Months Undercover in Low-Wage Britain (2018)
 Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life (2010)  
 <i>by</i> Susan Forward, Craig Buck  
 <br />
-⁜  
-The Drama of the Gifted Child: The Search for the True Self (2008)  
-<i>by</i> Alice Miller  
-<br />
