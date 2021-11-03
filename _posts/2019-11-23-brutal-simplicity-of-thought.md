@@ -20,8 +20,8 @@ Düşüncenin Acımasız Basitliği, 'eğer bir şeyi yeterince anlamadıysanız
   
 Bu kitapta farklı sorular ve o sorulara getirilmiş basit açıklamalar var. Cevaplanan sorular arasında şunlar var:  
   
-Parası olmayan birine nasıl güvenebilirsiniz?  
-Nasıl bir çocuk gibi resim çizersiniz?  
-Tek bir doğru kıvrım nasıl atası yarattı?  
-Yaprakları olmadan çayı nasıl içersiniz?  
-Her şeyi nasıl listelersiniz?  
+- Parası olmayan birine nasıl güvenebilirsiniz?  
+- Nasıl bir çocuk gibi resim çizersiniz?  
+- Tek bir doğru kıvrım nasıl atası yarattı?  
+- Yaprakları olmadan çayı nasıl içersiniz?  
+- Her şeyi nasıl listelersiniz?  
