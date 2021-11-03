@@ -18,11 +18,11 @@ image: "/assets/new/ikigai-ken-mogi.jpg"
 
 Ken Mogi, Ikigai'nin 5 boyutu olduğunu ileterek başlıyor kitabına. (sayfa 5)  
   
-Ufaktan başlamak  
-Benliği bırakmak  
-Ahenk ve sürdürülebilirlik  
-Küçük şeylerden sevinç duymak  
-Şimdi ve burada olmak  
+- Ufaktan başlamak  
+- Benliği bırakmak  
+- Ahenk ve sürdürülebilirlik  
+- Küçük şeylerden sevinç duymak  
+- Şimdi ve burada olmak  
   
 Ikigai, hayatın zevklerini ve anlamlarını ifade eden Japonca bir sözcüktür; "Iki" (yaşamak) ve "gai" (sebep) sözcüklerinden oluşur. Ikigai yaşamın çeşitliliğini kucaklayan demokratik bir kavramdır. Ikigai sahibi olmak başarı getirebilir ancak başarı ikigai için gerekli bir koşul değildir. (sayfa 11)
 
