@@ -21,11 +21,11 @@ Motivasyon dolu bu kitabın yazarı Ayşe Birsel, bir tasarımcı ve kitabında 
 Kitap, toplam 6 adımda kendi yaşamınızda olmak istediğiniz yere gelmeniz için farkındalık egzersizleri içeriyor.  
   
 Bu adımlar şöyle:  
-\- Değişime niyet et,  
-\- Yerleşik yargıları parçala,  
-\- İlham almak için çevrene bak,  
-\- Nelerin gerçekten önemli olduğuna karar ver,  
-\- Tasarımını ifade et, kağıda dök,  
-\- Dene ve yaşamaya başla.  
+- Değişime niyet et,  
+- Yerleşik yargıları parçala,  
+- İlham almak için çevrene bak,  
+- Nelerin gerçekten önemli olduğuna karar ver,  
+- Tasarımını ifade et, kağıda dök,  
+- Dene ve yaşamaya başla.  
 
 Kitaptaki uygulamalar için her gün ortalama 20 dakika ayırmak yeterli. Çok zevkli ve eğlenceli aynı zamanda kendinizi keşfetmenizi sağlayacak bir farkındalık kitabı olmuş özetle.
