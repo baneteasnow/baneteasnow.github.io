@@ -46,11 +46,11 @@ Otomasyon, insanların daha uzun sürede ve daha az mıktarla daha az verimlilik
   
 Yazar, yakın zamanda Küresel Dijital Etik Konseyi benzeri bir kurumun mutlaka kurulmasını öneriyor. Gelecekte bir Dijital Etik Manifestosu’nun parçası olabilecek beş temel insan hakkını da aşağıdaki gibi sıralıyor:   
   
-\- Doğal (biyolojik) kalma hakkı  
-\- Temel insanlık tanımı gerektirdiğinde verimsiz olma hakkı  
-\- Bağlantıyı kesme hakkı  
-\- Anonim olma hakkı  
-\- Makinelerin yerine insanları ise alma ya da dahil etme hakkı  
+- Doğal (biyolojik) kalma hakkı  
+- Temel insanlık tanımı gerektirdiğinde verimsiz olma hakkı  
+- Bağlantıyı kesme hakkı  
+- Anonim olma hakkı  
+- Makinelerin yerine insanları ise alma ya da dahil etme hakkı  
   
 Kitabın son sayfalarında da 2030’a kadar yaşanabilecek birtakım teknolojik gelişmeler değerlendiriliyor.   
   
