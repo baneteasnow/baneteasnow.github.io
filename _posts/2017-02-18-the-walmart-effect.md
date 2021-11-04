@@ -29,7 +29,7 @@ Walmart'ın bilinirliği çok yüksek. Her gün hakkında onlarca belki yüzlerc
   
 Kitapta maliyetlerin azaltılması ilkesini benimseyen Walmart'ın karanlık yüzü şu şekilde dile getiriliyor:  
   
-Artık sonunda, tedarik zincirinin gide gide ulaşabileceği bir verimlilik düzeyi kalmaz; daha doğrusu düzgün bir dağıtımla, ambalaj azaltarak veya daha ucuz plastik kullanarak tasarruf yapabilecek bir nokta kalmaz. Sonunda kaçınılmaz olarak maliyetleri düşürmenin tek yolu, işçi maliyetinin daha düşük olduğu, daha az yasal sınırlama bulunan, genel giderlerin daha az tuttuğu ABD dışındaki ülkelerde imalat yapmaktır. Walmart etkisinin bu yani büyük ölçüde kamuoyunun gözünden gizlenmektedir. (sayfa 135)  
+> Artık sonunda, tedarik zincirinin gide gide ulaşabileceği bir verimlilik düzeyi kalmaz; daha doğrusu düzgün bir dağıtımla, ambalaj azaltarak veya daha ucuz plastik kullanarak tasarruf yapabilecek bir nokta kalmaz. Sonunda kaçınılmaz olarak maliyetleri düşürmenin tek yolu, işçi maliyetinin daha düşük olduğu, daha az yasal sınırlama bulunan, genel giderlerin daha az tuttuğu ABD dışındaki ülkelerde imalat yapmaktır. Walmart etkisinin bu yani büyük ölçüde kamuoyunun gözünden gizlenmektedir. (sayfa 135)  
   
 Walmart'ın ABD'de büyüyen iş kapasitesi diğer perakendecilerin zararına gelişir. (sayfa 136)  
   
@@ -37,10 +37,10 @@ Ortaya çıkan sonuca bakılırsa, Walmart perakendecilik sektöründe kendine i
   
 Walmart'a karşı rekabet edebilmek ise kitaba göre aşağıdaki şekilde mümkündür:  
   
-Walmart ile rekabet edebilmek için başvurulacak bir yol, kitlesel pazarda dahi tasarım moda, kalite, belirleyici özellik, alışverişi keyfe dönüştürmek gibi fiyat dışındaki unsurlara odaklanmaktır. (sayfa 167)  
+> Walmart ile rekabet edebilmek için başvurulacak bir yol, kitlesel pazarda dahi tasarım moda, kalite, belirleyici özellik, alışverişi keyfe dönüştürmek gibi fiyat dışındaki unsurlara odaklanmaktır. (sayfa 167)  
   
 Walmart ile Starbucks'in ilginç bir karşılaştırması da kitapta yer alıyor:  
   
-Starbucks'in dünya üzerindeki kafelerinin sayısı Walmart'ın mağazalarının iki katı kadardır. Walmart'ın tam tersi bir müşteri felsefesi üzerine kurulmuş olan Starbucks bir fincan kahveyi yirmi yıl önce kimsenin hayal edemeyeceği kadar yüksek bir fiyata satıyor. (sayfa 249)  
+> Starbucks'in dünya üzerindeki kafelerinin sayısı Walmart'ın mağazalarının iki katı kadardır. Walmart'ın tam tersi bir müşteri felsefesi üzerine kurulmuş olan Starbucks bir fincan kahveyi yirmi yıl önce kimsenin hayal edemeyeceği kadar yüksek bir fiyata satıyor. (sayfa 249)  
   
 
