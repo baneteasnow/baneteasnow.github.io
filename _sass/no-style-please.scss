@@ -120,6 +120,10 @@ div.highlighter-rouge code {
   padding: 1rem;
 }
 
+ol#footnotes {
+  list-style-type:none;
+}
+
 a.footnote:before {   
  content: "[";
 }
