@@ -22,12 +22,12 @@ Okuyucuya aklında ne varsa artık beklemeyi - konuşarak aklındakini, hayaller
   
 Kitapta konuşma aşamasından yapma noktasına nasıl geçileceği çeşitli egzersizlerle ve açıklamalarla 6 adımda anlatılıyor. Bu adımlar şöyle:  
   
-\- Tık-tak (zaman ilerliyor)  
-\- Heves (ne istediğini seç)  
-\- Korku & pişmanlık (kontrolü eline al)  
-\- Başlangıç (tereddüt etme, artık başla)  
-\- Karar ver (akışa geç & ilerle)  
-\- ...Ve eylem (adım adım hedefine doğru git)  
+- Tık-tak (zaman ilerliyor)  
+- Heves (ne istediğini seç)  
+- Korku & pişmanlık (kontrolü eline al)  
+- Başlangıç (tereddüt etme, artık başla)  
+- Karar ver (akışa geç & ilerle)  
+- ...Ve eylem (adım adım hedefine doğru git)  
   
 Yapmak istediğiniz şeyleri yapmaya başlamak için en doğru zamanın aslında tam da şu an olduğuna işaret ediliyor bu kitapta. Ertelemek, sonra yaparım demek, koşul öne sürmek aslında pek de ise yaramıyor. Sadece bir yerden başlamak, ama şimdi başlamak, ilerleme göstermenin tek koşulu.  
   
