@@ -81,11 +81,7 @@ li { margin: 0.4rem 0; list-style-type: circle; }
 .footnotes li { list-style-type: decimal !important; }
 
 .footnotes ol::before {   
- content: "[";
-}
-
-.footnotes ol::after {
-    content: "]";
+ content: "___";
 }
 
 *:target { background: yellow; }
