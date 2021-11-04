@@ -24,19 +24,19 @@ Yazar, kitabın ilk sayfalarında Google'ın özellerini şöyle belirliyor: İn
   
 Her fırsatta ineternetin yararlarını vurgulayan yazar, intenetle ilgili olarak şu ana kurallara işaret ediyor:  
   
-Kontrolü insanlara verin, vermezseniz onları kaybedersiniz.  
-En kötü müşteriniz en iyi arkadaşınızdır.  
-En iyi müşteriniz sizin ortağınızdır.  
-Link her şeyi değiştirir.  
-En iyi yaptığınız şeyi yapın ve gerisini linke bırakın.  
-Bir networke katılın.  
-Bir platform olun.  
-Dağıtım odaklı düşünün.  
-Aranabilir değilseniz, bulanamazsınız.  
-Herkesin Google'ın yardımına ihtiyacı vardır.  
-Açıklık faydalıdır.  
-Müşterileriniz sizin reklam ajansınızdır.  
-Ücret talep etmemek, Google ile bir işletme modeli haline gelmiştir.  
+- Kontrolü insanlara verin, vermezseniz onları kaybedersiniz.  
+- En kötü müşteriniz en iyi arkadaşınızdır.  
+- En iyi müşteriniz sizin ortağınızdır.  
+- Link her şeyi değiştirir.  
+- En iyi yaptığınız şeyi yapın ve gerisini linke bırakın.  
+- Bir networke katılın.  
+- Bir platform olun.  
+- Dağıtım odaklı düşünün.  
+- Aranabilir değilseniz, bulanamazsınız.  
+- Herkesin Google'ın yardımına ihtiyacı vardır.  
+- Açıklık faydalıdır.  
+- Müşterileriniz sizin reklam ajansınızdır.  
+- Ücret talep etmemek, Google ile bir işletme modeli haline gelmiştir.  
   
 Google, metalaştırmayı bir işletme stratejisine çevirmiştir. Bilgiyi de mecraları da metalaştırmıştır. Google, bilgiyi organize etmektedir. (sayfa 94)  
   
@@ -48,13 +48,13 @@ Farklı düşünmek, Google çağının temel ürünü ve becerisidir. (sayfa 31
   
 Yazar, kitabın ikinci kısmında, Google'ın hareket tarzının, diğer alanlara ve sektöre uyarlanması ile ilgili çeşitli örnekler paylaşıyor. Bu alanlar ve sektörler ise şöyle:  
   
-Medya (gazete, sinema, yayıncılık)  
-Reklamcılık  
-Perakendecilik (restoran, market)  
-Kamu hizmetleri (enerji, aydınlatma, telekom)  
-İmalat (otomobil, içecek)  
-Hizmet (havayolları, gayrimenkul)  
-Para (yatırım, bankacılık)  
-Kamu yararı (hastane, sigortacılık)  
-Kamu kurumları (üniversite)  
+- Medya (gazete, sinema, yayıncılık)  
+- Reklamcılık  
+- Perakendecilik (restoran, market)  
+- Kamu hizmetleri (enerji, aydınlatma, telekom)  
+- İmalat (otomobil, içecek)  
+- Hizmet (havayolları, gayrimenkul)  
+- Para (yatırım, bankacılık)  
+- Kamu yararı (hastane, sigortacılık)  
+- Kamu kurumları (üniversite)  
   
