@@ -18,13 +18,10 @@ image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 
 William Poundstone tarafından yazılan bu kitap, bir dönem internette ve sosyal medyada oldukça popüler olan 'alışılmışın dışında - ilginç mülakat soruları' başlıklı yazıların kaynağı aslında.  
   
-Neden kanalizasyon kapakları kare değil de daire biçimindedir?  
-  
-Neden bira kutularının altı ve üstü, ortasından daha dardır?  
-  
-Dünyada kaç tane piyano akortçusu vardır?  
-  
-Aynadaki bir görüntüde neden 'yukarı ile aşağı' yer değiştirmez de 'sağ ile sol' yer değiştirir?  
+- Neden kanalizasyon kapakları kare değil de daire biçimindedir?  
+- Neden bira kutularının altı ve üstü, ortasından daha dardır?  
+- Dünyada kaç tane piyano akortçusu vardır?  
+- Aynadaki bir görüntüde neden 'yukarı ile aşağı' yer değiştirmez de 'sağ ile sol' yer değiştirir?  
   
 Kitap, Microsoft'un mülakat tarzı üzerine şekillenerek, geleneksel tarz mülakat soruları ile ('Beş yıl sonra kendinizi nerede görüyorsunuz?', 'Güçlü ve gelişime açık yönleriniz nelerdir?' gibi sorular) davranışçı mülakat sorularından (STAR tekniği - 'Geçmişte karşılaştığınız ve üstesinden geldiğiniz bir sorunu anlatın.', 'Geçmişte, bir işi belirli bir sürede yetiştirmek zorunda olduğunuz, ancak zamanın yetersiz olduğu bir durumu anlatın.' gibi sorular) bahsederek başlıyor.  
   
@@ -33,9 +30,7 @@ Kitaba göre, standart bir iş görüşmesinde görüşmeci bilinçsiz olarak ad
 Bazı soruların (örneğin bahsi geçen tasarım soruları) tek bir doğru yanıtı olmayabilir. Microsoft'a göre, bu sorularla adayın genel problem çözme becerileri hakkında fikir elde edilir ve adaylar yaptıklarına göre değil yapabileceklerine göre değerlendirilmektedir, yani geleceğe bakılmaktadır. Seçilen kişiler ise, henüz büyük bir başarı elde etmemiş ama gelecekte isimlerinden fazlaca söz edilecek olarak sayılırlar. Bu soruları yaygın olarak kullanan Microsoft, adayın mezun olduğu okul ile deneyimini pek önemsememekte bunun yerine adayın karmaşık bir durumla nasıl başettiğini ve çözüme giderken hangi değerlendirmeleri yaptığını gözlemlemektedir.  
   
 Kitapta yer verilen soruların cevaplarının bulunduğu ayrı bir bölüm de yer alıyor. Bu açıdan sadece mülakatlarla ilgilenenler için değil aynı zamanda IQ testlerinin temelini öğrenmek isteyenler, Wall Street için yapılan stres mülakatlarını, Silikon Vadisi'nin kurulma öyküsünü merak edenler ile bu tür zeka sorularını çözmekten zevk alanlar için de faydalı ve ilginç bir kitap.  
-  
-Kitaptan Bazı Notlar  
-  
+    
 Tahminlere göre, bir tam gün süren mülakatlar için Redmond'a davet edilenlerin dörtte birinden azı bir iş teklifi almaktadır. (sayfa 11)  
   
 Uygun olmayan kişileri ise almaktansa, bazı iyi insanları elden kaçırmak daha iyidir. (sayfa 138)  
