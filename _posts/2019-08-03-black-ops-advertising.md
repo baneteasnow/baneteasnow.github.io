@@ -19,6 +19,7 @@ image: "/assets/old/black-ops-advertising.jpg"
 Dijital Reklamın Gizli Dünyası, reklam olduğu bir bakışta anlaşılmayan içerikleri anlatıyor. Reklamlar artık reklamlara pek de benzemiyor. Bunun en başarılı örneklerinden bir tanesi Felix Baumgartner tarafından 14 Ekim 2012'de gerçekleştirilen uzaydan yeryüzüne atlayış. Özel bir planlama ile yüksek bütçe gerektiren, hava koşullarının adeta mükemmel olmasına bağlı oldukça tehlikeli bu atlayış Red Bull tarafından masrafları karşılanan Stratos projesi ile gerçekleştirilmişti. Red Bull o tarihte bunun bir reklam kampanyası olmadığında ısrarcı olmuştu. Bu atlayışın videoları incelendiğinde, Red Bull logosu ve logonun renkleri göründüğü ancak logonun sanki, videonun genel akışına, içeriğine adeta uydurularak ekipmana ve özel kıyafetlere yüksek özenle yerleştirilmiştir. İlk anda değil de dikkatlice bakıldığında seçilir, ancak logo asla ön planda değildir.  
   
 Bu uzay atlayışı, şirketin ekstrem spor olaylarına sponsorluk yapma, tanınmamış müzisyenlerin fonlanması ve ileri teknolojilerin geliştirilmesi için geleneksel reklamlardan kaçınılmasını içeren şirketin daha geniş pazarlama planının küçük bir parçasıdır. (sayfa 11)  
+
 Reklamları mevcut içerik ile sunmak yerel reklamcılık iken, sahanın oluşturulması ancak bunun reklamdan farklı bir sunum olarak gösterilmesi içerik pazarlamadır. BuzzFeed, içerik pazarlamasının öncü websitelerindendir.  
  
 İçerik pazarlamasının son dönemde çok tercih edilmesinin en büyük nedeni seyircinin dikkatini daha uzun süre ile koruyabilmesi. Basılı kaynaklardaki reklam istenilen etkiyi yaratmazken ya da bu reklamların ne derece etkili olduğu dahi tespit edilemezken, televizyon yayıncılığındaki reklamlar sırasında seyircinin genellikle yerinden kalktığı ve ekranı izlemeye ara vererek şu içmeye ya da kahvesini tazelemeye gittiği istatistiklerle tespit edilen bir gerçek.  
@@ -39,19 +40,19 @@ Kitapta işlenen diğer önemli bir konu da, sosyal medyada yer alan 'beğen (li
 Tüketicilerin online kanallarda etkileşimlerinin markalar tarafından takip edilmesi, uygun anlarda onlarla etkileşime geçilmesi 'sosyal dinleme' olarak adlandırılır. Örneğin bir alışveriş sitesinde sepetinize eklediğiniz ve almaktan vazgeçtiğiniz bazı ürünlerin daha sonrasında farklı sitelerde kenarlardaki reklam bölmelerinde defalarca karşınıza çıktığına şahit olursunuz. Bu sürecin ismi ise 'tekrar hedefleme'dir.  
   
 İnternette reklamlar ve editörsel içerik, su üç başlık altında birleşmektedir:  
-Ücretli (reklamlar, sponsorlu içerik),  
-Sahipli (markanın kendi web sitesi ve sosyal medya hesapları)  
-Kazanılmış (müşterilerin bizzat kanal haline gelmesi - yani ağızdan ağıza pazarlama) medya.  
+- Ücretli (reklamlar, sponsorlu içerik),  
+- Sahipli (markanın kendi web sitesi ve sosyal medya hesapları)  
+- Kazanılmış (müşterilerin bizzat kanal haline gelmesi - yani ağızdan ağıza pazarlama) medya.  
   
 Gizli operasyon reklamcılığı ise, pazarlamacıların kendilerini gizlediği, haber, eğlence içeriği gibi görünen kısaca reklama benzemeyen içerikler (advertaintment) üretilmesidir. Çünkü, pek çok kişi, bir içeriğin reklam olduğunu bilirse, o içeriği çoğu kez izlemeyi tercih etmez ya da izlese bile kolaylıkla ön yargılı hale gelebilir. Ürün yerleştirme de bu mantıkla ortaya çıkmıştır. İnsanlar, reklam kuşağında yayınlanan reklamları seyretmeyi tercih etmediklerinden ürünü program içine yerleştirmek, ürünlerin görünürlüğünü arttıracak bir yoldur. Bu, öyle bir hal almıştır ki, artık ürün içeriğin içine yerleştirilmek yerine, içerik reklamın içine yerleştirilmektedir.  
   
 Contagious isimli kitabında Jonah Berger, bir içeriğin bir kimseden başka bir kimseye yayılmasına (viral olmasına) neden olan şeyi STEPPS kısaltması ile özetliyor.  
-Social Currency (Sosyal Geçerlilik),  
-Triggers (Tetikleyiciler),  
-Emotion (Duygular),  
-Public (Kamu),  
-Practical Value (Pratik Değer),  
-Stories (Hikayeler).  
+- Social Currency (Sosyal Geçerlilik),  
+- Triggers (Tetikleyiciler),  
+- Emotion (Duygular),  
+- Public (Kamu),  
+- Practical Value (Pratik Değer),  
+- Stories (Hikayeler).  
   
 Viral içeriğin en yakın örneklerinden biri, 2014 yazındaki İçe Bucket Challenge videolarıdır.  
   
