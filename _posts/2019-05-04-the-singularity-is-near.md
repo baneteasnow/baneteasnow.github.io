@@ -22,7 +22,7 @@ Kitabın kaleme alınış tarihi 2005 olduğu için, içinde geçen geleceğe d�
   
 Kitapta yer alan tekillik tanımı şöyle:  
   
-Tekillik, biyolojik bedenlerimiz ve beyinlerimizin söz konusu kısıtlamalarını aşmamızı sağlayacak. Yazgımıza karşı güç kazanacağız. Olumluluğumuz kendi elimizde olacak. Dilediğimiz kadar yaşayabileceğiz (bu, sonsuza kadar yaşayabileceğimizi söylemekten biraz farklıdır.) İnsan düşüncesini tam olarak anlayacak, kapsamını büyük çapta açıp genişleteceğiz. Zekamızın biyolojik olmayan bölümü, bu yüzyılın sonunda, salt insan zekasından trilyon kere trilyon kat güçlü olacaktır. (sayfa 22)  
+> Tekillik, biyolojik bedenlerimiz ve beyinlerimizin söz konusu kısıtlamalarını aşmamızı sağlayacak. Yazgımıza karşı güç kazanacağız. Olumluluğumuz kendi elimizde olacak. Dilediğimiz kadar yaşayabileceğiz (bu, sonsuza kadar yaşayabileceğimizi söylemekten biraz farklıdır.) İnsan düşüncesini tam olarak anlayacak, kapsamını büyük çapta açıp genişleteceğiz. Zekamızın biyolojik olmayan bölümü, bu yüzyılın sonunda, salt insan zekasından trilyon kere trilyon kat güçlü olacaktır. (sayfa 22)  
   
 Tekillik, biyolojik düşüncemiz ve varlığımız ile teknolojimizin birleşmesinin doruğunu temsil edecek, yine insanı olan ama biyolojik kökenlerimizin ötesine geçen bir dünyayla sonuçlanacaktır, Tekillik sonrasında, insan ile makine ya da fiziksel olan ile sanal gerçeklik arasında ayrım olmayacaktır. (sayfa 22)  
   
@@ -30,12 +30,12 @@ Teknolojimiz, insanı özelliklerin en iyisi olarak gördüğümüz şeyin müke
   
 Evrim, yükselen bir düzenle örüntü oluşması sürecidir. Evrim, dolaylama yoluyla işler, bir yetenek yaratır, sonra o yeteneği bir sonraki aşamayı geliştirmek için kullanır. Kitapta, evrimin -biyolojik ve teknolojik- tarihinin altı evrede gerçekleştiği belirtiliyor.  
   
-Birinci Evre: Fizik ve Kimya  
-İkinci Evre: Biyoloji ve DNA  
-Üçüncü Evre: Beyinler  
-Dördüncü Evre: Teknoloji  
-Beşinci Evre: Teknoloji ile Birleşen İnsan Zekası  
-Altıncı Evre: Evrenin Uyanışı  
+- Birinci Evre: Fizik ve Kimya  
+- İkinci Evre: Biyoloji ve DNA  
+- Üçüncü Evre: Beyinler  
+- Dördüncü Evre: Teknoloji  
+- Beşinci Evre: Teknoloji ile Birleşen İnsan Zekası  
+- Altıncı Evre: Evrenin Uyanışı  
   
 Kitapta, insan beyninin nasıl çalıştığı, insan zekasına ters mühendislik yaklaşımı, genetik, nanoteknoloji ve robotik, tekillik ve etkileri, insan zekasının yapay zekası ile nasıl birleşeceği konuları ayrıntılı şekilde ele alınıyor.  
   
