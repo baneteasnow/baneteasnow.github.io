@@ -29,11 +29,12 @@ Lykke, mutluluk üzerine odaklanan bir kitap. Dünya Mutluluk Raporu'na göre, e
   
 Kitapta her bir madde bir bölümde inceleniyor. Kitabın başında mutluluğun nasıl ölçüldüğü de anlatılıyor. Mutluluk araştırmasında ilk adım, anlık mutluluk ile genel anlamda mutlu olmayı birbirinden ayırabilmektir.  
   
-Mutluluğun Üç Boyutu ve Mutluluk Araştırması  
+##### [Mutluluğun Üç Boyutu ve Mutluluk Araştırması](#mutluluk-arastirmasi) 
+{: #mutluluk-arastirmasi }
   
-Duygusal (hedonik) boyut, insanların gündelik olarak tecrübe ettikleri duyguları inceler.  
-Bilişsel boyut, bir kişinin genel olarak hayatından ne kadar hoşnut olduğu, genel anlamda ne kadar mutlu olduğu ile ilgilidir.  
-Eski Yunanca'da 'mutluluk' anlamına gelen ödömoni üçüncü boyuttur. Bu boyut, Aristo’nun mutluluk algısına dayanır. Aristo’ya göre iyi bir hayat anlamlı ve amacı olan bir hayattır.  
+- Duygusal (hedonik) boyut, insanların gündelik olarak tecrübe ettikleri duyguları inceler.  
+- Bilişsel boyut, bir kişinin genel olarak hayatından ne kadar hoşnut olduğu, genel anlamda ne kadar mutlu olduğu ile ilgilidir.  
+- Eski Yunanca'da 'mutluluk' anlamına gelen ödömoni üçüncü boyuttur. Bu boyut, Aristo’nun mutluluk algısına dayanır. Aristo’ya göre iyi bir hayat anlamlı ve amacı olan bir hayattır.  
   
 Mutluluğun üç boyutunu göz önünde tutarak, Mutluluk Araştırmaları Enstitüsü, büyük insan gruplarını uzun zaman dilimlerinde gözlemler ve takip eder. Zaman içinde kişilerin hayatlarında yaşadıkları ınişlerin ve çıkışların onların mutluluk düzeyini nasıl etkilediğini tespit eder.  
   
