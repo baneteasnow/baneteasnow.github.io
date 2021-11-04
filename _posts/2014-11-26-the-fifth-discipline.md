@@ -32,35 +32,45 @@ Kitapta 27. sayfadan itibaren öğrenme yetersizlikleri sıralanmış. Kişilere
   
 Kitapta 3.bölümde ilk kez 1960'li yıllarda Massachusetts Teknoloji Enstitüsünde Sloan Yönetim Okulu'nda geliştirilmiş bir simülasyona yer verilmiştir (sayfa 36). "Bira oyunu" olarak adlandırılan bu örnek, Tek bir marka üreten ve dağıtan bir sistemin perakendeci, toptancı ve fabrika açısından incelenmesine dayanır.  
   
-Sistematik yapı (üreten) Davranış düzenine ne yol açtı?  
-Davranış düzenleri (cevap veren) Uzun süreli trendleri görme ve değerlendirme  
-Olaylar (tepkici) Kim kime ne yaptı?  
+- Sistematik yapı (üreten) Davranış düzenine ne yol açtı?  
+- Davranış düzenleri (cevap veren) Uzun süreli trendleri görme ve değerlendirme  
+- Olaylar (tepkici) Kim kime ne yaptı?  
   
 Olayların düz bir bakış açısı ile değil (2+2 her zaman 4 yapmaz; 4 adımlık bir işleme bazen 5-6-7-8 adımda ulaşılabilir), birbirini güçlendiren, zayıflatan ya da dengeleyen sistemler olarak incelenmesi gerektiğini vurgulayan kitapta, 4. bölümde Beşinci Disiplinin Yasaları ele alınmaktadır:  
   
-Bugünün problemleri dünün çözümlerinden kaynaklanır.  
-Ne kadar sıkı yüklenirseniz, sistem de o sıkılıkta geriye itecektir.  
-Davranış, kötü sonuçlardan önce iyi sonuçlar doğurur.  
-Bir sorundan kolay çıkış, normal olarak o soruna tekrar geri götürür.  
-Tedavi hastalıktan kötü olabilir.  
-Daha hızlı, daha yavaştır.  
-Neden ve sonuç, zaman ve uzamda birbiriyle yakından ilintili değildir.  
-Küçük değişiklikler büyük sonuçlar üretebilir - ancak en yüksek kaldıraç gücüne sahip olanlar çoğu kez en az göze görünür olanlardır.  
-Hem pastanız olur, hem de onu yiyebilirsiniz, ama aynı anda değil.  
-Bir fili ikiye bölmekle iki küçük fil elde edilmez.  
-Kabahat yükleme diye bir şey yoktur.  
-Dünyayı Yeni Bir Gözle Görmek  
+- Bugünün problemleri dünün çözümlerinden kaynaklanır.  
+- Ne kadar sıkı yüklenirseniz, sistem de o sıkılıkta geriye itecektir.  
+- Davranış, kötü sonuçlardan önce iyi sonuçlar doğurur.  
+- Bir sorundan kolay çıkış, normal olarak o soruna tekrar geri götürür.  
+- Tedavi hastalıktan kötü olabilir.  
+- Daha hızlı, daha yavaştır.  
+- Neden ve sonuç, zaman ve uzamda birbiriyle yakından ilintili değildir.  
+- Küçük değişiklikler büyük sonuçlar üretebilir - ancak en yüksek kaldıraç gücüne sahip olanlar çoğu kez en az göze görünür olanlardır.  
+- Hem pastanız olur, hem de onu yiyebilirsiniz, ama aynı anda değil.  
+- Bir fili ikiye bölmekle iki küçük fil elde edilmez.  
+- Kabahat yükleme diye bir şey yoktur.  
+- Dünyayı Yeni Bir Gözle Görmek  
   
-Öğrenen Organizasyonların beş disiplini:  
+##### Öğrenen Organizasyonların beş disiplini:  
   
-Sistem düşüncesi: Bir sistemi parçalarına ayırarak değil, bir bütün olarak görme disiplinidir. Sistem düşüncesinin yapı taşları arasında pekiştirici ve dengeleyici geribildirimler vardır. Gecikmeler de birçok sürecin bir parçasını oluşturur.  
+##### [Sistem düşüncesi](#sistem-dusuncesi)
+{: #sistem-dusuncesi }
+Bir sistemi parçalarına ayırarak değil, bir bütün olarak görme disiplinidir. Sistem düşüncesinin yapı taşları arasında pekiştirici ve dengeleyici geribildirimler vardır. Gecikmeler de birçok sürecin bir parçasını oluşturur.  
   
-Kişisel hakimiyet (ustalık): Bireysel öğrenme örgütsel öğrenmenin temelidir. Vizyon ile mevcut gerçeğin farkı yaratıcı gerilimi doğurur. Kişilerin ufuklarına sürekli olarak açıklık kazandırma ve enerjilerini bu yönde odaklama ile ilgili bir disiplindir.  
+##### [Kişisel hakimiyet (ustalık)](#ustalik)
+{: #ustalik }
+Bireysel öğrenme örgütsel öğrenmenin temelidir. Vizyon ile mevcut gerçeğin farkı yaratıcı gerilimi doğurur. Kişilerin ufuklarına sürekli olarak açıklık kazandırma ve enerjilerini bu yönde odaklama ile ilgili bir disiplindir.  
   
-Zihinsel modeller: Kişinin zihninde yer etmiş genellemeler, varsayımlardır ve bunlar anlayış ve eylemleri etkiler. Bu modeller, genellikle bilinçaltında bulunurlar. Açık görüşlü olmakla ve bu zihinsel modellerin sorgulanması ve geçerliliklerinin araştırılması yoluyla değişime uyum sağlanabilir.  
+##### [Zihinsel modeller](#zihinsel-modeller)
+{: #zihinsel-modeller }
+Kişinin zihninde yer etmiş genellemeler, varsayımlardır ve bunlar anlayış ve eylemleri etkiler. Bu modeller, genellikle bilinçaltında bulunurlar. Açık görüşlü olmakla ve bu zihinsel modellerin sorgulanması ve geçerliliklerinin araştırılması yoluyla değişime uyum sağlanabilir.  
   
-Paylaşılan vizyonun (görme gücünün) oluşturulması: Organizasyonda herkes tarafından paylaşılan ortak amaç ve değerleri ifade eden bir disiplindir. İnsanlar kendilerine söylendiği için değil, öyle istedikleri için bu vizyonun peşinden koşarlar. Vizyona ulaşmak için gereken odaklanma, enerji ve alınması gereken riskler ancak bu şekilde karşılanır.  
+##### [Paylaşılan vizyonun (görme gücünün) oluşturulması](#vizyon)
+{: #vizyon }
+Organizasyonda herkes tarafından paylaşılan ortak amaç ve değerleri ifade eden bir disiplindir. İnsanlar kendilerine söylendiği için değil, öyle istedikleri için bu vizyonun peşinden koşarlar. Vizyona ulaşmak için gereken odaklanma, enerji ve alınması gereken riskler ancak bu şekilde karşılanır.  
   
-Takım (ekip) halinde öğrenme: Tartışma ve diyalogla takım olarak öğrenme disiplinidir. Takım üyeleri bireysel değil, takım olarak düşünmeyi öğrenir.  
+##### [Takım (ekip) halinde öğrenme](#takim)
+{: #takim }
+Tartışma ve diyalogla takım olarak öğrenme disiplinidir. Takım üyeleri bireysel değil, takım olarak düşünmeyi öğrenir.  
   
 Bu beş disiplinin bütünsel olarak çalışmasını sağlamak oldukça zor ve zahmetlidir. Bu da ancak sistem düşüncesi ile gerçekleştirilebilir. Ancak bu sayede, bütün parçalarının toplamından daha fazlası haline gelir. Sistem düşüncesi ancak bir zihniyet değişikliği ile mümkün hale gelir. Olayların bağlantılarını görmeye başlamak, sorunlara yol açan gerçek eylemleri belirlemek bu anlamda ilk adımlardır.  
