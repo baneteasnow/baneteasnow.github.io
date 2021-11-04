@@ -18,10 +18,10 @@ image: "/assets/old/101-things-i-learned-in-fashion-school.jpg"
 
 Moda hakkında mini bir rehber niteliği taşıyan Moda Okulunda Öğrendiğim 101 Şey, modanın yakın geçmişi, kumaş, dikiş, renk seçimi, nerede nasıl giyinilmesi gerektiği, tasarım, çizim gibi pek çok konuya odaklanan 101 kısa nottan oluşuyor. Modayla ilgili temel terimleri öğrenmek ve bugün geldiği noktayı anlamak açısından keyifle okunana mini bir kitap.  
   
-Eğer tasarladığınız giysinin nasıl dikileceğini bilmiyorsanız, hiçbir şey tasarlamamışsınız demektir. (17)
-Moda kültürün barometresidir. (32) 
-Basit giysilerin tasarımı basit değildir. (47) 
-Bir elbise yalnızca 180 cm boyunda 55 kilo bir mankende güzel görünüyorsa, tasarımcısı iyi bir iş ortaya koyamamıştır. (49) 
-Kumaş seçimi renk seçiminden ayrılamaz. (51) 
-Moda yorumdur. (93) 
-'Moda uçar, tarz kalır.' - Yves St. Laurent (Fransız Moda Tasarımcısı - 1936-2008) (101)
+Eğer tasarladığınız giysinin nasıl dikileceğini bilmiyorsanız, hiçbir şey tasarlamamışsınız demektir. (17)  
+Moda kültürün barometresidir. (32)  
+Basit giysilerin tasarımı basit değildir. (47)  
+Bir elbise yalnızca 180 cm boyunda 55 kilo bir mankende güzel görünüyorsa, tasarımcısı iyi bir iş ortaya koyamamıştır. (49)  
+Kumaş seçimi renk seçiminden ayrılamaz. (51)  
+Moda yorumdur. (93)  
+'Moda uçar, tarz kalır.' - Yves St. Laurent (Fransız Moda Tasarımcısı - 1936-2008) (101)  
