@@ -26,17 +26,14 @@ Büyük veriyi anlamlandırmak ve analiz edebilmek kritik önem taşısa da, kit
   
 Kuruluşların temel yönelimi ile kültürünü de değiştiren büyük veriden elde edilebilecek değerler ise şöyle sıralanıyor (sayfa 29):  
   
-Maliyet düşürme,  
-  
-Karar vermede iyileşme,  
-  
-Ürün ve hizmetlerde iyileşme.  
+- Maliyet düşürme,  
+- Karar vermede iyileşme,  
+- Ürün ve hizmetlerde iyileşme.  
   
 2.bölümde, büyük veri sektörler ve kritik iş birimleri açısından ele alınıyor. Sektörel açıdan dezavantajlı olanlar sağlık hizmetleri kuruluşları, B2B firmaları ve endüstriyel ürünler; düşük başarılı olanlar geleneksel bankalar, telekom, medya ve eğlence, perakende, elektrik sağlayıcıları; üstün başarılılar ise tüketici ürünleri, sigorta, online, seyahat ve taşımacılık ile kredi kartları (sayfa 51). İlerleyen sayfalarda kritik iş birimleri olarak pazarlama, satış, tedarik zinciri, üretim, insan kaynakları, strateji, finans ve enformasyon teknolojileri incelenmiş.  
   
 3\. bölümde, büyük veri stratejisinin nasıl geliştirileceği ele alınırken, 4. bölümde ise büyük veri üzerine çalışacak insanlara değiniliyor ve veri bilimcinin beş kritik özelliği - hacker, bilim insanı, sayısal analist, güvenilir danışman, iş uzmanı - inceleniyor.  
   
-5\. bölüm, büyük veri teknolojilerini anlatıyor. 6. bölüm, büyük veri ile başarılı olabilmek için teknolojiye ek olarak gerekenlere odaklanıyor. Yazar, bu noktada kendi geliştirmiş olduğu DELTA\* modelini inceliyor. Diğer etkenler olarak da, gerçeklere dayanma (fact-based), kuruluş (organization), kültür (culture), gözden geçirme (review) ve dahil etme (embedding) başlıklarını ele alıyor. Kitabın son iki bölümünde ise start-uplar, online firmalar ve büyük firmalardan çeşitli uygulama örnekleri paylaşılmış. Her bölümün sonunda, o bölüm ile ilgili bir eylem planı yer alırken, kitabın ek kısmında ise Büyük Veri Beceri Seviyesi Değerlendirme Anketi bulunuyor.  
+5\. bölüm, büyük veri teknolojilerini anlatıyor. 6. bölüm, büyük veri ile başarılı olabilmek için teknolojiye ek olarak gerekenlere odaklanıyor. Yazar, bu noktada kendi geliştirmiş olduğu DELTA [1] modelini inceliyor. Diğer etkenler olarak da, gerçeklere dayanma (fact-based), kuruluş (organization), kültür (culture), gözden geçirme (review) ve dahil etme (embedding) başlıklarını ele alıyor. Kitabın son iki bölümünde ise start-uplar, online firmalar ve büyük firmalardan çeşitli uygulama örnekleri paylaşılmış. Her bölümün sonunda, o bölüm ile ilgili bir eylem planı yer alırken, kitabın ek kısmında ise Büyük Veri Beceri Seviyesi Değerlendirme Anketi bulunuyor.  
   
-\* DELTA = data, enterprise, leadership, targets, analyts  
-(veri, girişim, liderlik, hedefler, analistler)  
+[^1]: DELTA = data, enterprise, leadership, targets, analyts (veri, girişim, liderlik, hedefler, analistler)  
