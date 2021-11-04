@@ -20,7 +20,7 @@ Alain de Botton, balıkçılık, danışmanlık, gemicilik gibi farklı meslekle
   
 Alain de Botton, tüm sıkıntılara ve yol açtığı yorgunluğa karşın, çalışmanın gene de çok zevkli ve mutluluk verici olduğunu vurguluyor.  
   
-_(Yazar,)_ ...modern yaşamın farklı alanlarında çalışan bu insanların işlerini nasıl yaptıklarını anlatırken çalışmanın doğası üzerine çarpıcı düşünceler geliştiriyor. (Arka Kapak)  
+> _(Yazar,)_ ...modern yaşamın farklı alanlarında çalışan bu insanların işlerini nasıl yaptıklarını anlatırken çalışmanın doğası üzerine çarpıcı düşünceler geliştiriyor. (Arka Kapak)  
   
 Bir iş bize ne zaman anlamlı gelir? Eğer o işi zevkle yapabiliyorsak ya da yaptığımız işin sonucunda bir başka kişinin çektiği ıstırap bir nebze de olsa azalıyorsa, o iş anlamlı bir iştir. Örneğin, çocuk kitaplarındaki yetişkin karakterler bile genellikle öğretmen, doktor, aşçı, çiftçi, itfaiyeci, tamirci gibi somut sonuçları olan mesleklerdendir. Bölge satış müdürü ya da saha mühendisi gibi ünvanlara sahip değillerdir. Hiç kuşkusuz bu durum çocukların bilişsel yeteneğinin gelişmekte olması ile de ilintilidir, ancak, kurulu olan düzende en çok parayı kazanan meslekler aslında insana en az 'dokunanlardır'.   
   
