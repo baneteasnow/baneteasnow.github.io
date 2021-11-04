@@ -23,20 +23,18 @@ Kitapta pek çok örnek paylaşılıyor. Görselliğin önemi, başarılı bir r
 Yaptığımız şeyler sıradan mı, sınırları aşmak için kendimizi ne kadar zorluyoruz, farklı olmak ne kadar kolay ne kadar zor, başımıza gelenler olumlu mu olumsuz mu?  
   
 Bu kitabı okuyunca olaylara hangi açıdan bakıyor olduğunuzun önemini bir kez daha hatırlayacaksınız.  
-  
-Kitaptan bir alıntıyı da paylaşmak istiyorum (sayfa 110-111).  
-  
-Sunumları Salı günü yapın.  
+
+> Sunumları Salı günü yapın (sayfa 110-111).  
   
 (Bir reklam ajansı için) Haftanın her gününde bir sunum olduğunu farz edelim.  
   
 Cuma günü müşteri işlerin niceliği ve niteliğiyle bunalmış olacak ve karar vermekte güçlük çekecektir. Şu şekilde düşünecektir:  
   
-Pazartesi - harika toplantı, harika iş; nazik insanlar  
-Salı - harika toplantı, harika insanlar, hoş çalışma  
-Çarşamba - iyi toplantı, çok yeni çalışma; sevimli genç insanlar  
-Perşembe - yine harika bir toplantı, nazik insanlar; iyi çalışma  
-Cuma - yine bir toplantı, bundan pek emin değilim.  
+- Pazartesi - harika toplantı, harika iş; nazik insanlar  
+- Salı - harika toplantı, harika insanlar, hoş çalışma  
+- Çarşamba - iyi toplantı, çok yeni çalışma; sevimli genç insanlar  
+- Perşembe - yine harika bir toplantı, nazik insanlar; iyi çalışma  
+- Cuma - yine bir toplantı, bundan pek emin değilim.  
   
 Büyük olasılıkla salı sunumunu seçecektir çünkü ikinci toplantıda kafası henüz karışmamıştı.  
 Pazartesi değerlendirme yapmak için fazla erkendi.  
