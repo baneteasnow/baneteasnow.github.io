@@ -22,12 +22,12 @@ Semler, Yedi Günlük Hafta Sonu - 21. Yüzyıl İçin Daha İyi Bir Çalışma 
   
 Semler, kitabının ilk kısmına aşağıdaki soruları sorarak başlıyor:  
   
-Pazar günleri e-postalarımızı yanıtlayabildiğimiz halde, niye pazartesi akşamları sinemaya gidemiyoruz?  
-Eve iş götürebildiğimiz halde, niye çocuklarımızı ise getiremiyoruz?  
-Çalışmanın karşıtı aslında tembellik olduğu halde, buna niye boş zaman diyoruz?  
+- Pazar günleri e-postalarımızı yanıtlayabildiğimiz halde, niye pazartesi akşamları sinemaya gidemiyoruz?  
+- Eve iş götürebildiğimiz halde, niye çocuklarımızı ise getiremiyoruz?  
+- Çalışmanın karşıtı aslında tembellik olduğu halde, buna niye boş zaman diyoruz?  
   
 Semler, Semco'nun ortamını aşağıdaki paragrafta özetliyor:  
   
-Semco'da resmi yapı diye bir şey yoktur. Örgüt şeması diye bir şey yoktur. İş planı ya da şirket stratejisi - iki yıllık ya da beş yıllık plan, hedef ya da misyon açıklaması, uzun vadeli bütçe - diye bir şey yoktur. Şirketin çoğu zaman sabit bir CEO'su da yoktur. Başkan yardımcıları ya da Baş Enformasyon Sorumlusu ya da Baş Operasyon Sorumlusu diye bir şey yoktur. Standartlar ya da uygulamalar söz konusu değildir. İnsan kaynakları departmanı diye bir şey yoktur. Kariyer planlaması, iş tanımı ya da iş sözleşmesi yoktur. Raporları ya da masraf hesaplarını onaylayan kimse yoktur. (sayfa 15)  
+> Semco'da resmi yapı diye bir şey yoktur. Örgüt şeması diye bir şey yoktur. İş planı ya da şirket stratejisi - iki yıllık ya da beş yıllık plan, hedef ya da misyon açıklaması, uzun vadeli bütçe - diye bir şey yoktur. Şirketin çoğu zaman sabit bir CEO'su da yoktur. Başkan yardımcıları ya da Baş Enformasyon Sorumlusu ya da Baş Operasyon Sorumlusu diye bir şey yoktur. Standartlar ya da uygulamalar söz konusu değildir. İnsan kaynakları departmanı diye bir şey yoktur. Kariyer planlaması, iş tanımı ya da iş sözleşmesi yoktur. Raporları ya da masraf hesaplarını onaylayan kimse yoktur. (sayfa 15)  
   
 Semco'nun başarısı (ekonomideki dalgalanmalara rağmen kaydedilen büyüme, benzersiz pazar nişleri, artan karlar, motivasyonu yüksek çalışanlar, düşük çalışan devir oranı, çeşitlilik gösteren ürün ve hizmet sahaları) zaman içinde dünya çapında yayılmıştır ve çeşitli kurum liderleri Semco'yu tanımak için çeşitli turlar düzenlemişlerdir. Semler, Semco'nun ne olduğunu anlatmak yerine ne olmadığını anlatmayı daha kolay bulduğunu belirtmiştir.  
