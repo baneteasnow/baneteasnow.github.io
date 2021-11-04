@@ -34,15 +34,14 @@ Fazlalıklarımdan arınmak ve öte berimin 70%'inden kurtulmak bana farklı der
   
 Kitabın son sayfalarında azla yetinmek için bir de rehber var.  
   
-1\. Evdeki fazlalıklardan kurtul  
-2\. Envanter tut  
-3\. Üç liste yap (zorunlu alımlar listesi, alınması zorunlu olmayan şeyler listesi, onaylı alışveriş listesi)  
-4\. Tüm mağaza üyeliklerinden ayrıl  
-5\. Bir alışveriş yasağı vadeli mevduat hesabı aç  
-6\. Tanıdığın herkese şöyle  
-7\. Pahalı alışkanlıklarını bedava/ucuz alternatifleriyle değiştir  
-8\. Seni nelerin uyardığına dikkat et (ve alışkanlıklarını değiştir)  
-9\. Azla yetinmeyi öğren/daha becerikli davran  
-10\. Sahip olduklarına şükran duy  
-  
+- Evdeki fazlalıklardan kurtul  
+- Envanter tut  
+- Üç liste yap (zorunlu alımlar listesi, alınması zorunlu olmayan şeyler listesi, onaylı alışveriş listesi)  
+- Tüm mağaza üyeliklerinden ayrıl  
+- Bir alışveriş yasağı vadeli mevduat hesabı aç  
+- Tanıdığın herkese şöyle  
+- Pahalı alışkanlıklarını bedava/ucuz alternatifleriyle değiştir  
+- Seni nelerin uyardığına dikkat et (ve alışkanlıklarını değiştir)  
+- Azla yetinmeyi öğren/daha becerikli davran  
+- Sahip olduklarına şükran duy  
   
