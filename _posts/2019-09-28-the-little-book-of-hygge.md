@@ -32,21 +32,21 @@ Danimarka’nın coğrafi konumu nedeni ile, iklimi Türkiye’den farklı. Hava
   
 Hygge bir yaşam tarzı aslında. Kitap boyunca, bu ortamı yaratmanın ipuçları paylaşılıyor. Örneğin, tüm ailenin yan yana mutfakta hazırladığı yemekler ya da 3-4 arkadaşın herbirinin katkı sağladığı sofralar başlıca birer hygge aktivitesi. Sıcak içecekler vazgeçilmez, birçok kişinin ilk tercihi kahve. Mumlar, şömine, masa oyunları, şekerleme ve tatlılar, kitap okumak, fırtınalı havalar çoğu kişi tarafından hygge ile bağdaştırılıyor.  
   
-Hygge Manifestosu  
+##### [Hygge Manifestosu](#hygge-manifestosu)
+{: #hygge-manifestosu }
   
-Ortam - Işıkları söndürün.  
-Zihin - Burada, şu anda var olun. Telefonları kapatın.  
-Keyif - Kahve, çikolata, kurabiye, pasta, şekerlemeler.  
-Eşitlik - Biz, benden üstün gelir. Görevleri paylaşın.  
-Şükran - Şükran duyun. Ne kadar çok, o kadar iyi.  
-Uyum içinde ol - Bu, bir yarışma değil. Seni zaten seviyoruz. Başarılarından bahsedip kedini kanıtlamana gerek yok.  
-Rahatlık - Rahatlayın. Bir mola verin. Kendinizi rahat bırakırsanız, her şey daha iyi olur.  
-Ateşkes - Dram yaratmaya gerek yok. Ayrıca, politika tartışmaları yapmanın çoğu zaman kimseye faydası yok.  
-Birliktelik - İyi ilişkiler kurun ve güzel anlar yaratın. '... yaptığımız zamanı hatırlıyor musun?' Dediğiniz hatıralar olsun.  
-Sığınak - Evinizi, kabileniz olarak görün. Burası huzur ve güven alanıdır.  
+- Ortam - Işıkları söndürün.  
+- Zihin - Burada, şu anda var olun. Telefonları kapatın.  
+- Keyif - Kahve, çikolata, kurabiye, pasta, şekerlemeler.  
+- Eşitlik - Biz, benden üstün gelir. Görevleri paylaşın.  
+- Şükran - Şükran duyun. Ne kadar çok, o kadar iyi.  
+- Uyum içinde ol - Bu, bir yarışma değil. Seni zaten seviyoruz. Başarılarından bahsedip kedini kanıtlamana gerek yok.  
+- Rahatlık - Rahatlayın. Bir mola verin. Kendinizi rahat bırakırsanız, her şey daha iyi olur.  
+- Ateşkes - Dram yaratmaya gerek yok. Ayrıca, politika tartışmaları yapmanın çoğu zaman kimseye faydası yok.  
+- Birliktelik - İyi ilişkiler kurun ve güzel anlar yaratın. '... yaptığımız zamanı hatırlıyor musun?' Dediğiniz hatıralar olsun.  
+- Sığınak - Evinizi, kabileniz olarak görün. Burası huzur ve güven alanıdır.  
   
 Yazar, Hygge’nin her ne kadar soyut bir kavram olsa da, beş duyuya hitap ettiğini belirtiyor. Hygge’nin tadı, tanıdık, tatlı ve huzur vericidir. Örneğin bir bardak çayı daha hyggeliğe yapmak için içine biraz bal katmak yeterlidir. Hygge’nin sesi aslında sessizliktir. Yağmurun sesi, pencereye vuran rüzgarın sesi, ve eğer varsa şöminede yananodunlarınn kıvılcımları ve cızırltıları en hyggeligt (adj.) seslerdendir. Size güven veren, belki çocukluğunuza götüren kokular Hygge’nin kokusudur. Örneğin, taze ekmek kokusu, fırından yeni çıkmış kek kokusu gibi. Hygge’nin dokunuşu ise ahşap bir masa, sıcak seramik bir bardak gibidir. Hygge’nin görünüşü ise, los, sade ve yavaştır.  
   
 Hygge’nin ayrıntıları için 'Hygge” kitabı bir rehber niteliğinde. Kitabın yazarı, Meik Wiking, dünyaca ünlü Mutluluk Araştırmaları Enstitüsü’nün de başkanlığını yapıyor.  
   
- 
