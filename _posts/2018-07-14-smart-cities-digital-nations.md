@@ -32,24 +32,14 @@ Kitapta incelenen örnekler arasında, Suudi Arabistan (Kral Abdullah Ekonomik �
   
 Kitabın son sayfalarında geleceğin şehirlerinde yaşanacak zorluklar ve mücadele noktaları şöyle listeleniyor:  
   
-Daha yüksek binalara olan ihtiyaç, daha uzun süre dayanacak güçlü yapıları beraberinde getirecek. Genç ve yetenekli nüfus yoğun olarak şehirlerde yaşayacak.  
-  
-Daha azla daha çok verim elde edilecek (aydınlatma, serinletme, ısıtma, v.b.). Daha çok verim, yaygın olarak kullanılan teknolojik altyapı ve programlar sayesinde elde edilecek. Daha az enerji ile daha çok şey yapılabilecek.  
-  
-Daha duyarlı, daha gelişmiş ve daha küçük sensörler kullanılacak. Otomasyon sistemleri, cerrahi ve uzun dönemli bakımda vazgeçilmez olacak.  
-  
-Kısa süreli ve mesafeli seyahatler giderek azalacak. Uzaktan çalışma eğilimi ve kapsamı genişleyecek. 'Ofis' kavramı da değişecek, bugünkü anlamından farklılaşacak.  
-  
-Online eğitim her yere yayılacak, iyice ucuzlayacak ve bir şeyi öğrenmek için ihtiyaç duyulacak tek şey 'kararlılık' olacak.  
-  
-Daha fazla bağlantı sayesinde daha fazla korunan şehirler oluşacak.  
-  
-Modern şehirlerde insanların hayatları daha şeffaf hale gelecek.  
-  
-Siber güvenlik tehditleri çoğalacak.  
-  
-Biraz ütopik olsa da, makinelerin insanların yerini aldığı, insanları işsiz bırakarak huzursuz ettiği günlerin yaşanması halinde makine kullanımını kısıtlayıcı önlemlerin alınması söz konusu olabilecek.  
+- Daha yüksek binalara olan ihtiyaç, daha uzun süre dayanacak güçlü yapıları beraberinde getirecek. Genç ve yetenekli nüfus yoğun olarak şehirlerde yaşayacak.  
+- Daha azla daha çok verim elde edilecek (aydınlatma, serinletme, ısıtma, v.b.). Daha çok verim, yaygın olarak kullanılan teknolojik altyapı ve programlar sayesinde elde edilecek. Daha az enerji ile daha çok şey yapılabilecek.  
+- Daha duyarlı, daha gelişmiş ve daha küçük sensörler kullanılacak. Otomasyon sistemleri, cerrahi ve uzun dönemli bakımda vazgeçilmez olacak.  
+- Kısa süreli ve mesafeli seyahatler giderek azalacak. Uzaktan çalışma eğilimi ve kapsamı genişleyecek. 'Ofis' kavramı da değişecek, bugünkü anlamından farklılaşacak.  
+- Online eğitim her yere yayılacak, iyice ucuzlayacak ve bir şeyi öğrenmek için ihtiyaç duyulacak tek şey 'kararlılık' olacak.  
+- Daha fazla bağlantı sayesinde daha fazla korunan şehirler oluşacak.  
+- Modern şehirlerde insanların hayatları daha şeffaf hale gelecek.  
+- Siber güvenlik tehditleri çoğalacak.  
+- Biraz ütopik olsa da, makinelerin insanların yerini aldığı, insanları işsiz bırakarak huzursuz ettiği günlerin yaşanması halinde makine kullanımını kısıtlayıcı önlemlerin alınması söz konusu olabilecek.  
   
 Kitapta anlatılan tüm deneyimler olumlu yönde değil, uygulamaya konulan çoğu şey, aslında tarihte birtakım ilkleri oluşturduğu için yazar önemli olanın hatalardan ders çıkarmak olduğunu, sonraki projelerde bu hataların tekrarlanmaması için gerekli önlemlerin alınması gerektiğini belirtiyor.  
-  
-  
