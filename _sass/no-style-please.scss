@@ -77,12 +77,8 @@ li { margin: 0.4rem 0; list-style-type: circle; }
 }
 .toc1 ul { list-style-type: none !important; }
 .toc1 li { list-style-type: none !important; margin: 0; padding: 0; }
-.footnotes ul { list-style-type: decimal !important; }
-.footnotes li { list-style-type: decimal !important; }
-
-.footnotes ul::before {   
- content: "___";
-}
+.footnotes ul { list-style-type: decimal !important; margin: 0; padding: 0; }
+.footnotes li { list-style-type: decimal !important; margin: 0; padding: 0; }
 
 *:target { background: yellow; }
 
@@ -128,7 +124,8 @@ div.highlighter-rouge code {
 
 .footnotes::before {
   display: block;
-  content: "Dipnot:";
+  content: "Dipnot:"  
+	   "___";
   font-size: 100%;
   color: #777; 
   font-weight: 500;
