@@ -120,12 +120,17 @@ div.highlighter-rouge code {
   padding: 1rem;
 }
 
-ol#footnotes {
-  list-style-type:none;
+. footnotes ol{
+  list-style-type:none !important;
 }
 
-li#footnotes {
-  list-style-type:none;
+.footnotes il{
+  list-style-type:none !important;
+}
+
+.footnotes::before {
+  display: block;
+  content: "Dipnot:";
 }
 
 a.footnote:before {   
