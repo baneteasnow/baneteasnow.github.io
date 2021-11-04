@@ -18,7 +18,15 @@ image: "/assets/old/hello-laziness.jpg"
 
 Merhaba Tembellik, kısa bir kitap, en fazla iki üç günde rahatlıkla okunabilir. Yazarı Fransız Corine Maier. Kitabı en iyi özetleyen cümle "İşyerinde olabildiğince az çalışmanın yolları ve gerekliliği". Kitap, iş hayatının farklı yönlerine göndermeler yapıyor ve çok çabalayanın da az çabalayanın da aslında hemen hemen aynı şeyleri elde ettiğini anlatıyor. Milyonlarca insanın çalıştığı şirketlerin dünyası şeffaf değil. Fırsatı olanlar hemen işinden ayrılıp kendi işini kurmayı tercih ediyor. Bunun altında çok temel bir mesele var yazara göre. Kendi deyimiyle "şirketler insanlara değer vermez!".  
   
-Şirketler adeta bir metin gibidir, ancak doğru okuyanlar kazanır. Şirket içinde kimsenin pek de anlamadığı bir dil konuşulur. Her şirketin bir jargonu vardır. Herkes kısaltmalarla konuşur, ise yeni başlayanlar ancak bir süre sonra günlük konuşmaları anlamaya başlar, hatta bazı kısaltmaların açılımı dahi kolaylıkla hatırlanamaz. Şirket dili İngilizce kelimelerin de eklenmesi ile birlikte "melez" bir dil halini almıştır. Bazı klişe cümleler sürekli olarak kullanılmaktadır: "Problem yoktur, çözüm vardır.", "Daha az çalışın, ama daha iyi çalışın.", "Her şey bir organizasyon sorunudur.", "Aynı anda iki yerde birden olamam.", "Çizmeyi aşan, sonuçlarına katlanır.", "Ateş olmayan yerden duman çıkmaz.", "Her şey apaçık ortada." gibi.  
+Şirketler adeta bir metin gibidir, ancak doğru okuyanlar kazanır. Şirket içinde kimsenin pek de anlamadığı bir dil konuşulur. Her şirketin bir jargonu vardır. Herkes kısaltmalarla konuşur, ise yeni başlayanlar ancak bir süre sonra günlük konuşmaları anlamaya başlar, hatta bazı kısaltmaların açılımı dahi kolaylıkla hatırlanamaz. Şirket dili İngilizce kelimelerin de eklenmesi ile birlikte "melez" bir dil halini almıştır. Bazı klişe cümleler sürekli olarak kullanılmaktadır: 
+
+- "Problem yoktur, çözüm vardır.", 
+- "Daha az çalışın, ama daha iyi çalışın.", 
+- "Her şey bir organizasyon sorunudur.", 
+- "Aynı anda iki yerde birden olamam.", 
+- "Çizmeyi aşan, sonuçlarına katlanır.", 
+- "Ateş olmayan yerden duman çıkmaz.", 
+- "Her şey apaçık ortada." gibi.  
   
 İş dünyasında asıl oyuncu şirketin kendisidir. Çalışanlar ise ancak birer "piyon"dur. Herkes para ve diğer maddi karşılıklar için çalışır. Para insanları heyecanlandırır, herkesin maaşı merak konusudur. Şirket dünyasında statü göstergeleri çok önemlidir, kullanılan şirket arabası veya sahip olunan oda gibi. Orta kademe yönetici her zaman yerinde saymaya mahkumdur, üst kademelerde iyi üniversite mezunları vardır. İnsanlar, ne yapmayı bildiklerine bakılarak değil, kim olduklarına bakılarak ise alınmaktadır. "İlişki kurma becerisi" ve "iletişime yatkınlık" gibi nitelikler belirleyici olmaktadır.  
   
