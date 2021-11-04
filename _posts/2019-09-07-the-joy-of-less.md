@@ -22,16 +22,16 @@ Kitap, öncelikle sade yaşamın felsefesini yani minimalist düşünce yapısı
   
 Kitabın ikinci bölümü STREAMLİNE yönteminin ana hatlarını çiziyor. Bu yöntem, evi kalabalıktan kurtarmak ve öyle tutmak için 10 teknikten oluşuyor.  
   
-\- Start over,   
-\- Trash/Treasure/Transfer,   
-\- Reason for each ıtem,   
-\- Everything in its place,  
-\- All surfaces clear,   
-\- Modules,   
-\- Limits,   
-\- İf one comes in—one goes out,   
-\- Narrow it down,   
-\- Everyday maintenance.  
+- Start over,   
+- Trash/Treasure/Transfer,   
+- Reason for each ıtem,   
+- Everything in its place,  
+- All surfaces clear,   
+- Modules,   
+- Limits,   
+- İf one comes in—one goes out,   
+- Narrow it down,   
+- Everyday maintenance.  
   
 Üçüncü bölümde ise, evin odalarını birer birer gezerek temizlemeyi, hakim olmayı ve düzen kurmayı anlatıyor.  
   
