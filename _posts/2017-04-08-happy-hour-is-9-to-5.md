@@ -20,16 +20,16 @@ Sabah 9'dan Akşam 6'ya Hapy Hour isimli kitapta Danimarkalı yazar Alexander Kj
   
 Mutlu bir ortamın hakim olduğu işyerlerinin kazanımları (sayfa 19):  
 
-\- Daha yüksek verimlilik  
-\- Daha yüksek kalite  
-\- Daha yüksek ise gelme oranı  
-\- Daha az stres ve tükenmişlik duygusu  
-\- En iyi çalışanlar  
-\- Daha yüksek satış  
-\- Daha fazla müşteri memnuniyeti  
-\- Daha fazla yaratıcılık ve yenilikçilik  
-\- Daha fazla uyumluluk  
-\- Daha iyi hisse performansı ve daha yüksek kar  
+- Daha yüksek verimlilik  
+- Daha yüksek kalite  
+- Daha yüksek ise gelme oranı  
+- Daha az stres ve tükenmişlik duygusu  
+- En iyi çalışanlar  
+- Daha yüksek satış  
+- Daha fazla müşteri memnuniyeti  
+- Daha fazla yaratıcılık ve yenilikçilik  
+- Daha fazla uyumluluk  
+- Daha iyi hisse performansı ve daha yüksek kar  
   
 Yazar, ana dili Danca'da arbejdsğlæde kelimesinin basitçe iş mutluluğu anlamına geldiğini aktarıyor ve işyerinde mutluluğu "işyerinde ortaya çıkan mutluluk hissi olarak tanımlıyor. (sayfa 28-29) Yazara göre, herkes zaman zaman işyerinde mutluluk hissini bir şekilde tadıyor, ancak esas sorun bu hissin nasıl daha çok yaşanabileceği. Yazar, farklı kişilerin farklı şekilde mutlu olabildiğini belirterek, mutluluk hissinin ayna nöron etkisi ile işyerinde bulaşıcı olduğunu açıklıyor. İşyerinde mutluluk, işle ilgili olarak bir çalışanın o anda ne hissettiği ile ilgilidir. Çalışan memnuniyeti ise, bir çalışanın bu konu üzerinde düşündüğünde, iş durumu ile ilgili olarak belirlediği mutluluk seviyesidir. (sayfa 35) Bu iki kavram birbiri yerine kullanılsa da aslında temelde farklıdır.  
   
@@ -37,14 +37,13 @@ Yazar, ana dili Danca'da arbejdsğlæde kelimesinin basitçe iş mutluluğu anla
   
 Kitabın ilerleyen sayfalarında, bir kişiyi işyerinde mutlu eden şeylerin ne olduğu tartışılıyor ve bu noktada okuyucuya farkındalık kazandırılıyor. İşyerindeki anlam seviyesinin de önemli olduğu ve üç seviyesi bulunduğu sayfa 64'te açıklanıyor:  
   
-\- Anlam yok, hiçbir şey ifade etmiyor;  
-\- Anlamı var, geçinmeye yarıyor; başlı başına anlamlı,  
-\- Muhteşem bir şeye katkıda bulunmayı / daha iyi bir dünya oluşturmayı sağlıyor.  
+- Anlam yok, hiçbir şey ifade etmiyor;  
+- Anlamı var, geçinmeye yarıyor; başlı başına anlamlı,  
+- Muhteşem bir şeye katkıda bulunmayı / daha iyi bir dünya oluşturmayı sağlıyor.  
   
 Yazar, sayfa 157'de işyerinde mutluluğun mutlak sorumluluğunun çalışanın kendisinde olduğunu belirtiyor:  
   
-\- İşyerinde mutluluk, bir duygudur.  
-\- İşyerinde mutluluk, kişiseldir.  
-\- İşyerinde mutlu olmak, bazı zor tercihler yapmaya neden olabilir.  
-  
+- İşyerinde mutluluk, bir duygudur.  
+- İşyerinde mutluluk, kişiseldir.  
+- İşyerinde mutlu olmak, bazı zor tercihler yapmaya neden olabilir.  
   
