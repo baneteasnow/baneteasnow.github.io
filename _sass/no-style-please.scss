@@ -72,8 +72,8 @@ li { margin: 0.4rem 0; list-style-type: circle; }
 }
 .toc1 ul { list-style-type: none !important; }
 .toc1 li { list-style-type: none !important; margin: 0; padding: 0; }
-.footnotes ul { list-style-type: none !important; }
-.footnotes li { list-style-type: none !important; }
+.footnotes ul { list-style-type: decimal !important; }
+.footnotes li { list-style-type: decimal !important; }
 
 *:target { background: yellow; }
 
@@ -124,7 +124,7 @@ div.highlighter-rouge code {
 
 .footnotes::before {
   display: block;
-  content: "<hr> Dipnot:";
+  content: "Dipnot:";
   font-size: 100%;
   color: #777; 
   font-weight: 500;
@@ -137,6 +137,19 @@ a.footnote:before {
 
 a.footnote:after {
     content: "]";
+}
+
+.reversefootnote {
+  visibility: hidden;
+  position: relative;
+}
+
+.reversefootnote:after {
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "\21B5";
 }
 
 blockquote {
