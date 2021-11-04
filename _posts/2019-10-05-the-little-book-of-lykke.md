@@ -20,12 +20,12 @@ Hygge kitabının da yazarı olan Meik Wiking, Lykke (mutluluk) isimli kitabınd
   
 Lykke, mutluluk üzerine odaklanan bir kitap. Dünya Mutluluk Raporu'na göre, en mutlu ve en mutsuz ülkeler arasında dört puanlık bir mutluluk farkı vardır. Bu dört puanlık farkın üç puanı altı faktörle açıklanır:  
 
-\- Birlik veya topluluk olma hissi,  
-\- Para,  
-\- Sağlık,  
-\- Özgürlük,  
-\- Güven,  
-\- İyilik.  
+- Birlik veya topluluk olma hissi,  
+- Para,  
+- Sağlık,  
+- Özgürlük,  
+- Güven,  
+- İyilik.  
   
 Kitapta her bir madde bir bölümde inceleniyor. Kitabın başında mutluluğun nasıl ölçüldüğü de anlatılıyor. Mutluluk araştırmasında ilk adım, anlık mutluluk ile genel anlamda mutlu olmayı birbirinden ayırabilmektir.  
   
@@ -38,5 +38,3 @@ Eski Yunanca'da 'mutluluk' anlamına gelen ödömoni üçüncü boyuttur. Bu boy
 Mutluluğun üç boyutunu göz önünde tutarak, Mutluluk Araştırmaları Enstitüsü, büyük insan gruplarını uzun zaman dilimlerinde gözlemler ve takip eder. Zaman içinde kişilerin hayatlarında yaşadıkları ınişlerin ve çıkışların onların mutluluk düzeyini nasıl etkilediğini tespit eder.  
   
 Mutluluk kavramı ve mutluluğu fark etmek üzerine yazılmış olan Lykke, tıpkı Hygge gibi, renkli baskısı ile de okuması zevkli bir kitap.  
-  
-  
