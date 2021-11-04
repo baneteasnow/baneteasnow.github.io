@@ -20,7 +20,7 @@ image: "/assets/old/judge-this.jpg"
   
 Yazar kitabına mesleğinin kazandırdığı bakış açısından da hareketle, bir kişinin dünya algısını ilk izlenimlerinin ve onun hakkındaki ilk izlenimlerin belirlediğini vurgulayarak başlıyor. Kendi telefonu (iPhone 5s) ile çektiği resimleri tasarımın açıklık ve gizem cetveli (gizem-metre) ile kısa cümlelerde açıklıyor. Farklı tasarımların nasıl bir ilk izlenim uyandırdığına dair görüşlerini paylaşıyor. İnsanlar gerek günlük gerek iş yaşamlarında genellikle ilk izlenimlere dayanarak yargıda bulunurlar, çoğu zaman başka seçenekleri de olmayabilir. Yazar, kitabındaki paylaşımları ile daha iyi yargıda bulunmayı öğrenmek isteyenler için yol gösteriyor.  
   
-Açıklık her şeyi anlatır.  
-Gizem bize umut verir.  
+- Açıklık her şeyi anlatır.  
+- Gizem bize umut verir.  
   
 
