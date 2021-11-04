@@ -80,6 +80,14 @@ li { margin: 0.4rem 0; list-style-type: circle; }
 .footnotes ul { list-style-type: decimal !important; }
 .footnotes li { list-style-type: decimal !important; }
 
+footnotes li::before {   
+ content: "[";
+}
+
+footnotes li::after {
+    content: "]";
+}
+
 *:target { background: yellow; }
 
 .w {
