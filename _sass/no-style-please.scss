@@ -125,7 +125,7 @@ div.highlighter-rouge code {
 .footnotes::before {
   display: block;
   content: "Dipnot:"  
-	   <br />
+	   "\00A0"
 	   "___";
   font-size: 100%;
   color: #777; 
