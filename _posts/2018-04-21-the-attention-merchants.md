@@ -27,7 +27,7 @@ Dikkati dağınık bir toplum, dikkat tacirlerinin en çok istediği şeydir; ç
   
 Gerekli olduğu her an dikkatimizi belirli bir şeye yönlendirebilme konusundaki doğal yapımızın yanında bazı şeyleri göz ardı edebilme kapasitesine de sahip olmamız, dikkat endüstrilerinin gelişimini tüm bilişsel özelliklerimizden daha fazla belirler niteliktedir. (sayfa 29)  
   
-Yazar, kitabı 5 bölüm halinde yapılandırmış ve her bölümün altında yer alan konu başlıkları var.  
+Yazar, kitabı 5 bölüm halinde yapılandırmış ve her bölümün altında yer alan farklı konu başlıkları var.  
   
 1\. bölüm, ilk dikkat tacirlerinin ne zaman ortaya çıktığını ve topladıkları dikkati ve bilgiyi nasıl paraya dönüştürdüklerini anlatıyor. Gazetelere reklamların ilk olarak girmesi (1800'lü yıllar), patentli ilaç sektörü reklamları (1800'lü yılların sonu - 1900'lerin başı), İngiltere ve ABD'nin (savaş sırasında) orduya asker toplamak için yürüttükleri kampanyalar, talep mühendisliği ve Listerine kampanyası, ev içi tüketimi kadınların yönlendirmesi, ilk sigara reklamlarının vaatleri gibi konular işleniyor.  
   
@@ -37,11 +37,11 @@ Yazar, kitabı 5 bölüm halinde yapılandırmış ve her bölümün altında ye
   
 4\. bölüm, ünlülerin kitlelerin dikkatini çekmesini ve bunu nasıl kullandıklarını anlatıyor. People, US Weekly gibi dergiler ile ön plana çıkan ünlülerin dikkat çekmedeki başarıları, Oprah Winfrey'in popülaritesi ve kitleler üzerindeki etkisini nasıl kullandığı, MTV'nin hikayesi ve reality showların ortaya çıkışı bu bölümde ele alınıyor.  
   
-5\. bölüm ise, internetin ön plana çıkması ile birlikte hiçbir şeyin eskisi gibi olmayacağını, yeni platformların yeni kurallar belirlediğini okuyucuya örneklerle aktarıyor. Haber kanalları, ilk çıkan arama motorları, Google'ın günlük hayatın bir parçası haline gelmesi, YouTube'un yaygın kullanımı, Huffington Post gibi sitelerin devreye girmesi, Facebook'un yarattığı 'ağ etkisi'\*, mikro ünlülerin, ilk blogların ve Twitter'in ortaya çıkışı, akıllı telefonların tüm dünyaya yayılması, Instagram'ın yaygınlaşması, BuzzFeed ve viral içerik, Netflix ve dizileri inceleniyor.  
+5\. bölüm ise, internetin ön plana çıkması ile birlikte hiçbir şeyin eskisi gibi olmayacağını, yeni platformların yeni kurallar belirlediğini okuyucuya örneklerle aktarıyor. Haber kanalları, ilk çıkan arama motorları, Google'ın günlük hayatın bir parçası haline gelmesi, YouTube'un yaygın kullanımı, Huffington Post gibi sitelerin devreye girmesi, Facebook'un yarattığı 'ağ etkisi'[^1], mikro ünlülerin, ilk blogların ve Twitter'in ortaya çıkışı, akıllı telefonların tüm dünyaya yayılması, Instagram'ın yaygınlaşması, BuzzFeed ve viral içerik, Netflix ve dizileri inceleniyor.  
   
-Apple'ın Yönetim Kurulu Başkanı Tim Cook'un 1 Ocak 2015'te Washongton'da bulunan ve ticari kar amacı gütmeyen EPİC (Elektronik Mahremiyet Bilgi Merkezi)'in yıllık akşam yemeğinde yaptığı konuşmada geçen sözleri ile ve su hatırlatma ile kitap sona eriyor.  
+Apple'ın Yönetim Kurulu Başkanı Tim Cook'un 1 Ocak 2015'te Washongton'da bulunan ve ticari kar amacı gütmeyen EPIC (Elektronik Mahremiyet Bilgi Merkezi)'in yıllık akşam yemeğinde yaptığı konuşmada geçen sözleri ile ve su hatırlatma ile kitap sona eriyor.  
   
 Ücretsiz hizmetler söz konusu ise müşteri olan siz değilsiniz, siz ürünsünüz.  
   
-\*Ağ etkisi, bir sistemin kullanıcı sayısı arttıkça, katılan her kullanıcının bağlantıları sayesinde genişleyen kapsamı ifade eder. (sayfa 337)  
+[^1]: Ağ etkisi, bir sistemin kullanıcı sayısı arttıkça, katılan her kullanıcının bağlantıları sayesinde genişleyen kapsamı ifade eder. (sayfa 337)  
  
