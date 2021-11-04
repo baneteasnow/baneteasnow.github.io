@@ -29,12 +29,12 @@ Tüketim kültürünün ağır bastığı bugünkü ortamda, daha fazla tüketme
   
 Kitapta incelenen konular arasında şunlar var:  
   
-Çalışsın ya da çalışmasın herkese temel gelir sağlanması (temel gelirin bir hak haline gelmesi),  
-Gerçekleri yansıtmadığı bilinen gayrisafi milli hasılanın (GSMH) halen pek çok konuda gösterge olarak sayılması,  
-Yoksulluğun sonunun nasıl getirilebileceği,  
-İnsanlarla makinelerin yarısını kimin kazanacağı,  
-Haftalık çalışma saatlerinin azaltılmasının aslında stres, iklim değişikliği, kazalar, işsizlik, kadınların özgürleşmesi, yaşlanan nüfus ve eşitsizlik gibi sorunlara dolaylı ya da dolaysız olarak nasıl çözüm sağlayabileceği,  
-Sınırların açılmasının beraberinde getireceği olumlu şeyler.  
+- Çalışsın ya da çalışmasın herkese temel gelir sağlanması (temel gelirin bir hak haline gelmesi),  
+- Gerçekleri yansıtmadığı bilinen gayrisafi milli hasılanın (GSMH) halen pek çok konuda gösterge olarak sayılması,  
+- Yoksulluğun sonunun nasıl getirilebileceği,  
+- İnsanlarla makinelerin yarısını kimin kazanacağı,  
+- Haftalık çalışma saatlerinin azaltılmasının aslında stres, iklim değişikliği, kazalar, işsizlik, kadınların özgürleşmesi, yaşlanan nüfus ve eşitsizlik gibi - sorunlara dolaylı ya da dolaysız olarak nasıl çözüm sağlayabileceği,  
+- Sınırların açılmasının beraberinde getireceği olumlu şeyler.  
   
 Rutger Bregman, uygulanabilir vizyoner fikirlerle yeni bir toplum inşa edilebileceğini öne sürüyor. Bu iddiasını, sıra ile incelediği ütopyalarla destekliyor.  
   
