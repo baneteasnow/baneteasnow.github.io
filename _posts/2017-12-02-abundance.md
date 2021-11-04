@@ -34,7 +34,7 @@ Teknolojinin gözüyle baktığınızda, gerçek anlamda kit kaynak çok azdır;
   
 Kitabın bakışaçısına göre bolluğun tanımı:  
   
-Bolluk bu dünyadaki herkese lüks bir yaşam sağlamak demek değil, daha çok herkese olanaklar sunan bir yaşam sağlamak demek.  
+> Bolluk bu dünyadaki herkese lüks bir yaşam sağlamak demek değil, daha çok herkese olanaklar sunan bir yaşam sağlamak demek.  
   
 Kitabın birinci kısmının ilerleyen sayfaları Bolluk Piramidini inceleyerek bolluk vaadinin mümkün olup olmadığını sorguluyor, olumlu düşünmeye karşı bazı önyargıları masaya yatırıyor.  
   
