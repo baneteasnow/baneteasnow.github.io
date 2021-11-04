@@ -24,23 +24,35 @@ Dünyanın yanılsamalarla dolu bir yer olduğunu gösteren bu deneylerden ilki 
   
 Kitapta ele alınan diğer sorular şunlar:   
   
-Dikkatimizi bir yöne odakladığımızda, yanlış bir kanıya kapılarak diğer her şeyi fark ettiğimizi sanırız, ancak gerçekte olan bu mudur?   
-Aynı anda iki işi yapmak insanı ne kadar başarıya ulaştırır?   
-Görmeyi beklediğimiz şeyleri görürüz, peki ya görmeyi beklemediklerimiz?  
+- Dikkatimizi bir yöne odakladığımızda, yanlış bir kanıya kapılarak diğer her şeyi fark ettiğimizi sanırız, ancak gerçekte olan bu mudur?   
+- Aynı anda iki işi yapmak insanı ne kadar başarıya ulaştırır?   
+- Görmeyi beklediğimiz şeyleri görürüz, peki ya görmeyi beklemediklerimiz?  
   
 Kitapta ele alınan başlıca altı yanılsama var:  
   
-Dikkat yanılsaması - Görme alanımıza beklenmedik bir nesne (ya da 'şey') eklendiğinde mutlaka onu farkedeceğimizi düşünürüz. Ama aslında bu yeni nesneyi fark etmemiz, dikkatimizin o anda neye odaklandığına bağlıdır.  
+##### [Dikkat yanılsaması](#dikkat-yanilsamasi)
+{: #dikkat-yanilsamasi }
+Görme alanımıza beklenmedik bir nesne (ya da 'şey') eklendiğinde mutlaka onu farkedeceğimizi düşünürüz. Ama aslında bu yeni nesneyi fark etmemiz, dikkatimizin o anda neye odaklandığına bağlıdır.  
   
-Hafiza yanılsaması - Öyle inanırız ki, eğer bir şeyi hatırlıyorsak, özellikle de çeşitli ayrıntılarıyla canlı bir biçimde o ana geri dönebiliyorsak, hatırladığımız şeyin gerçekle birebir aynı olduğunu düşünürüz. Oysaki, sahip olduğumuz hatıralar zaman içinde değişir ve hatta yeniden şekillenir. Bu da, yaşadığımız bir olayın hatırladığımız halinin aslında geçerli olmayabileceği anlamına gelmektedir.  
+##### [Hafiza yanılsaması](#hafiza-yanilsamasi) 
+{: #hafiza-yanilsamasi }
+Öyle inanırız ki, eğer bir şeyi hatırlıyorsak, özellikle de çeşitli ayrıntılarıyla canlı bir biçimde o ana geri dönebiliyorsak, hatırladığımız şeyin gerçekle birebir aynı olduğunu düşünürüz. Oysaki, sahip olduğumuz hatıralar zaman içinde değişir ve hatta yeniden şekillenir. Bu da, yaşadığımız bir olayın hatırladığımız halinin aslında geçerli olmayabileceği anlamına gelmektedir.  
   
-Güven yanılsaması - Bir kişinin bir konuda kendine olan güven seviyesinin onun yetenek ve bilgi seviyesini yansıttığını düşünürüz. Aslında, gerçek çoğu kez bunun tersidir. Bilgi sahibi olmadığı ya da yetkin olmadığı bir konuda kendine aşırı güvenen pek çok kişinin bu davranışı çoğu zaman karşı tarafı yanıltır. Kendine güveni yüksek kişilere inanma eğiliminde olsak da, onların her zaman için en doğru kararı vermediklerini hatırlamakta fayda var.  
+##### [Güven yanılsaması](#guven-yanilsamasi) 
+{: #guven-yanilsamasi }
+Bir kişinin bir konuda kendine olan güven seviyesinin onun yetenek ve bilgi seviyesini yansıttığını düşünürüz. Aslında, gerçek çoğu kez bunun tersidir. Bilgi sahibi olmadığı ya da yetkin olmadığı bir konuda kendine aşırı güvenen pek çok kişinin bu davranışı çoğu zaman karşı tarafı yanıltır. Kendine güveni yüksek kişilere inanma eğiliminde olsak da, onların her zaman için en doğru kararı vermediklerini hatırlamakta fayda var.  
   
-Bilgi yanılsaması - Çevremizde olan bitenden gerçekte olduğundan çok daha fazla anladığımızı düşünürüz. Bunun da ötesinde, sistemlerin ne kadar karmaşık olduğunu bilmemiz aslında bizi yanlış içerikte kararlar almaya iter.  
+##### [Bilgi yanılsaması](#bilgi-yanilsamasi) 
+{: #bilgi-yanilsamasi }
+Çevremizde olan bitenden gerçekte olduğundan çok daha fazla anladığımızı düşünürüz. Bunun da ötesinde, sistemlerin ne kadar karmaşık olduğunu bilmemiz aslında bizi yanlış içerikte kararlar almaya iter.  
   
-Neden yanılsaması - Olaylarda, aslında hiç olmadığı zaman kalıplar tespit etmeye ve sadece bağlantı veya sıralama olması halinde de neden sonuç ilişkisi çıkarmaya eğilimimiz vardır. Bu tür kalıplara veya ilişkilere bir kez inandığımızda ise, bu eğilimden vazgeçmemiz, bunların yanlış olduğunu kanıtlayan istatistikler veya bilimsel verilerin varlığını bilsek bile oldukça zordur.  
+##### [Neden yanılsaması](#neden-yanilsamasi) 
+{: #neden-yanilsamasi }
+Olaylarda, aslında hiç olmadığı zaman kalıplar tespit etmeye ve sadece bağlantı veya sıralama olması halinde de neden sonuç ilişkisi çıkarmaya eğilimimiz vardır. Bu tür kalıplara veya ilişkilere bir kez inandığımızda ise, bu eğilimden vazgeçmemiz, bunların yanlış olduğunu kanıtlayan istatistikler veya bilimsel verilerin varlığını bilsek bile oldukça zordur.  
   
-Potansiyel yanılsaması - Kendi sahip olduğumuz potansiyelin sadece küçük bir kısmını kullandığımızı düşünürüz. Bazı alanlar için bu doğru bile olsa, her alan için doğru değildir. Olduğumuzdan daha zeki, daha hızlı veya daha parlak olmamız çoğu zaman için mümkün değildir. Sadece pratik yaparak ve çalışarak bir konuda daha iyi olmak mümkündür, ancak bir anda bizi daha iyi yapabilecek sihirli bir çözüm yoktur.
+##### [Potansiyel yanılsaması](#potansiyel-yanilsamasi)
+{: #potansiyel-yanilsamasi }
+Kendi sahip olduğumuz potansiyelin sadece küçük bir kısmını kullandığımızı düşünürüz. Bazı alanlar için bu doğru bile olsa, her alan için doğru değildir. Olduğumuzdan daha zeki, daha hızlı veya daha parlak olmamız çoğu zaman için mümkün değildir. Sadece pratik yaparak ve çalışarak bir konuda daha iyi olmak mümkündür, ancak bir anda bizi daha iyi yapabilecek sihirli bir çözüm yoktur.
 
 Konusu ve verdiği örneklerle oldukça eğlenceli bir kitap.  
   
