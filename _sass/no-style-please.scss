@@ -128,9 +128,17 @@ div.highlighter-rouge code {
   list-style-type:none !important;
 }
 
+.footnotes ul {
+  list-style-type:none !important;
+}
+
 .footnotes::before {
   display: block;
   content: "Dipnot:";
+  font-size: 100%;
+  color: #777; 
+  font-weight: 500;
+  font-style: italic;
 }
 
 a.footnote:before {   
