@@ -18,15 +18,15 @@ image: "/assets/old/the-new-digital-age.jpg"
 
 Yeni Dijital Çağ, internetin getirdiği değişimleri inceliyor ve aslında yolun daha çok başında olduğumuzun sinyalini vererek geleceğin dünyasının bugünden çok farklı olacağını anlatıyor. Kitabın Giriş bölümündeki ilk cümleler oldukça çarpıcı:  
   
-"İnternet insanoğlunun tam anlamıyla anlamadan inşa ettiği az sayıdaki şeylerden biridir." 
+> "İnternet insanoğlunun tam anlamıyla anlamadan inşa ettiği az sayıdaki şeylerden biridir." 
   
-"....bizler onun dünya sahnesi üzerindeki etkilerine henüz yeni tanık olmaya başlıyoruz."  
+> "....bizler onun dünya sahnesi üzerindeki etkilerine henüz yeni tanık olmaya başlıyoruz."  
   
 İnternet dünyanın dört bir köşesine ulaştıkça, bağlantı hızı arttıkça, mobil cihazlar her kesime yayıldıkça, kısaca dünya daha "bağlantılı" bir yer haline geldikçe, aklımıza gelebilecek hemen her alanda da etkisi hissedilmeye başlıyor. Sadece birkaç kuşak önce, bir bilgiye erişmek için önce kütüphaneye gitmek, doğru kitabı bulmak ve sayfalarca kitap okumak gerekliydi veya bir yakınınıza ulaşmak için mektup yazmak ve bu mektubun karşı tarafın eline geçmesi için sabretmek ve sonrasında da postacının yanıtı getirmesini beklemek gerekliydi. Sadece sabit hatlı telefonlarla arama yapmak bile bir döneme damgasını vurmuştu. Şimdi ise teknolojinin temel yasalarından biri olan Moore Yasası'na göre, işlem çiplerinin hızı her 18 ayda bir iki katına çıkmaktadır, bu durum da muazzam bir hız ve gelişme ile karşı karşıya olduğumuzun habercisi ve kanıtı. Bir odanın içini kaplayan eski bilgisayarlara kıyasla bugün bir avuç içine sığan mobil cihazlar, dünyadaki online tüm bilgi kaynaklarına sadece saniyeler içinde ulaşmamızı sağlıyor.  
   
 Yaşanan teknolojik gelişmenin boyutu, sayfa 277'de şu iki cümleyle oldukça anlaşılır biçimde ortaya konuluyor:
   
-Er geç ulaşılması kaçınılmaz olan sınırlarına karşın, Moore Yasası bize sadece birkaç yıl içinde sonsuz küçük işlemci vaat ediyor. İki günde bir, uygarlığın şafağından 2003 yılına kadar geçen sürede ürettiğimiz kadar dijital içerik üretiyoruz.  
+> Er geç ulaşılması kaçınılmaz olan sınırlarına karşın, Moore Yasası bize sadece birkaç yıl içinde sonsuz küçük işlemci vaat ediyor. İki günde bir, uygarlığın şafağından 2003 yılına kadar geçen sürede ürettiğimiz kadar dijital içerik üretiyoruz.  
   
 Tüm bu gelişmelerin pek çok getirisinin yanı sıra, yazarlar yavaş yavaş insanların iki kimliğinin şekillenmeye başladığını aktarıyorlar, biri fiziksel dünyadaki kimliğimiz, diğeri ise sanal dünyada bıraktığımız silinemez izlerden oluşan kimliğimiz ve profilimiz. Yavaş yavaş gelinen nokta, sanal kimlik çeşidinin de çeşitli tehlikelere karşı korunması, baştan oluşturulması, müdahale edilebilirliğinin zorlaştırılması. Bugün bile bu alanda çalışan bazı firmalar mevcut.  
   
@@ -40,7 +40,7 @@ Kitap 7 bölümden oluşuyor: İlk bölüm, "Gelecekte Biz", bağlantıda olman�
   
 Kitap "Sonuç" bölümünü şu 4 maddenin açıklaması ile bitiriyor (sayfa 279):  
   
-"Gelecekte dünyamız hakkında neler bildiğimizi sanıyoruz?"  
+> "Gelecekte dünyamız hakkında neler bildiğimizi sanıyoruz?"  
   
 İlk olarak, teknoloji dünyadaki kötülüklerin pan zehiri değildir, ancak akıllıca kullanıldığında fark yaratacaktır.  
   
