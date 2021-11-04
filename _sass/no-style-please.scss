@@ -50,7 +50,12 @@ h2, h3, h6 { margin-top: 3rem; }
 h4 { font-family: 'EB Garamond', serif; font-size: 120%; font-weight: 500; font-style: italic; margin-top: 3rem; }
 h5 { font-size: 100%; margin-top: 3rem; font-style: italic; font-weight: 400; }
 
-hr { margin: 2rem 0;}
+hr { 
+  margin: 2rem 0;
+  border: 0.01em solid;
+  border-color: #e5e5e5;
+  width: auto;
+}
 
 p { margin: 1rem 0; }
 
@@ -84,11 +89,6 @@ li { margin: 0.4rem 0; list-style-type: circle; }
   padding: 4rem 2rem;
 }
 
-hr {
-  border: 0.01em solid;
-  border-color: #e5e5e5;
-  width: auto;
-}
 .line1 {
   border-left: 1px solid #ffff66;
   text-align: left;
@@ -149,7 +149,7 @@ a.footnote:after {
   position: absolute;
   top: 0;
   left: 0;
-  content: "\21B5";
+  content: "\21B2";
 }
 
 blockquote {
