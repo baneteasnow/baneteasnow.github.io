@@ -39,9 +39,9 @@ Yazar, kitabı 5 bölüm halinde yapılandırmış ve her bölümün altında ye
   
 5\. bölüm ise, internetin ön plana çıkması ile birlikte hiçbir şeyin eskisi gibi olmayacağını, yeni platformların yeni kurallar belirlediğini okuyucuya örneklerle aktarıyor. Haber kanalları, ilk çıkan arama motorları, Google'ın günlük hayatın bir parçası haline gelmesi, YouTube'un yaygın kullanımı, Huffington Post gibi sitelerin devreye girmesi, Facebook'un yarattığı 'ağ etkisi'[^1], mikro ünlülerin, ilk blogların ve Twitter'in ortaya çıkışı, akıllı telefonların tüm dünyaya yayılması, Instagram'ın yaygınlaşması, BuzzFeed ve viral içerik, Netflix ve dizileri inceleniyor.  
   
-Apple'ın Yönetim Kurulu Başkanı Tim Cook'un 1 Ocak 2015'te Washongton'da bulunan ve ticari kar amacı gütmeyen EPIC (Elektronik Mahremiyet Bilgi Merkezi)'in yıllık akşam yemeğinde yaptığı konuşmada geçen sözleri ile ve su hatırlatma ile kitap sona eriyor.  
+Apple'ın Yönetim Kurulu Başkanı Tim Cook'un 1 Ocak 2015'te Washongton'da bulunan ve ticari kar amacı gütmeyen EPIC (Elektronik Mahremiyet Bilgi Merkezi)'in yıllık akşam yemeğinde yaptığı konuşmada geçen sözleri ile ve şu hatırlatma ile kitap sona eriyor.  
   
-Ücretsiz hizmetler söz konusu ise müşteri olan siz değilsiniz, siz ürünsünüz.  
+> Ücretsiz hizmetler söz konusu ise müşteri olan siz değilsiniz, siz ürünsünüz.  
   
 [^1]: Ağ etkisi, bir sistemin kullanıcı sayısı arttıkça, katılan her kullanıcının bağlantıları sayesinde genişleyen kapsamı ifade eder. (sayfa 337)  
  
