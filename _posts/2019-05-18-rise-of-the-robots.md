@@ -19,7 +19,7 @@ image: "/assets/old/rise-of-the-robots.jpg"
 Robotların Yükselişi, gelecekte robotların hangi alanlarda kullanılacağı ve yapay zekanın günlük hayatımızdaki yerinin ne olacağı sorularına yanıt arayan güncel bir kitap. Benzer konuları işleyen başka kitaplarda, Martin Ford'un imzasını taşıyan bu kitaptan çeşitli alıntılara rastlamak mümkün.  
   
 Yazar, kitapta şu soruya yanıt arıyor:  
-Hızlanan teknoloji, refahın sürdürülebilmesi için gerekli sistemi sil baştan yapılandırmaktan başka çare bırakmayacak şekilde bütün sistemi altüst edebilir mi? (sayfa 18)  
+> Hızlanan teknoloji, refahın sürdürülebilmesi için gerekli sistemi sil baştan yapılandırmaktan başka çare bırakmayacak şekilde bütün sistemi altüst edebilir mi? (sayfa 18)  
   
 Kitabın ilk sayfalarında, teknolojiye dair en temel varsayımlardan birinin makinenin işçinin üretkenliğini arttıran en temel araçlardan biri olduğu hatırlatılıyor. Oysaki, teknoloji de yaşanan gelişmelerle birlikte, makinenin kendisi bizzat işçi haline geliyor, dolayısıyla da bu temel varsayım artık geçerli değil. Üretim hatlarında, özellikle tekrarlı işlerin makineler ve robotlar tarafından devralındığının en tipik örneği otomobil sanayiinde yapılan üretim.  
   
@@ -29,18 +29,17 @@ Robotlar ve self servis teknolojileri hemen her sektörde kullanıma girerken, d
   
 Gelişen bilgi teknolojilerinin büyük bir dönüşüme yol açtığını gösteren 7 ekonomik trend vardır:  
   
-\- Ücretlerin yerinde sayması  
-\- Emeğin küçülen payı ve şirketlerin büyüyen payı  
-\- İşgücüne katılımın azalması  
-\- Yeni iş alanlarının yaratımındaki azalma, uzun vadeli işsizlikteki yükselme  
-\- Eşşitsizlikte öngörülemeyen artışlar  
-\- Yeni üniversite mezunlarının ilk ise giriş maaşlarının gittikçe düşmesi, iş bulmalarının zorlaşması  
-\- İstihdamda kutuplaşmanın artması  
+- Ücretlerin yerinde sayması  
+- Emeğin küçülen payı ve şirketlerin büyüyen payı  
+- İşgücüne katılımın azalması  
+- Yeni iş alanlarının yaratımındaki azalma, uzun vadeli işsizlikteki yükselme  
+- Eşşitsizlikte öngörülemeyen artışlar  
+- Yeni üniversite mezunlarının ilk ise giriş maaşlarının gittikçe düşmesi, iş bulmalarının zorlaşması  
+- İstihdamda kutuplaşmanın artması  
   
 Teknoloji ilerledikçe, robotlar ve elf servis sistemler, düşük ücretli ve tekrarlı işleri yok etmeye devam edecek. Yok olan işler arasına bugün otomasyon kapsamına alınmayan pek çok iş de dahil olacak. Bundan ötürü, orta sınıf her geçen gün erozyona uğruyor ve uğramaya devam edecek. (Gelişmiş ülkelerin diğer ülkelerden en önemli farklarından biri sağlam bir orta sınıf yaratmış olmalarıdır. Orta sınıfın daralması, özellikle ABD gibi ülkelerde sorunlara yol açacak.)  
   
 Birinci ve İkinci Sanayi Devrimi sonrasında ortadan kalkan işlerde çalışanlar, kendilerine yeni iş bulabilmişlerdi. Üçüncü Sanayi Devrimi'nin yaşanması ile birlikte sadece mavi yakalı çalışanların işleri değil, beyaz yakalı çalışanların da işleri tehdit altında. Bugün bir sistem üzerinde beyaz yakalı işlerde çalışanların oluşturduğu büyük verinin analizinin yapılması sonucunda çeşitli algoritmalar oluşturularak, sözkonusu bu işlerin gelecekte otomasyonunun sağlanması mümkün hale getiriliyor. Bugün tehdit altında olan işler belirli sıra ile yapılan, tekrara dayalı, kısaca bir formülasyona dökülebilen işler; ancak, diğer işlerin de formülasyonunun oluşturulması adeta an meselesi.  
   
 Kitabın ilerleyen bölümlerinde yüksek öğrenimdeki dönüşüm, uzaktan online eğitimde yaşanan gelişmeler, sağlık sistemi, tekillik, yaşanması olası yeni bir ekonomik kriz ve büyümenin bir sınırının olup olmadığı ele alınıyor.  
-  
   
