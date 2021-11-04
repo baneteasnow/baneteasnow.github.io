@@ -68,4 +68,3 @@ Sosyal kaynaşma uğruna fikirlere karşı çıkılmaktan taviz verilmez. Bir li
 14\. Ortaya Sonuç koymak  
 Önemli olan verilere odaklanarak, doğru kalitede ve zamanında sonuçlara ulaşmak esastır.  
   
-  
