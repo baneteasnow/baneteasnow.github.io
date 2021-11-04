@@ -120,6 +120,14 @@ div.highlighter-rouge code {
   padding: 1rem;
 }
 
+a.footnote:before {   
+ content: "[";
+}
+
+a.footnote:after {
+    content: "]";
+}
+
 blockquote {
   font-style: italic;
   border-left: 2px solid #ffff66;
