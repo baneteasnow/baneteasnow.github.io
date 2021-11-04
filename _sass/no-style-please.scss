@@ -124,6 +124,10 @@ ol#footnotes {
   list-style-type:none;
 }
 
+li#footnotes {
+  list-style-type:none;
+}
+
 a.footnote:before {   
  content: "[";
 }
