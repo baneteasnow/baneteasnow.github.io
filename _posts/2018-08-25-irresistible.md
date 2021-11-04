@@ -27,33 +27,33 @@ Teknoloji, onu kitle tüketimi için şekillendiren kurumlar tarafından yönlen
   
 Davranışsal bağımlılık altı bileşenden oluşur:  
   
-\- Ulaşabildiğinizin az ötesinde çekici hedefler,  
-\- Karşı konulmaz ve öngörülmez olumlu geri besleme,  
-\- Artan bir gelişme ve ilerleme duygusu,  
-\- Zaman içinde yavaş yavaş zorlaşan görevler,  
-\- Çözüm gerektiren gerilimler,  
-\- Güçlü sosyal bağlantılar.  
+- Ulaşabildiğinizin az ötesinde çekici hedefler,  
+- Karşı konulmaz ve öngörülmez olumlu geri besleme,  
+- Artan bir gelişme ve ilerleme duygusu,  
+- Zaman içinde yavaş yavaş zorlaşan görevler,  
+- Çözüm gerektiren gerilimler,  
+- Güçlü sosyal bağlantılar.  
   
 Yazarın önerisi şöyle:  
   
-Davranışsal bağımlılık çağı henüz yeni başlamış sayılsa da, bir krizin işaretleri kendini göstermekte. Burada olumlu olan nokta, davranışsal bağımlılık ilişkisi henüz sabit bir hale geçmemiş ve şekillendirilebilir durumda. Bu nedenle, davranışsal bağımlılıkların nasıl işlediğini çözmeyi başaranlar da. Kendilerini muhtemel zarardan koruyabilirler. Bu noktadan hareketle, kitap genel hatlarıyla davranışsal bağımlılığı ve insan psikolojisinin bu bağımlılık türüne neden bu kadar açık olduğunu inceliyor.  
+> Davranışsal bağımlılık çağı henüz yeni başlamış sayılsa da, bir krizin işaretleri kendini göstermekte. Burada olumlu olan nokta, davranışsal bağımlılık ilişkisi henüz sabit bir hale geçmemiş ve şekillendirilebilir durumda. Bu nedenle, davranışsal bağımlılıkların nasıl işlediğini çözmeyi başaranlar da. Kendilerini muhtemel zarardan koruyabilirler. Bu noktadan hareketle, kitap genel hatlarıyla davranışsal bağımlılığı ve insan psikolojisinin bu bağımlılık türüne neden bu kadar açık olduğunu inceliyor.  
   
 Kitabın içeriğini oluşturan diğer bazı noktalar şöyle:  
   
-\- Geri bildirimin bağımlılık davranışı üzerindeki etkileri,  
-\- Son dönemlerde pek çok kişide artan bir dizinin bölümlerini arka arkaya izleme (binge-watching) davranışı,  
-\- Bir garsonun hiç yazmadan 5-6 masanın siparişini aklında tutması, mutfağa iletmesi ancak, siparişleri dağıttıktan hemen sonra bu siparişleri unutmasının perde arkası (Zeigarnik Etkisi),  
-\- Oyun tasarımcılarının kendi oyunlarını oynamaktan işlerine devam edememesinin hikayesi, bağımlılık yapıcı bilgisayar oyunlarının önce oyun konsollarına ardından mobil cihazlara taşınması ve bu durumun hayatımızı nasıl etkilediği (Candy Crush, Tetris, 2048, Süper Mario, FarmVille, World of Warcraft gibi örnekler paylaşılıyor),  
-\- 'Öğrenmede yakınsal gelişim alanının' oyun tasarımında nasıl kullanıldığı,  
-\- Bağımlılık yapıcı oyunların ortak tasarım özellikleri,  
-\- Instagram, Facebook, v.b. sosyal medya bağımlılıkları,  
-\- Çalışma hayatında belki de en fazla görülen bağımlılıklardan biri olan 'boş posta kutusu' hedefi,  
-\- 'Neredeyse kazanma deneyimi'nin yol açtıkları,  
-\- Sınırlı süreyle kampanyalı alışveriş imkanı tanıyan sitelerden yapılan "çoğu gereksiz" alışverişler,  
-\- The Sopranos'un ve bazı filmlerin/dizilerin adeta havada asılı kalan sonu,  
-\- Bir ortamda kullanılmasa bile görünür şekilde duran telefonunyüz yüzee iletişimi nasıl etkilediği,  
-\- Uyurken başucumuzda duran cep telefonunun bizi nasıl etkilediği,  
-\- Bir internet bağımlılığı merkezi (reStart) ile ilgili ayrıntılar.
+- Geri bildirimin bağımlılık davranışı üzerindeki etkileri,  
+- Son dönemlerde pek çok kişide artan bir dizinin bölümlerini arka arkaya izleme (binge-watching) davranışı,  
+- Bir garsonun hiç yazmadan 5-6 masanın siparişini aklında tutması, mutfağa iletmesi ancak, siparişleri dağıttıktan hemen sonra bu siparişleri unutmasının perde arkası (Zeigarnik Etkisi),  
+- Oyun tasarımcılarının kendi oyunlarını oynamaktan işlerine devam edememesinin hikayesi, bağımlılık yapıcı bilgisayar oyunlarının önce oyun konsollarına ardından mobil cihazlara taşınması ve bu durumun hayatımızı nasıl etkilediği (Candy Crush, Tetris, 2048, Süper Mario, FarmVille, World of Warcraft gibi örnekler paylaşılıyor),  
+- 'Öğrenmede yakınsal gelişim alanının' oyun tasarımında nasıl kullanıldığı,  
+- Bağımlılık yapıcı oyunların ortak tasarım özellikleri,  
+- Instagram, Facebook, v.b. sosyal medya bağımlılıkları,  
+- Çalışma hayatında belki de en fazla görülen bağımlılıklardan biri olan 'boş posta kutusu' hedefi,  
+- 'Neredeyse kazanma deneyimi'nin yol açtıkları,  
+- Sınırlı süreyle kampanyalı alışveriş imkanı tanıyan sitelerden yapılan "çoğu gereksiz" alışverişler,  
+- The Sopranos'un ve bazı filmlerin/dizilerin adeta havada asılı kalan sonu,  
+- Bir ortamda kullanılmasa bile görünür şekilde duran telefonunyüz yüzee iletişimi nasıl etkilediği,  
+- Uyurken başucumuzda duran cep telefonunun bizi nasıl etkilediği,  
+- Bir internet bağımlılığı merkezi (reStart) ile ilgili ayrıntılar.
 
   
   
