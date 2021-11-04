@@ -19,8 +19,6 @@ eng: "In a world that is full of advertisement, this book explains how a child i
 
 Brandwashed isimli kitapta markaların nasıl kendi logolarını, sloganlarını, ürünlerini tüketicilerin bilinçaltına adeta ilmek ilmek işleyerek yerleştirdikleri ve hatta bunu bebeklikten itibaren yaptıkları anlatılıyor. Böylece çocukluk anıları arasında belli markalar bulunan kişiler, yetişkin olup kendi alışverişlerini yapmaya başladıklarında bilinçsiz şekilde o markaları tercih etme eğiliminde oluyorlar. Bu şekilde markalar da gelecekte kendi potansiyel müşterileri olacak nesiller yetişirken onların hep yanı başında yer alıyor.  
   
-Bu konuda kitapta yer alan bazı bilgiler şöyle:  
-  
 Anne karnında duyduğumuz cıngıllar ve reklam melodileri, dünyaya geldikten sonra o müziklere ve müziklerin temsil ettiği ürünlere yönelik bir eğilim geliştirmemizi sağlıyor. (sayfa 24)  
   
 Daha üç aylıkken bebeklerin yüzde kırkı düzenli olarak TV izler hale geliyor ve aynı çocuklar, iki yaşlarına geldiklerinde bu oran yüzde 90'lara çıkıyor. (sayfa 30)  
@@ -29,7 +27,9 @@ Berkeley Üniversitesi'nde görevli çocuk psikoloğu Dr. Allen Kanner, yapılan
   
 On yaşına gelen çocuklarsa, Nickelodeon tarafından yapılan bir araştırmaya göre, yaklaşık üç yüz dört yüz markayı ezbere biliyor. Çocuklar ayrıca markalarla ilgili tercihler de oluşturuyor. (sayfa 31)  
   
-Son dönemde, reklam ve eğlencenin iç içe geçtiği, oyun-reklamların sayısı giderek artıyor. Firmalar, çocukların kalıcı tercihlerinin şekillenmesinde küçük yaşlardan itibaren reklamların büyük etkisinin olduğunu biliyorlar; bir ürünü bir kişi ne kadar küçük yaşta kullanmaya başlarsa o ürünü hayatının geri kalanında da kullanmayı sürdürüyor. (sayfa 33) Ebeveynlerin çocuklarının zevk ve tercihleri üzerindeki etkisi oldukça büyük. Buna "elden ele etkisi" deniliyor. (sayfa 39)  
+Son dönemde, reklam ve eğlencenin iç içe geçtiği, oyun-reklamların sayısı giderek artıyor. Firmalar, çocukların kalıcı tercihlerinin şekillenmesinde küçük yaşlardan itibaren reklamların büyük etkisinin olduğunu biliyorlar; bir ürünü bir kişi ne kadar küçük yaşta kullanmaya başlarsa o ürünü hayatının geri kalanında da kullanmayı sürdürüyor. (sayfa 33) 
+
+Ebeveynlerin çocuklarının zevk ve tercihleri üzerindeki etkisi oldukça büyük. Buna "elden ele etkisi" deniliyor. (sayfa 39)  
   
 Bazı ürünler de korku ve panik ile karışık bir şekilde pazarlanıyor. Örneğin, 2000'li yılların başından itibaren dünyanın çeşitli bölgelerinde ortaya çıkan ve özellikle uluslararası uçuşlar ile yayılan bazı hastalıkların yarattığı tehlike sonrasında piyasaya sürülen antibakteriyel jel ürünleri için bu hastalıklar bir satış stratejisi olarak kullanılmıştır. Bu tür ürünler hijyen sağlasa da, sadece hijyene dikkat etmek bu hastalıklardan kaçınmak için yeterli değildir. Ancak, yaratılan korku ile bu ürünleri kullanan tüketiciler kendilerini bir nebze olsun rahat hissetmektedirler.  
   
