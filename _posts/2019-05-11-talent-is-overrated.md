@@ -22,30 +22,30 @@ Kitapta yer verilen bir araştırmanın sonucuna göre, pek çok kişi kendi yap
 
 Deneyimle beceri seviyesi pek de arttırılamadığına göre, deneyimden daha ön planda tutulması gereken şey aslında 'yetenek' oluyor. Günümüzde firmalarda kit olan kaynak, insan becerisidir. Bu nedenle, ise alım kritik önem taşır.
 
-Yetenek Nedir?  
-  
+##### [Yetenek Nedir?](#yetenek)
+{: #yetenek }
 Bir şeyi birçok kişinin yapabileceğinden daha iyi yapmamızı sağlayan doğal becerilerdir. (sayfa 34)  
   
 Yetenek pek çok araştırmaya konu olmuştur. Yapılan değerlendirmelerde farklı alanlarda başarılı kişilerin yeteneklerinin farklı süreçlerde ortaya çıktığı belirlenmiştir. Örneğin, müzik veya spor alanında başarılı olan kişiler genellikle çok erken yaşlarda zaten o alan üzerinde çoktan çalışmaya başlamışlardır. Ancak, iş dünyasında ise durum farklıdır. Okul yıllarında çok da üstün başarı göstermeyen kişiler, ilerleyen yaşlarında iş hayatlarında çok başarılı kişilere dönüşebilirler.  
   
-Üstün Performansa Ulaşanların Sırrı  
-  
+##### [Üstün Performansa Ulaşanların Sırrı](#ustun-performans)  
+{: #ustun-performans }
 Ericsson ve çalışma arkadaşları, üstün performansa ve başarıya ulaşan kişilerle ilgili olarak yetenek kavramının hiçbir rol oynamadığını ileri sürerek "amaca yönelik alıştırma" kavramını ortaya atmışlardır. Amaca yönelik çalışma, bir ömür boyu devam eden amaca yönelik olarak sarf edilen çabalar demektir. Bu da başarıya doğuştan gelen yetenekle değil, belki binlerce saate varan alıştırma ile ulaşıldığı anlamına gelir.  
   
-Amaca Yönelik Alıştırmanın Unsurları  
-  
-\- Özel olarak performans arttırma amacıyla, çoğunlukla bir öğretmen yardımıyla yapılır.  
-\- Çok kez yinelenebilir.  
-\- Sonuçlara ilişkin geribeslemeye her an ulaşılabilir.  
-\- Büyük bir zihinsel çaba gerektirir.  
-\- Pek eğlenceli değildir, yorucudur.
+##### [Amaca Yönelik Alıştırmanın Unsurları](#amaca-yonelik)  
+{: #amaca-yonelik }
+- Özel olarak performans arttırma amacıyla, çoğunlukla bir öğretmen yardımıyla yapılır.  
+- Çok kez yinelenebilir.  
+- Sonuçlara ilişkin geribeslemeye her an ulaşılabilir.  
+- Büyük bir zihinsel çaba gerektirir.  
+- Pek eğlenceli değildir, yorucudur.
 
-Çalışma Hayatlarında Üstün Performans Gösteren Kişilerin Bazı Uygulamaları
-
-\- Uğraşlarında ortalama başarı gösterenlerin fark bile etmedikleri göstergelerin önemini anlıyorlar.
-\- Hep daha ileriye bakıyorlar.
-\- Daha az görerek, daha çok biliyorlar.
-\- Uğraşlarında ortalama başarı gösterenlerden daha ince ayrıntılara gidiyorlar.
+##### [Çalışma Hayatlarında Üstün Performans Gösteren Kişilerin Bazı Uygulamaları](#calisma-hayati)
+{: #calisma-hayati }
+- Uğraşlarında ortalama başarı gösterenlerin fark bile etmedikleri göstergelerin önemini anlıyorlar.
+- Hep daha ileriye bakıyorlar.
+- Daha az görerek, daha çok biliyorlar.
+- Uğraşlarında ortalama başarı gösterenlerden daha ince ayrıntılara gidiyorlar.
 
 Peki, amaca yönelik çalışma bu kadar zorsa ve büyük emek, çaba gerektiriyorsa, devam etmenin sırrı nedir?
 
@@ -54,5 +54,3 @@ Cevap tek kelimeyle özetlenebilir; tutku.
 Chicago Üniversitesi'nden psikolog Mihaly Csıkszenmihalyi'nin çalışması, içsel motivasyon ile amaca yönelik alıştırmanın gerekleri arasındaki bağlantıyı kurabilecek özel bir mekanizmayı açıklar; kendisinin literatüre kazandırmış olduğu "akış" kavramını. Kişi, kendini uğraşına öylesine kaptırır ki, o uğraş neredeyse zahmetsiz hale gelir. 
 
 Bir alanda başarılı olmak için yetenekten daha çok çabanın gerekli olduğunu örneklerle anlatan bu kitap, konuyu oldukça net şekilde açıklıyor.
-
-
