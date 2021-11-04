@@ -36,11 +36,11 @@ eBay Community adını taşıyan kullanıcılar topluluğu, sitenin ilk günleri
   
 4.Bölümde, sayfa 111'de belirtildiği üzere eBay'ın işletme karını sağlayan model şu şekildedir:  
   
-Net Gelirler (Satıcı ücretlerinden alınan)  
+> Net Gelirler (Satıcı ücretlerinden alınan)  
   
-\- Net Gelirlerin Maliyeti (alt yapı)  
-\- İşletme Masrafları (pazarlama, ürün geliştirme, genel ve yönetimsel giderler, amortisman)  
-\= İşletme Karı  
+> \- Net Gelirlerin Maliyeti (alt yapı)  
+> \- İşletme Masrafları (pazarlama, ürün geliştirme, genel ve yönetimsel giderler, amortisman)  
+> \= İşletme Karı  
   
 eBay, zaman içinde AOL, Disney, AutoTrade.com, CarClub gibi bazı firmalarla stratejik ortaklıklar geliştirmiştir. Ayrıca, e-Stamp, i-Gönderim, iEscrow, Billpoint gibi bazı hizmetler de devreye girmiş ve eBay değer ağının bir parçası olmuştur.  
   
