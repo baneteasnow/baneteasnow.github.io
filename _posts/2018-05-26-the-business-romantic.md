@@ -24,14 +24,14 @@ Tipik bir romantiğin belirleyici özellikleri uzun zamandır değişmemiştir. 
   
 Kitapta, business romantik olmaya dair unsurlar İkinci Kısım'da 'Cezbetme Kuralları' başlığı ile aşağıdaki gibi sıralanıyor:  
   
-\- Küçüğün içinde büyüğü bulun  
-\- Yardımcı olun  
-\- Aldığınızdan fazlasını verin  
-\- Acı çekin (birazcık)  
-\- Sahtesini yapın!  
-\- Gizemli olanı koru  
-\- Ayrılık  
-\- Okyanusa yelken aç  
-\- Eve uzun yoldan gidin  
-\- Yalnız durun, hazır durun, kıpırdamadan durun  
+- Küçüğün içinde büyüğü bulun  
+- Yardımcı olun  
+- Aldığınızdan fazlasını verin  
+- Acı çekin (birazcık)  
+- Sahtesini yapın!  
+- Gizemli olanı koru  
+- Ayrılık  
+- Okyanusa yelken aç  
+- Eve uzun yoldan gidin  
+- Yalnız durun, hazır durun, kıpırdamadan durun  
   
