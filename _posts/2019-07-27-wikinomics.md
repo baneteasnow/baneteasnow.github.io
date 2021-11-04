@@ -24,13 +24,24 @@ Kitlesel iş birliği, verilerin ve sonuçların gönüllü örgütlenmelerce pa
   
 Vikinominin 4 ilkesi vardır:  
   
-Açık olmak: Şirketlerin ellerindeki bilgiyi inovasyon oluşturulması için paylaşması, kendi yetenekli çalışanlarının yanı sıra, global yetenek havuzuna da açılmasıdır.  
+##### [Açık olmak](#acik-olmak)  
+{: #acik-olmak }
+Şirketlerin ellerindeki bilgiyi inovasyon oluşturulması için paylaşması, kendi yetenekli çalışanlarının yanı sıra, global yetenek havuzuna da açılmasıdır.  
   
-Peering: Hiyerarşiler yakın zamanda ortadan kalkacak gibi durmasa da, bilgiye dayalı olarak hareket eden, peering olarak adlandırılan yatay yapılar ortaya çıkmıştır. En güzel örneklerinden birisi Linux işletim sisteminin oluşturulma sürecidir.  
+##### [Peering](#peering)  
+{: #peering }
+
+Hiyerarşiler yakın zamanda ortadan kalkacak gibi durmasa da, bilgiye dayalı olarak hareket eden, peering olarak adlandırılan yatay yapılar ortaya çıkmıştır. En güzel örneklerinden birisi Linux işletim sisteminin oluşturulma sürecidir.  
   
-Paylaşım: Firmanın elindeki entelektüel mülkiyetini müşterek bir fon olarak görmesi ve bazılarını korurken bazılarını da paylaşıma açmasını içerir. Böylece, kamuya açık veritabanları üzerinden ortak araştırmalar yürütülebilecektir.  
+##### [Paylaşım](#paylasim)  
+{: #paylasim }
+
+Firmanın elindeki entelektüel mülkiyetini müşterek bir fon olarak görmesi ve bazılarını korurken bazılarını da paylaşıma açmasını içerir. Böylece, kamuya açık veritabanları üzerinden ortak araştırmalar yürütülebilecektir.  
   
-Global hareket etme: Sadece global düşünmeyi değil global olarak hareket edebilmeyi kapsar. Büyük şirketlerin global değil, uluslararası olmaları bazı sorunlara yol açmaktadır.  
+##### [Global hareket etme](#global-hareket-etme)
+{: #global-hareket-etme}
+
+Sadece global düşünmeyi değil global olarak hareket edebilmeyi kapsar. Büyük şirketlerin global değil, uluslararası olmaları bazı sorunlara yol açmaktadır.  
 İşbirliğine yönelik yeni global platform, global hareket etme yönünde sayısız fırsat sunmaktadır. Dünya eğitim, iş ve girişim fırsatlarıyla kaynamaktadır - bu fırsatlardan pay kapabilmek için bireyin ihtiyaç duyduğu şey yetenek, motivasyon, yaşam boyu öğrenme kapasitesi ve bir internet bağlantısıdır. (sayfa 47)  
   
 Vikinomi'nin dört ilkesi - açık olma, peering, paylaşım ve global hareket etme - 21. yüzyıl şirketlerinin nasıl rekabet ettiklerini en iyi şekilde açıklamaktadır. Yeni düzen geçen yüzyıla damgasını vuran hiyerarşik, kapalı, sır saklayan ve dar görüşlü uluslararası şirket anlayışından çok farklıdır. (sayfa 47)  
@@ -41,19 +52,19 @@ Kitlesel işbirliğinin endüstriyi bir gecede yeniden şekillendirebildiği bir
   
 Bu modeller kısaca şöyledir (sayfa 362-363):  
   
-Peer Öncüleri parçalardan oluşan ürünler yaratmak için açık kaynak ilkelerini - işletim sistemlerinden ansiklopedilere varana dek - kullanmaktadırlar.  
+- Peer Öncüleri parçalardan oluşan ürünler yaratmak için açık kaynak ilkelerini - işletim sistemlerinden ansiklopedilere varana dek - kullanmaktadırlar.  
   
-İdegoralar şirketlere problem çözme kapasitelerini geliştirmek amacıyla global fikirler, inovasyonlar ve eşsiz kalifiye beyinler pazarına erişim imkanı sunmaktadır.  
+- İdegoralar şirketlere problem çözme kapasitelerini geliştirmek amacıyla global fikirler, inovasyonlar ve eşsiz kalifiye beyinler pazarına erişim imkanı sunmaktadır.  
   
-Şirketlerin tüketicilere değer yaratma süreçlerine katılmaları için ihtiyaç duydukları araçları temin etmeleri durumunda üreten tüketici topluluklar harikulade bir inovasyon kaynağı haline gelebilirler.  
+- Şirketlerin tüketicilere değer yaratma süreçlerine katılmaları için ihtiyaç duydukları araçları temin etmeleri durumunda üreten tüketici topluluklar harikulade bir inovasyon kaynağı haline gelebilirler.  
   
-Yeni İskenderiyeliler maliyetleri düşürecek ve endüstriyel teknolojinin gelişim sürecine ivme kazandıracak yeni bir iş birliği modeli geliştirmektedirler.  
+- Yeni İskenderiyeliler maliyetleri düşürecek ve endüstriyel teknolojinin gelişim sürecine ivme kazandıracak yeni bir iş birliği modeli geliştirmektedirler.  
   
-Katılım platformaları büyük ortak topluluklarının değer ve çoğu zaman oldukça sinerjik bir ekosistem bünyesinde yeni teşebbüsler yaratabilecekleri bir global sahne yaratmaktadırlar.  
+- Katılım platformaları büyük ortak topluluklarının değer ve çoğu zaman oldukça sinerjik bir ekosistem bünyesinde yeni teşebbüsler yaratabilecekleri bir global sahne yaratmaktadırlar.  
   
-Global İmalathaneler, fiziksel eşyaların tasarımı ve montajına yönelik olarak sınırların ve kurumsal sınırların ötesindeki insan sermayesinin gücünden yararlanmaktadırlar.  
+- Global İmalathaneler, fiziksel eşyaların tasarımı ve montajına yönelik olarak sınırların ve kurumsal sınırların ötesindeki insan sermayesinin gücünden yararlanmaktadırlar.  
   
-Viki işyerleri eşine pek rastlanmayan yollarla kurumsal hiyerarşileri yararak inovasyonları ve morali arttırmaktadır.  
+- Viki işyerleri eşine pek rastlanmayan yollarla kurumsal hiyerarşileri yararak inovasyonları ve morali arttırmaktadır.  
   
 Kitabın son sayfaları ise, bu yeni kurumsal bakış açısını geliştirmek ve işler hale getirebilmek için ortaya konulması gereken liderlik modellerini incelemektedir.
 
