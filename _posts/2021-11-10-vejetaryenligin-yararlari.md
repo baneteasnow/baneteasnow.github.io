@@ -1,10 +1,10 @@
 ---
 layout: post
 category: book
-title: "Vejetaryenliğin Yararları | Sadik Hidayet (Kitap)"
+title: "Vejetaryenliğin Yararları | Sadık Hidayet (Kitap)"
 tr: "Vejetaryenliğin Yararları"
 kitap: "Fevayid-i Giyahhari"
-yazar: "Sadik Hidayet"
+yazar: "Sadık Hidayet"
 yil: "2018"
 sayfa: "73"
 goodreads: "https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar"
@@ -13,7 +13,7 @@ published: true
 description: "Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 1926-1927 yıllarında kaleme aldığı çeşitli metinlerden oluşuyor."  
 tag: "veganlık"
 posted: 2021-11-10 
-image: "/assets/new/vejetaryenligin-yararlari.jpg"  
+image: "/assets/new/vejetaryenligin-yararlari.jpg" 
 ---
 
 Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 1926-1927 yıllarında kaleme aldığı çeşitli metinlerden oluşuyor. Vejetaryenliğin geçmişi, yiyeceklerin pişirilmesi ve vejetaryenliğin etik yönünü ele alıyor. İnsanın çevresine zarar vermeden beslenebilmesinin ve sağlıklı olmasının mümkün olduğunu kendi gözlemleri ile birlikte aktarıyor.
