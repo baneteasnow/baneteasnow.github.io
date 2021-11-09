@@ -21,3 +21,4 @@ Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 192
 Bu yanılgı tek bir şeyden kaynaklanıyor: İnsan yaşamak için öldürmek zorunda olduğunu, etin kuvvet verici bir besin olduğunu ve yemezse öleceğini sanmış bir kere. Gerçekten de insan yaşamı için et yemek kaçınılmaz bir gereksinim mi?
 
 İnsanın yaşamı et tüketimine mi bağlı? Gerekli ve yararlı olmadığı halde hayvansal besinler insanın kuvvetini mi arttırıyor? Ya da zararlı mı? Sağlık ve yaşamın karşısında mı? Değerlendirmek gerek. (sayfa 17)
+
