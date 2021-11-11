@@ -88,6 +88,7 @@ published: true
 | alexjhughes.com/booknotes |
 | nextbigideaclub.com/magazine/topics/book-bites/ |
 | highlights.sawyerh.com |
+| themindmapguy.com/blogs/book-summaries |
 
 <br />
 
