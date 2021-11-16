@@ -89,6 +89,7 @@ published: true
 | nextbigideaclub.com/magazine/topics/book-bites/ |
 | highlights.sawyerh.com |
 | themindmapguy.com/blogs/book-summaries |
+| commoncog.com/blog/tag/books/ |
 
 <br />
 
