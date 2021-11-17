@@ -90,6 +90,7 @@ published: true
 | highlights.sawyerh.com |
 | themindmapguy.com/blogs/book-summaries |
 | commoncog.com/blog/tag/books/ |
+| paulminors.com/resources/book-summaries/ |
 
 <br />
 
