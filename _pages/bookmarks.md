@@ -92,6 +92,8 @@ published: true
 | commoncog.com/blog/tag/books/ |
 | paulminors.com/resources/book-summaries/ |
 | danielmiessler.com/projects/reading/ |
+| smsnonfictionbookreviews.com |
+| doingdeweydecimal.com/ |
 
 <br />
 
