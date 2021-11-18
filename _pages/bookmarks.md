@@ -91,6 +91,7 @@ published: true
 | themindmapguy.com/blogs/book-summaries |
 | commoncog.com/blog/tag/books/ |
 | paulminors.com/resources/book-summaries/ |
+| danielmiessler.com/projects/reading/ |
 
 <br />
 
