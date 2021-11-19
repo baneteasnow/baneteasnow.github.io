@@ -95,6 +95,7 @@ published: true
 | smsnonfictionbookreviews.com |
 | doingdeweydecimal.com/ |
 | alittleblogofbooks.com/non-fiction-and-other-posts/ |
+| globaleduc.wordpress.com/all-book-reviews/ |
 
 <br />
 
