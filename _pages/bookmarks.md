@@ -98,6 +98,7 @@ published: true
 | globaleduc.wordpress.com/all-book-reviews/ |
 | ecolitbooks.com/category/book-reviews/ |
 | third-bit.com/reading/ |
+| daverupert.com/spicy-bookshelf |
 
 <br />
 
