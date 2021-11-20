@@ -99,6 +99,7 @@ published: true
 | ecolitbooks.com/category/book-reviews/ |
 | third-bit.com/reading/ |
 | daverupert.com/spicy-bookshelf |
+| highlights.melanie-richards.com |
 
 <br />
 
