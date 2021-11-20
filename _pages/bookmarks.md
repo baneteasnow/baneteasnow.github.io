@@ -97,6 +97,7 @@ published: true
 | alittleblogofbooks.com/non-fiction-and-other-posts/ |
 | globaleduc.wordpress.com/all-book-reviews/ |
 | ecolitbooks.com/category/book-reviews/ |
+| third-bit.com/reading/ |
 
 <br />
 
@@ -114,7 +115,7 @@ published: true
 
 | ⁜ |
 |:---|
-| rogerebert.com/ |
+| rogerebert.com |
 | ayearofreadingtheworld.com/thelist/ |
 | writerswrite.com/rr/ |
 | bookhub.com |
