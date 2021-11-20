@@ -100,6 +100,7 @@ published: true
 | third-bit.com/reading/ |
 | daverupert.com/spicy-bookshelf |
 | highlights.melanie-richards.com |
+| allencheng.com/book-summaries/ |
 
 <br />
 
