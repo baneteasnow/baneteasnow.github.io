@@ -13,7 +13,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
-tag: ""
+tag: "psikoloji"
 image: "/assets/new/toxic-parents.jpg"
 ---
 
