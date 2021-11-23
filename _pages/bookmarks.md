@@ -101,6 +101,7 @@ published: true
 | daverupert.com/spicy-bookshelf |
 | highlights.melanie-richards.com |
 | allencheng.com/book-summaries/ |
+| coffeeandbooks.co.uk/category/non-fiction/ |
 
 <br />
 
