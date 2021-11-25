@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "çalışma yaşamı"
+tag: "çalışma yaşamı"
 image: "/assets/new/do-the-work.jpg"
 ---
 
