@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "marka profili"
+tag: "marka profili"
 image: "/assets/new/the-cult-of-we.jpg"
 ---
 
