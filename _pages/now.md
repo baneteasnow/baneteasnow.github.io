@@ -26,6 +26,3 @@ Do the Work: Overcome Resistance and Get Out of Your Own Way (2014)
 <i>by</i> Steven Pressfield  
 <br />
 
-
-term  
-: definition
