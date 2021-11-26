@@ -9,7 +9,7 @@ yazar: "Susan Forward, Craig Buck"
 yil: "2002"
 sayfa: "308"
 goodreads: "https://www.goodreads.com/book/show/103999.Toxic_Parents"
-description: ""
+description: "Zor Bir Ailede Büyümek, bir kişinin çocuklukta anne babası ile olan ilişkisinin yetişkinlik dönemindeki hayatını, kişiliğini, aldığı kararları, hayata bakışını nasıl şekillendirdiğini örneklerle inceliyor."
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
