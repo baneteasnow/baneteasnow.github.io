@@ -1,7 +1,7 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-11-21
+last_modified_at: 2021-11-24
 published: true
 ---
 
@@ -25,3 +25,7 @@ Turning Pro: Tap Your Inner Power and Create Your Life's Work (2012)
 Do the Work: Overcome Resistance and Get Out of Your Own Way (2014)  
 <i>by</i> Steven Pressfield  
 <br />
+
+
+term  
+: definition
