@@ -34,7 +34,7 @@ A World Without Work: Technology, Automation, and How We Should Respond (2020)
 <i>by</i> Daniel Susskind  
 <br />
 ⁜  
-The Job: The Future of Work in the Modern Era (2018)  
-<i>by</i> Ellen Ruppel Shell  
+Gigged: The End of the Job and the Future of Work (2018)  
+<i>by</i> Sarah Kessler  
 <br />
 
