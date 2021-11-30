@@ -1,15 +1,15 @@
 ---
 layout: post
 category: book
-title: "Ikigai | Héctor García, Francesc Miralles (Kitap)"
+title: "Ikigai | Hector García, Francesc Miralles (Kitap)"
 kitap: "Ikigai: The Japanese Secret to a Long and Happy Life"
 tr: "Ikigai - Japonların Uzun ve Mutlu Yaşam Sırrı"
-yazar: "Héctor García, Francesc Miralles"
+yazar: "Hector García, Francesc Miralles"
 yil: "2017"
 sayfa: "176"
 goodreads: "https://www.goodreads.com/book/show/57670254-ikigai"
 last_modified_at: 2021-12-01
-published: false
+published: true
 description: "Ikigai isimli kitap tüm dünyaya Japonya'dan yayılan ve hep meşgul kalarak mutlu olmak anlamına gelen kavramı inceliyor."
 tag: "lifestyle"
 posted: 2021-12-01
@@ -28,21 +28,17 @@ En mutlu insanlar en çoğunu elde edenler değildir. Vaktini akışı yakalayar
 
 Nassim Nicholas Taleb'in Antifragile: Things That Gain From Disorder isimli kitabında açıkladığı gibi kırılgan kelimesi zarar gördüklerinde güçsüzleşen insanlar, nesneler ve organizasyonlar için kullanılır. Zarar gördüklerinde daha da güçlenen şeylerden bahsetmek için Taleb anti-kırılgan terimini önerir: 'Anti-kırılgan direncin veya sağlamlığın ötesindedir. Direnç şoklara direnirken aynı kalır, anti-kırılgan ise daha iyi hale gelir.' (sayfa 162)
 
-Japonlar, yemek yerken doygunluk hissi oluştuğunda yemek yemeyi bırakıyorlar.
-
-Her gün 1 bardak yeşil çay içiyorlar.
-
-Her gün hareket ediyorlar, düzenli spor yapıyorlar.
+Japonlar, yemek yerken doygunluk hissi oluştuğunda yemek yemeyi bırakıyorlar. Her gün 1 bardak yeşil çay içiyorlar; gün içinde hareket ediyorlar ve düzenli spor yapıyorlar.
 
 Yazarlar, Ikigainin 10 kuralını şöyle belirlemişler:
 
-Aktif kalın, emekli olmayın.
-Ağırdan alın.
-Midenizi tıka basa doldurmayın.
-Çevrenizde iyi arkadaşlarınız olsun.
-Bir sonraki doğum gününüze kadar şekle girin.
-Gülümseyin.
-Doğayla tekrar bağlantı kurun.
-Teşekkürlerinizi şunun.
-Ani yaşayın.
-Ikigainizi takip edin.
+- Aktif kalın, emekli olmayın.
+- Ağırdan alın.
+- Midenizi tıka basa doldurmayın.
+- Çevrenizde iyi arkadaşlarınız olsun.
+- Bir sonraki doğum gününüze kadar şekle girin.
+- Gülümseyin.
+- Doğayla tekrar bağlantı kurun.
+- Teşekkürlerinizi şunun.
+- Anı yaşayın.
+- Ikigainizi takip edin.
