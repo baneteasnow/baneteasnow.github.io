@@ -13,7 +13,7 @@ published: true
 description: "Ikigai isimli kitap tüm dünyaya Japonya'dan yayılan ve hep meşgul kalarak mutlu olmak anlamına gelen kavramı inceliyor."
 tag: "lifestyle"
 posted: 2021-12-01
-image: "/assets/new/ikigai-garcia-miralles.md.jpg"
+image: "/assets/new/ikigai-garcia-miralles.jpg"
 ---
 
 Ikigai, tüm dünyaya Japonya'dan yayılan bir kavram. Kısaca, hep meşgul kalarak mutlu olmak anlamına geliyor. Japonlar uzun yaşam süreleri ile bilinseler de özellikle çok sayıda Okinawalıların 100 yasını geçtiği tespit edilmiş. Uluslararası çoksatan kitaplarında İspanyol yazarlar Héctor García ve Francesc Miralles, bu durumu Ikigai kavramı ile açıklıyor. Her sabah yataktan kalkmak için bir nedeni olan insanların daha uzun ömürlü ve mutlu olduklarına dikkat çekiyorlar.
