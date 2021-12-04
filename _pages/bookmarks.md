@@ -155,6 +155,7 @@ published: true
 | italictype.com/explore/ |
 | readthistwice.com |
 | bookauthority.org |
+| kevinrooke.com |
 | ~~whichbookshouldiread.com~~ |
 | ~~rifflebooks.com~~ |
 | ~~mindthebook.com/~~ |
