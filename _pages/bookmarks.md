@@ -103,6 +103,7 @@ published: true
 | allencheng.com/book-summaries/ |
 | coffeeandbooks.co.uk/category/non-fiction/ |
 | muthusblog.com |
+| tobysinclair.com/book-summaries |
 
 <br />
 
