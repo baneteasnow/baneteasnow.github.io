@@ -1,5 +1,5 @@
 ---
-layour: post
+layout: post
 category: book
 title: "The Miracle Morning | Hal Elrod (Kitap)"
 kitap: "The Miracle Morning - The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)"
