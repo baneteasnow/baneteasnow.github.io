@@ -9,7 +9,7 @@ yil: "2012"
 sayfa: "180"
 goodreads: "https://www.goodreads.com/book/show/17166225-the-miracle-morning"
 last_modified_at: 2021-12-08
-published: false
+published: true
 description: "The Miracle Morning, Hal Elrod'un başarılı bir satış temsilcisi iken genç yaşında başına gelen talihsizlikler sonucu depresyona kadar sürüklenen hikayesini ve bu zorlu süreçten kişisel gelişimine katkı yapacak bir sabah rutini oluşturması ile iyileşmesini anlatıyor."
 tag: "motivasyon"
 posted: 2021-12-08
