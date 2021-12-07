@@ -26,6 +26,6 @@ Hedef başarı seviyesini '10.seviye (Level 10)' olarak isimlendiriyor. Yaratıc
 
 10.seviye ile değerlendirilebilecek alanlar için kitapta şu örnekler yer alıyor: sağlık, mutluluk, finansal durum, ilişkiler, kariyer, maneviyat, ve kişisel gelişim, düşünme yöntemleri, deneyim seviyesi, inanç yapısı, vb.
 
-Hal Elrod, haftada 7 gün sabah saat 5'te uyanmayı ve sonraki bir saati kişisel gelişimi hedefleyen farklı aktivitelerle geçirmeyi öneriyor. Bu aktiviteler arasında, kısa bir egzersiz, günlük yazma, hedefleri görselleştirme, olumlama, meditasyon ve kitap okumak yer alıyor. (SAVERS - Silence/Meditation, Affırmation, Visualizations, Exercise, Reading, Scribing)
+Hal Elrod, haftada 7 gün sabah saat 5'te uyanmayı ve sonraki bir saati kişisel gelişimi hedefleyen farklı aktivitelerle geçirmeyi öneriyor. Bu aktiviteler arasında, kısa bir egzersiz, günlük yazma, hedefleri görselleştirme, olumlama, meditasyon ve kitap okumak yer alıyor. (SAVERS - Silence/Meditation, Affirmation, Visualizations, Exercise, Reading, Scribing)
 
 Sabah mucizesinin esas amacı bir amaçla uyanmak, seçilen aktivitelerle proaktif davranarak kişinin hem kendi iç hem de dış dünyasını geliştirmesini sağlamak.
