@@ -1,0 +1,34 @@
+---
+layout: post
+category: book
+title: "No Filter | Sarah Frier (Kitap)"
+kitap: "No Filter: The Inside Story of Instagram"
+tr: "Filtresiz: Instagram İş Dünyasını, Şöhreti ve Kültürü Nasıl Dönüştürdü"
+yazar: "Sarah Frier"
+yil: "2020"
+sayfa: "352"
+goodreads: "https://www.goodreads.com/en/book/show/50772888-no-filter"
+description: "No Filter, popüler sosyal medya platformu Instagram'ın hikayesini anlatıyor."
+last_modified_at: XXXX-XX-XX
+published: false
+posted: XXXX-XX-XX
+tag: "marka profili"
+image: "/assets/new/no-filter.jpg"
+---
+
+No Filter, popüler sosyal medya platformu Instagram'ın hikayesini anlatıyor. 2010 yılında Kevin Systrom ve Mike Krieger tarafından sadece iPhone'lara özel bir uygulama olarak hayata geçirilen Instagram, kısa sürede popülerlik kazanır, kendi ünlülerini yaratır. Kullanıcılar, uygulamadaki performanslarını takipçilerinin ve takip ettikleri hesapların sayısından anlamaktadır. Ayrıca, paylaştıkları resimlerin topladığı beğeni sayısı da adeta bağımlılık yapıcı etkisi ile bu performansın bir parçası halini alır. Instagram'ın bugün hem ünlülerin, hem influencerların hem de milyonlarca kullanıcının biraraya geldiği dev bir pazarlama ve reklam platformuna dönüşmüş olmasının en büyük nedeni hiç kuşkusuz 2012 yılında Facebook tarafından satın alınmış olması.
+
+Instagram'ın ilk günlerdeki etkisi sade tasarımından ve görsel olarak estetik resimlerin oluşturulmasını sağlayan filtrelerinden gelir. Resimlerin sadece kare formunda yüklenmesi de nostaljik bir etki yaratır. Instagram, yaratıcılıkla beraber estetiği de on plana çıkaran editlenmiş resimler ile bambaşka bir dünyayı gösteren bir platforma dönüşür. Instagram'ı rakiplerinden ayıran en büyük fark her geçen gün artan aktif kullanıcı sayısı ile büyüyen topluluğudur. Sanatçılar, tasarımcılar, fotoğrafçılar ilk günden itibaren düzenli paylaşım yaparlar. Instagram da popüler kullanıcıları belirlediği çeşitli listeler yayınlar. Bu listelerde yer alan pek çok kullanıcının takipçi sayısı kısa sürede artar. 2011 Eylül ayında 10 milyon kullanıcısı olan Instagram artık ünlüler için de vazgeçilmez uygulamalardan biri haline gelmiştir.
+
+Facebook tarafından satın alınmasından sonra pek çok kullanıcı veri güvenliği endişesini dile getirir. Ancak, Instagram'ın yönetiminde halen kurucuları vardır, ilk günkü heyecanları ile Instagram'ı geliştirmeye devam etmektedirler ve sorunlarla bizzat ilgilenmektedirler. İnstagram, bir süre daha bir Facebook ürününe dönüşmeden 'bağımsız' olarak kalmaya devam edecektir. Facebook, Instagram'ı satın almakla giderek kendisine tehdit olmaya başlayan bir uygulamayı bünyesine katmış olur, Instagram da Facebook'un edindiği teknik bilgiden ve piyasadaki gücünden yararlanacaktır. Mark Zuckerberg, ilgi çekici bir uygulama yaratmak kadar kullanım alışkanlığı yaratabilmenin de önemini bilmektedir.
+
+Dünyayı sosyal network aracılığı ile bağlamak amacıyla hareket eden Facebook için uygulamada geçirilen süre ve düzenli kullanım çok önemlidir. Facebook, kullanıcılarına ait en küçük bir hareketi bile kaydeder, bir kullanıcının hangi linke tıkladığı, aradığı ama arkadaş olarak eklemediği kişiler, hangi kelimeleri aradığı, hangi yorumları yazdığı veya yazmaktan vazgeçtiği gibi. Instagram'ın akışında ise ilk başlarda bu analizlerden hiçbiri yoktur.
+
+Instagram, teknolojisinin nasıl çalıştığından çok resimlerin kalitesine önem vermeye devam ederken bir taraftan da ünlü isimler İnstagram üzerinden para kazanmanın çeşitli yollarını aramaktadır. Takipçi sayısı oldukça yüksek olan pek çok isim markalarla anlaşma yapar ve çektikleri resimlerde ürün yerleştirme yolu ile bu markalara yer vermeye başlarlar.
+
+2014 yılına gelindiğinde Instagram artık niş bir topluluğa hitap etmenin çok ötesine geçerek zamanın ruhunu belirleyen renkli bir alışkanlığa dönüşmüştür. Özellikle gençler tarafından yoğun olarak kullanılan Instagram ve benzer platformların yarattığı olumsuz psikolojik etki de artık bir tartışma konusu haline gelmiştir. Pek çok aktivite Instagram'da paylaşılmak üzere düzenlenir olmuştur. Yenilen yemeklerde, verilen doğum günü partilerinde en Instagramlık anlar hemen uygulamada paylaşılmaktadır. Pek çok genç, kendi resmini paylaşmadan önce arkadaşlarının fikrini almaktadır. 'Yeterli' beğeni sayısı almayan resimler de kısa süre sonra silinmektedir. Takipçi satın alma yoluna gidenler olduğu gibi resimlerinin beğeni sayısını da artırmak için para ödemeyi kabul eden pek çok kullanıcı vardır. Tüm dünyada ikonik resimlerin çekildiği noktalar popüler seyahat destinaşyonları haline gelir, açılan kafelerin içi en sık Instagram resimlerinin çekilebilmesi için dizayn edilir.
+Instagram'ın artık para kazanması gerektiğini düşünen Facebook, Syström'a 20 maddelik bir liste verir ve Instagram'da kullanıcıların daha fazla zaman geçirmesi için çeşitli düzenlemeler yapılmasını ister. Bu listede daha sık bildirim gönderilmesi ve daha fonksiyonel bir web sitesi gibi çeşitli başlıklar vardır. O tarihte oldukça popüler bir uygulama olan Snapchat ile rekabet için Instagram 24 saatte kaybolan resim paylaşımını mümkün kılan 'stories' özelliğini devreye alır.
+
+Facebook'un algoritmaları her kullanıcıya farklı bir akış gösterdiği için her kullanıcı birbirinden farklı, kendi kullanımlarına göre özelleştirilmiş içerik ile karşılaşmaktadır. 2016 yılındaki ABD başkanlık seçimlerinde Facebook'un kullanıcıları sahte haberlerle yanlış yönlendirdiği ve bu şekilde seçimin sonucuna etki edildiği iddiası ve sonrasında gelen yargılama sürecinde sosyal medya uygulamalarının para kazanmak uğruna kullanıcıları nasıl manipüle ettikleri açıkça ortaya çıkar. Bu arada, Instagram'da zorbalık oldukça yaygın hale gelmiştir. Instagram'da ilk günlerdeki kaliteli içerik üreten kullanıcı kitlesi yerine acımasız yorumlar yapan kullanıcıların sayısının giderek artması otomatik içerik ve yorum denetleme sistemlerinin devreye alınmasını zorunlu kılar.
+
+No Filter, 2018 yılında Systrom ve Krieger'in Instagram çalışanları ile birlikte düzenledikleri bir toplantıda firmadan ayrılacaklarını duyurmaları ile son buluyor. Kitaba göre, kurucuları son güne kadar Instagram'i estetik paylaşımların yapıldığı bir platform olarak tutma gayreti göstermiş, ancak Zuckerberg'in bakış açısı ile bu amaçlarının uyuşmadığı noktada Instagram'da daha fazla kalmak istememişlerdir.
