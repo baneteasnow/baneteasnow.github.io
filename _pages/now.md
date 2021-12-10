@@ -1,13 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-12-09
+last_modified_at: 2021-12-10
 published: true
 ---
-  
 ⁜  
-Why Good People Can't Get Jobs: The Skills Gap and What Companies Can Do About It (2012)  
-<i>by</i> Peter Cappelli  
+Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones (2018)  
+<i>by</i> James Clear  
 <br />
 ⁜  
   
