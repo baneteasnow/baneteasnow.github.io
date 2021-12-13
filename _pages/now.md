@@ -5,8 +5,9 @@ last_modified_at: 2021-12-10
 published: true
 ---
 ⁜  
-Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones (2018)  
-<i>by</i> James Clear  
+The Laws of Simplicity: Design, Technology, Business, Life  
+(Simplicity: Design, Technology, Business, Life) (2006)  
+<i>by</i> John Maeda    
 <br />
 ⁜  
   
