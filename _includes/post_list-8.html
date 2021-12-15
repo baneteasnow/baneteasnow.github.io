@@ -25,6 +25,26 @@ details > p {
   details[open] summary {
   display: none;
 }
+  .button {
+  background-color: #fff;
+  border: solid 1px #ddd;
+  padding: 15px 25px;
+  text-align: center;
+  color: #404040;
+  font-style: italic;
+  text-decoration: none; 
+  display: inline-block;
+  margin: 5px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.button:hover {
+  color: #777 !important;
+  text-decoration: underline !important; 
+  -webkit-text-decoration-color: rgba(255, 255, 102, 0.5) !important; 
+  text-decoration-color: rgba(255, 255, 102, 0.5) !important; 
+  text-decoration-thickness: 6px !important;  
 </style>
 
 
@@ -75,7 +95,7 @@ aralık
 {% endfor %}
   <br />
 {% endfor %}
-<center><div class="cat2" style="color: #404040"><i>devamı</i></div></center>
+<center><div class="button">devamı</div></center>
   </summary>
   <p>  
 {% assign postsByYear = site.posts | where_exp: "post", "post.category != 'essay'" | group_by_exp:"post", "post.date | date: '%Y'" %}
