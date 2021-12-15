@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-12-10
+last_modified_at: 2021-12-16
 published: true
 ---
 ⁜  
-The Laws of Simplicity: Design, Technology, Business, Life (2006)  
-<i>by</i> John Maeda  
+The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race (2021)  
+<i>by</i> Walter Isaacson  
 <br />
 ⁜  
   
