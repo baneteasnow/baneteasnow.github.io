@@ -6,10 +6,10 @@ kitap: "What I Know For Sure"
 tr: "Artık Biliyorum"
 yazar: "Oprah Winfrey"
 yil: "2014"
-sayfa: "240 sayfa"
+sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/21531503-what-i-know-for-sure"
 last_modified_at: 2021-12-22 
-published: true
+published: true  
 description: "What I Know For Sure, Oprah Winfrey'in kendi dergisi O (The Oprah Magazine)'da aynı isimle yayınlanan köşesinde yer alan yazıların bir derlemesinden oluşuyor."  
 tag: "motivasyon"
 posted: 2021-12-22
