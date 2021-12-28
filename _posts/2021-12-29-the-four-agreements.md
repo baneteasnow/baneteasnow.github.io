@@ -9,7 +9,7 @@ yil: "2018"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/6596.The_Four_Agreements"
 last_modified_at: 2021-12-29
-published: false
+published: true
 description: "Dört Anlaşma, genel olarak bir kişinin kendini kısıtlayan inançlarının bir süre sonra onun hayatını nasıl sınırlayıcı olduğunu ve bu kısıtları aşmanın her biri bir öğreti niteliğinde olan dört anlaşmanın uygulanmasıyla mümkün olduğundan bahsediyor."
 tag: "felsefe"
 posted: 2021-12-29
