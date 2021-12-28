@@ -77,7 +77,6 @@ aralık
 {% endfor %}
 <center><div class="cat2" style="color: #404040"><i>devamı</i></div></center>
 <br />
-<img src="/assets/nonfictionbooksxyz.png" alt="nonfictionbooks.xyz" title="nonfictionbooks.xyz" width="32" height="32">
   </summary>
   <p>  
 {% assign postsByYear = site.posts | where_exp: "post", "post.category != 'essay'" | group_by_exp:"post", "post.date | date: '%Y'" %}
