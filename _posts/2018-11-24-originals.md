@@ -33,33 +33,33 @@ Orijinalliği geliştirmek ve yaymak için kitabın sonunda bazı öneriler de y
   
 ##### [Bireysel Eylemler: Orijinal Fikirleri Üretmek ve Tanıyabilmek](#uretmek)  
 {: #uretmek }
-1. Mutlak değil, duruma göre düşünün.  
-2. Ürettiğiniz fikirlerin sayısını üçe katlayın.  
-3. Kendinizi yabancı bir ortamın içine bırakın.  
-4. Stratejik ertelemeler yapın.  
-5. Beyin fırtınasını bırakıp beyin yazımına başlayın.  
+1\. Mutlak değil, duruma göre düşünün.  
+2\. Ürettiğiniz fikirlerin sayısını üçe katlayın.  
+3\. Kendinizi yabancı bir ortamın içine bırakın.  
+4\. Stratejik ertelemeler yapın.  
+5\. Beyin fırtınasını bırakıp beyin yazımına başlayın.  
   
 ##### [Bireysel Eylemler: Orijinal Fikirleri Dile Getirmek ve Savunmak](#savunmak)
 {: #savunmak }
-6. Fikirlerinizi daha tanıdık hale getirin.  
-7. Fikirlerinizi yeni bir kitleyle buluşturun.  
-8. Dikkatinizi fikrinizi desteklememe nedenlerine yoğunlaştırın.  
-9. En cüretkar fikrinizi bir Truva atına bindirin, sonra açığa çıkarmak için doğru anı bekleyin.  
-10. İnsanların kişiliklerine, değerlerine hitap edin.  
+6\. Fikirlerinizi daha tanıdık hale getirin.  
+7\. Fikirlerinizi yeni bir kitleyle buluşturun.  
+8\. Dikkatinizi fikrinizi desteklememe nedenlerine yoğunlaştırın.  
+9\. En cüretkar fikrinizi bir Truva atına bindirin, sonra açığa çıkarmak için doğru anı bekleyin.  
+10\. İnsanların kişiliklerine, değerlerine hitap edin.  
   
 ##### [Lider Eylemleri: Orijinal Fikir Kıvılcımları](#fikir)
 {: #fikir }
-11. Bir yenilik turnuvası düzenleyin.  
-12. Şirketi batırın.  
-13. Farklı departmanlardan çalışanları fikirlerini sunmaya davet edin.  
-14. Zıtlıklar günü düzenleyin.  
-15. Popüler olmayan fikirleri savunmasıyla bilinen insanlardan yenilikçi görev gücü oluşturun.  
+11\. Bir yenilik turnuvası düzenleyin.  
+12\. Şirketi batırın.  
+13\. Farklı departmanlardan çalışanları fikirlerini sunmaya davet edin.  
+14\. Zıtlıklar günü düzenleyin.  
+15\. Popüler olmayan fikirleri savunmasıyla bilinen insanlardan yenilikçi görev gücü oluşturun.  
   
 ##### [Lider Eylemleri: Orijinaline Dayalı Kültürler İnşa Etmek](#kultur)  
 {: #kultur }
-16. İnsanları kültürünüze uyum sağlamaları için değil, kültüre katkıda bulunmaları için ise alın.  
-17. Çıkış görüşmelerinden giriş görüşmelerine geçin.  
-18. Çuvaldızı kendinize batırın.  
-19. 'Beğenme', 'sevme' ve 'nefret' gibi sözcükleri yasaklayın.  
-20. Değişim sürecini başlatmak için, yükselen yıldızlara meydan okuyun.  
+16\. İnsanları kültürünüze uyum sağlamaları için değil, kültüre katkıda bulunmaları için ise alın.  
+17\. Çıkış görüşmelerinden giriş görüşmelerine geçin.  
+18\. Çuvaldızı kendinize batırın.  
+19\. 'Beğenme', 'sevme' ve 'nefret' gibi sözcükleri yasaklayın.  
+20\. Değişim sürecini başlatmak için, yükselen yıldızlara meydan okuyun.  
   
