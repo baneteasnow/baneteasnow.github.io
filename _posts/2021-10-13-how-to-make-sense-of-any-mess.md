@@ -22,13 +22,13 @@ Bilgi mimarisi, daha çok tasarım, web dizayn, dokümantasyon gibi alanlarda ye
 
 Abby Covert kitapta, herhangi bir bilgi mimarisi projesi için 7 aşamalı bir süreç öneriyor. Bu proje yaşamın herhangi bir alanına yönelik olabilir. Kitabın ilerleyen sayfalarında bu adımlardan her biri için pratiğe dönük uygulamalar, araçlar ve deneyimler ile açıklamalara yer veriyor olsa da, kitabın amacı gereği teknik bir çerçeve çizmekten kaçınıyor.
 
-1. Karmaşayı tanımla
-2. Niyetini belirle
-3. Gerçekle yüzleş
-4. Bir yön belirle
-5. Aradaki farkı gör
-6. Yapı ile oyna
-7. Uyum göstermeye hazırlan
+1\. Karmaşayı tanımla  
+2\. Niyetini belirle  
+3\. Gerçekle yüzleş  
+4\. Bir yön belirle  
+5\. Aradaki farkı gör  
+6\. Yapı ile oyna  
+7\. Uyum göstermeye hazırlan  
 
 Bilgi, ipucu verir. Bizler, karşı taraf için bir yapıyı anlamlı hale getirmek için uğraşsak da, esas iş kullanıcıya düşer. Kullanıcı karşısına çıkan yapıdan gerekli bilgiyi almalıdır, yoksa harcanan emek ve zaman boşa gider. Bundan dolayıdır ki, bir amaçla başlamak, hedef kitleyi belirlemek çok önemlidir. 'Ne' sorusu, 'nasıl'dan önce gelmelidir.
 
