@@ -30,13 +30,13 @@ Eğer size ilgi gösterilmesini istiyorsanız, ortaya ilginç şeyler koyabilmel
 
 Kitaptaki başlıklar şöyle:
 
-1. Dahi olmanıza gerek yok
-2. Sürece odaklanın, ürüne değil
-3. Her gün küçük bir şey paylaşın
-4. Meraklar dolabınızın kapağını açın
-5. İyi hikaye anlatın
-6. Ne biliyorsanız onu öğretin
-7. Kendinizi ise yaramaz birine dönüştürmeyin
-8. Eleştiri kabul etmeyi öğrenin
-9. Satış yapın
-10. Israrcı olun
+1\. Dahi olmanıza gerek yok  
+2\. Sürece odaklanın, ürüne değil  
+3\. Her gün küçük bir şey paylaşın  
+4\. Meraklar dolabınızın kapağını açın  
+5\. İyi hikaye anlatın  
+6\. Ne biliyorsanız onu öğretin  
+7\. Kendinizi ise yaramaz birine dönüştürmeyin  
+8\. Eleştiri kabul etmeyi öğrenin  
+9\. Satış yapın  
+10\. Israrcı olun  
