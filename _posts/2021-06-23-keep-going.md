@@ -30,15 +30,15 @@ Bir diğer önemli nokta da, bir sanatçının kendisi ile aynı perspektife sah
 
 Kitapta yer alan başlıklar şöyle
 
-1. Her gün yeniden başlayın
-2. Size neşe veren bir nokta oluşturun
-3. Unvana takılmaksızın işi yapın
-4. Kabiliyetinizi besleyin
-5. Olağan olana dikkat verdiğinizde olağandışı olana ulaşırsınız
-6. Sanat canavarlarını kullanın
-7. Fikrinizi değiştirmekte serbestsiniz
-8. Kuşkuya düştüğünüzde, toparlanın
-9. Zalimler taze havayı sevmezler
-10. Bahçenize yeni bitkiler ekin
+1\. Her gün yeniden başlayın  
+2\. Size neşe veren bir nokta oluşturun  
+3\. Unvana takılmaksızın işi yapın  
+4\. Kabiliyetinizi besleyin  
+5\. Olağan olana dikkat verdiğinizde olağandışı olana ulaşırsınız  
+6\. Sanat canavarlarını kullanın  
+7\. Fikrinizi değiştirmekte serbestsiniz  
+8\. Kuşkuya düştüğünüzde, toparlanın  
+9\. Zalimler taze havayı sevmezler  
+10\. Bahçenize yeni bitkiler ekin  
 
 <!-- category: [book, reread] rereading: '#yeniden' -->
