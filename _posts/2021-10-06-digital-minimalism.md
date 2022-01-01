@@ -32,8 +32,8 @@ Dijital Minimalizme geçiş için Cal Newport, zorunlu olmayan teknolojilerden u
 
 Cal Newport, Dijital Minimalizmin 3 temel unsurunu şöyle sıralıyor:
 
-1. Karmaşıklık maliyetlidir.bir şeylerşeyler kaçırmamak uğruna sürekli takip edilen teknolojik platformlar maliyet yaratır.
-2. Optimizasyon önemlidir. Yeni bir teknolojiyi günlük yaşama alırken bu teknolojinin nasıl kullanılacağı da hesap edilmelidir.
-3. Niyet tatmin yaratır. Dijital minimalistler, yeni bir teknolojiyi hayatlarına kabul ederken bu teknolojinin kendileri için gerçekte neye hizmet ettiğini sorgularlar.
+1\. Karmaşıklık maliyetlidir.bir şeylerşeyler kaçırmamak uğruna sürekli takip edilen teknolojik platformlar maliyet yaratır.
+2\. Optimizasyon önemlidir. Yeni bir teknolojiyi günlük yaşama alırken bu teknolojinin nasıl kullanılacağı da hesap edilmelidir.
+3\. Niyet tatmin yaratır. Dijital minimalistler, yeni bir teknolojiyi hayatlarına kabul ederken bu teknolojinin kendileri için gerçekte neye hizmet ettiğini sorgularlar.
 
 Cal Newport, bu kitabında hem dijital minimalizme geçiş sürecine dair önerilerini aktarıyor hem de ekran bağımlılığından kaçınarak teknolojinin olumsuz etkilerinden korunmaya dair ilkeleri paylaşıyor.
