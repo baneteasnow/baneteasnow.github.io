@@ -26,15 +26,15 @@ Uzun kuyruk teorisi şöyle özetlenebilir:
   
 Uzun Kuyruk çağının 6 konusu aşağıdadır (sayfa 61-62):  
 
-1. Hemen hemen bütün pazarlarda, hitlerden çok daha fazla niş mali vardır.  
-2. Bu nişlere ulaşma maliyeti şimdi çarpıcı biçimde düşmektedir. Özellikle internet sayesinde, son derece yüksek çeşitlilikte ürünler sunulmaktadır.  
-3. Tüketicilerin kendi özel ihtiyaçlarına ve ilgi alanlarına uygun nişleri bulmaları çeşitli filtrelemelerle ve öneri sistemleri ile kolaylaştırılmalıdır.  
-4. Geniş bir çeşitlilik ve bunu tasnif edecek filtreler ile, talep eğrisi yassılaşır.  
-5. Bütün nişler birbirine eklenir, o kadar çok niş vardır ki, topluca hitlerle yarışabilecek bir pazar oluştururlar.  
-6. Bütün bunların gerçekleşmesinin ardından, dağıtım darboğazları, enformasyon eksikliği ve raf alanı kısıtlı tercih olanağından etkilenmeden, talebin doğal biçimi ortaya çıkar.  
+1\. Hemen hemen bütün pazarlarda, hitlerden çok daha fazla niş mali vardır.  
+2\. Bu nişlere ulaşma maliyeti şimdi çarpıcı biçimde düşmektedir. Özellikle internet sayesinde, son derece yüksek çeşitlilikte ürünler sunulmaktadır.   
+3\. Tüketicilerin kendi özel ihtiyaçlarına ve ilgi alanlarına uygun nişleri bulmaları çeşitli filtrelemelerle ve öneri sistemleri ile kolaylaştırılmalıdır.  
+4\. Geniş bir çeşitlilik ve bunu tasnif edecek filtreler ile, talep eğrisi yassılaşır.  
+5\. Bütün nişler birbirine eklenir, o kadar çok niş vardır ki, topluca hitlerle yarışabilecek bir pazar oluştururlar.  
+6\. Bütün bunların gerçekleşmesinin ardından, dağıtım darboğazları, enformasyon eksikliği ve raf alanı kısıtlı tercih olanağından etkilenmeden, talebin doğal biçimi ortaya çıkar.  
   
 Uzun Kuyruğun 3 kuvveti vardır:  
 
-1. Kuvvet: Üretim araçlarının demokratikleşmesi - Sonuç: Kuyruğu uzatan daha çok şey  
-2. Kuvvet: Dağıtım araçlarının demokratikleşmesi - Sonuç: Kuyruğu besleyecek şekilde nişlere daha çok erişim  
-3. Kuvvet: Arz talep bağlantısı - Sonuç: İşin hitlerden nişlere kayması  
+1\. Kuvvet: Üretim araçlarının demokratikleşmesi - Sonuç: Kuyruğu uzatan daha çok şey  
+2\. Kuvvet: Dağıtım araçlarının demokratikleşmesi - Sonuç: Kuyruğu besleyecek şekilde nişlere daha çok erişim  
+3\. Kuvvet: Arz talep bağlantısı - Sonuç: İşin hitlerden nişlere kayması  
