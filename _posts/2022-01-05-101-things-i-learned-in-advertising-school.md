@@ -25,4 +25,4 @@ Reklam sektöründe büyük bütçeler söz konusu olsa da, bu sektör aslında 
 "Reklamlar, söz konusu ürünleri pozitif içerikle sattırır."  
 "İnsanlar söylediklerinizi ya da yaptıklarınızı unutur, ama onlara neler hissettirdiğinizi asla unutmaz. - *Maya Angelou*"  
 
-Reklamlarla ilgili kısa ipuçları ileten kitapta, ayrıca iyi bir reklamda bulunması gereken nitelikler de yer alıyor.
+Reklamlarla ilgili kısa ipuçları ileten kitapta, ayrıca iyi bir reklamda bulunması gereken nitelikler de yer alıyor. 
