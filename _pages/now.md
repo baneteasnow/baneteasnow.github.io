@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2021-12-28
+last_modified_at: 2022-01-04
 published: true
 ---
 ⁜  
-The Almanack of Naval Ravikant: A Guide to Wealth and Happiness (2020)  
-<i>by</i> Eric Jorgenson  
+The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race (2021)  
+<i>by</i> Walter Isaacson  
 <br />
 ⁜  
   
