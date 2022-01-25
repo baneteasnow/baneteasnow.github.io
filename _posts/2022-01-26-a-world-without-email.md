@@ -9,7 +9,7 @@ yil: "2021"
 sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/54326146-a-world-without-email"
 last_modified_at: 2022-01-26
-published: false
+published: true
 description: "Cal Newport, A World Without Email isimli kitabında dijital teknolojilerin yaygınlaşması ile birlikte başta email olmak üzere Slack, Microsoft Teams gibi iş hayatında çokça kullanılan uygulamaların üretkenlik üzerindeki etkilerini tartışıyor."
 tag: "üretkenlik ve teknoloji"
 posted: 2022-01-26
