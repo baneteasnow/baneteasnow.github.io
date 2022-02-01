@@ -9,7 +9,7 @@ yil: "2021"
 sayfa: "257"
 goodreads: "https://www.goodreads.com/book/show/56668328-the-bomber-mafia"
 last_modified_at: 2022-02-02
-published: false
+published: true
 description: "Malcolm Gladwell, The Bomber Mafia'da bu kez tarihten bir dönem seçiyor ve okuyucuyu İkinci Dünya Savaşı günlerine götürüyor."
 tag: "tarih"
 posted: 2022-02-02
