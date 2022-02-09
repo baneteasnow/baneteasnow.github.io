@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2022-01-04
+last_modified_at: 2022-02-09
 published: true
 ---
 ⁜  
-The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race (2021)  
-<i>by</i> Walter Isaacson  
+Göçmek Ne Garip Şey Anne! - Gidenlerin Hikayesi (2020)  
+<i>by</i> Filiz Yavuz  
 <br />
 ⁜  
   
