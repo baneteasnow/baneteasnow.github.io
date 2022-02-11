@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2022-02-09
+last_modified_at: 2022-02-11
 published: true
 ---
 ⁜  
-Göçmek Ne Garip Şey Anne! - Gidenlerin Hikayesi (2020)  
-<i>by</i> Filiz Yavuz  
+Feng Shui - Yaşamla Uyum ve Denge Sanatı (2020)  
+<i>by</i> Miraç Atuna  
 <br />
 ⁜  
   
