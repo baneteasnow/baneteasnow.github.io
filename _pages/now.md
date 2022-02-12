@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2022-02-11
+last_modified_at: 2022-02-12
 published: true
 ---
 ⁜  
-Feng Shui - Yaşamla Uyum ve Denge Sanatı (1999)  
-<i>by</i> Miraç Atuna  
+İyi Aile Yoktur (2021)  
+<i>by</i> Nıhan Kaya  
 <br />
 ⁜  
   
