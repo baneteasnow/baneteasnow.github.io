@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2022-02-16
+last_modified_at: 2022-02-23  
 published: true
 ---
 ⁜  
-Yaşamınızda Feng Shui (2021)  
-<i>by</i> Karen Kingston  
+Feng Shui - Mekan enerjınızı değiştirerek yaşamınızı güzelleştirin (2017)  
+<i>by</i> Zeynep Akçay    
 <br />
 ⁜  
   
