@@ -9,7 +9,7 @@ yil: "2008"
 sayfa: "324"  
 goodreads: "https://www.goodreads.com/book/show/117671.Trading_Up"  
 last_modified_at: 2022-02-23 
-published: false  
+published: true  
 description: "Tüketici davranışlarını ve psikolojisini ele alan Trading Up bir pazarlama kitabı. Kitap, kapağında da alt başlık olarak yer alan ‘Tüketiciler neden lüks ürün ister ve şirketler bu ürünleri nasıl yaratır?’ sorusuna ABD odaklı olarak cevap arıyor."
 tag: "tüketici davranışları"
 posted: 2022-02-23
