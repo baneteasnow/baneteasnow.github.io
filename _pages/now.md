@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2022-02-23  
+last_modified_at: 2022-02-25  
 published: true
 ---
 ⁜  
-Feng Shui - Mekan enerjınızı değiştirerek yaşamınızı güzelleştirin (2017)  
-<i>by</i> Zeynep Akçay    
+Hayvan Hakları & Veganizm (2013)  
+<i>by</i> Kamil Savaş (Editör)  
 <br />
 ⁜  
   
