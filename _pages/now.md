@@ -1,12 +1,12 @@
 ---
 layout: page
 title: şimdi okuduğum kitap
-last_modified_at: 2022-02-25  
+last_modified_at: 2022-02-28  
 published: true
 ---
 ⁜  
-Hayvan Hakları & Veganizm (2013)  
-<i>by</i> Kamil Savaş (Editör)  
+Hayatı Yeniden Keşfedin - Daha cesur, üretken ve doyumlu bir hayat için gerekli araçlar (2021)  
+<i>by</i> Jeffrey E. Young, Janet S. Klosko  
 <br />
 ⁜  
   
