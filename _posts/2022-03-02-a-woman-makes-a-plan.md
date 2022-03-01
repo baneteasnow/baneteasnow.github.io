@@ -9,7 +9,7 @@ yil: "2019"
 sayfa: "221"
 goodreads: "https://www.goodreads.com/book/show/51017356-a-woman-makes-a-plan"
 last_modified_at: 2022-03-02
-published: false  
+published: true  
 description: "Başarılı bir model ve diyetisyen olan Maye Musk, 50 yılı aşkın çok yönlü bir kariyere sahip. Bir Kadın Plan Yaparsa isimli otobiyografisinde kendi hayatından kesitler sunuyor ve sayısız kere nasıl baştan başladığını anlatıyor."
 tag: "biyografi"
 posted: 2022-03-02
