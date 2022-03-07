@@ -1,8 +1,8 @@
 ---
-layout: page
-title: şimdi okuduğum kitap
-last_modified_at: 2022-02-28  
-published: true
+layout: page  
+title: şimdi okuduğum kitap  
+last_modified_at: 2022-03-07   
+published: true  
 ---
 ⁜  
 Yalnızlığın Felsefesi (2021)  
