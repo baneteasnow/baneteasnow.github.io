@@ -9,7 +9,7 @@ yil: "2015"
 sayfa: "80"
 goodreads: "https://www.goodreads.com/book/show/17804586-does-the-richness-of-the-few-benefit-us-all"
 last_modified_at: 2022-03-16
-published: false
+published: true
 description: "Sosyolog Zygmunt Bauman, 'Azınlığın Zenginliği Hepimizin Çıkarına mıdır?' isimli kitabında, dünyada çoğu kişinin cevabını birebir deneyimleyerek yaşadığı bir soruyu işliyor; zenginlerle fakirler arasındaki gelir farkı ve mevcuttaki toplumsal eşitsizliğin giderek artması."
 posted: 2022-03-16
 tag: "felsefe"
