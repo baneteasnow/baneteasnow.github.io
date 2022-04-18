@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: ""
+tag: "minimalizm"
 image: "/assets/new/the-laws-of-simplicity.jpg"
 ---
 
