@@ -12,6 +12,6 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "vegan"
+tag: "vegan"
 image: "/assets/new/hayvan-haklari-ve-veganizm.jpg"
 ---
