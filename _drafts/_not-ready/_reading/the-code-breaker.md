@@ -1,19 +1,19 @@
 ---
 layout: post
 category: book
-title: "The Code Breaker | Walter Isaacson (Kitap)"
-kitap: "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race"
+title: "İnsan Kaynakları Yönetiminde NLP | Elvan Acar (Kitap)"
+kitap: "İnsan Kaynakları Yönetiminde NLP"
 tr: "-"
-yazar: "Walter Isaacson"
-yil: "2021"
-sayfa: "536"
+yazar: "Elvan Acar"
+yil: "2006"
+sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/54968118-the-code-breaker"
 description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: ""
-image: "/assets/new/the-code-breaker.jpg"
+-tag: "yönetim"
+image: "/assets/new/insan-kaynaklari-yonetiminde-nlp.jpg"
 ---
 
 
