@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "psikoloji"
+tag: "psikoloji"
 image: "/assets/new/iyi-aile-yoktur.jpg"
 ---
 
