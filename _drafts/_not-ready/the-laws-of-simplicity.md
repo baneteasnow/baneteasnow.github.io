@@ -16,3 +16,4 @@ tag: "minimalizm"
 image: "/assets/new/the-laws-of-simplicity.jpg"
 ---
 
+
