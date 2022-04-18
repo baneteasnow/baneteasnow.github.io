@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "lifestyle"
+tag: "lifestyle"
 image: "/assets/new/feng-shui-yasamla-uyum-ve-denge-sanati.jpg"
 ---
 
