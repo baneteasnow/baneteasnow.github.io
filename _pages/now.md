@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-03-14
+last_modified_at: 2022-04-18
 published: true  
 ---
 ⁜  
-Bir Terapistin Gizemli Anıları (2015)  
-<i>by</i> Ülker Uzun Polat  
+İnsan Kaynakları Yönetiminde NLP (2006)  
+<i>by</i> Elvan Acar    
 <br />
 ⁜  
   
