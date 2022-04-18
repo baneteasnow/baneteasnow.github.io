@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: ""
+-tag: "sosyoloji"
 image: "/assets/new/why-good-people-cant-get-jobs.jpg"
 ---
 
