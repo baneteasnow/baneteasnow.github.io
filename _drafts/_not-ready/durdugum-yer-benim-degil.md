@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "sosyolojı"
+tag: "sosyolojı"
 image: "/assets/new/durdugum-yer-benim-degil.jpg"
 ---
 
