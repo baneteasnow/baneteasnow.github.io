@@ -12,6 +12,6 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "felsefe"
+tag: "felsefe"
 image: "/assets/new/the-almanack-of-naval-ravikant.jpg"
 ---
