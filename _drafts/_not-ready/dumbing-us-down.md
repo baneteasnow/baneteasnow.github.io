@@ -12,7 +12,7 @@ description: ""
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
--tag: "sosyoloji"
+tag: "sosyoloji"
 image: "/assets/new/dumbing-us-down.jpg"
 ---
 
