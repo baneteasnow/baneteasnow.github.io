@@ -13,7 +13,7 @@ last_modified_at: 2022-04-20
 published: true
 posted: 2022-04-20
 tag: "lifestyle"
-image: "/assets/new/what-talk-about-when-i-talk-about-running.jpg"
+image: "/assets/new/what-i-talk-about-when-i-talk-about-running.jpg"
 ---
 
 Japon roman ve kısa öykü yazarı Haruki Murakami, anı türünde kaleme aldığı Koşmasaydım Yazamazdım isimli kitabında 1982 yılından beri süregelen koşu serüvenini anlatıyor. Koşu yapmayı neden sevdiğini ve aslında koşunun hayatında ne büyük yer tuttuğunu, kendisini için ne kadar önemli olduğunu paylaşıyor. Yer yer, roman yazarları ile uzun mesafe koşucuların özelliklerini de kıyaslıyor.
