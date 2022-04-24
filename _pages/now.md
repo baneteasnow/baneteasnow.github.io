@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-04-18
+last_modified_at: 2022-04-24
 published: true  
 ---
 ⁜  
-İnsan Kaynakları Yönetiminde NLP (2006)  
-<i>by</i> Elvan Acar    
+Bir Vegan İle Evlendim (2020)  
+<i>by</i> Fausto Brizzi    
 <br />
 ⁜  
   
