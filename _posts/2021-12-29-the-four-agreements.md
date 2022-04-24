@@ -21,4 +21,4 @@ Don Miguel Ruiz'in eski Toltek Bilgelik öğretilerini anlattığı Dört Anlaş
 1\. Anlaşma: Kullandığın Sözcükleri Özenle Seç  
 2\. Anlaşma: Hiçbir Şeyi Kişisel Algılama  
 3\. Anlaşma: Varsayımda Bulunma  
-4\. Anlaşma: Daima Yapabildiğinin  
+4\. Anlaşma: Daima Yapabildiğinin En İyisini Yap  
