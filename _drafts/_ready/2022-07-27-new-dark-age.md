@@ -12,6 +12,7 @@ description: "James Bridle, Yeni Karanlık Çağ isimli kitabinda ilk bakışta 
 last_modified_at: 2022-07-27
 published: false
 posted: 2022-07-27
+tag: "teknoloji"
 image: "/assets/new/new-dark-age.jpg"
 ---
 
