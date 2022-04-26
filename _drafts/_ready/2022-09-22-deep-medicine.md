@@ -12,7 +12,7 @@ description: "Eric Topol, Deep Medicine isimli kitabında yapay zekanın gündel
 last_modified_at: 2022-09-28
 published: false
 posted: 2022-09-28
-tag: ""
+tag: "yapay zeka"
 image: "/assets/new/deep-medicine.jpg"
 ---
 
