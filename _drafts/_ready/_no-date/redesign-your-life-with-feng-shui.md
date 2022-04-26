@@ -3,12 +3,12 @@ layout: post
 category: book
 title: "Redesign Your Life with Feng Shui  | Yaron Zafran (Kitap)"
 kitap: "Redesign Your Life with Feng Shui"
-tr: "Feng Shui İle Yaşamını Yeniden Yarat"
+tr: "Feng Shui ile Yaşamını Yeniden Yarat"
 yazar: "Yaron Zafran"
 yil: "2003"
 sayfa: "150"
 goodreads: "https://www.goodreads.com/book/show/42421947-feng-shui-ile-ya-am-n-yeniden-yarat"
-description: "Feng Shui İle Yaşamını Yeniden Yarat isimli kitabında Yaron Zafran, Feng Shui prensiplerini kendisinin geliştirdiği 'Chi Enerjisini Yönlendirmenin Estetik Modeli'ne dayanarak açıklıyor."
+description: "Feng Shui ile Yaşamını Yeniden Yarat isimli kitabında Yaron Zafran, Feng Shui prensiplerini kendisinin geliştirdiği 'Chi Enerjisini Yönlendirmenin Estetik Modeli'ne dayanarak açıklıyor."
 last_modified_at: XXXX-XX-XX
 published: false
 posted: XXXX-XX-XX
@@ -16,7 +16,7 @@ tag: "lifestyle"
 image: "/assets/new/redesign-your-life-with-feng-shui.jpg"
 ---
 
-Yaron Zafran, Feng Shui İle Yaşamını Yeniden Yarat isimli kitapta kendisinin geliştirdiği Feng Shui düzenlemelerinin göze hoş görünmesi prensibine dayanan 'Chi Enerjisini Yönlendirmenin Estetik Modeli'ni ele alıyor. 
+Yaron Zafran, Feng Shui ile Yaşamını Yeniden Yarat isimli kitapta kendisinin geliştirdiği Feng Shui düzenlemelerinin göze hoş görünmesi prensibine dayanan 'Chi Enerjisini Yönlendirmenin Estetik Modeli'ni ele alıyor. 
 
 Her canlıda bulunan Chi yaşam kuvvetidir, uyumlu bir yaşam için mekandaki Chi'yi dengelemek gerekir. (sayfa 23) Düzey, akış ve nitelik Chi'nin üç farklı boyutudur. 
 
@@ -37,4 +37,4 @@ sayfa 56
 - Kuzeybatıda destek ve yolculuk bölümü yer alır. İlgili elementi metaldir.
 - Merkezde 'Tai Chi' yer alır. Bu kısım, Chi'nin kendini yeniden toparlaması ve güçlenmesi için boş bırakılmalıdır.
 
-Feng Shui İle Yaşamını Yeniden Yarat, Feng Shui'nin temel kavramlarını çeşitli pratik uygulama önerileri ile birlikte inceliyor.
+Feng Shui ile Yaşamını Yeniden Yarat, Feng Shui'nin temel kavramlarını çeşitli pratik uygulama önerileri ile birlikte inceliyor.
