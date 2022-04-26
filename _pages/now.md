@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-04-24
+last_modified_at: 2022-04-26
 published: true  
 ---
 ⁜  
-Bir Vegan İle Evlendim (2020)  
-<i>by</i> Fausto Brizzi    
+The Paradox of Choice: Why More Is Less (2007)  
+<i>by</i> Barry Schwartz      
 <br />
 ⁜  
   
