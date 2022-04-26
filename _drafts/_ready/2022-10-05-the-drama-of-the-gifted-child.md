@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "The Drama of the Gifted Child | Alice Miller(Kitap)"
+title: "The Drama of the Gifted Child | Alice Miller (Kitap)"
 kitap: "The Drama of the Gifted Child: The Search for the True Self"
 tr: "Yetenekli Çocuğun Dramı"
 yazar: "Alice Miller"
