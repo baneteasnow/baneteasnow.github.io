@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Soulful Simplicity | (Kitap)"
+title: "Soulful Simplicity | Courtney Carver (Kitap)"
 kitap: "Soulful Simplicity: How Living with Less Can Lead to So Much More"
 tr: "-"
 yazar: "Courtney Carver"
