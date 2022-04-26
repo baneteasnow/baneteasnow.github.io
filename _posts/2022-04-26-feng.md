@@ -23,7 +23,7 @@ Her canlıda bulunan Chi yaşam kuvvetidir, uyumlu bir yaşam için mekandaki Ch
 Feng Shui'nin beş ana unsuru su, ağaç, ateş, toprak ve metaldir. Bu unsurlardan her biri, bir diğerini yaratarak 'Yaratılış Döngüsü'nü oluşturur. Su ağacın susuzluğunu giderir; Ağaç ateş için yakıttır, Ateşin külü toprak olur; Toprağın içinde metal oluşur; Metal mineraller şeklinde içme suyunu zenginleştirir. (sayfa 56)
 
 ![Yaratilis Dongusu - sayfa 56](/assets/graph/the-five-elements-creative-cycle-redesign-your-life-with-feng-shui.jpg)
-sayfa 56
+<center>sayfa 56</center>
 
 "Bagua, bir evin Feng Shui haritasıdır. Çince'de Bagua'nın anlamı 'Sekiz Yön' olmasına karşın, Bagua bir yeri dokuz eşit bölüme ayırır, bunlardan sekizi yaşamın değişik alanlarını, dokuzuncusu da merkezi temsil eder." (sayfa1 15)
 
