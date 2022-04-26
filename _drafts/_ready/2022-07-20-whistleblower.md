@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber | (Kitap)"
+title: "Whistleblower | Susan Fowler (Kitap)"
 kitap: "Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber"
 tr: "-"
 yazar: "Susan Fowler"
