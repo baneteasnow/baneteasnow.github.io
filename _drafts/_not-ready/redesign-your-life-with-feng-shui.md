@@ -38,4 +38,3 @@ sayfa 56
 - Merkezde 'Tai Chi' yer alır. Bu kısım, Chi'nin kendini yeniden toparlaması ve güçlenmesi için boş bırakılmalıdır.
 
 Feng Shui İle Yaşamını Yeniden Yarat, Feng Shui'nin temel kavramlarını çeşitli pratik uygulama önerileri ile birlikte inceliyor.
-
