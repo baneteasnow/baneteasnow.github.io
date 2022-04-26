@@ -53,5 +53,3 @@ Aile kurumu bir tarafın diğer taraf üzerinde baskı kurmasını normalleştir
 "Acı olan, ister terapide ister günlük hayatta olsun, körlüğün, sağırlığın, aslında çocuğun sesine, çocuğun durumuna karşı olması. Ben atölyelerde yetişkin olarak kendimi gayet açık, net ifade ettiğim halde anlaşılmıyorsam, 'Anne baba çocuğunun iyiliğini ister ve ona karşı çıkmak kötüdür' düsturu bu kadar içimize işlemişse ve her şeyi görmemizi engelliyorsa, bu düstur karşısında yapayalnız bırakılmış çocuk ne kadar çaresiz. Bu çocuk, kendisini ifade etmeyi tabii ki öğrenemez. Trajik olan şu ki, çocuk doğuştan ne kadar duyarlıysa, yani bu durumdan etkilenmeye, kalıcı yaralar almaya ne kadar müsaitse bu düsturu o kadar kolay kabullenecek ve kendini ifade imkanlarını daha doğmadan o kadar bastıracaktır. Hayattaki en acı kısır döngünün bu kısır döngü olduğunu düşünüyorum." (sayfa 234-235)
 
 Nihan Kaya, kitabında yeri geldikçe Alice Miller'dan alıntılar yapmış ve yerel örnekler vererek konuyu akıcı şekilde işlemeye devam etmiş. 
-
-
