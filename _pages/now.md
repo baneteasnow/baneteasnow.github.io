@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-04-26
+last_modified_at: 2022-04-29
 published: true  
 ---
 ⁜  
-The Paradox of Choice: Why More Is Less (2007)  
-<i>by</i> Barry Schwartz      
+Evrim Kuramı ve Mekanizmaları (2016)  
+<i>by</i> Çağrı Mert Bakırcı        
 <br />
 ⁜  
   
