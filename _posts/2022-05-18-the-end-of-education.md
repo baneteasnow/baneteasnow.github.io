@@ -13,7 +13,7 @@ published: false
 description: "The End of Education kariyerine bir ilkokul öğretmeni olarak başlayan Neil Postman'ın kaleme aldığı bir kitap. Postman'ın bu kitabı yazma amacı ise ABD'de eğitimle ilgili krizi a 'dan z 'ye gözler önüne koymak. Kitabın ismi de çift anlamlı, hem okullarda verilen eğitimin olduğu şekilde devam etmesinin herhangi bir fayda getirmediğine hem de okulların başta belirlenen amaçlara hizmet edip etmediğine işaret ediyor."
 tag: "felsefe"
 posted: 2022-05-18
-image: "/assets/new/xxx.jpg"
+image: "/assets/new/the-end-of-education.jpg"
 ---
 
 The End of Education kariyerine bir ilkokul öğretmeni olarak başlayan Neil Postman'ın kaleme aldığı bir kitap. Bir eğitimci olarak ilk günden beri gençlerin nasıl yetiştirileceğinin iyi planlanması ve doğru uygulamalar ile pek çok sosyal problemin önleneceğini düşündüğünü belirtiyor. Ayrıca, eğitim ile öğrenimin aynı olmadığının da altını çiziyor. Bu kitabı yazma amacı ise ABD'de eğitimle ilgili krizi a 'dan z' ye gözler önüne koymak. Kitabın ismi de çift anlamlı, hem okullarda verilen eğitimin olduğu şekilde devam etmesinin herhangi bir fayda getirmediğine hem de okulların başta belirlenen amaçlara hizmet edip etmediğine işaret ediyor.
