@@ -1,0 +1,8 @@
+---
+layout: page-10
+published: true
+---
+
+{%- assign totalNumberOfPosts = site.posts | size -%}
+{%- assign i = totalNumberOfPosts | minus: NumberOfUnlistedPosts -%}
+{%-include random_a.html-%}
