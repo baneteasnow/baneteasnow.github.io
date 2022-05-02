@@ -79,7 +79,7 @@ aralık
 <br />
   </summary>
   <p>  
-{% assign postsByYear = site.posts | where_exp: "post", "post.category != 'essay'" | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.posts | where_exp: "post", "post.category != 'affirmation'" | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <span style="color: #777; font-weight: bold;">{{ year.name }}</span>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
