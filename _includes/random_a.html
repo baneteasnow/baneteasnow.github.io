@@ -1,0 +1,18 @@
+<script>
+  const comingFromPost = document.referrer; 
+
+  const allPosts = 
+    [{%- for post in site.posts -%}
+          {% if post.categories contains "affirmation" %}
+            {%- assign i = i | minus: 1 -%}
+            "{{ post.url }}"{%- unless i == 0 -%},{%- endunless -%}
+          {% endif %}
+    {%- endfor -%}];
+
+  function linkToRandomBlogPost() {
+      const randomPostLink = allPosts[Math.floor(Math.random() * allPosts.length)];
+      return randomPostLink;
+  }
+
+  location.replace(linkToRandomBlogPost())
+</script>
