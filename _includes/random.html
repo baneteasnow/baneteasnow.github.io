@@ -2,7 +2,7 @@
   const comingFromPost = document.referrer; 
 
   const allPosts = 
-    [{%- for post in site.posts -%}
+    [{%- for post in site.categories.book2 -%}
       {%- assign i = i | minus: 1 -%}
       "{{ post.url }}"{%- unless i == 0 -%},{%- endunless -%}
     {%- endfor -%}];
