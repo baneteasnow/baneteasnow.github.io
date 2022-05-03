@@ -3,6 +3,6 @@ layout: affirmation
 published: true
 ---
 
-{%- assign totalNumberOfPosts = site.posts | size -%}
+{%- assign totalNumberOfPosts = site.categories.affirmation | size -%}
 {%- assign i = totalNumberOfPosts | minus: NumberOfUnlistedPosts -%}
 {%-include affirmationrandompost.html-%}
