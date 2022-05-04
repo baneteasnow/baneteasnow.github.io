@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-04-29
+last_modified_at: 2022-05-04
 published: true  
 ---
 ⁜  
-Evrim Kuramı ve Mekanizmaları (2016)  
-<i>by</i> Çağrı Mert Bakırcı        
+Behave: The Biology of Humans at Our Best and Worst (2021)  
+<i>by</i> Robert M. Sapolsky        
 <br />
 ⁜  
   
