@@ -32,9 +32,9 @@
     "icons": [{ "src": "https://www.nonfictionbooks.xyz/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
   },
   {
-    "name": "2021",
-    "description": "2021 kitaplar",
-    "url": "https://www.nonfictionbooks.xyz/2021.html",
+    "name": "başka ne var?",
+    "description": "başka ne var?r",
+    "url": "https://www.nonfictionbooks.xyz/map.html",
     "icons": [{ "src": "https://www.nonfictionbooks.xyz/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
   }
                 ],
