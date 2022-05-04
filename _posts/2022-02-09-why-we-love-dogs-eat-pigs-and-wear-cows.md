@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Why We Love Dogs, Eat Pigs, and Wear Cows: An Introduction to Carnism | Melanie Joy (Kitap)"
+title: "Why We Love Dogs, Eat Pigs, and Wear Cows | Melanie Joy (Kitap)"
 kitap: "Why We Love Dogs, Eat Pigs, and Wear Cows: An Introduction to Carnism"
 tr: "-"
 yazar: "Melanie Joy"
