@@ -9,9 +9,9 @@ yil: "2019"
 sayfa: "168"
 goodreads: "https://www.goodreads.com/book/show/44315023-i-yi-toplum-yoktur"
 description: "Nihan Kaya, İyi Toplum Yoktur isimli kitabında toplumun dayatmalarına uygun davranan bir kişinin aslında bir birey olarak var olabilmesinin nasıl da engellediğini anlatıyor."
-last_modified_at: XXXX-XX-XX
+last_modified_at: 2022-11-09
 published: false
-posted: XXXX-XX-XX
+posted: 2022-11-09
 tag: "psikoloji"
 image: "/assets/new/iyi-toplum-yoktur.jpg"
 ---
