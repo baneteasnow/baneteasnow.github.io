@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/53677560-the-ikigai-journey"
 description: "Ikigai - Uygulama Rehberi, bir kişinin kendi Ikigaisini nasıl keşfedebileceğini çeşitli mini egzersizler eşliğinde aktarıyor."
 tag: "lifestyle"
 last_modified_at: 2022-05-11
-published: false
+published: true
 posted: 2022-05-11
 image: "/assets/new/the-ikigai-journey.jpg"
 ---
