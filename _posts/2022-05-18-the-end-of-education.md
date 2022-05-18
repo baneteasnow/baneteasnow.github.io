@@ -9,7 +9,7 @@ yil: "2011"
 sayfa: "225"
 goodreads: "https://www.goodreads.com/book/show/96441.The_End_of_Education?from_search=true&from_srp=true&qid=mKrRYpHQ09&rank=1"
 last_modified_at: 2022-05-18
-published: false
+published: true
 description: "The End of Education kariyerine bir ilkokul öğretmeni olarak başlayan Neil Postman'ın kaleme aldığı bir kitap. Postman'ın bu kitabı yazma amacı ise ABD'de eğitimle ilgili krizi a 'dan z 'ye gözler önüne koymak. Kitabın ismi de çift anlamlı, hem okullarda verilen eğitimin olduğu şekilde devam etmesinin herhangi bir fayda getirmediğine hem de okulların başta belirlenen amaçlara hizmet edip etmediğine işaret ediyor."
 tag: "felsefe"
 posted: 2022-05-18
