@@ -9,7 +9,7 @@ yil: "2020"
 sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/55152009-a-repurposed-life"
 last_modified_at: 2022-05-25
-published: false
+published: true
 description: "A Life Repurposed, Avustralya'nın lider 'yemek kurtarma' yardım kuruluşu OzHarvest'ın kurucusu Ronni Kahn'in, Güney Afrika'da başlayan, oradan İsrail'e ve sonrasında Avustralya'ya uzanan ilginç hayat hikayesini anlatıyor."
 posted: 2022-05-25
 tag: "biyografi"
