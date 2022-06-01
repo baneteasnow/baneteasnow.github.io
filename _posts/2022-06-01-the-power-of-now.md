@@ -27,3 +27,4 @@ Gerçeği deneyimlemenin önündeki en büyük engel zihnin bunu ayırt etmesidi
 Kendini tekrar eden düşünce kalıplarını yakalamak ve sürekli konuşan iç sesi yargılamadan tarafsız şekilde farkında olarak dinlemeye başlamak yüksek bir bilinç seviyesinin kapısını da aralar. 
 
 Pişmanlıklarla dolu geçmişe takılıp kalmak veya kontrol edemeyeceğimiz gelecekle ilgili olarak sürekli endişe duymak yerine elimizdeki 'şimdi'ye odaklanmak; geçmişte veya gelecekte yaşamak yerine 'şimdi'de yaşamak, bir kişinin kendi hayatını iyileştirmek için yapabileceği yegane şeydir.
+
