@@ -9,7 +9,7 @@ yil: "2013"
 sayfa: "217"  
 goodreads: "https://www.goodreads.com/book/show/13383957-insanely-simple"  
 last_modified_at: 2022-06-08
-published: false  
+published: true  
 description: "O Kadar Basit ki isimli kitapta reklam ajansında kreatif direktör olarak NeXT ve Apple reklamları için Steve Jobs ile yakından çalışmış olan Ken Segall Apple'ın 'yalınlık' üzerine kurulu felsefesini anlatıyor."  
 tag: "marka profili"
 posted: 2022-06-08
