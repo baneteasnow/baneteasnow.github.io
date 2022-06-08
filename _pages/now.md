@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-06-05
+last_modified_at: 2022-06-07
 published: true  
 ---
 ⁜  
-50 Maddede Veganlık (2021)  
-<i>by</i> Emel Ernalbant, Hazal Yılmaz  
+sıfır atık - tüketim kültürürü ve gıda israfı (202#)  
+<i>by</i> david evans  
 <br />
 ⁜  
   
