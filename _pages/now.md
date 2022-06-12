@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-06-07
+last_modified_at: 2022-06-12
 published: true  
 ---
 ⁜  
-sıfır atık - tüketim kültürürü ve gıda israfı (2020)  
-<i>by</i> david evans  
+Flow: The Psychology of Optimal Experience (2017)  
+<i>by</i> Mihaly Csikszentmihalyi  
 <br />
 ⁜  
   
