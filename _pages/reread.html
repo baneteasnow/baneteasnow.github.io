@@ -1,0 +1,15 @@
+---
+layout: page-5
+title: 'Tekrar Okumaya Değer Kitaplar'
+published: true
+last_modified_at: 2021-07-08
+---
+
+        {% for post in site.posts %}
+           {% if post.category == 'reread' %}
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 20%;" /></a>
+            {% endif %}
+        {% endfor %} 
+    <br />
+<div style="clear: both;"></div>
+<br />
