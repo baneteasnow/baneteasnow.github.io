@@ -20,4 +20,4 @@ Janisse Ray, The Seed Underground isimli kitabını herkes için ama özellikle 
 
 The Seed Underground, atalık tohumları korumaya ve başkaları ile paylaşmaya çalışan insanların hikayelerini anlatıyor. Janisse Ray hem kendi bahçıvanlık serüveni paylaşıyor hem de tohumların korunmasının önemine işaret ediyor.
 
-- [ ]
+
