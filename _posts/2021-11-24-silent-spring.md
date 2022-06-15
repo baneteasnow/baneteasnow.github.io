@@ -1,6 +1,6 @@
 ---
 layout: post
-category: book
+category: [book, reread]
 title: "Silent Spring | Rachel Carson (Kitap)"
 kitap: "Silent Spring - The Classic That Launched The Environmental Movement"
 tr: "Sessiz Bahar"
@@ -13,6 +13,7 @@ published: true
 description: "1962 yılında Rachel Carson'ın yazdığı Sessiz Bahar, kimyasalların tarımda kullanımının insan sağlığı ve çevre - ekosistem üzerindeki olumsuz etkilere dikkat çeken bir kitap."
 posted: 2021-11-24
 tag: "çevre"
+reread: "yes"
 image: "/assets/new/silent-spring.jpg"
 ---
 
