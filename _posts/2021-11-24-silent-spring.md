@@ -1,6 +1,6 @@
 ---
 layout: post
-category: [book, reread]
+category: book
 title: "Silent Spring | Rachel Carson (Kitap)"
 kitap: "Silent Spring - The Classic That Launched The Environmental Movement"
 tr: "Sessiz Bahar"
