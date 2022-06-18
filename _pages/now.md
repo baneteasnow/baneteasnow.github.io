@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-06-15
+last_modified_at: 2022-06-18
 published: true  
 ---
 ⁜  
-Sevgisiz Anneler - Yetişkin Kızlar İçin İyileştirici Bir Rehber (2021)  
-<i>by</i> Susan Forward  
+Korkuları Aşmak - Kadınlardaki başarısızlık korkusu nasıl giderilir? (1997)  
+<i>by</i> Esther D. Rothblum, Elle Cole  
 <br />
 ⁜  
   
