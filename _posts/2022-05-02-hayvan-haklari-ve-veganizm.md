@@ -22,7 +22,7 @@ Kemal Savaş'ın editörlüğünü yaptığı Hayvan Hakları ve Veganizm isimli
 {: #hayvan-haklari }
 
 #### [Yiyecek Olmama Hakkı - Richard Wagner](#yiyecek-olmama-hakki)
-{: #xxx }
+{: #yiyecek-olmama-hakki }
 
 Wagner, hayvan hakları tartışmalarının vejetaryen olmayanlar tarafından hangi hayvanların yenilmeyeceği yönüne çekildiğini belirtiyor. İnsanların evlerinde besledikleri evcil hayvanlarını daha 'akıllı' ve dolayısıyla 'eti yenilemez' olarak görürken, doğadaki başka türleri ise yenilebilir ya da yenilemez olarak nasıl sınıflandırdıklarını açıklıyor.
 
@@ -35,7 +35,7 @@ Oysa ki, hayvanların sırf yenilmek veya onlardan elde edilecek ürünler için
 Kendilerinden hayvansal ürünler elde etmek üzere beslenen hayvanların tükettikleri mısır, buğday, patates gibi ürünler aslında tarımsal ürün şekilde tüketilmek üzere ayrılırsa pek çok insan bu tarımsal ürünlerle uzun süre beslenebilir. Besin değeri olarak bitkisel alternatifleri varken hayvansal ürünler tüketmeyi tercih eden ve özellikle neredeyse günde üç öğün bu gıdalarla beslenen gelişmiş ülkede yaşayanlar, dünya kaynaklarını orantısızca tüketmektedirler. 
 
 
-#### [Avcı İnsan ve Acıya Empati - Richard Wagner](#avci-insan-ve-aciya-empati)
+#### [Avcı İnsan ve Acıya Empati - Richard Wagner](#avci-insan-ve-avciya-empati)
 {: #avci-insan-ve-avcıya-empati }
 
 Hayvansal gıda elde etmek üzerine bir düzen kurmuş olan insan aslında bir 'avcı' rolündedir. Karşısındaki canlıyla empati kurabilmesinin önündeki tek engel, onların acıyı kendisi kadar hissetmediğini düşünmesidir. Çünkü, acıya empati duyduğu noktada duygusal açıdan zayıflamış demektir. Ancak, burada çoğu kez gözden kaçan nokta diğer canlının neden ötürü acı çektiği değil, insanın kendisinin bu durum hakkında ne düşündüğüdür. 
@@ -59,7 +59,7 @@ Sınırlı kapasiteye sahip hayvanat bahçeleri için geçerli olan bir başka r
 Hayvan refahı, hayvanlara iyi davranmaktan ibaret değildir ve siyasi çevrelerin bu konuda yapmaları gereken pek çok şey vardır. Kamuoyu baskısı bu noktada dayanak noktası olacaktır. Hayvan hakları en iyi şekilde duygu sahibi olan canlıların itibar görme hakkı olarak tanımlanabilir. Siyasi hareketlerin sadece uygulannabilir ihtimallerle ilgilendiğini hatırlatan Clive Hollands, hayvanların hakları için mücadele edenlerin seçtikleri yöntemlerle yeterince gerçekçi davranıp davranmadığı sorunsalını da ileri sürmektedir.
 
 #### [Hayvanlar Acıyı Hisseder mi? - Peter Singer](#hayvanlar-aciyi-hisseder-mi)
-{: #ayvanlar-aciyi-hisseder-mi }
+{: #hayvanlar-aciyi-hisseder-mi }
 
 Peter Singer, hayvanların acı çekip çekmedikleri sorusuna cevabın 'hayır' olamayacağını belirtiyor. Acı deneyimi dış etkenlerle ortaya çıkıyor. Biz insanları,sadece kendi hissettiğimiz (deneyimlediğimiz) acıyı bilebiliriz, zira acı bir bilinç hali ve zihinsel bir olaydır. Diğer insanların da acıyı bizim gibi hissettikleri varsayımı ile hayvanların acıyı hissetmediklerinin kanıtının bulunmadığı yargısına varıyor. 
 
