@@ -9,9 +9,9 @@ yil: "2012"
 sayfa: "108"
 goodreads: "https://www.goodreads.com/en/book/show/14742986"
 description: "Peter Cappelli, Why Good People Can’t Get Jobs isimli kitabında firmaların açık pozisyonlarını gelen çok sayıda iş başvurusuna rağmen neden dolduramadıklarını ve iyi nitelikler taşıyan pek çok adayın neden iş bulmakta zorluk yaşadığını tartışıyor."
-last_modified_at: 2022-11-30
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2022-11-30
+posted: 2022-xx-xx
 tag: "sosyoloji"
 image: "/assets/new/why-good-people-cant-get-jobs.jpg"
 ---
