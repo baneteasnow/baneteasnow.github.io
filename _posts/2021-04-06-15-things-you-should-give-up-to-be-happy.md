@@ -82,4 +82,6 @@ Hayatta her şey değişkendir. Birşeylere bağımlı kalmak, aslında umutsuzc
 
 Luminita D. Saviuc, kitabını sevginin ve affetmenin önemini hatırlatarak noktalıyor.
 
-Luminita D. Saviuc'un kitabın temelini oluşturan orijinal blog yazısına <a href="https://www.purposefairy.com/3308/things-you-should-give-up-be-happy/">https://www.purposefairy.com/3308/things-you-should-give-up-be-happy/</a> adresinden ulaşmak mümkün.
+Luminita D. Saviuc'un kitabın temelini oluşturan orijinal blog yazısına <span class="link1" style="font-size: 100%;"><a href="https://www.purposefairy.com/3308/things-you-should-give-up-be-happy/" target="_blank" rel="noreferrer,nofollow" title="purposefairy.com">https://www.purposefairy.com/3308/things-you-should-give-up-be-happy/</a>&nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;"></span> adresinden ulaşmak mümkün.
+
+
