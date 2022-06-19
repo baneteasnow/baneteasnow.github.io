@@ -9,9 +9,9 @@ yil: "2018"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/en/book/show/37780792"
 description: "Hired, İngiltere'de mavi yakalı olarak ve asgari ücretle çalışanların çalıştıkları işlere, yaşam koşullarına ve emeklerinin karşılıklarını alıp almadıklarına odaklanıyor."
-last_modified_at: 2023-03-15
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2023-03-15
+posted: 2022-xx-xx
 tag: "sosyoloji"
 image: "/assets/new/hired.jpg"
 ---
@@ -53,5 +53,4 @@ Kitapta geçen zero-hour contact, belirli süreli sözleşme ve independent cont
 
 [^1]: Kitap, Brexit referandumundan hemen önce hazırlanmış.
 [^2]: Gig Economy: şirketlerin çalışanlarıyla belirsiz süreli sözleşme yapmak yerine geçici ve kısa dönemli kontratlar yaptığı çalışma biçimi
-
 
