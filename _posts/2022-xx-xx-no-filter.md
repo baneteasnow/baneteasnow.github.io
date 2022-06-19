@@ -9,9 +9,9 @@ yil: "2020"
 sayfa: "352"
 goodreads: "https://www.goodreads.com/en/book/show/50772888-no-filter"
 description: "No Filter, popüler sosyal medya platformu Instagram'ın hikayesini anlatıyor."
-last_modified_at: 2022-12-07
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2022-12-07
+posted: 2022-xx-xx
 tag: "marka profili"
 image: "/assets/new/no-filter.jpg"
 ---
