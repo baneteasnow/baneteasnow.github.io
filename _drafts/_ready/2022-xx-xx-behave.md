@@ -9,9 +9,9 @@ yil: "2021"
 sayfa: "790"
 goodreads: "https://www.goodreads.com/book/show/31170723-behave"
 description: "Robert Sapolsky, Davranış isimli kitabında, şiddet, saldırganlık ve rekabetin biyolojisini inceliyor. Bir davranışın gerçekleşmesini tek bir disiplinle değil, disiplinler arası bir yaklaşımla ele alıyor."
-last_modified_at: 2023-04-19
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2023-04-19
+posted: 2022-xx-xx
 tag: "fen bilimleri"
 image: "/assets/new/behave.jpg"
 ---
