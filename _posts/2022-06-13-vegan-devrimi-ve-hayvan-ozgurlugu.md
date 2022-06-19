@@ -9,9 +9,9 @@ yil: "2021"
 sayfa: "368"
 goodreads: "https://www.goodreads.com/book/show/58452883-vegan-devrimi-ve-hayvan-zg-rl"
 description: "Vegan Devrimi ve Hayvan Özgürlüğü, Zülal Kalkandelen'in kaleminden Türkiye'den ve dünyadan örneklerle veganizm ve hayvan haklarını tartışıyor."
-last_modified_at: 2022-06-19
+last_modified_at: 2022-06-13
 published: true
-posted: 2022-06-19
+posted: 2022-06-13
 tag: "veganlık"
 image: "/assets/new/vegan-devrimi-ve-hayvan-ozgurlugu.jpg"
 ---
