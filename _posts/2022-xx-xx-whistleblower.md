@@ -9,9 +9,9 @@ yil: "2020"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/51117957-whistleblower"
 description: "Susan Fowler, yazılım mühendisi olarak çalıştığı Uber'den ayrılmasından sonra yaşadığı cinsel taciz ve sonrasında gelen zorbalığı Reflecting On One Very, Very Strange Year At Uber başlıklı blog yazısında paylaşmış ve bu yazısı yayınlandığı ilk andan itibaren viral olmuştu. Whistleblower Fowler'ın Uber’de yazılım mühendisi olarak geçen bir yılına odaklaniyor."
-last_modified_at: 2022-07-20
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2022-07-20
+posted: 2022-xx-xx
 tag: "biyografi"
 image: "/assets/new/whistleblower.jpg"
 ---
