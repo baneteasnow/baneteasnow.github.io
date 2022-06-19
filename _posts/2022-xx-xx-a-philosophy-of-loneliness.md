@@ -9,9 +9,9 @@ yil: "2021"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/31573708-a-philosophy-of-loneliness"
 description: "Yalnızlığın Felsefesi isimli kitabında  Lars Svendsen, yalnızlık kavramını hem olumlu hem de olumsuz yönleriyle felsefi açıdan ele alıyor."
-last_modified_at: 2022-12-14
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2022-12-14
+posted: 2022-xx-xx
 -tag: "felsefe"
 image: "/assets/new/a-philosophy-of-loneliness.jpg"
 ---
