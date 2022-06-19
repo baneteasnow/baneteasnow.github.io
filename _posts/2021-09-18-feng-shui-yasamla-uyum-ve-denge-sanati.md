@@ -49,4 +49,3 @@ Elementlerin kendi arasında iki farklı döngü ilişkisi vardır.
 [yıpratıcı döngü - sayfa 31](/assets/graph/destructive-cycle-feng-shui-yasamla-uyum-ve-denge-sanati.jpg)
 
 Evlerin farklı odalarında Feng Shui'nin nasıl uygulanacağı ile ilgili ayrıntılar da kitapta yer alıyor.
-
