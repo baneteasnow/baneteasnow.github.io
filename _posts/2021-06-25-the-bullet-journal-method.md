@@ -10,9 +10,9 @@ yil: "2018"
 sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/39071691-the-bullet-journal-method"
 description: "Ryder Carroll, kitabında Bullet Journal Metodunu faydaları ve örnekleriyle anlatıyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2021-06-25
+published: true
+posted: 2021-06-25
 tag: "üretkenlik ve teknoloji"
 image: "/assets/new/the-bullet-journal-method.jpg"
 ---
