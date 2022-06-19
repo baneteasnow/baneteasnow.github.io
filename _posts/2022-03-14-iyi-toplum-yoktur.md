@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "İyi Toplum Yoktur | Nihan Kaya (Kitap)"
+title: "Iyi Toplum Yoktur | Nihan Kaya (Kitap)"
 kitap: "İyi Toplum Yoktur - Günlük Hayatta Toplumun Bireyi İstismar Biçimleri"
 tr: "-"
 yazar: "Nihan Kaya"
@@ -9,9 +9,9 @@ yil: "2019"
 sayfa: "168"
 goodreads: "https://www.goodreads.com/book/show/44315023-i-yi-toplum-yoktur"
 description: "Nihan Kaya, İyi Toplum Yoktur isimli kitabında toplumun dayatmalarına uygun davranan bir kişinin aslında bir birey olarak var olabilmesinin nasıl da engellediğini anlatıyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2022-03-14
+published: true
+posted: 2022-03-14
 tag: "psikoloji"
 image: "/assets/new/iyi-toplum-yoktur.jpg"
 ---
