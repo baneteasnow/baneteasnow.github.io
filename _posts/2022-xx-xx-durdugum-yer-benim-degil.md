@@ -9,9 +9,9 @@ yil: "2019"
 sayfa: "192"
 goodreads: "https://www.goodreads.com/book/show/49155373-durdu-um-yer-benim-de-il"
 description: "NTV, CNN Türk gibi televizyon kanallarında gazetecilik yapan Çiğdem Anad, şu anda İngiltere'de yaşıyor. Ailesini ve kendisini yurtdışında yaşamaya götüren süreci Durduğum Yer Benim Değil isimli kitabında ele alıyor."
-last_modified_at: 2023-02-08
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2023-02-08
+posted: 2022-xx-xx
 tag: "sosyolojı"
 image: "/assets/new/durdugum-yer-benim-degil.jpg"
 ---
