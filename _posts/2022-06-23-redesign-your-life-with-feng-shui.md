@@ -9,9 +9,9 @@ yil: "2003"
 sayfa: "150"
 goodreads: "https://www.goodreads.com/book/show/42421947-feng-shui-ile-ya-am-n-yeniden-yarat"
 description: "Feng Shui ile Yaşamını Yeniden Yarat isimli kitabında Yaron Zafran, Feng Shui prensiplerini kendisinin geliştirdiği 'Chi Enerjisini Yönlendirmenin Estetik Modeli'ne dayanarak açıklıyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2022-06-23
+published: true
+posted: 2022-06-23
 tag: "lifestyle"
 image: "/assets/new/redesign-your-life-with-feng-shui.jpg"
 ---
