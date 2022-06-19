@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Feng Shui - Mekan Enerjinizi Değiştirerek Yaşamınızı Güzelleştirin | Zeynep Akçay (Kitap)"
+title: "Feng Shui | Zeynep Akçay (Kitap)"
 kitap: "Feng Shui - Mekan Enerjinizi Değiştirerek Yaşamınızı Güzelleştirin"
 tr: "-"
 yazar: "Zeynep Akçay"
