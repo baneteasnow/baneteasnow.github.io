@@ -9,9 +9,9 @@ yil: "2016"
 sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/21397967-evrim-kuram-ve-mekanizmalar"
 description: "Çağrı Mert Bakırcı, Evrim Kuramı ve Mekanizmaları isimli kitabında hem evrim ile ilgili olarak doğru bilinen yanlışlara işaret ediyor hem de adım adım kuramı ve mekanizmalarını inceliyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2021-08-14
+published: true
+posted: 2021-08-14
 tag: "fen bilimleri"
 image: "/assets/new/evrim-kurami-ve-mekanizmalari.jpg"
 ---
