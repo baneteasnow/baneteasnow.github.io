@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "İyi Aile Yoktur | Nihan Kaya (Kitap)"
+title: "Iyi Aile Yoktur | Nihan Kaya (Kitap)"
 kitap: "İyi Aile Yoktur - ya da paradoks şu ki iyi aile, 'iyi aile yoktur' düsturuyla hareket edebilen ailedir"
 tr: "-"
 yazar: "Nihan Kaya"
