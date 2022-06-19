@@ -9,9 +9,9 @@ yil: "2008"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/4887.The_Drama_of_the_Gifted_Child"
 description: "Alice Miller tarafından kaleme alınan Yetenekli Çocuğun Dramı isimli kitapta, çocuklukta yaşanan olayların ve özellikle de ebeveynlerle ilişkinin bireyin yetişkinlik hayatında bıraktığı izler konu ediliyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2022-06-23
+published: true
+posted: 2022-06-23
 tag: "psikoloji"
 image: "/assets/new/the-drama-of-the-gifted-child.jpg"
 ---
