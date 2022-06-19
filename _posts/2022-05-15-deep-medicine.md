@@ -9,9 +9,9 @@ yil: "2019"
 sayfa: "400"
 goodreads: "https://www.goodreads.com/en/book/show/40915762"
 description: "Eric Topol, Deep Medicine isimli kitabında yapay zekanın gündelik hayatımızda giderek artan kullanım alanlarına dikkat çekerken modern tiptaki yerini pratik uygulama örnekleri ile tartışıyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2022-05-15
+published: true
+posted: 2022-05-15
 tag: "yapay zeka"
 image: "/assets/new/deep-medicine.jpg"
 ---
