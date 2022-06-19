@@ -9,9 +9,9 @@ yil: "2019"
 sayfa: "72"
 goodreads: "https://www.goodreads.com/book/show/49890980-b-t-n-ocuklar-i-yidir"
 description: "Bütün Çocuklar İyidir, İyi Aile Yoktur ve İyi Toplum Yoktur'un devam kitabı. Nihan Kaya, bu kitabında kısa hikayelerle çocukların davranışlarını, bu davranışlarının perde arkasını ve toplumun çocuklara dayattığı davranış kalıplarını işliyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2022-03-15
+published: true
+posted: 2022-03-15
 tag: "psikoloji"
 image: "/assets/new/butun-cocuklar-iyidir.jpg"
 ---
