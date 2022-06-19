@@ -9,9 +9,9 @@ yil: "2006"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/54968118-the-code-breaker"
 description: "İnsan Kaynakları Yönetiminde NLP isimli kitapta, Kişisel gelişim uygulamalarının başında yer alan NLP tekniklerinden bir örgütsel gelişim yöntemi olarak insan kaynakları yönetiminin daha etkin olabilmesi için nasıl yararlanılabileceği anlatılıyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2022-04-14
+published: true
+posted: 2022-04-14
 -tag: "yönetim"
 image: "/assets/new/insan-kaynaklari-yonetiminde-nlp.jpg"
 ---
