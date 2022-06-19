@@ -9,9 +9,9 @@ yil: "2019"
 sayfa: "168"
 goodreads: "https://www.goodreads.com/book/show/43230759-what-we-talk-about-when-we-talk-about-books"
 description: "Leah Price, What We Talk About When We Talk About Books isimli kitabını yazarken edebiyat eleştirmenliği şapkasından çok, diğer uzmanlık alanı olan kitap tarihçiliği şapkasını kullanmış. Price kitapların geçmişten günümüze kadar geçirdiği değişimleri ve toplumda kitapların yerini kitapları hem edebilik açısından hem de elle tutulur bir obje olmaları açısından daha çok 'somut bir nesne' olarak ele alıyor."
-last_modified_at: 2022-07-18
+last_modified_at: 2022-xx-xx
 published: false
-posted: 2022-07-18
+posted: 2022-xx-xx
 tag: "kitap okumak ve kitaplar"
 image: "/assets/new/what-we-talk-about-when-we-talk-about-books.jpg"
 ---
