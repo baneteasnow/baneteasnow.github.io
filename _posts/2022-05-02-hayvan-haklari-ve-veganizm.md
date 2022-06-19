@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Hayvan Hakları ve Veganizm | (Kitap)"
+title: "Hayvan Hakları ve Veganizm | Kamil Savaş (Kitap)"
 kitap: "Hayvan Hakları ve Veganizm - Klasik Metinler Seçkisi"
 tr: "-"
 yazar: "Kamil Savaş"
@@ -9,9 +9,9 @@ yil: "2013"
 sayfa: "181"
 goodreads: "https://www.goodreads.com/book/show/18753592-hayvan-haklar-veganizm"
 description: "Hayvan Hakları ve veganizm isimli kitap her iki konu hakkında derlenmiş makalelerden oluşuyor."
-last_modified_at: 2022-xx-xx
+last_modified_at: 2022-05-02
 published: false
-posted: 2022-xx-xx
+posted: 2022-05-02
 tag: "vegan"
 image: "/assets/new/hayvan-haklari-ve-veganizm.jpg"
 ---
