@@ -12,7 +12,7 @@ description: "Robert Sapolsky, Davranış isimli kitabında, şiddet, saldırgan
 last_modified_at: 2022-xx-xx
 published: false
 posted: 2022-xx-xx
-tag: "fen bilimleri"
+tag: "biyoloji"
 image: "/assets/new/behave.jpg"
 ---
 
