@@ -12,7 +12,7 @@ description: "Yalnızlığın Felsefesi isimli kitabında  Lars Svendsen, yalnı
 last_modified_at: 2022-06-08
 published: true
 posted: 2022-06-08
--tag: "felsefe"
+tag: "felsefe"
 image: "/assets/new/a-philosophy-of-loneliness.jpg"
 ---
 
