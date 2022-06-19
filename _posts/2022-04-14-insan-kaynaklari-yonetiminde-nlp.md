@@ -12,7 +12,7 @@ description: "İnsan Kaynakları Yönetiminde NLP isimli kitapta, Kişisel geli�
 last_modified_at: 2022-04-14
 published: true
 posted: 2022-04-14
--tag: "yönetim"
+tag: "yönetim"
 image: "/assets/new/insan-kaynaklari-yonetiminde-nlp.jpg"
 ---
 
