@@ -9,9 +9,9 @@ yil: "2018"
 sayfa: "341"
 goodreads: "https://www.goodreads.com/book/show/34890015-factfulness"
 description: "Factfulness, dünyanın gidişatının aslında o kadar da kötü olmadığını istatistikle ve somut verilerle anlatan bir kitap."
-last_modified_at: 2022-06-29
+last_modified_at: 2022-06-xx
 published: false
-posted: 2022-06-29
+posted: 2022-06-xx
 tag: "psikoloji"
 image: "/assets/new/factfulness.jpg"
 ---
