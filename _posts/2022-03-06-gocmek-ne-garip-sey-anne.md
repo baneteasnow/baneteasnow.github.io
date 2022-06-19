@@ -9,7 +9,7 @@ yil: "2020"
 sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/53162560-g-mek-ne-garip-ey-anne"
 description: "Filiz Yavuz, eğitim amacı ile taşındığı Madrid'de kurduğu yaşamı, kendisini bu yeni yaşama götüren süreci ve yabancı olduğu bir ülkede yaşamanın neye benzediğini Göçmek Ne Garip Şey Anne! isimli kitabında anlatıyor."
-last_modified_at: 2022-03-x06
+last_modified_at: 2022-03-06
 published: true
 posted: 2022-03-06
 tag: "sosyoloji"
