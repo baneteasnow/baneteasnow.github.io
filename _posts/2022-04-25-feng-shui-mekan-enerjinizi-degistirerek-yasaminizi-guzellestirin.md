@@ -9,9 +9,9 @@ yil: "2017"
 sayfa: "200"
 goodreads: "https://www.goodreads.com/book/show/60479959-feng-shui---mekan-enerjinizi-de-i-tirerek-ya-am-n-z-g-zelle-tirin"
 description: "Zeynep Akçay, bir mekanda canlıları besleyen yaşam enerjisi anlamına gelen Feng Shui'yi anlattığı kitabında bu felsefeyi çeşitli yönleri ile ele alıyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
+last_modified_at: 2022-04-25
+published: true
+posted: 2022-04-25
 tag: "lifestyle"
 image: "/assets/new/feng-shui-mekan-enerjinizi-degistirerek-yasaminizi-guzellestirin.jpg"
 ---
