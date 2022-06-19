@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "İnsan Kaynakları Yönetiminde NLP | Elvan Acar (Kitap)"
+title: "Insan Kaynakları Yönetiminde NLP | Elvan Acar (Kitap)"
 kitap: "İnsan Kaynakları Yönetiminde NLP"
 tr: "-"
 yazar: "Elvan Acar"
