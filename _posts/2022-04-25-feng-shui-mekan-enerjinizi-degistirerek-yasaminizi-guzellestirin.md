@@ -33,10 +33,10 @@ Feng Shui felsefesinde tıpkı pusula yönleri gibi her biri özel anlam ve etki
 "Bagua haritası Feng Shui uygulamalarında kullanılan mekanı yaşam gayeleri denilen 4 ana yön 4 ara yön ve merkez olmak üzere 9 eşit parçaya bölen kılavuz bir haritadır." (sayfa 106) 
 
 ![feng shui bagua haritası 1 - sayfa 108](/assets/graph/the-feng-shui-bagua-1-feng-shui-mekan-enerjinizi-degistirerek-yasaminizi-guzellestirin.jpg)
-sayfa 108
+<center>sayfa 108</center>
 ![feng shui bagua haritası 2 - sayfa 109](/assets/graph/the-feng-shui-bagua-2-feng-shui-mekan-enerjinizi-degistirerek-yasaminizi-guzellestirin.jpg)
-sayfa 109
+<center>sayfa 109</center>
 ![feng shui bagua haritası 3 - sayfa 109](/assets/graph/the-feng-shui-bagua-3-feng-shui-mekan-enerjinizi-degistirerek-yasaminizi-guzellestirin.jpg)
-sayfa 109
+<center>sayfa 109</center>
 
 Feng Shui - Mekan Enerjinizi Değiştirerek Yaşamınızı Güzelleştirin bir mekanın enerjisini düzeltmek için kullanılabilecek rehber bir kitap niteliğinde hazırlanmış.
