@@ -33,4 +33,3 @@ Bir bebek doğduğu zaman annesinin koşulsuz ilgisine ve sevgisine ihtiyaç duy
 > "Bunalımdan kurtulmakla sürekli bir mutluluğa ya da acıların hiç varolmadığı bir ruh hâline kavuşmayız; sadece canlılığım ıza, -kendiliğinden ortaya çıkan duygularım ızı yaşayabilme özgürlüğüne- kavuşuruz." (sayfa 83)
 
 > "Fakat terapinin hedefi hastanın yazgısında bazı düzeltmeler yapmak değildir, onun bu yazgı ile yüz yüze gelmesine ve bunun yasını yaşayabilmesine imkân hazırlamaktır; hasta ana/babasının bilincine varmadığı yönlendirmelerini ve aşağılamalarını bilinçli olarak yaşayarak bunun etkisinden kurtulabilmek için, erken yaşta bastırdığı duygularına kendi içinde yeniden kavuşmalıdır." (sayfa 136)
-
