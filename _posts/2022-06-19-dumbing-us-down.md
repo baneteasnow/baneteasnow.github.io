@@ -33,3 +33,9 @@ Gatto, bir zamanların Amerikası'nda makbul olanın kendi adına söz söylemek
 Gatto, çözüm olarak daha az okul ve evde eğitiimi öneriyor. 
 
 "ABD'de eğitimin ayağına dolanan şey,büyürken izlenecek tek doğru yolun olduğunu söyleyen bir toplum mühendisliği kuramıdır. Bu kuram, ön yüzünde George Washington resmi bulunan bir dolarlık banknotlarımızın arka yüzünde, tepesinde göz bulunan bir piramitle simgelenen eski Mısır'a ait bir fikirdir. Herkes, piramitteki konumuyla tanımlanan birer tuğladır. Bu kuram birçok farklı biçimde karşımıza çıkar ama aslında başkalarının zihnini denetlemeyi, egemenlik kurmayı ve bu egemenliği korumada kullanılacak müdahale stratejilerini takıntı haline getiren zihinlerin dünya görüşüne işaret etmektedir." (sayfa 96)
+
+<div style="text-align: center; clear: both">
+  <a href="https://www.instagram.com/hepkitaplakal/" target="_blank" title="instagram - @hepkitaplakal"><img src="https://www.nonfictionbooks.xyz/assets/instagram.png" width="3%" height="3%" alt="instagram - @hepkitaplakal" title="instagram - @hepkitaplakal"/></a>
+  <a href="https://affirmation.nonfictionbooks.xyz" target="_blank" title="olumlamalar - nonfictionbooks.xyz"><img src="https://www.nonfictionbooks.xyz/assets/lotus.png" width="3%" height="3%" alt="olumlamalar - nonfictionbooks.xyz" title="olumlamalar - nonfictionbooks.xyz"/></a>
+   <a href="https://vegan.nonfictionbooks.xyz" target="_blank" title="vegan tarifler - nonfictionbooks.xyz"><img src="https://www.nonfictionbooks.xyz/assets/leaf.png" width="3%" height="3%" alt="vegan tarifler - nonfictionbooks.xyz" title="vegan tarifler - nonfictionbooks.xyz"/></a>
+</div>
