@@ -2,6 +2,14 @@
 <span style="font-size: 100%; color: #777;">
     {{ page.kitap }}
       <br />
+     <div class="link1">  
+         {% if page.reread != "yes" %}
+    <div style="visibility: hidden;"></div>
+{% else %}
+    <i><a href="/reread.html">yeniden okumaya değer!</a></i><br />
+{% endif %}
+    </div>
+    <br />
 {% if page.tr != "" and page.tr != nil and page.tr != "-" %}
    {{ page.tr }} <br />
 {% else %}
@@ -13,13 +21,6 @@
       <br />
     {{ page.sayfa }} sayfa
       <br />
-     <div class="link1">  
-         {% if page.reread != "yes" %}
-    <div style="visibility: hidden;"></div>
-{% else %}
-    <i><a href="/reread.html">yeniden okumaya değer!</a></i><br />
-{% endif %}
-    </div>
     </span>
          <div class="link1">  
            <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
