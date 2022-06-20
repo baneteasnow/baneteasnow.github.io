@@ -36,15 +36,15 @@ The Artist's Date, sadece yaratıcı yönünüzle vakit geçirmek için önceden
 #### [12 Haftalık Program](#12-haftalik-program)
 {: #12-haftalik-program }
 
-1. hafta - Güven duygusunu yeniden kazanmak
-2. hafta - Kimlik duyusunu yeniden kazanmak
-3. hafta - Güç duyusunu yeniden kazanmak
-4. hafta - Bütünlük duyusunu yeniden kazanmak
-5. hafta - Olasılık duyusunu yeniden kazanmak
-6. hafta - Bereket duyusunu yeniden kazanmak
-7. hafta - İlişki kurma duyusunu yeniden kazanmak
-8. hafta - Direnç duyusunu yeniden kazanmak
-9. hafta - Şefkat duyusunu yeniden kazanmak
-10. hafta - Nefsi koruma duyusunu yeniden kazanmak
-11. hafta - Özerklik duyusunu yeniden kazanmak
-12. hafta - Bir inanç hissi geliştirmek
+1. 1\. hafta - Güven duygusunu yeniden kazanmak
+2. 2\. hafta - Kimlik duyusunu yeniden kazanmak
+3. 3\. hafta - Güç duyusunu yeniden kazanmak
+4. 4\. hafta - Bütünlük duyusunu yeniden kazanmak
+5. 5\. hafta - Olasılık duyusunu yeniden kazanmak
+6. 6\. hafta - Bereket duyusunu yeniden kazanmak
+7. 7\. hafta - İlişki kurma duyusunu yeniden kazanmak
+8. 8\. hafta - Direnç duyusunu yeniden kazanmak
+9. 9\. hafta - Şefkat duyusunu yeniden kazanmak
+10. 10\. hafta - Nefsi koruma duyusunu yeniden kazanmak
+11. 11\. hafta - Özerklik duyusunu yeniden kazanmak
+12. 12\. hafta - Bir inanç hissi geliştirmek
