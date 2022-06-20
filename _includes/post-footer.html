@@ -1,15 +1,6 @@
 <a href="{{ page.image }}" target="_blank"><img src="{{ page.image }}" width="20%" height="20%" align="right" float="right" alt="{{ page.kitap }}" title="{{ page.kitap }}" style="margin:10px 0 10px 15px"/></a>
 <span style="font-size: 100%; color: #777;">
-    {{ page.kitap }}
-      <br />
-     <div class="link1">  
-         {% if page.reread != "yes" %}
-    <div style="visibility: hidden;"></div>
-{% else %}
-    <i><a href="/reread.html">yeniden okumaya değer!</a></i><br />
-{% endif %}
-    </div>
-    <br />
+    {{ page.kitap }} <br />
 {% if page.tr != "" and page.tr != nil and page.tr != "-" %}
    {{ page.tr }} <br />
 {% else %}
@@ -34,5 +25,12 @@
 {% endif %}
     <span class="link1" style="font-size: 100%;">
      <a href="{{ page.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads">goodreads</a>&nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;">
+    </span>
+   <span class="link1" style="font-size: 100%;">
+         {% if page.reread != "yes" %}
+    <div style="visibility: hidden;"></div>
+    {% else %}
+    <i><a href="/reread.html">yeniden okumaya değer!</a></i><br />
+    {% endif %}
     </span>
 <!-- post-entry -->
