@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Bir Vegan İle Evlendim | Fausto Brizzi (Kitap)"
+title: "Bir Vegan Ile Evlendim | Fausto Brizzi (Kitap)"
 kitap: "Bir Vegan İle Evlendim - Maalesef Gerçek Bir Hikaye"
 tr: "Bir Vegan İle Evlendim - Maalesef Gerçek Bir Hikaye"
 yazar: "Fausto Brizzi"
