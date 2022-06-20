@@ -13,11 +13,11 @@
       <br />
     {{ page.sayfa }} sayfa
       <br />
-    <!--{% if page.rereading != "#yeniden" %}
+    {% if page.reread != "no" %}
     <div style="visibility: hidden;"></div>
 {% else %}
-    <a href="/worth-rereading.html">{{ page.rereading }}</a><br />
-{% endif %}-->
+    <i><a href="/reread.html">yeniden okumaya değer!</a></i><br />
+{% endif %}
     </span>
          <div class="link1">  
            <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
