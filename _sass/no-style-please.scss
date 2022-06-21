@@ -284,6 +284,11 @@ a:hover {
 .decorated a.active {
 	color: #777;
 	font-style: oblique;
+	line-height: .85;
+    	background-image: linear-gradient(0deg, rgba(255, 255, 102, 0.6), rgba(255, 255, 102, 0.6)); /* #ffff66 */
+    	background-size: 5px 5px;
+    	background-repeat: repeat-x;
+    	background-position: bottom;
 }
 .decorated > span{
     position: relative;
