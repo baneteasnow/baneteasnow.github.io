@@ -33,8 +33,8 @@ Yazdıklarınızı da en azından ilk 8 hafta süresince okumamanız gerekiyor. 
 
 The Artist's Date, sadece yaratıcı yönünüzle vakit geçirmek için önceden bir gün ve saat belirleyip eğlenceli bir şeyler yapmanızı gerektiriyor. Belki resim çekmek, belki müzeye veya sergiye gitmek, belki sahilde bir yürüyüş ya da bir konsere gitmek gibi. Bunun için haftada bir kez iki saat ayırmanız yeterli.
 
-#### [12 Haftalık Program](#12-haftalik-program)
-{: #12-haftalik-program }
+#### [12 Haftalık Program](#oniki-haftalik-program)
+{: #oniki-haftalik-program }
 
 1. 1\. hafta - Güven duygusunu yeniden kazanmak
 2. 2\. hafta - Kimlik duyusunu yeniden kazanmak
