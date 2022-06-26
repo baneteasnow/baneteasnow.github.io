@@ -13,6 +13,7 @@ last_modified_at: 2022-05-26
 published: true
 posted: 2022-05-26
 tag: "veganlık"
+instagram: "yes"
 image: "/assets/new/bir-vegan-ile-evlendim.jpg"
 ---
 
