@@ -13,6 +13,7 @@ tag: "lifestyle"
 last_modified_at: 2022-05-11
 published: true
 posted: 2022-05-11
+instagram: "yes"
 image: "/assets/new/the-ikigai-journey.jpg"
 ---
 
