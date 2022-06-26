@@ -8,17 +8,13 @@ published: true
 * TOC
 {:toc class="toc1"}  
 
-<div class="link4">
-       <a href="https://www.instagram.com/hepkitaplakal/" target="_blank" rel="noreferrer,nofollow" title="instagram">instagram</a>&nbsp;<img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;">
-     </div> 
-
 #### non-fiction book reviews
 
 | ⁜ |
 |:---|
-| adamkeesling.com/book-notes/ <a href="https://www.adamkeesling.com/book-notes"><img src="/assets/external_link.jpg" alt="external link" style="width:5px; height:5px; display: inline-block; vertical-align: baseline;"></a>|
-| animalperson.net/category/books/ |
-| aworkinglibrary.com/reading/ |
+| adamkeesling.com/book-notes/ <a href="https://www.adamkeesling.com/book-notes" target="_blank" rel="noreferrer,nofollow" title="adamkeesling.com/book-notes/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
+| animalperson.net/category/books/ <a href="http://www.animalperson.net/category/books/" target="_blank" rel="noreferrer,nofollow" title="animalperson.net/category/books/"><img src="/assets/external_link.jpg" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
+| aworkinglibrary.com/reading/ <a href="https://aworkinglibrary.com/reading/" target="_blank" rel="noreferrer,nofollow" title="aworkinglibrary.com/reading/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | blas.com/library/ |
 | bryanbraun.com/books/ |
 | calv.info/bookshelf/ |  
