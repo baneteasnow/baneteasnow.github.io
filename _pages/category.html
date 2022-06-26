@@ -39,7 +39,7 @@ published: true
     <br />
 
 <a name="planning"></a>
-    <div class="link1"><a href="#planning">öğrenmeyi öğrenmek + üretkenlik ve teknoloji + yazmak ve yaratıcılık + zaman planlaması</a></div>
+    <div class="link1"><a href="#planning">öğrenmeyi öğrenmek + üretkenlik ve teknoloji + yazmak ve yaratıcılık + zaman planlaması + kitap okumak ve kitaplar</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'öğrenmeyi öğrenmek' or 
           post.tag == 'üretkenlik ve teknoloji' or
@@ -52,7 +52,7 @@ published: true
     <br />
 
 <a name="fashion"></a>
-    <div class="link1"><a href="#fashion">moda markaları+ tasarım</a></div>
+    <div class="link1"><a href="#fashion">moda markaları + moda tasarım</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'moda markaları' or 
           post.tag == 'moda tasarım' %}      
@@ -95,7 +95,7 @@ published: true
     <br />
 
 <a name="technology"></a>
-    <div class="link1"><a href="#technology">teknoloji + gelecek ve trendler + yapay zeka + siber güvenlik + internet + yazılım + bilgi sistemleri</a></div>
+    <div class="link1"><a href="#technology">teknoloji + gelecek ve trendler + yapay zeka + siber güvenlik + internet + yazılım + bilgi sistemleri + internet of things</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'teknoloji' or
           post.tag == 'yapay zeka' or
@@ -111,7 +111,7 @@ published: true
     <br />
 
 <a name="science"></a>
-    <div class="link1"><a href="#science">fen bilimleri + küresel ısınma + sürdürülebilirlik + permakültür + çevre</a></div>
+    <div class="link1"><a href="#science">fen bilimleri + küresel ısınma + sürdürülebilirlik + permakültür + bahçe tarımı + çevre</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'fen bilimleri' or
           post.tag == 'küresel ısınma' or
@@ -148,12 +148,13 @@ published: true
     <br />
 
 <a name="work"></a>
-    <div class="link1"><a href="#work">çalışma yaşamı + kariyer + girişimcilik + hukuk + yönetim </a></div>
+    <div class="link1"><a href="#work">çalışma yaşamı + kariyer + girişimcilik + hukuk + yönetim + insan kaynakları</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'çalışma yaşamı' or
           post.tag == 'kariyer' or
           post.tag == 'girişimcilik' or
           post.tag == 'hukuk' or
+          post.tag == 'insan kaynakları' or
           post.tag == 'yönetim' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
     {% endif %}
