@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-06-23
+last_modified_at: 2022-06-26
 published: true  
 ---
 ⁜  
-Sinderalla Kompleksi (1998)  
-<i>by</i> Colette Dowling  
+Biri Beni Dinliyor (2012)  
+<i>by</i> Dilek Yıldırım Akgün  
 <br />
 ⁜  
   
