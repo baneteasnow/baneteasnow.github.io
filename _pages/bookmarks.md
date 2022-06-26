@@ -8,11 +8,15 @@ published: true
 * TOC
 {:toc class="toc1"}  
 
+<div class="link4">
+       <a href="https://www.instagram.com/hepkitaplakal/" target="_blank" rel="noreferrer,nofollow" title="instagram">instagram</a>&nbsp;<img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;">
+     </div> 
+
 #### non-fiction book reviews
 
 | ⁜ |
 |:---|
-| adamkeesling.com/book-notes/ |
+| adamkeesling.com/book-notes/ <a href="https://www.adamkeesling.com/book-notes"><img src="/assets/external_link.jpg" alt="external link" style="width:5px; height:5px; display: inline-block; vertical-align: baseline;"></a>|
 | animalperson.net/category/books/ |
 | aworkinglibrary.com/reading/ |
 | blas.com/library/ |
