@@ -16,7 +16,7 @@ tag: "psikoloji"
 image: "/assets/new/iyi-aile-yoktur.jpg"
 ---
 
-Nihan Kaya, İyi Aile Yoktur isimli kitabında ebeveynlerin kendi çocuklarını yetiştirirken kendi çocukluk yaşantılarının nasıl da etkisi altında kaldıklarını anlatıyor. Kitabın çıkış noktası Alice Miller'ın 1979 tarihli ['The Drama of the Gifted Child' (Yetenekli Çocuğun Dramı)](https://www.nonfictionbooks.xyz/the-drama-of-the-gifted-child.html) isimli kitabında ileri sürdüğü bakış açısı. 
+Nihan Kaya, İyi Aile Yoktur isimli kitabında ebeveynlerin kendi çocuklarını yetiştirirken kendi çocukluk yaşantılarının nasıl da etkisi altında kaldıklarını anlatıyor. Kitabın çıkış noktası Alice Miller'ın 1979 tarihli <span class="link1">['The Drama of the Gifted Child' (Yetenekli Çocuğun Dramı)](https://www.nonfictionbooks.xyz/the-drama-of-the-gifted-child.html)</span> isimli kitabında ileri sürdüğü bakış açısı. 
 
 Miller, çocukluk yıllarının bir insanın hayatında en kırılgan dönem olduğunu belirtir. Çünkü, çocuklukta bireyler korunmasız haldedir. Çocuğun dünyasında baş rollerde anne babası vardır ve o dönemde yaşanan travmalar yetişkinlik yaşamının şekillenmesine doğrudan etki gösterir. Nihan Kaya da benzer şekilde çocuğun kendisine yapılan muameleyi 'normal' olarak algıladığını belirterek başlıyor kitabına. Zamanla algıladıkları norma dönüşür. Tüm bunları anlamaya ise ancak yetişkin olduğunda başlar. 
 
