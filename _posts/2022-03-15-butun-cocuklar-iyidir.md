@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Bütün Çocuklar İyidir | Nihan Kaya (Kitap)"
+title: "Bütün Çocuklar Iyidir | Nihan Kaya (Kitap)"
 kitap: "Bütün Çocuklar İyidir"
 tr: "-"
 yazar: "Nihan Kaya"
