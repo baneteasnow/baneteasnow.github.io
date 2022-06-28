@@ -12,7 +12,7 @@ description: "Biri Beni Dinliyor, çalışma hayatlarının bir noktasında çı
 last_modified_at: 2022-07-03
 published: true
 posted: 2022-07-03
--tag: "motivasyon"
+tag: "motivasyon"
 instagram: "no"
 image: "/assets/new/biri-beni-dinliyor.jpg"
 ---
