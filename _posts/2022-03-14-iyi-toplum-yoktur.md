@@ -17,7 +17,7 @@ image: "/assets/new/iyi-toplum-yoktur.jpg"
 ---
 Nihan Kaya, İyi Toplum Yoktur isimli kitabında toplumun dayatmalarına uygun davranan bir kişinin aslında bir birey olarak var olabilmesinin nasıl da engellediğini anlatıyor. Toplum bireyleri cinsiyet ve cinsellik algısı üzerinden dönüştürürken, bu algı törenlerle destekleniyor. Kişilerin yaşadıkları ruhsal sıkıntıların pek çoğunun kaynağı kendi tercihleri olmayan şeylerin onlara dayatılıyor olması.
 
-İyi Toplum Yoktur'un sunuş bölümünde, bu kitabın aslında [İyi Aile Yoktur (2018)](/iyi-aile-yoktur.html)'un ikinci bölümü olarak yazıldığını belirtiyor. İyi Aile Yoktur'da aile ile ilgili olarak ileri sürülen fikirlerin toplum geneline nasıl yayıldığını anlatan bu kısım sonradan devam kitabı haline gelmiş.
+İyi Toplum Yoktur'un sunuş bölümünde, bu kitabın aslında <span class="link1">[İyi Aile Yoktur (2018)](/iyi-aile-yoktur.html)</span>'un ikinci bölümü olarak yazıldığını belirtiyor. İyi Aile Yoktur'da aile ile ilgili olarak ileri sürülen fikirlerin toplum geneline nasıl yayıldığını anlatan bu kısım sonradan devam kitabı haline gelmiş.
 
 Çocuklar küçük yaşlarından itibaren cinsiyetçi şekilde yetiştiriliyorlar. Kız çocuklarına kız çocuk olduğu, erkek çocuklarına da erkek çocuk oldukları her fırsatta hatırlatılıyor. Örneğin, sünnet törenlerinin bu kadar şatafatlı olmasının nedeni erkek çocuğun cinsiyetini kutlamak aslında. Törenler toplumun bireylere dayatmak istediği niteliklerin şekillenmesinde rol oynar. Aile, kadına kadın, erkeğe de erkek olduğunu öğretmeyi kendi sorumluluğunda sayar. Bu nedenle, çoğu ailede kız ve erkek çocuklarına birbirlerinden farklı davranılır. 
 
