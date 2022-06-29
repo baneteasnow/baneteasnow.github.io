@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-06-26
+last_modified_at: 2022-06-29
 published: true  
 ---
 ⁜  
-Biri Beni Dinliyor (2012)  
-<i>by</i> Dilek Yıldırım Akgün  
+Çağımızın Tedirgin İnsanı (1980)  
+<i>by</i> Karen Horney  
 <br />
 ⁜  
   
