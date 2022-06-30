@@ -1,5 +1,5 @@
    <span class="link1" style="font-size: 100%;">
-         {% if page.instagram == nil or page.instagram == "-" %}
+         {% if page.instagram == nil or page.instagram == "-" or page.instagram == "no" or page.instagram == "yes" %}
     <div style="visibility: hidden;"></div>
     {% else %}
    <a href="{{ page.instagram }}" target="_blank" rel="noreferrer,nofollow" title="instagram - @hepkitaplakal">instagram <img src="/assets/external_link.jpg" style="width:15px; height:15px; display: inline-block;;" alt="external link" title="instagram - @hepkitaplakal"/></a><br />
