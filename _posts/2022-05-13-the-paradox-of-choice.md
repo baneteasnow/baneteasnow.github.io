@@ -13,7 +13,7 @@ last_modified_at: 2022-05-13
 published: true
 posted: 2022-05-13
 tag: "pazarlama"
-instagram: "https://www.instagram.com/p/CfG4y_zoxj-/?utm_source=ig_web_copy_link"
+instagram: "https://www.instagram.com/p/CfG4y_zoxj-/"
 insta: "yes"
 image: "/assets/new/the-paradox-of-choice.jpg"
 ---
