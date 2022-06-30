@@ -13,7 +13,7 @@ last_modified_at: 2022-06-07
 published: true
 posted: 2022-06-07
 tag: "felsefe"
-instagram: "https://www.instagram.com/p/CfRmmELoOtX/?utm_source=ig_web_copy_link"
+instagram: "https://www.instagram.com/p/CfRmmELoOtX/"
 insta: "yes"
 image: "/assets/new/a-philosophy-of-loneliness.jpg"
 ---
