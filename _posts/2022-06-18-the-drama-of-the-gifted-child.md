@@ -30,7 +30,7 @@ Bir bebek doğduğu zaman annesinin koşulsuz ilgisine ve sevgisine ihtiyaç duy
 
 > "Annesi tarafından görülmek, anlaşılmak, ciddiye alınmak, saygıyla karşılanmak her çocuğun en meşru en doğal ihtiyaçlarındandır. Çocuk yaşamının ilk haftalarında ve aylarında annesinin tüm üyle kendisine odaklanmasına, onu tüm üyle kendi yararına kullanm aya ve onun tarafından yansıtılmaya muhtaç bir durumdadır. ...  Fakat annenin bu sırada sadece küçük, emsalsiz, aciz yavrusunu görüyor olması, çocuğuna kendi beklentilerini, korkularını, çocuk için kurduğu planlarını yansıtıyor olmaması koşuluyla. İkinci durumda bebek annenin yüzünde kendini değil, sadece annenin yoksunluğunu bulur. Ve böyle bir bebek kendini yansıtacağı aynadan mahrum kalarak bütün sonraki yaşamında bu aynanın arayışı içinde olur." (sayfa 45)
 
-> "Bunalımdan kurtulmakla sürekli bir mutluluğa ya da acıların hiç varolmadığı bir ruh hâline kavuşmayız; sadece canlılığım ıza, -kendiliğinden ortaya çıkan duygularım ızı yaşayabilme özgürlüğüne- kavuşuruz." (sayfa 83)
+> "Bunalımdan kurtulmakla sürekli bir mutluluğa ya da acıların hiç varolmadığı bir ruh hâline kavuşmayız; sadece canlılığımıza, -kendiliğinden ortaya çıkan duygularım ızı yaşayabilme özgürlüğüne- kavuşuruz." (sayfa 83)
 
 > "Fakat terapinin hedefi hastanın yazgısında bazı düzeltmeler yapmak değildir, onun bu yazgı ile yüz yüze gelmesine ve bunun yasını yaşayabilmesine imkân hazırlamaktır; hasta ana/babasının bilincine varmadığı yönlendirmelerini ve aşağılamalarını bilinçli olarak yaşayarak bunun etkisinden kurtulabilmek için, erken yaşta bastırdığı duygularına kendi içinde yeniden kavuşmalıdır." (sayfa 136)
  
