@@ -13,7 +13,7 @@ last_modified_at: 2022-06-10
 published: true
 posted: 2022-06-10
 tag: "yaratıcılık"
-instagram: 'yes'
+instagram: 'https://www.instagram.com/p/CfeZagCoUIN/?utm_source=ig_web_copy_link'
 insta: 'yes'
 image: "/assets/new/the-artists-way.jpg"
 ---
