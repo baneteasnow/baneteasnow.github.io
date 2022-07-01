@@ -13,7 +13,8 @@ last_modified_at: 2022-05-02
 published: true
 posted: 2022-05-02
 tag: "vegan"
-instagram: "yes"
+instagram: "https://www.instagram.com/p/CfBnXUPoIZu/"
+insta: "yes"
 image: "/assets/new/hayvan-haklari-ve-veganizm.jpg"
 ---
 
