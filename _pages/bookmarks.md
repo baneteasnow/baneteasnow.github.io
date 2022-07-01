@@ -8,7 +8,8 @@ published: true
 * TOC
 {:toc class="toc1"}  
 
-#### non-fiction book reviews
+#### [[non-fiction book reviews]](#nonfiction-book-reviews)
+{: #nonfiction-book-reviews }
 
 | ⁜ |
 |:---|
@@ -122,6 +123,8 @@ published: true
 | ⁜ |-->
 
 #### misc.
+#### [[misc]](#misc)
+{: #misc }
 
 | ⁜ |
 |:---|
@@ -141,6 +144,8 @@ published: true
 <br />
 
 #### what to read next
+#### [[what-to-read-next]](#what-to-read-next)
+{: #nonfiction-book-reviews }
 
 | ⁜ |
 |:---|
@@ -169,13 +174,17 @@ published: true
 <br />
 
 #### blogroll
+#### [[blogroll]](#blogroll)
+{: #nonfiction-book-reviews }
 | ⁜ |
 |:---|
 | ⁜ |
 
 <br />
 
-#### newsletters
+#### what to read next
+#### [[newsletters]](#newsletters
+{: #nonfiction-book-reviews }
 | ⁜ |
 |:---|
 | ⁜ |
