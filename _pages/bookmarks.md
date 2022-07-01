@@ -83,7 +83,6 @@ published: true
 | thebluegarret.com/blog/category/book+review <a href="https://www.thebluegarret.com/blog/category/book+review" target="_blank" rel="noreferrer,nofollow" title="thebluegarret.com/blog/category/book+review"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | roseannasunley.com/category/books/ <a href="https://roseannasunley.com/category/books/" target="_blank" rel="noreferrer,nofollow" title="roseannasunley.com/category/books/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | heymichellemac.com/tag/book-notes <a href="https://heymichellemac.com/tag/book-notes" target="_blank" rel="noreferrer,nofollow" title="heymichellemac.com/tag/book-notes"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
-| ~~thebooketlist.com/blog~~ <a href="" target="_blank" rel="noreferrer,nofollow" title="thebooketlist.com/blog"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | alexjhughes.com/booknotes <a href="https://nextbigideaclub.com/magazine/topics/book-bites/" target="_blank" rel="noreferrer,nofollow" title="alexjhughes.com/booknotes"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | nextbigideaclub.com/magazine/topics/book-bites/ <a href="https://nextbigideaclub.com/magazine/topics/book-bites/" target="_blank" rel="noreferrer,nofollow" title="nextbigideaclub.com/magazine/topics/book-bites/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | highlights.sawyerh.com <a href="https://highlights.sawyerh.com" target="_blank" rel="noreferrer,nofollow" title="highlights.sawyerh.com"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
@@ -107,6 +106,7 @@ published: true
 | sipreads.com <a href="https://sipreads.com" target="_blank" rel="noreferrer,nofollow" title="sipreads.com"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | reflectoring.io/categories/book-notes/ <a href="https://reflectoring.io/categories/book-notes/" target="_blank" rel="noreferrer,nofollow" title="reflectoring.io/categories/book-notes/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | booksconcepts.com <a href="https://booksconcepts.com" target="_blank" rel="noreferrer,nofollow" title="booksconcepts.com"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
+| ~~thebooketlist.com/blog~~ |
 
 <br />
 
