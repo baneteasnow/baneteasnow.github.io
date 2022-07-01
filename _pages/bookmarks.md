@@ -105,6 +105,7 @@ published: true
 | muthusblog.com <a href="" target="_blank" rel="noreferrer,nofollow" title=""><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | tobysinclair.com/book-summaries <a href="" target="_blank" rel="noreferrer,nofollow" title=""><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | dickiebush.com/books <a href="" target="_blank" rel="noreferrer,nofollow" title=""><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
+| sipreads.com <a href="https://sipreads.com" target="_blank" rel="noreferrer,nofollow" title=""><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 
 <br />
 
