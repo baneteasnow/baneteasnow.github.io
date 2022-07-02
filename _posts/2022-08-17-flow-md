@@ -9,10 +9,10 @@ yil: "2017"
 sayfa: "416"
 goodreads: "https://www.goodreads.com/book/show/66354.Flow"
 description: "Akış, bir kişinin kendisini yaptığı işe neredeyse başka hiç bir şeyi görmeyecek, duyamayacak kadar kaptırdığı anları, o anın nasıl ortaya çıktığını açıklıyor."
-last_modified_at: 2022-xx-xx
-published: false
-posted: 2022-xx-xx
--tag: "psikoloji"
+last_modified_at: 2022-08-17
+published: true
+posted: 2022-08-17
+tag: "psikoloji"
 instagram: "no"
 reread: "yes"
 image: "/assets/new/flow.jpg"
