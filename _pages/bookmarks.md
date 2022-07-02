@@ -108,6 +108,7 @@ published: true
 | reflectoring.io/categories/book-notes/ <a href="https://reflectoring.io/categories/book-notes/" target="_blank" rel="noreferrer,nofollow" title="reflectoring.io/categories/book-notes/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | booksconcepts.com <a href="https://booksconcepts.com" target="_blank" rel="noreferrer,nofollow" title="booksconcepts.com"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | mattswain.com/booknotes <a href="https://www.mattswain.com/booknotes/atomic-habits" target="_blank" rel="noreferrer,nofollow" title="mattswain.com/booknotes"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
+| norberthires.blog/tag/books/ <a href="https://www.norberthires.blog/tag/books/" target="_blank" rel="noreferrer,nofollow" title="norberthires.blog/tag/books/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | ~~thebooketlist.com/blog~~ |
 
 <br />
