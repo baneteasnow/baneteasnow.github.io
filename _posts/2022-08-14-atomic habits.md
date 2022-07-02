@@ -10,7 +10,7 @@ sayfa: "319"
 goodreads: "https://www.goodreads.com/book/show/40121378-atomic-habits"
 description: "Atomik Alışkanlıklar, günlük olarak yapılacak ufak değişikliklerin ve gelişimlerin değerini vurgulayarak aslında büyük başarılar için köklü değişimlerin gerekmediğine işaret ediyor."
 last_modified_at: 2022-08-14
-published: false
+published: true
 posted: 2022-08-14
 tag: "psikoloji"
 instagram: "no"
