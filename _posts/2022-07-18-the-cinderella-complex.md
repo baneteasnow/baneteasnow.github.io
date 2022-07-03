@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "The Cinderella Complex | Colette Dowling (Kitap)"
-kitap: "The Cinderella Complex - Women's Hidden Fear of Independence
+kitap: "The Cinderella Complex - Women's Hidden Fear of Independence"
 tr: "Sindrella Kompleksi - Çağdaş Kadının Bağımsızlık Korkusu"
 yazar: "Colette Dowling"
 yil: "1998"
