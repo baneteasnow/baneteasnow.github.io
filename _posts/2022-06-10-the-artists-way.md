@@ -18,7 +18,7 @@ insta: 'yes'
 image: "/assets/new/the-artists-way.jpg"
 ---
 
-Sanatçının Yolu, sunduğu 12 haftalık bir program ile okuyucunun yaratıcı yönüne odaklanan, aklına takılanlardan kurtulmasına ve yeniden harekete geçmesine yardımcı olan bir kitap. Kitabın yazarı Julia Cameron, bir eğitmen, şair, oyun yazarı, film yapımcısı. Julia Cameron, bir sanatçının işini ortaya koymak için çabalarken önüne çıkan düşünsel engelleri aşması için ne yapması gerektiğini kendi geliştirdiği pratik egzersiz ve araçlarla açıklıyor. Herkesin yaratıcı bir yönü olduğuna inanan Cameron, tek yapmamız gerekenin kendimize yaratıcı olmak için izin vermemiz gerektiği olduğunu söylüyor, bunu yapamayanların ise bu yönlerini neyin bastırdığını bulmaları gerektiğini ekliyor. Bu kitapta yer alan bilgi ve öneriler sadece sanatçılar için değil, herkes tarafından kullanılabilecek nitelikte.
+Sanatçının Yolu, sunduğu 12 haftalık bir program ile okuyucunun yaratıcı yönüne odaklanan, aklına takılanlardan kurtulmasına ve yeniden harekete geçmesine yardımcı olan bir kitap. Kitabın yazarı Julia Cameron, bir eğitmen, şair, oyun yazarı, film yapımcısı. Julia Cameron, bir sanatçının işini ortaya koymak için çabalarken önüne çıkan düşünsel engelleri aşması için ne yapması gerektiğini kendi geliştirdiği pratik egzersiz ve araçlarla açıklıyor. Herkesin yaratıcı bir yönü olduğuna inanan Cameron, tek yapmamız gerekenin kendimize yaratıcı olmak için izin vermemiz olduğunu söylüyor, bunu yapamayanların ise bu yönlerini neyin bastırdığını bulmaları gerektiğini ekliyor. Bu kitapta yer alan bilgi ve öneriler sadece sanatçılar için değil, herkes tarafından kullanılabilecek nitelikte.
 
 Kitabın öne sürdüğü iki önemli araç "sabah sayfaları (morning pages)" ve "sanatçı buluşmaları (the artist's date)".
 
