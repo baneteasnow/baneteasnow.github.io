@@ -61,7 +61,6 @@ Z Neslinin ozellikleri ise asagidadir:
 - Doğru beslenmenin önemine inansalar da, çayı şekerle tüketme gibi bazı alışkanlıklar devam ediyor.
 - Gençler sosyalleşmek icin arkadaşları ile vakit geçirip, sohbet ediyorlar.
 
-
 > Gençlerin 95%'inin pasaportu yok. Pasaportu olmayanların 88%'i önümüzdeki bir yıl içerisinde almayı planlamıyor. Tatil amaçlı olarak yurtdısına çıkan gençlerin oranı sadece 1%. 61%'i hayatında hiç uçağa binmemiş. Seyahatlerinde ağırlıklı tercihi (64%) otobüs yolculuğu yapmak. (sayfa 60)
 
 - Gençlerin kendilerine benzemeyen ve ortak değer sistemine sahip olmayan kişilere karşı hoşgörüsü oldukça düşük.
