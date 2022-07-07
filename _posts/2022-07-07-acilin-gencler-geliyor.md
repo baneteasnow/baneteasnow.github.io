@@ -52,7 +52,7 @@ Z Neslinin ozellikleri ise asagidadir:
 - Anne babaları helikopter ebeveyn olarak onların attıkları adımları yakından takip ederler.
 - Eski nesillerden çok farklılaşan davranış kalıpları vardır. 
 
-#### [[Türkiye'nin 21. Yüzyıl Nesli]](#turkiyenin-yirmi-birinci-yuzyil-nesli)
+#### [Türkiye'nin 21. Yüzyıl Nesli](#turkiyenin-yirmi-birinci-yuzyil-nesli)
 {: #yirmi-birinci-yuzyil-nesli }
 
 - Demografi: Avrupa ülkelerinden daha kalabalık bir grup söz konusudur.
