@@ -5,7 +5,7 @@ last_modified_at: 2022-06-29
 published: true  
 ---
 ⁜  
-Çağımızın Tedirgin İnsanı (1980)  
+Çağımızın Nevrotik Kişiliği (2017)  
 <i>by</i> Karen Horney  
 <br />
 ⁜  
