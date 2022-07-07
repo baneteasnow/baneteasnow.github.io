@@ -14,6 +14,8 @@ published: true
 posted: 2022-07-07
 tag: "sosyoloji"
 instagram: "no"
+insta: "no"
+reread: "no"
 image: "/assets/new/acilin-gencler-geliyor.jpg"
 ---
 
