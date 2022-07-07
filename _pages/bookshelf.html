@@ -7,7 +7,7 @@ last_modified_at: 2021-07-08
 
         {% for post in site.posts %}
            {% if post.category != 'book3' %}
-       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 29%;" /></a>
+       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 29%;" title="{{ post.title }}" /></a>
             {% endif %}
         {% endfor %} 
     <br />
