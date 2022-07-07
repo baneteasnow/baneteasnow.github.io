@@ -45,7 +45,7 @@ Y Nesli, aşağıdaki özellikler ile diğer nesillerden farklılaşıyor:
 - Nesillerin birbirinden giderek farklılaşması nedeni ile, yakın zamanda mikro nesiller ortaya çıkacaktır. Sosyal ağlar, mobil uygulamalar bunun başlıca nedenidir. Y nesli, bu teknolojiyi hayatının ayrılmaz parçası yapan ilk nesildir.
 - Sosyal medyadan cok etkilenmektedirler.
 
-Z Neslinin ozellikleri ise asagidadir:  
+Z Neslinin özellikleri ise asagidadir:  
 - Gerçek anlamda dijital doğanlardır.
 - İlk küresel nesildir.
 - Daha sorunlu bir dünyanın çocuklarıdır.
@@ -53,7 +53,7 @@ Z Neslinin ozellikleri ise asagidadir:
 - Eski nesillerden çok farklılaşan davranış kalıpları vardır. 
 
 #### [Türkiye'nin 21. Yüzyıl Nesli](#turkiyenin-yirmi-birinci-yuzyil-nesli)
-{: #yirmi-birinci-yuzyil-nesli }
+{: #turkiyenin-yirmi-birinci-yuzyil-nesli }
 
 - Demografi: Avrupa ülkelerinden daha kalabalık bir grup söz konusudur.
 - Aile, gençler için temel referans noktasıdır.
