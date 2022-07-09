@@ -13,6 +13,8 @@ last_modified_at: 2022-06-18
 published: true
 posted: 2022-06-18
 tag: "psikoloji"
+insta: "yes"
+instagram: "https://www.instagram.com/p/Cfy46aGIFMY/"
 image: "/assets/new/the-drama-of-the-gifted-child.jpg"
 ---
 
