@@ -13,7 +13,7 @@ last_modified_at: 2022-07-11
 published: true
 posted: 2022-07-11
 tag: "veganlık"
-instagram: "no"
+instagram: "[no](https://www.instagram.com/p/Cf4d6-eIZ4O/"
 insta: "no"
 image: "/assets/new/50-maddede-veganlik.jpg"
 ---
