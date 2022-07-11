@@ -20,7 +20,9 @@ image: "/assets/new/50-maddede-veganlik.jpg"
 
 50 Maddede Veganlık, veganlığın kısa tarihi, veganlıkla ilgili temel kavramlar, vegan yaşam tarzı ile ilgili ayrıntılar gibi pek çok başlığın kısa notlar şeklinde paylaşıldığı veganlıkla ilgili mini bir rehber. 
 
-Bir felsefe ve yaşam biçimi olan veganlık, hayvansal herhangi bir ürünün tüketilmesine karşı çıkar, bunlar yerine alternatiflerin geliştirilmesini destekleyerek sürdürülebilir bir dünyayı hedefler. (sayfa 19) Veganlık, bir hayat tarzı ve beslenme biçimidir. (sayfa 27)
+Bir felsefe ve yaşam biçimi olan veganlık, hayvansal herhangi bir ürünün tüketilmesine karşı çıkar, bunlar yerine alternatiflerin geliştirilmesini destekleyerek sürdürülebilir bir dünyayı hedefler. (sayfa 19) 
+
+Veganlık, bir hayat tarzı ve beslenme biçimidir. (sayfa 27)
 
 The Vegan Socıety'nin kuruluş yıldönümü olan 1 Kasım günü 1994 yılından beri Dünya Vegan Günü olarak kullanmaktadır. (sayfa 22)
 
