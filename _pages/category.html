@@ -27,10 +27,11 @@ published: true
     <br />
 
 <a name="motivation"></a>
-    <div class="link1"><a href="#motivation">lifestyle + motivasyon + seyahat + yaratıcılık</a></div>
+    <div class="link1"><a href="#motivation">lifestyle + motivasyon + seyahat + yaratıcılık + mindfulness</a></div>
 {% for post in site.posts %}
     {% if post.tag == 'lifestyle' or
           post.tag == 'motivasyon' or 
+          post.tag == 'mindfulness' or
           post.tag == 'seyahat' or
           post.tag == 'yaratıcılık' %}      
       <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
