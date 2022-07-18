@@ -14,6 +14,7 @@ published: true
 posted: 2022-07-18
 tag: "psikoloji"
 instagram: "no"
+insta: "no"
 image: "/assets/new/the-cinderella-complex.jpg"
 ---
 
