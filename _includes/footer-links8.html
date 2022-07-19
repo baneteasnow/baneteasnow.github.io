@@ -19,15 +19,16 @@
 </div> 
 
 
-
-   <center>
-      {% if page.previous.url %}
+<div>
+  <div style="font-size: 85%; color: #777; float: left; padding-left: 45%;">
+  {% if page.previous.url %}
     <a href="{{ page.previous.url }}"> <img src="https://www.nonfictionbooks.xyz/assets/left-arrow.jpg" style="width:25px; height:25px; display: inline-block;" title="{{ page.previous.title }}"/></a>
   {% endif %}
-      &nbsp;
-      {% if page.next.url %}
+  </div>
+      <div style="font-size: 85%; color: #777; float: right; padding-right: 45%;">
+  {% if page.next.url %}
     <a href="{{ page.next.url }}"> <img src="https://www.nonfictionbooks.xyz/assets/right-arrow.jpg" style="width:25px; height:25px; display: inline-block;" title="{{ page.next.title }}"/> </i></a>
   {% endif %}
-   </center>
-
+  </div>
+</div> 
       
