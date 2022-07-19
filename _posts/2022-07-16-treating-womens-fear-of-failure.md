@@ -1,4 +1,3 @@
-
 ---
 layout: post
 category: book
@@ -15,6 +14,7 @@ published: true
 posted: 2022-07-16
 tag: "psikoloji"
 instagram: "no"
+insta: "no"
 image: "/assets/new/treating-womens-fear-of-failure.jpg"
 ---
 
