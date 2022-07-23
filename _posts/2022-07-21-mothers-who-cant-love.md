@@ -44,3 +44,4 @@ Susan Forward öncelikle sevgisiz anneleri beş kategoride toparlıyor. Bu kateg
 	- anne çocuğunu korumaktan acizdir, kız çocuk bu nedenle hayatı boyunca ağır duygusal yaralar taşır.
 
 Her bir kategori örneklerle net şekilde açıklanıyor ve kitabın son kısmında ise sevgisiz annelerin yol açtığı hasarı gidermek ve onlarla başa çıkabilmek için çeşitli uygulamalar paylaşılıyor. 
+
