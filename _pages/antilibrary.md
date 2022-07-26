@@ -29,7 +29,7 @@ title: "antilibrary"
 | 12 | xxx (xxx) | xxx |
 | 11 | xxx (xxx) | xxx |
 | 10 | xxx (xxx) | xxx |
-| 9 | ![curve-2-the-cul-de-sac.jpg](xxx) | xxx |
+| 9 | ![curve-2-the-cul-de-sac.jpg](/assets/graph/curve-2-the-cul-de-sac.jpg) | xxx |
 | 8 | xxx (xxx) | xxx |
 | 7 | xxx (xxx) | xxx |
 | 6 | xxx (xxx) | xxx |
