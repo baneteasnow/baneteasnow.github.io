@@ -1,13 +1,10 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-07-25
+last_modified_at: 2022-07-27
 published: true  
 ---
-⁜  
-Twitter ve Toplum (2016)  
-<i>by</i> Katrin Weller, Axel Bruns, Jean Burgess, Merja Mahrt, Cornelius Puschmann  
-<br /> 
+ 
 ⁜  
 Building a Second Brain (2022)  
 <i>by</i> Tiago Forte  
