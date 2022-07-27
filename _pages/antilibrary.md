@@ -7,7 +7,7 @@ title: "antilibrary"
 
 | ⁜ |  |  |
 |:---:|:---- |:---- |
-| 31 | xxx (xxx) | xxx |
+| - [x] | xxx (xxx) | xxx |
 | 30 | xxx (xxx) | xxx |
 | 29 | xxx (xxx) | xxx |
 | 28 | xxx (xxx) | xxx |
