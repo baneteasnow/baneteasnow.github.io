@@ -22,7 +22,7 @@
       <a href="{{ file.path }}" title="{{ filename |  replace:  "-"," " }}"> 
         <!--<img src="{{ file.path }}" alt="{{ filename |  replace:  "-"," " }}" />-->
        <!--<span><div style="word-wrap: break-word !important; font-size: 55%; color: #777">{{ filename }}</div></span>-->
-        <img src="{{ file.path }}q=50&w=300&h=300" alt="{{ filename |  replace:  "-"," " }}" />
+        <img src="{{ file.path }}?q=50&w=300&h=300" alt="{{ filename |  replace:  "-"," " }}" />
         <span>{{ filename }}</span>
       </a>
     {% endif %}
