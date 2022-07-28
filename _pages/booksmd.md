@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568558975l/52260941._SX318_SY475_.jpg)  
