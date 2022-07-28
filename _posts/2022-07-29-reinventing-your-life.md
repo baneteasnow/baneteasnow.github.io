@@ -37,73 +37,73 @@ Zaman içinde danışanlarındaki ortak temaları veya örüntüleri listeler ve
 Bir kişide genellikle birden fazla şema bulunabiliyor. Çocuklukla adeta bir savunma mekanizması olarak kazanılan ancak yetişkinlik döneminde hayatı zorlaştıran bu şemaları fark etmek oldukça sarsıcı olabiliyor. Bu, çoğu kez insanın kendisi ile yüzleşmesi ile müm kün olabiliyor. Kitapta yer alan şema ölçeği bir kişide hangi şemaların baskın olduğunu ortaya koyuyor. Şemaların açıklandığı bölümlerin başında da daha ayrıntılı ölçekler bulunuyor. Baskın şemalar belirlendikten sonra, kitap bu şemalarla başa çıkma stratejilerine de yer veriyor. Hem gerçek yaşamdan paylaşılan vaka örnekleri hem de şemayı değiştirmeye yönelik olarak paylaşılan ipuçları oldukça yararlı. 
 
 
-#### [[Onbir Şema]](#onbir-sema)
+#### [Onbir Şema](#onbir-sema)
 {: #onbir-sema }
 
 [Terk edilme](/reinventing-your-life#terk-edilme) ve [kuşkuculuk ve kötüye kullanılma](/reinventing-your-life#kuskuculuk) şemaları çocukluktan gelen güven eksiliği ile bağlantılıdır.(sayfa 37-42)
 
-#### [[Terk Edilme]](#terk-edilme)
+#### [Terk Edilme](#terk-edilme)
 {: #terk-edilme }
 
 'Lütfen beni terk etme.'
 Terk edilme şeması sevdiğiniz insanların sizi terk edeceği hissidir. 
 
-#### [[Kuşkuculuk ve Kötüye Kullanılma]](#kuskuculuk)
+#### [Kuşkuculuk ve Kötüye Kullanılma](#kuskuculuk)
 {: #kuskuculuk }
 
 'Sana güvenemem.'
 Güvensizlik ve kötüye kullanılma şeması, insanların sizi inciteceğinin veya bir şekilde sizi kötüye kullanacağının beklentisidir. 
 
-#### [[Bağımlılık]](#bagimlilik)
+#### [Bağımlılık](#bagimlilik)
 {: #bagimlilik }
 
 'Tek başıma yapamam.'
 Bağımlılık şemasının içindeyseniz, günlük hayatınızı başkalarının yardımı olmadan sürdüremezsiniz.
 
-#### [[Dayanıksızlık]](#dayaniksizlik)
+#### [Dayanıksızlık](#dayaniksizlik)
 {: #dayansiksizlik }
 
 'Bir felaket olmak üzere.'
 Her an size çarpacak bir felaket korkusu içinde yaşarsınız.
 
-#### [[Duygusal Yoksunluk]](#duygusal-yoksunluk)
+#### [Duygusal Yoksunluk](#duygusal-yoksunluk)
 {: #duygusal-yoksunluk }
 
 'Hiçbir zaman ihtiyacım olan sevgiyi alamayacağm.'
 Duygusal Yoksunluk, sevilme ihtiyacınızın başkaları tarafından yeteri kadar karşılanmayacağı inancıdır.
 
 
-#### [[Sosyal İzolasyon]](#sosyal-izolasyon)
+#### [Sosyal İzolasyon](#sosyal-izolasyon)
 {: #sosyal-izolasyon }
 
 'Uyumsuzum.'
 Sosyal İzolasyon sizin arkadaşlar ve gruplarla olan bağlantınızla ilgilidir. Farklı hissederek dünyanın geri kalanından ayrı algılarsınız.
 
-#### [[Kusurluluk]](#kusurluluk)
+#### [Kusurluluk](#kusurluluk)
 {: #kusurluluk }
 
 'Değersizim.'
 Kusurluluk şeması ile kendinizi içten içe eksik ve kusurlu hissedersiniz.
 
-#### [[Başarısızlık]](#basarisizlik)
+#### [Başarısızlık](#basarisizlik)
 {: #basarisizlik }
 
 'Kendimi başarısız hissediyorum.'
 Başarısızlık, okul, iş ve spor gibi başarmayı gerektiren alanlarda yetersiz olduğunuz inancıdır.
 
-#### [[Boyun Eğicilik]](#boyun-egicilik)
+#### [Boyun Eğicilik](#boyun-egicilik)
 {: #boyun-egicilik }
 
 'Senin dediğin gibi olsun.'
 Boyun eğicilikle birlikte siz kendi ihtiyaç ve arzularınızı başkalarını memnun etmek veya onların ihtiyaçlarını karşılamak için feda edersiniz.
 
-#### [[Yüksek Standartlar]](#yuksek-standartlar)
+#### [Yüksek Standartlar](#yuksek-standartlar)
 {: #yuksek-standartlar }
 
 'Hiçbir zaman yeterince iyi olmuyor.'
 Eğer yüksek standartlar şemanız varsa kendiniz ile ilgili aşırı yüksek beklentileri karşılamak için acımasızca çabalıyorsunuzdur.
 
-#### [[Haklılık]](#haklilik)
+#### [Haklılık](#haklilik)
 {: #haklilik }
 
 'İstediğim her şeye sahip olabilirim.'
