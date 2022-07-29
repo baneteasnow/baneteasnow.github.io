@@ -10,4 +10,3 @@ Building a Second Brain (2022)
 <i>by</i> Tiago Forte  
 <br />
  
-![utopia](/assets/antilibrary/utopia.jpg?q=50&w=200&h=200)
