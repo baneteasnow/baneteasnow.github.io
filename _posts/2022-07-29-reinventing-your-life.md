@@ -40,7 +40,7 @@ Bir kişide genellikle birden fazla şema bulunabiliyor. Çocuklukla adeta bir s
 #### [Şemalar](#schemas)
 {: #schemas }
 
-<div class="link1">[Terk edilme](/reinventing-your-life#the-aboandonment-lifetrap)</div> ve <div class="link1">[kuşkuculuk ve kötüye kullanılma](/reinventing-your-life#the-mistrust-and-abuse-lifetrap)</div> şemaları çocukluktan gelen güven eksiliği ile bağlantılıdır.(sayfa 37-42)
+<span class='link1'>[Terk edilme](/reinventing-your-life#the-aboandonment-lifetrap)</span> ve <span class='link1'>[kuşkuculuk ve kötüye kullanılma](/reinventing-your-life#the-mistrust-and-abuse-lifetrap)</span> şemaları çocukluktan gelen güven eksiliği ile bağlantılıdır.(sayfa 37-42)
 
 #### [Terk Edilme](#the-aboandonment-lifetrap)
 {: #the-aboandonment-lifetrap }
