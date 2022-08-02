@@ -40,7 +40,7 @@ Bir kişide genellikle birden fazla şema bulunabiliyor. Çocuklukla adeta bir s
 #### [Şemalar](#schemas)
 {: #schemas }
 
-[Terk edilme](/reinventing-your-life#the-aboandonment-lifetrap) ve [kuşkuculuk ve kötüye kullanılma](/reinventing-your-life#the-mistrust-and-abuse-lifetrap) şemaları çocukluktan gelen güven eksiliği ile bağlantılıdır.(sayfa 37-42)
+<div class="link1">[Terk edilme](/reinventing-your-life#the-aboandonment-lifetrap)</div> ve <div class="link1">[kuşkuculuk ve kötüye kullanılma](/reinventing-your-life#the-mistrust-and-abuse-lifetrap)</div> şemaları çocukluktan gelen güven eksiliği ile bağlantılıdır.(sayfa 37-42)
 
 #### [Terk Edilme](#the-aboandonment-lifetrap)
 {: #the-aboandonment-lifetrap }
@@ -80,7 +80,7 @@ Duygusal Yoksunluk, sevilme ihtiyacınızın başkaları tarafından yeteri kada
 Sosyal İzolasyon sizin arkadaşlar ve gruplarla olan bağlantınızla ilgilidir. Farklı hissederek dünyanın geri kalanından ayrı algılarsınız.
 
 #### [Kusurluluk](#the-defectiveness-lifetrap)
-{: #the-defectiveness-lifetra }
+{: #the-defectiveness-lifetrap }
 
 'Değersizim.'
 Kusurluluk şeması ile kendinizi içten içe eksik ve kusurlu hissedersiniz.
@@ -104,7 +104,7 @@ Boyun eğicilikle birlikte siz kendi ihtiyaç ve arzularınızı başkalarını 
 Eğer yüksek standartlar şemanız varsa kendiniz ile ilgili aşırı yüksek beklentileri karşılamak için acımasızca çabalıyorsunuzdur.
 
 #### [Haklılık](#the-entitlement-lifetrap)
-{: #the-entitlement-lifetra }
+{: #the-entitlement-lifetrap }
 
 'İstediğim her şeye sahip olabilirim.'
 Haklılık şeması hayattaki gerçek sınırları kabul etme becerisi ile ilişkilidir.
