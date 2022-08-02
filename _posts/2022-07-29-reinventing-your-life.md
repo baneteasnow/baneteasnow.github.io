@@ -37,74 +37,74 @@ Zaman içinde danışanlarındaki ortak temaları veya örüntüleri listeler ve
 Bir kişide genellikle birden fazla şema bulunabiliyor. Çocuklukla adeta bir savunma mekanizması olarak kazanılan ancak yetişkinlik döneminde hayatı zorlaştıran bu şemaları fark etmek oldukça sarsıcı olabiliyor. Bu, çoğu kez insanın kendisi ile yüzleşmesi ile müm kün olabiliyor. Kitapta yer alan şema ölçeği bir kişide hangi şemaların baskın olduğunu ortaya koyuyor. Şemaların açıklandığı bölümlerin başında da daha ayrıntılı ölçekler bulunuyor. Baskın şemalar belirlendikten sonra, kitap bu şemalarla başa çıkma stratejilerine de yer veriyor. Hem gerçek yaşamdan paylaşılan vaka örnekleri hem de şemayı değiştirmeye yönelik olarak paylaşılan ipuçları oldukça yararlı. 
 
 
-#### [Onbir Şema](#onbir-sema)
-{: #onbir-sema }
+#### [Şemalar](#schemas)
+{: #schemas }
 
-[Terk edilme](/reinventing-your-life#terk-edilme) ve [kuşkuculuk ve kötüye kullanılma](/reinventing-your-life#kuskuculuk) şemaları çocukluktan gelen güven eksiliği ile bağlantılıdır.(sayfa 37-42)
+[Terk edilme](/reinventing-your-life#the-aboandonment-lifetrap) ve [kuşkuculuk ve kötüye kullanılma](/reinventing-your-life#the-mistrust-and-abuse-lifetrap) şemaları çocukluktan gelen güven eksiliği ile bağlantılıdır.(sayfa 37-42)
 
-#### [Terk Edilme](#terk-edilme)
-{: #terk-edilme }
+#### [Terk Edilme](#the-aboandonment-lifetrap)
+{: #the-aboandonment-lifetrap }
 
 'Lütfen beni terk etme.'
 Terk edilme şeması sevdiğiniz insanların sizi terk edeceği hissidir. 
 
-#### [Kuşkuculuk ve Kötüye Kullanılma](#kuskuculuk)
-{: #kuskuculuk }
+#### [Kuşkuculuk ve Kötüye Kullanılma](#the-mistrust-and-abuse-lifetrap)
+{: #the-mistrust-and-abuse-lifetrap }
 
 'Sana güvenemem.'
 Güvensizlik ve kötüye kullanılma şeması, insanların sizi inciteceğinin veya bir şekilde sizi kötüye kullanacağının beklentisidir. 
 
-#### [Bağımlılık](#bagimlilik)
-{: #bagimlilik }
+#### [Bağımlılık](#the-dependence-lifetrap)
+{: #the-dependence-lifetrap }
 
 'Tek başıma yapamam.'
 Bağımlılık şemasının içindeyseniz, günlük hayatınızı başkalarının yardımı olmadan sürdüremezsiniz.
 
-#### [Dayanıksızlık](#dayaniksizlik)
-{: #dayansiksizlik }
+#### [Dayanıksızlık](#the-vulnerability-lifetrap)
+{: #the-vulnerability-lifetrap }
 
 'Bir felaket olmak üzere.'
 Her an size çarpacak bir felaket korkusu içinde yaşarsınız.
 
-#### [Duygusal Yoksunluk](#duygusal-yoksunluk)
-{: #duygusal-yoksunluk }
+#### [Duygusal Yoksunluk](#the-emotional-deprivation-lifetrap)
+{: #the-emotional-deprivation-lifetrap }
 
 'Hiçbir zaman ihtiyacım olan sevgiyi alamayacağm.'
 Duygusal Yoksunluk, sevilme ihtiyacınızın başkaları tarafından yeteri kadar karşılanmayacağı inancıdır.
 
 
-#### [Sosyal İzolasyon](#sosyal-izolasyon)
-{: #sosyal-izolasyon }
+#### [Sosyal İzolasyon](#the-social-exclusion-lifetrap)
+{: #the-social-exclusion-lifetrap }
 
 'Uyumsuzum.'
 Sosyal İzolasyon sizin arkadaşlar ve gruplarla olan bağlantınızla ilgilidir. Farklı hissederek dünyanın geri kalanından ayrı algılarsınız.
 
-#### [Kusurluluk](#kusurluluk)
-{: #kusurluluk }
+#### [Kusurluluk](#the-defectiveness-lifetrap)
+{: #the-defectiveness-lifetra }
 
 'Değersizim.'
 Kusurluluk şeması ile kendinizi içten içe eksik ve kusurlu hissedersiniz.
 
-#### [Başarısızlık](#basarisizlik)
-{: #basarisizlik }
+#### [Başarısızlık](#the-failure-lifetrap)
+{: #the-failure-lifetrap }
 
 'Kendimi başarısız hissediyorum.'
 Başarısızlık, okul, iş ve spor gibi başarmayı gerektiren alanlarda yetersiz olduğunuz inancıdır.
 
-#### [Boyun Eğicilik](#boyun-egicilik)
-{: #boyun-egicilik }
+#### [Boyun Eğicilik](#the-subjugation-lifetrap)
+{: #the-subjugation-lifetrap }
 
 'Senin dediğin gibi olsun.'
 Boyun eğicilikle birlikte siz kendi ihtiyaç ve arzularınızı başkalarını memnun etmek veya onların ihtiyaçlarını karşılamak için feda edersiniz.
 
-#### [Yüksek Standartlar](#yuksek-standartlar)
-{: #yuksek-standartlar }
+#### [Yüksek Standartlar](#the-unrelenting-standards-lifetrap)
+{: #the-unrelenting-standards-lifetrap }
 
 'Hiçbir zaman yeterince iyi olmuyor.'
 Eğer yüksek standartlar şemanız varsa kendiniz ile ilgili aşırı yüksek beklentileri karşılamak için acımasızca çabalıyorsunuzdur.
 
-#### [Haklılık](#haklilik)
-{: #haklilik }
+#### [Haklılık](#the-entitlement-lifetrap)
+{: #the-entitlement-lifetra }
 
 'İstediğim her şeye sahip olabilirim.'
 Haklılık şeması hayattaki gerçek sınırları kabul etme becerisi ile ilişkilidir.
