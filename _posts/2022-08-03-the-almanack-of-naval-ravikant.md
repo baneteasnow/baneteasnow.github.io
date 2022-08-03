@@ -18,7 +18,7 @@ insta: "no"
 image: "/assets/new/the-almanack-of-naval-ravikant.jpg"
 ---
 
-Bilgenin Güncesi:, Angellist'in kurucusu, teknoloji girişimcisi ve pek çok unicorn şirketin yatırımcısı olan Naval Ravikant'ın bugüne kadar attığı adeta ders niteliğindeki tweetleri, verdiği röportajların çözümlemeleri, blogunda ve diğer yerlerde paylaştığı yazılarının bir derlemesi niteliğinde. Derlemeyi yapan isim ise Eric Jorgenson. Kitap,<span class="link1">[navalmanack.com](https://www.navalmanack.com)</span> adresinden ücretsiz olarak indirilebiliyor. 
+Bilgenin Güncesi:, Angellist'in kurucusu, teknoloji girişimcisi ve pek çok unicorn şirketin yatırımcısı olan Naval Ravikant'ın bugüne kadar attığı adeta ders niteliğindeki tweetleri, verdiği röportajların çözümlemeleri, blogunda ve diğer yerlerde paylaştığı yazılarının bir derlemesi niteliğinde. Derlemeyi yapan isim ise Eric Jorgenson. Kitap, <span class="link1">[navalmanack.com](https://www.navalmanack.com)</span> adresinden ücretsiz olarak indirilebiliyor. 
 
 Naval Ravikant'ın oldukça sade ve doğrudan hedefe yönelik bir dili var. Verdiği mesajlar kısa ve anlaşılır. Yaptığı paylaşımlarda girişimcilik başta olmak üzere pek çok konuya değiniyor ve kendisinin mutluluğa ve esenliğe nasıl ulaştığını anlatıyor, öneriler getiriyor.
 
