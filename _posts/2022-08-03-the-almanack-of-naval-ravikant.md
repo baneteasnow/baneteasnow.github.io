@@ -29,3 +29,4 @@ Modern çağda hayatı iyileştirecek pek çok noktadan bahseden Naval Ravikant'
 - Mutluluk kazanabileceğiniz bir beceridir - sizi mutlu edenleri bulmak için denemeler yaparsınız, kötü alışkanlıkları iyileriyle değiştirirsiniz, meditasyon yaparsınız, güneşlenirsiniz, çevrenizde pozitif insanlarla birarada olursunuz ve sıfır toplamlı oyunlardan kaçınırsınız. 
 
 Sağlıklı yaşam, zenginlik, aşk ve mutluluk üzerine Naval Ravikant'ın bazı anlarda felsefik sayılabilecek farklı bakış açısını yansıtan kitap, hayatta başarılı olmak için güçlü temeller gerektiğini hatırlatıyor.
+
