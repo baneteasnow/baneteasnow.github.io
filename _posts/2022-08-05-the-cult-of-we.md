@@ -14,7 +14,8 @@ published: true
 posted: 2022-08-05
 tag: "marka profili"
 instagram: "no"
-insta:"no"
+insta: "no"
+reread: "no"
 image: "/assets/new/the-cult-of-we.jpg"
 ---
 
