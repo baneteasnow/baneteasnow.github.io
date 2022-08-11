@@ -68,7 +68,7 @@ Peter Singer, hayvanların acı çekip çekmedikleri sorusuna cevabın 'hayır' 
 "Hayvanlar acıyı hissederler." (sayfa 93)
 
 #### [Veganizm](#veganizm)
-
+{: #veganizm }
 
 #### [Et Yemek Üzerine - Plutarch](#et-yemek-uzerine)
 {: #et-yemek-uzerine }
