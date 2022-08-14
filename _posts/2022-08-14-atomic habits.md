@@ -53,4 +53,3 @@ Tüm büyük şeyler küçük başlangıçlardan gelir. Her alışkanlığın to
 İşte bazen ısrarla da olsa, bir alışkanlığı devam ettirip Gizli Potansiyel Platosu'nu aşmak hedefler yerine sistemlere odaklanmakla mümkün olur. Hedefler elde etmek istediğiniz sonuçlarken, sistemler sizi bu sonuçlara götüren süreçle ilgilidir. Hedefler bir yön belirlemek için gerekli iken, sistemlere ilerleme kaydetmek için ihtiyaç duyulur. 
 
 Tek bir hedef yerine, sistemin tümüne odaklanmak bu kitabın ana temalarından biridir. Bu aynı zamanda 'atomik' kelimesinin alt anlamlarından da biridir. Atomik alışkanlık, küçük bir değişikliğe, az bir kazanıma, 1%'lik ilerlemeye işaret etmektedir. Atomik alışkanlıklar, küçük olsalar da, aslında büyük bir sistemin parçası olan alışkanlıklardır. Tıpkı atomların moleküllerin yapı taşları olması gibi, alışkanlıklar da dikkate değer sonuçların yapı taşıdır.
-
