@@ -109,7 +109,7 @@ Eğer yüksek standartlar şemanız varsa kendiniz ile ilgili aşırı yüksek b
 'İstediğim her şeye sahip olabilirim.'
 Haklılık şeması hayattaki gerçek sınırları kabul etme becerisi ile ilişkilidir.
 
-Şemaların üç temel özelliği (sayfa 43):
+[Şemalar](#schemas)ın üç temel özelliği (sayfa 43):
 - Şemalar hayat boyu süren örüntüler veya temalardır.
 - Şemalar özyıkıcıdır.
 - Şemalar hayatta kalmak için savaş verirler.
@@ -131,7 +131,7 @@ Haklılık şeması hayattaki gerçek sınırları kabul etme becerisi ile iliş
 ![11 sema ozeti - sayfa 57](/assets/graph/11-sema-ozeti.jpg)
 <center>sayfa 57</center>
 
-[:Şema](#schemas) ile başa çıkmanın üç biçimi (sayfa 60):
+Şema ile başa çıkmanın üç biçimi (sayfa 60):
 - teslim,
 - kaçma,
 - karşı saldırı
