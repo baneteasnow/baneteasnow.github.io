@@ -131,7 +131,7 @@ Haklılık şeması hayattaki gerçek sınırları kabul etme becerisi ile iliş
 ![11 sema ozeti - sayfa 57](/assets/graph/11-sema-ozeti.jpg)
 <center>sayfa 57</center>
 
-Şema ile başa çıkmanın üç biçimi (sayfa 60):
+[:Şema](#schemas) ile başa çıkmanın üç biçimi (sayfa 60):
 - teslim,
 - kaçma,
 - karşı saldırı
