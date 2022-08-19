@@ -109,7 +109,7 @@ Eğer yüksek standartlar şemanız varsa kendiniz ile ilgili aşırı yüksek b
 'İstediğim her şeye sahip olabilirim.'
 Haklılık şeması hayattaki gerçek sınırları kabul etme becerisi ile ilişkilidir.
 
-[:Şemalar](#schemas) ın üç temel özelliği (sayfa 43):
+Şemalar ın üç temel özelliği (sayfa 43):
 - Şemalar hayat boyu süren örüntüler veya temalardır.
 - Şemalar özyıkıcıdır.
 - Şemalar hayatta kalmak için savaş verirler.
