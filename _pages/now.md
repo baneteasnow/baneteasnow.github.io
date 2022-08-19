@@ -6,7 +6,7 @@ published: true
 ---
  
 ⁜  
-Building a Second Brain (2022)  
-<i>by</i> Tiago Forte  
+12 Rules For Life (2018)  
+<i>by</i> Jordan B. Peterson  
 <br />
  
