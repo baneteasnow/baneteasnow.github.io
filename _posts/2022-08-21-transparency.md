@@ -10,7 +10,7 @@ sayfa: "143"
 goodreads: "https://www.goodreads.com/book/show/2965646-transparency"
 description: "Şeffaflık, organizasyonlarda açıklık kültürünün çeşitli yönlerini tartışan üç farklı makalenin birarada toplandığı bir kitap."
 last_modified_at: 2022-08-21
-published: false
+published: true
 posted: 2022-08-21
 tag: "yönetim"
 instagram: "no"
