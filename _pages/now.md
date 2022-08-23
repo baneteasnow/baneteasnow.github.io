@@ -1,12 +1,12 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-08-20
+last_modified_at: 2022-08-23
 published: true  
 ---
  
 ⁜  
-Almanlar Neden Daha İyi Yapıyor? - Gelişmiş Bir Ülkeden Notlar (2021)  
-<i>by</i> John Kampfner  
+101 Essays That Will Change The Way You Think (2016)  
+<i>by</i> Brianna Wiest  
 <br />
  
