@@ -23,7 +23,7 @@ Farkındalık, anın bilincinde olarak, sadece o ana odaklanmaktır.  Örneğin,
 
 Patrizia Collard, farkındalığın son dönemde bir terapi türü olarak kullanıldığını anlatıyor. Ayrıca, düzenli olarak farkındalık egzersizleri yapmanın da faydalarından bahsediyor. Bu kısa kitapta yer alan egzersizler ise nefes ve duruş egzersizleri ile etrafta olan biteni 5 duyunuz ile 'gerçekten' algılamanızı sağlayacak uygulamalardan oluşuyor.
 
-Kitabın bölümleri:
+Kitabın bölümleri ve bir cümlede içerikleri şöyle:
 
 - Anda olmak - yargılamadan, görerek anı tecrübe etmeyi gerektirir.
 - Kabullenin ve karşılık verin - zihni ve bedeni farkındalık egzersizleri ile meşgul ederek, işleri akışına bırakmanızı sağlar.
