@@ -9,9 +9,9 @@ yil: "2017"
 sayfa: "200"
 goodreads: "https://www.goodreads.com/book/show/130384.The_Neurotic_Personality_of_Our_Time"
 description: "Karen Horney, Çağımızın Nevrotik Kişiliği isimli kitabında bir yandan nevrotik kişilerin yapılarını anlatırken, diğer yandan da onların içinde bulundukları çatışmaları, endişeleri, acıları ve hem kendileri ile hem de başkaları ile olan ilişkilerinde yaşadıkları güçlükleri ortaya koymaktadır. "
-last_modified_at: 2022-08-24
+last_modified_at: 2022-08-31
 published: true
-posted: 2022-08-24
+posted: 2022-08-31
 tag: "psikoloji"
 insta: "no"
 instagram: "no"
