@@ -9,9 +9,9 @@ yil: "2017"
 sayfa: "400"
 goodreads: "https://www.goodreads.com/book/show/638925.On_Being_a_Therapist"
 description: "Jeffrey A. Kottler, Terapist Olmak Üzerine isimli kitabında terapistliği görünen ve daha çok perde arkasında kalan tüm yönleri ile ele alıyor. "
-last_modified_at: 2022-09-03
+last_modified_at: 2022-09-10
 published: true
-posted: 2022-09-03
+posted: 2022-09-10
 tag: "psikoloji"
 instagram: "no"
 insta: "no"
