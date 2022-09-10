@@ -30,3 +30,4 @@ Terapist olmak, iç dünyayı ilgilendiren pek çok riski de beraberinde getirir
 Duygusal dengesini sağlamakta zorlanan bir terapistin henüz kendini bile  ikna edemediği bir yol haritasını danışanına sunması onu iki yüzlü yapar mı? Tıpkı terapistlerin danışanlarını değiştirmeye çabaladıkları gibi, danışanlar da terapistlerini değiştirmeye çabalarlar. Terapistin ofisi, dikkat dağıtıcı unsurlardan arındırılmış, ritüellerin baskın olduğu zamansız bir ortam sunar. Terapistler kusursuz olmadıkları halde günlerini doğaçlama bir bilgelikle geçirirler, akşam eve vardıklarında ise kusurlu normalliklerine geri dönerler. 
 
 Terapistlerin tükenmiş hissetmelerine yol açan en önemli zorluklardan bazıları, maddi kaygılar nedeni ile gelen her yeni danışanı kabul etmek, terapinin teori ve tekniğinde meydana gelen yeni gelişmeler nedeni ile sürekli kendini geliştirmek zorunda hissetmek ve hayatın akışındaki yoğun stresle yaşamaktır.
+
