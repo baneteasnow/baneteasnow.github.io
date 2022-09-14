@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-09-07
+last_modified_at: 2022-09-14
 published: true  
 ---
  
@@ -11,6 +11,5 @@ published: true
 <br />
 ⁜ 
 
-%100 Düşünce Gücü - Düşünce Gücünüzü Kullanarak Hayatınızı Yönlendirmeyi Öğrenin (2001)  
-<i>by</i> Jack Ensign Addington
+
  
