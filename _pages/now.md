@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-09-14
+last_modified_at: 2022-09-21
 published: true  
 ---
  
@@ -10,8 +10,8 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜  
-101 Ways to Go Zero Waste (2021)  
-<i>by</i> Kathryn Kellogg  
+Mindfulness (25th anniversary edition) (2021)  
+<i>by</i> Ellen J. Langer  
 <br />
 
  
