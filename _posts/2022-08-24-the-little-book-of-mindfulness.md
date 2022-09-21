@@ -1,8 +1,8 @@
 ---
 layout: post
 category: book
-title: "The Little Boook of Mindfulness | Patrizia Collard (Kitap)"
-kitap: "The Little Boook of Mindfulness - 10 Minutes a Day to Less Stress, More Peace"
+title: "The Little Book of Mindfulness | Patrizia Collard (Kitap)"
+kitap: "The Little Book of Mindfulness - 10 Minutes a Day to Less Stress, More Peace"
 tr: "Küçük Farkındalık Kitabı - Daha Az Stres, Daha Çok Huzur için Günde 10 Dakika"
 yazar: "Patrizia Collard"
 yil: "2019"
