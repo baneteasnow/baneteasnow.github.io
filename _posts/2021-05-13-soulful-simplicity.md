@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Soulful Simplicity | Courtney Carver (Kitap)"
 kitap: "Soulful Simplicity: How Living with Less Can Lead to So Much More"
-tr: "-"
+tr: "Sadeliğin Dayanılmaz Hafifliği - Daha azla yaşamak nasıl daha fazlasına ulaştırır?"
 yazar: "Courtney Carver"
 yil: "2017"
 sayfa: "234"
