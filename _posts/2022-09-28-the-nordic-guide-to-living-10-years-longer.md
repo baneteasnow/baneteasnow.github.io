@@ -59,4 +59,3 @@ Dişetindeki enflamasyonlar damar sağlığını etkiler
 
 10. İpucu - Birbirimize ihtiyacımız var
 
-
