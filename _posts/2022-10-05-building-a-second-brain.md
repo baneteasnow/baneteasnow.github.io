@@ -60,3 +60,4 @@ PARA, alandan bağımsız olarak bir notu o andaki işlenebilirlik seviyesine g�
 
 > Bu not, en çok hangi projede işime yarar?
 
+
