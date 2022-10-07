@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-10-01
+last_modified_at: 2022-10-07
 published: true  
 ---
  
@@ -18,7 +18,15 @@ Feng Shui - Arranging Your Home to Change Your Life (2020)
 <i>by</i> Kirsten M. Lagatree  
 <br />
 ⁜  
-Evren Sizi Destekleyecek (2020)  
-<i>by</i> Gabrielle Bernstein  
+MAsal Terapi (2022)  
+<i>by</i> Judith Malika Liberman    
 <br />
-  
+*  
+Stoacının Günlüğü (2020)  
+<i>by</i> Ryan Holiday, Stephen Hanselman  
+<br />
+*  
+Yaratıcı İmgeleme (2021)  
+<i>by</i> Shakti Gawain  
+<br />
+*  
