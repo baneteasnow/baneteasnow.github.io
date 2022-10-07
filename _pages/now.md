@@ -18,14 +18,14 @@ Feng Shui - Arranging Your Home to Change Your Life (2020)
 <i>by</i> Kirsten M. Lagatree  
 <br />
 ⁜  
-MAsal Terapi (2022)  
+Masal Terapi (2022)  
 <i>by</i> Judith Malika Liberman    
 <br />
-⁜ 
+⁜  
 Stoacının Günlüğü (2020)  
 <i>by</i> Ryan Holiday, Stephen Hanselman  
 <br />
-⁜ 
+⁜  
 Yaratıcı İmgeleme (2021)  
 <i>by</i> Shakti Gawain  
 <br />
