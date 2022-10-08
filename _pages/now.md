@@ -29,16 +29,16 @@ Stoacının Günlüğü (2020)
 Yaratıcı İmgeleme (2021)  
 <i>by</i> Shakti Gawain  
 <br />
-⁜ 
+⁜  
 Spiritüel Yasalar (2022)  
 <i>by</i> Diana Cooper  
 <br />
-⁜ 
+⁜  
 Beş Sevgi Dili (2022)  
 <i>by</i> Gary Chapman  
 <br />
-⁜ 
+⁜  
 İçimizdeki Kapıları Açmak (2016)  
 <i>by</i> Eileen Caddy  
 <br />
-⁜ 
+⁜  
