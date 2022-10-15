@@ -1,44 +1,44 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-10-08
+last_modified_at: 2022-10-15
 published: true  
 ---
- 
+
 ⁜  
-101 Essays That Will Change The Way You Think (2016)  
-<i>by</i> Brianna Wiest  
+Meditasyon (2016)  
+<i>by</i> Christophe Andre  
 <br />
 ⁜  
-Ikigai - Yaşamın anlamını günlük hayatın akışı içinde bulmak (2019)  
-<i>by</i> Bettina Lemke  
+Duygusal Açlık (2020)  
+<i>by</i> Doreen Virtue  
 <br />
 ⁜  
 Feng Shui - Arranging Your Home to Change Your Life (2020)  
 <i>by</i> Kirsten M. Lagatree  
 <br />
 ⁜  
-Masal Terapi (2022)  
-<i>by</i> Judith Malika Liberman    
+Beş Sevgi Dili (2022)  
+<i>by</i> Gary Chapman  
+<br />
+⁜  
+Mucize Dolu Bir Yıl (2015)  
+<i>by</i> Marianne Williamson  
+<br />
+⁜  
+İçimizdeki Kapıları Açmak (2016)  
+<i>by</i> Eileen Caddy  
 <br />
 ⁜  
 Stoacının Günlüğü (2020)  
 <i>by</i> Ryan Holiday, Stephen Hanselman  
 <br />
 ⁜  
-Yaratıcı İmgeleme (2021)  
-<i>by</i> Shakti Gawain  
+Masal Terapi (2022)  
+<i>by</i> Judith Malika Liberman    
 <br />
 ⁜  
-Spiritüel Yasalar (2022)  
-<i>by</i> Diana Cooper  
-<br />
-⁜  
-Beş Sevgi Dili (2022)  
-<i>by</i> Gary Chapman  
-<br />
-⁜  
-İçimizdeki Kapıları Açmak (2016)  
-<i>by</i> Eileen Caddy  
+101 Essays That Will Change The Way You Think (2016)  
+<i>by</i> Brianna Wiest  
 <br />
 ⁜  
