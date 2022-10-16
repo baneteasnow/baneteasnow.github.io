@@ -28,3 +28,4 @@ Almanya'nın en büyük sorunlarının başında ekonomik duraklama yer alıyor.
 Avrupa Birliği'ne olan inancın bu şekilde sarsılmış olması ve yaşanan diğer sıcak gelişmeler eşliğinde Kampfner, bugün Almanlar'ın değer verdikleri hemen her şeyin tehdit altında olduğunu hissettiklerini belirtiyor. Kendilerini dakik ve doğrucu olarak tanımlayan Almanların diğer toplumlara kıyasla neyi daha iyi yaptıklarını inceliyor. Öncelikle İkinci Dünya Savaşı sonrasında yaşananlara odaklanıyor ve yakın zamanda görevinden ayrılan Merkel'in yükselişini ve liderliğini tartışıyor. Yaşanan göçlerle çokkültürlülüğü daha da derinleşen bir Almanya'da savaş sonrası yeniden ayağa kaldırılan ekonomiyi ve Berlin Duvarı'nın yıkılışının gündelik hayata etkilerine odaklanıyor. 
 
 Kitap, Almanya'nın rasyonel kalabilmesi sayesinde pek çok alanda liderliğini koruduğunu ya da liderliğe oynadığını belirtiyor. İklim krizi ve alınması gereken önlemler de ülke gündemini epey meşgul ediyor.
+
