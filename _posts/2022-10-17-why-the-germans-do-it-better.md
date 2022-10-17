@@ -29,3 +29,4 @@ Avrupa Birliği'ne olan inancın bu şekilde sarsılmış olması ve yaşanan di
 
 Kitap, Almanya'nın rasyonel kalabilmesi sayesinde pek çok alanda liderliğini koruduğunu ya da liderliğe oynadığını belirtiyor. İklim krizi ve alınması gereken önlemler de ülke gündemini epey meşgul ediyor.
 
+
