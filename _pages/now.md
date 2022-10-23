@@ -25,24 +25,25 @@ Beş Sevgi Dili (2022)
 101 Essays That Will Change The Way You Think (2016)  
 <i>by</i> Brianna Wiest  
 <br />
-⁜  
-<i><u>Yıl boyunca...</u></i>  
-⁜  
+&nbsp;  
+
+<i><b>Yıl boyunca...</b></i>  
 <br />
-  Mucize Dolu Bir Yıl (2015)  
-  <i>by</i> Marianne Williamson  
+&nbsp; &nbsp; ⁜  
+&nbsp; &nbsp; Mucize Dolu Bir Yıl (2015)  
+&nbsp; &nbsp; <i>by</i> Marianne Williamson  
 <br />
-⁜  
-  İçimizdeki Kapıları Açmak (2016)  
-  <i>by</i> Eileen Caddy  
+&nbsp; &nbsp; ⁜    
+&nbsp; &nbsp; İçimizdeki Kapıları Açmak (2016)  
+&nbsp; &nbsp; <i>by</i> Eileen Caddy  
 <br />
-⁜  
-  Stoacının Günlüğü (2020)  
-  <i>by</i> Ryan Holiday, Stephen Hanselman  
+&nbsp; &nbsp; ⁜  
+&nbsp; &nbsp; Stoacının Günlüğü (2020)  
+&nbsp; &nbsp; <i>by</i> Ryan Holiday, Stephen Hanselman  
 <br />
-⁜  
-  Masal Terapi (2022)  
-  <i>by</i> Judith Malika Liberman    
+&nbsp; &nbsp; ⁜  
+&nbsp; &nbsp; Masal Terapi (2022)  
+&nbsp; &nbsp; <i>by</i> Judith Malika Liberman    
 <br />
 ⁜  
  
