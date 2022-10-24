@@ -21,10 +21,6 @@ Tanrılar Okulu (2021)
 Beş Sevgi Dili (2022)  
 <i>by</i> Gary Chapman  
 <br />
-⁜  
-101 Essays That Will Change The Way You Think (2016)  
-<i>by</i> Brianna Wiest  
-<br />
 &nbsp;  
 
 <i><b>Yıl boyunca...</b></i>  
@@ -48,6 +44,10 @@ Beş Sevgi Dili (2022)
 &nbsp; &nbsp; ⁜  
 &nbsp; &nbsp; A Course in Miracles (2007)  
 &nbsp; &nbsp; <i>by</i> Helen Schucman    
+<br />
+&nbsp; &nbsp; ⁜  
+&nbsp; &nbsp; 101 Essays That Will Change The Way You Think (2016)  
+&nbsp; &nbsp; <i>by</i> Brianna Wiest  
 <br />
 ⁜  
  
