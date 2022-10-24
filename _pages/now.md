@@ -45,5 +45,9 @@ Beş Sevgi Dili (2022)
 &nbsp; &nbsp; Masal Terapi (2022)  
 &nbsp; &nbsp; <i>by</i> Judith Malika Liberman    
 <br />
+&nbsp; &nbsp; ⁜  
+&nbsp; &nbsp; A Course in Miracles (2007)  
+&nbsp; &nbsp; <i>by</i> Helen Schucman    
+<br />
 ⁜  
  
