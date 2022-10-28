@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-10-15
+last_modified_at: 2022-10-28
 published: true  
 ---
 
@@ -16,10 +16,6 @@ Sevgiye Dönüş (2022)
 ⁜  
 Tanrılar Okulu (2021)  
 <i>by</i> Stefano D'Anna  
-<br />
-⁜  
-Beş Sevgi Dili (2022)  
-<i>by</i> Gary Chapman  
 <br />
 &nbsp;  
 
