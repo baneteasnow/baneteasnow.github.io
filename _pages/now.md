@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitap  
-last_modified_at: 2022-10-28
+last_modified_at: 2022-10-29
 published: true  
 ---
 
@@ -36,10 +36,6 @@ Aklını En Doğru Şekilde Kullan  (2020)
 ⁜  
 Bilinçaltı Zihninizin Gücü (2021)  
 <i>by</i> C. James Jensen  
-<br />
-⁜  
-Masal Terapi (2022)  
-<i>by</i> Judith Malika Liberman    
 <br />
 &nbsp;  
 
