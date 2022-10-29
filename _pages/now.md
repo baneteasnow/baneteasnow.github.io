@@ -13,6 +13,26 @@ Meditasyon (2016)
 Tanrılar Okulu (2021)  
 <i>by</i> Stefano D'Anna  
 <br />
+⁜  
+İmposter Sendromu (2020)  
+<i>by</i> Sandi Mann  
+<br />
+⁜  
+Evrensel Yasalar (2021)  
+<i>by</i> Diana Cooper  
+<br />
+⁜  
+The Secret (2007)  
+<i>by</i> Rhonda Byrne  
+<br />
+⁜  
+Ruhsal Psikoloji (2017)  
+<i>by</i> Steve Rother  
+<br />
+⁜  
+Masal Terapi (2022)  
+<i>by</i> Judith Malika Liberman    
+<br />
 &nbsp;  
 
 <i><b>Yıl boyunca...</b></i>  
@@ -28,10 +48,6 @@ Tanrılar Okulu (2021)
 &nbsp; &nbsp; ⁜  
 &nbsp; &nbsp; Stoacının Günlüğü (2020)  
 &nbsp; &nbsp; <i>by</i> Ryan Holiday, Stephen Hanselman  
-<br />
-&nbsp; &nbsp; ⁜  
-&nbsp; &nbsp; Masal Terapi (2022)  
-&nbsp; &nbsp; <i>by</i> Judith Malika Liberman    
 <br />
 &nbsp; &nbsp; ⁜  
 &nbsp; &nbsp; A Course in Miracles (2007)  
