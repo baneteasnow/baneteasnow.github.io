@@ -10,10 +10,6 @@ Meditasyon (2016)
 <i>by</i> Christophe Andre  
 <br />
 ⁜  
-Sevgiye Dönüş (2022)  
-<i>by</i> Marianne Williamson  
-<br />
-⁜  
 Tanrılar Okulu (2021)  
 <i>by</i> Stefano D'Anna  
 <br />
