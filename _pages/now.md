@@ -33,10 +33,10 @@ Ruhsal Psikoloji (2017)
 Aklını En Doğru Şekilde Kullan  (2020)  
 <i>by</i> Carol S. Dweck    
 <br />
+⁜  
 Bilinçaltı Zihninizin Gücü (2021)  
 <i>by</i> C. James Jensen  
 <br />
-⁜  
 ⁜  
 Masal Terapi (2022)  
 <i>by</i> Judith Malika Liberman    
