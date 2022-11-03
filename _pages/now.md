@@ -62,8 +62,8 @@ Dijital Çağa Nasıl Uyum Sağlarız (2013)
 <i>by</i> Tom Chatfıeld  
 <br />
 ⁜ 15  
-Dijital Çağa Nasıl Uyum Sağlarız (2013)  
-<i>by</i> Tom Chatfıeld  
+Ruhun Yasaları (2022)  
+<i>by</i> Dan Millman  
 <br />
 ⁜ 16  
 101 Essays That Will Change The Way You Think (2016)  
