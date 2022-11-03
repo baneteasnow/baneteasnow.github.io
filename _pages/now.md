@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-10-29
+last_modified_at: 2022-11-03
 published: true  
 ---
 
@@ -62,10 +62,6 @@ Dijital Çağa Nasıl Uyum Sağlarız (2013)
 <i>by</i> Tom Chatfıeld  
 <br />
 ⁜ 15  
-Bölünmüş Bir Dünyada Akıl Sağlığımızı Nasıl Koruruz (2022)  
-<i>by</i> Elif Şafak  
-<br />
-⁜ 16   
 101 Essays That Will Change The Way You Think (2016)  
 <i>by</i> Brianna Wiest  
 <br />
