@@ -6,8 +6,8 @@ published: true
 ---
 
 ⁜ 1  
-Meditasyon (2016)  
-<i>by</i> Christophe Andre  
+101 Essays That Will Change The Way You Think (2016)  
+<i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
 Tanrılar Okulu (2021)  
@@ -64,10 +64,6 @@ Dijital Çağa Nasıl Uyum Sağlarız (2013)
 ⁜ 15  
 Ruhun Yasaları (2022)  
 <i>by</i> Dan Millman  
-<br />
-⁜ 16  
-101 Essays That Will Change The Way You Think (2016)  
-<i>by</i> Brianna Wiest  
 <br />
 &nbsp;  
 
