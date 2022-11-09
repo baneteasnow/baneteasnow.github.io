@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-11-03
+last_modified_at: 2022-11-09
 published: true  
 ---
 
@@ -14,8 +14,8 @@ Tanrılar Okulu (2021)
 <i>by</i> Stefano D'Anna  
 <br />
 ⁜ 3  
-İmposter Sendromu (2020)  
-<i>by</i> Sandi Mann  
+Ruhun Yasaları (2022)  
+<i>by</i> Dan Millman  
 <br />
 ⁜ 4  
 Evrensel Yasalar (2021)  
@@ -59,11 +59,7 @@ Akıl Sağlığımızı Nasıl Koruruz (2013)
 <br />
 ⁜ 14  
 Dijital Çağa Nasıl Uyum Sağlarız (2013)  
-<i>by</i> Tom Chatfıeld  
-<br />
-⁜ 15  
-Ruhun Yasaları (2022)  
-<i>by</i> Dan Millman  
+<i>by</i> Tom Chatfıeld   
 <br />
 &nbsp;  
 
