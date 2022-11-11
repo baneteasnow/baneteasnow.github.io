@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-11-09
+last_modified_at: 2022-11-11
 published: true  
 ---
 
@@ -14,8 +14,8 @@ Tanrılar Okulu (2021)
 <i>by</i> Stefano D'Anna  
 <br />
 ⁜ 3  
-Ruhun Yasaları (2022)  
-<i>by</i> Dan Millman  
+Bilinçaltı Zihninizin Gücü (2021)  
+<i>by</i> C. James Jensen  
 <br />
 ⁜ 4  
 Evrensel Yasalar (2021)  
@@ -34,30 +34,18 @@ Aklını En Doğru Şekilde Kullan  (2020)
 <i>by</i> Carol S. Dweck    
 <br />
 ⁜ 8  
-Bilinçaltı Zihninizin Gücü (2021)  
-<i>by</i> C. James Jensen  
-<br />
-⁜ 9  
-Ben, Steve (2011)  
-<i>by</i> George Beahm  
-<br />
-⁜ 10  
-Steve Jobs - Sokrates'le Akşam Yemeği (2016)  
-<i>by</i> Alan Ken Thomas  
-<br />
-⁜ 11  
 Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)  
 <i>by</i> John Armstrong  
 <br />
-⁜ 12  
+⁜ 9   
 Dünyamızı Nasıl Değiştiririz (2013)  
 <i>by</i> John-Paul Flintoff  
 <br />
-⁜ 13  
+⁜ 10  
 Akıl Sağlığımızı Nasıl Koruruz (2013)  
 <i>by</i> Philippa Perry  
 <br />
-⁜ 14  
+⁜ 11  
 Dijital Çağa Nasıl Uyum Sağlarız (2013)  
 <i>by</i> Tom Chatfıeld   
 <br />
