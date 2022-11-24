@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-11-11
+last_modified_at: 2022-11-24
 published: true  
 ---
 
@@ -30,8 +30,8 @@ Ruhsal Psikoloji (2017)
 <i>by</i> Steve Rother  
 <br />
 ⁜ 7  
-Aklını En Doğru Şekilde Kullan  (2020)  
-<i>by</i> Carol S. Dweck    
+Dijital Çağa Nasıl Uyum Sağlarız (2013)  
+<i>by</i> Tom Chatfıeld   
 <br />
 ⁜ 8  
 Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)  
@@ -44,10 +44,6 @@ Dünyamızı Nasıl Değiştiririz (2013)
 ⁜ 10  
 Akıl Sağlığımızı Nasıl Koruruz (2013)  
 <i>by</i> Philippa Perry  
-<br />
-⁜ 11  
-Dijital Çağa Nasıl Uyum Sağlarız (2013)  
-<i>by</i> Tom Chatfıeld   
 <br />
 &nbsp;  
 
