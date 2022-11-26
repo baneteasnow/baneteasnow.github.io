@@ -26,8 +26,8 @@ The Secret (2007)
 <i>by</i> Rhonda Byrne  
 <br />
 ⁜ 6  
-Ruhsal Psikoloji (2017)  
-<i>by</i> Steve Rother  
+Akıl Sağlığımızı Nasıl Koruruz (2013)  
+<i>by</i> Philippa Perry  
 <br />
 ⁜ 7  
 Dijital Çağa Nasıl Uyum Sağlarız (2013)  
@@ -40,10 +40,6 @@ Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)
 ⁜ 9   
 Dünyamızı Nasıl Değiştiririz (2013)  
 <i>by</i> John-Paul Flintoff  
-<br />
-⁜ 10  
-Akıl Sağlığımızı Nasıl Koruruz (2013)  
-<i>by</i> Philippa Perry  
 <br />
 &nbsp;  
 
