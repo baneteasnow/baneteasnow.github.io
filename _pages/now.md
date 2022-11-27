@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-11-24
+last_modified_at: 2022-11-27
 published: true  
 ---
 
@@ -18,12 +18,12 @@ Bilinçaltı Zihninizin Gücü (2021)
 <i>by</i> C. James Jensen  
 <br />
 ⁜ 4  
-Evrensel Yasalar (2021)  
-<i>by</i> Diana Cooper  
-<br />
-⁜ 5  
 The Secret (2007)  
 <i>by</i> Rhonda Byrne  
+<br />
+⁜ 5  
+Dünyamızı Nasıl Değiştiririz (2013)  
+<i>by</i> John-Paul Flintoff  
 <br />
 ⁜ 6  
 Akıl Sağlığımızı Nasıl Koruruz (2013)  
@@ -36,10 +36,6 @@ Dijital Çağa Nasıl Uyum Sağlarız (2013)
 ⁜ 8  
 Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)  
 <i>by</i> John Armstrong  
-<br />
-⁜ 9   
-Dünyamızı Nasıl Değiştiririz (2013)  
-<i>by</i> John-Paul Flintoff  
 <br />
 &nbsp;  
 
