@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-11-27
+last_modified_at: 2022-12-03
 published: true  
 ---
 
@@ -14,8 +14,8 @@ Tanrılar Okulu (2021)
 <i>by</i> Stefano D'Anna  
 <br />
 ⁜ 3  
-Bilinçaltı Zihninizin Gücü (2021)  
-<i>by</i> C. James Jensen  
+Chakra El Kitabi (2000)  
+<i>by</i> S. Sharamon & B. J. Baginski  
 <br />
 ⁜ 4  
 The Secret (2007)  
