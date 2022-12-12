@@ -48,4 +48,3 @@ Dünyanın gidişatı ve bizim bu gidişattaki yerimizle ilgili yoğun kaygı ha
 Batılı ülkeler başka ülkelerde yaşanan çalkantılı günlerin kendilerine asla uğramayacağını çünkü kendi mücadelelerini çoktan verdiklerini ve kazandıklarını düşündüler. Pandemi sonrası dünya, tarihin geriye doğru akabileceğinin kanıtı oldu. İlerleme ve istikrar hiçbir ülke için garanti değildi çünkü hiçbir ülke kaygılarını gerçek anlamda aşamamıştı.
 
 Demokrasiyi kurmak zor, elden gitmesi ise çok kolaydır. Kestirme yollar değil, çoklu aidiyetlere giden karmaşık yollar bizi bu çıkmazdan kurtaracaktır. Empati, bilgelik, hümanizm gibi araçlar bizde var. Önemli olan duygulardan korkmadan harekete geçebilmektir.
-
