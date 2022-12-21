@@ -41,27 +41,27 @@ Masallardan her birinde ders niteliğinde bir mesaj var. Aynı zamanda her masal
 
 #### [Barnous Papazı](#barnous-papazi) (sayfa 93)
 {: #barnous-papazi }
-
+  
 **Alıştırma**  
 > 	Melekleri tanımak  
 > Günlük hayatına katkı yapan yardımcıların kimler? İçtiğin kapuçinonun köpüğünü çırpan, sana doğru anda doğru kitabı ödünç veren, önünden hızla bir araba geçerken seni arkandan tutan görünmez kişiler. Onları fark et ve sihirli yardımcıların olarak kabul et.
 
 #### [Gece İz Sürmek](#gece-iz-surmek) (sayfa 124)
 {: #gece-iz-surmek }
-
+  
 **Alıştırma**  
 > 	Kalp açıcı  
 > Dünyayı olduğu gibi sevmek için kalbimi açıyorum.
 
 #### [Mağaradan Bir Ders](#magaradan-bir-ders) (sayfa 128)
 {: #magaradan-bir-ders }
-
+  
 **Alıntı**  
 > En derin korkumuz yetersizlik değildir. Bizi en çok korkutan karanlığımız değil, ışığımızdır. - Marienne Williamson
 
 #### [Kaplanlara Karşı](#kaplanlara-karsi) (sayfa 152)
 {: #kaplanlara-karsi }
-
+  
 **Alıntı**  
 > Herkes korkar. Bazen korkuyla ilgili yapabileceğimiz en iyi şey onunla arkadaş olmaktır. Onu kabullen ve her zaman yeniden ortaya çikacağını bil. Dünyamızın ve ilişkilerimizin böylesine karmaşık olmasının temel bir nedeni varsa o da endişemizden, korkumuzdan ve utancımızdan, uzun vadeli sonuçlarına bakmaksızın, olabildiğince çabuk kurtulmaya çalışmamızdır. Bunu yaparken genelde başkalarını suçlarız ve farkında olmasak da bir dolu şekilde kendimize karşı hareket etmiş oluruz. Korkudan kaynaklanan düşüncelerimizi doğru, en iyi, gerekli veya gerçek düşüncelerimizle karıştırırız.
 
@@ -104,13 +104,14 @@ Masallardan her birinde ders niteliğinde bir mesaj var. Aynı zamanda her masal
 
 #### [Baba ve Oğul](#baba-ve-ogul) (sayfa 177)
 {: #baba-ve-ogul }
-
+  
 **Mesaj**  
 > 	Şu andaki zenginliği gör  
 > Gerçek zenginlik, daha çok mala sahip olmak değil az şeye ihtiyaç duymaktır.  
 
 #### [Şansı Uyuyan Adam](#sansi-uyuyan-adam) (sayfa 187)
 {: #sansi-uyuyan-adam }
+  
 **Seyir Defteri**  
 > 	Byron Katie'nin 'Çalışma'sı  
 > Byron Katie, hayatları dönüştüren 'çalışma'sında kendimize anlattığımız ve bize zarar veren veya stres yükleyen hikâyeyi gözden geçirmemiz için dört soru öneriyor. Sana acı veren veya sende strese sebep olan bir inancını yaz. Bu inancı dört soruyu kullanarak sorgula ve tersine çevir.  
