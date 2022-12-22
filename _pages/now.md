@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-12-03
+last_modified_at: 2022-12-22
 published: true  
 ---
 
@@ -10,12 +10,12 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
-Tanrılar Okulu (2021)  
-<i>by</i> Stefano D'Anna  
+Sofie'nin Dünyası (2022)  
+<i>by</i> Jostein Garder  
 <br />
 ⁜ 3  
-Chakra El Kitabi (2000)  
-<i>by</i> S. Sharamon & B. J. Baginski  
+Falling to Earth (2000)  
+<i>by</i> Al Worden  
 <br />
 ⁜ 4  
 The Secret (2007)  
@@ -36,6 +36,53 @@ Dijital Çağa Nasıl Uyum Sağlarız (2013)
 ⁜ 8  
 Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)  
 <i>by</i> John Armstrong  
+<br />
+⁜ 9  
+Heal Your Body (2012)  
+<i>by</i> Louise L. Hay  
+<br />
+⁜ 10  
+Ten Billion (2014)  
+<i>by</i> Stephen Emmott  
+<br />
+⁜ 11  
+Chakras (2018)  
+<i>by</i> Anodea Judith  
+<br />
+⁜ 12  
+You Can Heal Your Life (2010)  
+<i>by</i> Louise L. Hay  
+<br />
+⁜ 13  
+A Time For Transformation (2022)  
+<i>by</i> Diana Cooper  
+<br />
+⁜ 14  
+Psychology in Minutes  (2022)  
+<i>by</i> Marcus Weeks  
+<br />
+⁜ 15  
+Sociology: A Brief But Critical Introduction (2013)  
+<i>by</i> Anthony Giddens  
+<br />
+⁜ 16  
+The Chakra Energy Cards (2012)  
+<i>by</i> Walter Lubeck  
+<br />
+⁜ 17  
+Psikolojiye Giriş (2008)  
+<i>by</i> Kemal Sayar, Mehmet Dinç  
+⁜ 18  
+Six Degrees (2009)  
+<i>by</i> Mark Lynas  
+<br />
+⁜ 19  
+The Sixth Extinction (2016)  
+<i>by</i> Elizabeth Kolbert  
+<br />
+⁜ 20  
+Küresel Isınma Atlası (2007)  
+<i>by</i> Frederic Denhez  
 <br />
 &nbsp;  
 
