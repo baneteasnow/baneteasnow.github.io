@@ -72,6 +72,7 @@ The Chakra Energy Cards (2012)
 ⁜ 17  
 Psikolojiye Giriş (2008)  
 <i>by</i> Kemal Sayar, Mehmet Dinç  
+<br />
 ⁜ 18  
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
