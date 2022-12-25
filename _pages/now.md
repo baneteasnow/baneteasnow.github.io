@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-12-22
+last_modified_at: 2022-12-25
 published: true  
 ---
 
@@ -54,8 +54,8 @@ You Can Heal Your Life (2010)
 <i>by</i> Louise L. Hay  
 <br />
 ⁜ 13  
-A Time For Transformation (2022)  
-<i>by</i> Diana Cooper  
+Küresel Isınma Atlası (2007)  
+<i>by</i> Frederic Denhez  
 <br />
 ⁜ 14  
 Psychology in Minutes  (2022)  
@@ -80,10 +80,6 @@ Six Degrees (2009)
 ⁜ 19  
 The Sixth Extinction (2016)  
 <i>by</i> Elizabeth Kolbert  
-<br />
-⁜ 20  
-Küresel Isınma Atlası (2007)  
-<i>by</i> Frederic Denhez  
 <br />
 &nbsp;  
 
