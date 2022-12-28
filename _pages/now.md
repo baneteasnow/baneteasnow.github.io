@@ -102,6 +102,7 @@ The Sixth Extinction (2016)
 &nbsp; &nbsp; <i>by</i> Helen Schucman    
 <br /> 
 <i><b>Günlük Kartlar ve Motivasyon için...</b></i>  
+<br />
 &nbsp; &nbsp; ⁜ 1  
 &nbsp; &nbsp; The Chakra Energy Cards (2012)  
 &nbsp; &nbsp; <i>by</i> Walter Lubeck  
