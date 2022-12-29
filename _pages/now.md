@@ -38,42 +38,34 @@ Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)
 <i>by</i> John Armstrong  
 <br />
 ⁜ 9  
-Heal Your Body (2012)  
-<i>by</i> Louise L. Hay  
-<br />
-⁜ 10  
 Ten Billion (2014)  
 <i>by</i> Stephen Emmott  
 <br />
-⁜ 11  
+⁜ 10  
 Chakras (2018)  
 <i>by</i> Anodea Judith  
 <br />
-⁜ 12  
-You Can Heal Your Life (2010)  
-<i>by</i> Louise L. Hay  
-<br />
-⁜ 13  
+⁜ 11  
 Küresel Isınma Atlası (2007)  
 <i>by</i> Frederic Denhez  
 <br />
-⁜ 14  
+⁜ 12  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 15  
+⁜ 13  
 Sociology: A Brief But Critical Introduction (2013)  
 <i>by</i> Anthony Giddens  
 <br />
-⁜ 16  
+⁜ 14  
 Psikolojiye Giriş (2008)  
 <i>by</i> Kemal Sayar, Mehmet Dinç  
 <br />
-⁜ 17  
+⁜  15     
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
 <br />
-⁜ 18  
+⁜ 16  
 The Sixth Extinction (2016)  
 <i>by</i> Elizabeth Kolbert  
 <br />
