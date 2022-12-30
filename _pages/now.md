@@ -26,46 +26,42 @@ Dünyamızı Nasıl Değiştiririz (2013)
 <i>by</i> John-Paul Flintoff  
 <br />
 ⁜ 6  
-Akıl Sağlığımızı Nasıl Koruruz (2013)  
-<i>by</i> Philippa Perry  
-<br />
-⁜ 7  
 Dijital Çağa Nasıl Uyum Sağlarız (2013)  
 <i>by</i> Tom Chatfıeld   
 <br />
-⁜ 8  
+⁜ 7  
 Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)  
 <i>by</i> John Armstrong  
 <br />
-⁜ 9  
+⁜ 8  
 Ten Billion (2014)  
 <i>by</i> Stephen Emmott  
 <br />
-⁜ 10  
+⁜ 9  
 Chakras (2018)  
 <i>by</i> Anodea Judith  
 <br />
-⁜ 11  
+⁜ 10  
 Küresel Isınma Atlası (2007)  
 <i>by</i> Frederic Denhez  
 <br />
-⁜ 12  
+⁜ 11  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 13  
+⁜ 12  
 Sociology: A Brief But Critical Introduction (2013)  
 <i>by</i> Anthony Giddens  
 <br />
-⁜ 14  
+⁜ 13  
 Psikolojiye Giriş (2008)  
 <i>by</i> Kemal Sayar, Mehmet Dinç  
 <br />
-⁜  15     
+⁜  14  
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
 <br />
-⁜ 16  
+⁜ 15  
 The Sixth Extinction (2016)  
 <i>by</i> Elizabeth Kolbert  
 <br />
@@ -110,6 +106,14 @@ The Sixth Extinction (2016)
 &nbsp; &nbsp; ⁜ 4  
 &nbsp; &nbsp; Dört Anlaşma Kartları (2022)  
 &nbsp; &nbsp; <i>by</i> Don Miguel Ruiz  
+<br />
+&nbsp; &nbsp; ⁜ 5  
+&nbsp; &nbsp; Sezgisel Kart Destesi (2021)  
+&nbsp; &nbsp; <i>by</i> Estel Bensinyor  
+<br />
+&nbsp; &nbsp; ⁜ 6  
+&nbsp; &nbsp; Deste (2022)  
+&nbsp; &nbsp; <i>by</i> Ece Targıt Günşiray  
 <br />
 ⁜  
  
