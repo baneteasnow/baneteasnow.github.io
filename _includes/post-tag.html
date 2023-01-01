@@ -100,10 +100,10 @@
   </span>
    <br />
   
-<img src="/assets/copy.png" title="copy" alt="copy" style="width:15px; height:15px; display: inline-block;"/> <span id="copy"><span class="link1" style="color: #777;">
+<button type="button" onclick="copyEvent('copy')"><img src="/assets/copy.png" title="copy" alt="copy" style="width:15px; height:15px; display: inline-block;"/></button>
+<span id="copy"><span class="link1" style="color: #777;">
   {{ site.url }}{{ page.url }}
     </span></span>
-<button type="button" onclick="copyEvent('copy')">Copy</button>
 
 <script>
     function copyEvent(id)
