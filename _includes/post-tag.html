@@ -99,15 +99,10 @@
           {% endif %}
   </span>
    <br />
-  <span class="link1" style="color: #777;">
-      <img src="/assets/copy.png" title="copy" alt="copy" style="width:15px; height:15px; display: inline-block;"> &nbsp; {{ site.url }}{{ page.url }}
-    </span>
-
-
-
-<img src="/assets/copy.png" title="copy" alt="copy" style="width:15px; height:15px; display: inline-block;"/> <p id="copy"><span class="link1" style="color: #777;">
-       &nbsp; {{ site.url }}{{ page.url }}
-    </span></p>
+  
+<img src="/assets/copy.png" title="copy" alt="copy" style="width:15px; height:15px; display: inline-block;"/> <span id="copy"><span class="link1" style="color: #777;">
+  {{ site.url }}{{ page.url }}
+    </span></span>
 <button type="button" onclick="copyEvent('copy')">Copy</button>
 
 <script>
