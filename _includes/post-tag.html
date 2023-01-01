@@ -103,3 +103,18 @@
       <img src="/assets/copy.png" title="copy" alt="copy" style="width:15px; height:15px; display: inline-block;"> &nbsp; {{ site.url }}{{ page.url }}
     </span>
 
+
+
+<p id="copy"><span class="link1" style="color: #777;">
+      <img src="/assets/copy.png" title="copy" alt="copy" style="width:15px; height:15px; display: inline-block;"> &nbsp; {{ site.url }}{{ page.url }}
+    </span></p>
+<button type="button" onclick="copyEvent('copy')">Copy</button>
+
+<script>
+    function copyEvent(id)
+    {
+        var str = document.getElementById(id);
+        window.getSelection().selectAllChildren(str);
+        document.execCommand("Copy")
+    }
+</script>
