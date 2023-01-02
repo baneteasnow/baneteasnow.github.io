@@ -35,7 +35,7 @@
     {% endif %}
     </span>
 <div class="link1">  
-     <a name="{{ page.title | replace: "","+" }}" title="Google" href="https://www.google.com/search?q={{ page.title | split: "|" | first | replace: " ","+" }}">google</a>
+     <a name="{{ page.title | replace: " ","+" }}" title="Google" href="https://www.google.com/search?q=book+{{ page.title | split: "|" | first | replace: " ","+" }}">Google</a>
   </div>
 
 <!-- post-entry -->
