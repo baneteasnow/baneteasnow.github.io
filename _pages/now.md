@@ -34,30 +34,26 @@ Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)
 <i>by</i> John Armstrong  
 <br />
 ⁜ 8  
-Ten Billion (2014)  
-<i>by</i> Stephen Emmott  
-<br />
-⁜ 9  
 Chakras (2018)  
 <i>by</i> Anodea Judith  
 <br />
-⁜ 10  
+⁜ 9  
 Küresel Isınma Atlası (2007)  
 <i>by</i> Frederic Denhez  
 <br />
-⁜ 11  
+⁜ 10  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 12  
+⁜ 11  
 Sociology: A Brief But Critical Introduction (2013)  
 <i>by</i> Anthony Giddens  
 <br />
-⁜ 13  
+⁜ 12  
 Psikolojiye Giriş (2008)  
 <i>by</i> Kemal Sayar, Mehmet Dinç  
 <br />
-⁜  14  
+⁜  13  
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
 <br />  
