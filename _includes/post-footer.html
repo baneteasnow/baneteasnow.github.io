@@ -35,6 +35,6 @@
     {% endif %}
     </span>
 <div class="link1">  
-     <a name="{{ page.title }}" title="google search" href="https://www.google.com/search?q={{ page.title | split: "|" | first | replace: " ","+" }}{{ page.yazar | url_encode }}" target="_blank" rel="noreferrer,nofollow">Google</a>
+     <a name="{{ page.title | split: "|" }}" title="google search" href="https://www.google.com/search?q={{ page.title | split: "|" | first | replace: " ","+" }}{{ page.yazar | url_encode }}" target="_blank" rel="noreferrer,nofollow">google search</a>&nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;">
   </div>
 <!-- post-entry -->
