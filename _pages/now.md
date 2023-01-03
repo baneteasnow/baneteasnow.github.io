@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-12-25
+last_modified_at: 2022-01-03
 published: true  
 ---
 
@@ -60,12 +60,8 @@ Psikolojiye Giriş (2008)
 ⁜  14  
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
-<br />
-⁜ 15  
-The Sixth Extinction (2016)  
-<i>by</i> Elizabeth Kolbert  
-<br />
-&nbsp;  
+<br />  
+
 
 <i><b>Yıl boyunca...</b></i>  
 <br />
