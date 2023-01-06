@@ -18,18 +18,14 @@ Dijital Çağa Nasıl Uyum Sağlarız (2013)
 <i>by</i> Tom Chatfıeld   
 <br />
 ⁜ 4  
-Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)  
-<i>by</i> John Armstrong  
-<br />
-⁜ 5  
 Chakras (2018)  
 <i>by</i> Anodea Judith  
 <br />
-⁜ 6   
+⁜ 5  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 7   
+⁜ 6  
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
 <br />  
