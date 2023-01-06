@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-01-03
+last_modified_at: 2022-01-06
 published: true  
 ---
 
@@ -10,55 +10,30 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
-Sofie'nin Dünyası (2022)  
-<i>by</i> Jostein Garder  
-<br />
-⁜ 3  
-Falling to Earth (2000)  
-<i>by</i> Al Worden  
-<br />
-⁜ 4  
-The Secret (2007)  
-<i>by</i> Rhonda Byrne  
-<br />
-⁜ 5  
 Dünyamızı Nasıl Değiştiririz (2013)  
 <i>by</i> John-Paul Flintoff  
 <br />
-⁜ 6  
+⁜ 3  
 Dijital Çağa Nasıl Uyum Sağlarız (2013)  
 <i>by</i> Tom Chatfıeld   
 <br />
-⁜ 7  
+⁜ 4  
 Para Hakkındaki Endişelerimizi Nasıl Gideririz (2013)  
 <i>by</i> John Armstrong  
 <br />
-⁜ 8  
+⁜ 5  
 Chakras (2018)  
 <i>by</i> Anodea Judith  
 <br />
-⁜ 9  
-Küresel Isınma Atlası (2007)  
-<i>by</i> Frederic Denhez  
-<br />
-⁜ 10  
+⁜ 6   
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 11  
-Sociology: A Brief But Critical Introduction (2013)  
-<i>by</i> Anthony Giddens  
-<br />
-⁜ 12  
-Psikolojiye Giriş (2008)  
-<i>by</i> Kemal Sayar, Mehmet Dinç  
-<br />
-⁜  13  
+⁜ 7   
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
 <br />  
-
-
+  
 <i><b>Yıl boyunca...</b></i>  
 <br />
 &nbsp; &nbsp; ⁜ 1  
@@ -80,7 +55,8 @@ Six Degrees (2009)
 &nbsp; &nbsp; ⁜ 5  
 &nbsp; &nbsp; A Course in Miracles (2007)  
 &nbsp; &nbsp; <i>by</i> Helen Schucman    
-<br /> 
+<br />  
+
 <i><b>Günlük Kartlar ve Motivasyon için...</b></i>  
 <br />
 &nbsp; &nbsp; ⁜ 1  
