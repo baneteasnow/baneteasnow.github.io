@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-01-06
+last_modified_at: 2022-01-07
 published: true  
 ---
 
@@ -10,22 +10,18 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
-Dünyamızı Nasıl Değiştiririz (2013)  
-<i>by</i> John-Paul Flintoff  
-<br />
-⁜ 3  
-Dijital Çağa Nasıl Uyum Sağlarız (2013)  
+How to Thrive in the Digital Age (2013)  
 <i>by</i> Tom Chatfıeld   
 <br />
-⁜ 4  
+⁜ 3  
 Chakras (2018)  
 <i>by</i> Anodea Judith  
 <br />
-⁜ 5  
+⁜ 4  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 6  
+⁜ 5  
 Six Degrees (2009)  
 <i>by</i> Mark Lynas  
 <br />  
