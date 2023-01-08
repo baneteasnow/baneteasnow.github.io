@@ -1,0 +1,15 @@
+---
+layout: page-6
+published: true
+last_modified_at: 2023-01-08
+title: "rating"
+---
+
+<ul class="posts">
+  {% for post in page.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {{ post.rating }}
+    </li>
+  {% endfor %}
+</ul>
