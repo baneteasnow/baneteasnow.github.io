@@ -21,10 +21,6 @@ Chakras (2018)
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 5  
-Six Degrees (2009)  
-<i>by</i> Mark Lynas  
-<br />  
   
 <i><b>Yıl boyunca...</b></i>  
 <br />
