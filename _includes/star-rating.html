@@ -1,5 +1,5 @@
 {% for i in (1..5) %}
- {% if i <= include.page.rating %}
+ {% if i <= include.page.stars %}
  {% assign stars = stars | append: '&#9733;' %}
  {% else %}
  {% assign stars = stars | append: '&#9734;' %}
