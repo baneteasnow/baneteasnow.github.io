@@ -5,11 +5,12 @@ last_modified_at: 2023-01-08
 title: "rating"
 ---
 
-<ul class="posts">
+<span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
   {% for post in page.posts %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {{ post.title }}
+      {{ page.kitap }}
       {%-include star-rating.html-%}
     </li>
   {% endfor %}
-</ul>
+</span>
