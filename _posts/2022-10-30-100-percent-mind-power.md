@@ -17,6 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
+stars: "2"
 image: "/assets/new/100-percent-mind-power.jpg"
 ---
 
