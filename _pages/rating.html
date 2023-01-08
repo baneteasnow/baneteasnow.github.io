@@ -5,8 +5,10 @@ last_modified_at: 2023-01-08
 title: "rating"
 ---
 
-  {%-assign posts = site.posts-%}
 <div style="width: 100%;">
+
+  {%-assign posts = site.posts-%}
+
   <div style="font-size: 85%; color: #777; text-align: left; float: left; width: 50%;">
 <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
         {% for post in site.posts %}
@@ -28,8 +30,9 @@ title: "rating"
     <div style="visibility: hidden;"></div>
 {% endif %}
   <div style="clear: both;"></div>
+        </span>  
 </div>
             {% endif %}
+       {% endfor %} 
     </div>
-        {% endfor %} 
-  </span>
+     
