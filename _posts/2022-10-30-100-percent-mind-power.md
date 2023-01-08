@@ -16,6 +16,7 @@ tag: "kisisel gelisim"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "3"
 image: "/assets/new/100-percent-mind-power.jpg"
 ---
 
