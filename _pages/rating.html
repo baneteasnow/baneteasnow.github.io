@@ -6,7 +6,7 @@ title: "rating"
 ---
 
   {%-assign posts = site.posts-%}
-
+<li>
 <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
         {% for post in site.posts %}
            {% if post.category != 'book3' %}
@@ -29,6 +29,6 @@ title: "rating"
             {% endif %}
         {% endfor %} 
   </span>
-    <br />
 <div style="clear: both;"></div>
-<br />
+
+</li>
