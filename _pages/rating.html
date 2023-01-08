@@ -8,11 +8,14 @@ title: "rating"
   {%-assign posts = site.posts-%}
 
 <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
-  {% for post in page.posts %}
-    <li>
+        {% for post in site.posts %}
+           {% if post.category != 'book3' %}
       {{ post.title }}
       {{ page.kitap }}
       {%-include star-rating.html-%}
-    </li>
-  {% endfor %}
-</span>
+            {% endif %}
+        {% endfor %} 
+  </span>
+    <br />
+<div style="clear: both;"></div>
+<br />
