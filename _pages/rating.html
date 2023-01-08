@@ -6,12 +6,14 @@ title: "rating"
 ---
 
   {%-assign posts = site.posts-%}
-
+<div style="width: 100%;">
+  <div style="font-size: 85%; color: #777; text-align: left; float: left; width: 50%;">
 <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
         {% for post in site.posts %}
            {% if post.category != 'book3' %}
       {{ post.title }}
-  
+  </div>
+    <div style="font-size: 85%; color: #777; text-align: right; margin-left: 50%;">
   {% if post.rating == '1' %}
 &#9733; &#9734; &#9734; &#9734; &#9734;
 {% elsif post.rating == '2' %}
@@ -26,7 +28,8 @@ title: "rating"
     <div style="visibility: hidden;"></div>
 {% endif %}
   <div style="clear: both;"></div>
-
+</div>
             {% endif %}
+    </div>
         {% endfor %} 
   </span>
