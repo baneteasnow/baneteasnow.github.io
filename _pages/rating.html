@@ -9,7 +9,7 @@ title: "rating"
   {% for post in page.posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      {{ post.rating }}
+      {%-include star-rating.html-%}
     </li>
   {% endfor %}
 </ul>
