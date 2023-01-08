@@ -10,10 +10,7 @@ title: "rating"
 <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
         {% for post in site.posts %}
            {% if post.category != 'book3' %}
-      {{ post.kitap }}
-      {{ post.yazar }}
-      {%-include star-rating.html-%}
-  
+      {{ post.title }}
   
   {% if post.rating == '1' %}
 &#9733; &#9734; &#9734; &#9734; &#9734;
@@ -28,8 +25,7 @@ title: "rating"
 {% else %}
     <div style="visibility: hidden;"></div>
 {% endif %}
- 
-  
+
             {% endif %}
         {% endfor %} 
   </span>
