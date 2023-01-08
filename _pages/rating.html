@@ -25,10 +25,36 @@ title: "rating"
 {% else %}
     <div style="visibility: hidden;"></div>
 {% endif %}
+  <div style="clear: both;"></div>
 
             {% endif %}
         {% endfor %} 
   </span>
-<div style="clear: both;"></div>
 
 
+
+  {%-assign posts = site.posts-%}
+
+<span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
+        {% for post in site.posts %}
+           {% if post.category != 'book3' %}
+
+| ⁜ |  |
+|:---:|:---- |
+|  {{ post.title }} | 
+  {% if post.rating == '1' %}
+&#9733; &#9734; &#9734; &#9734; &#9734;
+{% elsif post.rating == '2' %}
+&#9733; &#9733; &#9734; &#9734; &#9734;
+{% elsif post.rating == '3' %}
+&#9733; &#9733; &#9733; &#9734; &#9734;
+{% elsif post.rating == '4' %}
+&#9733; &#9733; &#9733; &#9733; &#9734;
+{% elsif post.rating == '5' %}
+&#9733; &#9733; &#9733; &#9733; &#9733;
+{% else %}
+    <div style="visibility: hidden;"></div>
+{% endif %} |
+  
+  {% endif %}
+        {% endfor %} 
