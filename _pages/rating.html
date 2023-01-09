@@ -8,15 +8,16 @@ title: "rating"
 <table style="width:100%">
 <tr>
    
-   {%- assign posts = site.posts -%}
-         {%- for post in site.posts -%}
-            {%- if post.category != 'book3'-%}
+  
 <th> title
    </th>
 <th>
 rating
    </th>
    </tr>
+    {%- assign posts = site.posts -%}
+         {%- for post in site.posts -%}
+            {%- if post.category != 'book3'-%}
    <tr>
    <td>
        {{ post.title }}
