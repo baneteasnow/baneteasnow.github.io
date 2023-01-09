@@ -5,14 +5,22 @@ last_modified_at: 2023-01-08
 title: "rating"
 ---
 
-| ⁜ |  |
-|:---:|:---- |
+<table style="width:100%">
+<tr>
+   
    {%- assign posts = site.posts -%}
          {%- for post in site.posts -%}
             {%- if post.category != 'book3'-%}
- | <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
-       {{ post.title }} |
-
+<th> title
+   </th>
+<th>
+rating
+   </th>
+   <td>
+       {{ post.title }}
+   
+   </td>
+   <td>
    {%- if post.rating == '1' -%}
  &#9733; &#9734; &#9734; &#9734; &#9734;
  {%- elsif post.rating == '2' -%}
@@ -25,7 +33,8 @@ title: "rating"
  &#9733; &#9733; &#9733; &#9733; &#9733;
  {%- else -%}
  &#9734; &#9734; &#9734; &#9734; &#9734;
- {%- endif -%} </span>|
+ {%- endif -%}
+   </td>
    <div style="clear: both;"></div>
        
              {%- endif -%}
