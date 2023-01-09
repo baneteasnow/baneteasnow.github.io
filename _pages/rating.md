@@ -5,8 +5,8 @@ last_modified_at: 2023-01-08
 title: "rating"
 ---
 
- | title | rating |
- |---|---|
+| ⁜ |  |
+|:---:|:---- |
    {%- assign posts = site.posts -%}
          {%- for post in site.posts -%}
             {%- if post.category != 'book3'-%}
