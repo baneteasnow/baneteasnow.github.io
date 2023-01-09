@@ -11,8 +11,7 @@ title: "rating"
   {%- assign posts = site.posts -%}
         {%- for post in site.posts -%}
            {%- if post.category != 'book3'-%}
-| <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
-      {{ post.title }} |
+| {{ post.title }} |
   {%- if post.rating == '1' -%}
 &#9734; &#9734; &#9734; &#9734;
 {%- elsif post.rating == '2' -%}
@@ -28,6 +27,5 @@ title: "rating"
   </div>
 {%- endif -%} |
 <div style="clear: both;"></div>
-    </span>  
             {%- endif -%}
        {%- endfor -%} 
