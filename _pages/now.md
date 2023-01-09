@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-01-07
+last_modified_at: 2022-01-10
 published: true  
 ---
 
@@ -10,8 +10,8 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
-How to Thrive in the Digital Age (2013)  
-<i>by</i> Tom Chatfıeld   
+Warrior Goddess Training (2022)
+<i>by</i> HeatherAsh Amara  
 <br />
 ⁜ 3  
 Chakras (2018)  
