@@ -10,7 +10,7 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
-Warrior Goddess Training (2022)
+Warrior Goddess Training (2022)  
 <i>by</i> HeatherAsh Amara  
 <br />
 ⁜ 3  
