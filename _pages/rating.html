@@ -15,10 +15,12 @@ rating
    </tr>
    
    <tr>
-       {%- assign posts = site.posts -%}
+       
+   <td>
+      {%- assign posts = site.posts -%}
          {%- for post in site.posts -%}
             {%- if post.category != 'book3'-%}
-   <td>
+      
        {{ post.title }}
    
    </td>
@@ -36,9 +38,10 @@ rating
  {%- else -%}
  &#9734; &#9734; &#9734; &#9734; &#9734;
  {%- endif -%}
-   </td>
          {%- endif -%}
         {%- endfor -%}  
+   </td>
+      
    </tr>
 
 </table>     
