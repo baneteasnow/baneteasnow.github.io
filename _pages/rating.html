@@ -13,26 +13,21 @@ title: "rating"
            {%- if post.category != 'book3'-%}
 | <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> 
       {{ post.title }} |
-  
   {%- if post.rating == '1' -%}
-&nbsp; &#9733; &#9734; &#9734; &#9734; &#9734; &nbsp;
+&#9734; &#9734; &#9734; &#9734;
 {%- elsif post.rating == '2' -%}
-&nbsp; &#9733; &#9733; &#9734; &#9734; &#9734; &nbsp;
+&#9733; &#9733; &#9734; &#9734; &#9734;
 {%- elsif post.rating == '3' -%}
-&nbsp; &#9733; &#9733; &#9733; &#9734; &#9734; &nbsp;
+&#9733; &#9733; &#9733; &#9734; &#9734;
 {%- elsif post.rating == '4' -%}
-&nbsp; &#9733; &#9733; &#9733; &#9733; &#9734; &nbsp;
+&#9733; &#9733; &#9733; &#9733; &#9734;
 {%- elsif post.rating == '5' -%}
-&nbsp; &#9733; &#9733; &#9733; &#9733; &#9733; &nbsp;
+&#9733; &#9733; &#9733; &#9733; &#9733;
 {%- else -%}
-&nbsp; &#9734; &#9734; &#9734; &#9734; &#9734; &nbsp;
+&#9734; &#9734; &#9734; &#9734; &#9734;
   </div>
 {%- endif -%} |
 <div style="clear: both;"></div>
     </span>  
             {%- endif -%}
        {%- endfor -%} 
-    
-     
-<div style="clear: both;"></div>
-    </span>  
