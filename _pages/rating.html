@@ -6,7 +6,7 @@ title: "rating"
 ---
 
 
-|  |  |
+| title of the book | rating |
 |---|---|
   {%- assign posts = site.posts -%}
         {%- for post in site.posts -%}
@@ -15,21 +15,22 @@ title: "rating"
       {{ post.title }} |
   
   {%- if post.rating == '1' -%}
-&#9733; &#9734; &#9734; &#9734; &#9734;
+&nbsp; &#9733; &#9734; &#9734; &#9734; &#9734; &nbsp;
 {%- elsif post.rating == '2' -%}
-&#9733; &#9733; &#9734; &#9734; &#9734;
+&nbsp; &#9733; &#9733; &#9734; &#9734; &#9734; &nbsp;
 {%- elsif post.rating == '3' -%}
-&#9733; &#9733; &#9733; &#9734; &#9734;
+&nbsp; &#9733; &#9733; &#9733; &#9734; &#9734; &nbsp;
 {%- elsif post.rating == '4' -%}
-&#9733; &#9733; &#9733; &#9733; &#9734;
+&nbsp; &#9733; &#9733; &#9733; &#9733; &#9734; &nbsp;
 {%- elsif post.rating == '5' -%}
-&#9733; &#9733; &#9733; &#9733; &#9733;
+&nbsp; &#9733; &#9733; &#9733; &#9733; &#9733; &nbsp;
 {%- else -%}
-    <div style="visibility: hidden;"></div>
+&nbsp; &#9734; &#9734; &#9734; &#9734; &#9734; &nbsp;
+  </div>
 {%- endif -%} |
-  <div style="clear: both;"></div>
-    </span>  
             {%- endif -%}
        {%- endfor -%} 
     
      
+<div style="clear: both;"></div>
+    </span>  
