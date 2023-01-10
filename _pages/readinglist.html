@@ -7,17 +7,26 @@ title: "okuma listesi"
 
 <table style="width:100%">
 <tr>
-<th style="width:40%; text-align: left;"> 
+<th style="width:30%; text-align: left;"> 
    kitabın adı
    </th>
    <th style="width:25%; text-align: left;"> 
    yazar
+   </th>
+   <th style="width:5%; text-align: left;"> 
+   yıl
+   </th>
+   <th style="width:5%; text-align: left;"> 
+   sayfa
    </th>
 <th style="width:20%; text-align: left;">
 tekrar okumaya değer mi?
    </th>
    <th style="width:15%; text-align: left;">
 &nbsp;
+   </th>
+   <th style="width:15%; text-align: left;">
+google'da ara
    </th>
    </tr>
    
@@ -34,6 +43,16 @@ tekrar okumaya değer mi?
       <td>
       
        {{ post.yazar }}
+   
+   </td>
+       <td>
+      
+       {{ post.yil }}
+   
+   </td>
+       <td>
+      
+       {{ post.sayfa }}
    
    </td>
       <td>
@@ -59,6 +78,11 @@ tekrar okumaya değer mi?
  {%- else -%}
  &#9734; &#9734; &#9734; &#9734; &#9734;
  {%- endif -%}
+   </td>
+      <td>
+      <div class="link1">  
+     <a name="{{ page.title | split: "|" }}" title="google search" href="https://www.google.com/search?q={{ page.title | split: "|" | first | replace: " ","+" }}{{ page.yazar | url_encode }}" target="_blank" rel="noreferrer,nofollow"> &nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;"> </a>
+  </div>
    </td>
    </tr>
     {%- endif -%}
