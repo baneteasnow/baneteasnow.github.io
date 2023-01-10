@@ -10,14 +10,10 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
-Warrior Goddess Training (2022)  
-<i>by</i> HeatherAsh Amara  
-<br />
-⁜ 3  
 Chakras (2018)  
 <i>by</i> Anodea Judith  
 <br />
-⁜ 4  
+⁜ 3  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
@@ -44,6 +40,10 @@ Psychology in Minutes  (2022)
 &nbsp; &nbsp; A Course in Miracles (2007)  
 &nbsp; &nbsp; <i>by</i> Helen Schucman    
 <br />  
+&nbsp; &nbsp; ⁜ 6  
+&nbsp; &nbsp; Warrior Goddess Wisdom (2022)  
+&nbsp; &nbsp; <i>by</i> HeatherAsh Amara  
+<br />
 
 <i><b>Günlük Kartlar ve Motivasyon için...</b></i>  
 <br />
