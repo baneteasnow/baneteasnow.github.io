@@ -2,15 +2,19 @@
 layout: page-6
 published: true
 last_modified_at: 2023-01-08
-title: "rating"
+title: "worth rereading"
 ---
 
 <table style="width:100%">
 <tr>
-<th> title
+<th style="width:60%"> 
+   kitabın adı
    </th>
-<th style="width:20%">
-rating
+<th style="width:30%">
+tekrar okumaya değer mi?
+   </th>
+   <th style="width:10%">
+&nbsp;
    </th>
    </tr>
    
@@ -23,6 +27,15 @@ rating
       
        {{ post.title }}
    
+   </td>
+      <td>
+         {%- if post.reread == 'yes' -%}
+          evet
+      {%- elsif post.reread == 'no' -%}
+          hayır
+      {%- else -%}
+          -
+      {%- endif -%}
    </td>
    <td>
    {%- if post.rating == '1' -%}
@@ -38,9 +51,7 @@ rating
  {%- else -%}
  &#9734; &#9734; &#9734; &#9734; &#9734;
  {%- endif -%}
-     
    </td>
-      
    </tr>
     {%- endif -%}
         {%- endfor -%}  
