@@ -42,29 +42,29 @@ google
    <tr>
        
    <td>
-      
-       {{ post.kitap }}
-   
+     <div class="link1"> 
+      <a href="{{ post.kitap }}">{{ post.kitap }}</a>
+   </div>
    </td>
       <td>
-      
-       {{ post.yazar }}
-   
+      <div class="link1">
+       <a href="{{ post.yazar }}">{{ post.yazar }}</a>
+   </div>
    </td>
        <td>
-      
-       {{ post.yil }}
-   
+      <div class="link1">
+        <a href="{{ post.yil }}">{{ post.yil }}</a>
+   </div>
    </td>
        <td>
-      
-       {{ post.sayfa }}
-   
+      <div class="link1">
+        <a href="{{ post.sayfa }}">{{ post.sayfa }}</a>
+   </div>
    </td>
       <td>
-      
-       {{ post.tag }}
-   
+      <div class="link1">
+        <a href="{{ post.tag }}">{{ post.tag }}</a>
+         </div>
    </td>
       <td>
          {%- if post.reread == 'yes' -%}
