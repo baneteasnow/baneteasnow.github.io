@@ -10,10 +10,6 @@ published: true
 <i>by</i> Brianna Wiest  
 <br />
 ⁜ 2  
-Chakras (2018)  
-<i>by</i> Anodea Judith  
-<br />
-⁜ 3  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
