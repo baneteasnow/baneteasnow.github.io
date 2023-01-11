@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-01-10
+last_modified_at: 2022-01-11
 published: true  
 ---
 
@@ -45,31 +45,5 @@ Psychology in Minutes  (2022)
 &nbsp; &nbsp; <i>by</i> HeatherAsh Amara  
 <br />
 
-<i><b>Günlük Kartlar ve Motivasyon için...</b></i>  
-<br />
-&nbsp; &nbsp; ⁜ 1  
-&nbsp; &nbsp; The Chakra Energy Cards (2012)  
-&nbsp; &nbsp; <i>by</i> Walter Lubeck  
-<br />
-&nbsp; &nbsp; ⁜ 2  
-&nbsp; &nbsp; Sensin - Yaşam Yogam Destek Kartları (2021)  
-&nbsp; &nbsp; <i>by</i> Zeyneb Uras  
-<br />
-&nbsp; &nbsp; ⁜ 3  
-&nbsp; &nbsp; Yeni Bir Dünya - Hayatın Amacına Uyanacaksınız (2021)  
-&nbsp; &nbsp; <i>by</i> Eckhart Tolle  
-<br />
-&nbsp; &nbsp; ⁜ 4  
-&nbsp; &nbsp; Dört Anlaşma Kartları (2022)  
-&nbsp; &nbsp; <i>by</i> Don Miguel Ruiz  
-<br />
-&nbsp; &nbsp; ⁜ 5  
-&nbsp; &nbsp; Sezgisel Kart Destesi (2021)  
-&nbsp; &nbsp; <i>by</i> Estel Bensinyor  
-<br />
-&nbsp; &nbsp; ⁜ 6  
-&nbsp; &nbsp; Deste (2022)  
-&nbsp; &nbsp; <i>by</i> Ece Targıt Günşiray  
-<br />
 ⁜  
  
