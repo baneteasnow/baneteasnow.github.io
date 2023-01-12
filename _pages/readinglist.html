@@ -7,9 +7,6 @@ title: "okuma listesi"
 
 <table>
 <tr>
-   <th style="text-align: left">
-       &nbsp;
-       </th>
 <th style="text-align: left;"> 
    kitabın adı
    </th>
@@ -42,10 +39,6 @@ google
          {%- for post in site.posts -%}
             {%- if post.category != 'book3'-%}
    <tr>  
-      <td>
-            <img src="{{ post.image }}" width="5%" height=5%" alt="{{ post.kitap }}" title="{{ post.kitap }}"/>
-    	</td>
-       <td>
        <td>
      <div class="link1"> 
       <a href="{{ post.url }}">{{ post.kitap }}</a>
