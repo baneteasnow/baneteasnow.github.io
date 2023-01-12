@@ -15,7 +15,7 @@ posted: 2022-12-12
 tag: "felsefe"
 instagram: "no"
 insta: "no"
-reread: "no"
+reread: "yes"
 rating: "5"
 image: "/assets/new/how-to-stay-sane-in-an-age-of-division.jpg"
 ---
