@@ -10,7 +10,7 @@ sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/36418696-ikigai-il-metodo-giapponese"
 description: "Bettina Lemke'nin kaleme aldığı Ikigai, yaşam amacını keşfetmeye yönelik çeşitli uygulamaları ve önerileri içeren rehber bir kitap."
 last_modified_at: 2023-01-14
-published: false
+published: true
 posted: 2023-01-14
 tag: "lifestyle"
 instagram: "no"
