@@ -31,7 +31,7 @@ Kişisel Ikigai dört farklı alanda somutlaşır:
 Anlam arayışı kişisel bir yolculuktur. Hayatın akışı değiştikçe Ikigai de değişir, gelişir ve başkalaşır. Sağlıklı bir yaşam dengesi Ikigai'nin temelini oluşturur. Ayrıca, Ikigaisini bulmuş kişilerin, henüz bulamamış olanlara kıyasla daha uzun yaşadıklarına dair bilimsel kanıtlar vardır.
 
 #### [Ikigai'yi Keşfetmek](#ikigaiyi-kesfetmek)
-{: #ikigaiyi-kesfetmek 
+{: #ikigaiyi-kesfetmek }
 
 Güzel şeyleri hayal etmek, beyin üzerinde aktive edici bir etki yaratır. __Nexting__ yardımıyla bir şeyden şu anda faydalanabilmek için zihnimizde onu öne çıkarabilir ve gözümüzde canlandırabiliriz. Bu da anlam yaratan bir uygulamadır. (sayfa 117)
 
