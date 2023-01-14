@@ -1,10 +1,10 @@
 ---
 layout: post
 category: book
-title: "How to Stay Sane in an Age of Division  | Elif Şafak (Kitap)"
+title: "How to Stay Sane in an Age of Division  | Elif Safak (Kitap)"
 kitap: "How to Stay Sane in an Age of Division - The powerful, pocket-sized manifesto"
 tr: "Bölünmüş Bir Dünyada Akıl Sağlığımızı Nasıl Koruruz"
-yazar: "Elif Safak"
+yazar: "Elif Shafak"
 yil: "2022"
 sayfa: "120"
 goodreads: "https://www.amazon.com/How-Stay-Sane-Age-Division-ebook/dp/B083JMK177"

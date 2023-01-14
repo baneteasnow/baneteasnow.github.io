@@ -33,7 +33,7 @@ Anlam arayışı kişisel bir yolculuktur. Hayatın akışı değiştikçe Ikiga
 #### [Ikigai'yi Keşfetmek](#ikigaiyi-kesfetmek)
 {: #ikigaiyi-kesfetmek }
 
-Güzel şeyleri hayal etmek, beyin üzerinde aktive edici bir etki yaratır. __Nexting__ yardımıyla bir şeyden şu anda faydalanabilmek için zihnimizde onu öne çıkarabilir ve gözümüzde canlandırabiliriz. Bu da anlam yaratan bir uygulamadır. (sayfa 117)
+Güzel şeyleri hayal etmek, beyin üzerinde aktive edici bir etki yaratır. _Nexting_ yardımıyla bir şeyden şu anda faydalanabilmek için zihnimizde onu öne çıkarabilir ve gözümüzde canlandırabiliriz. Bu da anlam yaratan bir uygulamadır. (sayfa 117)
 
 ![Ikigai Şablon - sayfa 135](/assets/graph/ikigai-template.jpg)
 <center> "Ikigai Şablon" - sayfa 135</center> 
