@@ -1,9 +1,9 @@
 ---
 layout: post
 category: book
-title: "Ikigai: Yaşamın anlamını günlük hayatın akışı içinde bulmak - Bir uygulama kitabi | Bettina Lemke (Kitap)"
+title: "Ikigai - Yaşamın Anlamını Günlük Hayatın Akışı İçinde Bulmak | Bettina Lemke (Kitap)"
 kitap: "The Book of Ikigai"
-tr: "Ikigai: Yaşamın anlamını günlük hayatın akışı içinde bulmak - Bir uygulama kitabı"
+tr: "Ikigai: Yaşamın Anlamını Günlük Hayatın Akışı İçinde Bulmak - Bir Uygulama Kitabı"
 yazar: "Bettina Lemke"
 yil: "2019"
 sayfa: "160"
