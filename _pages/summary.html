@@ -26,7 +26,7 @@ title: "tl;dr"
     {{ post.description }} 
       </div>
       <div>
-    {% if post.eng %}
+      {% if post.eng != "" and post.eng != nil and post.eng != "-" %}
    <div class="link1">  
      <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">english</a>
   </div>
