@@ -38,10 +38,10 @@ Güzel şeyleri hayal etmek, beyin üzerinde aktive edici bir etki yaratır. __N
 ![Ikigai Şablon - sayfa 135](/assets/graph/ikigai-template.jpg)
 <center> "Ikigai Şablon" - sayfa 135</center> 
 
- Sabahları ne için kalkıyorum?
-	- Hayatımı faydalı ve yaşamaya değer kılan nedir?
-	- Ona anlam katan nedir?
-- Peki, bundan sonra? Hayatın engellerini aşmak
-	- Motivasyonumuz yalnızca çözüm bulma konusundaki yaratıcılığımızı ve azmimizi değil, aynı zamanda hedeflerimizi gerçekleştirmedeki dayanıklılığımızı da teşvik eder.
+ Sabahları ne için kalkıyorum?  
+	- Hayatımı faydalı ve yaşamaya değer kılan nedir?  
+	- Ona anlam katan nedir?  
+- Peki, bundan sonra? Hayatın engellerini aşmak  
+	- Motivasyonumuz yalnızca çözüm bulma konusundaki yaratıcılığımızı ve azmimizi değil, aynı zamanda hedeflerimizi gerçekleştirmedeki dayanıklılığımızı da teşvik eder.  
 
 
