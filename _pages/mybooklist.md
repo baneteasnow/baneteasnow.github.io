@@ -5,8 +5,8 @@ last_modified_at: 2022-01-14
 title: "kitap listesi"  
 ---
 
-| ⁜ | kitabın adı | yazar | yıl | sayfa |
-|:---:|:---- |:----|:---- |:---- |
-| 1 | xxx | xxx | xxx | xxx |
+| ⁜ | kitabın adı | yazar | yayinevi | yıl | sayfa |
+|:---:|:---- |:----|:---- |:---- |:---- |
+| 1 | xxx | xxx | xxx | xxx | xxx |
   
 <div style="clear:both"></div>
