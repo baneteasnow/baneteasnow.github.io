@@ -10,9 +10,14 @@ sayfa: "632"
 goodreads: "https://www.goodreads.com/book/show/22318398-future-crimes"
 description: "Geleceğin Suçları, yakın geçmişte yaşanan siber suc ve terör niteliğindeki pek çok olayı mercek altına alarak ileri teknolojilerin güvenlik üzerine etkilerini inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-01-28
 tag: "siber güvenlik"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/future-crimes.jpg"
 ---
 

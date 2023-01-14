@@ -10,9 +10,13 @@ sayfa: "392"
 goodreads: "https://www.goodreads.com/book/show/13197136-digital-wars"
 description: "Dijital Savaşlar, Apple, Google ve Microsoft'un geçmişten bugüne olan hikayelerini, aralarındaki kültürel farklılıklara da değinerek inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-05-19
 tag: "marka profili"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/digital-wars.jpg"
 ---
 

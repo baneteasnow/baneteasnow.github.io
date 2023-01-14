@@ -2,17 +2,22 @@
 layout: post
 category: book
 title: "The Miracle Morning | Hal Elrod (Kitap)"
-kitap: "The Miracle Morning - The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)"
+kitap: "The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM)"
 tr: "Sabah Mucizesi - 08.00’den Önce Hayatınızı Değiştirme Garantili 6 Dakika"
 yazar: "Hal Elrod"
 yil: "2012"
 sayfa: "180"
 goodreads: "https://www.goodreads.com/book/show/17166225-the-miracle-morning"
-last_modified_at: 2021-12-08
+last_modified_at: 2023-01-14
 published: true
 description: "The Miracle Morning, Hal Elrod'un başarılı bir satış temsilcisi iken genç yaşında başına gelen talihsizlikler sonucu depresyona kadar sürüklenen hikayesini ve bu zorlu süreçten kişisel gelişimine katkı yapacak bir sabah rutini oluşturması ile iyileşmesini anlatıyor."
 tag: "motivasyon"
 posted: 2021-12-08
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/new/the-miracle-morning.jpg"
 ---
 

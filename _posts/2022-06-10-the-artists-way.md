@@ -9,12 +9,15 @@ yil: "2020"
 sayfa: "237"
 goodreads: "https://www.goodreads.com/book/show/615570.The_Artist_s_Way"
 description: "The Artist's Way, sunduğu 12 haftalık bir program ile okuyucunun yaratıcı yönüne odaklanan, aklına takılanlardan kurtulmasına ve yeniden harekete geçmesine yardımcı olan bir kitap. Kitabın öne sürdüğü iki önemli araç morning pages ve the artist's date."
-last_modified_at: 2022-06-10
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-10
 tag: "yaratıcılık"
-instagram: 'https://www.instagram.com/p/CfeZagCoUIN/'
-insta: 'yes'
+instagram: "https://www.instagram.com/p/CfeZagCoUIN/"
+insta: "yes"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-artists-way.jpg"
 ---
 

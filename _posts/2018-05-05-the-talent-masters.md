@@ -10,9 +10,13 @@ sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/9594128-the-talent-masters"
 description: "Yetenek Sarrafları, yeteneği tanıma ve geliştirme konusunda başarılı olan ünlü şirketleri inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-05-05
 tag: "çalışma yaşamı"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/the-talent-masters.jpg"
 ---
 
@@ -22,7 +26,7 @@ Başarılı şirketlerle başarısız olanlar arasındaki büyük ayrıştırıc
   
 Sadece bir tek kurumsal becerinin etkisi sürecektir. O da sürekli, kendini yenileyen bir lider akışı yaratma becerisi. Para sadece bir ticari metadır. Yetenek rekabet üstünlüğü sağlar. (sayfa 10)  
   
-Kitapta dünya çapında başarılı pek çok firmadan örnekler paylaşılıyor: General Electric, P&G, Hindustan Unilever, Agilent Technologies, Novartis, UniCredit,v.b. Bu firmaların ortak özelliği ise şöyle belirtiliyor: yeteneği tanıma ve geliştirme konusunda yıllar boyu süren ilerlemenin mükemmelleştirdiği kollektif bir uzmanlık. (sayfa 11)   
+Kitapta dünya çapında başarılı pek çok firmadan örnekler paylaşılıyor: General Electric, P&G, Hindustan Unilever, Agilent Technologies, Novartis, UniCredit, v.b. Bu firmaların ortak özelliği ise şöyle belirtiliyor: yeteneği tanıma ve geliştirme konusunda yıllar boyu süren ilerlemenin mükemmelleştirdiği kollektif bir uzmanlık. (sayfa 11)   
   
 Kitap, bu tür firmaları 'yetenek sarrafları' olarak isimlendiriyor ve kitap boyunca bunu nasıl yaptıkları okuyucuya aktarılıyor.  
   

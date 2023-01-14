@@ -10,9 +10,14 @@ sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/19186421-the-dark-net"
 description: "Kitap, internetin rahatsız edici ve karanlık yüzünü mercek altına alıyor ve internetin güvenli kullanımı için bireysel kullanıcılara yol gösteriyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-05-27
 tag: "siber güvenlik"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-dark-net.jpg"
 ---
 

@@ -10,9 +10,14 @@ sayfa: "270"
 goodreads: "https://www.goodreads.com/book/show/1729295.The_Ebay_Phenomenon"
 description: "eBay Fenomeni, talep bazlı fiyatlandırma sistemine dayanan bir iş modeline dayanan online açık arttırma sitesi ebay'i anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-03-11
 tag: "marka profili"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-ebay-phenomenon.jpg"
 ---
 

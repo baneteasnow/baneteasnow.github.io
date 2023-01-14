@@ -9,13 +9,15 @@ yil: "2022"
 sayfa: "312"
 goodreads: "https://www.goodreads.com/en/book/show/54443313"
 description: "Berlin Duvarı'nın yıkılışının (Kasım 1989) ve Doğu Almanya ile Batı Almanya'nın birleşmesinin (Ekim 1990) üzerinden otuz yıl geçti. Alman asıllı gazeteci yazar John Kampfner, Almanlar Neden Daha İyi Yapıyor isimli kitabında Almanya'nın geçmişte yaptığı hatalardan çıkardığı dersleri ve kendini yeniden güçlü şekilde var etmesinin perde arkasını araştırıyor."
-last_modified_at: 2022-10-17
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-10-17
 tag: "sosyoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
+eng: "-"
+rating: "4"
 image: "/assets/new/why-the-germans-do-it-better.jpg"
 ---
 

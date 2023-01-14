@@ -10,9 +10,13 @@ sayfa: "420"
 goodreads: "https://www.goodreads.com/book/show/154341.Wikinomics"
 description: "Vikinomi, kitlesel işbirliğini ve crowdsourcing kavramını ele alıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-07-27
 tag: "dijital kültür"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/wikinomics.jpg"
 ---
 

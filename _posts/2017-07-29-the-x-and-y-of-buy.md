@@ -10,9 +10,14 @@ sayfa: "174"
 goodreads: "https://www.goodreads.com/book/show/6561577-the-x-and-y-of-buy"
 description: "Kadın ve erkeklerin alışveriş, satın alma, hizmet ve ürün tüketimi gibi konularda birbirlerinden ne kadar farklı olduklarını çeşitli araştırmalardan örneklerle anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-07-29
 tag: "tüketici davranışları"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-x-and-y-of-buy.jpg"
 ---
 

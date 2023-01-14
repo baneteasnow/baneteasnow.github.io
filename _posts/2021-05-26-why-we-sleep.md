@@ -1,7 +1,6 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-05-26
 published: true
 title: "Why We Sleep | Matthew Walker (Kitap)"
 kitap: "Why We Sleep - Unlocking the Power of Sleep and Dreams"
@@ -12,7 +11,13 @@ sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/34466963-why-we-sleep"
 description: "Matthew Walker, Why We Sleep isimli kitabında uyku ve uykuya dair pek çok şeyi anlatıyor."
 posted: 2021-05-26
+last_modified_at: 2023-01-14
 tag: "sağlık"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/why-we-sleep.jpg"
 ---
 

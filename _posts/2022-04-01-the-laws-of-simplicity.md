@@ -9,10 +9,15 @@ yil: "2006"
 sayfa: "94"
 goodreads: "https://www.goodreads.com/en/book/show/225111"
 description: "John Maeda, Sadeliğin Yasaları isimli kitabında karmaşayı ve zihin yorgunluğunu engellemek için hayatın hemen her alanında uygulanabilecek 10 madde ve 3 anahtar noktayı paylaşıyor."
-last_modified_at: 2022-04-01
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-04-01
 tag: "minimalizm"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/the-laws-of-simplicity.jpg"
 ---
 

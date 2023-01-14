@@ -9,10 +9,15 @@ yil: "2007"
 sayfa: "265"  
 goodreads: "https://www.goodreads.com/id/book/show/6705420-how-starbucks-saved-my-life"
 description: "Michael Gates Gill, reklam sektöründeki kariyeri sonrasında Starbucks'ta nasıl çalışmaya başladığını ve yaşadıklarını anlatıyor."
-last_modified_at: 2021-07-05
+last_modified_at: 2023-01-14
 published: true
 posted: 2016-03-23
 tag: "biyografi"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/how-starbucks-saved-my-life.jpg"
 ---
 

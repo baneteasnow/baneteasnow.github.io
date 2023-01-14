@@ -9,11 +9,15 @@ yil: "1997"
 sayfa: "184"
 goodreads: "https://www.goodreads.com/book/show/2311637.Overcoming_the_Fear_of_Success"
 description: "Başarı Korkusu, kavramı çeşitli yönleriyle ele alarak, toplumdaki yerini, hangi deneyimlerle ortaya çıktığını ve aile içi ilişkilerden nasıl etkilendiğini inceliyor."
-last_modified_at: 2022-07-13
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-13
 tag: "psikoloji"
 instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/overcoming-the-fear-of-success.jpg"
 ---
 

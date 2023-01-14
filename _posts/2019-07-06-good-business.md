@@ -10,9 +10,13 @@ sayfa: "308"
 goodreads: "https://www.goodreads.com/book/show/583484.Good_Business"
 description: "Mihaly Csikszentmihalyi, Good Business isimli kitabında, çalışma hayatında akış kavramının yerini inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-07-06
 tag: "psikoloji"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/good-business.jpg"
 ---
 

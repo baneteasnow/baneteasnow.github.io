@@ -10,9 +10,14 @@ sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/1427532.The_Secret_Life_of_Cows"
 description: "İneklerin Gizli Hayatı'nda Rosamund Young uzun yıllar çalıştığı aile çiftliğinde ineklerle ve çiftliğin düzeni ile ilgili gözlemleri anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2020-04-25
 tag: "veganlık"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-secret-life-of-cows.jpg"
 ---
 

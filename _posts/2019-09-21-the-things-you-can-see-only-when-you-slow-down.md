@@ -10,9 +10,13 @@ sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down"
 description: "Yalnızca Yavaşladığında Görebileceğin Şeyler, yavaşlamak ve sakin kalabilmeyi tekrar öğrenmemiz gerektiğini hatırlatan bir kitap."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-09-21
 tag: "lifestyle"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-things-you-can-see-only-when-you-slow-down.jpg"
 ---
 

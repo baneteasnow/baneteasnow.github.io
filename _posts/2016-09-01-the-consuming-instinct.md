@@ -9,10 +9,15 @@ yil: "2012"
 sayfa: "420"  
 goodreads: "https://www.goodreads.com/book/show/11034732-the-consuming-instinct"
 description: "Tüketim İçgüdüsü, evrimsel psikolojiyi pazarlama ve tüketici davranışları açısından ele alıyor."
-last_modified_at: 2021-07-06
+last_modified_at: 2023-01-14
 published: true
 posted: 2016-09-01
 tag: "psikoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-consuming-instinct.jpg"
 ---
 

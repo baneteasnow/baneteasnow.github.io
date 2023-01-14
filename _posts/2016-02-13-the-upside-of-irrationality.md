@@ -11,9 +11,14 @@ goodreads: "https://www.goodreads.com/book/show/7815744-the-upside-of-irrational
 description: "Akıldışının Mantığı, kararlarımızı biçimlendiren gizli kuvvetleri konu alıyor. Kitap, Akıldışı Ama
 Öngörülebilir kitabının devamı niteliğinde."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-02-13
 tag: "davranışsal iktisat"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-upside-of-irrationality.jpg"
 ---
 
@@ -29,7 +34,7 @@ Klasik iktisat görüşüne göre canlılar en az çabayla en fazla kazancı eld
   
 İnsanlar kendi çabaları ile yaptıkları şeylerle - mobilya kurma, çorba, kek yapma, vs. - gurur duyarlar ve ortaya çıkan sonuçla duygusal bir bağ oluştururlar. Yazar, bu durumu İKEA etkisi olarak tanımlamıştır. İKEA'dan alınan ürünler çok fazla kaliteli veya son moda olmayabilir ancak onları içinden çıkan yönerge kağıdına göre kurmakla harcadığınız zaman içinde mobilya ile duygusal bağ kurulur.  
   
-Sanayinin gelişmesi ve üretim maliyetlerinin azalması ile birlikte bugün müşteriler kendi isteklerine göre ürünleri satınalabiliyorlar. Ayrıca, birçok firmanın internet üzerinden kendinize özel ürün tasarlamanıza olanak sağlayan sistemleri bulunuyor. Bu şekilde kendi istediğiniz şekilde bir ayakkabı, bir kolye üçü, bir defter, hatta araba tasarlayarak satın alabilirsiniz. Üstelik o ürün sadece sizde olacaktır.  
+Sanayinin gelişmesi ve üretim maliyetlerinin azalması ile birlikte bugün müşteriler kendi isteklerine göre ürünleri satın alabiliyorlar. Ayrıca, birçok firmanın internet üzerinden kendinize özel ürün tasarlamanıza olanak sağlayan sistemleri bulunuyor. Bu şekilde kendi istediğiniz şekilde bir ayakkabı, bir kolye üçü, bir defter, hatta araba tasarlayarak satın alabilirsiniz. Üstelik o ürün sadece sizde olacaktır.  
   
 Kişilerin kendi ürettikleri fikirleri başkalarının fikirlerinden daha fazla sahiplendikleri, savundukları ve doğru kabul ettikleri, kendi buldukları çözümleri daha fazla benimsedikleri tespit edilmiştir. Bu eğilim, bazı durumlarda örgüt kültürlerine de yansır ve firmalar kendi geliştirmedikleri bir ürün/teknoloji üzerinde çalışarak piyasaya daha iyisini çıkarmak için uğraşmak istemeyebilirler.  
   

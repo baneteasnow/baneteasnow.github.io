@@ -9,12 +9,15 @@ yil: "2010"
 sayfa: "400"  
 goodreads: "https://www.goodreads.com/book/show/1918305.The_Geography_of_Bliss"
 description: "Mutluluğun Coğrafyası, okuyucuyu farklı ülkelerde mutluluk arayışı üzerine bir seyahate çıkarıyor."
-last_modified_at: 2021-07-09
+last_modified_at: 2023-01-14
 published: true
 posted: 2019-05-01
 tag: "seyahat"
-image: "/assets/old/the-geography-of-bliss.jpg"
+insta: "no"
+reread: "yes"
+rating: "5"
 eng: "In this book, the author Eric Weiner visits ten different countries and talks with residents to learn about their concept of happiness, the factors that make them happy, and what they do to find happiness. This book is a sociological culture book and 'a travel journal', as well."
+image: "/assets/old/the-geography-of-bliss.jpg"
 ---
 
 Amerikalı Gazeteci Eric Weiner'in kaleme aldığı Mutluluğun Coğrafyası, okuyucuyu farklı ülkelerde mutluluk arayışı üzerine bir seyahate çıkarıyor. Eric Weiner, 10 farklı ülkeyi ziyaret ediyor ve yerel halka mutlu olup olmadıklarını ve mutluluk hakkında ne düşündüklerini soruyor. Ayrıca, günlük yaşamı gözlemliyor ve o ülkede bir süre kaldıktan sonra ne hissettiğini de satırları arasına ekliyor.  

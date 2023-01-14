@@ -8,11 +8,16 @@ yazar: "Malena Ernman, Greta Thunberg, Beata Ernman, Svante Thunberg"
 yil: "2018"
 sayfa: "275"
 goodreads: "https://www.goodreads.com/book/show/50360321-our-house-is-on-fire"
-last_modified_at: 2022-06-02
+last_modified_at: 2023-01-14
 published: true
 description: "Evimiz Yanıyor, İsveçli çevre aktivisti ve 'İklim Değişikliği için okul grevi' ile tanınan Greta Thunberg'in ve ailesinin hayli kişisel hikayesini aktarıyor."
 posted: 2022-06-02
 tag: "biyografi"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/our-house-is-on-fire.jpg"
 ---
 

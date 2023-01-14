@@ -8,11 +8,16 @@ yazar: "George Ritzer"
 yil: "2016"
 sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/119849.The_McDonaldization_of_Society"
-last_modified_at: 2022-05-04
+last_modified_at: 2023-01-14
 published: true
 description: "Toplumun McDonaldlaştırılması isimli kitap sosyoloji, yönetim ve iktisat alanlarından yararlanarak günümüz modern toplumunun bir analizini yapıyor."
 tag: "sosyoloji"
 posted: 2022-05-04
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-mcdonaldization-of-society.jpg"
 ---
 

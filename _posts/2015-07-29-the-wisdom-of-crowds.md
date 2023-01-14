@@ -10,9 +10,14 @@ sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds"
 description: "Kitapta kitlelerin bir araya geldiklerinde neden bireylerden daha iyi karar verici durumunda olduklarından ve kollektif zekanın iş dünyasında, toplumlarda ve günlük yaşamda nasıl kullanıldığı anlatılıyor.  "
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2015-07-29
 tag: "dijital kültür"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-wisdom-of-crowds.jpg"
 ---
 

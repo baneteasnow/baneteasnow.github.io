@@ -10,9 +10,14 @@ sayfa: "440"
 goodreads: "https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures"
 description: "What The Dog Saw, Malcolm Gladwell'in 1996 ve 2006 yılları arasında The New Yorker dergisinde yer alan makalelerinden yapılan seçmelerden oluşuyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2015-09-09
 tag: "psikoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/what-the-dog-saw.jpg"
 ---
 

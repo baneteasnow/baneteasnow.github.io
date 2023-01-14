@@ -10,9 +10,13 @@ sayfa: "424"
 goodreads: "https://www.goodreads.com/book/show/38212111-machine-platform-crowd"
 description: "Makine, Platform, Kitle teknoloji ile ortaya çıkan yeni tür iş modellerinin firmaları nasıl etkilediğini ele alıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-07-13
 tag: "teknoloji"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/machine-platform-crowd.jpg"
 ---
 

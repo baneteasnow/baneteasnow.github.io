@@ -10,11 +10,15 @@ sayfa: "448"
 goodreads: "https://www.goodreads.com/book/show/28503628-the-attention-merchants"
 description: "Dikkat Tacirleri, sosyal medya, doğrudan veya gizli reklamlar, internet, televizyon gibi unsurların insanın dikkatini nasıl yönlendirdiğini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-04-21
 tag: "üretkenlik ve teknoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "In his book Attention Merchants, Tim Wu starts with the history of advertising accompanied by pop culture and how these two concepts get our attention out of our hands to commercialise. To understand 'how' and 'why' for advertising and media, this book is a good option."
 image: "/assets/old/the-attention-merchants.jpg"
-eng: "In his book Attention Merchants, Tim Wu starts with the history of advertising accompanied by pop culture and how these two concepts get our attention out of our hands to commercialize. To understand 'how' and 'why' for advertising and media, this book is a good option."
 ---
 
 Columbia Üniversitesi İletişim Hukuku Profesörü Tim Wu'nun kaleme aldığı kitap, oldukça çarpıcı bir örnekle başlıyor. California eyaletinin orta kesiminde bulunan ve 2011 yılında maddi olarak kaynak yetersizliği yaşayan Twin Rivers okullar bölgesi için 'Eğitim Fon Ortaklığı' ismi ile bir firma 'devlet okullarındaki eğitimi özel iştirakin gücüyle dönüştürmek' vaadiyle yeni bir gelir kaynağı öneriyordu. Karşılığında ise, okul yönetimlerinin yapması gereken tek şey, Fortune 500 sıralamasındaki firmaların reklamlarının hedef kitlesi olarak doğrudan öğrencileri kullanmasına izin vermekti. Okul yönetimi için ticari açıdan bakıldığında son derece çekici olan bu teklifin aslında tek bir amacı vardır: 'Geleceğin tüketicileri haline gelecek olan K-12 pazarı ile daha şimdiden etkileşime geçerek onları şekillendirme şansı.' Bu tür bir anlaşmayı kabul eden okullarda, reklamlar öğrenci dolaplarına, koridor zeminlerine v.b. yerleştirilmektedir.  

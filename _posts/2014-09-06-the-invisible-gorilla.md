@@ -8,15 +8,20 @@ yazar: "Christopher Chabris, Daniel Simons"
 yil: "2012"  
 sayfa: "280"  
 goodreads: "https://www.goodreads.com/book/show/7783191-the-invisible-gorilla"
-description: "Görünmez Goril, 'olsaydı mutlaka farkederdim' dediğimiz ama aslında dikkatimizden kaçan şeyleri sosyal deneylerle anlatıyor."
+description: "Görünmez Goril, 'olsaydı mutlaka fark ederdim' dediğimiz ama aslında dikkatimizden kaçan şeyleri sosyal deneylerle anlatıyor."
 published: true
 last_modified_at: 2021-07-12
 posted: 2014-09-06
 tag: "psikoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-invisible-gorilla.jpg"
 ---
 
-Görünmez Goril, 'olsaydı mutlaka farkederdim' dediğimiz ama aslında dikkatimizden kaçan şeylerin hayatımızda ne kadar fazla yer kapladığını sosyal deneylere dayanarak anlatıyor.   
+Görünmez Goril, 'olsaydı mutlaka fark ederdim' dediğimiz ama aslında dikkatimizden kaçan şeylerin hayatımızda ne kadar fazla yer kapladığını sosyal deneylere dayanarak anlatıyor.   
   
 Dünyanın yanılsamalarla dolu bir yer olduğunu gösteren bu deneylerden ilki 1999 yılında yapılmış. Algıda Seçicilik (Selective Attention) ismini taşıyan bu deneyde ekranda basketbol oynayan bir grup görülüyor. İzleyiciye bu grupla ilgili bir soru yöneltiliyor. İzleyici dikkatini bu sorunun cevabını bulmaya yöneltmişken, oyuncular arasında kitaba da adını veren bir 'goril' görünüyor. Şaşırtıcı olan ise, birçok kişinin aslında orada olmaması gereken bu gorili farketmemesi.   
   

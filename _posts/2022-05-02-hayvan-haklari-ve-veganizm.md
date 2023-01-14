@@ -9,12 +9,15 @@ yil: "2013"
 sayfa: "181"
 goodreads: "https://www.goodreads.com/book/show/18753592-hayvan-haklar-veganizm"
 description: "Hayvan Hakları ve veganizm isimli kitap her iki konu hakkında derlenmiş makalelerden oluşuyor."
-last_modified_at: 2022-05-02
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-02
 tag: "vegan"
 instagram: "https://www.instagram.com/p/CfBnXUPoIZu/"
 insta: "yes"
+reread: "yes"
+rating: "3"
+eng: "-"
 image: "/assets/new/hayvan-haklari-ve-veganizm.jpg"
 ---
 

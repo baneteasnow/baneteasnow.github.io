@@ -10,9 +10,14 @@ sayfa: "316"
 goodreads: "https://www.goodreads.com/book/show/1237392.The_Seven_Day_Weekend"
 description: "Yedi Günlük Hafta Sonu, iş-yaşam dengesi üzerinde duruyor ve teknoloji ile mümkün hale gelen uzaktan çalışma düzeni hakkında ipuçları paylaşıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-11-25
 tag: "marka profili"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-seven-day-weekend.jpg"
 ---
 

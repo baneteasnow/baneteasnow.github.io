@@ -8,11 +8,16 @@ yazar: "Jeffrey Moussaieff Masson"
 yil: "2010"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/5289150-the-face-on-your-plate"
-last_modified_at: 2022-01-12
+last_modified_at: 2023-01-14
 published: true
 description: "Jeffrey Moussaieff Masson, The Face on Your Plate isimli kitabında yemeyi seçtiğimiz yiyeceklerin aslında ahlaki değerlerimizle nasıl bağlantılı olduğunun altını çiziyor."
 tag: "veganlık"
 posted: 2022-01-12
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-face-on-your-plate.jpg"
 ---
 

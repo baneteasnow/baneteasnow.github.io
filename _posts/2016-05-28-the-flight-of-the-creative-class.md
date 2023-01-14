@@ -10,9 +10,14 @@ sayfa: "436"
 goodreads: "https://www.goodreads.com/book/show/325467.The_Flight_of_the_Creative_Class"
 description: "Richard Florida, Yaratıcı Sınıf Adres Değiştiriyor isimli kitabında teknoloji devrimine imza atan olan yaratıcı sınıfın küreselleşme sonucunda yaşayacağı ve çalışacağı bölgeyi seçerken nelere dikkat ettiğini ve kararını neyin şekillendirdiğini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-05-28
 tag: "sosyoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-flight-of-the-creative-class.jpg"
 ---
 

@@ -10,9 +10,13 @@ sayfa: "472"
 goodreads: "https://www.goodreads.com/book/show/17660462-the-everything-store"
 description: "Aradığın Her Şey, dünyanın en büyük firmalarından biri haline gelen Amazon'un kuruluşunu ve bugünkü konumuna nasıl geldiğini anlatıyor."
 published: true
-last_modified_at: 2021-07-08
+last_modified_at: 2023-01-14
 posted: 2018-12-15
 tag: "biyografi"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/the-everything-store.jpg"
 ---
 

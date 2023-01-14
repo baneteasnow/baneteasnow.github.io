@@ -1,7 +1,6 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-04-28
 published: true
 title: "Talking To Strangers | Malcolm Gladwell (Kitap)"
 kitap: "Talking To Strangers - What We Should Know about the People We Don't Know"
@@ -12,7 +11,13 @@ sayfa: "400"
 goodreads: "https://www.goodreads.com/book/show/43848929-talking-to-strangers"
 description: "Malcolm Gladwell, Talking to Strangers isimli kitabında birbirlerini iyi tanımayan insanların etkileşimlerini inceliyor. Ortaya çıkan kimi olumsuz durumları irdeliyor, 'yanlış anlaşılmanın' veya 'karşı tarafı yanlış yorumlamanın' hangi noktada başladığını açıklıyor."
 posted: 2021-04-28
+last_modified_at: 2023-01-14
 tag: "psikoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/new/talking-to-strangers.jpg"
 ---
 

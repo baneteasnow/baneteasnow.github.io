@@ -10,9 +10,14 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/475876.Attention_Economy"
 description: "Kitap, internetin yaygınlaşması ile birlikte enformasyonun her geçen gün daha da artmasını ve bu durumun iş dünyasında dikkat yönetiminin adeta bir bilim olarak yansımasını konu ediniyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-01-21
 tag: "teknoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-attention-economy.jpg"
 ---
 

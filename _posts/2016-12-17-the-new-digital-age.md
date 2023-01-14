@@ -10,9 +10,14 @@ sayfa: "324"
 goodreads: "https://www.goodreads.com/book/show/16096109-the-new-digital-age"
 description: "Yeni Dijital Çağ, internetin getirdiği değişimleri inceliyor ve aslında yolun daha çok başında olduğumuzun sinyalini vererek geleceğin dünyasının bugünden çok farklı olacağını anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-12-17
 tag: "teknoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-new-digital-age.jpg"
 ---
 

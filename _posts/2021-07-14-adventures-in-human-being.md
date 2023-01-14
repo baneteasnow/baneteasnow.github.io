@@ -9,11 +9,16 @@ yil: "2015"
 sayfa: "266"
 goodreads: "https://www.goodreads.com/book/show/25246544-adventures-in-human-being"
 summary: "Adventures in Human Being, bir doktor olan Gavin Francis'in her biri insan vücudunda tek bir organa odaklanan 18 makalesinden oluşuyor."
-last_modified_at: 2021-07-14
+last_modified_at: 2023-01-14
 description: "Adventures in Human Being, bir doktor olan Gavin Francis'in her biri insan vücudunda tek bir organa odaklanan 18 makalesinden oluşuyor."
 posted: 2021-07-14
 published: true
 tag: "tıp"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/adventures-in-human-being.jpg"
 ---
 

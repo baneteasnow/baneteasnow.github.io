@@ -13,8 +13,11 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2019-01-12
 tag: "felsefe"
-image: "/assets/old/do-humankinds-best-days-lie-ahead.jpg"
+insta: "no"
+reread: "yes"
+rating: "5"
 eng: "This short book transcribes the debate between four famous thinkers of our age. Steven Pinker and Matt Ridley are arguing for proposition while Alain de Botton and Malcolm Gladwell are on the opposite side. Pinker sums his point of view in 10 points with a holistic perspective and indicates global warming as the biggest threat. Following that, Ridley discusses that life is getting better for the majority in the world. On the other hand, Alain de Botton gives a few local examples only while Gladwell has the most realistic perspective. He says that wherever you are in this world is directly related to if your best days lie ahead or not."
+image: "/assets/old/do-humankinds-best-days-lie-ahead.jpg"
 ---
 
 Munk Münazaraları, 2008 yılından bu yana Kanada Toronto'da altı ayda bir kez Roy Thomson Hall'da 3000 seyirci önünde gerçekleştiriliyor. Ele alınan konular genellikle jeopolitik, sosyal, ekonomik veya teknolojik meselelere yoğunlaşıyor. Amaç, dünyanın ve Kanada'nın yüz yüze olduğu temel kamu politikaları meselelerini tartışabilmeleri için önde gelen düşünürlere küresel bir forum sağlamak. Dünyanın en parlak isimlerinin belirlenen konu üzerine fikirlerini paylaştığı bu münazarada, 2015 sonbaharında felsefeye dayanan bir konu ele alınmış, bu münazaranın içeriğine ise Türkçe olarak Gelecek Daha Güzel Günler Mi Getirecek isimli kitapta yer verilmiştir.  

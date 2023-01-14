@@ -8,11 +8,16 @@ yazar: "Melanie Joy"
 yil: "2020"
 sayfa: "221"
 goodreads: "https://www.goodreads.com/book/show/50915414-why-we-love-dogs-eat-pigs-and-wear-cows"
-last_modified_at: 2022-02-09
+last_modified_at: 2023-01-14
 published: true  
 description: "Melanie Joy, Why We Love Dogs, Eat Pigs, and Wear Cows isimli kitabında insanların neden evlerinde çok sevdikleri evcil hayvanları ile birlikte yaşarken akşam yemeğinde et yediklerini tartışıyor."  
 tag: "veganlık"
 posted: 2022-02-09
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/why-we-love-dogs-eat-pigs-and-wear-cows.jpg" 
 ---
 

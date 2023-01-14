@@ -10,9 +10,13 @@ sayfa: "72"
 goodreads: "https://www.goodreads.com/book/show/34910664-minimalist-living"
 description: "Minimalist Yaşam, yaşamınızdaki fazla eşyalardan arınmanızın, yüklerinizden de arınmanızı sağlayacağını  vurguluyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-09-14
 tag: "minimalizm"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/minimalist-living.jpg"
 ---
 

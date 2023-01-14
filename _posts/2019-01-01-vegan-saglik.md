@@ -10,9 +10,13 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/50773984-vegan-sa-l-k"
 description: "Vegan Sağlık, Murat Kınıkoğlu'nun az yağlı vegan beslenme üzerine yazdığı ikinci kitabı."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-01-01
 tag: "sağlık"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/vegan-saglik.jpg"
 ---
 

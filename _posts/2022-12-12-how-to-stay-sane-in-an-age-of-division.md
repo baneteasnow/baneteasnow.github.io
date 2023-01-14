@@ -9,7 +9,7 @@ yil: "2022"
 sayfa: "120"
 goodreads: "https://www.amazon.com/How-Stay-Sane-Age-Division-ebook/dp/B083JMK177"
 description: "Elif Şafak, pandeminin rutinleri alt üst ettiği dünyada, kritik bir eşikte olduğumuza işaret ediyor. Çıkış yolunun ise, ancak çok kültürlülüğün desteklenmesi, duyguların inkarından vazgeçilmesi ile mümkün olduğunu tartışıyor."
-last_modified_at: 2022-12-12
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-12-12
 tag: "felsefe"
@@ -17,6 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
+eng: "-"
 image: "/assets/new/how-to-stay-sane-in-an-age-of-division.jpg"
 ---
 

@@ -8,11 +8,16 @@ yazar: "Mercan Yurdakuler"
 yil: "2018"
 sayfa: "140"
 goodreads: "https://www.goodreads.com/book/show/29468074-zehirsiz-ev"
-last_modified_at: 2021-10-27 
+last_modified_at: 2023-01-14 
 published: true  
 description: "Zehirsiz Ev, günlük olarak kullanılan ve yoğun kimyasallar içeren ürünlerin alternatiflerini öneren bir kitap."  
 posted: 2021-10-27
 tag: "sürdürülebilirlik"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/zehirsiz-ev.jpg" 
 ---
 

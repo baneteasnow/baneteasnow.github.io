@@ -10,9 +10,14 @@ sayfa: "414"
 goodreads: "https://www.goodreads.com/book/show/29467089-augmented"
 description: "Kitap, teknolojide yaşanan gelişmeler ile birlikte gelecekteki dünyanın nasıl bir yer olacağını anlatıyor"
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-06-17
 tag: "yapay zeka"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/augmented.jpg"
 ---
 
@@ -26,7 +31,7 @@ Teknolojik ilerlemeler, tüketicilerin dönem dönem yeni markalara ve yeni ür�
   
 Teknoloji günlük hayatı öylesine etkilemektedir ki, günlük konuşma diline 'Kodak Moments' (fotoğraflanmaya değecek özel anlar), 'Xeroxing' (fotokopi çekerek çoğaltmak), 'to Google' (internette bir bilgiyi aratmak), 'to Uber' (ulaşımı Über app üzerinden çağrılan araçla sağlamak) gibi pek çok ifade girmiştir.  
   
-İnsanların sonraki kuşaklarını şekillendirecek kavramlar arasında yapay zeka, gen biçimlendirme, nano ölçek imalat, otonom araçlar, robotlar, giysi bilgisayarlar ve tümlesik veri işleme gibi teknolojiler var ve yazar bu kuşağı 'Artırılmış Çağ' olarak isimlendiriyor. Çünkü, teknoloji hem günlük hayatı hem de insan davranışlarını kökten şekilde değiştirecek ve bu değişim yazara göre bu kez oldukça kişisel olacak.  
+İnsanların sonraki kuşaklarını şekillendirecek kavramlar arasında yapay zeka, gen biçimlendirme, nano ölçek imalat, otonom araçlar, robotlar, giysi bilgisayarlar ve tümleşik veri işleme gibi teknolojiler var ve yazar bu kuşağı 'Artırılmış Çağ' olarak isimlendiriyor. Çünkü, teknoloji hem günlük hayatı hem de insan davranışlarını kökten şekilde değiştirecek ve bu değişim yazara göre bu kez oldukça kişisel olacak.  
   
 Artırılmış çağ, dört önemli ilerlemeyi de beraberinde getiriyor:  
 (1) Yapay zeka,  
@@ -38,7 +43,7 @@ Uzun vadeli ve yıkıcı iki teknolojiyi de başlatıyor:
 (1) Meta malzemeler,  
 (2) Üç boyutlu baskı.  
   
-Yenilenebilir enerji kaynaklarına ve özellikle güneş enerjisine verilen önem giderek artıyor, pek çok firma bu yenilenebilir enerjiler üzerine yatırım yapıyor: Örneğin (Green) Google ve Tesla Motors. Kitapta yer alan bilgiye göre, 2035 yılından itibaren dünya çapında yenilenebilir enerji kullanımı ağırlıklı olacaktır. Ayrıca, üreten tüketicilerin (prosümers) sayısı da giderek artmaktadır.  
+Yenilenebilir enerji kaynaklarına ve özellikle güneş enerjisine verilen önem giderek artıyor, pek çok firma bu yenilenebilir enerjiler üzerine yatırım yapıyor: Örneğin (Green) Google ve Tesla Motors. Kitapta yer alan bilgiye göre, 2035 yılından itibaren dünya çapında yenilenebilir enerji kullanımı ağırlıklı olacaktır. Ayrıca, üreten tüketicilerin (prosumers) sayısı da giderek artmaktadır.  
   
 Öğrencilerin okulda gördüğü derslerin de artırılmış çağ ile birlikte tamamen değişmesi gerekecek. Bilim, teknoloji, mühendislik ve matematik gibi eskiden beri okutulan alanların yanı sıra, öğrencilerin yaratıcı düşünme, adaptasyon, hızlı öğrenme ve beceri kazanmaya yönelik teknikler üzerine de deneyim kazanması gerekiyor. Eğitim sistemi bu yeni yetkinliklere adapte edildiği takdirde, istihdam ve yeni iş modellerinin getirdiği değişime ayak uydurmak ve cevap vermek mümkün olacaktır.  
   

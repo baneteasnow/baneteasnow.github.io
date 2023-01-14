@@ -10,9 +10,14 @@ sayfa: "605"
 goodreads: "https://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room"
 description: "Gümüş Kurşun, enerji sektöründe faaliyet gösteren Enron firmasının iflasla son bulan hikayesini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-10-22
 tag: "marka profili"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-smartest-guys-in-the-room.jpg"
 ---
 

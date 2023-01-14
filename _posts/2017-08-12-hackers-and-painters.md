@@ -10,11 +10,15 @@ sayfa: "302"
 goodreads: "https://www.goodreads.com/book/show/41793.Hackers_Painters"
 description: "Paul Graham, hayatın içinden pek çok konuyu bir yazılımcının gözünden yorumluyor, aynı zamanda kurucularından olduğu Viaweb isimli firmanın Yahoo tarafından satınalınmasını da anlatıyor, girişimcilik ve startuplar için ipuçları paylaşıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-08-12
 tag: "yazılım"
-image: "/assets/old/hackers-and-painters.jpg"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
 eng: "Hackers & Painters - Big Ideas From The Computer Age is one of my favourite books. The author has a PhD in Computer Science and studied painting afterwards. This book is composed of essays on many different topics, mostly from the perspective of a programmer. He is a terrific writer and tells his own experience in art, hacking and life in general."
+image: "/assets/old/hackers-and-painters.jpg"
 ---
 
 Bilgisayar bilimi alanında doktora yaptıktan sonra resim eğitimi alan Paul Graham'in yazdığı Hackers & Painters, hayatın içinden pek çok konuyu bir yazılımcının gözünden yorumluyor, aynı zamanda kurucularından olduğu Viaweb isimli firmanın Yahoo tarafından satınalınmasını da anlatıyor, girişimcilik ve startuplar için ipuçları paylaşıyor. 

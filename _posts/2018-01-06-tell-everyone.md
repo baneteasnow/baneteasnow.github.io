@@ -10,11 +10,15 @@ sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/20663665-tell-everyone"
 description: "Herkese Söyle, çeşitli örneklerle sosyal medyada kullanıcıların yaptıkları çeşitli paylaşımları inceliyor ve bu paylaşımların arka planını sorguluyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-01-06
 tag: "sosyal medya"
-image: "/assets/old/tell-everyone.jpg"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
 eng: "Tell Everyone is a fascinating read on the evolution of social media and how the culture is affected by it."
+image: "/assets/old/tell-everyone.jpg"
 ---
 
 Doğası gereği sosyal bir varlık olan insan, varolduğu günden bu yana çevresi ile iletişime geçerek paylaşımda bulunmaktadır. Zaman ilerledikçe iletişim yöntemlerine yenileri eklenmiştir ve bu yeni yöntemler birtakım endişeleri de beraberinde getirmiştir. Ancak, bugün oldukça popüler olan sosyal medyayı kullanmak öylesine kolaydır ki, sosyal medyanın insan hayatında yol açtığı radikal değişiklikler ilk bakışta anlaşılamayabilmektedir.  

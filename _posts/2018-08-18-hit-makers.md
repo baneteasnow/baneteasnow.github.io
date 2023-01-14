@@ -9,12 +9,15 @@ yil: "2017"
 sayfa: "320"  
 goodreads: "https://www.goodreads.com/book/show/30901608-hit-makers"
 description: "Derek Thompson'ın kaleme aldığı Hit Makers, popüler kültür ve medyada olağanüstü popülariteye ve ticari başarıya ulaşan az sayıdaki ürünü ve fikri yani 'hitleri' konu alıyor."
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 published: true
 posted: 2018-08-18
 tag: "üretkenlik ve teknoloji"
-image: "/assets/old/hit-makers.jpg"
+insta: "no"
+reread: "no"
+rating: "5"
 eng: "Derek Thompson explains how some things become popular in the age of distraction, while others don’t."
+image: "/assets/old/hit-makers.jpg"
 ---
 
 The Atlantic dergisi editörlerinden Derek Thompson'ın kaleme aldığı Hit Makers, popüler kültür ve medyada olağanüstü popülariteye ve ticari başarıya ulaşan az sayıdaki ürünü ve fikri yani 'hitleri' konu alıyor.  

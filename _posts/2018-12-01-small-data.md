@@ -10,9 +10,13 @@ sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/25663776-small-data"
 description: "Small Data, büyük verinin yetersiz kaldığı noktada küçük veriden nasıl yararlanılacağına ilişkin pratik bilgiler veriyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-12-01
 tag: "tüketici davranışları"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/small-data.jpg"
 ---
 

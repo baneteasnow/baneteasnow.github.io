@@ -10,9 +10,14 @@ sayfa: "319"
 goodreads: "https://www.goodreads.com/book/show/23158207-how-google-works"
 description: "Google Nasıl Yönetiliyor, dünyanın en popüler şirketlerinin arasında olan Google hakkında önemli ipuçları veriyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-04-30
 tag: "marka profili"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/how-google-works.jpg"
 ---
 

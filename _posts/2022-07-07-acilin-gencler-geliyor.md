@@ -9,13 +9,15 @@ yil: "2018"
 sayfa: "200"
 goodreads: "https://www.goodreads.com/book/show/41836070-a-l-n-gen-ler-geliyor"
 description: "SIA Insight tarafından gerçekleştirilen 2018 Türkiye Gençlik Araştırması'nın sonuçlarını ele alan Açılın Gençler Geliyor özellikle Y ve Z nesillerine odaklanıyor."
-last_modified_at: 2022-07-07
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-07
 tag: "sosyoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/acilin-gencler-geliyor.jpg"
 ---
 

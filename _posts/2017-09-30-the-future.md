@@ -10,9 +10,14 @@ sayfa: "608"
 goodreads: "https://www.goodreads.com/book/show/16054830-the-future"
 description: "Al Gore tarafından kaleme alınan Gelecek küreselleşmeyi yaratan dinamikler çerçevesinde günümüz problemlerini irdeliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-09-30
 tag: "teknoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-future.jpg"
 ---
 

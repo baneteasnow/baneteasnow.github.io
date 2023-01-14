@@ -8,11 +8,16 @@ yazar: "Austin Kleon"
 yil: "2020"
 sayfa: "224"
 published: true
-last_modified_at: 2021-06-22
+last_modified_at: 2023-01-14
 description: "Keep Going, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolu paylaşıyor."
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
 posted: 2021-06-23
 tag: "motivasyon"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/keep-going.jpg"
 ---
 

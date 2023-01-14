@@ -10,9 +10,14 @@ sayfa: "326"
 goodreads: "https://www.goodreads.com/book/show/5100525-what-would-google-do"
 description: "Jeff Jarvis, Google Olsa Ne Yapardı isimli kitabında Google'ın neyi farklı yaptığını kendi gözlemlerine dayanarak açıklıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-03-17
 tag: "marka profili"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/what-would-google-do.jpg"
 ---
 
@@ -22,7 +27,7 @@ Kitap 'Google Kuralları' ve 'Dünyaya Google Hakim Olsaydı' ve 'G Jenerasyonu'
   
 Yazar, kitabın ilk sayfalarında Google'ın özellerini şöyle belirliyor: İnternet çağında nasıl ayakta kalınacağını iyice anlamış, ilk post-medya şirketi, network ve platformdur. Dağıtım odaklı düşünür ve insanlara kendi gider. Kitlelerin zekasını kullanır ve kullanıcılarına saygı duyar. Kendini bir ürün olarak görmez.  
   
-Her fırsatta ineternetin yararlarını vurgulayan yazar, intenetle ilgili olarak şu ana kurallara işaret ediyor:  
+Her fırsatta internetin yararlarını vurgulayan yazar, internetle ilgili olarak şu ana kurallara işaret ediyor:  
   
 - Kontrolü insanlara verin, vermezseniz onları kaybedersiniz.  
 - En kötü müşteriniz en iyi arkadaşınızdır.  

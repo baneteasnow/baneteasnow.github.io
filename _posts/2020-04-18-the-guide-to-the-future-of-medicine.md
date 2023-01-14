@@ -10,9 +10,14 @@ sayfa: "280"
 goodreads: "https://www.goodreads.com/book/show/23150975-the-guide-to-the-future-of-medicine"
 description: "Tıbbın Geleceğine Yolculuk, teknolojinin tıp biliminin geleceğini nasıl etkileyeceğini inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2020-04-18
 tag: "tıp"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/the-guide-to-the-future-of-medicine.jpg"
 ---
 

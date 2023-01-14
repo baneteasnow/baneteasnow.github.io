@@ -10,9 +10,14 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/6828896-delivering-happiness"
 description: "İnternet üzerinden ayakkabı satışı yapmak üzere kurulan ve şu anda Amazon.com bünyesinde bulunan Zappos.com'un hikayesini anlatan 'Mutluluk Dağıtmak' isimli kitap, firmanın CEO'su Tony Hsieh tarafından kaleme alınmış."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-08-04
 tag: "marka profili"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/delivering-happiness.jpg"
 ---
 

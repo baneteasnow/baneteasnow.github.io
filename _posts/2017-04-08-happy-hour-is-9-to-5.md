@@ -10,9 +10,14 @@ sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/20642240-happy-hour-is-9-to-5"
 description: "Sabah 9'dan Akşam 6'ya Hapy Hour isimli kitapta Danimarkalı yazar Alexander Kjerulf, adım adım işyerinde mutluluğu inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-04-08
 tag: "çalışma yaşamı"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/happy-hour-is-9-to-5.jpg"
 ---
 

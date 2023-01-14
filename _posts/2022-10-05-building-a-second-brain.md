@@ -9,13 +9,15 @@ yil: "2022"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/59616977-building-a-second-brain"
 description: "Dijitalleşme sayesinde erişilebilir bilgi miktarı her geçen gün artmakta. Building A Second Brain (BASB), bilgi yığınlarını anlamlı hale getirmenin ve kişisel bilgi yönetimi sistemi oluşturmanın yollarını açıklıyor."
-last_modified_at: 2022-09-10
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-09-10
 tag: "üretkenlik ve teknoloji"
 instagram: "no"
 insta: "no"
-reread: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/building-a-second-brain.jpg"
 ---
 

@@ -9,10 +9,15 @@ yil: "2021"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/54756609-hayvan-deneyleri"
 description: "Hayvan Deneyleri isimli kitapta hayvan deneylerinin tarihi, unlu bilim insanlarının gerçekleştirdiği başlıca hayvan deneyleri, hayvan deneylerinin insanlar için ne ölçüde güvenilir olduğu ve alternatif yöntemlerin neler olabileceği tartışılıyor."
-last_modified_at: 2022-06-17
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-17
 tag: "hayvan hakları"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/hayvan-deneyleri.jpg"
 ---
 

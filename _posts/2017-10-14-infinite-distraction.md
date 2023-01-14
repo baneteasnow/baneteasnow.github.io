@@ -2,7 +2,7 @@
 layout: post  
 category: book2  
 title: "Infinite Distraction | Dominic Pettman (Kitap)"  
-kitap: "Infinite Distraction - Paying Attention To Social Media"  
+kitap: "Infinite Distraction: Paying Attention To Social Media"  
 tr: "Sonsuz Dikkat Dağınıklığı - Gündelik Yaşamda Sosyal Medyaya Odaklanmak"  
 yazar: "Dominic Pettman"  
 yil: "2017"  
@@ -10,9 +10,14 @@ sayfa: "126"
 goodreads: "https://www.goodreads.com/book/show/29451184-infinite-distraction"
 description: "Sonsuz Dikkat Dağınıklığı, dikkat dağılmasının dijitalleşmesini konu alıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-10-14
 tag: "üretkenlik ve teknoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/infinite-distraction.jpg"
 ---
 

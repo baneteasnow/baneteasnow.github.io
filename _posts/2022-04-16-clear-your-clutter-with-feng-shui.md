@@ -9,10 +9,15 @@ yil: "2021"
 sayfa: "168"
 goodreads: "https://www.goodreads.com/book/show/27071482-clear-your-clutter-with-feng-shui"
 description: "Karen Kinston, Yaşamınızda Feng Shui isimli kitabında fiziksel, zihinsel ve ruhsal dağınıklıktan kurtulmanın yollarını anlatıyor."
-last_modified_at: 2022-04-16
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-04-16
 tag: "lifestyle"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/clear-your-clutter-with-feng-shui.jpg"
 ---
 

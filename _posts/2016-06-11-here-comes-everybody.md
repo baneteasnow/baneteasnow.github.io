@@ -10,9 +10,14 @@ sayfa: "282"
 goodreads: "https://www.goodreads.com/book/show/1998185.Here_Comes_Everybody"
 description: "Kitap, internet üzerinde aynı platformu kullanarak bir araya gelen grupların yaptırım gücünü ve yapabildiklerini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-06-11
 tag: "dijital kültür"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/here-comes-everybody.jpg"
 ---
 

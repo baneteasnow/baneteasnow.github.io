@@ -10,9 +10,14 @@ sayfa: "235"
 goodreads: "https://www.goodreads.com/book/show/18211094-big-data-at-work"
 description: "Big Data at Work, büyük veriyi anlamlandırmak ve analiz edebilmek için çeşitli ipuçları veriyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-10-21
 tag: "teknoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/big-data-at-work.jpg"
 ---
 

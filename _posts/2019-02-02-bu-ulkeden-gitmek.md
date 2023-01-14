@@ -10,9 +10,13 @@ sayfa: "2018"
 goodreads: "https://www.goodreads.com/book/show/41876039-bu-lkeden-gitmek"
 description: "Bu Ülkeden Gitmek, Türkiye'den son yıllarda diğer ülkelere yaşanan göçü konu alıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-02-02
 tag: "sosyoloji"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/bu-ulkeden-gitmek.jpg"
 ---
 

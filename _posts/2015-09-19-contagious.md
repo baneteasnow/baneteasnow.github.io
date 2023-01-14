@@ -10,10 +10,13 @@ sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/15801967-contagious"
 description: "Contagious, herhangi bir şeyin tutulmasını ve kısa sürede popüler hale gelmesine hangi unsurların yol açtığını inceliyor. Yazar, hakkında konuşulmayı, paylaşılmayı ve taklit edilmeyi tetikleyici olarak belirlediği altı unsuru kitabında paylaşıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2015-09-19
 tag: "psikoloji"
-image: "/assets/old/contagious.jpg"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
 eng: "Jonah Berger is a marketing professor at the Wharton School. His book 'Contagious: Why Things Catch On' is about why some themes or ideas go viral, while others don't. He is explaining the concept of contagious in six principles (STEPPS). 
 Social Currency 
 Triggers 
@@ -22,6 +25,7 @@ Public
 Practical Value 
 Stories 
 With the STEPPS framework, he goes deep on what all contagious ideas have in common. With the examples he has provided, the book becomes catchy and sound in terms of the related theory."
+image: "/assets/old/contagious.jpg"
 ---
 
 Kalite, fiyat ve reklam ürünlerin ve fikirlerin başarılı olmasına katkı yapabilir ama esas başarıyı sosyal etkileme ve ağızdan ağıza yayılma ile gelir. İnsanlar çevrelerine duydukları hikaye ve haberleri anlatmayı severler, sahip oldukları bilgileri ve yaşadıkları deneyimleri paylaşırlar. Başkalarının söyledikleri kişilerin kararlarında, düşüncelerinde, seçimlerinde, satın alma davranışlarında, gittikleri yerlerde etkili olur.  

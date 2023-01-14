@@ -10,9 +10,13 @@ sayfa: "720"
 goodreads: "https://www.goodreads.com/book/show/83518.The_Singularity_is_Near"
 description: "İnsanlık 2.0, dünyanın tanınmış futuristlerinden Ray Kurzweil'in tekillik üzerine kaleme aldığı kitabı."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-05-04
 tag: "teknoloji"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-singularity-is-near.jpg"
 ---
 

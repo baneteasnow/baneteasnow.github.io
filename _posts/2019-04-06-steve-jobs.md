@@ -10,9 +10,13 @@ sayfa: "540"
 goodreads: "https://www.goodreads.com/book/show/11084145-steve-jobs"
 description: "Walter Isaacson'un kaleme aldığı Steve Jobs'in biyografi kitabında Steve Jobs'in hem kişisel hem de iş hayatı ile ilgili pek çok detay bulunuyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-04-06
 tag: "biyografi"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/steve-jobs.jpg"
 ---
 

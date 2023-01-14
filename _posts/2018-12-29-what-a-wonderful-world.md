@@ -10,9 +10,13 @@ sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/17846866-what-a-wonderful-world"
 description: "Dünya'nın Tüm Dertleri, her şeyden biraz bahsederek dünyanın işleyişini anlatıyor. Yazar: Marcus Chown"
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-12-29
 tag: "fen bilimleri"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/what-a-wonderful-world.jpg"
 ---
 

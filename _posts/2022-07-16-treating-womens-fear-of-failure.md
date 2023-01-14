@@ -9,12 +9,15 @@ yil: "1997"
 sayfa: "86"
 goodreads: "https://www.goodreads.com/book/show/1344309.Treating_Women_s_Fear_of_Failure"
 description: "Korkuları Aşmak, kadınlardaki başarısızlık korkusunu ele alan 7 farklı makaleden oluşuyor."
-last_modified_at: 2022-07-16
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-16
 tag: "psikoloji"
 instagram: "no"
 insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/treating-womens-fear-of-failure.jpg"
 ---
 

@@ -10,9 +10,13 @@ sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/4485966-talent-is-overrated"
 description: "Geoff Colvin, Yetenek Dediğin Nedir Ki'de başarı için doğuştan gelen yeteneğin mi yoksa çok fazla alıştırma yapmanın mı gerekli olduğunu tartışıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-05-11
 tag: "psikoloji"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/talent-is-overrated.jpg"
 ---
 

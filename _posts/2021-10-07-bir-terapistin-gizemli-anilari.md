@@ -9,10 +9,15 @@ yil: "2015"
 sayfa: "424"
 goodreads: "https://www.goodreads.com/book/show/60613778-bir-terapistin-gizemli-an-lar"
 description: "Nefes terapisti Ülker Uzun Polat, danışanlarıyla yaptığı seanslardan kesitleri Bir Terapistin Gizemli Anıları isimli kitabında paylaşıyor."
-last_modified_at: 2021-10-07
+last_modified_at: 2023-01-14
 published: true
 posted: 2021-10-07
 tag: "lifestyle"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "2"
+eng: "-"
 image: "/assets/new/bir-terapistin-gizemli-anilari.jpg"
 ---
 

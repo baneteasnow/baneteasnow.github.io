@@ -10,11 +10,14 @@ sayfa: "276"
 goodreads: "https://www.goodreads.com/book/show/113709.The_Joy_of_Not_Working"
 description: "Çalışma(ma)'nın Keyfi, kişinin boş zamanından nasıl zevk alacağı ve bunu nasıl öğrenebileceği konusunu inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-05-12
 tag: "lifestyle"
-image: "/assets/old/the-joy-of-not-working.jpg"
+insta: "no"
+reread: "no"
+rating: "4"
 eng: "The Joy of Not Working explores our relationship with our jobs while reminding us we are more than our jobs."
+image: "/assets/old/the-joy-of-not-working.jpg"
 ---
 
 Çalışma(ma)'nın Keyfi - İşkolikler, İşsizler ve Emekliler İçin Bir Rehber kitabının yazarı Ernie J. Zelinski, kişinin boş zamanından nasıl zevk alacağı ve bunu nasıl öğrenebileceği konusunu inceliyor. Üzerine biraz düşününce görülecektir ki, "boş zamanları" eğlenceli ve yapıcı şekilde değerlendirmek aslında hiç kolay değildir. Bunu yapmanın yollarını arayan yazar, kitabın ilk sayfalarında öncelikle "boş zaman" kavramını ele alıyor. Bir seminer sırasında katılımcılar arasında tartışılan bu kavram şu şekilde tanımlanıyor:  

@@ -2,7 +2,7 @@
 layout: post  
 category: book2  
 title: "Abundance | Peter H. Diamandis, Steven Kotler (Kitap)"  
-kitap: "Abundance: The Future İş Better Than You Think"  
+kitap: "Abundance: The Future Is Better Than You Think"  
 tr: "Bolluk - Gelecek Çok Daha Güzel Olacak"  
 yazar: "Peter H. Diamandis, Steven Kotler"  
 yil: "2013"  
@@ -10,9 +10,14 @@ sayfa: "397"
 goodreads: "https://www.goodreads.com/book/show/13187824-abundance"
 description: "Bolluk, dünyada her şeyin daha kötüye gitmediğini düşündürecek gelişmeleri paylaşıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-12-02
 tag: "gelecek ve trendler"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/abundance.jpg"
 ---
 
@@ -32,7 +37,7 @@ Teknolojinin gözüyle baktığınızda, gerçek anlamda kit kaynak çok azdır;
   
 Şu anda insanoğlu gezegenimizdeki doğal kaynakların, yerine yenisini koyabileceğimizden yüzde 30 daha fazlasını kullanıyor. Bugün dünyadaki herkes ortalama bir Avrupalı gibi yaşamaya kalksa, bunu sürdürebilmemiz için üç gezegenin kaynağına ihtiyacımız olurdu. Yeryüzündeki herkes ortalama bir Kuzey Amerikalı gibi yaşamak istese, o zaman da bunu kaldırabilmek için, beş gezegenin kaynağına ihtiyaç duyardık. (sayfa 20)  
   
-Kitabın bakışaçısına göre bolluğun tanımı:  
+Kitabın bakış açısına göre bolluğun tanımı:  
   
 > Bolluk bu dünyadaki herkese lüks bir yaşam sağlamak demek değil, daha çok herkese olanaklar sunan bir yaşam sağlamak demek.  
   

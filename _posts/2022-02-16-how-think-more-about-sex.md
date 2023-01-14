@@ -8,11 +8,16 @@ yazar: "Alain de Botton"
 yil: "2012"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/13696016-how-to-think-more-about-sex"
-last_modified_at: 2022-02-16 
+last_modified_at: 2023-01-14 
 published: true
 description: "Alain de Botton, How To Think More About Sex isimli kitabında toplumun cinselliğe olan yaklaşımını ele alıyor."  
 posted: 2022-02-16
 tag: "felsefe"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/how-to-think-more-about-sex.jpg"
 ---
 

@@ -10,9 +10,14 @@ sayfa: "275"
 goodreads: "https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek"
 description: "Timothy Ferriss, 4 Saatlik Hafta isimli kitabında uzaktan çalışma düzenini kurarak hayalindeki yaşama nasıl ulaştığını anlatıyor."
 published: true
-last_modified_at: 2021-06-30
+last_modified_at: 2023-01-14
 posted: 2021-06-30
 tag: "kariyer"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/the-4-hour-workweek.jpg"
 ---
 

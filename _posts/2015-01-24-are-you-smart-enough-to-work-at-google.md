@@ -10,9 +10,14 @@ sayfa: "352"
 goodreads: "https://www.goodreads.com/book/show/11786911-are-you-smart-enough-to-work-at-google"
 description: "Google'da Çalışacak Kadar Akıllı Mısınız, Google mülakatlarında adaylara yöneltilen bulmaca niteliğindeki soruları inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2015-01-24
 tag: "çalışma yaşamı"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 

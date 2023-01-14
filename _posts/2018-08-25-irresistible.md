@@ -10,11 +10,14 @@ sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/30962055-irresistible"
 description: "Karşı Konulmaz, bağımlılık yapıcı davranışları yani 'Davranışsal Bağımlılığı' özellikle teknoloji açısından ele alıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-08-25
 tag: "üretkenlik ve teknoloji"
-image: "/assets/old/irresistible.jpg"
+insta: "no"
+reread: "yes"
+rating: "5"
 eng: "An informative read from Alter explaining behavioural addictions mainly on technology. This book points out an interesting fact; people who have created the devices do not let their children play with them or strictly limit the usage time. Addictions such as substance addiction, binge-watching, exercise addiction, social media addiction, gamification, virtual reality are all outlined step by step."
+image: "/assets/old/irresistible.jpg"
 ---
 
 Karşı Konulmaz, bağımlılık yapıcı davranışları yani 'Davranışsal Bağımlılığı' özellikle teknoloji açısından ele alıyor. Kitapta, konuyla ilgili olarak yapılan araştırmaların ve deneylerin sonuçları da paylaşılıyor.  

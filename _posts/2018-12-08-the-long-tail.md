@@ -10,9 +10,13 @@ sayfa: "248"
 goodreads: "https://www.goodreads.com/book/show/2467566.The_Long_Tail"
 description: "Uzun Kuyruk kavramı, niş ürünleri piyasaya çıkaran ve onları tüketici ile buluşturan firmaların başarılarına işaret ediyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-12-08
 tag: "ekonomi"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-long-tail.jpg"
 ---
 

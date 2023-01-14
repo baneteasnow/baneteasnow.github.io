@@ -9,13 +9,15 @@ yil: "2019"
 sayfa: "96"
 goodreads: "https://www.goodreads.com/book/show/21111460-the-little-book-of-mindfulness"
 description: "Küçük Farkındalık Kitabı, günlük hayatın stresi ile başa çıkmak için 5-10 dakikada uygulanabilecek kısa farkındalık egzersizleri içeriyor."
-last_modified_at: 2022-08-24
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-08-24
 tag: "mindfulness"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "2"
+eng: "-"
 image: "/assets/new/the-little-book-of-mindfulness.jpg"
 ---
 

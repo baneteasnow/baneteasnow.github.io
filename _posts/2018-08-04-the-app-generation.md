@@ -2,7 +2,7 @@
 layout: post  
 category: book2  
 title: "The App Generation | Howard Gardner, Katie Davis (Kitap)"  
-kitap: "The App Generation: How Today's Youth Navigate İdentity, İntimacy, and İmagination ın a Digital World"  
+kitap: "The App Generation: How Today's Youth Navigate Identity, Intimacy, and Imagination ın a Digital World"  
 tr: "App Kuşağı - Dijital Dünyada Kimlik, Mahremiyet ve Hayal Gücü" 
 yazar: "Howard Gardner, Katie Davis"  
 yil: "2014"  
@@ -10,9 +10,13 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/17802985-the-app-generation"
 description: "App Kuşağı, farklı kuşakların bakış açısı ile dijital dünyayı ve değişen teknoloji kullanım alışkanlıklarını değerlendiriyor. "
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-08-04
 tag: "sosyoloji"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/the-app-generation.jpg"
 ---
 

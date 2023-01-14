@@ -9,10 +9,14 @@ yil: "2016"
 sayfa: "136"  
 goodreads: "https://www.goodreads.com/book/show/18138630-eat-like-you-care"
 description: "İnsan Neden Vegan Olur, vegan olmakla ilgili pek çok kişinin aklındaki ortak soruları yanıtlayan bir kitap."
-last_modified_at: 2021-07-08
+last_modified_at: 2023-01-14
 published: true
 posted: 2019-08-17
 tag: "veganlık"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/eat-like-you-care.jpg"
 ---
 

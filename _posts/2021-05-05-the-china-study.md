@@ -1,7 +1,6 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-05-05
 published: true
 title: "The China Study | T. Colin Campbell, Thomas M. Campbell (Kitap)"
 kitap: "The China Study: Revised and Expanded Edition: The Most Comprehensive Study of Nutrition Ever Conducted and the Startling Implications for Diet, Weight Loss, and Long-Term Health"
@@ -12,7 +11,13 @@ sayfa: "493"
 goodreads: "https://goodreads.com/book/show/178788.The_China_Study"
 description: "The China Study, beslenme ile ilgili olarak bugüne kadar gerçekleştirilen en kapsamlı çalışma olma iddiasını taşıyan China-Cornell-Oxford ortak projesini ve sonuçlarını konu alıyor. Araştırma süresince, Çin'de 3000 yetişkinin diyetlerinin ve yaşam tarzlarının takibi yapılmış ve hayvansal ürünlerin tüketilmesi ile prostat kanseri, meme kanseri, bağırsak kanseri, diyabet, ve kalp krizi gibi çeşitli kronik rahatsızlıklar arasındaki ilişki incelenmiş."
 posted: 2021-05-05
+last_modified_at: 2022-01-14
 tag: "beslenme"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-china-study.jpg"
 ---
 

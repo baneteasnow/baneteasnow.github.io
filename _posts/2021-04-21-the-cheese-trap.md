@@ -1,7 +1,6 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-04-21
 published: true
 title: "The Cheese Trap | Neal Barnard (Kitap)"
 kitap: "The Cheese Trap: How Breaking a Surprising Addiction Will Help You Lose Weight, Gain Energy, and Get Healthy"
@@ -11,8 +10,13 @@ yil: "2018"
 sayfa: "358"
 goodreads: "https://www.goodreads.com/book/show/30364205-the-cheese-trap"
 description: "Peynir Tuzağı, yıllardır pek çok kişinin dünyanın en sağlıklı yiyecekleri arasında sayarak tükettiği peyniri ve peynir tüketimini inceliyor."
+last_modified_at: 2023-01-14
 posted: 2021-04-21
 tag: "beslenme"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-cheese-trap.jpg"
 ---
 

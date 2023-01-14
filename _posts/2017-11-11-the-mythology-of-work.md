@@ -10,9 +10,14 @@ sayfa: "263"
 goodreads: "https://www.goodreads.com/book/show/23258300-the-mythology-of-work"
 description: "Çalışmanın Mitolojisi, çalışmayı ve çalışma hayatını çeşitli açılardan ele alıyor. "
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-11-11
 tag: "felsefe"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-mythology-of-work.jpg"
 ---
 

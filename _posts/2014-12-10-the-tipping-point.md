@@ -10,11 +10,15 @@ sayfa: "298"
 goodreads: "https://www.goodreads.com/book/show/2612.The_Tipping_Point"
 description: "Kıvılcım Anı, neden bazı fikirlerin, markaların, davranış tarzlarının aniden yükselişe geçerek trend olduklarını anlatıyor. Malcolm Gladwell"
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2014-12-10
-image: "/assets/old/the-tipping-point.jpg"
 tag: "psikoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
 eng: "Why some of the ideas or brands become suddenly popular, while others don’t? How do trends spread, how do they stick? A classic book of Malcolm Gladwell answers all these questions and many more on trends."
+image: "/assets/old/the-tipping-point.jpg"
 ---
 
 Kıvılcım Ani (The Tipping Point) Malcolm Gladwell'in en ünlü kitaplarından biri. Bu kitap, neden bazı fikirlerin, markaların, davranış tarzlarının aniden yükselişe geçerek trend olduklarını çeşitli örneklerle anlatıyor. Malcolm Gladwell, artık bir klasik niteliğinde olan bu kitabında, trendleri salgın olarak adlandırıyor ve bu salgınların üç kuralından bahsediyor.   

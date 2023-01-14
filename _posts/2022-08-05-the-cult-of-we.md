@@ -9,13 +9,15 @@ yil: "2021"
 sayfa: "504"
 goodreads: "https://www.goodreads.com/en/book/show/54998264"
 description: "The Cult of We, şirketlere ortak çalışma alanı ve ofis ortamı sağlamak üzere Adam Neumann ve Miguel McKelvey tarafından kurulan WeWork'ün 2010-2019 yılları arasında yükseliş ve düşüş hikayesini anlatıyor."
-last_modified_at: 2022-08-05
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-08-05
 tag: "marka profili"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-cult-of-we.jpg"
 ---
 

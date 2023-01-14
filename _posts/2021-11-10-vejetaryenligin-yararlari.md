@@ -8,11 +8,16 @@ yazar: "Sadık Hidayet"
 yil: "2018"
 sayfa: "73"
 goodreads: "https://www.goodreads.com/book/show/17166947-vejetaryenli-in-yararlar"
-last_modified_at: 2021-11-10
+last_modified_at: 2023-01-14
 published: true  
 description: "Kitap, yazarın vejetaryenlığı çeşitli yönleriyle değerlendirdiği ve 1926-1927 yıllarında kaleme aldığı çeşitli metinlerden oluşuyor."  
 tag: "veganlık"
 posted: 2021-11-10 
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/new/vejetaryenligin-yararlari.jpg" 
 ---
 

@@ -10,9 +10,14 @@ sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/15791129-101-things-i-learned-in-engineering-school"
 description: "Mühendislik Okulunda Öğrendiğim 101 Şey, farklı mühendislik dallarından çeşitli temel prensipleri okuyucuya kısa notlar şeklinde aktarıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-10-29
 tag: "mühendislik"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/101-things-i-learned-in-engineering-school.jpg"
 ---
 

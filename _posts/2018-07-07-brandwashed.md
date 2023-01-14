@@ -10,11 +10,14 @@ sayfa: "318"
 goodreads: "https://www.goodreads.com/book/show/10326084-brandwashed"
 description: "Brandwashed isimli kitapta markaların nasıl kendi logolarını, sloganlarını, ürünlerini tüketicilerin bilinçaltına adeta ilmek ilmek işleyerek yerleştirdikleri ve hatta bunu bebeklikten itibaren yaptıkları anlatılıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-07-07
 tag: "tüketici davranışları"
-image: "/assets/old/brandwashed.jpg"
+insta: "no"
+reread: "no"
+rating: "4"
 eng: "In a world that is full of advertisement, this book explains how a child is being exposed to hidden impacts of brands; and when he or she becomes an adult how his or her buying behaviour is affected."
+image: "/assets/old/brandwashed.jpg"
 ---
 
 Brandwashed isimli kitapta markaların nasıl kendi logolarını, sloganlarını, ürünlerini tüketicilerin bilinçaltına adeta ilmek ilmek işleyerek yerleştirdikleri ve hatta bunu bebeklikten itibaren yaptıkları anlatılıyor. Böylece çocukluk anıları arasında belli markalar bulunan kişiler, yetişkin olup kendi alışverişlerini yapmaya başladıklarında bilinçsiz şekilde o markaları tercih etme eğiliminde oluyorlar. Bu şekilde markalar da gelecekte kendi potansiyel müşterileri olacak nesiller yetişirken onların hep yanı başında yer alıyor.  

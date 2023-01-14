@@ -10,9 +10,13 @@ sayfa: "348"
 goodreads: "https://www.goodreads.com/book/show/21936826-the-business-romantic"
 description: "Business Romantik, iş hayatında duyguların daha yoğun yaşandığı ve ruhsal ihtiyaçların göz önüne alındığı bir yapının mümkün olduğunu gösteriyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-05-26
 tag: "çalışma yaşamı"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/the-business-romantic.jpg"
 ---
 

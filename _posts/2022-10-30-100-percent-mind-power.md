@@ -9,7 +9,7 @@ yil: "2007"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/11999765-one-hundred-per-cent-mind-power"
 description: "İnsan kendi zihinsel kalıplarını belirler, düşünceler ise bu kalıpları doldurur. %100 Düşünce Gücü, düşüncelerimizi bilinçli kullanarak bilinçaltımızı nasıl yönlendirebileceğimizi anlatıyor."
-last_modified_at: 2022-10-30
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-10-30
 tag: "kisisel gelisim"
@@ -17,6 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
+eng: "-"
 image: "/assets/new/100-percent-mind-power.jpg"
 ---
 

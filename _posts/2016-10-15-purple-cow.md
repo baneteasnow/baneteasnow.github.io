@@ -10,9 +10,14 @@ sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/641604.Purple_Cow"
 description: "Seth Godin, Mor İnek isimli kitabında pazarlamada yeni fikirler bulmayı, farklı ve sıra dışı olmayı sürdürmenin yollarını inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-10-15
 tag: "girişimcilik"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/purple-cow.jpg"
 ---
 

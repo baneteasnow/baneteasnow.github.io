@@ -9,10 +9,15 @@ yil: "2019"
 sayfa: "168"
 goodreads: "https://www.goodreads.com/book/show/44315023-i-yi-toplum-yoktur"
 description: "Nihan Kaya, İyi Toplum Yoktur isimli kitabında toplumun dayatmalarına uygun davranan bir kişinin aslında bir birey olarak var olabilmesinin nasıl da engellediğini anlatıyor."
-last_modified_at: 2022-03-14
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-03-14
 tag: "psikoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/iyi-toplum-yoktur.jpg"
 ---
 Nihan Kaya, İyi Toplum Yoktur isimli kitabında toplumun dayatmalarına uygun davranan bir kişinin aslında bir birey olarak var olabilmesinin nasıl da engellediğini anlatıyor. Toplum bireyleri cinsiyet ve cinsellik algısı üzerinden dönüştürürken, bu algı törenlerle destekleniyor. Kişilerin yaşadıkları ruhsal sıkıntıların pek çoğunun kaynağı kendi tercihleri olmayan şeylerin onlara dayatılıyor olması.

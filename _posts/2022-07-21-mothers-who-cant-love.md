@@ -9,11 +9,15 @@ yil: "2021"
 sayfa: "311"
 goodreads: "https://www.goodreads.com/book/show/17331330-mothers-who-can-t-love"
 description: "Susan Forward, Sevgisiz Anneler isimli kitabında ise anne-kız ilişkisinde ki olumsuz deneyimlere değiniyor."
-last_modified_at: 2022-07-21
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-21
 tag: "psikoloji"
 instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/mothers-who-cant-love.jpg"
 ---
 

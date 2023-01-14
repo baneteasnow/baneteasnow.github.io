@@ -10,9 +10,13 @@ sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/13099738-steal-like-an-artist"
 description: "Keep Going, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolu paylaşıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-11-30
 tag: "yaratıcılık"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/steal-like-an-artist.jpg"
 ---
 

@@ -9,10 +9,15 @@ yil: "2017"
 sayfa: "144"  
 goodreads: "https://www.goodreads.com/book/show/33827779-happy-as-a-dane"
 description: "Danimarkalı Gibi Mutlu, yapılan araştırmalarda yüksek mutluluk oranları ile dikkat çeken Danimarka'nın günlük yaşamına odaklanan bir kitap."
-last_modified_at: 2021-07-08
+last_modified_at: 2023-01-14
 published: true
 posted: 2017-07-22
 tag: "lifestyle"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/happy-as-a-dane.jpg"
 ---
 

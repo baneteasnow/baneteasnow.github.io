@@ -8,11 +8,16 @@ yazar: "Hector García, Francesc Miralles"
 yil: "2017"
 sayfa: "176"
 goodreads: "https://www.goodreads.com/book/show/57670254-ikigai"
-last_modified_at: 2021-12-01
+last_modified_at: 2023-01-14
 published: true
 description: "Ikigai isimli kitap tüm dünyaya Japonya'dan yayılan ve hep meşgul kalarak mutlu olmak anlamına gelen kavramı inceliyor."
 tag: "lifestyle"
 posted: 2021-12-01
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/new/ikigai-garcia-miralles.jpg"
 ---
 

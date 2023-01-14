@@ -10,9 +10,14 @@ sayfa: "202"
 goodreads: "https://www.goodreads.com/book/show/7767561-101-things-i-learned-in-fashion-school"
 description: "Moda Okulunda Öğrendiğim 101 Şey, modanın yakın geçmişi, kumaş, dikiş, renk seçimi, tasarım, çizim gibi pek çok konuya odaklanan notlardan oluşuyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-12-10
 tag: "moda tasarım"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/101-things-i-learned-in-fashion-school.jpg"
 ---
 

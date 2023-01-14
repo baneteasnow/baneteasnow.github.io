@@ -10,11 +10,15 @@ sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/31561293-technology-vs-humanity"
 description: "Teknolojiye Karşı İnsanlık, teknolojinin insan yaşamını gelecekte hangi yönde değiştireceğini tartışıyor. Yazar: Gerd Leonhard "
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2020-07-18
 tag: "gelecek ve trendler"
-image: "/assets/old/technology-vs-humanity.jpg"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
 eng: "The futurist Gerd Leonhard's 'Technology and Humanity' is a critical treatise that sheds light on the other side of technology that it is less clear. We are witnessing how technology shapes our lives every day, and we read about how it can automate daily tasks. This book discusses the challenges posed by the exponential development of technology. It mainly focuses on ethical issues. A must-read book for anyone interested in technology."
+image: "/assets/old/technology-vs-humanity.jpg"
 ---
 
 Futurist ve konuşmacı Gerd Leonhard tarafından kaleme alınan, Teknolojiye Karşı İnsanlık teknolojinin insan yaşamını gelecekte hangi yönde değiştireceğini tartışıyor ve hemen şu noktaya da vurgu yapıyor, insanlarla robotlar arasındaki ilişkinin etik boyutunu tartışmanın tam da sırası çünkü gelecek aslında neredeyse bugüne dönmek üzere. Bu noktada yazar, yer yer pozitif kalsa da, kitaptaki genel bakış açısı pek iyimser değil. Genel olarak insan ile makineler arasında bir çatışma ve uyumsuzluğa doğru sürüklenmenin eşiğinde olduğumuzu çeşitli örneklerle anlatıyor. Teknoloji bağımlılığının giderek yaygınlaşması (dijital obezite olarak tanımlanmış), ekran başında geçirdiğimiz zamanın giderek uzaması, çoğu zaman başka biri ile sohbet etmektense telefonumuzu ya da tabletimizi kullanmayı tercih etmemiz, pek çok kişinin kullanamadıklarında sosyal medyanın eksikliğini duyması kitapta yer alan örnekler arasında. Bütün bunların yanında konunun etik boyutu da var ve bu boyut maalesef gereken ilgiyi görmüyor ve fazla tartışılmıyor.   

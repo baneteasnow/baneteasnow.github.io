@@ -10,9 +10,14 @@ sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/25190842-the-52-lists-project"
 description: "52 Liste Projesi, bir yıl boyunca farklı konularda listeler hazırlamanızı sağlayacak farkındalık arttırıcı bir günlük. Yazarı Moorea Seal."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-11-12
 tag: "motivasyon"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-52-lists-project.jpg"
 ---
 

@@ -9,13 +9,15 @@ yil: "2019"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/30181983-acemi-yoginin-elkitab"
 description: "Esra E. Karaosmanoğlu, Acemi Yoginin Elkitabı'nda, yoga ve meditasyonla ilgili temel kavramları açıklıyor."
-last_modified_at: 2022-11-11
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-11-11
 tag: "lifestyle"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/acemi-yoginin-elkitabi.jpg"
 ---
 

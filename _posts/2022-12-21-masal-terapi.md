@@ -9,13 +9,15 @@ yil: "2022"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/25186886-masal-terapi"
 description: "Masal Terapi'de dünyanın dört bir yanından derlenmiş 54 masal yer alıyor."
-last_modified_at: 2022-12-21
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-12-21
 tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/masal-terapi.jpg"
 ---
 

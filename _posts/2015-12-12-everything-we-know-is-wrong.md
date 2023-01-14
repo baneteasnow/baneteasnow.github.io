@@ -9,10 +9,15 @@ yil: "2009"
 sayfa: "182"  
 goodreads: "https://www.goodreads.com/book/show/7059612-everything-we-know-is-wrong"
 description: "Trend Avcısı isimli kitapta trendlerin nasıl belirlendiği, kişilerin içgörülerinin bu trendleri hangi yönde etkilediği ve yaşanan birtakım yanılsamaların nedenleri ele alınıyor."
-last_modified_at: 2021-07-09
+last_modified_at: 2023-01-14
 published: true
 posted: 2015-12-12
 tag: "gelecek ve trendler"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/everything-we-know-is-wrong.jpg"
 ---
 

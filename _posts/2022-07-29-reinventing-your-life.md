@@ -9,12 +9,14 @@ yil: "2021"
 sayfa: "451"
 goodreads: "https://www.goodreads.com/book/show/43866.Reinventing_Your_Life"
 description: "Hayatı Yeniden Keşfedin, Jeffrey Young tarafından geliştirilen ve birkaç terapi yaklaşımının en iyi özelliklerini birleştirerek oluşturduğu Şema Terapiyi ve onbir şemayı inceliyor."
-last_modified_at: 2022-07-29
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-29
 tag: "psikoloji"
 instagram: "no"
 reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/reinventing-your-life.jpg"
 ---
 

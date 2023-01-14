@@ -9,13 +9,15 @@ yil: "2019"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/32714114-the-nordic-guide-to-living-10-years-longer"
 description: "Bir tıp doktoru olan Bertil Marklund, klinik deneyimlerinden yola çıkarak daha sağlıklı ve uzun bir yaşam için ipuçlarını İskandinav hayat tarzına odaklanarak paylaşıyor."
-last_modified_at: 2022-09-28
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-09-28
 tag: "lifestyle"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/the-nordic-guide-to-living-10-years-longer.jpg"
 ---
 

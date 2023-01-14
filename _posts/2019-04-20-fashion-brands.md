@@ -10,11 +10,14 @@ sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/237942.Fashion_Brands"
 description: "Hızlı moda akımının (fast fashion) ortaya çıkışını inceleyen Modada Marka Olmak, ünlü markaların hikayesini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-04-20
 tag: "moda markaları"
-image: "/assets/old/fashion-brands.jpg"
+insta: "no"
+reread: "no"
+rating: "5"
 eng: "Fashion Brands is a marketing book by Mark Tungate. I like to read this book because it focuses on fast fashion brands such as Zara, H&M and TopShop. There are also stories related to successful and well-known advertising campaigns. Even though this book is not a very recent one, it is a good read for the stories of the famous brands."
+image: "/assets/old/fashion-brands.jpg"
 ---
 
 Hızlı moda akımının (fast fashion) ortaya çıkışını inceleyen Modada Marka Olmak, Zara, TopShop, H&M gibi markaların neredeyse her hafta yeni bir koleksiyon çıkarmayı nasıl başardıklarını anlatıyor. Ayrıca pek çok ünlü moda markasının kuruluş hikayesi, ilk yılları, yükselişleri, gerçekleştirdikleri ünlü reklam kampanyaları da kitabın önemli kısmını oluşturuyor.

@@ -10,9 +10,13 @@ sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/22928874-rise-of-the-robots"
 description: "E-Sosyal Toplum, internetin artık tartışılmaz önemini mahremiyet ve kamusallık tartışmalarına rağmen altını çizerek bir kez daha vurguluyor. J.Jarvis"
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-05-18
 tag: "teknoloji"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/rise-of-the-robots.jpg"
 ---
 
@@ -33,13 +37,13 @@ Gelişen bilgi teknolojilerinin büyük bir dönüşüme yol açtığını göst
 - Emeğin küçülen payı ve şirketlerin büyüyen payı  
 - İşgücüne katılımın azalması  
 - Yeni iş alanlarının yaratımındaki azalma, uzun vadeli işsizlikteki yükselme  
-- Eşşitsizlikte öngörülemeyen artışlar  
+- Eşitsizlikte öngörülemeyen artışlar  
 - Yeni üniversite mezunlarının ilk ise giriş maaşlarının gittikçe düşmesi, iş bulmalarının zorlaşması  
 - İstihdamda kutuplaşmanın artması  
   
 Teknoloji ilerledikçe, robotlar ve elf servis sistemler, düşük ücretli ve tekrarlı işleri yok etmeye devam edecek. Yok olan işler arasına bugün otomasyon kapsamına alınmayan pek çok iş de dahil olacak. Bundan ötürü, orta sınıf her geçen gün erozyona uğruyor ve uğramaya devam edecek. (Gelişmiş ülkelerin diğer ülkelerden en önemli farklarından biri sağlam bir orta sınıf yaratmış olmalarıdır. Orta sınıfın daralması, özellikle ABD gibi ülkelerde sorunlara yol açacak.)  
   
-Birinci ve İkinci Sanayi Devrimi sonrasında ortadan kalkan işlerde çalışanlar, kendilerine yeni iş bulabilmişlerdi. Üçüncü Sanayi Devrimi'nin yaşanması ile birlikte sadece mavi yakalı çalışanların işleri değil, beyaz yakalı çalışanların da işleri tehdit altında. Bugün bir sistem üzerinde beyaz yakalı işlerde çalışanların oluşturduğu büyük verinin analizinin yapılması sonucunda çeşitli algoritmalar oluşturularak, sözkonusu bu işlerin gelecekte otomasyonunun sağlanması mümkün hale getiriliyor. Bugün tehdit altında olan işler belirli sıra ile yapılan, tekrara dayalı, kısaca bir formülasyona dökülebilen işler; ancak, diğer işlerin de formülasyonunun oluşturulması adeta an meselesi.  
+Birinci ve İkinci Sanayi Devrimi sonrasında ortadan kalkan işlerde çalışanlar, kendilerine yeni iş bulabilmişlerdi. Üçüncü Sanayi Devrimi'nin yaşanması ile birlikte sadece mavi yakalı çalışanların işleri değil, beyaz yakalı çalışanların da işleri tehdit altında. Bugün bir sistem üzerinde beyaz yakalı işlerde çalışanların oluşturduğu büyük verinin analizinin yapılması sonucunda çeşitli algoritmalar oluşturularak, söz konusu bu işlerin gelecekte otomasyonunun sağlanması mümkün hale getiriliyor. Bugün tehdit altında olan işler belirli sıra ile yapılan, tekrara dayalı, kısaca bir formülasyona dökülebilen işler; ancak, diğer işlerin de formülasyonunun oluşturulması adeta an meselesi.  
   
 Kitabın ilerleyen bölümlerinde yüksek öğrenimdeki dönüşüm, uzaktan online eğitimde yaşanan gelişmeler, sağlık sistemi, tekillik, yaşanması olası yeni bir ekonomik kriz ve büyümenin bir sınırının olup olmadığı ele alınıyor.  
   

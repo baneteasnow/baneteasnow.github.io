@@ -2,7 +2,7 @@
 layout: post  
 category: book2  
 title: "How Would You Move Mount Fuji? | William Poundstone (Kitap)"  
-kitap: "How Would You Move Mount Fuji? : Microsoft's Cult of the Puzzle - How the World's Smartest Companies Select the Most Creative Thinkers"  
+kitap: "How Would You Move Mount Fuji?: Microsoft's Cult of the Puzzle - How the World's Smartest Companies Select the Most Creative Thinkers"  
 tr: "Fuji Dağı'nı Nasıl Taşırsınız? - Dünyanın En Önemli Şirketleri En Yaratıcı Beyinleri Nasıl Seçiyor?"  
 yazar: "William Poundstone"  
 yil: "2005"  
@@ -10,9 +10,14 @@ sayfa: "259"
 goodreads: "https://www.goodreads.com/book/show/205266.How_Would_You_Move_Mount_Fuji_Microsoft_s_Cult_of_the_Puzzle_How_the_World_s_Smartest_Companies_Select_the_Most_Creative_Thinkers"
 description: "Fuji Dağı'nı Nasıl Taşırsınız, bir dönem oldukça popüler olan alışılmışın dışındaki mülakat sorularına yer veriyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2013-12-25
 tag: "çalışma yaşamı"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 

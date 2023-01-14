@@ -8,11 +8,16 @@ yazar: "Michael W. Preis, Matthew Frederick"
 yil: "2021"
 sayfa: "214"
 goodreads: "https://www.goodreads.com/book/show/7767560-101-things-i-learned-in-business-school"
-last_modified_at: 2021-08-04
+last_modified_at: 2023-01-14
 published: true
 description: "İşletme bilimi, iletişim, ekonomi, finans, liderlik, yönetim, pazarlama, operasyon ve strateji gibi pek çok alanı kapsar. 101 Things I Learned in Business School, tüm bu alanlara odaklanarak temel kavramları 101 maddede paylaşıyor."
 posted: 2021-08-04
 tag: "yönetim"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/new/101-things-i-learned-in-business-school.jpg"
 ---
 

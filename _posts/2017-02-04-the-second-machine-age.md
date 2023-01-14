@@ -10,9 +10,14 @@ sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/23316526-the-second-machine-age"
 description: "The Second Machine Age, teknolojideki gelişmelerin ekonomik ve sosyal sonuçlarını inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-02-04
 tag: "teknoloji"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-second-machine-age.jpg"
 ---
 

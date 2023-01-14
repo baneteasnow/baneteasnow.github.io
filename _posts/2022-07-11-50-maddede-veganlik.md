@@ -9,12 +9,15 @@ yil: "2021"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/58484348-50-maddede-veganlik"
 description: "50 Maddede Veganlık, veganlığın kısa tarihi, veganlıkla ilgili temel kavramlar, vegan yaşam tarzı ile ilgili ayrıntılar gibi pek çok başlığın kısa notlar şeklinde paylaşıldığı veganlıkla ilgili mini bir rehber."
-last_modified_at: 2022-07-11
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-11
 tag: "veganlık"
-instagram: "[no](https://www.instagram.com/p/Cf4d6-eIZ4O/"
+instagram: "no"
 insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/50-maddede-veganlik.jpg"
 ---
 

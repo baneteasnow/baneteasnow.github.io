@@ -10,9 +10,14 @@ sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/56627.Stumbling_on_Happiness"
 description: "Daniel Gilbert tarafından kaleme alınan Mutluluk Üzerine Çeşitlemeler, insanın mutlu olmasını ve geleceği öngörülemesini inceleyen, araştırmalardan çarpıcı başlıklar sunan bir kitap. "
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2015-07-15
 tag: "felsefe"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/stumbling-on-happiness.jpg"
 ---
 

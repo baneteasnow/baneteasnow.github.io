@@ -10,9 +10,13 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/25387733-design-the-life-you-love"
 description: "Ayşe Birsel, Sevdiğiniz Yaşamı Tasarlayın isimli kitabında çoğu kişinin atladığı bir konunun altını çiziyor: 'En önemli projeniz kendi yaşamınızdır'."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-11-09
 tag: "motivasyon"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/design-the-life-you-love.jpg"
 ---
 

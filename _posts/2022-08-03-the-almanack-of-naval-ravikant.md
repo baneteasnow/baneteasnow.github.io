@@ -9,12 +9,15 @@ yil: "2020"
 sayfa: "242"
 goodreads: "https://www.goodreads.com/en/book/show/54898389"
 description: "Bilgenin Güncesi:, Angellist'in kurucusu ve pek çok unicorn şirketin yatırımcısı olan Naval Ravikant'ın bugüne kadar attığı adeta ders niteliğindeki tweetleri, verdiği röportajların çözümlemeleri, blogunda ve diğer yerlerde paylaştığı yazılarının bir derlemesi niteliğinde."
-last_modified_at: 2022-08-03
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-08-03
 tag: "felsefe"
 instagram: "no"
 insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/new/the-almanack-of-naval-ravikant.jpg"
 ---
 

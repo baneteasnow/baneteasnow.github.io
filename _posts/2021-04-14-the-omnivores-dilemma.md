@@ -1,7 +1,6 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-04-14
 published: true
 title: "The Omnivore's Dilemma | Michael Pollan (Kitap)"
 kitap: "The Omnivore's Dilemma - A Natural History of Four Meals"
@@ -11,8 +10,13 @@ yil: "2009"
 sayfa: "512"
 goodreads: "https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma"
 description: "Michael Pollan, 'Etobur-Otobur İkilemi' isimli kitabında, yediğimiz yiyeceklerin kaynağını gıda zincirine bakarak sorguluyor. Ayrıca, bunun küresel olarak ne anlama geldiğini inceliyor."
+last_modified_at: 2023-01-14
 posted: 2021-04-14
 tag: "beslenme"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-omnivores-dilemma.jpg"
 ---
 

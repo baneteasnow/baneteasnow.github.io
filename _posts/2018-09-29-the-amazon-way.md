@@ -10,9 +10,13 @@ sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/22393576-the-amazon-way"
 description: "Kitapta, Amazon.com'u rakiplerin farklılaştıran, onu lider konumda tutan 14 ilke ve örgüt kültürüne yansımaları inceleniyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-09-29
 tag: "marka profili"
+insta: "no"
+reread: "no"
+rating: "3"
+eng: "-"
 image: "/assets/old/the-amazon-way.jpg"
 ---
 

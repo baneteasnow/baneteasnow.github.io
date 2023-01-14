@@ -10,9 +10,13 @@ sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/27286703-stop-talking-start-doing-action-book"
 description: "Konuşmayı Kes, Harekete Geç, okuyucuya aklında ne varsa artık beklemeyi harekete geçmenin zamanının çoktan geldiğini hatırlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-10-12
 tag: "motivasyon"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/stop-talking-start-doing.jpg"
 ---
 

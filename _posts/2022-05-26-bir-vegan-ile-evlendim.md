@@ -9,12 +9,15 @@ yil: "2020"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/55246542-bir-vegan-ile-evlendim"
 description: "Bir Vegan ile Evlendim isimli kitabında, Fausto Brizzi, eşi Claudia ile tanışma hikayesini anlatıyor. Ancak, bu hikayeyi sıra dışı hale getiren bir ayrıntı var. Claudia, veganlığı bir yaşam biçimi olarak benimsemiştir ve müstakbel eşinden de aynı şekilde yaşamasını istemektedir."
-last_modified_at: 2022-05-26
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-26
 tag: "veganlık"
 insta: "yes"
 instagram: "https://www.instagram.com/p/CfKI1YYrLI8/"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/bir-vegan-ile-evlendim.jpg"
 ---
 

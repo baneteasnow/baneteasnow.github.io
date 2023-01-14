@@ -9,10 +9,15 @@ yil: "2015"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/26827675-troublemaker"
 description: "King of Queens isimli sitcomda canlandırdığı Carrie karakteri ile hatırlanan Leah Remini, Troublemaker isimli kitabında kendi hayat hikayesini anlatıyor."
-last_modified_at: 2021-12-21
+last_modified_at: 2023-01-14
 published: true
 posted: 2021-11-21
 tag: "biyografi"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/troublemaker.jpg"
 ---
 

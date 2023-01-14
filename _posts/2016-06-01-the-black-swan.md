@@ -10,9 +10,14 @@ sayfa: "511"
 goodreads: "https://www.goodreads.com/book/show/242472.The_Black_Swan"
 description: "Siyah Kuğu, ihtimal dışı olarak sayılan pek çok olayın aslında gerçekleşme olasılığının olduğunu örneklerle anlatıyor. Siyah Kuğu kitapta etki gücü yüksek olasılıksız görünen ancak gene de öngörülebilirliği açıklanabilen bir metaforik bir kavram olarak geçiyor: 'Bugüne kadar gördüğünüz tüm kuğuların beyaz olması, siyah kuğuların bulunmadığı anlamına gelmez. Tek bir siyah kuğunun bile görülmesi yeterlidir.'"
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-06-01
 tag: "felsefe"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-black-swan.jpg"
 ---
 

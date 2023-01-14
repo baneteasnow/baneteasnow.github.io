@@ -10,9 +10,14 @@ sayfa: "327"
 goodreads: "https://www.goodreads.com/book/show/5293573-the-pleasures-and-sorrows-of-work"
 description: "Çalışmanın Mutluluğu ve Sıkıntısı'nda Alain de Botton, farklı mesleklerden kişilerle görüşerek onların sıradan bir günlerini takip ediyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2013-11-30
 tag: "felsefe" 
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-pleasures-and-sorrows-of-work.jpg"
 ---
 

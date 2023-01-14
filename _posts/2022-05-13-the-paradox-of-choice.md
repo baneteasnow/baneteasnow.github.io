@@ -9,12 +9,15 @@ yil: "2007"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice"
 description: "Barry Schwartz, Bolluk Paradoksu isimli kitabında neden daha fazla seçeneğin daha fazla tatmin ve mutluluk getiremeyeceğini örneklerle açıklıyor."
-last_modified_at: 2022-05-13
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-13
 tag: "pazarlama"
 instagram: "https://www.instagram.com/p/CfG4y_zoxj-/"
 insta: "yes"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-paradox-of-choice.jpg"
 ---
 

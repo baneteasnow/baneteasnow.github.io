@@ -10,9 +10,13 @@ sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/25882651-vegan-beslenme"
 description: "Vegan Beslenme, bir doktorun gözünden uygulamalı vegan beslenmeyi anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-02-01
 tag: "beslenme"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/vegan-beslenme.jpg"
 ---
 

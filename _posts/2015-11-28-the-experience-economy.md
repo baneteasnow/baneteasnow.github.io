@@ -8,11 +8,16 @@ yazar: "B. Joseph Pine II, James H. Gilmore"
 yil: "2012"  
 sayfa: "371"  
 goodreads: "https://www.goodreads.com/book/show/619718.The_Experience_Economy"
-description: "Deneyim Ekonomisi, çalışanlar, müşteriler ve tüketiciler ile daha güçlü ve yakın ilişkiler kurmada deneyimlerden faydalanmayı anlatiyor."
+description: "Deneyim Ekonomisi, çalışanlar, müşteriler ve tüketiciler ile daha güçlü ve yakın ilişkiler kurmada deneyimlerden faydalanmayı anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2015-11-28
 tag: "tüketici davranışları"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-experience-economy.jpg"
 ---
 

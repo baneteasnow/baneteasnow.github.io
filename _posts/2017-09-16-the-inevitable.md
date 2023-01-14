@@ -10,11 +10,15 @@ sayfa: "368"
 goodreads: "https://www.goodreads.com/book/show/27209431-the-inevitable"
 description: "Büyük Teknolojik Dönüşüm, teknolojik, kültürel ve sosyal öğelerin geleceği nasıl şekillendireceğini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-09-16
 tag: "teknoloji"
-image: "/assets/old/the-inevitable.jpg"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
 eng: "This book is from Kevin Kelly, the founding executive editor of Wired magazine. In The Inevitable, the author forecasts the twelve technological forces that will shape the next thirty years. A worth reading book to understand the future."
+image: "/assets/old/the-inevitable.jpg"
 ---
 
 Wired dergisinin kurucularından olan Kevin Kelly tarafından yazılan Büyük Teknolojik Dönüşüm, teknolojik, kültürel ve sosyal öğelerin geleceği nasıl şekillendireceğini anlatıyor. Yazarın gelecekten kastı, önsözde belirttiğine göre, gelecek 30 yıl. Teknolojinin doğasında onu belli bir yöne iten bir tek yanlılık olduğunu vurgulayan yazar, toplam 12 teknolojik kuvvete yer vermiş. Bu kuvvetlerin hepsi birbirine bağımlıdır, birbirlerini hızlandırır ve örtüsurler, herhangi birinden tekil olarak söz etmek pek mümkün olmaz, bir kuvvet diğerleri ile bir bütünlük içindedir.  

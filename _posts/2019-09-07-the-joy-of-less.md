@@ -10,9 +10,13 @@ sayfa: "231"
 goodreads: "https://www.goodreads.com/book/show/8576972-the-joy-of-less-a-minimalist-living-guide"
 description: "Azla Mutlu Olmak, öncelikle sade yaşamın felsefesini yani minimalist düşünce yapısını ele alıyor ve eşyaların varlık sebebini inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-09-07
 tag: "minimalizm"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-joy-of-less.jpg"
 ---
 

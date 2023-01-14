@@ -1,7 +1,6 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-06-09
 published: true
 description: "'Sabah yataktan kalkma sebebi' olarak tanımlanan Ikigai'yi inceleyen kitap, kendi Ikigai'sini bulmuş kişilerin hikayelerine de yer veriyor."
 title: "Ikigai | Ken Mogi (Kitap)"
@@ -12,7 +11,13 @@ yil: "2018"
 sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai"
 posted: 2021-06-09
+last_modified_at: 2023-01-14
 tag: "lifestyle"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/new/ikigai-ken-mogi.jpg"
 ---
 

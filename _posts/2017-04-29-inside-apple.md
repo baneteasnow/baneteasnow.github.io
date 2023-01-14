@@ -9,10 +9,15 @@ yil: "2012"
 sayfa: "160"  
 goodreads: "https://www.goodreads.com/book/show/13055451-inside-apple"
 description: "Apple Mucizesi, Steve Jobs liderliğinde Apple'ın nasıl bugünkü konumuna geldiğini ilgi çekici kesitlerle aktaran bir kitap."
-last_modified_at: 2021-07-07
+last_modified_at: 2023-01-14
 published: true
 posted: 2017-04-29
 tag: "marka profili"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/inside-apple.jpg"
 ---
 
@@ -39,7 +44,7 @@ Psikoterapist ve iş koçu Michael Maccoby, Harvard Business Review dergisinde 2
   
 Kitapta aktarılan bir anekdot da aslında gizliliğin hangi boyutta olduğunun altını çiziyor: 1 Infinite Loop'da halka açık mağazada satışta olan bir t-shirtün üzerinde şöyle yazmaktadır; 'Apple kampüsünü ziyaret ettim, ancak sadece bu kadarını söylememe izin verildi.' (Sayfa 30) Kitabın 2.bölümü Apple ve Google arasındaki birtakım farklılıklara yer veriyor, Google'ün ücretsiz yemekleri, halka açık eğlence dolu Googleplex kampüsünün aksine, Apple binaları tam korunaklıdır ve çalışanlar bile sadece ilgili oldukları bölümlere giriş yapabilirler, bir haftasonunda binanın içi yeniden şekillendirilerek eskiden giriş izni olan kişilerin bile o kısma erişimlerinin engellenmiş olması normal karşılanır.  
   
-Yeni çalışanlarla ilgili yer verilenler de oldukça ilgi çekici: "İse yeni başlayan acemiler için gizlilik, hangi binada çalışacaklarını öğrenmelerinden de önce başlar. Büyük bir titizlikle gerçekleştirilen birçok görüşmeyi atlatmalarına karşın, pek çok çalışan şirkete kabul edilene kadar ayrintilarıyla açıklanmamış görevlerde, sözde geçici pozisyonlarda çalıştırılır. Yeni çalışanlar nezaketle karşılansa da görevlerinin esasları kendilerine henüz anlatılmamıştır, onlara güven duyup, kendi özel görevleri kadar hassas olan bilgilerin verilmesi şart değildir." (Sayfa 31)  
+Yeni çalışanlarla ilgili yer verilenler de oldukça ilgi çekici: "İse yeni başlayan acemiler için gizlilik, hangi binada çalışacaklarını öğrenmelerinden de önce başlar. Büyük bir titizlikle gerçekleştirilen birçok görüşmeyi atlatmalarına karşın, pek çok çalışan şirkete kabul edilene kadar ayrıntılarıyla açıklanmamış görevlerde, sözde geçici pozisyonlarda çalıştırılır. Yeni çalışanlar nezaketle karşılansa da görevlerinin esasları kendilerine henüz anlatılmamıştır, onlara güven duyup, kendi özel görevleri kadar hassas olan bilgilerin verilmesi şart değildir." (Sayfa 31)  
   
 Yeni çalışanlar, daha önce çalışmış oldukları herhangi bir şirketten farklı bir yerde olduklarını ilk iş gününde anlarlar. Dışarıda Apple saygı görür. İçeride ise sorgusuz bir bağlılık vardır ve işe yeni başlayanlara sadece bilgi verilir. Yeni çalışanların hepsi, tatile denk gelmedikçe her zaman pazartesi günleri gerçekleştirilen yarım günlük bir oryantasyona tabii tutulur. Oryantasyon daha çok standart şirket gereçlerinin verilmesiyle gerçekleştirilir: Apple'a katıldığını söyleyen etiketler, İK ve benzeri formlar, ayrıca önünde o yılı ve bölümünü belirten armaların olduğu bir t-shirtten oluşan bir hoş geldin paketi. Apple, sonradan bünyesine kattığı az sayıdaki şirketin çalışanlarının da hızlı bir şekilde artık Apple ailesinin bir parçası olduklarını hissetmelerini sağlar. (Sayfa 31)  
   

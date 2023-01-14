@@ -10,9 +10,14 @@ sayfa: "203"
 goodreads: "https://www.goodreads.com/book/show/1475006.Happy_Mondays"
 description: "Mutlu Pazartesiler, çalışmanın ve çalışma yaşamının insan hayatındaki etkilerine odaklanıyor ve konuyu pozitif şekilde ele alıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-12-24
 tag: "çalışma yaşamı"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/happy-mondays.jpg"
 ---
 

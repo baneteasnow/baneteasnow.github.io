@@ -10,9 +10,14 @@ sayfa: "358"
 goodreads: "https://www.goodreads.com/book/show/11127927-branded-beauty"
 description: "Pazarlama Görünüşümüzü Nasıl Değiştirdi, güzellik ve kozmetik sektörünün arka planını ve ünlü markaların hikayesini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-08-17
 tag: "moda markaları"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/branded-beauty.jpg"
 ---
 

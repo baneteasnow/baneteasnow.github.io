@@ -10,10 +10,15 @@ yil: "2002"
 sayfa: "308"
 goodreads: "https://www.goodreads.com/book/show/103999.Toxic_Parents"
 description: "Zor Bir Ailede Büyümek, bir kişinin çocuklukta anne babası ile olan ilişkisinin yetişkinlik dönemindeki hayatını, kişiliğini, aldığı kararları, hayata bakışını nasıl şekillendirdiğini örneklerle inceliyor."
-last_modified_at: 2022-06-21
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-21
 tag: "psikoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/toxic-parents.jpg"
 ---
 

@@ -2,17 +2,22 @@
 layout: post  
 category: book2  
 title: "Work Rules | Laszlo Bock (Kitap)"  
-kitap: "Work Rules! : Insights from Inside Google That Will Transform How You Live and Lead"  
+kitap: "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead"  
 tr: "Google Sırları - Google, Dünyanın En Yaratıcı ve Başarılı Şirketi Olabilmek İçin Neyi Farklı Yapıyor?"  
 yazar: "Laszlo Bock"  
 yil: "2017"  
 sayfa: "432"  
 goodreads: "https://www.goodreads.com/book/show/22875447-work-rules"
 description: "Google'da People Operations departmanının yöneticisi olarak çalışan Laszlo Bock, Google'daki İK uygulamalarını anlatıyor."
-last_modified_at: 2021-07-06
+last_modified_at: 2023-01-14
 published: true
 posted: 2018-03-10
 tag: "yönetim"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/work-rules.jpg"
 ---
 

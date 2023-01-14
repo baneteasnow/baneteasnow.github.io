@@ -9,12 +9,16 @@ yil: "2008"
 sayfa: "246"  
 goodreads: "https://www.goodreads.com/book/show/2601510-crowdsourcing"
 description: "Jeff Howe Crowdsourcing'de gönüllülük esasına dayalı olarak internet üzerinde bir araya gelerek çeşitli projeler üretenlerin hikayelerini anlatıyor."
-last_modified_at: 2021-07-05
+last_modified_at: 2023-01-14
 published: true
 posted: 2015-05-02
 tag: "dijital kültür"
-image: "/assets/old/crowdsourcing.jpg"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
 eng: "Jeff Howe coined the term crowdsourcing back in 2008 in an article he wrote for Wired magazine. In the age of the internet, the wisdom of the crowds find solutions to many problems. Crowdsourcing is the power of the wisdom of crowds accomplishing tasks without being a specialist in a specific area. Although it is a dated book, it explains the term well with many examples."
+image: "/assets/old/crowdsourcing.jpg"
 ---
 
 Kitabın yazarı ve gazeteci Jeff Howe, Crowdsourcing kavramından ilk kez 2006 yılında Wired dergisinde yayınlanan 'The Rise of Crowdsourcing' isimli makalesinde bahseder. Bu kavramı kullanırken, outsourcing kavramından esinlenmiştir. Outsourcing kavramının yaygınlaşması ile bazı işlerin Çin veya Hindistan gibi ülkelerde yapılır hale gelmiş olması gibi, crowdsourcing kavramı ile de internetin yaygınlaşması ve iletişimin kolaylaşmasının beraberinde kalabalıkların gücünden yararlanan yeni iş modellerinin ortaya çıkması ifade edilmiştir.   

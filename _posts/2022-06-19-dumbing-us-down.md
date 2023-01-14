@@ -9,10 +9,15 @@ yil: "2019"
 sayfa: "136"
 goodreads: "https://www.goodreads.com/book/show/225850.Dumbing_Us_Down"
 description: "Bir öğretmen olan John Taylor Gatto, okulların işlevini ve eğitimin gerçekte yetiştirmek istediği insan tipini Aptallaştıran Eğitim isimli kitabında tartışıyor."
-last_modified_at: 2022-06-19
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-19
 tag: "sosyoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/dumbing-us-down.jpg"
 ---
 

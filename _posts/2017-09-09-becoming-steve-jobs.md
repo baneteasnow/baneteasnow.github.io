@@ -10,9 +10,14 @@ sayfa: "480"
 goodreads: "https://www.goodreads.com/book/show/22318382-becoming-steve-jobs"
 description: "Steve Jobs Olmak, Steve Jobs'in hayatını ve kariyerini konu alıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-09-09
 tag: "biyografi"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/becoming-steve-jobs.jpg"
 ---
 

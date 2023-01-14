@@ -10,9 +10,13 @@ sayfa: "101"
 goodreads: "https://www.goodreads.com/search?q=101+Things+I+Learned+in+Culinary+School"
 description: "Mutfak Okulunda Öğrendiğim 101 Şey, yemek hazırlama ve pişirme, malzeme kullanımı, mutfak dili ve ekibi, menü içerikleri, yemekle ilgili öneriler gibi pek çok temel bilgiyi içeriyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2018-06-23
 tag: "lifestyle"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/101-things-i-learned-in-culinary-school.jpg"
 ---
 

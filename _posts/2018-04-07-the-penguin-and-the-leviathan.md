@@ -9,10 +9,15 @@ yil: "2012"
 sayfa: "214"  
 goodreads: "https://www.goodreads.com/book/show/7286895-the-penguin-and-the-leviathan"
 description: "Penguen ve Leviathan, internet üzerinde işbirliği ile ilerleyen gönüllülük esasına dayanan projeler çağında insanın bireyci yaklaşımını sorguluyor."
-last_modified_at: 2021-07-07
+last_modified_at: 2023-01-14
 published: true
 posted: 2018-04-07
 tag: "dijital kültür"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-penguin-and-the-leviathan.jpg"
 ---
 

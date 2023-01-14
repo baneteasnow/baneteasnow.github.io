@@ -10,13 +10,18 @@ sayfa: "436"
 goodreads: "https://www.goodreads.com/book/show/255127.The_Fifth_Discipline"
 description: "Beşinci Disiplin, öğrenen örgütleri inceliyor"
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2014-11-26
 tag: "yönetim"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-fifth-discipline.jpg"
 ---
 
-Peter M. Senge'nin 1990 yılında çıkan ve tüm dünyada en çok okunan kitaplar arasına girmiş, binlerce makale ve teze konu olmuş kitabı 'Beşinci Disiplin', öğrenen örgütleri inceliyor. Öğrenen organizasyon kavramı ilk ortaya atıldığı günden bu yana çok kez tanımlanmış ve tartışılmıştır. Dünyada organizasyonların gelmek istediği nokta olmuştur, eğitim programları, danışmanlar sürekli olarak bu konuyu işlemektedir. Türkiye'de ise, maalesef bu kitapta yer alanların çoğu şu anda uygulama alanı bulamamaktadır. Kitap, 1980'li yıllardan itibaren yapılan konu ile ilgili çalışmaların incelendiği bir kaynaktır.  
+Peter M. Senge'in 1990 yılında çıkan ve tüm dünyada en çok okunan kitaplar arasına girmiş, binlerce makale ve teze konu olmuş kitabı 'Beşinci Disiplin', öğrenen örgütleri inceliyor. Öğrenen organizasyon kavramı ilk ortaya atıldığı günden bu yana çok kez tanımlanmış ve tartışılmıştır. Dünyada organizasyonların gelmek istediği nokta olmuştur, eğitim programları, danışmanlar sürekli olarak bu konuyu işlemektedir. Türkiye'de ise, maalesef bu kitapta yer alanların çoğu şu anda uygulama alanı bulamamaktadır. Kitap, 1980'li yıllardan itibaren yapılan konu ile ilgili çalışmaların incelendiği bir kaynaktır.  
   
 Çalışanların sadece kendi pozisyonlarına odaklandıkları, başka departmandan olan kişilerin aktardıkları sorunlara gerçek birer "sorun" gözüyle bile bakmadıkları ortadadır. Sonuç ortadadır. Başarısızlıklar karşısında herkes birbirini suçlamakta, ders çıkarmak yerine yaşanan hayal kırıklıkları moralleri bozmaktadır. Dinlemek yerine savunmaya geçmek, karşısındakinin haklı olduğunu içten içe bilse bile kendi düşüncesini diretmek, ortak bir noktada buluşmak yerine dediğini yaptırmak "başarı" sayılır hale gelmiştir. Küçük harflerle konuşmak ise artık pek bir aranır olmuştur.  
   
@@ -27,7 +32,7 @@ Kitapta 27. sayfadan itibaren öğrenme yetersizlikleri sıralanmış. Kişilere
 'Sorumluluk üstlenme kuruntusu' Zorluklar için takım çalışması yapmaktan kaçınma eğilimidir.  
 'Olaylara takılıp kalma' Düşünürken yakın geçmişte yaşanan olaylara sürekli takılıp kalmaktır.  
 'Haşlanmış kurbağa meselesi' Değişime uyum gösterme tarzını ifade eder.  
-'Tecrübeyle öğrenme hayali' En iyi tecrübe öğrenme ile olandır ancak çoğu kez alınan kararların sonucu doğrudan gözlenemez.  
+'Tecrübeyle öğrenme hayali' En iyi tecrübe öğrenme ile olandır ancak çoğu kez alınan kararların sonucu doğrudan gözlenmez.  
 'Yönetici takım miti' Tutarlı bir takım görüntüsünü korumak için, anlaşmazlıkları bastırmak, itiraz ve çekincelerin ifade edilmesinden kaçınmak ve kutuplaştırıcı tarzda hareket etmektir.  
   
 Kitapta 3.bölümde ilk kez 1960'li yıllarda Massachusetts Teknoloji Enstitüsünde Sloan Yönetim Okulu'nda geliştirilmiş bir simülasyona yer verilmiştir (sayfa 36). "Bira oyunu" olarak adlandırılan bu örnek, Tek bir marka üreten ve dağıtan bir sistemin perakendeci, toptancı ve fabrika açısından incelenmesine dayanır.  

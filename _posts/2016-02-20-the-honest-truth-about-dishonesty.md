@@ -10,9 +10,14 @@ sayfa: "253"
 goodreads: "https://www.goodreads.com/book/show/13426114-the-honest-truth-about-dishonesty"
 description: "Dan Ariely tarafından kaleme alınan Dürüst Olmamanın Ardındaki (Dürüst) Gerçek isimli kitap, dürüstlük ve yalan söylemek konularını inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2016-02-20
 tag: "davranışsal iktisat"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-honest-truth-about-dishonesty.jpg"
 ---
 

@@ -10,9 +10,13 @@ sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge"
 description: "Hygge, Danimarka'nın günlük yaşamına odaklaniyor, Danimarka'daki yaşam tarzından kesitler sunuyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-09-28
 tag: "lifestyle"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-little-book-of-hygge.jpg"
 ---
 

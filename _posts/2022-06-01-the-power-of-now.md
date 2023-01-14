@@ -10,9 +10,14 @@ sayfa: "229"
 goodreads: "https://www.goodreads.com/book/show/6708.The_Power_of_Now"
 description: "Günlük koşuşturmaca içinde ya geçmişte ya da gelecekte yaşayanlara şimdiki zamana dönmeleri için bir çağrı niteliğinde olan bu kitap, tüm zamanların en çok satılanları arasında."
 tag: "felsefe"
-last_modified_at: 2022-06-01
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-01
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "4"
+eng: "-"
 image: "/assets/new/the-power-of-now.jpg"
 ---
 

@@ -10,9 +10,13 @@ sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/40112776-finnished-leadership"
 description: "Eğitimde Finlandiya Modeli, Finlandiya'nın eğitim sistemini nasıl farklılaştırdığı ve başarısının dayanak noktalarını inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2024-01-14
 posted: 2018-10-13
 tag: "eğitim"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/finnished-leadership.jpg"
 ---
 

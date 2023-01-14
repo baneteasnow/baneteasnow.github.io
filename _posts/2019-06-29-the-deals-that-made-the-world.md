@@ -10,9 +10,13 @@ sayfa: "448"
 goodreads: "https://www.goodreads.com/book/show/40652126-the-deals-that-made-the-world"
 description: "Jacques Peretti, Dünyayı Değiştiren Gizli Anlaşmalar isimli kitabında herkesi ilgilendiren 15 farklı konuya değiniyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-06-29
 tag: "çalışma yaşamı"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/the-deals-that-made-the-world.jpg"
 ---
 

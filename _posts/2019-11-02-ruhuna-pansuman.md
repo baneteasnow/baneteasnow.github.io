@@ -10,9 +10,13 @@ sayfa: "96"
 goodreads: "https://www.goodreads.com/book/show/41730144-ruhuna-pansuman"
 description: "Ruhuna Pansuman, klinik psikolog ve dışa vurumcu sanat terapisti Suzi Amado'nun kaleme aldığı, öneriler ve farkındalık egzersizleri ile dolu bir kitap.  "
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2019-11-02
 tag: "motivasyon"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/ruhuna-pansuman.jpg"
 ---
 

@@ -15,6 +15,9 @@ posted: 2022-08-31
 tag: "psikoloji"
 insta: "no"
 instagram: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/the-neurotic-personality-of-our-time.jpg"
 ---
 

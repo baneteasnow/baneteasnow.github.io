@@ -1,7 +1,6 @@
 ---
 layout: post
 category: book
-last_modified_at: 2021-06-02
 published: true
 description: "Bullshit Jobs, hemen hiç kimsenin çalışmak istemediği, hiçbir değer yaratmayan işleri konu alıyor."
 title: "Bullshit Jobs - A Theory | David Graeber (Kitap)"
@@ -12,7 +11,13 @@ yil: "2018"
 sayfa: "347"
 goodreads: "https://www.goodreads.com/book/show/34466958-bullshit-jobs"
 posted: 2021-06-02
+last_modified_at: 2023-01-14
 tag: "sosyoloji"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/new/bullshit-jobs.jpg"
 ---
 

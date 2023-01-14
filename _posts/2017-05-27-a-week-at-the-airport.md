@@ -10,9 +10,14 @@ sayfa: "196"
 goodreads: "https://www.goodreads.com/book/show/6718808-a-week-at-the-airport"
 description: " Alain de Botton, misafir yazar olarak 2009 yazının bir haftasını Londra Heathrow Havaalanı'nda geçirmiş ve gözlemlerini Havaalanında Bir Hafta isimli kitabında derlemiştir."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-05-27
 tag: "felsefe"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "5"
+eng: "-"
 image: "/assets/old/a-week-at-the-airport.jpg"
 ---
 

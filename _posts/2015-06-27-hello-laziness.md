@@ -10,9 +10,14 @@ sayfa: "116"
 goodreads: "https://www.goodreads.com/book/show/203271.Hello_Laziness"
 description: "Kitap, iş hayatının farklı yönlerine göndermeler yapıyor ve çok çabalayanın da az çabalayanın da aslında hemen hemen aynı şeyleri elde ettiğini anlatıyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2015-06-27
 tag: "çalışma yaşamı"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/old/hello-laziness.jpg"
 ---
 

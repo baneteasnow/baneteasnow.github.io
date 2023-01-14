@@ -9,12 +9,15 @@ yil: "2020"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/20443271-food-waste"
 description: "Sıfır Atık, mutfak alışverişlerinden zamanında tüketilmeden arta kalan, bozulmaya yüz tutmuş sebze ve meyvelerin neredeyse kaçınılmaz olan kaderini yani 'gıda israfı'nı inceliyor."
-last_modified_at: 2022-07-25
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-25
 tag: "çevre"
 instagram: "no"
 insta: "no"
+reread: "no"
+rating: "4"
+eng: "-"
 image: "/assets/new/food-waste.jpg"
 ---
 

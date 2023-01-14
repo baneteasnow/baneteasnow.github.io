@@ -10,9 +10,14 @@ sayfa: "264"
 goodreads: "https://www.goodreads.com/book/show/22749723-who-gets-what-and-why"
 description: "Farklı şartlara sahip piyasaların yönetilmesiyle ilgili sıra dışı yöntemler sunan Kim Neyi Neden Alır'da pek çok farklı piyasa tipi inceleniyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-07-01
 tag: "tüketici davranışları"
+instagram: "no"
+insta: "no"
+reread: "yes"
+rating: "4"
+eng: "-"
 image: "/assets/old/who-gets-what-and-why.jpg"
 ---
 

@@ -10,9 +10,14 @@ sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/18594514-the-zero-marginal-cost-society"
 description: "Nesnelerin İnterneti ve İşbirliği Çağı, üçüncü sanayi devrimi ve internetin yaygınlaşması, nesnelerin interneti ve işbirliği çağının açılması ile paylaşım ekonomisinin getirdiklerini ve yansımalarını inceliyor."
 published: true
-last_modified_at: 2021-07-12
+last_modified_at: 2023-01-14
 posted: 2017-04-01
 tag: "internet of things"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: "-"
 image: "/assets/old/the-zero-marginal-cost-society.jpg"
 ---
 

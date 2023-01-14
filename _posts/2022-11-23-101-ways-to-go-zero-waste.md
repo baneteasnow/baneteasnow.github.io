@@ -9,13 +9,15 @@ yil: "2021"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/en/book/show/40611253"
 description: "Sıfır Atık İçin 101 Yol, çevreye duyarlı atıksız bir yaşam için 101 farklı öneri getiriyor."
-last_modified_at: 2022-11-23
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-11-23
 tag: "sıfır atık yaşam"
 instagram: "no"
 insta: "no"
 reread: "no"
+rating: "2"
+eng: "-"
 image: "/assets/new/101-ways-to-go-zero-waste.jpg"
 ---
 

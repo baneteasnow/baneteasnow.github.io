@@ -9,11 +9,15 @@ yil: "2012"
 sayfa: "195"
 goodreads: "https://www.goodreads.com/book/show/16309620-biri-beni-dinliyor"
 description: "Biri Beni Dinliyor, çalışma hayatlarının bir noktasında çıkmaza girmiş ve kendi yönlerini yeniden bulmak için bir koçtan destek alan 7 farklı kişinin koçluk seanslarından kesitleri içeriyor."
-last_modified_at: 2022-07-03
+last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-03
 tag: "motivasyon"
 instagram: "no"
+insta: "no"
+reread: "no"
+rating: "2"
+eng: "-"
 image: "/assets/new/biri-beni-dinliyor.jpg"
 ---
 
