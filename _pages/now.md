@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-01-11
+last_modified_at: 2022-01-15
 published: true  
 ---
 
@@ -14,8 +14,8 @@ Psychology in Minutes  (2022)
 <i>by</i> Marcus Weeks  
 <br />
 ⁜ 3  
-Why Is It Always About You? (2021)  
-<i>by</i> Sandy Hotchkiss  
+The Mathematics of Love (2015)  
+<i>by</i> Hannah Fry  
 <br />
 
 <i><b>Yıl boyunca...</b></i>  
