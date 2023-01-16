@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2022-01-15
+last_modified_at: 2023-01-16
 published: true  
 ---
 
@@ -14,8 +14,8 @@ Psychology in Minutes  (2022)
 <i>by</i> Marcus Weeks  
 <br />
 ⁜ 3  
-The Mathematics of Love (2015)  
-<i>by</i> Hannah Fry  
+How We Eat with Our Eyes and Think with Our Stomachs (2021)  
+<i>by</i> Melanie Muhl & Diana Von Kopp
 <br />
 
 <i><b>Yıl boyunca...</b></i>  
