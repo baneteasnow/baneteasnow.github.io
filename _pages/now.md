@@ -15,7 +15,7 @@ Psychology in Minutes  (2022)
 <br />
 ⁜ 3  
 How We Eat with Our Eyes and Think with Our Stomachs (2021)  
-<i>by</i> Melanie Muhl & Diana Von Kopp
+<i>by</i> Melanie Muhl & Diana Von Kopp  
 <br />
 
 <i><b>Yıl boyunca...</b></i>  
