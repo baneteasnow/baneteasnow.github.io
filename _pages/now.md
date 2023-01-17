@@ -12,10 +12,7 @@ published: true
 ⁜ 2  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
-<br />
-⁜ 3  
-How We Eat with Our Eyes and Think with Our Stomachs (2021)  
-<i>by</i> Melanie Muhl & Diana Von Kopp  
+<br />  
 <br />
 
 <i><b>Yıl boyunca...</b></i>  
