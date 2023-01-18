@@ -12,7 +12,7 @@ description: "Bilge ve Gezgin, kendi aralarında yaşamın önemli prensiplerini
 last_modified_at: 2023-01-20
 published: true
 posted: 2023-01-20
--tag: "felsefe"
+tag: "felsefe"
 instagram: "no"
 insta: "no"
 reread: "no"
