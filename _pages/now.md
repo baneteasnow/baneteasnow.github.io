@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-01-16
+last_modified_at: 2023-01-18
 published: true  
 ---
 
@@ -13,6 +13,9 @@ published: true
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />  
+⁜ 3  
+The Fate of Food (2021)  
+<i>by</i> Amanda Little  
 <br />
 
 <i><b>Yıl boyunca...</b></i>  
