@@ -14,7 +14,7 @@ Psychology in Minutes  (2022)
 <i>by</i> Marcus Weeks  
 <br />  
 ⁜ 3  
-The Fate of Food (2021)  
+The Fate of Food (2020)  
 <i>by</i> Amanda Little  
 <br />
 
