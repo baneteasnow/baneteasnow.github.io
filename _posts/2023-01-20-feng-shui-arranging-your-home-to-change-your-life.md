@@ -64,3 +64,4 @@ Bagua haritası, sekizgen şekli yin/yang sembollerini içerir ve onun sekiz ken
 Yaratıcı devre içinde yanan odun (ağaç) ateşi besler; ateş küllerinden toprak üretir; sonra, toprak maden cevheri oluşturarak metal yaratır; metal yüzeyindeki buğulaşmadan su meydana gelir; ve su da bitkileri ve ağaçları yaratıp besler.
 
 Yıkıcı devre içinde ise ateş metali eritir; metal ağacı keser; ağaç toprağı çürütür; toprak suyu bulandırıp çamurlandırır; su ise ateşi söndürür.
+
