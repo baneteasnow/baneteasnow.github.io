@@ -41,10 +41,10 @@ Chi, yeri, göğü dolaşan ve yaşam gücünü getiren görünmez enerji akış
 #### [Bagua Haritası](#bagua-map)
 {: #bagua-map }
 
+Bagua haritası, sekizgen şekli yin/yang sembollerini içerir ve onun sekiz kenarı pusuladaki sekiz ayrı yönü temsil eder. Pusulanın sekiz yönü feng shuinin temel unsurlarıdır. 
+
 ![Bagua Haritası - sayfa 32](/assets/graph/bagua-map.jpg)
 <center> "Bagua Haritası" - sayfa 32</center> 
-
-Bagua haritası, sekizgen şekli yin/yang sembollerini içerir ve onun sekiz kenarı pusuladaki sekiz ayrı yönü temsil eder. Pusulanın sekiz yönü feng shuinin temel unsurlarıdır. 
 
 - Güney - haritanın tepesinde yer alır. Öğle vaktini, yaz mevsimini temsil eder. Isı, ateş ve kırmızı renk (kutlama ve mutluluk rengi) ile ilişkilidir. Ün, servet, kısmet, şenlik güney tarafından yönetilir. 
 - Batı - rengi beyazdır, metal parlaklığıdır. Sonbahar ve hasatla ilişkilidir. Saflık ve çocukları ifade eder. 
@@ -58,10 +58,10 @@ Bagua haritası, sekizgen şekli yin/yang sembollerini içerir ve onun sekiz ken
 #### [Beş Ana Unsur](#bes-ana-unsur)
 {: #bes-ana-unsur }
 
+Yaratıcı devre içinde yanan odun (ağaç) ateşi besler; ateş küllerinden toprak üretir; sonra, toprak maden cevheri oluşturarak metal yaratır; metal yüzeyindeki buğulaşmadan su meydana gelir; ve su da bitkileri ve ağaçları yaratıp besler.
+
 ![Beş Ana Unsur - sayfa 37](/assets/graph/ana-unsurlar.jpg)
 <center> "Beş Ana Unsur" - sayfa 37</center> 
-
-Yaratıcı devre içinde yanan odun (ağaç) ateşi besler; ateş küllerinden toprak üretir; sonra, toprak maden cevheri oluşturarak metal yaratır; metal yüzeyindeki buğulaşmadan su meydana gelir; ve su da bitkileri ve ağaçları yaratıp besler.
 
 Yıkıcı devre içinde ise ateş metali eritir; metal ağacı keser; ağaç toprağı çürütür; toprak suyu bulandırıp çamurlandırır; su ise ateşi söndürür.
 
