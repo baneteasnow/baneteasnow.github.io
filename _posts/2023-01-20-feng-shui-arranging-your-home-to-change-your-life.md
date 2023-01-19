@@ -39,7 +39,7 @@ Yin dişi, karanlık, pasif, yerküre, ay, alıcılık, karanlık, soğuk, ölü
 Chi, yeri, göğü dolaşan ve yaşam gücünü getiren görünmez enerji akışıdır. Doğayı yansıtacak biçimde yumuşak kavisler çizerek aktığı zaman en iyi sonuçları doğurur. 
 
 #### [Bagua Haritası](#bagua-map)
-{ :#bagua-map }
+{: #bagua-map }
 
 ![Bagua Haritası - sayfa 32](/assets/graph/bagua-map.jpg)
 <center> "Bagua Haritası" - sayfa 32</center> 
@@ -56,7 +56,7 @@ Bagua haritası, sekizgen şekli yin/yang sembollerini içerir ve onun sekiz ken
 - Kuzeybatı - Yolculuk, ev dışı hobiler. Gri renk.
 
 #### [Beş Ana Unsur](#bes-ana-unsur)
-{ :#bes-ana-unsur }
+{: #bes-ana-unsur }
 
 ![Beş Ana Unsur - sayfa 37](/assets/graph/ana-unsurlar.jpg)
 <center> "Beş Ana Unsur" - sayfa 37</center> 
