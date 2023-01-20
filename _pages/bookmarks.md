@@ -189,3 +189,4 @@ published: true
 
 <br />
 
+<img src="http://images.weserv.nl/?url=www.nonfictionbooks.xyz/assets/graph/bagua-map.jpg&w=200&h=200&output=jpg&q=65"/>
