@@ -66,11 +66,7 @@ Matthew Walker
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 
 ---
-
-<center>xxxxxxxxx</center>
-
 ---
-
 
 ### Belgesel
 
