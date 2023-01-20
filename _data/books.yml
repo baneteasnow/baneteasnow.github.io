@@ -1,6 +1,6 @@
 list:
 
-  - books:
+  - book:
   
       - title: "Sleep Is Your Superpower | Matt Walker | TED (Video)"
         owner: Matt Walker
