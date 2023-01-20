@@ -30,20 +30,20 @@ Terms and Conditions May Apply, Google, Facebook, Instagram, Twitter ve diğer p
 
 Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaların öncülerinden olan bu belgesel özel hayatın gizliliğinin olmadığını vurguluyor. Üstelik, sizin sosyal medyada hesabınızın olmamasının güvende kalmanız için asla yeterli olamayacağı da vurgulanıyor.
 
-2013  
+<i>2013  
 80 dk.   
 [imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Minimalism: A Documentary About the Important Things (Belgesel)](#minimalism)
 {: #minimalism }
 
 The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Nicodemus, bu belgeselde daha az eşya ile yaşamaya karar veren insanların öykülerini paylaşıyor. Daha azla yaşamak hiç birşeyle yaşamak değil kesinlikle. Sadece yetecek olan kadarı ile yaşamak. İçinde bulunduğunuz ortamdaki eşyaların ve nesnelerin sayısını azaltmak aynı zamanda o ortamdaki arınmayı ve ferahlığı da beraberinde getiriyor aslında. Daha sürdürülebilir bir hayat tarzına geçenlerin öyküsü aslında ilham veriyor, sadece almak için almak değil gerçekten gerekli olanı almanın hem bireylere hem de dünyaya olumlu etkisi anlatılıyor. Sürdürülebilir bir dünya için, aynı zamanda, ikinci el eşya seçeneğini de unutmamak gerekli.
 
-2015  
+<i>2015  
 79 dk.  
 [imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Food, Inc. (Belgesel)](#food-inc)
 {: #food-inc }
@@ -52,10 +52,10 @@ Her gün markete gidip satın aldığımız yiyecekler, hangi süreçlerden geç
 
 Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda üretimi artık aynı şekilde yapılıyor, marketlerde aynı büyük firmalara ait yiyecekler kendine yer buluyor. Gıda firmalarının argümanı ise, giderek artan nüfusu beslemek için, yani herkese yetecek gıdanın üretimi için yeni yollar aradıkları yönünde. Hamburger Cumhuriyeti isimli kitabın yazarı Eric Schlosser'in de yeraldığı bu belgesel işte bu konuları tartışıyor.
 
-2008  
+<i>2008  
 94 dk.  
 [imdb](https://www.imdb.com/title/tt1286537/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [The True Cost (Belgesel)](#the-true-cost)
 {: #the-true-cost }
@@ -64,10 +64,10 @@ Giydiğimiz kıyafetlerin gerçek bedelini aslında kim ödüyor? $5 etiketi ile
 
 Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 
-2015  
+<i>2015  
 92 dk.  
 [imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Forks Over Knives (Belgesel)](#forks-over-knives)
 {: #forks-over-knives }
@@ -84,10 +84,10 @@ Colin Campbell'in The China Study (2004) isimli kitabında sonuçlarını payla�
 
 Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak için yemek yiyin."
 
-2011  
+<i>2011  
 96 dk.  
 [imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Food Fighter (Belgesel)](#food-fighter)
 {: #food-fighter }
@@ -98,10 +98,10 @@ Avustralya'da bir etkinlik organizasyon firması kuran Kahn, büyük etkinlikler
 
 Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tüketilmeden 'unutulduğu' için çöpe gidiyor. Zincir marketler, üreticiden sadece aynı görünen, 'estetik' meyve - sebzeleri satın almak istiyor. Eğri büğrü görünümlü sebze ve meyveler 'ugly food' yani çirkin yiyecek olarak adlandırılıyor. Bu yiyecekler ya daha ucuza satılıyor ya da sadece görünüşleri nedeni ile hiç alıcı bulamadığı için çöpe atılıyor. Food Fighters, en değerli kaynaklardan olan su, toprak ve enerjinin bu şekilde nasıl boşa harcandığına da dikkat çeken bir belgesel.
 
-2018  
+<i>2018  
 87 dk.  
 [imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [The Inventor: Out for Blood in Silicon Valley (Belgesel)](#the-inventor)
 {: #the-inventor }
@@ -120,10 +120,10 @@ Theranos, Walgreens ile yaptığı anlaşma ile menüden yemek seçer gibi kan t
 
 Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Carreyrou ise Elizabeth Holmes ve Theranos'un hikayesini ayrıntılı olarak Bad Blood (2018) isimli kitabında ele almıştır. 
 
-2019  
+<i>2019  
 119 dk.  
 [imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Cowspiracy: The Sustainability Secret (Belgesel)](#cowspiracy)
 {: #cowspiracy }
@@ -140,10 +140,10 @@ Metaeconomics isimli kitabın yazarı avukat David Robinson Simon'ın belirttiğ
 
 Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak adına mutlaka seyredilmesi gereken bir belgesel. Bu belgeselin yapımcıların birisi kendisi de vegan olan Leonardo DiCaprio.
 
-2014  
+<i>2014  
 90 dk.  
 [imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [The September Issue (Belgesel)](#the-september-issue)
 {: #the-september-issue }
@@ -154,10 +154,10 @@ Eylül ayı sonbaharın kendini yavaş yavaş göstermeye başladığı, yeni ü
 
 Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına devam edeceklerini duyurdukları bugünlerde, bir moda dergisinin eylül sayısı heyecanını yansıtan bir belgesel The September Issue. Ancak, bu belgeselin çekilme tarihi olan 2007'den bugüne moda dünyasında çok fazla şeyin değişmiş olduğu da ayrı bir gerçek. 
 
-2009  
+<i>2009  
 90 dk.  
 [imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [The Minimalists: Less Is Now (Belgesel)](#the-minimalists)
 {: #the-minimalists }
@@ -180,10 +180,10 @@ Joshua Fields Millburn ve Ryan Nicodemus, Minimalism: A Documentary About the Im
 
 Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her eşyanın bir fonksiyonu ve amacı olduğunu belirtiyorlar. Amacı olmadan saklanan her eşyadan kurtulmanın iyi fikir olduğunu da ekliyorlar.
 
-2021  
+<i>2021  
 53 dk.  
 [imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Take Your Pills (Belgesel)](#take-your-pills)
 {: #take-your-pills }
@@ -194,10 +194,10 @@ Belgeselde paylaşılan örneklere göre, teknoloji ve finans sektörü çalış
 
 Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Belgeselde anlatılana göre, özellikle ergenlerde, bu teşhis konulduğunda anne-babalarda adeta bir rahatlama oluyor, pek çoğu çocuğunun başarılı olacağı düşüncesi ile ikinci bir uzman görüşü alma yoluna dahi gitmeden doktorun önerdiği tedaviyi benimsiyor, çocuklarını bu şekilde kontrol altında tutuyorlar. Take Your Pills, bu sayede else edilen başarının kişiye mi yoksa kişinin başvurduğu bu yönteme mi ait olduğunu sorguluyor.
 
-2018  
+<i>2018  
 87 dk.  
 [imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [What The Health (Belgesel)](#what-the-health)
 {: #what-the-health }
@@ -210,10 +210,10 @@ Belgeselde en dikkat çekici noktalardan bir tanesi de gıda endüstrisinin sivi
 
 Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi konu hakkında kitabı bulunan pek çok kişinin görüşüne de yer verilmiş.
 
-2017  
+<i>2017  
 97 dk.  
 [imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Seaspiracy (Belgesel)](#seaspiracy)
 {: #seaspiracy }
@@ -226,10 +226,10 @@ Endüstriyel balıkçılığın etkileri hem marin ekosistem üzerinde hem de ik
 
 Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi azaltmanın okyanuslardaki doğal hayatı korumak için yapılabilecek en iyi şey olduğunu vurgulayarak sona eriyor.
 
-2021  
+<i>2021  
 79 dk.  
 [imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}   
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Earthlings (Belgesel)](#earthlings)
 {: #earthlings }
@@ -250,8 +250,8 @@ Her başlık, hayvanlara yapılan uygulamalara odaklanarak adım adım inceleniy
 
 Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri. 
 
-2005  
+<i>2005  
 85 dk.  
-[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  </i>
 
 <br />
