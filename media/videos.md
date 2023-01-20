@@ -18,10 +18,11 @@ Grant ile bir öğrencisi tarafından gerçekleştirilen bir anket çalışması
 
 Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu üzerinde düşünmeye zaman ayırmak için işleri biraz ağırdan almanın yaratıcılığı körüklemek için iyi bir fikir olduğuna işaret ediyor. Ortaya çıkan fikirlerden şüphe ederek ve deneme korkusunu aşarak motivasyonun sağlandığını ve iyi fikirler için aslında bir sürü kötü fikre ihtiyaç olduğunu vurguluyor. Özgün olabilmek kolay olmasa da Grant'a göre dünyayı daha iyi bir yer haline getirmenin en iyi yolu da bu.
 
-Adam Grant  
+<i>Adam Grant  
 2016  
+15 dk.  
 [TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [The Paradox of Choice | Barry Schwartz (TED)](#the-paradox-of-choice)
 {: #the-paradox-of-choice }
@@ -38,10 +39,11 @@ Seçenek sayısının fazla olması beklentiyi yükseltir. Mutluluğun sırrı, 
 
 Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan seçimden tatminsizlik duyulduğunda sorumluluk sizden başka herkese aitken, seçenek sayısının onlarca hatta yüzlerce olduğu günümüzde ise tercihimiz hayal kırıklığı yaratıyorsa, bunun tek sorumlusunun 'kendimiz' olduğunu düşünürüz. Çünkü daha iyisini yapabilecekken, hataya yer olmadığını düşünürüz.
 
-Barry Schwartz  
+<i>Barry Schwartz  
 2005  
+21 dk.  
 [TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+{%-include up.html-%}</i>
 
 #### [Sleep Is Your Superpower | Matt Walker (TED)](#sleep-is-your-superpower)
 {: #sleep-is-your-superpower }
@@ -58,8 +60,9 @@ Uyku süresi kısaldıkça, yaşam süresi de kısalıyor. Dünya Sağlık Örg�
 
 Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınmanın yanı sıra, iyi bir uyku için her gün aynı saatte uyumak ve uyanmak oldukça önemli. Bu düzen, hafta içi veya hafta sonu olduğuna bakılmaksızın devam ettirilmeli. Çünkü, uyku alışkanlığı uykunun hem süresini hem de kalitesini etkiliyor. Oda sıcaklığının da serin olması (18°C) uyku kalitesine olumlu etki yapıyor.
 
-Matthew Walker  
+<i>Matthew Walker  
 2019  
-[TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+20 dk.  
+[TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  </i>
 
 <br />
