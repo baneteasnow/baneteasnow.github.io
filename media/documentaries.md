@@ -5,6 +5,10 @@ last_modified_at: 2021-07-29
 title: "Belgeseller"
 ---
 
+{: #toc }
+* TOC
+{:toc class="toc1"} 
+
 #### [The Social Dilemma (Belgesel)](#the-social-dilemma)
 {: #the-social-dilemma }
 
@@ -14,10 +18,10 @@ Facebook, Instagram, Twitter, Pinterest, Google ve benzer diğer platformlarda g
 
 Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, insana zarar vermeyecek şekilde onları yeniden yapılandırmanın bir yolu var mı?' Aslında bugüne kadar pek çok kitapta, makalede, belgeselde, haberde veya röportajlarda dile getirilmiş olan sorunlara işaret ediliyor, çözüm için ise sadece bu sosyal medya platformlarının buna gönüllü olmaları gerektiği vurgulanıyor. Ayrıca, bu platformları yaratan ekipte yer alanların kendi çocuklarına bu ürünleri kullanmayı yasaklamış olmaları da vurgulanan diğer bir nokta. Kullanıcı olma yaşının yükseltilmesi gerektiği, mümkün olduğunca bu sitelerde geçirilen zamanının kısaltılması, çocuklar için dakika sınırı konulması, tavsiye edilen videoların doğrudan izlenmesi yerine her seferinde yeni bir arama yapılması, tüm bildirimlerin kapatılması ve çok yönlü içeriğe ulaşabilmek adına pek çok farklı görüşten insanın takip edilmesi bireysel kullanıcıların yapabilecekleri arasında gösteriliyor.
 
-2020  
+<i>2020  
 94 dk.  
 [imdb](https://www.imdb.com/title/tt11464826/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}</i>
 
 #### [Terms and Conditions May Apply (Belgesel)](#terms-and-conditions-may-apply)
 {: #terms-and-conditions-may-apply }
@@ -29,7 +33,7 @@ Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaları
 2013  
 80 dk.   
 [imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Minimalism: A Documentary About the Important Things (Belgesel)](#minimalism)
 {: #minimalism }
@@ -39,7 +43,7 @@ The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Ni
 2015  
 79 dk.  
 [imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Food, Inc. (Belgesel)](#food-inc)
 {: #food-inc }
@@ -51,7 +55,7 @@ Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda ür
 2008  
 94 dk.  
 [imdb](https://www.imdb.com/title/tt1286537/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [The True Cost (Belgesel)](#the-true-cost)
 {: #the-true-cost }
@@ -63,7 +67,7 @@ Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 2015  
 92 dk.  
 [imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Forks Over Knives (Belgesel)](#forks-over-knives)
 {: #forks-over-knives }
@@ -83,7 +87,7 @@ Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak iç
 2011  
 96 dk.  
 [imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Food Fighter (Belgesel)](#food-fighter)
 {: #food-fighter }
@@ -97,7 +101,7 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 2018  
 87 dk.  
 [imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [The Inventor: Out for Blood in Silicon Valley (Belgesel)](#the-inventor)
 {: #the-inventor }
@@ -119,7 +123,7 @@ Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Car
 2019  
 119 dk.  
 [imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Cowspiracy: The Sustainability Secret (Belgesel)](#cowspiracy)
 {: #cowspiracy }
@@ -139,7 +143,7 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 2014  
 90 dk.  
 [imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [The September Issue (Belgesel)](#the-september-issue)
 {: #the-september-issue }
@@ -153,7 +157,7 @@ Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına deva
 2009  
 90 dk.  
 [imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [The Minimalists: Less Is Now (Belgesel)](#the-minimalists)
 {: #the-minimalists }
@@ -179,7 +183,7 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 2021  
 53 dk.  
 [imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Take Your Pills (Belgesel)](#take-your-pills)
 {: #take-your-pills }
@@ -193,7 +197,7 @@ Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Bel
 2018  
 87 dk.  
 [imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [What The Health (Belgesel)](#what-the-health)
 {: #what-the-health }
@@ -209,7 +213,7 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 2017  
 97 dk.  
 [imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Seaspiracy (Belgesel)](#seaspiracy)
 {: #seaspiracy }
@@ -225,7 +229,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 2021  
 79 dk.  
 [imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}   
-
+{%-include up.html-%}
 
 #### [Earthlings (Belgesel)](#earthlings)
 {: #earthlings }
@@ -249,3 +253,5 @@ Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri.
 2005  
 85 dk.  
 [imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+
+<br />
