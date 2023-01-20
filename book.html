@@ -2,11 +2,13 @@
 layout: default
 title: Reading
 ---
-{% for book in site.data.books %}
+<ul>
+  {% for book in site.data.books %}
   <li>
   <div> 
-     <h2><cite><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></cite></h2>
-      <p>{{ book.description }}</p>
+     {{ books.title }}
+      <p>{{ books.description }}</p>
   </div> 
   </li>
-{% endfor %}
+ {% endfor %}
+</ul>
