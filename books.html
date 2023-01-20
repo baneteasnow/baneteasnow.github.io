@@ -1,0 +1,12 @@
+---
+layout: default
+title: Reading
+---
+{% for book in site.data.books %}
+  <li>
+  <div> 
+     <h2><cite><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></cite></h2>
+      <p>{{ book.description }}</p>
+  </div> 
+  </li>
+{% endfor %}
