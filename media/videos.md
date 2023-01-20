@@ -20,7 +20,7 @@ Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu
 Adam Grant  
 2016  
 [TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [The Paradox of Choice | Barry Schwartz (TED)](#the-paradox-of-choice)
 {: #the-paradox-of-choice }
@@ -40,7 +40,7 @@ Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan 
 Barry Schwartz  
 2005  
 [TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
 
 #### [Sleep Is Your Superpower | Matt Walker (TED)](#sleep-is-your-superpower)
 {: #sleep-is-your-superpower }
@@ -60,4 +60,4 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 Matthew Walker  
 2019  
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-
+{%-include up.html-%}
