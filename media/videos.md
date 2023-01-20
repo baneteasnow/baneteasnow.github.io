@@ -5,6 +5,7 @@ last_modified_at: 2023-01-20
 title: "TED Videoları"
 ---
 
+{: #toc }
 * TOC
 {:toc class="toc1"} 
 
@@ -60,4 +61,5 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 Matthew Walker  
 2019  
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}
+
+<br />
