@@ -1,0 +1,19 @@
+---
+layout: page-6
+published: true
+last_modified_at: 2023-01-20
+title: "review"
+---
+
+{% for item in site.data.samplelist.list %}
+<h3>{{item.title}}</h3>
+{% for entry in item.subfolderitems %}
+  <div>{{ entry.description }}</div>
+  <div><i>by</i>{{ entry.by }}</div>
+  <div>{{ entry.date }}</div>
+  <div>{{ entry.place }}</div>
+  <div>{{ entry.duration }}</div>
+  <div>{{ entry.status }}</div>
+  <div>{{ entry.link }}</div>
+{% endfor %}
+{% endfor %}
