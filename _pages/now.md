@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-01-18
+last_modified_at: 2023-01-22
 published: true  
 ---
 
@@ -16,6 +16,10 @@ Psychology in Minutes  (2022)
 ⁜ 3  
 The Fate of Food (2020)  
 <i>by</i> Amanda Little  
+<br />  
+⁜ 4  
+101 Things to Learn in Art School (2013)  
+<i>by</i> Kit White  
 <br />
 
 <i><b>Yıl boyunca...</b></i>  
