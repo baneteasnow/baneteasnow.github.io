@@ -12,12 +12,15 @@ published: true
 ⁜ 2  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
-<br />  
+<br />
 ⁜ 3  
 101 Things to Learn in Art School (2013)  
 <i>by</i> Kit White  
 <br />
-
+⁜ 4  
+My Body (2022)  
+<i> by </i> Emily Ratajkowski  
+<br />  
 <i><b>Yıl boyunca...</b></i>  
 <br />
 &nbsp; &nbsp; ⁜ 1  
