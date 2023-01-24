@@ -14,10 +14,6 @@ Psychology in Minutes  (2022)
 <i>by</i> Marcus Weeks  
 <br />  
 ⁜ 3  
-The Fate of Food (2020)  
-<i>by</i> Amanda Little  
-<br />  
-⁜ 4  
 101 Things to Learn in Art School (2013)  
 <i>by</i> Kit White  
 <br />
