@@ -18,8 +18,8 @@ Psychology in Minutes  (2022)
 <i>by</i> Kit White  
 <br />
 ⁜ 4  
-My Body (2022)  
-<i> by </i> Emily Ratajkowski  
+Ebeveynlerimize Neden Borçlu Değiliz? (2022)  
+<i> by </i> Barbara Bleisch    
 <br />  
 <i><b>Yıl boyunca...</b></i>  
 <br />
