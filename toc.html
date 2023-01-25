@@ -1,0 +1,16 @@
+---
+# /_data/samplelist.yml
+layout: page-6
+published: true
+last_modified_at: 2023-01-25
+title: "TED videolari, belgeseller, podcastler"
+---
+
+{% for item in site.data.samplelist.toc %}
+<h3>{{item.title}}</h3>
+<div class="link1">
+{% for entry in item.subfolderitems %}
+<div>{{entry.page}}</div>
+{% endfor %}
+</div>
+{% endfor %}
