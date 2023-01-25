@@ -29,7 +29,7 @@ Dağınıklığın ve belki de bir sonraki adım olan istifçiliğin arkasında 
 
 Peki, Feng Shui dağınıklığı gidermek için nasıl kullanılır? Feng Shui baguası bir yaşam alanının çeşitli bölümlerinin orada yaşayan kişilerin yaşamlarının belirli alanları ile olan bağlantısını ortaya koyan bir şemadır. Baguada dokuz alan vardır.
 
-![feng shui baguası - sayfa 57](/assets/graph/the-feng-shui-bagua-clear-your-clutter-with-feng-shui.jpg) 
+![feng shui baguası - sayfa 57](/assets/graph/2022-04-16/the-feng-shui-bagua-clear-your-clutter-with-feng-shui.jpg) 
 (sayfa 57)
 
 Feng Shui bagua şemasının nasıl kullanılacağı kitapta yer alıyor. Bu şemanın mekana doğru şekilde uyarlanması ile birlikte dağınıklığın bulunduğu kısımda düzensiz akan enerjinin artık düzenli hale geleceği, kişinin hayatında da ilgili konunun daha olumluya gideceği belirtiliyor.

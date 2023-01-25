@@ -120,17 +120,17 @@ Haklılık şeması hayattaki gerçek sınırları kabul etme becerisi ile iliş
 
 - Şemalar, çocukluk çevreleri yıkıcı olduğu zaman geişir (sayfa 45).
 
-![Yıkıcı Erken Donem Cevre Ornekleri - sayfa 45](/assets/graph/yikici-erken-donem-cevre-ornekleri.jpg)
+![Yıkıcı Erken Donem Cevre Ornekleri - sayfa 45](/assets/graph/2022-07-29/yikici-erken-donem-cevre-ornekleri.jpg)
 <center>sayfa 45</center>
 
 - Bir çocuğun gelişmesi için neye ihtiyacı vardır? (sayfa 46)
 
-![Gelismek icin neye ihtiyacimiz var - sayfa 46](/assets/graph/gelismek-icin-neye-ihtiyacimiz-var.jpg)
+![Gelismek icin neye ihtiyacimiz var - sayfa 46](/assets/graph/2022-07-29/gelismek-icin-neye-ihtiyacimiz-var.jpg)
 <center>sayfa 46</center>
 
 İyi uyum gösteren yetişkinler olabilmemiz için çocukluğumuzun kusursuz olmasına gerek yoktur. Bir çocuğun güvende hissetmeye, başkaları ile bağlılık hissetmeye, özerkliğe, özsaygıyı, kendini ifade etmeye ve gerçekçi sınırlara ihtiyacı vardır. (sayfa 46)
 
-![11 sema ozeti - sayfa 57](/assets/graph/11-sema-ozeti.jpg)
+![11 sema ozeti - sayfa 57](/assets/graph/2022-07-29/11-sema-ozeti.jpg)
 <center>sayfa 57</center>
 
 Şema ile başa çıkmanın üç biçimi (sayfa 60):

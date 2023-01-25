@@ -41,12 +41,12 @@ Bu model B. F. Skinner tarafından "stimulus, response, reward" kavramları ile 
 
 Günlük bazda gerçekleşen küçük iyileşmeler başarılı sonuçları beraberinde getiriyor. Örneğin her gün sağlayacağınız 1%'lik bir iyiye gidiş, bir yıl sonunda 37 kat daha iyi sonuç almanızla sonuçlanacaktır. Alışkanlıklar, kişisel gelişimin bileşik faizi gibidir. İyi alışkanlıkların artan değeri yıllar içinde anlaşılır, değişim birden bire gerçekleşmez. Küçük değişimler günlük yaşamda bir fark yaratmadıkları izlenimi oluşturabilir, bu nedenle bu sürecin hakkını vermek zorlayıcı hale gelebilir. Başarı günlük alışkanlıkların bir sonucudur, hayat tarzını bir anda değiştirmekle elde edilemez.
 
-![The effect of small habits compound over time - sayfa 20](/assets/graph/the-effects-of-small-habits-compound-over-time.jpg)
+![The effect of small habits compound over time - sayfa 20](/assets/2022-08-14/graph/the-effects-of-small-habits-compound-over-time.jpg)
 <center>sayfa 20</center>
 
 İyi alışkanlıkları kazanmak veya kötü alışkanlıkları yenmek size zor geliyorsa, bu gelişim becerinizi kaybettiğiniz anlamına gelmez. Büyük ihtimalle henüz Gizli Potansiyel Platosu'nu aşamamışsınızdır. 
 
-![The plateau of latent potential - sayfa 25](/assets/graph/the-plateau-of-latent-potential.jpg)
+![The plateau of latent potential - sayfa 25](/assets/graph/2022-08-14/the-plateau-of-latent-potential.jpg)
 <center>sayfa 25</center>
 
 İlerlemenin genellikle doğrusal ve hatta hızlı olması beklenir. Gerçekte, çabaların sonuçları gecikmeli olarak ortaya çıkar. Bu zaman, aylar hatta yıllar alabilir. Onca sıkı çalışmaya rağmen sonuçların henüz ortaya çıkmadığı bu dönemde cesaret kırıcı bir 'hayal kırıklığı vadisi' dönemi yaşanır. Halbuki, tüm o çabalar boşa gitmemiştir, sadece kenarda beklemektedir. Çok geçmeden önceki çabaların tam değeri ortaya çıkar. 

@@ -43,7 +43,7 @@ David Evans, artakalan yemekleri 'atık zincirindeki boşluk' olarak tanımlıyo
 
 > Evsel gıda atığını inceleyenler 'gıda'nın 'artakalan', ardından 'fazlalık' ve en sonunda 'atık' haline geldiği noktaya odaklanabilir. (sayfa 104)
 
-![Food Waste Graph - sayfa 105](/assets/graph/food-waste-graph.jpg)
+![Food Waste Graph - sayfa 105](/assets/graph/2022-07-25/food-waste-graph.jpg)
 <center>sayfa 105</center>
 
 Bu grafik, kitap boyunca incelenen gıdanın atığa dönüşme sürecini temsil etmektedir. David Evans, bireylerin doğrudan etkilerinin yanı sıra materyal ve sosyal faktörlere grafikte yer verdiğini ancak bunu şamtik gösterimi kolaylaştırmak için olduğunun altını çiziyor. Ona göre, insan olmayan faktörler (örneğin çöp kutusu, ev teknolojileri, gıda paketleri, gıdanın bozulmasına sebep olan mikroplar) ve sosyal faktörler (tat, gelenek, zaman, aile içi ilişkiler) içiçe geçerek bu süreci şekillendiriyor. 

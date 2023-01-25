@@ -50,7 +50,7 @@ Elementlerin kendi arasında iki farklı döngü ilişkisi vardır.
 - **Yaratıcı Döngü**: Ateş toprağı yaratır, toprak metal içerir, metal suyu tutar, su ağacı besler, ağaç ateşi besler.
 - **Yıpratıcı Döngü**: Ateş metali eritir, metal ağacı keser, ağaç toprağı tüketir, toprak suyu emer, su ateşi söndürür. 
 
-[yaratıcı döngü - sayfa 30](/assets/graph/creative-cycle-feng-shui-yasamla-uyum-ve-denge-sanati 7.19.44 PM.jpg)
-[yıpratıcı döngü - sayfa 31](/assets/graph/destructive-cycle-feng-shui-yasamla-uyum-ve-denge-sanati.jpg)
+[yaratıcı döngü - sayfa 30](/assets/graph/2021-09-18/creative-cycle-feng-shui-yasamla-uyum-ve-denge-sanati.jpg)
+[yıpratıcı döngü - sayfa 31](/assets/graph/2021-09-18/destructive-cycle-feng-shui-yasamla-uyum-ve-denge-sanati.jpg)
 
 Evlerin farklı odalarında Feng Shui'nin nasıl uygulanacağı ile ilgili ayrıntılar da kitapta yer alıyor.

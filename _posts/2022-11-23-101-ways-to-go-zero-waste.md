@@ -41,7 +41,7 @@ Kathryn Kellogg, Sıfır Atık İçin 101 Yol isimli kitabında çevreye duyarl�
 
 > Atık denetimi, kendi atık akışınızı inceleme yöntemidir. Oldukça kişiseldir, tek bir doğru yoktur, herkes kendi çözümünü geliştirebilir. Bunun için öncelikle çöp kutusu ve geridönüşüm kutusuna atılan her bir parçanın listelenmesi, çöpe ve geridönüşüme sık yollanan parçaların belirlenmesi ve gelişim noktalarının tespit edilmesi gerekir. Yapılacak düzenlemelerle daha az atık çıkarmak mümkündür. - s. 22 - Çöpünüzü Bilin de Atın
 
-![bunu-satin-almali-miyim - sayfa-23](/assets/graph/bunu-satin-almali-miyim-sayfa-23.jpg)
+![bunu-satin-almali-miyim - sayfa-23](/assets/graph/2022-11-23/bunu-satin-almali-miyim-sayfa-23.jpg)
 <center> "Bunu satın almalı mıyım?" - sayfa 23</center>  
 
 
