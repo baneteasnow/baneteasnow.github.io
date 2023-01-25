@@ -7,10 +7,10 @@ title: "TED videolari, belgeseller, podcastler"
 ---
 
 {% for item in site.data.samplelist.toc %}
-<h3>{{item.title}}</h3>
-<div class="link1">
+<h3>{{ item.title }}</h3>
+<div>
 {% for entry in item.subfolderitems %}
-<div>{{entry.page}}</div>
+  <div><i>{{ entry.page }}</i></div>
 {% endfor %}
 </div>
 {% endfor %}
