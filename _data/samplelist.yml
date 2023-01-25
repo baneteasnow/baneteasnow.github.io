@@ -1,44 +1,27 @@
-list:
-  - title: Sleep Is Your Superpower | Matt Walker | TED (Video)
+toc:
+  - title: TED Videoları
     subfolderitems:
-      - description: |
-          Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
-          Uyku eksikliği beyin ve vücut fonksiyonlarının işleyişi ile ilgili çeşitli sorunlara yol açıyor. Aynı zamanda, uyku öğrenmeyi de destekliyor. Uykuya, öğrenmenin gerçekleşmesinden hemen sonra olduğu gibi, hemen öncesinde de ihtiyaç duyuluyor. Bu konuda yapılan bir araştırmada, gün ortasında şekerlemelerine veya kafein tüketmelerine izin verilmeyen bir grup yetişkin iki farklı gruba ayrılıyor. İlk grup kesintisiz uyurken, diğer grubun aralıksız uyumasına izin verilmiyor. Ertesi gün bir listede yer alan bilgileri öğrenmeleri isteniyor ve bu sırada bir MRİ cihazı ile beyinlerinin görüntüsü elde ediliyor. Sonuçta, uyku eksikliğinin yeni bilgi depolama yapma kabiliyeti üzerinde 40% oranında azaltıcı etkiye sahip olduğu tespit ediliyor.
-          Uyku, yaşlanma ve unutkanlık ile de ilişkili. İnsanlar yaşlandıkça, öğrenme ve hafıza yetenekleri azalmaya başlıyor. Ancak, uyku kalitesinin düşmüş olmasının bu noktada payı olduğu biliniyor. Uyku hapları ise, uykunun yarattığı doğal etkiyi yaratamadığı için yetersiz kalıyor.
-          Uyku ve kalp damar sağlığı arasındaki ilişkiyi anlamak adına, dünya üzerinde 70'ten fazla ülkede her yıl sürdürülen bir deneye bakmak yeterli; yaz saati - kış saati uygulaması. Baharda yaz saati uygulaması ile yaşadığımız bir saatlik uyku kaybını takiben kalp krizi oranlarında 24% artış olurken, sonbaharda saatlerin bir saat geri alınması ile uyku süresinde meydana gelen artışın yaşanan kalp krizlerini 21% oranında düşürdüğü tespit edilmiş.
-          Uyku süresi kısaldıkça, yaşam süresi de kısalıyor. Dünya Sağlık Örgütü (WHO) gece vardiyasında çalışmayı bir kanserojen etki olarak kabul etmiştir.
-          Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınmanın yanı sıra, iyi bir uyku için her gün aynı saatte uyumak ve uyanmak oldukça önemli. Bu düzen, hafta içi veya hafta sonu olduğuna bakılmaksızın devam ettirilmeli. Çünkü, uyku alışkanlığı uykunun hem süresini hem de kalitesini etkiliyor. Oda sıcaklığının da serin olması (18°C) uyku kalitesine olumlu etki yapıyor.
-      - by: Matthew Walker
-      - date: Nisan 2019
-      - place: Kanada
-      - duration: 19'18"
-      - status: TED
-      - link: https://www.youtube.com/watch?v=5MuIMqhT8DM
-  - title: The Paradox of Choice | Barry Schwartz | TED (Video)
+      - page: <a href="https://www.nonfictionbooks.xyz/media/videos.html#the-suprising-habits-of-original-thinkers">The Surprising Habits of Original Thinkers | Adam Grant (TED)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/videos.html#the-paradox-of-choice">The Paradox of Choice | Barry Schwartz (TED)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/videos.html#sleep-is-your-superpower">Sleep Is Your Superpower | Matt Walker (TED)</a>
+  - title: Belgeseller
     subfolderitems:
-      - description: |
-          Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
-          Batı'daki tüm sanayi toplumlarının resmi doğması, vatandaşların esenliğinin en üst noktaya çıkarılması için kişisel özgürlüklerin de en üst noktaya taşınmasını gerektirir. Ancak bu özgürlük alanının tanınması ile, birey kendisi için en iyi olan kararları verebilir. Özgürlük alanını genişletmenin yolu ise seçenekleri arttırmaktır. Daha çok seçenek daha fazla özgürlüğü, daha fazla özgürlük ise daha fazla esenliği beraberinde getirir. Ancak, seçim özgürlüğü beraberinde önemli bir detayı da taşır. Herhangi bir konuda her gün tekrar ve tekrar karar vermemiz gerekir, karar vermek aslında bir zorunluluğa dönüşmüştür.
-          Yapılan tüm bu seçimler ise, bireyler üzerinde iki olumsuz etki yaratır. Seçim yapmak, özgürleşmeyi beraberinde getirmek yerine tutulup kalmaya yol açar. O kadar fazla sayıda seçenek vardır ki, seçim yapmak adeta bir eziyete dönüşür. İlk olumsuz etki budur. İkincisi ise, bu durumu aşarak bir seçim yapmış olsak bile, karşılaştığımız sonuç, daha az seçeneğe sahip olduğumuz günlere kıyasla bizi giderek daha az tatmin eder hale gelir.
-          Ne kadar fazla seçenek ile karşı karşıya kalırsak, sonuçta belirlediğimiz seçeneğin o oranda bizi hayal kırıklığına uğratma ihtimali yükselir. Diğer bir nokta ise, 'fırsat maliyeti'dir. Bizim tercih ettiğimiz seçenek dışında kalan alternatif seçeneklerin aslında ne kadar çekici olduğu düşüncesi tatminsizlik yaratır. Sonuçta, tercihimiz aslında o kadar kötü olmasa da, alternatifleri düşündüğümüzde fırsat maliyetinden etkilenmek kaçınılmaz olur.
-          Seçenek sayısının fazla olması beklentiyi yükseltir. Mutluluğun sırrı, beklentinin düşük olmasıdır. bugün içinde bulunduğumuz sanayileşmiş ve beklentileri mükemmele yakını yakalamak olan toplumlarda, umut edilebilecek en iyi şey mükemmele ulaşmak haline geldi. Ancak, beklentilerin neredeyse tavana vurduğu bir ortamda beklentimizi karşılayabilir olduğumuzu görmek oldukça şaşırtıcı olurdu. Hiç kuşkusuz ki, bu durum seçeneklerinin ne kadar az olduğunu görerek mutsuz olan sanayileşmemiş ülkelerde geçerli değildir, çünkü orada az seçenek tatminsizlik yaratmaktadır.
-          Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan seçimden tatminsizlik duyulduğunda sorumluluk sizden başka herkese aitken, seçenek sayısının onlarca hatta yüzlerce olduğu günümüzde ise tercihimiz hayal kırıklığı yaratıyorsa, bunun tek sorumlusunun 'kendimiz' olduğunu düşünürüz. Çünkü daha iyisini yapabilecekken, hataya yer olmadığını düşünürüz.
-      - by: Barry Schwartz
-      - date: Temmuz 2005
-      - place: İngiltere
-      - duration: 20'24"
-      - status: TED
-      - link: https://www.youtube.com/watch?v=VO6XEQIsCoM
-  - title: The Surprising Habits of Original Thinkers | Adam Grant | TED (Video)
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#the-social-dilemma">The Social Dilemma (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#terms-and-conditions-may-apply">Terms and Conditions May Apply (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#minimalism">Minimalism: A Documentary About the Important Things (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#food-inc">Food, Inc. (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#the-true-cost">The True Cost (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#forks-over-knives">Forks Over Knives (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#food-fighter">Food Fighter (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#the-inventor">The Inventor: Out for Blood in Silicon Valley (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#cowspiracy">Cowspiracy: The Sustainability Secret (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#the-september-issue">The September Issue (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#the-minimalists">The Minimalists: Less Is Now (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#take-your-pills">Take Your Pills (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#what-the-health">What The Health (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#seaspiracy">Seaspiracy (Belgesel)</a>
+      - page: <a href="https://www.nonfictionbooks.xyz/media/documentaries.html#earthlings">Earthlings (Belgesel)</a>
+  - title: Podcastler
     subfolderitems:
-      - description: |
-          Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
-          Grant ile bir öğrencisi tarafından gerçekleştirilen bir anket çalışmasına göre, orijinaller ne çok erkenci ne de erteleyici gruptalar. Kendilerine bir görev verildikten sonra, başka bir işle uğraşıyor gibi görünseler de aslında yaptıkları şey arka planda o görevin ayrıntıları üzerinde düşünmek. Aslında, belli bir oranda erteleme konuya taze bir bakış açısı getirmeye yarıyor. Orijinaller, bir konuda çalışmaya hızlı başlıyorlar ve çalışmalarını geç bitiriyorlar. Endişeleri ve korkularını herkesten farklı yönetiyorlar ve çoğu kötü olmak üzere pek çok fikir üretiyorlar. En sonunda ise, bu fikirlerinden bir tanesi ise yarıyor.
-          Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu üzerinde düşünmeye zaman ayırmak için işleri biraz ağırdan almanın yaratıcılığı körüklemek için iyi bir fikir olduğuna işaret ediyor. Ortaya çıkan fikirlerden şüphe ederek ve deneme korkusunu aşarak motivasyonun sağlandığını ve iyi fikirler için aslında bir sürü kötü fikre ihtiyaç olduğunu vurguluyor. Özgün olabilmek kolay olmasa da Grant'a göre dünyayı daha iyi bir yer haline getirmenin en iyi yolu da bu.
-      - by: Adam Grant
-      - date: Şubat 2016
-      - place: Kanada
-      - duration: 15'24"
-      - status: TED
-      - link: https://www.youtube.com/watch?v=fxbCHn6gE3U
-      
+      - page: <a href"https://www.nonfictionbooks.xyz/media/podcasts.html">podcast</a>
+     
