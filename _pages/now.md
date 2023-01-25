@@ -4,6 +4,7 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2023-01-22
 published: true  
 ---
+📖
 
 ⁜ 1  
 101 Essays That Will Change The Way You Think (2016)  
