@@ -1,4 +1,5 @@
 ---
+# https://www.nonfictionbooks.xyz/toc.html
 layout: page-9
 published: true
 last_modified_at: 2023-01-20
@@ -50,7 +51,7 @@ Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan 
 
 Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
 
-Uyku eksikliği beyin ve vücut fonksiyonlarının işleyişi ile ilgili çeşitli sorunlara yol açıyor. Aynı zamanda, uyku öğrenmeyi de destekliyor. Uykuya, öğrenmenin gerçekleşmesinden hemen sonra olduğu gibi, hemen öncesinde de ihtiyaç duyuluyor. Bu konuda yapılan bir araştırmada, gün ortasında şekerlemelerine veya kafein tüketmelerine izin verilmeyen bir grup yetişkin iki farklı gruba ayrılıyor. İlk grup kesintisiz uyurken, diğer grubun aralıksız uyumasına izin verilmiyor. Ertesi gün bir listede yer alan bilgileri öğrenmeleri isteniyor ve bu sırada bir MRİ cihazı ile beyinlerinin görüntüsü elde ediliyor. Sonuçta, uyku eksikliğinin yeni bilgi depolama yapma kabiliyeti üzerinde 40% oranında azaltıcı etkiye sahip olduğu tespit ediliyor.
+Uyku eksikliği beyin ve vücut fonksiyonlarının işleyişi ile ilgili çeşitli sorunlara yol açıyor. Aynı zamanda, uyku öğrenmeyi de destekliyor. Uykuya, öğrenmenin gerçekleşmesinden hemen sonra olduğu gibi, hemen öncesinde de ihtiyaç duyuluyor. Bu konuda yapılan bir araştırmada, gün ortasında şekerlemelerine veya kafein tüketmelerine izin verilmeyen bir grup yetişkin iki farklı gruba ayrılıyor. İlk grup kesintisiz uyurken, diğer grubun aralıksız uyumasına izin verilmiyor. Ertesi gün bir listede yer alan bilgileri öğrenmeleri isteniyor ve bu sırada bir MRI cihazı ile beyinlerinin görüntüsü elde ediliyor. Sonuçta, uyku eksikliğinin yeni bilgi depolama yapma kabiliyeti üzerinde 40% oranında azaltıcı etkiye sahip olduğu tespit ediliyor.
 
 Uyku, yaşlanma ve unutkanlık ile de ilişkili. İnsanlar yaşlandıkça, öğrenme ve hafıza yetenekleri azalmaya başlıyor. Ancak, uyku kalitesinin düşmüş olmasının bu noktada payı olduğu biliniyor. Uyku hapları ise, uykunun yarattığı doğal etkiyi yaratamadığı için yetersiz kalıyor.
 
