@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-01-22
+last_modified_at: 2023-01-26
 published: true  
 ---
 📖
@@ -19,8 +19,8 @@ Psychology in Minutes  (2022)
 <i>by</i> Kit White  
 <br />
 ⁜ 4  
-Ebeveynlerimize Neden Borçlu Değiliz? (2022)  
-<i> by </i> Barbara Bleisch    
+Infinitely Full of Hope (2021)  
+<i> by </i> Tom Whyman  
 <br />  
 <i><b>Yıl boyunca...</b></i>  
 <br />
