@@ -49,4 +49,3 @@ Kathryn Kellogg, Sıfır Atık İçin 101 Yol isimli kitabında çevreye duyarl�
 
 "Sıfır atık, mükemmelliyetten değil, daha iyi seçimler yapmaktan geçer." maddesi ile son bulan kitap, sıfır atığa başlangıç, mutfakta sıfır atık ve yemek yapmak, banyoda kullanılan ürünler ve kişisel bakımda sıfır atık, ev temizliğinde sıfır atık, bilinçli bir tüketici olmak, işte, okulda, dışarıda atıksız yemek, yolculuk ve ulaşımda sıfır atık felsefesi, özel günlerde sıfır atığın nasıl mümkğn olabileceği gibi başlıkları ele alıyor. 
 
-{% include star-rating.html rating=3 %}
