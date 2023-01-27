@@ -25,12 +25,12 @@ Kökeni Çin'e dayanan Feng Shui'nin temel amacı evrende ve doğada uyum ve den
 Bir evin yeri, içindeki eşyalar ve bu eşyaların nasıl yerleştirildiği, her bir odada kullanılan renkler ve benzer etkenler o ortamın dengeli mi, dengesiz mi, güç verici mi, yoksa tüketici mi, olumlu mu olumsuz mu olacağını belirler. Feng Shui kurallarını uygulayarak dengeli bir ortam yaratmak mümkündür. Feng Shui, insanın kaderini iyi yönlendirmek amacıyla fiziksel çevresini düzenlemesini içeren kadim bir sanattır.
 
 Feng shui uygulamasında çeşitli akımlar vardır: 
-	- Toprak Şekli / Şekil Okulu
-		- İnsanın içinde yaşadığı coğrafya onun yaşamını nasıl etkiler?
-	- Pusula Okulu
-		- Pusulanın farklı yönleri farklı etkiler getirir.
-	- Siyah Şapka Okulu
-		- California - Berkeley Üniversitesi'nin öncülüğünde feng shui daha fazla duruma uyarlanabilir hale gelmiştir. Analiz için bir binanın ya da odanın giriş kapısı başlama noktası kabul edilir. Bu okul, sade ve basit olması nedeniyle batıda popüler hale gelmiştir.
+	- Toprak Şekli / Şekil Okulu  
+		- İnsanın içinde yaşadığı coğrafya onun yaşamını nasıl etkiler?  
+	- Pusula Okulu  
+		- Pusulanın farklı yönleri farklı etkiler getirir.  
+	- Siyah Şapka Okulu  
+		- California - Berkeley Üniversitesi'nin öncülüğünde feng shui daha fazla duruma uyarlanabilir hale gelmiştir. Analiz için bir binanın ya da odanın giriş kapısı başlama noktası kabul edilir. Bu okul, sade ve basit olması nedeniyle batıda popüler hale gelmiştir. 
 
 Feng Shui, insanın kaderini iyi yönlendirmek amacıyla fiziksel çevresini düzenlemesini içeren kadim bir sanattır. Kişisel çevrede denge ve uyum yaratmak için renklerin ve şekillerin yanı sıra, beş ana unsur - toprak, su, ateş, metal ve ağaç - birbiri ile kaynaştırıp uyumlamak gereklidir. Böylece, evrenin iki zıt fakat birbirini tamamlayan gücü, yin ve yang güçleri arasında denge sağlanır. 
 
