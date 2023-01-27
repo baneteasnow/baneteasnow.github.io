@@ -21,10 +21,6 @@ Psychology in Minutes  (2022)
 Infinitely Full of Hope (2021)  
 <i> by </i> Tom Whyman  
 <br />  
-⁜ 5  
-The Basics of Essay Writing (2021)  
-<i> by </i> Nigel Warburton  
-<br />  
 <i><b>Yıl boyunca...</b></i>  
 <br />
 &nbsp; &nbsp; ⁜ 1  
