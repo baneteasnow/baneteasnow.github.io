@@ -1,10 +1,9 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-01-26
+last_modified_at: 2023-01-27
 published: true  
 ---
-📖
 
 ⁜ 1  
 101 Essays That Will Change The Way You Think (2016)  
@@ -21,6 +20,10 @@ Psychology in Minutes  (2022)
 ⁜ 4  
 Infinitely Full of Hope (2021)  
 <i> by </i> Tom Whyman  
+<br />  
+⁜ 5  
+The Basics of Essay Writing (2021)  
+<i> by </i> Nigel Warburton  
 <br />  
 <i><b>Yıl boyunca...</b></i>  
 <br />
