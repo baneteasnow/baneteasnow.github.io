@@ -6,7 +6,7 @@ published: true
 
 [kitaplık](/bookshelf.html)  
 [english](/books.html)  
-[tl;dr](/summary.html). 
+[tl;dr](/summary.html)  
 [kategoriler](/category.html)  
 [tekrar okumaya değer kitaplar](/reread.html)  
 [okuma listesi](/readinglist.html)  
