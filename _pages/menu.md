@@ -15,5 +15,5 @@ published: true
 [2021](/2021.html)  
 [antilibrary](/antilibrary.html)  
 [ted videoları, belgeseller, podcastler](/toc.html)  
-___[{%-include numberofposts.html-%}](/map)___  
+___[{%-include numberofposts.html-%}](/menu)___  
   
