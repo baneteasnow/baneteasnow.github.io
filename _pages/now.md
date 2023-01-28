@@ -14,14 +14,10 @@ Psychology in Minutes  (2022)
 <i>by</i> Marcus Weeks  
 <br />
 ⁜ 3  
-101 Things to Learn in Art School (2013)  
-<i>by</i> Kit White  
-<br />
-⁜ 4  
 Infinitely Full of Hope (2021)  
 <i> by </i> Tom Whyman  
 <br />
-⁜ 5  
+⁜ 4  
 Socialism 101 (2022)  
 <i> by </i> Kathleen Sears  
 <br />  
