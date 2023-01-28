@@ -13,7 +13,7 @@ _[okuma listesi](/readinglist.html)_
 _[2023](/2023.html)_  
 _[2022](/2022.html)_  
 _[2021](/2021.html)_  
-_[antilibrary](/antilibrary.html)  
+_[antilibrary](/antilibrary.html)_  
 _[ted videoları, belgeseller, podcastler](/toc.html)_  
 ___[{%-include numberofposts.html-%}](/menu)___  
   
