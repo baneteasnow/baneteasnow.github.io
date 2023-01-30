@@ -3,14 +3,14 @@
 layout: page-9
 published: true
 last_modified_at: 2023-01-20
-title: "podcasts"
+title: "makaleler"
 ---
 
 {: #toc }
 * TOC
 {:toc class="toc1"} 
 
-#### [xxx | xxx (Podcast)](#xxx)
+#### [xxx | xxx (Article)](#xxx)
 {: #xxx-xxx }
 
 xxx
