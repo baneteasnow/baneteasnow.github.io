@@ -24,3 +24,6 @@ toc:
   - title: Podcastler
     subfolderitems:
        - page: <a href="https://www.nonfictionbooks.xyz/media/podcasts.html">podcast</a>
+- title: Makaleler
+    subfolderitems:
+       - page: <a href="https://www.nonfictionbooks.xyz/media/articles.html">makaleler</a>
