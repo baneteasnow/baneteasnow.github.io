@@ -62,3 +62,6 @@ The War of Art (2022)
 
 ⁜  
  
+term
+: definition
+  
