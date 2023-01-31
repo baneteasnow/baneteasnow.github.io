@@ -16,6 +16,22 @@ Psychology in Minutes  (2022)
 ⁜ 3  
 Socialism 101 (2022)  
 <i> by </i> Kathleen Sears  
+<br />
+⁜ 4  
+How to Think (2021)  
+<i> by </i> John Paul Minda  
+<br />
+⁜ 5  
+Why We Do The Things We Do (2016)  
+<i> by </i> Joel Levy  
+<br />
+⁜ 6  
+Yazmak Üzerine Notlar (2021)  
+<i> by </i> Jules Renard  
+<br />
+⁜ 7  
+The War of Art (2022)  
+<i> by </i> Steven Pressfield  
 <br />  
 <i><b>Yıl boyunca...</b></i>  
 <br />
