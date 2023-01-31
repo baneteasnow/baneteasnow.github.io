@@ -1,7 +1,7 @@
 ---
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-01-28
+last_modified_at: 2023-01-31
 published: true  
 ---
 
@@ -14,10 +14,6 @@ Psychology in Minutes  (2022)
 <i>by</i> Marcus Weeks  
 <br />
 ⁜ 3  
-Infinitely Full of Hope (2021)  
-<i> by </i> Tom Whyman  
-<br />
-⁜ 4  
 Socialism 101 (2022)  
 <i> by </i> Kathleen Sears  
 <br />  
