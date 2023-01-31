@@ -61,7 +61,12 @@ The War of Art (2022)
 <br />
 
 ⁜  
- 
+
+Here's a sentence with a footnote. [^aaa]
+
+[^aaa]: This is the footnote.
+
+
 term
 : definition
   
