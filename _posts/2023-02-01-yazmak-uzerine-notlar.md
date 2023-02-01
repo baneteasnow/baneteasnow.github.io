@@ -12,7 +12,7 @@ description: "Yazmak Üzerine Notlar, Jules Renard'ın günlüğünden alıntıl
 last_modified_at: 2023-02-01
 published: true
 posted: 2023-02-01
--tag: "yazmak ve yaratıcılık"
+tag: "yazmak ve yaratıcılık"
 instagram: "no"
 insta: "no"
 reread: "no"
