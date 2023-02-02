@@ -24,7 +24,7 @@ Sanat herkese ait bir fikirdir ve her kültürde bulunur. Duygusal, estetik veya
 
 Bir nesnenin vaya imgenin yaratım süreçlerini bilmek, onun yarattığı etkiyi yorumlamayı ve kavramayı kolaylaştırır. Taklit tam da bu nedenle sanat eğitiminde yer alır. 
 
-Sanat, yansıttıkları ile ortak bir duygu oluşturmak için çabalar. Sanat Okulunda Öğrenilecek 101 Şey, Kit Whıte'ın bu ortak duygu oluşumuna yönelik derlediği 101 farklı unsuru aktarıyor.
+Sanat, yansıttıkları ile ortak bir duygu oluşturmak için çabalar. Sanat Okulunda Öğrenilecek 101 Şey, Kit White'ın bu ortak duygu oluşumuna yönelik derlediği 101 farklı unsuru aktarıyor.
 
 1  
 : _Sanat her şey olabilir_; doğrudan bir deneyimi ortak bir duygu oluşumu için yansıtır. 
@@ -39,10 +39,10 @@ Sanat, yansıttıkları ile ortak bir duygu oluşturmak için çabalar. Sanat Ok
 : Sanat, kavramsal, deneysel, duygusal veya biçimsel işlemler sonucunda ortaya çıkan imgelerin birikerek bütünü oluşturulması ile ortaya çıkar.
 
 9  
-: _Sanat bir anlatım biçimidir._ Anlatım yöntemi biçimi, ne anlatıldığı ise içeriği oluşturur. Biçim, içeriğe uygun olarak şekilmelidir. 
+: _Sanat bir anlatım biçimidir._ Anlatım yöntemi biçimi, ne anlatıldığı ise içeriği oluşturur. Biçim, içeriğe uygun olarak şekillenmelidir. 
 
 12  
-: _Algılmak karşılıklı bir eylemdir._ Görme eylemi sırasında izleyiciler, önlerine konan görsel uyarıcıya kendi bilinçli ve bilinçdışı tepkileri uyarınca karşılık verirler. Her bir işaret, kendi biçimini bulur ve anlam kazanır. Görüntüyü kontrol edebilirsiniz ama ona verilen tepkiyi kontrol edemezsiniz. 
+: _Algılamak karşılıklı bir eylemdir._ Görme eylemi sırasında izleyiciler, önlerine konan görsel uyarıcıya kendi bilinçli ve bilinçdışı tepkileri uyarınca karşılık verirler. Her bir işaret, kendi biçimini bulur ve anlam kazanır. Görüntüyü kontrol edebilirsiniz ama ona verilen tepkiyi kontrol edemezsiniz. 
 
 14  
 : _Her görüntü bir soyutlamadır._ Görüntüler, asla görüntüledikleri şey değildir; geçmişte kalan bir şeyin kavramsal veya mekanik bir yeniden üretimidir. Metafor simgesel dilin aracıdır ve bir sanat dilidir. 
@@ -66,7 +66,7 @@ Sanat, yansıttıkları ile ortak bir duygu oluşturmak için çabalar. Sanat Ok
 : Sanat, yaparak keşfetme sürecidir. Bir dünyayı keşfetmek yaratmaktan daha kolaydır.
 
 30  
-: İyi bir çalışma, hızlı bir gözatmadan veya uzun bir bakıştan sonra göze her zaman hoş görünendir.
+: İyi bir çalışma, hızlı bir göz atmadan veya uzun bir bakıştan sonra göze her zaman hoş görünendir.
 
 32  
 : _Bağlam anlamı belirler._
@@ -92,27 +92,26 @@ Sanat, yansıttıkları ile ortak bir duygu oluşturmak için çabalar. Sanat Ok
 50  
 : _Biçimcilik bir sanat yapıtını görsel dil bileşenlerine dayanarak değerlendirmektir. Bu öğeler, biçim, çizgi, renk ve kompozisyondur._
 
-[Renk Teorisi](#renk-teorisi)
+####[Renk Teorisi](#renk-teorisi)
 {: #renk-teorisi}
 
 51  
-Ana renkler  
-: kırmızı
-: mavi
-: sarı
+: Ana renkler  
+- kırmızı
+- mavi
+- sarı
 
-Ara renkler  
-: mor = mavi + kırmızı
-: yeşil = mavi + sarı
-: turuncu = kırmızı + sarı
+: Ara renkler  
+- mor = mavi + kırmızı
+- yeşil = mavi + sarı
+- turuncu = kırmızı + sarı
 
-Üçüncü derece renkler
-: diğer tüm renkler
+: Üçüncü derece renkler
+- diğer tüm renkler
 
 52  
 : _Her rengin tamamlayıcı denilen bir karşıtı vardır._
-
-Tamamlayıcı renkler renk çemberinde karşıt uçlarda yer alır. Kompozisyon içinde bir rengin renk yoğunluğunu artırmak için yanına tamamlayıcı renk eklemek gerekir.
+: Tamamlayıcı renkler renk çemberinde karşıt uçlarda yer alır. Kompozisyon içinde bir rengin renk yoğunluğunu artırmak için yanına tamamlayıcı renk eklemek gerekir.
 - kırmızı ↔ yeşil
 - turuncu ↔ mavi
 - sarı ↔ mor
