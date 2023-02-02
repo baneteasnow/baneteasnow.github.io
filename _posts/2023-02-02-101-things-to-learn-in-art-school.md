@@ -92,7 +92,7 @@ Sanat, yansıttıkları ile ortak bir duygu oluşturmak için çabalar. Sanat Ok
 50  
 : _Biçimcilik bir sanat yapıtını görsel dil bileşenlerine dayanarak değerlendirmektir. Bu öğeler, biçim, çizgi, renk ve kompozisyondur._
 
-####[Renk Teorisi](#renk-teorisi)
+#### [Renk Teorisi](#renk-teorisi)
 {: #renk-teorisi}
 
 51  
