@@ -16,8 +16,8 @@
               file.extname == '.JPG' or 
               file.extname == '.JPEG' %}
 
-      {% assign filenameparts = file.path | split: "/" | sort: 'date' | reverse %}
-      {% assign filename = filenameparts | last | replace: file.extname,"" | sort: 'date' | reverse %}
+      {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
       <a href="{{ file.path }}" title="{{ filename |  replace:  "-"," " }}"> 
         <!--<img src="{{ file.path }}" alt="{{ filename |  replace:  "-"," " }}" />-->
