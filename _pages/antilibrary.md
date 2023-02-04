@@ -6,5 +6,5 @@ title: "antilibrary"
 ---
   
 
-{% include image-gallery.html folder="/assets/antilibrary" %}
+{% include image-gallery.html folder="/assets/antilibrary" | sort: 'date' | reverse %}
 
