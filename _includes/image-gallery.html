@@ -19,7 +19,7 @@
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
-      <a href="{{ file.path }}" title="{{ filename |  replace:  "-"," " }}"> 
+      <a href="{{ file.path | sort: 'date' | reverse }}" title="{{ filename |  replace:  "-"," " }}"> 
         <!--<img src="{{ file.path }}" alt="{{ filename |  replace:  "-"," " }}" />-->
        <!--<span><div style="word-wrap: break-word !important; font-size: 55%; color: #777">{{ filename }}</div></span>-->
         <img src="{{ file.path }}?q=50&h=50" alt="{{ filename |  replace:  "-"," " }}" />
