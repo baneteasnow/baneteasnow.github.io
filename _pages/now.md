@@ -39,6 +39,12 @@ The War of Art (2022)
 <br />  
 <i><b>Yıl boyunca...</b></i>  
 <br />
+⁜ 8  
+On Being a Master Therapist (2017)  
+<i> by </i> Jeffrey A. Kottler, Jon Carlson.   
+<br />  
+<i><b>Yıl boyunca...</b></i>  
+<br />
 &nbsp; &nbsp; ⁜ 1  
 &nbsp; &nbsp; Mucize Dolu Bir Yıl (2015)  
 &nbsp; &nbsp; <i>by</i> Marianne Williamson  
