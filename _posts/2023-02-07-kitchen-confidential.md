@@ -16,7 +16,7 @@ tag: "biyografi"
 instagram: "no"
 insta: "no"
 reread: "no"
-rating :"5"
+rating: "5"
 image: "/assets/new/kitchen-confidential.jpg"
 ---
 
