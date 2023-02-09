@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "284"
+num: "284"
 image: "/assets/new/on-being-a-therapist.jpg"
 ---
 

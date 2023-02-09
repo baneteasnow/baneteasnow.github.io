@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "279"
+num: "279"
 image: "/assets/new/atomic-habits.jpg"
 ---
 

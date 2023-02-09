@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "297"
+num: "297"
 image: "/assets/new/the-seven-spiritual-laws-of-success.jpg"
 ---
 

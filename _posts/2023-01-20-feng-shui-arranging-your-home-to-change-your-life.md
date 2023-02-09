@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "296"
+num: "296"
 image: "/assets/new/feng-shui-arranging-your-home-to-change-your-life.jpg"
 ---
 

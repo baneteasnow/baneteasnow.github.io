@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "299"
+num: "299"
 image: "/assets/new/101-things-to-learn-in-art-school.jpg"
 ---
 

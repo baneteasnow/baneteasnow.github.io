@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "291"
+num: "291"
 image: "/assets/new/how-to-stay-sane-in-an-age-of-division.jpg"
 ---
 

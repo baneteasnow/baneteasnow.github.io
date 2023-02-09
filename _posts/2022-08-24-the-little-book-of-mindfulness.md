@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "2"
-eng: "-"
-no: "282"
+num: "282"
 image: "/assets/new/the-little-book-of-mindfulness.jpg"
 ---
 

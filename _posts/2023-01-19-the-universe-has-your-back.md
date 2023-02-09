@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "295"
+num: "295"
 image: "/assets/new/the-universe-has-your-back.jpg"
 ---
 

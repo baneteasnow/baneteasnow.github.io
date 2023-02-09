@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "298"
+num: "298"
 image: "/assets/new/yazmak-uzerine-notlar.jpg"
 ---
 

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "292"
+num: "292"
 image: "/assets/new/masal-terapi.jpg"
 ---
 

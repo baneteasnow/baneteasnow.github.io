@@ -16,9 +16,8 @@ tag: "sosyoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
-eng: "-"
 rating: "4"
-no: "287"
+num: "287"
 image: "/assets/new/why-the-germans-do-it-better.jpg"
 ---
 
