@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "210"
+num: "210"
 image: "/assets/new/factfulness.jpg"
 ---
 

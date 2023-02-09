@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
 no: "222"
 image: "/assets/new/why-we-love-dogs-eat-pigs-and-wear-cows.jpg" 
 ---

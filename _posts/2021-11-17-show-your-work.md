@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "204"
+num: "204"
 image: "/assets/new/show-your-work.jpg"
 ---
 

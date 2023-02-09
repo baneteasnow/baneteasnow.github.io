@@ -17,8 +17,7 @@ instagram: "https://www.instagram.com/p/CfBnXUPoIZu/"
 insta: "yes"
 reread: "yes"
 rating: "3"
-eng: "-"
-no: "245"
+num: "245"
 image: "/assets/new/hayvan-haklari-ve-veganizm.jpg"
 ---
 

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "250"
+num: "250"
 image: "/assets/new/the-end-of-education.jpg"
 ---
 

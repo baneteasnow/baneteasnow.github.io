@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "201"
+num: "201"
 image: "/assets/new/zehirsiz-ev.jpg" 
 ---
 

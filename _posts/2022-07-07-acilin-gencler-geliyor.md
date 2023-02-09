@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "268"
+num: "268"
 image: "/assets/new/acilin-gencler-geliyor.jpg"
 ---
 

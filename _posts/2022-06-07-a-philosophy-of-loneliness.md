@@ -17,8 +17,7 @@ instagram: "https://www.instagram.com/p/CfRmmELoOtX/"
 insta: "yes"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "255"
+num: "255"
 image: "/assets/new/a-philosophy-of-loneliness.jpg"
 ---
 

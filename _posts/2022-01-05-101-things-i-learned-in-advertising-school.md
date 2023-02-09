@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "213"
+num: "213"
 image: "/assets/new/101-things-i-learned-in-advertising-school.jpg"
 ---
 

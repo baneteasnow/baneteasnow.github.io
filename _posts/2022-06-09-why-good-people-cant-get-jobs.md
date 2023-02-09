@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "257"
+num: "257"
 image: "/assets/new/why-good-people-cant-get-jobs.jpg"
 ---
 

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "241"
+num: "241"
 image: "/assets/new/clear-your-clutter-with-feng-shui.jpg"
 ---
 

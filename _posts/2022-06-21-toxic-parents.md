@@ -18,8 +18,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "264"
+num: "264"
 image: "/assets/new/toxic-parents.jpg"
 ---
 

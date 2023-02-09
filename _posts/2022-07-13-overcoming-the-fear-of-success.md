@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "270"
+num: "270"
 image: "/assets/new/overcoming-the-fear-of-success.jpg"
 ---
 

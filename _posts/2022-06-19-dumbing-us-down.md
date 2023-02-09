@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "263"
+num: "263"
 image: "/assets/new/dumbing-us-down.jpg"
 ---
 

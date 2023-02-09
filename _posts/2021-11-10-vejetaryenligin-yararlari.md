@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "203"
+num: "203"
 image: "/assets/new/vejetaryenligin-yararlari.jpg" 
 ---
 

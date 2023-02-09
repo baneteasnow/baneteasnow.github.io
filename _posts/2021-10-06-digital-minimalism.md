@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "197"
+num: "197"
 image: "/assets/new/digital-minimalism.jpg"
 ---
 

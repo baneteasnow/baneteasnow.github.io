@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "249"
+num: "249"
 image: "/assets/new/deep-medicine.jpg"
 ---
 

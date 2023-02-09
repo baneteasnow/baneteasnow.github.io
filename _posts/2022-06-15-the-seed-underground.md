@@ -17,8 +17,7 @@ insta: "yes"
 instagram: "https://www.instagram.com/p/CfmVg3BIs9B/"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "260"
+num: "260"
 image: "/assets/new/the-seed-underground.jpg"  
 ---
  

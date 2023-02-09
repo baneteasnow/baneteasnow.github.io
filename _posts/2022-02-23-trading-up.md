@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "226"
+num: "226"
 image: "/assets/new/trading-up.jpg" 
 ---
 

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "232"
+num: "232"
 image: "/assets/new/butun-cocuklar-iyidir.jpg"
 ---
 

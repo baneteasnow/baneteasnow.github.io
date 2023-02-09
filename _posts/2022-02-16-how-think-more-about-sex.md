@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "224"
+num: "224"
 image: "/assets/new/how-to-think-more-about-sex.jpg"
 ---
 

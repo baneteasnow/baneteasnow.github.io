@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "256"
+num: "256"
 image: "/assets/new/insanely-simple.jpg"
 ---
 

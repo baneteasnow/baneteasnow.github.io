@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "218"
+num: "218"
 image: "/assets/new/redesign-your-life-with-feng-shui.jpg"
 ---
 

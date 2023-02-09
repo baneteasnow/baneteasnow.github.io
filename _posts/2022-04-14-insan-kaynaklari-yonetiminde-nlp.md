@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "2"
-eng: "-"
-no: "240"
+num: "240"
 image: "/assets/new/insan-kaynaklari-yonetiminde-nlp.jpg"
 ---
 

@@ -18,8 +18,7 @@ instagram: "https://www.instagram.com/p/CW9-ycAJW7P/"
 insta: "yes"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "206"
+num: "206"
 image: "/assets/new/silent-spring.jpg"
 ---
 

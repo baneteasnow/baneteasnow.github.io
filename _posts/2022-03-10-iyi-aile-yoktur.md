@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "230"
+num: "230"
 image: "/assets/new/iyi-aile-yoktur.jpg"
 ---
 

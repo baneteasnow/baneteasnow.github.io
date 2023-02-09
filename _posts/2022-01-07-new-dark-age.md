@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "215"
+num: "215"
 image: "/assets/new/new-dark-age.jpg"
 ---
 

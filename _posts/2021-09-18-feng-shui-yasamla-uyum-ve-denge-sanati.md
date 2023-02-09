@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "194"
+num: "194"
 image: "/assets/new/feng-shui-yasamla-uyum-ve-denge-sanati.jpg"
 ---
 

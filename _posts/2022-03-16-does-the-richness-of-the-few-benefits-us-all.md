@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "233"
+num: "233"
 image: "/assets/new/does-the-richness-of-the-few-benefits-us-all.jpg"
 ---
 

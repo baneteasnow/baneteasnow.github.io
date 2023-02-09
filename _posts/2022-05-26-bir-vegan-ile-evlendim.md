@@ -17,8 +17,7 @@ insta: "yes"
 instagram: "https://www.instagram.com/p/CfKI1YYrLI8/"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "252"
+num: "252"
 image: "/assets/new/bir-vegan-ile-evlendim.jpg"
 ---
 

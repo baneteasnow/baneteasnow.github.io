@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "236"
+num: "236"
 image: "/assets/new/the-laws-of-simplicity.jpg"
 ---
 

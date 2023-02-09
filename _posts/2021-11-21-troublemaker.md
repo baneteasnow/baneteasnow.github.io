@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "205"
+num: "205"
 image: "/assets/new/troublemaker.jpg"
 ---
 

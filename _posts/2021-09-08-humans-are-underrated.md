@@ -17,8 +17,7 @@ instagram: "yes"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "192"
+num: "192"
 image: "/assets/new/humans-are-underrated.jpg"
 ---
 

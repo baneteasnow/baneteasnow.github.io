@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "238"
+num: "238"
 image: "/assets/new/reading-the-world.jpg"
 ---
 

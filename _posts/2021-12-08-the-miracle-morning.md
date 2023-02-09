@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "208"
+num: "208"
 image: "/assets/new/the-miracle-morning.jpg"
 ---
 

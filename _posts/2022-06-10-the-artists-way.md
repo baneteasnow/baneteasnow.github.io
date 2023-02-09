@@ -17,8 +17,7 @@ instagram: "https://www.instagram.com/p/CfeZagCoUIN/"
 insta: "yes"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "258"
+num: "258"
 image: "/assets/new/the-artists-way.jpg"
 ---
 

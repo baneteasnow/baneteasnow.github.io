@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "239"
+num: "239"
 image: "/assets/new/the-burnout-society.jpg"
 ---
 

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "227"
+num: "227"
 image: "/assets/new/a-woman-makes-a-plan.jpg"
 ---
 

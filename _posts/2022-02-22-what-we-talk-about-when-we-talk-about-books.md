@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "225"
+num: "225"
 image: "/assets/new/what-we-talk-about-when-we-talk-about-books.jpg"
 ---
 

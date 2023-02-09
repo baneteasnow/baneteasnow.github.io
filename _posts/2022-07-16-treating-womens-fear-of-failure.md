@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "271"
+num: "271"
 image: "/assets/new/treating-womens-fear-of-failure.jpg"
 ---
 

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "221"
+num: "221"
 image: "/assets/new/the-bomber-mafia.jpg"
 ---
 

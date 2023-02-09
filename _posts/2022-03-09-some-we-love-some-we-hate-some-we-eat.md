@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "229"
+num: "229"
 image: "/assets/new/some-we-love-some-we-hate-some-we-eat.jpg"
 ---
 

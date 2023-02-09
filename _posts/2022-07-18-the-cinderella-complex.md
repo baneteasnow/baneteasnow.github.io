@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "272"
+num: "272"
 image: "/assets/new/the-cinderella-complex.jpg"
 ---
 
