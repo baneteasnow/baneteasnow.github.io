@@ -18,7 +18,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
-no: "5"
+num: "5"
 image: "/assets/old/the-fifth-discipline.jpg"
 ---
 

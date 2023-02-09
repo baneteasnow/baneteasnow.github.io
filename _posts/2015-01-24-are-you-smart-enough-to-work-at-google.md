@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
-no: "7"
+num: "7"
 image: "/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 
