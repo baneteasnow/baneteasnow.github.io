@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "161"
+num: "161"
 image: "/assets/old/the-guide-to-the-future-of-medicine.jpg"
 ---
 

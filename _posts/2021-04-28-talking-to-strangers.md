@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "169"
+num: "169"
 image: "/assets/new/talking-to-strangers.jpg"
 ---
 

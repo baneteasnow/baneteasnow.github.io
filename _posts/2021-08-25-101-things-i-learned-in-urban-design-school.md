@@ -16,8 +16,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "190"
+num: "190"
 image: "/assets/new/101-things-i-learned-in-urban-design-school.jpg"
 ---
 

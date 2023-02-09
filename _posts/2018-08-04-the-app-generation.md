@@ -16,8 +16,7 @@ tag: "sosyoloji"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "105"
+num: "105"
 image: "/assets/old/the-app-generation.jpg"
 ---
 

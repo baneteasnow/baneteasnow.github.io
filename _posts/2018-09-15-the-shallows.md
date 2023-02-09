@@ -16,8 +16,7 @@ tag: "üretkenlik ve teknoloji"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "110"
+num: "110"
 image: "/assets/old/the-shallows.jpg"
 ---
 

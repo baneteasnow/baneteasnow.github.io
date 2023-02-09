@@ -16,8 +16,7 @@ tag: "yaratıcılık"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "151"
+num: "151"
 image: "/assets/old/its-not-how-good-you-are-its-how-good-you-want-to-be.jpg"
 ---
 

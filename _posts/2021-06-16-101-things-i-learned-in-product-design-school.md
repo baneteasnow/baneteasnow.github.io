@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "177"
+num: "177"
 image: "/assets/new/101-things-i-learned-in-product-design-school.jpg"
 ---
 

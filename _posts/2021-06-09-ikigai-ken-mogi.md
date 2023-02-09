@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "176"
+num: "176"
 image: "/assets/new/ikigai-ken-mogi.jpg"
 ---
 

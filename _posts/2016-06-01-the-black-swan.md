@@ -18,7 +18,6 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "29"
-eng: "-"
 image: "/assets/old/the-black-swan.jpg"
 ---
 

@@ -16,8 +16,7 @@ tag: "beslenme"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "167"
+num: "167"
 image: "/assets/new/the-omnivores-dilemma.jpg"
 ---
 

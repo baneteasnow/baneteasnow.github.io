@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "188"
+num: "188"
 image: "/assets/new/evrim-kurami-ve-mekanizmalari.jpg"
 ---
 

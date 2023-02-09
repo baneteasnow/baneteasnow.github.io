@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "89"
+num: "89"
 image: "/assets/old/the-penguin-and-the-leviathan.jpg"
 ---
 

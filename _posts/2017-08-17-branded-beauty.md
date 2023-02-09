@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
 num: "66"
 image: "/assets/old/branded-beauty.jpg"
 ---

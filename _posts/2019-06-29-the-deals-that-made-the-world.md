@@ -16,8 +16,7 @@ tag: "çalışma yaşamı"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "135"
+num: "135"
 image: "/assets/old/the-deals-that-made-the-world.jpg"
 ---
 

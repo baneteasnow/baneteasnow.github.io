@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
 num: "73"
 image: "/assets/old/big-data-at-work.jpg"
 ---

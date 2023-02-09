@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-no: "164"
+num: "164"
 eng: "The futurist Gerd Leonhard's 'Technology and Humanity' is a critical treatise that sheds light on the other side of technology that it is less clear. We are witnessing how technology shapes our lives every day, and we read about how it can automate daily tasks. This book discusses the challenges posed by the exponential development of technology. It mainly focuses on ethical issues. A must-read book for anyone interested in technology."
 image: "/assets/old/technology-vs-humanity.jpg"
 ---

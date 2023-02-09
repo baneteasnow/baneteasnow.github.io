@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "5"
 num: "45"
-eng: "-"
 image: "/assets/old/future-crimes.jpg"
 ---
 

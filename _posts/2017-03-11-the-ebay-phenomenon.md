@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
 num: "50"
 image: "/assets/old/the-ebay-phenomenon.jpg"
 ---

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "178"
+num: "178"
 image: "/assets/new/keep-going.jpg"
 ---
 

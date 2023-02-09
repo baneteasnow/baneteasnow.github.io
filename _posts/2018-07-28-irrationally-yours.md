@@ -16,8 +16,7 @@ tag: "davranışsal iktisat"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "104"
+num: "104"
 image: "/assets/old/irrationally-yours.jpg"
 ---
 

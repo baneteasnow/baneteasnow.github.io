@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "37"
-eng: "-"
 image: "/assets/old/101-things-i-learned-in-engineering-school.jpg"
 ---
 

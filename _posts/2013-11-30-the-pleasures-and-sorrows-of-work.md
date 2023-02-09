@@ -18,7 +18,6 @@ insta: "no"
 reread: "yes"
 num: "2"
 rating: "5"
-eng: "-"
 image: "/assets/old/the-pleasures-and-sorrows-of-work.jpg"
 ---
 

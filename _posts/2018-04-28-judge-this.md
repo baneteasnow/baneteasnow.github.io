@@ -16,8 +16,7 @@ tag: "endüstriyel tasarım"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "92"
+num: "92"
 image: "/assets/old/judge-this.jpg"
 ---
 

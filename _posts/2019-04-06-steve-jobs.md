@@ -16,8 +16,7 @@ tag: "biyografi"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "128"
+num: "128"
 image: "/assets/old/steve-jobs.jpg"
 ---
 

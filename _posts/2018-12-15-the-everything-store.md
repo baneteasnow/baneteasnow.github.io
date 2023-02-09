@@ -16,8 +16,7 @@ tag: "biyografi"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "119"
+num: "119"
 image: "/assets/old/the-everything-store.jpg"
 ---
 

@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
 num: "72"
 image: "/assets/old/infinite-distraction.jpg"
 ---

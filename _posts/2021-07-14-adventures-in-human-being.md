@@ -18,8 +18,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "183"
+num: "183"
 image: "/assets/new/adventures-in-human-being.jpg"
 ---
 

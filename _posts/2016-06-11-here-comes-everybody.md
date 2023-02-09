@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
 num: "30"
 image: "/assets/old/here-comes-everybody.jpg"
 ---

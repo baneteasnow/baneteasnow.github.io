@@ -17,7 +17,7 @@ instagram: "yes"
 insta: "no"
 reread: "no"
 rating: "4"
-no: "191"
+num: "191"
 eng: "'How to avoid a Climate Disaster' by Microsoft co-founder and philanthropist Bill Gates is an urgent call for action on climate change. According to Bill Gates, in order to prevent the climate crisis, there is no other way but to achieve zero carbon emissions as soon as possible. Although it will be a huge challenge, he is optimistic because of the upcoming technological developments in clean energy. Overall, this book is a guideline for the basics of climate change."
 image: "/assets/new/how-to-avoid-a-climate-disaster.jpg"
 ---

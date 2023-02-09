@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
 num: "42"
 image: "/assets/old/the-new-digital-age.jpg"
 ---

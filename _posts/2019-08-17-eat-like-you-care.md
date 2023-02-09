@@ -16,8 +16,7 @@ tag: "veganlık"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "142"
+num: "142"
 image: "/assets/old/eat-like-you-care.jpg"
 ---
 

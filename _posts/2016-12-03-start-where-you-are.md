@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
 num: "40"
 image: "/assets/old/start-where-you-are.jpg"
 ---

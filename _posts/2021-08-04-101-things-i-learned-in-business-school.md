@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "186"
+num: "186"
 image: "/assets/new/101-things-i-learned-in-business-school.jpg"
 ---
 

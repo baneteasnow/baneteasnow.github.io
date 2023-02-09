@@ -16,8 +16,7 @@ tag: "sağlık"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "125"
+num: "125"
 image: "/assets/old/fast-food-nation.jpg"
 ---
 

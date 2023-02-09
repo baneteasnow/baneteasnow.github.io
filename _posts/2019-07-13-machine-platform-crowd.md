@@ -16,8 +16,7 @@ tag: "teknoloji"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "137"
+num: "137"
 image: "/assets/old/machine-platform-crowd.jpg"
 ---
 

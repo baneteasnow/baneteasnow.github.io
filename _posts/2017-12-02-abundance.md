@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "78"
+num: "78"
 image: "/assets/old/abundance.jpg"
 ---
 

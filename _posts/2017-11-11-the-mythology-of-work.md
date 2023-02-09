@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
 num: "75"
 image: "/assets/old/the-mythology-of-work.jpg"
 ---

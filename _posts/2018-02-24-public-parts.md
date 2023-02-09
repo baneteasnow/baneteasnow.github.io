@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "83"
+num: "83"
 image: "/assets/old/public-parts.jpg"
 ---
 

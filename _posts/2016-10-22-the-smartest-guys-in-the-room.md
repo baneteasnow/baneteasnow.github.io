@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "36"
-eng: "-"
 image: "/assets/old/the-smartest-guys-in-the-room.jpg"
 ---
 

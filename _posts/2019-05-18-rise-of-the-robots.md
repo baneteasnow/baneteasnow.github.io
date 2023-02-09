@@ -16,8 +16,7 @@ tag: "teknoloji"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "134"
+num: "134"
 image: "/assets/old/rise-of-the-robots.jpg"
 ---
 

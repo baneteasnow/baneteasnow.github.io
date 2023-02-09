@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "18"
-eng: "-"
 image: "/assets/old/the-experience-economy.jpg"
 ---
 

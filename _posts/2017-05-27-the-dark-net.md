@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "58"
-eng: "-"
 image: "/assets/old/the-dark-net.jpg"
 ---
 

@@ -16,8 +16,7 @@ tag: "teknoloji"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "132"
+num: "132"
 image: "/assets/old/the-singularity-is-near.jpg"
 ---
 

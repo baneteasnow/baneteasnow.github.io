@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-no: "81"
+num: "81"
 eng: "Tell Everyone is a fascinating read on the evolution of social media and how the culture is affected by it."
 image: "/assets/old/tell-everyone.jpg"
 ---

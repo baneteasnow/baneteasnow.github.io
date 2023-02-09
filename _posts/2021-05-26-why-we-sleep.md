@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "174"
+num: "174"
 image: "/assets/new/why-we-sleep.jpg"
 ---
 

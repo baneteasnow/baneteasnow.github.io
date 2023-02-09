@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "5"
 num: "46"
-eng: "-"
 image: "/assets/old/the-second-machine-age.jpg"
 ---
 

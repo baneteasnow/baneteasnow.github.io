@@ -16,8 +16,7 @@ tag: "yaratıcılık"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "156"
+num: "156"
 image: "/assets/old/steal-like-an-artist.jpg"
 ---
 

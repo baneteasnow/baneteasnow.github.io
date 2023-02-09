@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "181"
+num: "181"
 image: "/assets/new/durdugum-yer-benim-degil.jpg"
 ---
 

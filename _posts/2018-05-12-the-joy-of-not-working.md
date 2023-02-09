@@ -16,7 +16,7 @@ tag: "lifestyle"
 insta: "no"
 reread: "no"
 rating: "4"
-no: "94"
+num: "94"
 eng: "The Joy of Not Working explores our relationship with our jobs while reminding us we are more than our jobs."
 image: "/assets/old/the-joy-of-not-working.jpg"
 ---

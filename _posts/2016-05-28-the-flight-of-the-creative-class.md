@@ -18,7 +18,6 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "28"
-eng: "-"
 image: "/assets/old/the-flight-of-the-creative-class.jpg"
 ---
 

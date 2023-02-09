@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
 num: "15"
 image: "/assets/old/what-the-dog-saw.jpg"
 ---

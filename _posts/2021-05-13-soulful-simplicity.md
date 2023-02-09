@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "172"
+num: "172"
 image: "/assets/new/soulful-simplicity.jpg"
 ---
 

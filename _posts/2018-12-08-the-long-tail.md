@@ -16,8 +16,7 @@ tag: "ekonomi"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "118"
+num: "118"
 image: "/assets/old/the-long-tail.jpg"
 ---
 

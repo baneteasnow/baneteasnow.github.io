@@ -16,8 +16,7 @@ tag: "şehir planlama"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "120"
+num: "120"
 image: "/assets/old/the-new-urban-crisis.jpg"
 ---
 

@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "84"
+num: "84"
 image: "/assets/old/trust-me-im-lying.jpg"
 ---
 

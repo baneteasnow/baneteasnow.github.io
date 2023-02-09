@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-no: "85"
-eng: "-"
+num: "85"
 image: "/assets/old/work-rules.jpg"
 ---
 

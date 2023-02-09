@@ -16,8 +16,7 @@ tag: "internet"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "97"
+num: "97"
 image: "/assets/old/the-daily-you.jpg"
 ---
 

@@ -18,7 +18,6 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "56"
-eng: "-"
 image: "/assets/old/a-week-at-the-airport.jpg"
 ---
 

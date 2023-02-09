@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "27"
-eng: "-"
 image: "/assets/old/how-google-works.jpg"
 ---
 

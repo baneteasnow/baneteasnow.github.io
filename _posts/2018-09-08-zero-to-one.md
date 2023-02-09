@@ -16,8 +16,7 @@ tag: "girişimcilik"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "109"
+num: "109"
 image: "/assets/old/zero-to-one.jpg"
 ---
 

@@ -16,8 +16,7 @@ tag: "fen bilimleri"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "121"
+num: "121"
 image: "/assets/old/what-a-wonderful-world.jpg"
 ---
 

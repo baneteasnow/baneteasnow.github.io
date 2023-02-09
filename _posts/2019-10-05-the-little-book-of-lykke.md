@@ -16,8 +16,7 @@ tag: "lifestyle"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "149"
+num: "149"
 image: "/assets/old/the-little-book-of-lykke.jpg"
 ---
 

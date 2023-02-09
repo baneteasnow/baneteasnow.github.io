@@ -16,8 +16,7 @@ tag: "teknoloji"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "141"
+num: "141"
 image: "/assets/old/the-fourth-industrial-revolution.jpg"
 ---
 

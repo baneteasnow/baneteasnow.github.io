@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "165"
+num: "165"
 image: "/assets/new/15-things-you-should-give-up-to-be-happy.jpg"
 ---
 

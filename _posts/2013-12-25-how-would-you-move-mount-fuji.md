@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "3"
 num: "3"
-eng: "-"
 image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 

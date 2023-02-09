@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
 num: "11"
 image: "/assets/old/stumbling-on-happiness.jpg"
 ---

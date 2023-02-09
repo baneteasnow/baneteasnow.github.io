@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "4"
-eng: "-"
 image: "/assets/old/the-invisible-gorilla.jpg"
 ---
 

@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
 num: "33"
 image: "/assets/old/delivering-happiness.jpg"
 ---

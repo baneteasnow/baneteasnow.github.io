@@ -16,7 +16,7 @@ tag: "felsefe"
 insta: "no"
 reread: "yes"
 rating: "5"
-no: "114"
+num: "114"
 eng: "The Age of Absurdity: Why Modern Life makes it Hard to be Happy A fascinating read on philosophy and science of happiness in the modern age. We are living in abundance and continuously searching for pleasure, but all we have is dissatisfaction in many fields of life. Michael Foley analyzes the concept of happiness in regards to philosophy, literature, psychology and neurology."
 image: "/assets/old/the-age-of-absurdity.jpg"
 ---

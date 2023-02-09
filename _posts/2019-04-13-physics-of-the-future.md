@@ -16,8 +16,7 @@ tag: "gelecek ve trendler"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "129"
+num: "129"
 image: "/assets/old/physics-of-the-future.jpg"
 ---
 

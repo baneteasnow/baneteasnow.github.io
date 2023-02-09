@@ -16,8 +16,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "187"
+num: "187"
 image: "/assets/new/adventures-in-opting-out.jpg"
 ---
 

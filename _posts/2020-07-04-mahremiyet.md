@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "163"
+num: "163"
 image: "/assets/old/mahremiyet.jpg"
 ---
 

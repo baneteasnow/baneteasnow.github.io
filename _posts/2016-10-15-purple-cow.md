@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
 num: "35"
 image: "/assets/old/purple-cow.jpg"
 ---

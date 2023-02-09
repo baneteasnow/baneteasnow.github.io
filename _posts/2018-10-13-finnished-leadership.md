@@ -16,8 +16,7 @@ tag: "eğitim"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: "-"
-no: "113"
+num: "113"
 image: "/assets/old/finnished-leadership.jpg"
 ---
 

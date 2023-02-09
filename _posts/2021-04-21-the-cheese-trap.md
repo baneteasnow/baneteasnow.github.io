@@ -16,8 +16,7 @@ tag: "beslenme"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "168"
+num: "168"
 image: "/assets/new/the-cheese-trap.jpg"
 ---
 

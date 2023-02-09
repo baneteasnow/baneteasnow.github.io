@@ -16,8 +16,7 @@ tag: "psikoloji"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
-no: "136"
+num: "136"
 image: "/assets/old/good-business.jpg"
 ---
 

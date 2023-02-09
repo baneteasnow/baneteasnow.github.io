@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
 num: "64"
 image: "/assets/old/the-x-and-y-of-buy.jpg"
 ---

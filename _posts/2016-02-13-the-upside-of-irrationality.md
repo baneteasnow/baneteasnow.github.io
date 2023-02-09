@@ -19,7 +19,6 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "24"
-eng: "-"
 image: "/assets/old/the-upside-of-irrationality.jpg"
 ---
 

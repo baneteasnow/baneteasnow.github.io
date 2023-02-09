@@ -18,7 +18,6 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "25"
-eng: "-"
 image: "/assets/old/the-honest-truth-about-dishonesty.jpg"
 ---
 

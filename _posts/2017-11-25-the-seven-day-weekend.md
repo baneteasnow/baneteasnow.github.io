@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "-"
 num: "77"
 image: "/assets/old/the-seven-day-weekend.jpg"
 ---

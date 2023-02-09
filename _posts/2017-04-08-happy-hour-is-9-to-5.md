@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
 num: "53"
 image: "/assets/old/happy-hour-is-9-to-5.jpg"
 ---

@@ -17,7 +17,6 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
 num: "51"
 image: "/assets/old/sam-walton.jpg"
 ---

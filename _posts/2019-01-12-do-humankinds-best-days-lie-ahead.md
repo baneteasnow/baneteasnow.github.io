@@ -16,7 +16,7 @@ tag: "felsefe"
 insta: "no"
 reread: "yes"
 rating: "5"
-no: "123"
+num: "123"
 eng: "This short book transcribes the debate between four famous thinkers of our age. Steven Pinker and Matt Ridley are arguing for proposition while Alain de Botton and Malcolm Gladwell are on the opposite side. Pinker sums his point of view in 10 points with a holistic perspective and indicates global warming as the biggest threat. Following that, Ridley discusses that life is getting better for the majority in the world. On the other hand, Alain de Botton gives a few local examples only while Gladwell has the most realistic perspective. He says that wherever you are in this world is directly related to if your best days lie ahead or not."
 image: "/assets/old/do-humankinds-best-days-lie-ahead.jpg"
 ---

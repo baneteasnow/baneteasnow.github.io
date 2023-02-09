@@ -16,8 +16,7 @@ tag: "yaratıcılık"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "157"
+num: "157"
 image: "/assets/old/damn-good-advice.jpg"
 ---
 

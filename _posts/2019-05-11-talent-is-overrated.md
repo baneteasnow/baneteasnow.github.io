@@ -16,8 +16,7 @@ tag: "psikoloji"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "133"
+num: "133"
 image: "/assets/old/talent-is-overrated.jpg"
 ---
 

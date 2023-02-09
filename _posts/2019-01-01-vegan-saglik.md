@@ -16,8 +16,7 @@ tag: "sağlık"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "122"
+num: "122"
 image: "/assets/old/vegan-saglik.jpg"
 ---
 

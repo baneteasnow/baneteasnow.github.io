@@ -17,8 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "87"
+num: "87"
 image: "/assets/old/solving-the-procrastination-puzzle.jpg"
 ---
 

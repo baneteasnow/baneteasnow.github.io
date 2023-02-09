@@ -16,8 +16,7 @@ tag: "motivasyon"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "150"
+num: "150"
 image: "/assets/old/stop-talking-start-doing.jpg"
 ---
 

@@ -16,8 +16,7 @@ tag: "çalışma yaşamı"
 insta: "no"
 reread: "no"
 rating: "3"
-eng: "-"
-no: "96"
+num: "96"
 image: "/assets/old/the-business-romantic.jpg"
 ---
 

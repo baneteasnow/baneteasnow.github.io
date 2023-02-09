@@ -18,7 +18,6 @@ insta: "no"
 reread: "no"
 rating: "3"
 num: "57"
-eng: "-"
 image: "/assets/old/cybersecurity-and-cyberwar.jpg"
 ---
 

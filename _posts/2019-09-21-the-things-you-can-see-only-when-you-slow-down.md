@@ -16,8 +16,7 @@ tag: "lifestyle"
 insta: "no"
 reread: "yes"
 rating: "5"
-eng: "-"
-no: "147"
+num: "147"
 image: "/assets/old/the-things-you-can-see-only-when-you-slow-down.jpg"
 ---
 

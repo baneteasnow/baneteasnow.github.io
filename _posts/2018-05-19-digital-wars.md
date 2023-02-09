@@ -16,8 +16,7 @@ tag: "marka profili"
 insta: "no"
 reread: "no"
 rating: "3"
-no: "95"
-eng: "-"
+num: "95"
 image: "/assets/old/digital-wars.jpg"
 ---
 
