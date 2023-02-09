@@ -10,10 +10,8 @@ title: "books"
 <div>
   {% for post in site.posts %}
      <p>
-  {% if post.eng != "" or post.eng != nil or post.eng != "-" %}
-       <div style="visibility: hidden;"></div>
-       {% else %}
-   <div class="link1">  
+  {% if post.eng %}
+  <div class="link1">  
      <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a>
   </div>
   <div><i> {{ post.yazar }} </i></div>
