@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-no: "49"
+num: "49"
 eng: "-"
 image: "/assets/old/the-accidental-billionaires.jpg"
 ---

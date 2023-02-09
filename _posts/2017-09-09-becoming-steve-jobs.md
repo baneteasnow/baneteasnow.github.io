@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
-no: "68"
+num: "68"
 image: "/assets/old/becoming-steve-jobs.jpg"
 ---
 

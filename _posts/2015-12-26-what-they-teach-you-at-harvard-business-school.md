@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "21"
+num: "21"
 image: "/assets/old/what-they-teach-you-at-harvard-business-school.jpg"
 ---
 

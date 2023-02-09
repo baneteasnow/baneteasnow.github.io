@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "30"
+num: "30"
 image: "/assets/old/here-comes-everybody.jpg"
 ---
 

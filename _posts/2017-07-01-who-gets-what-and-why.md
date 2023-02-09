@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "4"
-no: "62"
+num: "62"
 eng: "-"
 image: "/assets/old/who-gets-what-and-why.jpg"
 ---

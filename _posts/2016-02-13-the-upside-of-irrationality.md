@@ -18,7 +18,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-no: "24"
+num: "24"
 eng: "-"
 image: "/assets/old/the-upside-of-irrationality.jpg"
 ---

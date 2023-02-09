@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "12"
+num: "12"
 image: "/assets/old/the-wisdom-of-crowds.jpg"
 ---
 

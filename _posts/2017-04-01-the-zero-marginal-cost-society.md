@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-no: "52"
+num: "52"
 eng: "-"
 image: "/assets/old/the-zero-marginal-cost-society.jpg"
 ---

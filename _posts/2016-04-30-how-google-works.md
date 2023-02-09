@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-no: "27"
+num: "27"
 eng: "-"
 image: "/assets/old/how-google-works.jpg"
 ---

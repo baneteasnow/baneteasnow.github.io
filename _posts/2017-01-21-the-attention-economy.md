@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-no: "44"
+num: "44"
 eng: "-"
 image: "/assets/old/the-attention-economy.jpg"
 ---

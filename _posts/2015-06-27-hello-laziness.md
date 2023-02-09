@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "9"
+num: "9"
 image: "/assets/old/hello-laziness.jpg"
 ---
 

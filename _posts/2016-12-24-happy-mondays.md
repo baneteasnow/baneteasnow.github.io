@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "43"
+num: "43"
 image: "/assets/old/happy-mondays.jpg"
 ---
 

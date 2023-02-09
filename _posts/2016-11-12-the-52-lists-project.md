@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "38"
+num: "38"
 image: "/assets/old/the-52-lists-project.jpg"
 ---
 

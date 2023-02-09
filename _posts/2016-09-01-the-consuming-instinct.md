@@ -18,7 +18,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
-no: "34"
+num: "34"
 image: "/assets/old/the-consuming-instinct.jpg"
 ---
 

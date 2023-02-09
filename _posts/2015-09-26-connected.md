@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "17"
+num: "17"
 image: "/assets/old/connected.jpg"
 ---
 

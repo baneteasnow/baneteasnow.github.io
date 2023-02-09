@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
-no: "26"
+num: "26"
 image: "/assets/old/how-starbucks-saved-my-life.jpg"
 ---
 

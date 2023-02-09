@@ -18,7 +18,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
-no: "60"
+num: "60"
 image: "/assets/old/augmented.jpg"
 ---
 

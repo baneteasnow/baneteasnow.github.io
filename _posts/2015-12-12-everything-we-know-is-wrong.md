@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
-no: "19"
+num: "19"
 eng: "-"
 image: "/assets/old/everything-we-know-is-wrong.jpg"
 ---

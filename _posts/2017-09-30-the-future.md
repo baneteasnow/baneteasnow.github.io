@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "70"
+num: "70"
 image: "/assets/old/the-future.jpg"
 ---
 

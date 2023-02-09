@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-no: "61"
+num: "61"
 eng: "-"
 image: "/assets/old/how-to-find-fulfilling-work.jpg"
 ---

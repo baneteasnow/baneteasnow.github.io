@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
-no: "65"
+num: "65"
 eng: "Hackers & Painters - Big Ideas From The Computer Age is one of my favourite books. The author has a PhD in Computer Science and studied painting afterwards. This book is composed of essays on many different topics, mostly from the perspective of a programmer. He is a terrific writer and tells his own experience in art, hacking and life in general."
 image: "/assets/old/hackers-and-painters.jpg"
 ---

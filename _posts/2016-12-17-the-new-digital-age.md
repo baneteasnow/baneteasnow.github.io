@@ -18,7 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
-no: "42"
+num: "42"
 image: "/assets/old/the-new-digital-age.jpg"
 ---
 
