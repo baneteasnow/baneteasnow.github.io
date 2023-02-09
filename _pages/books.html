@@ -10,7 +10,7 @@ title: "books"
 <div>
   {% for post in site.posts %}
      <p>
-{% if post.eng != "" and post.eng != nil and post.eng != "-" %}
+{% if post.eng %}
   <div class="link1">  
      <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a>
   </div>
