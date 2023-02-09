@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "207"
 image: "/assets/new/ikigai-garcia-miralles.jpg"
 ---
 

@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "228"
 image: "/assets/new/gocmek-ne-garip-sey-anne.jpg"
 ---
 

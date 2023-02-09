@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "103"
 image: "/assets/old/smart-cities-digital-nations.jpg"
 ---
 

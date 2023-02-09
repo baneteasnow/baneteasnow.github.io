@@ -19,6 +19,7 @@ insta: "yes"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "206"
 image: "/assets/new/silent-spring.jpg"
 ---
 

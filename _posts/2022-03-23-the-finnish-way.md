@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "234"
 image: "/assets/new/the-finnish-way.jpg"
 ---
 

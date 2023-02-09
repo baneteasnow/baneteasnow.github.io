@@ -18,6 +18,7 @@ insta: "no"
 reread: "yes"
 rating: "4"
 eng: "-"
+no: "193"
 image: "/assets/new/david-and-goliath.jpg"
 ---
 

@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "105"
 image: "/assets/old/the-app-generation.jpg"
 ---
 

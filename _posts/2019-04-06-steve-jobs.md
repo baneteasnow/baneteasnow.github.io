@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "128"
 image: "/assets/old/steve-jobs.jpg"
 ---
 

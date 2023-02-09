@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "2"
 eng: "-"
+no: "198"
 image: "/assets/new/bir-terapistin-gizemli-anilari.jpg"
 ---
 

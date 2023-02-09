@@ -18,6 +18,7 @@ insta: "yes"
 reread: "yes"
 rating: "3"
 eng: "-"
+no: "245"
 image: "/assets/new/hayvan-haklari-ve-veganizm.jpg"
 ---
 

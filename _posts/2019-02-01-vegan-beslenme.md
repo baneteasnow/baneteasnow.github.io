@@ -17,6 +17,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "126"
 image: "/assets/old/vegan-beslenme.jpg"
 ---
 

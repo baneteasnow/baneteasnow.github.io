@@ -17,6 +17,8 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
+eng: "-"
+no: "294"
 image: "/assets/new/the-laws-of-spirit.jpg"
 ---
 

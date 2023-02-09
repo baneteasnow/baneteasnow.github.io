@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "182"
 image: "/assets/new/101-things-i-learned-in-law-school.jpg"
 ---
 

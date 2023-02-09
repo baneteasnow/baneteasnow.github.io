@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "140"
 image: "/assets/old/black-ops-advertising.jpg"
 ---
 

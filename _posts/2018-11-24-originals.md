@@ -16,6 +16,7 @@ tag: "psikoloji"
 insta: "no"
 reread: "yes"
 rating: "4"
+no: "116"
 eng: "It is not enough that you have an idea. That idea can be an original one, but still, you need to show some effort to turn it into a reality. This means that you are taking a risk. Adam Grant tells the story of successful entrepreneurs who are also calculating risk-takers in his book 'Originals: How Non-Conformists Move the World'. Originals take risks just like the rest of us but what makes them different is how they plan their steps through the way. They take risks because they carefully calculate and select these risks. Creativity and originality are the other topics Grant mentions. Choosing the most proper or original idea, among different approaches that have been generated is not that easy. One idea might seem unique to you, but it doesn't mean it is going to be successful if you work on it. There are many variables for an idea to become an original one which makes a difference. An excellent read with several effective outcomes and lessons."
 image: "/assets/old/originals.jpg"
 ---

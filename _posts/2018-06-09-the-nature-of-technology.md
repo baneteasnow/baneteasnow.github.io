@@ -16,6 +16,7 @@ tag: "teknoloji"
 insta: "no"
 reread: "no"
 rating: "5"
+no: "98"
 eng: "The Nature of Technology addresses the nature and evolution of technology with straightforward and to-the-point language style."
 image: "/assets/old/the-nature-of-technology.jpg"
 ---

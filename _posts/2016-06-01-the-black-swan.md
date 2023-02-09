@@ -17,6 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
+no: "29"
 eng: "-"
 image: "/assets/old/the-black-swan.jpg"
 ---

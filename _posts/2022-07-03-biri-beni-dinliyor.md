@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "2"
 eng: "-"
+no: "267"
 image: "/assets/new/biri-beni-dinliyor.jpg"
 ---
 

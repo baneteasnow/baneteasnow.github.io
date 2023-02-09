@@ -18,6 +18,7 @@ insta: "yes"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "248"
 image: "/assets/new/the-paradox-of-choice.jpg"
 ---
 

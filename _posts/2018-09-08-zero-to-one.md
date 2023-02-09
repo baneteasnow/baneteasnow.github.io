@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "109"
 image: "/assets/old/zero-to-one.jpg"
 ---
 

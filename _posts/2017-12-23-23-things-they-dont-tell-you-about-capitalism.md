@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "80"
 image: "/assets/old/23-things-they-dont-tell-you-about-capitalism.jpg"
 ---
 

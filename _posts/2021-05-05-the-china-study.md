@@ -17,6 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
+no: "170"
 eng: "-"
 image: "/assets/new/the-china-study.jpg"
 ---

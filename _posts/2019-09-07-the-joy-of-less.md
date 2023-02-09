@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "145"
 image: "/assets/old/the-joy-of-less.jpg"
 ---
 

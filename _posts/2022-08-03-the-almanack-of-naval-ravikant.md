@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "276"
 image: "/assets/new/the-almanack-of-naval-ravikant.jpg"
 ---
 

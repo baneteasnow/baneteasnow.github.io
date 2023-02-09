@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "261"
 image: "/assets/new/hayvan-deneyleri.jpg"
 ---
 

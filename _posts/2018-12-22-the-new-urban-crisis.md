@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "120"
 image: "/assets/old/the-new-urban-crisis.jpg"
 ---
 

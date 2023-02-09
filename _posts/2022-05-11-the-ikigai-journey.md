@@ -18,6 +18,7 @@ insta: "yes"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "247"
 image: "/assets/new/the-ikigai-journey.jpg"
 ---
 

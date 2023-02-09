@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "115"
 image: "/assets/old/the-industries-of-the-future.jpg"
 ---
 

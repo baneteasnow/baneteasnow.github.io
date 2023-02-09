@@ -16,6 +16,7 @@ tag: "motivasyon"
 insta: "no"
 reread: "yes"
 rating: "5"
+no: "154"
 eng: "-"
 image: "/assets/old/design-the-life-you-love.jpg"
 ---

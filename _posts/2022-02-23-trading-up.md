@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "226"
 image: "/assets/new/trading-up.jpg" 
 ---
 

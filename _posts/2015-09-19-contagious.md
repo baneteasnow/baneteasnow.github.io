@@ -17,6 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
+no: "16"
 eng: "Jonah Berger is a marketing professor at the Wharton School. His book 'Contagious: Why Things Catch On' is about why some themes or ideas go viral, while others don't. He is explaining the concept of contagious in six principles (STEPPS). 
 Social Currency 
 Triggers 

@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "99"
 image: "/assets/old/beyond-measure.jpg"
 ---
 

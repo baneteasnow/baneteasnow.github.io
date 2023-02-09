@@ -17,6 +17,8 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
+eng: "-"
+no: "302"
 image: "/assets/new/kitchen-confidential.jpg"
 ---
 

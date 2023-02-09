@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "41"
 image: "/assets/old/101-things-i-learned-in-fashion-school.jpg"
 ---
 

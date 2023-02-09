@@ -17,6 +17,8 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
+eng: "-"
+no: "293"
 image: "/assets/new/ikigai-bettina-lemke.jpg"
 ---
 

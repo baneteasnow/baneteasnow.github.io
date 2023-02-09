@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "70"
 image: "/assets/old/the-future.jpg"
 ---
 

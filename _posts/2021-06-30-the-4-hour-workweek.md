@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "180"
 image: "/assets/new/the-4-hour-workweek.jpg"
 ---
 

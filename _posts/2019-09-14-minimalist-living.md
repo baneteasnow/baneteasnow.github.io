@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "146"
 image: "/assets/old/minimalist-living.jpg"
 ---
 

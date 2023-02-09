@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "288"
 image: "/assets/new/100-percent-mind-power.jpg"
 ---
 

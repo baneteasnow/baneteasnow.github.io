@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "2"
 eng: "-"
+no: "290"
 image: "/assets/new/101-ways-to-go-zero-waste.jpg"
 ---
 

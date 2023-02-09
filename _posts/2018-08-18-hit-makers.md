@@ -16,6 +16,7 @@ tag: "üretkenlik ve teknoloji"
 insta: "no"
 reread: "no"
 rating: "5"
+no: "106"
 eng: "Derek Thompson explains how some things become popular in the age of distraction, while others don’t."
 image: "/assets/old/hit-makers.jpg"
 ---

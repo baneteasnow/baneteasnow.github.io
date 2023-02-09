@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "100"
 image: "/assets/old/101-things-i-learned-in-culinary-school.jpg"
 ---
 

@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "243"
 image: "/assets/new/feng-shui-mekan-enerjinizi-degistirerek-yasaminizi-guzellestirin.jpg"
 ---
 

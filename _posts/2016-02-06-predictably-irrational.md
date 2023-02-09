@@ -17,6 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 rating: "5"
+no: "23"
 eng: "-"
 image: "/assets/old/predictably-irrational.jpg"
 ---

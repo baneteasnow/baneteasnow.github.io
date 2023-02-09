@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "259"
 image: "/assets/new/vegan-devrimi-ve-hayvan-ozgurlugu.jpg"
 ---
 

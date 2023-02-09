@@ -17,6 +17,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "92"
 image: "/assets/old/judge-this.jpg"
 ---
 

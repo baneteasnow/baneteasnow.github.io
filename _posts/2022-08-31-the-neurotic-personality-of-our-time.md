@@ -18,6 +18,7 @@ instagram: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "283"
 image: "/assets/new/the-neurotic-personality-of-our-time.jpg"
 ---
 

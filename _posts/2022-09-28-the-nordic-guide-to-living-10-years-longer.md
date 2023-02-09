@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "285"
 image: "/assets/new/the-nordic-guide-to-living-10-years-longer.jpg"
 ---
 

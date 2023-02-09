@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "230"
 image: "/assets/new/iyi-aile-yoktur.jpg"
 ---
 

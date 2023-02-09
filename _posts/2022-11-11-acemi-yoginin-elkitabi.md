@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "289"
 image: "/assets/new/acemi-yoginin-elkitabi.jpg"
 ---
 

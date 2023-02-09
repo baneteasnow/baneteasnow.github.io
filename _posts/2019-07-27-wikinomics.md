@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "139"
 image: "/assets/old/wikinomics.jpg"
 ---
 

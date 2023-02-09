@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "229"
 image: "/assets/new/some-we-love-some-we-hate-some-we-eat.jpg"
 ---
 

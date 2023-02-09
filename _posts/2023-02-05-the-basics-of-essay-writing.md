@@ -17,6 +17,8 @@ instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
+eng: "-"
+no: "301"
 image: "/assets/new/the-basics-of-essay-writing.jpg"
 ---
 

@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "268"
 image: "/assets/new/acilin-gencler-geliyor.jpg"
 ---
 

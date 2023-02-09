@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "112"
 image: "/assets/old/the-amazon-way.jpg"
 ---
 

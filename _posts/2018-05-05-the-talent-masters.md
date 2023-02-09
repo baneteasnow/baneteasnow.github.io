@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "93"
 image: "/assets/old/the-talent-masters.jpg"
 ---
 

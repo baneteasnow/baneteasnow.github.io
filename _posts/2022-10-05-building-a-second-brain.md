@@ -18,6 +18,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "286"
 image: "/assets/new/building-a-second-brain.jpg"
 ---
 

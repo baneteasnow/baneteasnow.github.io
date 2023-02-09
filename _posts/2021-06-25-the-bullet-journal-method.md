@@ -19,6 +19,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "179"
 image: "/assets/new/the-bullet-journal-method.jpg"
 ---
 

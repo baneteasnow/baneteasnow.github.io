@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "153"
 image: "/assets/old/ruhuna-pansuman.jpg"
 ---
 

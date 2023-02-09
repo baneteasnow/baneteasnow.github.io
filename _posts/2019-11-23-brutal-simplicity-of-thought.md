@@ -17,6 +17,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "155"
 image: "/assets/old/brutal-simplicity-of-thought.jpg"
 ---
 

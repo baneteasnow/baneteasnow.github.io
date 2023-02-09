@@ -18,6 +18,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "202"
 image: "/assets/new/how-to-take-smart-notes.jpg"
 ---
 

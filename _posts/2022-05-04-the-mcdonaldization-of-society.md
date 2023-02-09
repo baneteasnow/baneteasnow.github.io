@@ -18,6 +18,7 @@ insta: "no"
 reread: "yes"
 rating: "5"
 eng: "-"
+no: "246"
 image: "/assets/new/the-mcdonaldization-of-society.jpg"
 ---
 

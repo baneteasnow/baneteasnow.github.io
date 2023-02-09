@@ -17,6 +17,7 @@ insta: "no"
 reread: "no"
 rating: "5"
 eng: "-"
+no: "127"
 image: "/assets/old/bu-ulkeden-gitmek.jpg"
 ---
 

@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "4"
 eng: "-"
+no: "39"
 image: "/assets/old/101-things-i-learned-in-architecture-school.jpg"
 ---
 

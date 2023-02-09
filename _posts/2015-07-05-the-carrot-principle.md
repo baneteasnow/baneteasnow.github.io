@@ -18,6 +18,7 @@ insta: "no"
 reread: "no"
 rating: "3"
 eng: "-"
+no: "10"
 image: "/assets/old/the-carrot-principle.jpg"
 ---
 
