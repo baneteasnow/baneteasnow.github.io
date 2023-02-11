@@ -5,41 +5,27 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-01-31
+last_modified_at: 2023-02-11
 published: true  
 ---
 
 ⁜ 1  
-101 Essays That Will Change The Way You Think (2016)  
-<i>by</i> Brianna Wiest  
-<br />
-⁜ 2  
 Psychology in Minutes  (2022)  
 <i>by</i> Marcus Weeks  
 <br />
-⁜ 3  
+⁜ 2  
 Socialism 101 (2022)  
 <i> by </i> Kathleen Sears  
 <br />
-⁜ 4  
+⁜ 3  
 How to Think (2021)  
 <i> by </i> John Paul Minda  
 <br />
-⁜ 5  
+⁜ 4  
 Why We Do The Things We Do (2016)  
 <i> by </i> Joel Levy  
 <br />
-⁜ 6  
-Yazmak Üzerine Notlar (2021)  
-<i> by </i> Jules Renard  
-<br />
-⁜ 7  
-The War of Art (2022)  
-<i> by </i> Steven Pressfield  
-<br />  
-<i><b>Yıl boyunca...</b></i>  
-<br />
-⁜ 8  
+⁜ 5  
 On Being a Master Therapist (2017)  
 <i> by </i> Jeffrey A. Kottler, Jon Carlson.   
 <br />  
