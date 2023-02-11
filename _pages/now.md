@@ -29,32 +29,6 @@ Why We Do The Things We Do (2016)
 On Being a Master Therapist (2017)  
 <i> by </i> Jeffrey A. Kottler, Jon Carlson.   
 <br />  
-<i><b>Yıl boyunca...</b></i>  
-<br />
-&nbsp; &nbsp; ⁜ 1  
-&nbsp; &nbsp; Mucize Dolu Bir Yıl (2015)  
-&nbsp; &nbsp; <i>by</i> Marianne Williamson  
-<br />
-&nbsp; &nbsp; ⁜ 2    
-&nbsp; &nbsp; İçimizdeki Kapıları Açmak (2016)  
-&nbsp; &nbsp; <i>by</i> Eileen Caddy  
-<br />
-&nbsp; &nbsp; ⁜ 3  
-&nbsp; &nbsp; Stoacının Günlüğü (2020)  
-&nbsp; &nbsp; <i>by</i> Ryan Holiday, Stephen Hanselman  
-<br />
-&nbsp; &nbsp; ⁜ 4  
-&nbsp; &nbsp; Her Güne Bir Yasa (2022)  
-&nbsp; &nbsp; <i>by</i> Robert Greene    
-<br />
-&nbsp; &nbsp; ⁜ 5  
-&nbsp; &nbsp; A Course in Miracles (2007)  
-&nbsp; &nbsp; <i>by</i> Helen Schucman    
-<br />  
-&nbsp; &nbsp; ⁜ 6  
-&nbsp; &nbsp; Warrior Goddess Wisdom (2022)  
-&nbsp; &nbsp; <i>by</i> HeatherAsh Amara  
-<br />
 
 ⁜  
 
