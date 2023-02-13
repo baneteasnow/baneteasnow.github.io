@@ -5,7 +5,7 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-02-11
+last_modified_at: 2023-02-13
 published: true  
 ---
 
@@ -22,10 +22,6 @@ How to Think (2021)
 <i> by </i> John Paul Minda  
 <br />
 ⁜ 4  
-Why We Do The Things We Do (2016)  
-<i> by </i> Joel Levy  
-<br />
-⁜ 5  
 On Being a Master Therapist (2017)  
 <i> by </i> Jeffrey A. Kottler, Jon Carlson.   
 <br />  
