@@ -21,7 +21,9 @@ num: "302"
 image: "/assets/new/why-we-do-the-things-we-do.jpg"
 ---
 
-On dokuzuncu yüzyılın sonlarına kadar henüz tanınmış bir bilim dalı haline gelmemiş olan psikoloji, insan zihnini inceler. Psikolojinin bilim olarak doğuşu 1879 yılında Almanya'da Leipzig Ünversitesi'nde Deneysel Psikoloji Enstitüsü'nü kuran Wilhelm Wundt'a kadar dayanır. Wundt'un Almanya'da çalıştığı dönemde bir doktor, filozof ve psikolog olan William James de Birleşik Devletler'de psikoloji üzerine çalışıyordu.
+On dokuzuncu yüzyılın sonlarına kadar henüz tanınmış bir bilim dalı haline gelmemiş olan psikoloji, insan zihnini inceler. Psikolojinin bilim olarak doğuşu 1879 yılında Almanya'da Leipzig Ünversitesi'nde Deneysel Psikoloji Enstitüsü'nü kuran Wilhelm Wundt'a kadar dayanır. 
+
+"Yaptığımız Şeyleri Neden Yaparız?",  psikolojiyle ilgili sorulara giriş düzeyinde kısa cevaplar getirirken yer yer felsefeye de dokunuyor.
 
 Kitapta cevaplanan sorulardan bazıları:
 
