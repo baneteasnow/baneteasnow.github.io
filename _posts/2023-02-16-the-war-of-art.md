@@ -26,7 +26,7 @@ Profesyonel olarak yazarlık yapanlar, asıl zor olanın yazmak değil, yazmaya 
 Pek çok kişi iki ayrı yaşama  sahiptir; biri yaşanılan hayat, diğeri ise saklı, yaşanamayan hayat. Direnç ise, bu iki ayrı yaşamın tam ortasında yer alır. İlk adımı atmak öylesine zordur ki, dirence yenik düşmemek içten bile değildir.
 
 ### [Direnç ve Özellikleri](#direnc-ve-ozellikleri)
-{: #direnc-ve-ozellikleri }
+{: #direnc-ve-ozellikleri }  
 _Düşmanı Tanımlamak_
 
 Direnç, anlık hazlar yerine uzun vadeli bir gelişim, sağlık ve bütünlük haline ulaşmayı hedefleyen her türlü eylem ya da yüksek benliğimizden kaynağını alan her türlü eylem ile ortaya çıkar.
@@ -53,7 +53,7 @@ Direnç, anlık hazlar yerine uzun vadeli bir gelişim, sağlık ve bütünlük 
 - Direnç korku olarak deneyimlenebilir. Korku, tıpkı tereddüt gibi bir göstergedir. Direnci yenmek için kullanılabilir.
 
 ### [Dirençle Mücadele](#direncle-mucadele)
-{: #direncle-mucadele }
+{: #direncle-mucadele }  
 _Profesyonelleşme_
 
 Bir işi profesyonel olarak yapan kişi ile amatör olarak yapan kişinin yaklaşımı farklıdır. (Buradaki profesyonellik, bir meslek grubunu temsilen kullanılmamaktadır.)
