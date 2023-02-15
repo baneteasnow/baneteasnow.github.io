@@ -63,16 +63,16 @@ Profesyonel işini yapmaktadır, amatör ise hobisini.
 Profesyonel tam zamanlı olarak işi yapar, amatör ise yarı zamanlı.
 
 Profesyoneli diğerlerinden ayıran bazı unsurlar vardır. Profesyonel,
-> her gün kendini göstermek zorundadır.
-> ne olursa olsun bu işi yapmaya devam eder.
-> tüm günü işte geçer.
-> kendini yıllar boyu çalışmaya adar.
-> yüz yüze olduğu riskler yüksek ve gerçektir.
-> emeğinin karşılığını almayı bekler.
-> kendini bir tek işi ile tanımlamaktan kaçınır. _(Amatör ise, tam tersine kendini hobileriyle tanımlamaya eğilimlidir.)_
-> işin gerektirdiği teknik konularda ustadır.
-> kendi işine espri ile yaklaşabilir.
-> gerçek hayatta övgü ve suçlamaları kabul eder. _(Amatör ise eleştirilere pek hazır değildir, kullanması gereken tekniklerde pek usta değildir. )_
+> her gün kendini göstermek zorundadır.  
+> ne olursa olsun bu işi yapmaya devam eder.  
+> tüm günü işte geçer.  
+> kendini yıllar boyu çalışmaya adar.  
+> yüz yüze olduğu riskler yüksek ve gerçektir.  
+> emeğinin karşılığını almayı bekler.  
+> kendini bir tek işi ile tanımlamaktan kaçınır. _(Amatör ise, tam tersine kendini hobileriyle tanımlamaya eğilimlidir.)_  
+> işin gerektirdiği teknik konularda ustadır.  
+> kendi işine espri ile yaklaşabilir.  
+> gerçek hayatta övgü ve suçlamaları kabul eder. _(Amatör ise eleştirilere pek hazır değildir, kullanması gereken tekniklerde pek usta değildir. )_  
 
 Profesyonellerin diğer özellikleri;
 
@@ -88,11 +88,11 @@ Profesyonellerin diğer özellikleri;
 - Profesyonel kişi yardım istemekten çekinmez.
 - Profesyonel kişinin enstrümanıyla arasında mesafe vardır.
 - Profesyonel kişi hatayı (ya da başarıyı) kişiselleştirmez.
-	> Profesyonel kişi reddedilmeyi kişiselleştirmez.
-	> Profesyonel kişi, kendisini, kendi performans alanının uzağında durmak için özellikle eğitir.
-	> Profesyoneller işlerini severler.
-	> Profesyoneller, geçerliliklerini kendi kendilerine denerlerler.
-	> Profesyoneller eleştiriye açıktır.
+	> Profesyonel kişi reddedilmeyi kişiselleştirmez.  
+	> Profesyonel kişi, kendisini, kendi performans alanının uzağında durmak için özellikle eğitir.  
+	> Profesyoneller işlerini severler.  
+	> Profesyoneller, geçerliliklerini kendi kendilerine denerlerler.  
+	> Profesyoneller eleştiriye açıktır.  
 - Profesyonel kişi zorluklara tahammül eder.
 - Profesyonel kişi kendi geçerliliğini kendisi denetler.
 - Profesyonel kişi sınırlarını bilir.
