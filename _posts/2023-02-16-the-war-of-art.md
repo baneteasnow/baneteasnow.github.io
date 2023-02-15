@@ -88,11 +88,11 @@ Profesyonellerin diğer özellikleri;
 - Profesyonel kişi yardım istemekten çekinmez.
 - Profesyonel kişinin enstrümanıyla arasında mesafe vardır.
 - Profesyonel kişi hatayı (ya da başarıyı) kişiselleştirmez.
-	- > Profesyonel kişi reddedilmeyi kişiselleştirmez.
-	- > Profesyonel kişi, kendisini, kendi performans alanının uzağında durmak için özellikle eğitir.
-	- > Profesyoneller işlerini severler.
-	- > Profesyoneller, geçerliliklerini kendi kendilerine denerlerler.
-	- > Profesyoneller eleştiriye açıktır.
+	> Profesyonel kişi reddedilmeyi kişiselleştirmez.
+	> Profesyonel kişi, kendisini, kendi performans alanının uzağında durmak için özellikle eğitir.
+	> Profesyoneller işlerini severler.
+	> Profesyoneller, geçerliliklerini kendi kendilerine denerlerler.
+	> Profesyoneller eleştiriye açıktır.
 - Profesyonel kişi zorluklara tahammül eder.
 - Profesyonel kişi kendi geçerliliğini kendisi denetler.
 - Profesyonel kişi sınırlarını bilir.
