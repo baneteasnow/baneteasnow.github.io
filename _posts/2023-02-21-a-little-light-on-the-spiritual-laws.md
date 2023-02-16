@@ -17,7 +17,7 @@ instagram: "no"
 insta: "no"
 reread: "yes"
 num: "310"
-rating: "42"
+rating: "4"
 image: "/assets/new/a-little-light-on-the-spiritual-laws.jpg"
 ---
 
