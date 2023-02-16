@@ -34,37 +34,37 @@ Psikiyatr Scott Peck ve Psikolog Dorothy Tennov gibi pek çok araştırmacı aş
 
 Aşık olunca, insan hayatta ulaşabileceği en yüksek mutluluk seviyesine ulaşmış gibi hisseder, tek amacı içinde bulunduğu mükemmelliği korumaktır. Bunun temel nedenini Dr. Peck, aşık olmanın genetik açıdan belirlenmiş çiftleşme davranışının güdüsel bir unsuru olması olduğunu belirtir.
 
-### [Baskın Sevgi Dilleri](#baskin-sevgi-dilleri)
+#### [Baskın Sevgi Dilleri](#baskin-sevgi-dilleri)
 {: #baskin-sevgi-dilleri }
 
 Eşinizin baskın sevgi dilini konuşmaya başlamak geçmişi değil ama geleceği olumlu yönde değiştirir.
 
-#### [Onaylayıcı Kelimeler](#onaylayici-kelimeler)
+##### [Onaylayıcı Kelimeler](#onaylayici-kelimeler)
 {: #onaylayici-kelimeler }
 
 Sevgiyi duygusal şekilde ifade etmenin yolu onu tamamlayan kelimeleri söylemektir. Bu kelimeler bir yönüyle onaylayıcı kelimelerdir. İltifat etmek de onaylayıcı kelimeler söylemenin bir yoludur. Aynı zamanda, bir  sözü söyleme biçimi de farklı mesaj verebilir. Bu nedenle konuşurken nasıl bir tavır izlediğimiz de çok büyük önem taşır.
 
-#### [Kaliteli Zaman](#kaliteli-zaman)
+##### [Kaliteli Zaman](#kaliteli-zaman)
 {: #kaliteli-zaman }
 
 Kaliteli zaman, belli bir süre boyunca tüm dikkatinizi ve ilginizi yanınızdaki kişiye odaklamanız anlamına gelir. Bu süre zarfında, sadece karşınızdaki kişiyle ilgilenip, onu dinlemek, onunla konuşmak, ona ilgi göstermek esastır. Baskın sevgi dili kaliteli zaman olan kişiler için böyle zamanlar sevildiklerini en çok hissettikleri anlar olacaktır. 
 
-#### [Hediye Alma](#hediye-alma)
+##### [Hediye Alma](#hediye-alma)
 {: #hediye-alma }
 
 Hediye verme eylemi herkes için derin bir anlama sahiptir. Baskın sevgi dili hediye alma olan bir kişinin bu eylemi somut olarak 'düşünüldüğünün' kanıtı olarak görmesi mümkündür. 
 
-#### [Hizmet Eylemleri](#hizmet-eylemleri)
+##### [Hizmet Eylemleri](#hizmet-eylemleri)
 {: #hizmet-eylemleri }
 
 Hizmet eylemleri, birlikte olduğunuz kişinin hoşuna giden şeyler yapmak anlamına gelir. Hizmet yoluyla yani onu sevindirecek şeyler yaparak, eşinize sevildiğini hissettirmeye çalışırsınız. 
 
-#### [Fiziksel Temas](#fiziksel-temas)
+##### [Fiziksel Temas](#fiziksel-temas)
 {: #fiziksel-temas }
 
 Fiziksel temas, eşler arasındaki sevgiyi iletmek için oldukça güçlü bir araçtır. 
 
-### [Baskın Sevgi Dilinizi Öğrenmek](#baskin-sevgi-dilinizi-ogrenmek)
+#### [Baskın Sevgi Dilinizi Öğrenmek](#baskin-sevgi-dilinizi-ogrenmek)
 {: #baskin-sevgi-dilinizi-ogrenmek }
 
 Bir kişide yukarıda sayılan sevgi dilerinden bir tanesi baskın olabileceği gibi birden fazla sevgi dili de geçerli olabilir. Bir kişinin kendi baskın sevgi dilini bulması için üç yol önerilebilir:
