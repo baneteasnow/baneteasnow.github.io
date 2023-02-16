@@ -28,9 +28,9 @@ Psikologlara göre sevildiğini hissetme ihtiyacı diğer tüm duygusal ihtiyaç
 İnsan aşık olduğu zaman, yaşadığı yoğun duyguların da etkisi ile, bu durumun sonsuza kadar devam edeceğini düşünür. Bir psikolog olan Dorothy Tennov'un gerçekleştirdiği bir araştırmaya göre, romantik olarak yaşanan tutku ortalama iki yıl canlı kalır. Bir insan aşık olduğu zaman, gözü başka hiçbir şeyi görmez hale gelir. Dolayısıyla, bu tutku sürekli olsaydı, karşılaşılan sonuçlar çok ağır olabilirdi.
 
 Psikiyatr Scott Peck ve Psikolog Dorothy Tennov gibi pek çok araştırmacı aşık olmakla sevginin farklı kavramlar olduğunu vurgulamaktadır. Tennov bunun için üç neden sıralamıştır. 
-	(1) aşk, iradeye bağlı veya bilinçli bir tercih değildir. 
-	(2) aşk, gerçek sevgi değildir, çünkü yaşanması için çaba gerekmez.
-	(3) aşık olan kişi, karşısındakinin kişisel gelişimine katkıda bulunup bulunmadığını (veya tersini) sorgulamaz.
+	(1) aşk, iradeye bağlı veya bilinçli bir tercih değildir.  
+	(2) aşk, gerçek sevgi değildir, çünkü yaşanması için çaba gerekmez.  
+	(3) aşık olan kişi, karşısındakinin kişisel gelişimine katkıda bulunup bulunmadığını (veya tersini) sorgulamaz. 
 
 Aşık olunca, insan hayatta ulaşabileceği en yüksek mutluluk seviyesine ulaşmış gibi hisseder, tek amacı içinde bulunduğu mükemmelliği korumaktır. Bunun temel nedenini Dr. Peck, aşık olmanın genetik açıdan belirlenmiş çiftleşme davranışının güdüsel bir unsuru olması olduğunu belirtir.
 
@@ -68,7 +68,7 @@ Fiziksel temas, eşler arasındaki sevgiyi iletmek için oldukça güçlü bir a
 {: #baskin-sevgi-dilinizi-ogrenmek }
 
 Bir kişide yukarıda sayılan sevgi dilerinden bir tanesi baskın olabileceği gibi birden fazla sevgi dili de geçerli olabilir. Bir kişinin kendi baskın sevgi dilini bulması için üç yol önerilebilir:
-	(1) En çok eşinizin yaptığı veya yapmadığı şeylerin hangileri sizi üzer? Sizi en çok kıran şeyin zıttı, muhtemelen kendi sevgi dilinizdir.
-	(2) Eşinizden en çok rica ettiğiniz şey nedir? En çok istediğiniz şey, muhtemelen size sevildiğinizi en çok hissettirecek şeydir.
-	(3) Eşinize sevginizi nasıl ifade ediyorsunuz? Sevgiyi ifade etme şekliniz, aynı zamanda sevildiğinizi hissetmenizi sağlayacak şeyin işareti olabilir.
+	(1) En çok eşinizin yaptığı veya yapmadığı şeylerin hangileri sizi üzer? Sizi en çok kıran şeyin zıttı, muhtemelen kendi sevgi dilinizdir.  
+	(2) Eşinizden en çok rica ettiğiniz şey nedir? En çok istediğiniz şey, muhtemelen size sevildiğinizi en çok hissettirecek şeydir.  
+	(3) Eşinize sevginizi nasıl ifade ediyorsunuz? Sevgiyi ifade etme şekliniz, aynı zamanda sevildiğinizi hissetmenizi sağlayacak şeyin işareti olabilir.  
 
