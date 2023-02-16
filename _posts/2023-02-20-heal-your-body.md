@@ -10,7 +10,7 @@ sayfa: "112"
 goodreads: "https://www.goodreads.com/book/show/270435.Heal_Your_Body"
 description: "Louise L. Hay, bir kişinin hayatını şekillendiren en önemli unsurun aklından geçen düşünceler olduğunu vurguluyor ve düşüncelerin sağlığı nasıl etkilediğini anlatıyor."
 last_modified_at: 2023-02-20
-published: false
+published: true
 posted: 2023-02-20
 tag: "psikoloji"
 instagram: "no"
