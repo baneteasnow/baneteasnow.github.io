@@ -15,7 +15,7 @@ posted: 2023-01-19
 tag: "motivasyon"
 instagram: "no"
 insta: "no"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "295"
 image: "/assets/new/the-universe-has-your-back.jpg"

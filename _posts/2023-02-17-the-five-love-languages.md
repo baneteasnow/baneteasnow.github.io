@@ -15,9 +15,9 @@ posted: 2023-02-17
 tag: "psikoloji"
 instagram: "no"
 insta: "no"
-reread: "no"
+reread: "yes"
 num: "306"
-rating: "5"
+rating: "4"
 image: "/assets/new/the-five-love-languages.jpg"
 ---
 
