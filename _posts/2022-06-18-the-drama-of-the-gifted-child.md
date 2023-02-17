@@ -17,7 +17,7 @@ insta: "yes"
 instagram: "https://www.instagram.com/p/Cfy46aGIFMY/"
 reread: "yes"
 rating: "5"
-wnum: "262"
+num: "262"
 image: "/assets/new/the-drama-of-the-gifted-child.jpg"
 ---
 
