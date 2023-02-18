@@ -29,14 +29,14 @@ Yeni kadınların devrimi, başka insanlara odaklı değil, içsel dünyaya odak
 
 Savaşçı Tanrıça'nın Yolu için kitapta yer alan adımlar şöyle:
 
-> Kendinizi benliğinize adayın
-> Hayatla bir olun
-> Kanalınızı arındırın
-> Benliğinizi topraklayın ve geçmişinizi özgürleştirin
-> Cinselliğinizi ve yaratıcılığınıza enerji katın
-> Gücünüzü ele alın ve iradenizi ateşleyin
-> Kalbinizi açın
-> Gerçeğinizi söyleyin
-> Bilgeliğinizi özümseyin
-> Yolunuzu seçin
+> Kendinizi benliğinize adayın  
+> Hayatla bir olun  
+> Kanalınızı arındırın  
+> Benliğinizi topraklayın ve geçmişinizi özgürleştirin  
+> Cinselliğinizi ve yaratıcılığınıza enerji katın  
+> Gücünüzü ele alın ve iradenizi ateşleyin  
+> Kalbinizi açın  
+> Gerçeğinizi söyleyin  
+> Bilgeliğinizi özümseyin  
+> Yolunuzu seçin  
 
