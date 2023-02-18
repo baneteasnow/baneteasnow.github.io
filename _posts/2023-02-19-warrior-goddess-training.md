@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Warrior Goddess Training | Heatherash Amara (Kitap)"
 kitap: "Warrior Goddess Training: Become the Woman You Are Meant"
-tr: Savaşçı Tanrıça'nın Yolu - Olmanız Gereken Kadın Olun"
+tr: "Savaşçı Tanrıça'nın Yolu - Olmanız Gereken Kadın Olun"
 yazar: "Heatherash Amara"
 yil: "2022"
 sayfa: "208"
