@@ -33,3 +33,4 @@ Tüm Hastalıkların Zihinsel Nedenleri, rahatsızlıkların ve hastalıkların 
 | Anksiyete | Hayatın akışına, yaşam sürecine güvenmemek. | Kendimi seviyor ve onaylıyorum. Yaşam sürecine güveniyorum. Ben güvendeyim. |
 | Bağımlılıklar | Kendinden kaçış. Korku. Kendini nasıl sevebileceğini bilememek. | Ne kadar harika olduğumu şimdi keşfediyorum. Kendimi sevmeyi seçiyorum. |
 
+
