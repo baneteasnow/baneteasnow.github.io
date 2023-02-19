@@ -112,7 +112,8 @@ published: true
 | coffeeandjunk.com/books/ <a href="https://coffeeandjunk.com/books/" target="_blank" rel="noreferrer,nofollow" title="coffeeandjunk.com/books/"><img src="/assets/external_link.jpg" alt="external link" style="width:10px; height:10px; display: inline-block; vertical-align: baseline;"></a> |
 | ~~thebooketlist.com/blog~~ |
 
-https://wordsrated.com/books/
+https://wordsrated.com/books/  
+https://books.google.com/talktobooks/
 <br />
 
 
