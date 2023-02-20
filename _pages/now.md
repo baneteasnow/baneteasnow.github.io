@@ -10,14 +10,10 @@ published: true
 ---
 
 ⁜ 1  
-Socialism 101 (2022)  
-<i> by </i> Kathleen Sears  
-<br />
-⁜ 2  
 How to Think (2021)  
 <i> by </i> John Paul Minda  
 <br />
-⁜ 3  
+⁜ 2  
 On Being a Master Therapist (2017)  
 <i> by </i> Jeffrey A. Kottler, Jon Carlson.   
 <br />  
