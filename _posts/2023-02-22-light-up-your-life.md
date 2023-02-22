@@ -84,7 +84,7 @@ Dünyayı nasıl algıladığımız, sahip olduğumuz inançlara göre değişir
 Affedemediğimizde bir başkasını yargılarız. Yasa, 'Yargılama ki yargılanma' der. Bir başkasını bağışladığımızda kendi acımızı da iyileştiririz. 
 
 ##### 13 [İlişkileri Şifalandırmak](#iliskileri-sifalandirmak)
-{: # iliskileri-sifalandirmak }
+{: #iliskileri-sifalandirmak }
 
 Sağlıklı bir insan olduğumuzda kendi gücümüzün sorumluluğunu üstleniriz. Gerçek acı, zihnimizde dönen düşünceler, kindar bir öfke ve saplantılı hisler ile duygulardan kaynaklanır. 
 

@@ -85,7 +85,7 @@ Yaşadığımız iç çatışmalar, er ya da geç hayatlarımızdaki dış çat�
 İnsanların bizden bir şeyler talep etmesi, genellikle kendi ihtiyaçlarımıza kulak vermediğimizin göstergesidir. Olayları daha net görebilmek için, talepkar insanları bakılacak bir ayna olarak kendimize çekebiliriz. 
 
 ##### 12 [Kurban ve Kurtarıcı](#kurban-ve-kurtarici)
-{: #kurban-ve-lurtarici }
+{: #kurban-ve-kurtarici }
 
 Kurban durumuna düştüğümüzde, başkalarının ve kaderin insafına kaldığımızı düşünürüz. 
 
