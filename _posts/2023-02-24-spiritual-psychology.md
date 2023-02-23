@@ -18,6 +18,8 @@ insta: "no"
 reread: "yes"
 rating: "3"
 num: "313"
+eng: "In his book 'Spiritual Psychology', Steve Rother discusses how spiritual concepts and principles merge with conventional psychology. A comprehensive approach to mental health and well-being is presented in this book, with an emphasis on the significance of a person's spiritual connection and life purpose. The author provides helpful exercises and strategies to help readers increase their spiritual awareness, develop their intuition, get rid of negative emotions, and challenge limiting ideas. Through personal anecdotes and case studies, Rother encourages readers to recognise their own intrinsic strength and potential and to connect with their higher selves."
+openai: "yes"
 image: "/assets/new/spiritual-psychology.jpg"
 ---
 
