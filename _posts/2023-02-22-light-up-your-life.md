@@ -19,7 +19,7 @@ reread: "yes"
 rating: "4"
 num: "311"
 openai: "yes"
-eng:"'Light Up Your Life' by Diana Cooper is a book that offers guidance and tools for individuals looking to increase their vibration and raise their consciousness. The book focuses on empowering readers to embrace their inner light and overcome the challenges of the modern world. Diana Cooper draws on her knowledge of spirituality and personal development to provide practical techniques and exercises to help individuals tap into their inner potential and radiate positivity. This book is a potentially helpful resource for anyone seeking to transform their life and embrace a more joyful, meaningful existence."
+eng: "'Light Up Your Life' by Diana Cooper is a book that offers guidance and tools for individuals looking to increase their vibration and raise their consciousness. The book focuses on empowering readers to embrace their inner light and overcome the challenges of the modern world. Diana Cooper draws on her knowledge of spirituality and personal development to provide practical techniques and exercises to help individuals tap into their inner potential and radiate positivity. This book is a potentially helpful resource for anyone seeking to transform their life and embrace a more joyful, meaningful existence."
 image: "/assets/new/light-up-your-life.jpg"
 ---
 
