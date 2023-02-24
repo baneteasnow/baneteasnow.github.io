@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Warrior Goddess Training | Heatherash Amara (Kitap)"
@@ -18,7 +19,8 @@ insta: "no"
 reread: "no"
 rating: "2"
 num: "308"
-eng: "Warrior Goddess Training by HeatherAsh Amara is a guide to help women rediscover their power, authenticity, and wholeness. The book offers practical tools and practices to overcome self-doubt, fear, and limiting beliefs, and to cultivate self-love, inner peace, and joy. Drawing on ancient wisdom and modern psychology, the book emphasizes the importance of mindfulness, meditation, creativity, and community in the journey of self-discovery and personal transformation."
+eng: "Warrior Goddess Training by HeatherAsh Amara is a book that helps women reclaim their strength, true selves, and inner balance. It gives practical tips and techniques to overcome insecurities, worries, and self-defeating thoughts, and to nurture self-esteem, calmness, and happiness. The book combines ancient teachings and modern psychology to highlight the significance of staying present, meditating, being creative, and building relationships when exploring oneself and evolving as a person."
+openai: "yes"
 image: "/assets/new/warrior-goddess-training.jpg"
 ---
 
