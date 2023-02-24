@@ -80,7 +80,7 @@ li { margin: 0.4rem 0; list-style-type: circle; }
 .toc1 li { list-style-type: none !important; margin: 0; padding: 0; }
 .footnotes ul { list-style-type: decimal !important; margin: 0 !important; padding: 0 !important; }
 .footnotes li { list-style-type: decimal !important; margin: 0 !important; padding: 0 !important; }
-*:target { background: yellow; }
+*:target { background: #fff3f5; } /* legacy color was yellow */
 
 .w {
   width: fit-content;
