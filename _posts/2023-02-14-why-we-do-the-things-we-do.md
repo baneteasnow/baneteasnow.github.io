@@ -20,7 +20,7 @@ reread: "no"
 rating: "2"
 num: "303"
 openai: "yes"
-eng: "In Why We Do the Things We Do Joel Levy presents an insightful examination of the intricate motivations underlying human behavior. Utilising a multidisciplinary perspective that encompasses psychology, biology, sociology, and neuroscience, Levy investigates the diverse elements that influence our choices, sentiments, and patterns. Examining the importance of genetics and evolution alongside the effects of culture and socialisation, Levy provides a thorough and accessible overview of the many stimuli that drive human behavior."
+eng: "In Why We Do the Things We Do, Joel Levy presents an insightful examination of the intricate motivations underlying human behavior. Utilising a multidisciplinary perspective that encompasses psychology, biology, sociology, and neuroscience, Levy investigates the diverse elements that influence our choices, sentiments, and patterns. Examining the importance of genetics and evolution alongside the effects of culture and socialisation, Levy provides a thorough and accessible overview of the many stimuli that drive human behavior."
 image: "/assets/new/why-we-do-the-things-we-do.jpg"
 ---
 

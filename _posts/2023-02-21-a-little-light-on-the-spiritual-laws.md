@@ -20,7 +20,7 @@ reread: "yes"
 num: "310"
 rating: "4"
 openai: "yes"
-eng: "The spiritual laws that govern the universe, such as the law of attraction, the law of cause and effect, and the rule of abundance, are explored in 'A Little Light on the Spiritual Laws'. Cooper illustrates how people might have more purposeful, fulfilling lives by comprehending and putting these laws into practice."
+eng: "The spiritual laws that govern the universe, such as the law of attraction, the law of cause and effect, and the rule of abundance, are explored in A Little Light on the Spiritual Laws, a book by Diana Cooper. Cooper illustrates how people might have more purposeful, fulfilling lives by comprehending and putting these laws into practice."
 image: "/assets/new/a-little-light-on-the-spiritual-laws.jpg"
 ---
 
