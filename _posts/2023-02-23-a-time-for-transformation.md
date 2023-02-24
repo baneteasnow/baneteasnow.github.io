@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "A Time For Transformation | Diana Cooper (Kitap)"

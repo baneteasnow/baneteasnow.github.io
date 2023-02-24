@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Spiritual Psychology | Steve Rother (Kitap)"
