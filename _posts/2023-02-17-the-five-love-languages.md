@@ -20,7 +20,7 @@ reread: "yes"
 num: "306"
 rating: "4"
 openai: "yes"
-eng: "The 5 Love Languages by Gary Chapman is a book that explores the different ways in which people give and receive love. The author suggests that each person has a unique 'love language' and that understanding your own and your partner's love language can improve communication and strengthen relationships. The book identifies five love languages: Words of affirmation, quality time, receiving gifts, acts of service, and physical touch. Chapman provides practical examples and exercises to help readers discover their love language and that of their partner, and offers guidance on how to communicate and express love effectively in each language."
+eng: "The 5 Love Languages by Gary Chapman is a book that explores the different ways in which people give and receive love. The author suggests that each person has a unique 'love language' and that understanding your own and your partner's love language can improve communication and strengthen relationships. The book identifies five love languages: words of affirmation, quality time, receiving gifts, acts of service, and physical touch. Chapman provides practical examples and exercises to help readers discover their love language and that of their partner, and offers guidance on how to communicate and express love effectively in each language."
 image: "/assets/new/the-five-love-languages.jpg"
 ---
 
