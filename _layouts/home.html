@@ -3,6 +3,7 @@ layout: default
 ---
 
 <header>
+  <a href="#links">🪴</a>
   <p class="post-meta">
         {% assign mes_index = site.posts.first.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
@@ -16,7 +17,7 @@ layout: default
 
 <br />
 <br />
-<i><center><div class="link1"><a href="/now">:şimdi</a> &nbsp; <a href="/menu">:başka ne var?</a> </div> </center></i>
+<i><center><div class="link1" id="#links"><a href="/now">:şimdi</a> &nbsp; <a href="/menu">:başka ne var?</a> </div> </center></i>
      
      
 <br />
