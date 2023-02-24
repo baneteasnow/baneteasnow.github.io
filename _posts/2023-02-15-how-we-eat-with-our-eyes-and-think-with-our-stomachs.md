@@ -1,5 +1,5 @@
 ---
-# openai - no!!!
+# openai - no
 layout: post
 category: book
 title: "How We Eat with Our Eyes and Think with Our Stomachs | Melanie Mühl, Diana von Kopp (Kitap)"
