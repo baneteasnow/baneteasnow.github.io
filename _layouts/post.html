@@ -6,7 +6,7 @@ layout: default
 
 <article>
   <p class="post-meta">
-          <a href="#links">🪴</a>
+          <a href="#links" style="font-style: normal;">🪴</a>
         {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
     <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
