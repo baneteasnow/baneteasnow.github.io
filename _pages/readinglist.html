@@ -91,11 +91,11 @@ google
    </td>
       <td>
          <div class="link1">  
-           <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
+           <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
           </div>
 {% if page.eng %}
    <div class="link1">  
-     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">eng</a>
+     <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">eng</a>
   </div>
   {% else %}
     <div style="visibility: hidden;"></div>
