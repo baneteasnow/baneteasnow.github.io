@@ -14,9 +14,9 @@ title: "tl;dr"
         <br />
   <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}"> </a>
 {% if post.tr != "" and post.tr != nil and post.tr != "-" %}
-  <div class="link1"> href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.tr }}</a> </div>
+  <div class="link1"> <a href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.tr }}</a> </div>
     {% else %}
-  <div class="link1"> href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a> </div>
+  <div class="link1"> <a href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a> </div>
 {% endif %}
     <div><i> {{ post.yazar }} </i></div>
     <div><i> {{ post.yil }} </i></div>
