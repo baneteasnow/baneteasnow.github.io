@@ -14,9 +14,9 @@ title: "tl;dr"
   {% for post in site.posts %}
         <br />
 {% if post.tr != "" and post.tr != nil and post.tr != "-" %}
-  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="{{ post.url}}">{{ post.tr }}</a> </div>
+  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="{{ post.url }}">{{ post.tr }}</a> </div>
     {% else %}
-  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="{{ post.url}}">{{ post.kitap }}</a> </div>
+  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="{{ post.url }}">{{ post.kitap }}</a> </div>
 {% endif %}
     <div><i> {{ post.yazar }} </i></div>
     <div><i> {{ post.yil }} </i></div>
