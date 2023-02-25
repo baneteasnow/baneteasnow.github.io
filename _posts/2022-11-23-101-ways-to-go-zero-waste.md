@@ -1,4 +1,5 @@
 ---
+# openai ---
 layout: post
 category: book
 title: "101 Ways to Go Zero Waste | Kathryn Kellogg (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "2"
 num: "290"
+openai: "yes"
+eng: "101 Ways to Go Zero Waste by Kathryn Kellogg is a practical and inspiring book that offers readers simple and actionable tips for reducing waste and living a more sustainable lifestyle. A wide range of topics, including home cleaning and personal care, as well as food and travel are covered in this book."
 image: "/assets/new/101-ways-to-go-zero-waste.jpg"
 ---
 

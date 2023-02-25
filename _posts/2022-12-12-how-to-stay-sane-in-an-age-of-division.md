@@ -1,4 +1,5 @@
 ---
+# openai - ---
 layout: post
 category: book
 title: "How to Stay Sane in an Age of Division  | Elif Safak (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "291"
+openai: "yes"
+eng: "Elif Shafak's book, How to Stay Sane in an Age of Division, analyzes the state of the world today and offers insights on surviving the current era of polarization and division. Shafak, draws on her personal experiences and research in order to provide a new perspective on some of the most important issues of our time, such as identity politics, social media, and the deterioration of democracy."
 image: "/assets/new/how-to-stay-sane-in-an-age-of-division.jpg"
 ---
 
