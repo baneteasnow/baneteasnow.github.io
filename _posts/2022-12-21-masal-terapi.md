@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Masal Terapi | Judith Malika Liberman (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "3"
 num: "292"
+openai: "yes"
+eng: "Masal Terapi is a self-help book by Judith Malika Liberman that explores the therapeutic benefits of storytelling. The book draws on the ancient tradition of using stories to convey moral lessons and offer guidance, and provides readers with practical exercises and techniques for incorporating storytelling into their daily lives. Liberman explains that stories have the power to heal and transform, and can help readers access their inner wisdom and navigate life's challenges with greater resilience and creativity."
 image: "/assets/new/masal-terapi.jpg"
 ---
 

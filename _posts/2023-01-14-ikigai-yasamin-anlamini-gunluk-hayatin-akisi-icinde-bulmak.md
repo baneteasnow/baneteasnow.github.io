@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Ikigai - Yaşamın Anlamını Günlük Hayatın Akışı Içinde Bulmak | Bettina Lemke (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "3"
 num: "293"
+openay: "yes"
+eng: "The Japanese idea of ikigai, or one's life purpose, is explored in Bettina Lemke's book The Book of Ikigai. The book offers readers helpful advice and exercises for figuring out their own ikigai by drawing on the wisdom of the Japanese people, who are renowned for their longevity and contentment. Lemke explains that discovering one's ikigai can result in greater happiness and fulfillment. It is a combination of one's passions, values, talents, and life's purpose. The book offers readers tools for figuring out their strengths, values, and purpose while also covering topics like mindfulness, gratitude, and self-reflection."
 image: "/assets/new/ikigai-bettina-lemke.jpg"
 ---
 
