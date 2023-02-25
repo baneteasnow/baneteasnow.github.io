@@ -35,10 +35,7 @@ tekrar okumaya değer mi?
 &nbsp;
    </th>
    <th style="text-align: left;">
-goodreads
-   </th>
-   <th style="text-align: left;">
-google
+&nbsp;
    </th>
    </tr>
    {%- assign posts = site.posts -%}
@@ -100,16 +97,16 @@ google
   {% else %}
     <div style="visibility: hidden;"></div>
 {% endif %}
+          <div class="link1" style="font-size: 100%;">
+     <a href="{{ post.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads"> goodreads </a>
+          </div>
+         <div class="link1">  
+     <a name="{{ post.title | split: "|" }}" title="google search" href="https://www.google.com/search?q={{ post.title | split: "|" | first | replace: " ","+" }}{{ post.yazar | url_encode }}" target="_blank" rel="noreferrer,nofollow"> google </a>
+  </div>
+         
       </td>
       <td>
-      <div class="link1" style="font-size: 100%;">
-     <a href="{{ post.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads"> <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;"> </a>
-          </div>
-   </td>
-      <td>
-      <div class="link1">  
-     <a name="{{ post.title | split: "|" }}" title="google search" href="https://www.google.com/search?q={{ post.title | split: "|" | first | replace: " ","+" }}{{ post.yazar | url_encode }}" target="_blank" rel="noreferrer,nofollow"> &nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;"> </a>
-  </div>
+     {{ post.image }}
    </td>
    </tr>
     {%- endif -%}
