@@ -1,4 +1,5 @@
 ---
+# <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}"> </a>
 layout: page-6
 published: true
 last_modified_at: 2021-07-16
@@ -12,11 +13,10 @@ title: "tl;dr"
   <div>
   {% for post in site.posts %}
         <br />
-  <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}"> </a>
 {% if post.tr != "" and post.tr != nil and post.tr != "-" %}
-  <div class="link1"> <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.tr }}</a> </div>
+  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.tr }}</a> </div>
     {% else %}
-  <div class="link1"> <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a> </div>
+  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a> </div>
 {% endif %}
     <div><i> {{ post.yazar }} </i></div>
     <div><i> {{ post.yil }} </i></div>
