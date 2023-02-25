@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "101 Things to Learn in Art School | Kit White (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "5"
 num: "299"
+openai: "yes"
+eng: "101 Things to Learn in Art School by Kit White is a comprehensive guide to the fundamental principles of art and design. The book is organized into short lessons or tips that cover a wide range of art-related themes, from fundamental compositional ideas and color theory to more intricate topics like conceptual art and critical theory."
 image: "/assets/new/101-things-to-learn-in-art-school.jpg"
 ---
 
