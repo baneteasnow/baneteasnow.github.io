@@ -32,6 +32,9 @@ tekrar okumaya değer mi?
 &nbsp;
    </th>
    <th style="text-align: left;">
+&nbsp;
+   </th>
+   <th style="text-align: left;">
 goodreads
    </th>
    <th style="text-align: left;">
@@ -86,6 +89,18 @@ google
  &#9734; &#9734; &#9734; &#9734; &#9734;
  {%- endif -%}
    </td>
+      <td>
+         <div class="link1">  
+           <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
+          </div>
+{% if page.eng %}
+   <div class="link1">  
+     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">eng</a>
+  </div>
+  {% else %}
+    <div style="visibility: hidden;"></div>
+{% endif %}
+      </td>
       <td>
       <div class="link1" style="font-size: 100%;">
      <a href="{{ post.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads"> <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;"> </a>
