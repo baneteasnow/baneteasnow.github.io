@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Feng Shui: Arranging Your Home to Change Your Life | Kirsten M. Lagatree (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "296"
+openai: "yes"
+eng: "Feng Shui: Arranging Your Home to Change Your Life by Kirsten M. Lagatree is a guidebook that explains the principles of feng shui, an ancient Chinese practice of arranging one's environment to promote harmony and balance. The book provides readers with practical tips on how to apply feng shui principles to their homes and create a space that supports their physical, emotional, and spiritual well-being. Lagatree explains the meaning of various feng shui elements such as color, light, and furniture placement, and how they can affect energy flow in a space. She also covers common challenges such as clutter, small spaces, and shared living arrangements."
 image: "/assets/new/feng-shui-arranging-your-home-to-change-your-life.jpg"
 ---
 

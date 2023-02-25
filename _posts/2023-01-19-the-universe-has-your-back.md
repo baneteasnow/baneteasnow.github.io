@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "The Universe Has Your Back | Gabrielle Bernstein (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "4"
 num: "295"
+openai: "yes"
+eng: "The goal of Gabrielle Bernstein's book, The Universe Has Your Back, is to help readers transform their fear into faith and develop a stronger sense of trust in the universe. The book offers readers useful exercises and meditations to help them connect with their inner wisdom and align with the abundance of the universe. It draws on spiritual teachings from many traditions, including A Course in Miracles and Kundalini Yoga. Bernstein emphasizes the value of letting go of fear-based thinking and embracing a mindset of love and gratitude to achieve greater peace, joy, and fulfillment. The Universe Has Your Back encourages readers to trust in the universe's loving guidance to achieve their goals and offers a holistic approach to personal growth."
 image: "/assets/new/the-universe-has-your-back.jpg"
 ---
 
