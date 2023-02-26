@@ -11,7 +11,7 @@ sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/14478551-how-to-change-the-world"
 description: "John-Paul Flintoff, Dünyamızı Nasıl Değiştiririz isimli kitabında insanların küçük eylemlerinin bile büyük değişimlere yol açabileceği fikrini savunuyor. Ayrıca, kişisel ve kültürel engelleri aşarak bireylerin dünyayı değiştirebilecek güce sahip olduğunu vurguluyor. Kitapta, tarihten konuyla bağlantılı örnekler, pratik öneriler ve sorular da yer alıyor."
 last_modified_at: 2023-02-26
-published: true
+published: false
 posted: 2023-02-26
 tag: "felsefe"
 instagram: "no"
