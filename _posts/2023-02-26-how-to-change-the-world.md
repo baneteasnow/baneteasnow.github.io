@@ -13,7 +13,7 @@ description: "John-Paul Flintoff, Dünyamızı Nasıl Değiştiririz isimli kita
 last_modified_at: 2023-02-26
 published: true
 posted: 2023-02-26
--tag: "felsefe"
+tag: "felsefe"
 instagram: "no"
 insta: "no"
 reread: "no"
