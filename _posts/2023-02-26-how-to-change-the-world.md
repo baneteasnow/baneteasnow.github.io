@@ -1,5 +1,5 @@
 ---
-# openai
+# openai ---
 layout: post
 category: book
 title: "How to Change the World | John-Paul Flintoff (Kitap)"
@@ -11,14 +11,14 @@ sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/14478551-how-to-change-the-world"
 description: "John-Paul Flintoff, Dünyamızı Nasıl Değiştiririz isimli kitabında insanların küçük eylemlerinin bile büyük değişimlere yol açabileceği fikrini savunuyor. Ayrıca, kişisel ve kültürel engelleri aşarak bireylerin dünyayı değiştirebilecek güce sahip olduğunu vurguluyor. Kitapta, tarihten konuyla bağlantılı örnekler, pratik öneriler ve sorular da yer alıyor."
 last_modified_at: 2023-02-26
-published: false
+published: true
 posted: 2023-02-26
 tag: "felsefe"
 instagram: "no"
 insta: "no"
 reread: "no"
 openai: yes
-eng: "Flintoff"
+eng: "In How to Change the World, John-Paul Flintoff emphasizes that creating positive change in the world begins with small, incremental steps taken on an individual level. Flintoff believes that everyone has the potential to create positive change and shares stories of people who have done so. As the first phase of an individual's ability to effect change, the book offers to take an interest in other people's problems and help them. Aligning personal values with one's goals is also necessary to find meaning and fulfilment in change."
 num: "315"
 image: "/assets/new/how-to-change-the-world.jpg"
 ---
