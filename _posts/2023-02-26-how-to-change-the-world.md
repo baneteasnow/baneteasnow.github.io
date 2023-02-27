@@ -64,7 +64,7 @@ Hangi sorunu ele alacağımıza karar verirken, kullanılacak yöntemin tanımla
 
 Geçmişte bazı değişiklikler yaratmak için mücadele gösteren insanların pek çoğu bunu sezgisel ve spontane olarak yapmışlardır. Siyaset bilimci Gene Sharp (1928-2018), bu kişilerin yapmaya çalıştıkları değişiklikle ilgili eğer önceden bilgileri olsaydı neyin değişeceği (yani hangi yöntemleri kullanıyor olacakları) üzerine çalışmış ve şiddet içermeyen eylem türlerinin bir listesini derlemiştir. Bu listede şu anda 198 madde yer almaktadır. Listeye [aeinstein.org adresinden](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/) ulaşmak mümkündür. 
 
-### 4 [Tanıklık Etmek](#taniklik-etmek)
+###### 4 [Tanıklık Etmek](#taniklik-etmek)
 {: #taniklik-etmek}
 
 Sorunlara işaret etmek kadar sorunlar üzerine tartışıp çözüm önerileri belirlemek de önemlidir. İlki genellikle kötümserlere daha çekici gelse de her iki adım da eşit değerde önemlidir. Tanıklık etmek her zaman dünyayı değiştirmenin önemli bir parçası olmuştur. Çünkü, bir kişinin sorunları belirlemesi için öncelikle gözlem yapması ve gözlemlediklerini başkalarına aktarması gereklidir. 
