@@ -79,7 +79,7 @@ Herhangi bir kimseye herhangi bir şeyi yaptırmanın yegane yolu, o kişinin de
 ###### 6 [İlk Adımı Atmak](#ilk-adimi-atmak)
 {: #ilk-adimi-atmak }
 
-	Kaos teorisi, görünüşte önemsiz olan bazı ilk hareketlerin küresel hatta evrensel olaylara yol açabileceğini söyler. Bu da şöyle ifade edilir: bir kelebeğin bir ülkede kanat çırpması bir başka ülkede kasırgaya yol açabilir.
+> Kaos teorisi, görünüşte önemsiz olan bazı ilk hareketlerin küresel hatta evrensel olaylara yol açabileceğini söyler. Bu da şöyle ifade edilir: bir kelebeğin bir ülkede kanat çırpması bir başka ülkede kasırgaya yol açabilir.
 
 Bazen seyirci olmak daha kolaydır. Ancak, değişimler atılan o ilk adımla başlar. Tarih bunun örnekleri ile doludur. (Sıradan insanların güç figürleri karşısında dimdik ayakta durmaları ile değişim başlar ve bazen hızlı bazen yavaş şekilde kalıcı hale gelir.)
 
@@ -89,11 +89,11 @@ Bazen seyirci olmak daha kolaydır. Ancak, değişimler atılan o ilk adımla ba
 ###### 1 [Güzellik - ve Eğlence - Katın](#guzellik-ve-eglence-katin)
 {: #guzellik-ve-eglence-katin }
 
-	Dünyayı değiştirmenin iki yolu var: Acıları azaltmak, yahut zevki çoğaltmak.
+> Dünyayı değiştirmenin iki yolu var: Acıları azaltmak, yahut zevki çoğaltmak.
 
 Bize doğru gelen, gerçekten inandığımız bir alanı belirlediğimizde, aynı zamanda kendi yeteneklerimiz ve ilgi alanlarımız doğrultusunda hareket ettiğimizde yarattıığımız etki çok daha yüksek olacaktır. 
 
-	İyi bir dünya insanların yaptıkları özel şeylerde anlam buldukları yerdir; ve bu dünyada bir her zaman güzelliğe, yaratıcılığa ve eğlenceye ihtiyaç vardır. 
+> İyi bir dünya insanların yaptıkları özel şeylerde anlam buldukları yerdir; ve bu dünyada bir her zaman güzelliğe, yaratıcılığa ve eğlenceye ihtiyaç vardır. 
 
 ###### 2 [Peki Para Nerede Duruyor?](#para-nerede-duruyor)
 {: #para-nerede-duruyor }
@@ -120,6 +120,6 @@ Dışsal çatışmaları çözebilmek için öncelikle içsel çatışmalarımı
 
 Değişim için harekete geçtiğimiz noktada öncelikle her şeyi düzeltemeyeceğimizi aklımızın bir köşesinde tutmamız gerekir. Hatta bazen hiç beklenmedik sonuçlar ortaya çıkar, olaylar bambaşka bir şekil alır. Ayrıca, çoğu zaman için değişim planlanandan ya da tahmin edilenden daha uzun bir sürede gerçekleşir. Değişim, ufak adımlarla başlar, birikerek büyür. Küçük zaferlere odaklanmak sizi günden güne büyük hedefe yakınlaştırır. 
 
-	Dünyayı değiştirmek hiç bitmeyen bir iştir. Bu yönüyle bir işten ziyade bir ruh halidir aslında. 
+> Dünyayı değiştirmek hiç bitmeyen bir iştir. Bu yönüyle bir işten ziyade bir ruh halidir aslında. 
 
 Dünyayı değiştirmede başarılı olan insanların daima gerçekleştirecekleri başka hedefleri bulunur. Bu kişiler, uzun vadeye odaklanan ancak daima bugün yapacakları küçük eylemleri gerçekleştirmeye çabalayan, sorunlara olumlu açıdan yaklaşan mütevazi kişilerdir.
