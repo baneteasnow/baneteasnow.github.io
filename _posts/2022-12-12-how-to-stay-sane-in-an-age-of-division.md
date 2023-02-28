@@ -1,5 +1,5 @@
 ---
-# openai - ---
+# openai ---
 layout: post
 category: book
 title: "How to Stay Sane in an Age of Division  | Elif Safak (Kitap)"

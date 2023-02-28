@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "The Neurotic Personality of Our Time | Karen Horney (Kitap)"
@@ -18,6 +19,8 @@ instagram: "no"
 reread: "yes"
 rating: "5"
 num: "283"
+openai: "yes"
+eng: "The Neurotic Personality of Our Time by Karen Horney is a seminal work in psychoanalytic theory that examines the roots and manifestations of neurosis in modern society. Horney argues that the societal pressures of conformity and success contribute to the development of neurotic personalities. She also outlines several specific types of neurosis, such as the compliant personality and the detached personality. Throughout the book, Horney provides case studies and clinical examples to illustrate her theories, and she discusses the role of psychotherapy in treating neurosis. Although some of the ideas presented in the book may be controversial, The Neurotic Personality of Our Time is a valuable and thought-provoking contribution to the field of psychoanalysis that continues to influence modern understandings of mental health."
 image: "/assets/new/the-neurotic-personality-of-our-time.jpg"
 ---
 

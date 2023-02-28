@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "On Being A Therapist | Jeffrey A. Kottler (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "284"
+openai: "yes"
+eng: "An insightful and comprehensive guide for aspiring and practicing therapists is On Becoming A Therapist by Jeffrey A. Kottler. To provide helpful guidance on a variety of subjects, from developing therapeutic relationships to handling challenging clients, Kottler draws on his vast experience as a therapist and educator. He discusses problems like ethical conundrums, exhaustion, and self-care while examining the difficulties and benefits of the therapeutic profession. The book also includes tales from the author's life and case studies that serve as examples of successful therapeutic techniques in the real world and serve to clarify important ideas."
 image: "/assets/new/on-being-a-therapist.jpg"
 ---
 

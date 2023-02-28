@@ -1,4 +1,5 @@
 ---
+# openai ---
 layout: post
 category: book
 title: "Building a Second Brain | Tiago Forte (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "286"
+openai: "yes"
+eng: "Building a Second Brain by Tiago Forte is a book that offers a comprehensive system for organizing, managing, and utilizing digital information effectively. Forte introduces the concept of a second brain, which refers to a digital system that can store and retrieve information from various sources in an organized manner. He provides practical tips and strategies for creating a second brain, including using note-taking tools, developing a knowledge management system, and implementing workflows for information processing. Forte also addresses the potential pitfalls of information overload and the importance of balancing information consumption with productive output."
 image: "/assets/new/building-a-second-brain.jpg"
 ---
 

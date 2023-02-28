@@ -1,4 +1,5 @@
 ---
+#openai ---
 layout: post
 category: book
 title: "The Nordic Guide to Living 10 Years Longer | Bertil Marklund (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "3"
 num: "285"
+openai: "yes"
+eng: "The Nordic Guide to Living 10 Years Longer by Bertil Marklund is a book that explores the secrets of Nordic longevity and provides practical tips for living a healthier and longer life. Marklund examines the lifestyle factors that contribute to the high life expectancy in the Nordic countries, including healthy eating habits, physical activity, and stress management. He also highlights the importance of social connections and community involvement for overall health and well-being. The book offers evidence-based advice on how to adopt these healthy habits, such as eating a plant-based diet and incorporating regular exercise into daily routines."
 image: "/assets/new/the-nordic-guide-to-living-10-years-longer.jpg"
 ---
 
