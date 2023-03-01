@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "The Little Book of Mindfulness | Patrizia Collard (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "2"
 num: "282"
+openai: "yes"
+eng: "The Little Book of Mindfulness by Patrizia Collard is a useful guide to incorporating mindfulness into daily life. The book includes a variety of short, simple activities designed to increase readers' present-moment awareness and help them manage stress and anxiety. Collard advises readers to incorporate mindfulness into everyday activities such as eating and walking by providing instructions on practices such as body awareness, breath meditation, and mindful movement."
 image: "/assets/new/the-little-book-of-mindfulness.jpg"
 ---
 
@@ -30,7 +33,7 @@ Kitabın bölümleri ve bir cümlede içerikleri şöyle:
 - Anda olmak - yargılamadan, görerek anı tecrübe etmeyi gerektirir.
 - Kabullenin ve karşılık verin - zihni ve bedeni farkındalık egzersizleri ile meşgul ederek, işleri akışına bırakmanızı sağlar.
 - Karar vermek - dikkati sadece ve sadece o ana verme kararını almak
-- Sadece var olun - var olmak, her şeyi olduğu gibi kabullenebilmeyi  ve suküneti getirir.
+- Sadece var olun - var olmak, her şeyi olduğu gibi kabullenebilmeyi  ve sükuneti getirir.
 - Farkındalıkla yemek - sorunları çözmek için yiyecekleri kullanmanızı engeller.
 - Şükretmek ve merhamet - basit güzellikleri ortaya çıkarır.
 - Günlük hayatta farkındalık - farkındalık bir beceri değil tavırdır.
