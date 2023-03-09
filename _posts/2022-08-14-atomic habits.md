@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Atomic Habits | James Clear (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "279"
+openai: "yes"
+english: "James Clear's self-help book Atomic Habits is based on the premise that making small adjustments to your daily routine can have a big impact on your life. The author offers a four-step paradigm that focuses on making healthy habits clear, appealing, simple and fulfilling in order to create them and break bad ones. Having a clear and specific goal in mind, tracking your progress and creating an environment that supports your desired habits are all emphasised in Clear. To illustrate his points and inspire action, Clear uses real-life examples and anecdotes throughout the book. Atomic Habits provides a straightforward and practical approach to personal development that can help anyone who wants to change their habits and achieve their goals."
 image: "/assets/new/atomic-habits.jpg"
 ---
 
