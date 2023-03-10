@@ -15,7 +15,6 @@ On Being a Master Therapist (2017)
 <i> by </i> Jeffrey A. Kottler, Jon Carlson.   
 <br />  
 ⁜  
-
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
 
   
