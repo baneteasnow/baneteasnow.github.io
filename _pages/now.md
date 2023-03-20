@@ -14,11 +14,8 @@ published: true
 Philosophy (2022)  
 <i> by </i> Nigel Waeburton
 
-⁜ 2  
-  
-Self-knowledge (2022)  
-<i> by </i> Alain de Botton _(öncülüğünde)_  
-⁜ 
+
+⁜  
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
 
   
