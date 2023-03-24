@@ -22,9 +22,8 @@ openai: "no"
 num: "317"
 image: "/assets/new/self-knowledge.jpg"
 ---
-.
 
-## 1 [Kendini Bilmeme](#kendini-bilmeme)
+#### 1 [Kendini Bilmeme](#kendini-bilmeme)
 {: #kendini- bilmeme }
 
 Zihnimizin en çarpıcı özelliklerinen biri, onu çok az anlıyor oluşumuzdur. Zihnin iki bölümü vardır: bilinç ve biliçdışı. Psikoloji bilimi, bu ikisi arasında temel bir ayrım yaparak, biri karanlıkta kalan diğeri daha farkedilir iki farklı kavram ortaya koyar. Olgunluğun da bilçsizi sürekli olarak bilinçliye çevirme dürtüsü içerdiği kabul edilir. 
@@ -33,7 +32,7 @@ Bilinçdışı kimi süreçlere yakından bakmak çekince yaratır. Çocukluktan
 
 Kendimiz hakkında iyi düşünmeye meyilliyizdir, zor duygularla yüzleşmek yerine, çoğu kez işin kolayına kaçarız ve onların üstlerini örteriz. Ancak, bu davranışımız da bazı olumsuzlukları ortaya çıkarır. İrdelememiş duygu ve düşünceler zamanla bir kenarda birikir ve kendilerini zaman zaman bazı olaylarda gösterirler. Örneğin tanınmamış heves endişeye, kıskabçlık hınca, kızgınlık öfkeye, mutsuzluk depresyona dönüşerek kendini belli eder. Dile getirilmeyen konular yüzünden kişinin adeta önü tıkanır ve ilerleyemez hale gelir. Belirti olarak çeşitli takıntılar, uykusuzluk, bağımlılık gibi istenmeyen durumlar ortaya çıkar. 
 
-## 2 [Felsefi Meditasyon](#felsefi-meditasyon)
+#### 2 [Felsefi Meditasyon](#felsefi-meditasyon)
 {: #felsefi-meditasyon }
 
 Yoğun ve stresli geçen günlük hayatımız içinde zihnimizdeki gerginliklerden kurtulmak için dinginliğe kavuşmak isteriz. Meditasyon kavramı farklı isimlerle hem batı hem de doğu düşüncesinde yer alır. Batı felsefesi geleneğinde Felsefi Meditasyon olarak adlandırılan bir yöntem ise, yeterince ele alınmamış ve gizli kapaklı duran düşünce ve duyguların işlenmesi yöntemi ile zihnin dinginliğe ulaşacağını söyler.  Bu yöntem çeşitli soruları kendi içimizde net ve dürüst şekilde cevaplamayı ve alınan cevaplara göre yeni değerlendirmeler yapmayı önerir. Kullanılan üç ana soru şöyledir:
@@ -41,24 +40,24 @@ Yoğun ve stresli geçen günlük hayatımız içinde zihnimizdeki gerginliklerd
 - Şu anda ne için üzgünüm?
 - Şu anda ne için heyecanlıyım?
 
-### [Endişe](#endise)
+##### [Endişe](#endise)
 {: #endise }
 
 Dünya bilinmezliklerle doludur ve bu bilinmezlikler arasında kendi yönümüzü bulmamız gerekir. Endişelere bakarken onların aslında hangi temel nedenden kaynaklandığını belirlemek önemlidir. 
 
 Endişeli olduğumuzda düşüncelerimiz darmadağınık bir hale bürünür. Farklı konular birbirinden kopuk başlıklar halinde zihnimizde dolanmaya başlar. 
 
-### [Üzüntü](#uzuntu)
+##### [Üzüntü](#uzuntu)
 {: #uzuntu }
 
 Her zaman için herhangi bir konu hakkında üzüntü duymamız muhtemeldir çünkü aslında düşündüğümüzden daha kırılganızdır. Bu kouları herhangi bir çözüme kavuşturamayacak olsak dahi, sınırlarımızı bilmek bize yardımcı olur. 
 
-### [Heyecan](#heyecan)
+##### [Heyecan](#heyecan)
 {: #heyecan }
 
 Bir konunun bahsi geçtiğinde bile heyecanlanmak, tatlı bir heyecan duymak aslında iş ya da kişisel yaşamın geleceği hakkında da fikir verir. Heyecan duyduğumuz anlarda, bu heyecanın kaynağını yeterince sorgulamazsak gelişim noktalarımızı da kaçırma riskimiz ortaya çıkar. Felsefi Meditasyon bu noktada devreye girdiğinde, doğru sorularla bu heyecanı yorumlamak mümkün hale gelir.
 
-## 3 [Duygusal Kimlik](#duygusal-kimlik)
+#### 3 [Duygusal Kimlik](#duygusal-kimlik)
 {: #duygusal-kimlik }
 
 Duygusal kimliklerimiz dört farklı temel çerçevede ortaya çıkar:
@@ -69,29 +68,29 @@ Duygusal kimliklerimiz dört farklı temel çerçevede ortaya çıkar:
 
 Bu unsurların ne şekilde biraraya geldiği kim olduğumuzu belirler. 
 
-### [Özsevgi](#ozsevgi)
+##### [Özsevgi](#ozsevgi)
 {: #ozsevgi  }
 
 Özsevgi, insanın kendine karşı samimi hissetmesi, kendini bağışlaması, kendini olduğu haliyle kabul etmesi ve ani değişikliklerde kararlı durabilmesidir. 
 
 Örneğin, sahip olmadığımız özelliklere sahip olan bir başka kişi ile karşılaştığımızda özsevgimiz düşükse kendimizi bir an için bile olsa değersiz hissedebiliriz. 
 
-### [Açıkyüreklilik](#acikyureklilik)
+##### [Açıkyüreklilik](#acikyureklilik)
 {: #acikyureklilik }
 
 Açıkyüreklilik, zihnimizdeki çetin fikirlerimizi ve rahatsız edici gerçekleri ne ölçüde bilinçli şekilde itiraf edebildiğimiz, bunları hangi ölçüde makul şekilde keşfedebileceğimiz ile ilgilidir. 
 
-### [İletişim](#iletisim)
+##### [İletişim](#iletisim)
 {: #iletisim }
 
 İletişim, kendimizi sözcüklerle ne ölçüde ifade edebildiğimiz ile bağlantılıdır. Başkalarına kendimizi anlatmamıza rağmen, anlaşılmadığımızı hissetmemiz durumunda, anlaşılmamanın da normal olabileceğini kabul ederek, kendi bakış açımızı düzgün şekilde bir kez daha ifade edip karşı tarafı ikna etmeye çalışma biçimimiz iletişimdeki başarımızı belirler. 
 
-### [Güven](#guven)
+##### [Güven](#guven)
 {: #guven }
 
 Güven yaşadığımız çevreyi ne ölçüde güvenli veya tehlikeli bulduğumuzla alakalıdır. 
 
-## [Duygusal Miras](#duygusal-miras)
+#### [Duygusal Miras](#duygusal-miras)
 {: #duygusal-miras }
 
 Duygusal miras, ailemizden, içinde yetişdiğimiz çevreden, üzerimizde etkisi olan insanlar ve onların bize ister istemez yüklediklerinden kaynaklanır.
@@ -101,7 +100,7 @@ Psikoterapistler, geçmişten duygusal olarak aldığımız miras ifade edebilme
 Önemli olan bir kişinin kendisini oluşturan parçaları anlamasıdır. 
 
 
-## 4 [Dürüstlük ve İnkar](#durustluk-ve-inkar)
+#### 4 [Dürüstlük ve İnkar](#durustluk-ve-inkar)
 {: #durustluk-ve-inkar }
 
 Acıdan kaçınmak istememiz hem ötekine hem de kendimize yalan söyleme eğilimine yol açar. Aşağıdaki konularda kendimize yalan söyleme olasılığımız oldukça yüksektir. 
@@ -112,12 +111,12 @@ Acıdan kaçınmak istememiz hem ötekine hem de kendimize yalan söyleme eğili
 
 Kendimize çok daha dürüst bakabilme yolunda cesaret kazanmak için, normal olanın ne olduğuna dair daha geniş kapsamlı ve daha rahatlatıcı bir hissiyata ihtiyaç duyarız. Ancak, bazı hislerin farkında olmak, o hislerin peşinden gideceğimiz anlamına gelmez.
 
-## 5 [Kendini Yargılamak](#kendini-yargilamak)
+#### 5 [Kendini Yargılamak](#kendini-yargilamak)
 {: #kendini-yargilamak }
 
 İç sesimiz sürekli aktiftir. Zihnimizin bir yanında, günlük akış içinde aktif olarak adeta bir yargıçlık görevi sürdürür. Kendi benlik saygımızın seviyesini belirlercesine ya en iyisine layık olduğumuzu ya da ne kadar değersiz varlıklar olduğumuzu bize hatırlatır.
 
-## 6 [Duygusal Kuşkuculuk](#duygusal-kuskuculuk)
+#### 6 [Duygusal Kuşkuculuk](#duygusal-kuskuculuk)
 {: #duygusal-kuskuculuk }
 
 Kendi zihnimize yönelik eleştirel tutum, duygusal kuşkuculuk olarak adlandırılur. Duygusal kuşkuculuk, içgüdülerimiz, dürtülerimiz, kanaatlerimiz ve güçlü tutkularımız karşısında hayli dikkatli olma halini ifade eder. 
