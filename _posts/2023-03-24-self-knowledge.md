@@ -24,7 +24,7 @@ image: "/assets/new/self-knowledge.jpg"
 ---
 
 #### 1 [Kendini Bilmeme](#kendini-bilmeme)
-{: #kendini- bilmeme }
+{: #kendini-bilmeme }
 
 Zihnimizin en çarpıcı özelliklerinen biri, onu çok az anlıyor oluşumuzdur. Zihnin iki bölümü vardır: bilinç ve biliçdışı. Psikoloji bilimi, bu ikisi arasında temel bir ayrım yaparak, biri karanlıkta kalan diğeri daha farkedilir iki farklı kavram ortaya koyar. Olgunluğun da bilçsizi sürekli olarak bilinçliye çevirme dürtüsü içerdiği kabul edilir. 
 
@@ -90,7 +90,7 @@ Açıkyüreklilik, zihnimizdeki çetin fikirlerimizi ve rahatsız edici gerçekl
 
 Güven yaşadığımız çevreyi ne ölçüde güvenli veya tehlikeli bulduğumuzla alakalıdır. 
 
-#### [Duygusal Miras](#duygusal-miras)
+##### [Duygusal Miras](#duygusal-miras)
 {: #duygusal-miras }
 
 Duygusal miras, ailemizden, içinde yetişdiğimiz çevreden, üzerimizde etkisi olan insanlar ve onların bize ister istemez yüklediklerinden kaynaklanır.
