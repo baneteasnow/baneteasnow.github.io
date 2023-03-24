@@ -5,14 +5,14 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-03-15
+last_modified_at: 2023-03-24
 published: true  
 ---
 
 ⁜ 1  
   
-Philosophy (2022)  
-<i> by </i> Nigel Waeburton
+Bir Psikanalistin Notlari (2020)  
+<i> by </i> Gabriel Rolon  
 
 
 ⁜  
