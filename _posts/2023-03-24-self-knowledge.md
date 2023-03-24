@@ -12,16 +12,17 @@ description: "Kendimiz anlamak, kendi zihnimizde olup biteni tüm açıklığı 
 last_modified_at: 2023-03-24
 published: true
 posted: 2023-03-24
-tag: "psıkolojı"
+tag: "psıkoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
-eng: "One of the most striking features of our mind is our lack of understanding of it. The mind has two parts: the conscious and the unconscious. Psychology makes a fundamental distinction between these two, one remaining in the dark while the other is more noticeable. Looking closely at some unconscious processes can create reluctance. We are not aware of some understandings that we have internalized from childhood, and some situations where things that were implanted into us as "normal" actually turn out to be abnormal. We tend to think well of ourselves and often take the easy way out instead of confronting difficult emotions and cover them up. However, this behavior also reveals some negativity. Unexplored emotions and thoughts accumulate over time and occasionally appear in some events. Meditation, a method called Philosophical Meditation in the Western philosophical tradition, offers a way to process unexplored and hidden thoughts and feelings to achieve mental calmness. The method suggests answering some questions honestly within ourselves and making new evaluations according to the answers. The three main questions used are: "What am I worried about right now?" "What am I sad about right now?" and "What am I excited about right now?" The book Self-Knowledge discusses these questions and more to help us better understand ourselves, our emotions and our thought patterns."
+eng: "One of the most striking features of our mind is our lack of understanding of it. The mind has two parts: the conscious and the unconscious. Psychology makes a fundamental distinction between these two, one remaining in the dark while the other is more noticeable. Looking closely at some unconscious processes can create reluctance. We are not aware of some understandings that we have internalized from childhood, and some situations where things that were implanted into us as 'normal' actually turn out to be abnormal. We tend to think well of ourselves and often take the easy way out instead of confronting difficult emotions and cover them up. However, this behavior also reveals some negativity. Unexplored emotions and thoughts accumulate over time and occasionally appear in some events. Meditation, a method called Philosophical Meditation in the Western philosophical tradition, offers a way to process unexplored and hidden thoughts and feelings to achieve mental calmness. The method suggests answering some questions honestly within ourselves and making new evaluations according to the answers. The three main questions used are: `What am I worried about right now?' 'What am I sad about right now?' and 'What am I excited about right now?' The book Self-Knowledge discusses these questions and more to help us better understand ourselves, our emotions and our thought patterns."
 openai: "no"
 num: "317"
 image: "/assets/new/self-knowledge.jpg"
 ---
+.
 
 ## 1 [Kendini Bilmeme](#kendini-bilmeme)
 {: #kendini- bilmeme }
@@ -57,7 +58,7 @@ Her zaman için herhangi bir konu hakkında üzüntü duymamız muhtemeldir çü
 
 Bir konunun bahsi geçtiğinde bile heyecanlanmak, tatlı bir heyecan duymak aslında iş ya da kişisel yaşamın geleceği hakkında da fikir verir. Heyecan duyduğumuz anlarda, bu heyecanın kaynağını yeterince sorgulamazsak gelişim noktalarımızı da kaçırma riskimiz ortaya çıkar. Felsefi Meditasyon bu noktada devreye girdiğinde, doğru sorularla bu heyecanı yorumlamak mümkün hale gelir.
 
-## [Duygusal Kimlik](#duygusal-kimlik)
+## 3 [Duygusal Kimlik](#duygusal-kimlik)
 {: #duygusal-kimlik }
 
 Duygusal kimliklerimiz dört farklı temel çerçevede ortaya çıkar:
@@ -100,7 +101,7 @@ Psikoterapistler, geçmişten duygusal olarak aldığımız miras ifade edebilme
 Önemli olan bir kişinin kendisini oluşturan parçaları anlamasıdır. 
 
 
-# [Dürüstlük ve İnkar](#durustluk-ve-inkar)
+## 4 [Dürüstlük ve İnkar](#durustluk-ve-inkar)
 {: #durustluk-ve-inkar }
 
 Acıdan kaçınmak istememiz hem ötekine hem de kendimize yalan söyleme eğilimine yol açar. Aşağıdaki konularda kendimize yalan söyleme olasılığımız oldukça yüksektir. 
@@ -111,12 +112,12 @@ Acıdan kaçınmak istememiz hem ötekine hem de kendimize yalan söyleme eğili
 
 Kendimize çok daha dürüst bakabilme yolunda cesaret kazanmak için, normal olanın ne olduğuna dair daha geniş kapsamlı ve daha rahatlatıcı bir hissiyata ihtiyaç duyarız. Ancak, bazı hislerin farkında olmak, o hislerin peşinden gideceğimiz anlamına gelmez.
 
-# [Kendini Yargılamak](#kendini-yargilamak)
+## 5 [Kendini Yargılamak](#kendini-yargilamak)
 {: #kendini-yargilamak }
 
 İç sesimiz sürekli aktiftir. Zihnimizin bir yanında, günlük akış içinde aktif olarak adeta bir yargıçlık görevi sürdürür. Kendi benlik saygımızın seviyesini belirlercesine ya en iyisine layık olduğumuzu ya da ne kadar değersiz varlıklar olduğumuzu bize hatırlatır.
 
-# [Duygusal Kuşkuculuk](#duygusal-kuskuculuk)
+## 6 [Duygusal Kuşkuculuk](#duygusal-kuskuculuk)
 {: #duygusal-kuskuculuk }
 
 Kendi zihnimize yönelik eleştirel tutum, duygusal kuşkuculuk olarak adlandırılur. Duygusal kuşkuculuk, içgüdülerimiz, dürtülerimiz, kanaatlerimiz ve güçlü tutkularımız karşısında hayli dikkatli olma halini ifade eder. 
