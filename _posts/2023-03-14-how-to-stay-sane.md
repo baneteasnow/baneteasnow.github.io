@@ -31,7 +31,7 @@ Psikoterapistler "içe yansıma" terimini, bir insanın ya da kültürün belirl
 - "kendini gözlemlemek", 
 - "başkalarıyla ilişkilenmek",
 - "faydalı gerilim",  
-- "kişisel anlatı". 
+- "kişisel anlatı".  
 Bu alanlardan herbiri psikoterapiye başvurmadan da kişinin üzerinde çalışabileceği alanlardır.
 
 #### 1 [Kendini Gözlemleme](#kendini-gozlemleme)
