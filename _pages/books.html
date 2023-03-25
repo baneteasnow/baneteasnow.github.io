@@ -18,7 +18,7 @@ title: "books"
   <div><i> {{ post.yil }} </i></div>
        <a href="{{ post.url }}"><img src="{{ post.image }}" width="18%" height=18%" align="right" float="right" alt="{{ post.kitap }}" title="{{ post.kitap }}" style="margin:18px 0 0 15px;"/></a>
       <div> {{ post.eng }} </div>
-         <div class="link1"> <a href="{{ post.goodreads }}">goodreads</a> &nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;"> </div>
+         <div class="link1"> <a href="{{ post.goodreads }}" target="_blank" rel="noreferrer,nofollow">goodreads</a> &nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;"> </div>
          <div style="font-style: italic; color: #999999;"> {{ post.num }} </div>
        <!--  <div class="link1">
          <a href="{{ post.url }}" title="Türkçe">TR</a> &nbsp; <span style="color: blue">|</span> &nbsp; <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="too long; didn't read" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">tldr</a>
