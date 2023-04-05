@@ -10,12 +10,7 @@ published: true
 ---
 
 
-⁜ 1  
-  
-Seni Şikayet Etmedim Anne, Sadece Kendimi Anlattım (2006)  
-<i> by </i> Rüya Turna,<br /> Özlem Sanan Göksan   
-
-⁜ 2  
+⁜ 2   
   
 Breath (2020)  
 <i> by </i> James Nestor       
