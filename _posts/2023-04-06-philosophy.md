@@ -50,10 +50,11 @@ Aktif tartışma, karşı tarafı anladıktan sonra, gerekçeleri ile birlikte k
 
 Aktif yazma ile birlikte, yazmak eylemi düşünceleri kaydetmenin ötesine geçerek yazarken düşünmek halini bürünür. 
 
-### Orwell'in altı kılavuzu 
+### [Orwell'ın altı kılavuzu](#george-orwell)
+{: #george-orwell }
 (sayfa 69-70)
 
-Yazar george Orwell "Politics and the english Language" (1948) başlıklı denemesinde anlaşılır yazma konusunda öneriler vermiştir. 
+Yazar George Orwell "Politics and the english Language" (1948) başlıklı denemesinde anlaşılır yazma konusunda öneriler vermiştir. 
 - Bir mecaz, teşbih ya da basında görmeye alışık olduğunuz başka bir söz sanatı asla kullanmayın.
 - Kısa bir sözcüğün iş gördüğü yerde uzun sözcük kullanmayın.
 - Bir sözcüğü kesip atmak mümkünse, kesip atın.
@@ -61,12 +62,14 @@ Yazar george Orwell "Politics and the english Language" (1948) başlıklı denem
 - Gündelik dildeki bir eşdeğeri aklınıza geliyorsa, yabancı bir ifade, bilimsel bir sözcük ya da argo sözcük kullanmayın.
 - Düpedüz barbarca bir şey söylemeden önce bu kurallardan birini çiğneyin.
 
-### Bir noktaya değinin, destekleyin, yerindeliğini gösterin.
+### [Bir noktaya değinin, destekleyin, yerindeliğini gösterin.](#paragraf-olusturma)
+{: #paragraf-olusturma }
 (sayfa 75)
 
 Bir denemenin paragraflarını oluşturmanın en kullanışlı yolu, her paragrafın şu üç bileşeni içerdiğinden emin olmaktır.
 
-- Açıkça değinilen bir nokta, Onu desteklemek için bir tür kanıt ya da argüman,
-- Değinilen noktanın sorulan soruyla ilgisini gösterme, değinilen noktaya açıklık getirme. 
+- Açıkça değinilen bir nokta, 
+- Onu desteklemek için bir tür kanıt ya da argüman,  
+- Değinilen noktanın sorulan soruyla ilgisini gösterme, değinilen noktaya açıklık getirme.  
 
 
