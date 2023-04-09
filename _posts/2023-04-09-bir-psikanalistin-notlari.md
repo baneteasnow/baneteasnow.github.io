@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Bir Psikanalistin Notları | (Kitap)"
 kitap: "Bir Psikanalistin Notları - Psıkoterapi Dünyasından Gerçek Hikayeler"
-tr: "Bir Psikanalistin Notları"
+tr: ""
 yazar: "Gabriel Rolon"
 yil: "2020"
 sayfa: "224"
