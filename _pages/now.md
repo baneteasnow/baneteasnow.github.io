@@ -8,7 +8,7 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2023-04-18
 published: true  
 ---
-<mark style="background: #BBFABBA6;">from</mark>
+<mark style="background: #BBFABBA6;">.</mark>
 
 ⁜ 1   
   
