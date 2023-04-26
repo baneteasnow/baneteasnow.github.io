@@ -5,22 +5,17 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-04-18
+last_modified_at: 2023-04-26
 published: true  
 ---
 <mark style="background: #BBFABBA6;">.</mark>
 
 ⁜ 1   
-  
-The Science of Accelerated Learning (2022)  
-<i> by </i> Peter Hollins  
-  
-⁜ 2  
-  
+    
 Yoga (2022)  
 <i> by </i> David Frawley  
   
-⁜ 3  
+⁜ 2  
   
 Meditasyonun Temelleri (2022)  
 <i> by </i> Bora Ercan  
