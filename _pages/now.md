@@ -5,18 +5,12 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-04-26
+last_modified_at: 2023-04-28
 published: true  
 ---
-<mark style="background: #BBFABBA6;">.</mark>
 
 ⁜ 1   
-    
-Yoga (2022)  
-<i> by </i> David Frawley  
-  
-⁜ 2  
-  
+      
 Meditasyonun Temelleri (2022)  
 <i> by </i> Bora Ercan  
 
