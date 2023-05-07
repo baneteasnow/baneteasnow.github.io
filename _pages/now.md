@@ -5,7 +5,7 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-04-28
+last_modified_at: 2023-05-07
 published: true  
 ---
 
@@ -13,12 +13,12 @@ published: true
    
 Meditasyonun Temelleri (2022)  
 <i> by </i> Bora Ercan  
-
+  
 ⁜ 2  
   
-How To Find Love (2022)  
-<i> by </i> The School of Life  
-
+TED Gibi Konuş (2023)  
+<i> by </i> Carmine Gallo  
+  
 
 ⁜  
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
