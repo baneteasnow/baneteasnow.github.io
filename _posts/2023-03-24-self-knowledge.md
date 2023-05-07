@@ -2,7 +2,7 @@
 # openai
 layout: post
 category: book
-title: "Self-knowledge | Alain de Botton (The School of Life) (Kitap)"
+title: "Self-knowledge | The School of Life (Kitap)"
 kitap: "Self-knowledge"
 tr: "Kendini Tanımak"
 yazar: "Alain de Botton (The School of Life)"
