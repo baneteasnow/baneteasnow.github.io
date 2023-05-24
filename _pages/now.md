@@ -5,7 +5,7 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-05-07
+last_modified_at: 2023-05-24
 published: true  
 ---
 
@@ -16,8 +16,8 @@ Meditasyonun Temelleri (2022)
   
 ⁜ 2  
   
-TED Gibi Konuş (2023)  
-<i> by </i> Carmine Gallo  
+Öngörülemeyen Bir Dünyada Yaşamak (2023)  
+<i> by </i> Frederic Lenoir    
   
 
 ⁜  
