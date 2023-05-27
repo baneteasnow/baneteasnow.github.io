@@ -5,19 +5,19 @@
 # : definition
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-05-24
+last_modified_at: 2023-05-27
 published: true  
 ---
 
 ⁜ 1  
    
-Meditasyonun Temelleri (2022)  
-<i> by </i> Bora Ercan  
+Acemi Yogninin Ayurveda Yolculuğu (2021)  
+<i> by </i> Esra E. Karaosmanoğlu  
   
 ⁜ 2  
   
-Öngörülemeyen Bir Dünyada Yaşamak (2023)  
-<i> by </i> Frederic Lenoir    
+Belki De Biriyle Konuşmalısın (2022)  
+<i> by </i> Lori Gottlieb  
   
 
 ⁜  
