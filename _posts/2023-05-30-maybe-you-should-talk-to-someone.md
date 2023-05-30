@@ -13,7 +13,7 @@ description: "Belki De Biriyle Konuşmalısın,  psikoterapi sürecini tüm ini�
 last_modified_at: 2023-05-30
 published: true
 posted: 2023-05-30
-tag: "social/psikoloji" 
+tag: "psikoloji" 
 instagram: "no"
 insta: "no"
 reread: "no"
