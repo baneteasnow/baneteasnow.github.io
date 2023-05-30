@@ -16,8 +16,8 @@ Acemi Yogninin Ayurveda Yolculuğu (2021)
   
 ⁜ 2  
   
-Maybe You Should Talk To Someone (2022)  
-<i> by </i> Lori Gottlieb  
+ ()  
+<i> by </i> 
   
 
 ⁜  
