@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Acemi Yoginin Ayurveda Yolculuğu | Esra E. Karaosmanoğlu (Kitap)"
@@ -38,7 +39,3 @@ Ayurveda öncelikle doşa olarak adlandırılan beden tipini tespit etmeyle baş
 
 
 
-
-
----
-# Related
