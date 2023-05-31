@@ -20,7 +20,7 @@ reread: "no"
 rating: "4"
 eng: "Yoga: A Guide to the Teachings and Practices by David Frawley is a comprehensive book that explores the essence of yoga. Drawing on his extensive knowledge of ancient yogic texts and practices, Frawley provides readers with a profound understanding of the philosophy, principles and techniques of yoga. Exploring topics such as asanas (postures), pranayama (breathing exercises), meditation and the spiritual dimensions of yoga, the book serves as a practical guide for beginners and experienced practitioners alike. "
 openai: "yes"
-num: "322"
+num: "320"
 image: "/assets/new/yoga-a-guide-to-teachings-and-practices.jpg"
 ---
 
