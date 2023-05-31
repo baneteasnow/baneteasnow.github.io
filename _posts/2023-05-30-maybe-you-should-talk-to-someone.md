@@ -20,7 +20,7 @@ reread: "no"
 rating: "4"
 eng: "The memoir Maybe You Should Talk To Someone by Lori Gottlieb presents a distinctive viewpoint on therapy by fusing individual experiences as both a patient and a therapist. Gottlieb investigates human emotions, vulnerability, and the therapeutic process transforming potential via stories and experiences."
 openai: "yes"
-num: "319"
+num: "320"
 image: "/assets/new/maybe-you-should-talk-to-someone.jpg"
 ---
 
