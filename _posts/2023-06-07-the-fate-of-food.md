@@ -13,32 +13,6 @@ description: "Amanda Little'ın "The Fate of Food" kitabı, dünya gıda sistemi
 last_modified_at: 2023-06-07
 published: true
 posted: 2023-06-07
-tag: "beslenme" 
-instagram: "no"
-insta: "no"
-reread: "no"
-rating: "3"
-eng: "The Fate of Food by Amanda Little examines the future of food in a changing world, exploring challenges and innovative solutions for sustainability and food security."
-openai: "yes"
-num: "329"
-image: "/assets/new/the-fate-of-food.jpg"
----
-
----
-# openai
-layout: post
-category: book
-title: "The Fate of Food | Amanda Little (Kitap)"
-kitap: "The Fate of Food: What We'll Eat in a Bigger, Hotter, Smarter World"
-tr: "Gıdanın Geleceği - Daha da kalabalık, ısınmış ve akıllı bir dünyada ne yiyeceğiz?"
-yazar: "Amanda Little"
-yil: "2020"
-sayfa: "440"
-goodreads: "https://www.goodreads.com/book/show/41882450-the-fate-of-food"
-description: "Amanda Little'ın "The Fate of Food" kitabı, dünya gıda sistemini iklim değişikliği ve kaynak sınırlılığı gibi zorluklarla ele alarak gelecekteki çözümleri araştırıyor."
-last_modified_at: 2023-06-07
-published: true
-posted: 2023-06-07
 tag: "beslenme"
 instagram: "no"
 insta: "no"
