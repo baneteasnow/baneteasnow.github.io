@@ -2,7 +2,7 @@
 # openai
 layout: post
 category: book
-title: "The Chakra Handbook | (Kitap)"
+title: "The Chakra Handbook | S. Sharamon, B. J. Baginski (Kitap)"
 kitap: "The Chakra Handbook"
 tr: "Chakra El Kitabı"
 yazar: "S. Sharamon, B. J. Baginski"
@@ -17,8 +17,8 @@ tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "no"
-rating: "3"
-eng: "Shalila Sharamon and Bodo J. Baginski's The Chakra Handbook is a comprehensive guide that provides practical information and techniques for understanding and balancing the chakra system.""
+rating: "4"
+eng: "Shalila Sharamon and Bodo J. Baginski's The Chakra Handbook is a comprehensive guide that provides practical information and techniques for understanding and balancing the chakra system."
 openai: "yes"
 num: "348"
 image: "/assets/new/the-chakra-handbook.jpg"
