@@ -5,7 +5,7 @@ category: book
 title: "Self-knowledge | The School of Life (Kitap)"
 kitap: "Self-knowledge"
 tr: "Kendini Tanımak"
-yazar: "Alain de Botton (The School of Life)"
+yazar: "The School of Life"
 yil: "2023"
 sayfa: "96"
 goodreads: "https://www.goodreads.com/book/show/37533013-self-knowledge"
