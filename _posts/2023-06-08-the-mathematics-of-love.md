@@ -2,7 +2,7 @@
 # open ai
 layout: post
 category: book
-title: "The Mathematics of Love | Hannah Fry(Kitap)"
+title: "The Mathematics of Love | Hannah Fry (Kitap)"
 kitap: "The Mathematics of Love: Patterns, Proofs, and the Search for the Ultimate Equation"
 tr: "Aşkın Matematiği"
 yazar: "Hannah Fry"
@@ -23,6 +23,7 @@ openai: "no"
 num: "330"
 image: "/assets/new/the-mathematics-of-love.jpg"
 ---
+
 
 Hannah Fry, Aşkın Matematiği isimli kitabında, aşkın karmaşıklığını matematiksel modeller ve istatistiksel analizlerle anlamaya çalışırken, romantik ilişkilerin arkasındaki bazı ilginç gerçekleri de ortaya koyuyor.
 
