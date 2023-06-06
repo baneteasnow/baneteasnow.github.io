@@ -13,13 +13,13 @@ description: "Hannah Fry, Aşkın Matematiği isimli kitabında matematiksel mod
 last_modified_at: 2023-06-06
 published: true
 posted: 2023-06-06
-tag: "psikoloji" 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
 eng: "The Mathematics of Love is a book by Hannah Fry that explores love through mathematical models and statistical analysis, revealing the hidden patterns and complexities of romantic relationships."
-openai: "no"
+openai: "yes"
 num: "330"
 image: "/assets/new/the-mathematics-of-love.jpg"
 ---
