@@ -9,7 +9,7 @@ yazar: "Peter Hollins"
 yil: "2022"
 sayfa: "192"
 goodreads: "https://www.goodreads.com/book/show/36758795-the-science-of-accelerated-learning"
-description: "Peter Hollins'in The Science of Accelerated Learning kitabı, bilimsel temellere dayanan stratejilerle öğrenme sürecini hızlandırmayı ve bilgiyi etkili bir şekilde işlemeyi amaçlıyor.""
+description: "Peter Hollins'in The Science of Accelerated Learning kitabı, bilimsel temellere dayanan stratejilerle öğrenme sürecini hızlandırmayı ve bilgiyi etkili bir şekilde işlemeyi amaçlıyor."
 last_modified_at: 2023-06-18
 published: true
 posted: 2023-06-18
