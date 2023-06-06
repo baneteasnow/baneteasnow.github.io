@@ -8,7 +8,7 @@ tr: "Aşkın Matematiği"
 yazar: "Hannah Fry"
 yil: "2016"
 sayfa: "128"
-goodreads: "[https://www.goodreads.com/book/show/41882450-the-fate-of-food](https://www.goodreads.com/book/show/23258103-the-mathematics-of-love)"
+goodreads: "https://www.goodreads.com/book/show/23258103-the-mathematics-of-love"
 description: "Hannah Fry, Aşkın Matematiği isimli kitabında matematiksel modeller ve istatistiksel analizler kullanarak aşkın arkasındaki bazı ilginç gerçekleri ortaya koyuyor."
 last_modified_at: 2023-06-06
 published: true
