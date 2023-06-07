@@ -86,7 +86,7 @@ aralık
 
 {% for month in postsByMonth %}
 
-<span style="text-align: right; float: right; color: #777; font-weight: bold;">
+<span style="text-align: right; float: right; color: #777; font-weight: bold; font-size: 85% !important; font-style: italic;">
 {% if month.name == 'January' %}
 ocak
 {% elsif month.name == 'February' %}
@@ -117,7 +117,7 @@ aralık
 <p>
   {% for post in month.items %}
     <p>
-      <div class="decorated" style="font-size: 100%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
+      <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
 </p>
   {% endfor %}
 </p>
