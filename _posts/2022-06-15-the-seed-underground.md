@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "The Seed Underground | Janisse Ray (Kitap)"
@@ -18,6 +19,8 @@ instagram: "https://www.instagram.com/p/CfmVg3BIs9B/"
 reread: "yes"
 rating: "5"
 num: "260"
+openai: "yes"
+eng: "The Seed Underground: A Growing Revolution to Save Food by Janisse Ray is a compelling exploration of the critical role of seed saving in preserving biodiversity and ensuring food security, featuring stories of dedicated seed savers and their efforts to protect rare and endangered plant varieties."
 image: "/assets/new/the-seed-underground.jpg"  
 ---
  

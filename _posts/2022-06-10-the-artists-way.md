@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "The Artist's Way | Julia Cameron (Kitap)"
@@ -18,6 +19,8 @@ insta: "yes"
 reread: "yes"
 rating: "5"
 num: "258"
+openai: "yes"
+eng: "The Artist's Way: A Spiritual Path to Higher Creativity by Julia Cameron is a renowned guidebook that helps individuals unlock their creativity and unleash their artistic potential through a 12-week program of self-discovery and reflection."
 image: "/assets/new/the-artists-way.jpg"
 ---
 

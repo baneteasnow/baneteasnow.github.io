@@ -1,4 +1,5 @@
 ---
+# open ai
 layout: post
 category: book
 title: "The Drama of the Gifted Child | Alice Miller (Kitap)"
@@ -18,6 +19,8 @@ instagram: "https://www.instagram.com/p/Cfy46aGIFMY/"
 reread: "yes"
 rating: "5"
 num: "262"
+openai: "yes"
+eng: "The Drama of the Gifted Child by Alice Miller explores the impact of childhood experiences on individuals' sense of self and emphasizes the importance of healing emotional wounds to reclaim authenticity and fulfillment."
 image: "/assets/new/the-drama-of-the-gifted-child.jpg"
 ---
 

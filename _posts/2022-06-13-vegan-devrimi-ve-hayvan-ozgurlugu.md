@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Vegan Devrimi ve Hayvan Özgürlüğü | Zülâl Kalkandelen (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "4"
 num: "259"
+openai: "yes"
+eng: "Vegan Devrimi ve Hayvan Özgürlüğü: Türkiye'den ve Dünyadan Mücadele Örnekleriyle by Zülâl Kalkandelen explores the vegan movement, animal liberation, and activism through inspiring examples from Turkey and around the world."
 image: "/assets/new/vegan-devrimi-ve-hayvan-ozgurlugu.jpg"
 ---
 

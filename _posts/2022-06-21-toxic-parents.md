@@ -1,4 +1,5 @@
 ---
+# open ai
 layout: post
 category: book
 title: "Toxic Parents | Susan Forward, Craig Buck (Kitap)"
@@ -19,6 +20,8 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "264"
+openai: "yes"
+eng: "Toxic Parents by Susan Forward offers guidance and support for individuals seeking to heal from the damaging effects of toxic parenting and reclaim their lives."
 image: "/assets/new/toxic-parents.jpg"
 ---
 

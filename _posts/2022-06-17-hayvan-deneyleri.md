@@ -1,4 +1,5 @@
 ---
+# open ai
 layout: post
 category: book
 title: "Hayvan Deneyleri | Yağmur Özgür Güven, Oğuzcan Kınıkoğlu (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "5"
 num: "261"
+openai: "yes"
+eng: "Hayvan Deneyleri: Hayvanlar Bizim İçin mi Var? by Yağmur Özgür Güven and Oğuzcan Kınıkoğlu questions the ethics and necessity of animal experimentation, challenging readers to reconsider the impact on animal welfare and explore alternative approaches to scientific research."
 image: "/assets/new/hayvan-deneyleri.jpg"
 ---
 
