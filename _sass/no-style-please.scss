@@ -34,11 +34,12 @@ html {
 body {
   color: black;
   /* font-family: system-ui, sans-serif; */
-  font-family: 'Cardo', serif;
+  font-family: 'Cardo', serif !important;
   font-weight: 400;
   font-style: normal;
   font-size: 1.188rem; /*1.125rem - 1.6rem;*/  
   line-height: 2; /* 16px */
+text-indent:10%;
   /* letter-spacing: 0.5px; */
   margin: 0;
   min-height: 100%;
