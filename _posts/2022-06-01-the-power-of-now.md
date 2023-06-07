@@ -1,4 +1,5 @@
 ---
+# open ai
 layout: post
 category: book
 title: "The Power of Now | Eckhart Tolle (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "4"
 num: "253"
+openai: "yes"
+eng: "The Power of Now by Eckhart Tolle is a life-changing guide that teaches the power of living in the present moment for spiritual enlightenment and inner peace."
 image: "/assets/new/the-power-of-now.jpg"
 ---
 
