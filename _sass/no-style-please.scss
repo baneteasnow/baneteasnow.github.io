@@ -39,7 +39,6 @@ body {
   font-style: normal;
   font-size: 1.188rem; /*1.125rem - 1.6rem;*/  
   line-height: 2; /* 16px */
-text-indent:10%;
   /* letter-spacing: 0.5px; */
   margin: 0;
   min-height: 100%;
@@ -59,7 +58,7 @@ hr {
   width: auto;
 }
 
-p { margin: 1rem 0; }
+p { margin: 1rem 0; text-indent:10%; }
 
 li { margin: 0.4rem 0; list-style-type: "⦁ "; color: #777; } // circle 𖧷
 /* li::before {content: "*"; = Insert content that looks like bullets = padding-right: 8px; } */
