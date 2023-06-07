@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Treating Women's Fear of Failure | Esther D. Rothblum, Elle Cole (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "271"
+openai: "yes"
+eng: "Treating Women's Fear of Failure: From Worry to Enlightenment by Esther D. Rothblum and Elle Cole offers empowering strategies to help women overcome the fear of failure, cultivate resilience, and embrace personal growth."
 image: "/assets/new/treating-womens-fear-of-failure.jpg"
 ---
 
