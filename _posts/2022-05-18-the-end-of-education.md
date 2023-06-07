@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "The End of Education | Neil Postman (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "yes"
 rating: "5"
 num: "250"
+eng: "The End of Education by Neil Postman questions traditional education and advocates for a redefinition of its value, emphasizing critical thinking and a broader understanding of the world. Postman challenges standardized testing and urges a reconsideration of education's goals and purpose to better equip students for the future."
+openai: "yes"
 image: "/assets/new/the-end-of-education.jpg"
 ---
 

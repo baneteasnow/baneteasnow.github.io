@@ -1,4 +1,5 @@
 ---
+# openai
 layout: post
 category: book
 title: "Hayvan Hakları ve Veganizm | Kamil Savaş (Kitap)"
@@ -18,6 +19,8 @@ insta: "yes"
 reread: "yes"
 rating: "3"
 num: "245"
+openai: "yes"
+eng: "Hayvan Hakları ve Veganizm - Klasik Metinler Seçkisi by Kamil Sava is a compilation of influential texts that examine animal rights and veganism, offering readers a profound exploration of these topics and their ethical significance."
 image: "/assets/new/hayvan-haklari-ve-veganizm.jpg"
 ---
 
