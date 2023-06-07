@@ -5,7 +5,7 @@ layout: default
 <!-- <span class="link1">{%-include back_link.html-%}</span> -->
 
 <article>
-  <p class="post-meta">
+  <p class="post-meta" style="font-size: 85% !important;">
           <a href="#links" style="font-style: normal;">🪴</a>
         {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
         {% assign mes = site.data.tr.meses[mes_index] %}
@@ -18,7 +18,7 @@ layout: default
 </article>
 <br />
 
-<div class="fs85">
+<div class="fs85 !important;">
 {%-include post-footer.html-%}
 {%-include insta.html-%}
 {%-include post-tag.html-%} 
