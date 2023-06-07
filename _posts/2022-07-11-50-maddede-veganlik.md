@@ -1,4 +1,5 @@
 ---
+# open ai
 layout: post
 category: book
 title: "50 Maddede Veganlık | Emel Ernalbant, Hazal Yılmaz (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "5"
 num: "269"
+openai: "yes"
+eng: "50 Maddede Veganlık by Emel Ernalbant and Hazal Yılmaz is a Turkish book that explores veganism in 50 concise chapters, providing information, insights, and practical tips for adopting a vegan lifestyle. This book covers various aspects of veganism, including nutrition, animal welfare, environmental impact, and ethical considerations."
 image: "/assets/new/50-maddede-veganlik.jpg"
 ---
 

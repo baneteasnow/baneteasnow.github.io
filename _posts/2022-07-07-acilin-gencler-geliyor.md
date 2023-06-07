@@ -1,4 +1,5 @@
 ---
+# open ai
 layout: post
 category: book
 title: "Açılın Gençler Geliyor | Fatoş Karahasan (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "3"
 num: "268"
+openai: "yes"
+eng: "Açılın Gençler Geliyor is a Turkish book that explores the experiences, struggles, and aspirations of young people in contemporary society. The book delves into various themes relevant to youth, such as identity, relationships, social issues, and personal growth."
 image: "/assets/new/acilin-gencler-geliyor.jpg"
 ---
 

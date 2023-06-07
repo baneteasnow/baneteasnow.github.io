@@ -1,4 +1,5 @@
 ---
+# open ai
 layout: post
 category: book
 title: "Biri Beni Dinliyor | Dilek Yıldırım Akgün (Kitap)"
@@ -18,6 +19,8 @@ insta: "no"
 reread: "no"
 rating: "2"
 num: "267"
+openai: "yes"
+eng: "Biri Beni Dinliyor: Yaşanmış Koçluk Hikayeleri is a Turkish book that presents a collection of real-life coaching stories. Through these stories, the author shares the transformative power of coaching and its impact on individuals' lives."
 image: "/assets/new/biri-beni-dinliyor.jpg"
 ---
 
