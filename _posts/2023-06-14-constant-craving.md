@@ -16,7 +16,7 @@ posted: 2023-06-14
 tag: "psikoloji" 
 instagram: "no"
 insta: "no"
-reread: "no"
+reread: "yes"
 rating: "5"
 eng: "Constant Craving by Doreen Virtue is a book that explores the nature of cravings, provides insights into their underlying causes, and offers practical strategies to overcome them and find fulfilment."
 openai: "no"

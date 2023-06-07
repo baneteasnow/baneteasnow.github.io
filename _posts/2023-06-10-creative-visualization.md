@@ -16,7 +16,7 @@ posted: 2023-06-10
 tag: "motivasyon" 
 instagram: "no"
 insta: "no"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "Creative Visualization by Shakti Gawain explores the transformative power of thoughts and imagination. It introduces practical techniques for manifesting desires and emphasizes the importance of positive thinking. The book empowers readers to create a fulfilling life through the practice of visualization."
 openai: "yes"
