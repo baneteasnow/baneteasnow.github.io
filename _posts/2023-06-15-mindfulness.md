@@ -21,7 +21,7 @@ rating: "3"
 eng: "Mindfulness by Ellen J. Langer explores the transformative power of being fully present in the moment and offers practical strategies for incorporating mindfulness into everyday life. The book provides insights, examples, and research to inspire readers to cultivate a more conscious and fulfilling existence."
 openai: "yes"
 num: "337"
-image: "/assets/new/mindfulness.jpg"
+image: "/assets/new/mindfulness-25th-anniversary-edition.jpg"
 ---
 
 Ellen J. Langer'ın "Mindfulness" adlı kitabı, farkındalık kavramını derinlemesine inceler. Langer, geleneksel fikirlerin ötesine geçerek, farkındalığı "anı bilinçli bir şekilde deneyimlemek" olarak tanımlıyor; bu tanımdan hareketle her anı tam olarak yaşamaya ve keşfetmeye teşvik ediyor. Kitap, bilinçli düşünmenin günlük hayatta nasıl uygulanabileceği konusunda ilham verici örnekler ve pratik stratejiler sunuyor.
