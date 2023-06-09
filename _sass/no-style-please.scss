@@ -61,6 +61,8 @@ hr {
 p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; list-style-type: "❦ "; color: #777; text-indent: 0% !important;} /* circle 𖧷 */
+ul { color: #777; text-indent: 0% !important;}
+ol { color: #777; text-indent: 0% !important;}
 /* li::before {content: "*"; = Insert content that looks like bullets = padding-right: 8px; } */
 
 /* li::before {content: "𖧷 "; margin: 0.4rem 0; color: #a3a3a3; font-size: 0.8125rem; list-style-type: none;} */
