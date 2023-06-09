@@ -6,14 +6,14 @@
 # 256 sayfa
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-06-06
+last_modified_at: 2023-06-09
 published: true  
 ---
 
 ⁜ 1  
    
-Hello World (2019)  
-<i> by </i> Hannah Fry  
+The Body Keeps The Score (2022)  
+<i> by </i> Bessel A. Van Der Kolk  
 
 
 
