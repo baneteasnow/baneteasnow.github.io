@@ -21,7 +21,7 @@ rating: "3"
 eng: "On Being a Master Therapist is a book by Jeffrey A. Kottler and Jon Carlson that guides therapists on their journey to mastery, offering insights on overcoming challenges, deepening client relationships, and developing effective therapy skills. It emphasises collaboration, continuous learning, and personal growth in the therapy profession."
 openai: "yes"
 num: "334"
-image: "/assets/new/on-being-master-therapist.jpg"
+image: "/assets/new/on-being-a-master-therapist.jpg"
 ---
 
 "On Being a Master Therapist" kitabı, terapistlerin mesleki gelişimlerini desteklemeye ve terapi pratiğinde ustalaşma sürecine odaklanıyor.
