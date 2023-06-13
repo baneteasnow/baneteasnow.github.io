@@ -6,7 +6,7 @@
 # 280 sayfa it dint start w/ you
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-06-09
+last_modified_at: 2023-06-13
 published: true  
 ---
 
