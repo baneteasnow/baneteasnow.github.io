@@ -16,7 +16,7 @@ posted: 2023-02-22
 tag: "motivation"
 instagram: "no"
 insta: "no"
-reread: "yes"
+reread: "no"
 rating: "4"
 num: "311"
 openai: "yes"
