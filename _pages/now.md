@@ -20,8 +20,10 @@ It Didn't Start With You (2022)
 
 ⁜  
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
+[:6 degrees](https://www.nonfictionbooks.xyz/books.html#six-degrees "6 degrees")
 
-<div class="link1" id="links"><a href="/books.html#breath">:breath</a> </div>
+
+
 
 
 
