@@ -32,4 +32,3 @@ Langer, farkındalık kavramını, otomatikleşmiş düşüncelerimizin ve davra
 
 "Mindfulness" kitabı, okuyuculara pratik stratejiler sunuyor ve farkındalığı günlük yaşamlarına entegre etmelerine yardımcı oluyor. Langer, kitap boyunca çeşitli egzersizler ve meditasyon teknikleri paylaşarak, farkındalığı artırmak ve hayatlarımızı daha bilinçli bir şekilde yaşamak için araçlar sunuyor. Ayrıca, kitapta yer alan ilham verici hikayeler ve gerçek hayattan örnekler, farkındalığın gerçek hayatta nasıl uygulandığını gösteriyor.
 
-[:mindfulness](/books.html#{{ post.url | split: "/" | last | replace: ".html","" }} "mindfulness")
