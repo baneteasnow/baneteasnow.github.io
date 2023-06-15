@@ -2,8 +2,8 @@
 # open ai
 layout: post
 category: book
-title: "Why Do I Feel Like an Imposter? | Sandi Mann (Kitap)"
-kitap: "Why Do I Feel Like an Imposter?: How to Understand and Cope with Imposter Syndrome"
+title: "Why Do I Feel Like An Imposter? | Sandi Mann (Kitap)"
+kitap: "Why Do I Feel Like An Imposter?: How to Understand and Cope with Imposter Syndrome"
 tr: "İmposter Sendromu - Neden Kendimi Bir Sahtekar Gibi Hissediyorum?"
 yazar: "Sandi Mann"
 yil: "2020"
