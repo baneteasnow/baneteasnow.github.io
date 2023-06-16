@@ -22,4 +22,3 @@ Why Zebras Don't Get Ulcers (2021)
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
 
 
-
