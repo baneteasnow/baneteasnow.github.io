@@ -15,8 +15,10 @@ published: true
 Why Zebras Don't Get Ulcers (2021)  
 <i> by </i> Robert M. Sapolsky  
 
+* 2  
 
-
+Wahn: Stories (2021)  
+<i> by </i> Christof Kessler  
 
 ⁜  
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
