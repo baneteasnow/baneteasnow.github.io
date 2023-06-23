@@ -7,7 +7,7 @@
 # 2: 184 sayfa
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-06-16
+last_modified_at: 2023-06-23
 published: true  
 ---
 
@@ -17,13 +17,8 @@ Why Zebras Don't Get Ulcers (2021)
 _by_ Robert M. Sapolsky  
   
 
-⁜ 2   
+⁜ 
 
-Wahn: Stories (2021)  
-_by_ Christof Kessler  
- 
-
-⁜  
 
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")  
