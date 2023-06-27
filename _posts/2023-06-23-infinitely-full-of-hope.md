@@ -21,7 +21,7 @@ rating: "3"
 eng: "Tom Whyman's first book, Infinitely Full of Hope, explores the philosophy of hope by questioning whether it is cruel to bring new life into a bad world."
 openai: "yes"
 num: "345"
-image: "/assets/new/infinetely-full-of-hope.jpg"
+image: "/assets/new/infinitely-full-of-hope.jpg"
 ---
 
 Tom Whyman'ın ilk kitabı, yeni bir baba olarak "Kötü bir dünyaya yeni yaşam getirmek zalimlik midir?" sorusuyla umut felsefesini keşfeder. Kant, Adorno ve Kafka gibi önemli düşünürleri de konuya dahil ederken, Jeremy Corbyn, Boris Johnson ve Greta Thunberg gibi çağdaş figürlerle de kitaba modern bir dokunuş katar. 
