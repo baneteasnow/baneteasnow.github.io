@@ -1,4 +1,5 @@
 ---
+# open ai 
 layout: post
 category: book
 title: "A World Without Work | Daniel Susskind (Kitap)"
@@ -19,7 +20,7 @@ reread: "no"
 rating: "4"
 eng: "A World Without Work explores the future transformations of the workforce and the impact of automation on labour, providing a perspective on how technology could reshape our jobs."
 openai: "yes"
-num: "363"
+num: "364"
 image: "/assets/new/a-world-without-work.jpg"
 ---
 
