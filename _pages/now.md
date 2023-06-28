@@ -3,16 +3,17 @@
 # [^aaa]: This is the footnote.
 # term
 # : definition
+# 408 sayfa
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-06-25
+last_modified_at: 2023-06-28
 published: true  
 ---
 
 ⁜ 1  
    
-A World Without Work (2021)  
-_by_ Daniel Susskind  
+Homo Dijital (2023)  
+_by_ Johannes Hepp  
 
 ⁜ 
 
