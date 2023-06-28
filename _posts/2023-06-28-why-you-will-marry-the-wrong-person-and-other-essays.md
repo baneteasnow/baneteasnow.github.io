@@ -3,7 +3,7 @@
 layout: post
 category: book
 title: "Why You Will Marry The Wrong Person | The School of Life (Kitap)"
-kitap: "# Why You Will Marry the Wrong Person: & Other Essays"
+kitap: "Why You Will Marry the Wrong Person: & Other Essays"
 tr: "Neden Yanlış Kişiyle Evleneceksiniz"
 yazar: "The School of Life"
 yil: "2022"
