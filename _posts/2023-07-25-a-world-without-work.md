@@ -35,7 +35,3 @@ Kitapta konu bağlam, tehdit ve çözüm olarak üç kısımda ele alınıyor. T
 
 
 
-
-
----
-# Related
