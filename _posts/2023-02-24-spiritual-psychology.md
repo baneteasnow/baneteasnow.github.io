@@ -163,3 +163,4 @@ _Her şeyle uyum içinde yaşamak_
 
 Bu yaşam dersinde bir insan önemli olanın varılacak yer olmadığını öğrenir. Gerçekten önemli olan yolculuğun kendisidir ve yolculuğu zerafetle deneyimlememizdir. 
 
+# Hakimiyet Sanatı
