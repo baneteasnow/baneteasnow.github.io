@@ -21,7 +21,7 @@ The Trolley Problem, or Would You Throw the Fat Guy Off the Bridge? (2016)
 _by_ Thomas Cathcart  
 
 
-[:This example](https://www.nonfictionbooks.xyz/books.html#infinitely-full-of-hope)
+[:This example](https://www.nonfictionbooks.xyz/spiritual-psychology.html#hakimiyet-sanati)
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")  
 
