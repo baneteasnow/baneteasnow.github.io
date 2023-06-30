@@ -31,3 +31,5 @@ Gönül Yarası adlı kitap, kalp kırıklığıyla ilişkili duygusal acıyı v
 "Heartbreak", kalp kırıklığıyla ilişkili karmaşık duyguları anlamada yardımcı olurken, insanlara kendi duygusal süreçlerini keşfetme ve iyileşme için gereken adımları atmada rehberlik eder. Kitap, kalp kırıklığından sonra yeniden güçlenme, kendi değerini bulma ve daha sağlıklı ilişkiler kurma konusunda destek sağlar. 
 
 
+
+
