@@ -28,4 +28,5 @@ Aşkı Bulmanın Yolu, aşkı bulma ve anlamlı ilişkiler kurma konularını el
 
 Kitap, okuyucuların aşkı bulma konusundaki düşüncelerini ve inançlarını sorgulamalarına yardımcı olur. Kendi değerlerini, ihtiyaçlarını ve arzularını anlama yolunda adımlar atmalarına destek olur. The School of Life ekibinin deneyimli yazarları tarafından kaleme alınan bu kitap, aşkı bulma sürecinde karşılaşılan zorluklarla başa çıkmak ve anlamlı ilişkiler kurmak için stratejiler sunar. İlişkilerdeki iletişim, uyumluluk ve öz farkındalık gibi konuları ele alırken, okuyuculara sağlıklı ve doyurucu ilişkilerin temellerini atmalarına yardımcı olur.
 
-"How to Find Love", aşkı bulma ve ilişkiler konusunda anlamlı bir yolculuğa çıkmak isteyen okuyuculara rehberlik eden kapsamlı bir kaynaktır. Kitap, aşkın karmaşıklıklarını anlamaya ve tatmin edici bir aşk yaşamı yaratmaya yönelik içgörüler sunar. 
+"How to Find Love", aşkı bulma ve ilişkiler konusunda anlamlı bir yolculuğa çıkmak isteyen okuyuculara rehberlik eden kapsamlı bir kaynaktır. Kitap, aşkın karmaşıklıklarını anlamaya ve tatmin edici bir aşk yaşamı yaratmaya yönelik iç görüler sunar. 
+
