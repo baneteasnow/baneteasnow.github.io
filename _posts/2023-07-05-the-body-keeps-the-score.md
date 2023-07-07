@@ -34,3 +34,4 @@ Kitap, bedenin travmatik deneyimleri nasıl kaydettiğini ve nasıl tepkiler ver
 
 
 
+
