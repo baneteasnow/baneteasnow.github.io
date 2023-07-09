@@ -3,10 +3,9 @@
 # [^aaa]: This is the footnote.
 # term
 # : definition
-# 408 sayfa
 layout: page  
 title: şimdi okuduğum kitaplar  
-last_modified_at: 2023-06-29
+last_modified_at: 2023-07-09
 published: true  
 ---
 
@@ -17,8 +16,8 @@ _by_ Jerry Saltz
 
 ⁜ 2  
   
-The Trolley Problem, or Would You Throw the Fat Guy Off the Bridge? (2016)  
-_by_ Thomas Cathcart  
+Invisible Women (2021)  
+_by_ Caroline Criado Perez  
 
 
 [:This example](https://www.nonfictionbooks.xyz/spiritual-psychology.html#hakimiyet-sanati)
