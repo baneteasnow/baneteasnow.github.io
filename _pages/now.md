@@ -20,8 +20,6 @@ Invisible Women (2021)
 _by_ Caroline Criado Perez  
 
 
-[:This example](https://www.nonfictionbooks.xyz/spiritual-psychology.html#hakimiyet-sanati)
-
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")  
 
 
