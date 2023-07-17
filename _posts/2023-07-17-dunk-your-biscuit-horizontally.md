@@ -38,3 +38,4 @@ Bisküviyi Çaya Yatay Bandırın, gündelik hayata dair 104 gerçeğe değiniyo
 - Bayılacağınızı hissettiğinizde bacak bacak üstüne atıp kaslarınızı kasın
 - Okumayı bırakın ve soru sormaya başlayın
 
+
