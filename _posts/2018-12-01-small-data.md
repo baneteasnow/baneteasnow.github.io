@@ -2,8 +2,8 @@
 layout: post  
 category: book2  
 title: "Small Data | Martin Lindstrom (Kitap)"  
-kitap: "Small Data - Devasa Trendleri Açığa Çıkaran Küçük İpuçları"
-tr: "Small Data: The Tiny Clues That Uncover Huge Trends"  
+kitap: "Small Data: The Tiny Clues That Uncover Huge Trends"  
+tr: "Small Data - Devasa Trendleri Açığa Çıkaran Küçük İpuçları"
 yazar: "Martin Lindstrom"  
 yil: "2016"  
 sayfa: "272"  
