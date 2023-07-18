@@ -2,8 +2,8 @@
 layout: post  
 category: book2  
 title: "Zero to One | Peter Thiel, Blake Masters (Kitap)"  
-kitap: "Sıfırdan Bire - Startuplar Üzerine Notlar ya da Geleceği İnşa Etmenin Yolları"  
-tr: "Zero to One: Notes on Startups, or How to Build the Future"
+tr: "Sıfırdan Bire - Startuplar Üzerine Notlar ya da Geleceği İnşa Etmenin Yolları"  
+kitap: "Zero to One: Notes on Startups, or How to Build the Future"
 yazar: "Peter Thiel, Blake Masters"  
 yil: "2016"  
 sayfa: "224"  
