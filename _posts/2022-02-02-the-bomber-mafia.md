@@ -2,7 +2,7 @@
 layout: post
 category: book
 title: "The Bomber Mafia | Malcolm Gladwell (Kitap)"
-kitap: "The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War (2021)"
+kitap: "The Bomber Mafia: A Dream, a Temptation, and the Longest Night of the Second World War"
 tr: "-"
 yazar: "Malcolm Gladwell"
 yil: "2021"
