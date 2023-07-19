@@ -41,4 +41,3 @@ Bırak Dağınık Kalsın, gündelik hayata dair 115 gerçeğe değiniyor. Bir p
 - Nesne değil, deneyim satın alın
 - Bir şey satmak için bir sürü sayı kullanın
 - Paranızı başkalarına verip mutlu olun
-
