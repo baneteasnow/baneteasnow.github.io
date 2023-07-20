@@ -20,7 +20,7 @@ reread: "no"
 rating: "4"
 eng: "The Trolley Problem explores a philosophical dilemma that raises questions about moral decision-making."
 openai: "yes"
-num: "366"
+num: "365"
 image: "/assets/new/the-trolley-problem-or-would-you-throw-the-fat-guy-off-the-bridge.jpg"
 ---
 
