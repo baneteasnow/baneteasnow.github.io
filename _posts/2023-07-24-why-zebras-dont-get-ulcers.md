@@ -31,4 +31,3 @@ Kitap, stresin nasıl ortaya çıktığını, stres tepkisinin nasıl çalışt�
 Kitap, stresle başa çıkma stratejilerini ve stresin azaltılması için pratik yöntemleri de detaylı bir şekilde inceliyor. Sosyal destek, egzersiz, uyku düzeni, beslenme ve gevşeme teknikleri gibi faktörlerin stresle mücadelede önemli bir rol oynadığını vurguluyor. Ayrıca, stresin azaltılmasında meditasyon, yoga ve diğer gevşeme yöntemlerini de ele alıyor.
 
 
-
