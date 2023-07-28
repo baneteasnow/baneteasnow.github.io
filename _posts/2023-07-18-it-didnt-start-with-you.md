@@ -13,7 +13,7 @@ description: "Seninle Başlamadı, miras alınan aile travması, epigenetik ve n
 last_modified_at: 2023-07-18
 published: true
 posted: 2023-07-18
-tag: ""psikoloji 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"

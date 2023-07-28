@@ -9,11 +9,11 @@ yazar: "Worry Lines"
 yil: "2022"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/58038157-this-book-is-for-you"
-description: "@worry__lines Instagram hesabındaki paylaşımları ile tanınan Worry Lines,  Bu Kitap Senin İçin'de ben, umut ve kaygı karakterlerinin maceralarını renkli çizimler ile aktarıyor. "
+description: "@worry__lines Instagram hesabındaki paylaşımları ile tanınan Worry Lines, Bu Kitap Senin İçin'de ben, umut ve kaygı karakterlerinin maceralarını renkli çizimler ile aktarıyor. "
 last_modified_at: 2023-07-21
 published: true
 posted: 2023-07-21
-tag: ""motivasyon 
+tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "yes"
