@@ -16,8 +16,8 @@ _by_ Gary Keller, Jay Papasan
 
 ⁜ 2  
   
-Invisible Women (2021)  
-_by_ Caroline Criado Perez  
+The Talent Code (2016)  
+_by_ Daniel Coyle  
 
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")  
