@@ -11,8 +11,8 @@ published: true
 
 ⁜ 1  
    
-How To Be An Artist (2021)  
-_by_ Jerry Saltz  
+The One Thing (2017)  
+_by_ Gary Keller, Jay Papasan  
 
 ⁜ 2  
   
