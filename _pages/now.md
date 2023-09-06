@@ -5,7 +5,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-09-03
+last_modified_at: 2023-09-06
 published: true
 ---
 
