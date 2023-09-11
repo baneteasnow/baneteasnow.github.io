@@ -1,0 +1,50 @@
+[
+	{
+		"Bookshelf": "",
+		"Title": "Kitap adi",
+		"Publisher": "OKUYAN US YAYIN",
+		"Author": "Elizabeth Kolbert",
+		"Lang": "TÜRKÇE",
+		"Page": 368,
+		"year": 2016,
+		"Notes": "C-4",
+		"name": "0001",
+		"link": "/#0001"
+	},
+	{
+		"Bookshelf": "",
+		"Title": "Baska bir kitap",
+		"Publisher": "OPTİMİST YAYINLARI",
+		"Author": "Jeff Cox, Eliyahu M. Goldratt",
+		"Lang": "TÜRKÇE",
+		"Page": 400,
+		"year": 2015,
+		"Notes": "E-2",
+		"name": "0002",
+		"link": "/#0002"
+	},
+	{
+		"Bookshelf": "",
+		"Title": "Yeni bir kitap",
+		"Publisher": "PEGASUS YAYINLARI",
+		"Author": "George Friedman",
+		"Lang": "TÜRKÇE",
+		"Page": 384,
+		"year": 2014,
+		"Notes": "C-3",
+		"name": "0003",
+		"link": "/#0003"
+	},
+	{
+		"Bookshelf": "",
+		"Title": "Bu da son kitap",
+		"Publisher": "ARITAN YAYINEVİ",
+		"Author": "Burke Hedges",
+		"Lang": "TÜRKÇE",
+		"Page": 200,
+		"year": 2018,
+		"Notes": "B-3",
+		"name": "0004",
+		"link": "/#0004"
+	}
+]
