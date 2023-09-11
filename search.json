@@ -23,16 +23,17 @@ layout: null
       "tags"     : "{{ page.tags | join: ', ' }}",
       "date"     : "{{ page.date }}",
       "description" : "{{ post.description | strip_html | strip_newlines | escape }}"
-
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %},
-{% for item in site.data.booksmockdata %}
-    {
-      "title"  : "{{ item.Title }}",
-      "url"    : "{{ site.baseurl }}{{ page.url }}#{{ item.name }}",
-      "author" : "{{ item.Author }}",
-      "year"   : "{{ item.year }}",
-      "notes"  : "{{ item.Notes }}"
+      
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+// ,
+// {% for item in site.data.booksmockdata %}
+//     {
+//       "title"  : "{{ item.Title }}",
+//       "url"    : "{{ site.baseurl }}{{ page.url }}#{{ item.name }}",
+//       "author" : "{{ item.Author }}",
+//       "year"   : "{{ item.year }}",
+//       "notes"  : "{{ item.Notes }}"
+//     } {% unless forloop.last %},{% endunless %}
+//   {% endfor %}
 ]
