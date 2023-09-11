@@ -34,6 +34,12 @@ title: "Kitap Listesi bookstoc"
 	>
 		<i>{{ item.notes }}</i>
 	</div>
+  <div
+      class="decorated"
+      style="font-size: 85%"
+    >
+  "<a name='{{ item.title }}' title='google search' href='https://www.google.com/search?q={{ item.title | replace: ' ','+' }}{{ item.title | url_encode }}' target='_blank' rel='noreferrer,nofollow'> google </a>"
+  </div>
 </div>
 {% endfor %}
 
