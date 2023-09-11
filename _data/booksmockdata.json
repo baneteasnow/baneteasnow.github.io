@@ -1,7 +1,7 @@
 [
 	{
 		"bookshelf": "",
-		"title": "Kitap adi",
+		"title": "Gulun adi",
 		"publisher": "OKUYAN US YAYIN",
 		"author": "Elizabeth Kolbert",
 		"lang": "TÜRKÇE",
@@ -13,7 +13,7 @@
 	},
 	{
 		"bookshelf": "",
-		"title": "Baska bir kitap",
+		"title": "Baska bir kitap 2",
 		"publisher": "OPTİMİST YAYINLARI",
 		"suthor": "Jeff Cox, Eliyahu M. Goldratt",
 		"lang": "TÜRKÇE",
@@ -25,7 +25,7 @@
 	},
 	{
 		"bookshelf": "",
-		"title": "Yeni bir kitap",
+		"title": "Yeni bir kitap 2",
 		"publisher": "PEGASUS YAYINLARI",
 		"author": "George Friedman",
 		"lang": "TÜRKÇE",
@@ -37,7 +37,7 @@
 	},
 	{
 		"bookshelf": "",
-		"title": "Bu da son kitap",
+		"title": "Bu da son kitap 2",
 		"publisher": "ARITAN YAYINEVİ",
 		"author": "Burke Hedges",
 		"lang": "TÜRKÇE",
