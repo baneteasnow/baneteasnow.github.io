@@ -42,7 +42,7 @@ SimpleJekyllSearch({
   json: '/search.json',
   searchResultTemplate: '<div style="text-transform: lowercase;"><li><a href="{url}" title="{title}">{title}</a></li></div>',
   noResultsText: 'No results found',
-  limit: 300,
+  limit: 30000,
   fuzzy: false,
   exclude: ['Welcome']
 })
