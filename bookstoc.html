@@ -10,6 +10,13 @@ title: "Kitap Listesi bookstoc"
 <h3>{{ item.Title }}</h3>
 <div>
 	<div>{{ site.baseurl }}{{ page.url }}{{ item.url }}</div>
+	<div>
+		<a
+			href="{{ site.baseurl }}{{ page.url }}#{{ item.name }}"
+			name="{{ item.nane }}"
+			>{{ site.baseurl }}{{ page.url }}#{{ item.name }}</a
+		>
+	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
