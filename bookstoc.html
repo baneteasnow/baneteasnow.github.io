@@ -11,16 +11,22 @@ title: "Kitap Listesi bookstoc"
 <div>
 	<div>
 		<a
-			href="{{ site.baseurl }}{{ page.url }}#{{ item.Title }}"
+			href="{{ site.baseurl }}{{ page.url }}#{{ item.title }}"
 			name="{{ item.Title }}"
-			>{{ site.baseurl }}{{ page.url }}#{{ item.Title }}</a
+			>{{ site.baseurl }}{{ page.url }}#{{ item.title }}</a
 		>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.Author }}</i>
+		<i>{{ item.author }}</i>
+	</div>
+	<div
+		class="decorated"
+		style="font-size: 85%"
+	>
+		<i>{{ item.id }}</i>
 	</div>
 	<div
 		class="decorated"
@@ -32,7 +38,7 @@ title: "Kitap Listesi bookstoc"
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.Notes }}</i>
+		<i>{{ item.bookshelf }}</i>
 	</div>
 </div>
 {% endfor %}
