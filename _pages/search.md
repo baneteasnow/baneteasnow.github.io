@@ -40,7 +40,7 @@ SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
-  searchResultTemplate: '<div style="text-transform: lowercase;"><li><a href="{url}" title="{desc}">{title}</a></li></div>',
+  searchResultTemplate: '<div style="text-transform: lowercase;"><li><a href="{url}" title="{title}">{title}</a></li></div>',
   noResultsText: 'No results found',
   limit: 300,
   fuzzy: false,
