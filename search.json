@@ -25,11 +25,11 @@ layout: null
   {% for item in site.data.booksmockdata %}
     {
 
-      "title"  : "{{ item.title }}",
-      "url"    : "{{ site.baseurl }}{{ page.url }}#{{ item.title }}",
-      "author" : "{{ item.author }}",
+      "title"  : "{{ item.Title }}",
+      "url"    : "{{ site.baseurl }}{{ page.url }}#{{ item.Title }}",
+      "author" : "{{ item.Author }}",
       "year"   : "{{ item.year }}",
-      "notes"  : "{{ item.bookshelf }}"
+      "notes"  : "{{ item.Notes }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
