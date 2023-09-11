@@ -6,27 +6,21 @@ last_modified_at: 2023-09-11
 title: "Kitap Listesi bookstoc"
 ---
 
-{% for item in site.data.booksmockdata %}
-<h3>{{ item.title }}</h3>
+{% for item in site.data.oldestbooksmockdata %}
+<h3>{{ item.Title }}</h3>
 <div>
 	<div>
 		<a
-			href="{{ site.baseurl }}{{ page.url }}#{{ item.id }}"
-			name="{{ item.id }}"
-			>{{ site.baseurl }}{{ page.url }}#{{ item.id }}</a
+			href="{{ site.baseurl }}{{ page.url }}#{{ item.Title }}"
+			name="{{ item.Title }}"
+			>{{ site.baseurl }}{{ page.url }}#{{ item.Title }}</a
 		>
 	</div>
 	<div
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.author }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.id }}</i>
+		<i>{{ item.Author }}</i>
 	</div>
 	<div
 		class="decorated"
@@ -38,7 +32,7 @@ title: "Kitap Listesi bookstoc"
 		class="decorated"
 		style="font-size: 85%"
 	>
-		<i>{{ item.bookshelf }}</i>
+		<i>{{ item.Notes }}</i>
 	</div>
 </div>
 {% endfor %}
