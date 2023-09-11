@@ -1,5 +1,53 @@
 [
 	{
+		"bookshelf": "",
+		"title": "Kitap adi",
+		"publisher": "OKUYAN US YAYIN",
+		"author": "Elizabeth Kolbert",
+		"lang": "TÜRKÇE",
+		"page": 368,
+		"year": "2016",
+		"notes": "C-4",
+		"name": "0001",
+		"link": "/#0001"
+	},
+	{
+		"bookshelf": "",
+		"title": "Baska bir kitap",
+		"publisher": "OPTİMİST YAYINLARI",
+		"suthor": "Jeff Cox, Eliyahu M. Goldratt",
+		"lang": "TÜRKÇE",
+		"page": 400,
+		"year": "2015",
+		"notes": "E-2",
+		"name": "0002",
+		"link": "/#0002"
+	},
+	{
+		"bookshelf": "",
+		"title": "Yeni bir kitap",
+		"publisher": "PEGASUS YAYINLARI",
+		"author": "George Friedman",
+		"lang": "TÜRKÇE",
+		"page": 384,
+		"year": "2014",
+		"notes": "C-3",
+		"name": "0003",
+		"link": "/#0003"
+	},
+	{
+		"bookshelf": "",
+		"title": "Bu da son kitap",
+		"publisher": "ARITAN YAYINEVİ",
+		"author": "Burke Hedges",
+		"lang": "TÜRKÇE",
+		"page": 200,
+		"year": "2018",
+		"notes": "B-3",
+		"name": "0004",
+		"link": "/#0004"
+	},
+	{
 		"title": "#Moda2014",
 		"id": 1,
 		"publisher": "ARTEMİS YAYINLARI",
