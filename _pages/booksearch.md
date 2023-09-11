@@ -32,14 +32,14 @@ published: true
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/booksearch.js" type="text/javascript"></script>
+<script src="/search.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script type="text/javascript">
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
+  json: '/booksearch.json',
   searchResultTemplate: '<div style="text-transform: lowercase;"><li><a href="{url}" title="{title}">{title}</a></li></div>',
   noResultsText: 'No results found',
   limit: 300,
