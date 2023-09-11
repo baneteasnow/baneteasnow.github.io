@@ -23,13 +23,13 @@ layout: null
     } {% unless forloop.last %},{% endunless %}
   {% endfor %},
   {% for item in site.data.booksmockdata %}
-{
+    {
 
-"title" : "{{ item.Title }}",
-"author" : "{{ item.Author }}",
-"year" : "{{ item.year }}",
-"notes" : "{{ item.Notes }}"
+      "title" : "{{ item.Title }}",
+      "author" : "{{ item.Author }}",
+      "year" : "{{ item.year }}",
+      "notes" : "{{ item.Notes }}"
 
-} {% unless forloop.last %},{% endunless %}
-{% endfor %}
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
