@@ -1,0 +1,27 @@
+---
+layout: null
+---
+[
+  {% for item in site.data.oldestbooksmockdata %}
+    {
+
+      "title"     : "{{ item.Title }}",
+      "url"       : "{{ site.baseurl }}bookstoc#{{ item.Title }}",
+      "author"    : "{{ item.Title }}",
+      "year"      : "{{ item.year }}",
+      "bookshelf" : "{{ item.Notes }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %},
+  {% for item in site.data.oldestbooksmockdata2 %}
+    {
+
+      "title"     : "{{ item.title }}",
+      "url"       : "{{ site.baseurl }}bookstoc#{{ item.title }}",
+      "author"    : "{{ item.author }}",
+      "year"      : "{{ item.year }}",
+      "bookshelf" : "{{ item.notes }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
