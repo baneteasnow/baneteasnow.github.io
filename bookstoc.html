@@ -7,13 +7,13 @@ title: "Kitap Listesi bookstoc"
 ---
 
 {% for item in site.data.booksmockdata %}
-<h3>{{ item.Title }}</h3>
+<h3>{{ item.title }}</h3>
 <div>
 	<div>
 		<a
 			href="{{ site.baseurl }}bookstoc#{{ item.title }}"
 			name="{{ item.title }}"
-			>{{ site.baseurl }}bookstoc#{{ item.Title }}</a
+			>{{ site.baseurl }}bookstoc#{{ item.title }}</a
 		>
 	</div>
 	<div
