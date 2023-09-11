@@ -26,6 +26,7 @@ layout: null
     {
 
       "title"  : "{{ item.Title }}",
+      "url"    : "{{ site.baseurl }}{{ page.url }}#{{ item.name }}",
       "author" : "{{ item.Author }}",
       "year"   : "{{ item.year }}",
       "notes"  : "{{ item.Notes }}"
