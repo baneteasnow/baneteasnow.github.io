@@ -13,14 +13,6 @@ layout: null
       "description" : "{{ post.description | strip_html | strip_newlines | escape }}"
 
     } {% unless forloop.last %},{% endunless %}
-  {% endfor %},
-  {% for page in site.pages %}
-    {
-
-      "title" : "{{ page.title | strip_html | escape }}",
-      "url"   : "{{ site.baseurl }}{{ page.url }}"
-      
-    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
 
