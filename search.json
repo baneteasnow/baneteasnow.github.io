@@ -32,16 +32,5 @@ layout: null
       "bookshelf" : "{{ item.Notes }}"
 
     } {% unless forloop.last %},{% endunless %}
-  {% endfor %},
-  {% for book in site.data.booklist1 %}
-    {
-
-      "title"     : "{{ book.Title }}",
-      "url"       : "{{ site.baseurl }}bookstoc#{{ book.Title }}",
-      "author"    : "{{ book.Author }}",
-      "year"      : "{{ book.year }}",
-      "bookshelf" : "{{ book.Notes }}"
-
-    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
