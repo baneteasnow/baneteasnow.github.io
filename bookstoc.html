@@ -36,7 +36,10 @@ title: "Kitap Listesi bookstoc"
 	</div>
 	<a
 		name="{{ item.title }}"
-		href="https://www.google.com/search?q={{ item.title }}{{ item.title | url_encode }}"
+		title="google search"
+		href="https://www.google.com/search?q={{ item.title }}"
+		target="_blank"
+		rel="noreferrer,nofollow"
 	>
 		google
 	</a>
