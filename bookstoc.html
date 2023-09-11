@@ -39,33 +39,3 @@ title: "Kitap Listesi bookstoc"
 
 <br />
 <br />
-{% for item in site.data.booklist1 %}
-<h3>{{ item.Title }}</h3>
-<div>
-	<div>
-		<a
-			href="{{ site.baseurl }}bookstoc#{{ item.Title }}"
-			name="{{ item.Title }}"
-			>{{ site.baseurl }}bookstoc#{{ item.Title }}</a
-		>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.Author }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.year }}</i>
-	</div>
-	<div
-		class="decorated"
-		style="font-size: 85%"
-	>
-		<i>{{ item.Notes }}</i>
-	</div>
-</div>
-{% endfor %}
