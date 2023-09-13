@@ -1,6 +1,6 @@
 ---
 layout: page-11
-title: ara
+title: kitap ara
 published: true
 ---
 
@@ -27,7 +27,7 @@ published: true
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="Search a book...">
+<input type="text" id="search-input" placeholder="Search for a book...">
 <ol id="results-container"></ol>
 </div>
 
