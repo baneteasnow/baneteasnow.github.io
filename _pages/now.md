@@ -11,8 +11,8 @@ published: true
 
 ⁜ 1
 
-Cennetin Dibi (2023)  
-_by_ Gündüz Vassaf  
-_251 sayfa_
+Carl Gustav Jung: Dışa Bakan Rüya Görür, İçe Bakan Uyanır (2020)  
+_by_ Özlem Küskü  
+128 sayfa
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
