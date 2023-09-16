@@ -9,7 +9,8 @@
 		"year": "2016",
 		"notes": "C-4",
 		"name": "0001",
-		"link": "/#0001"
+		"link": "/#0001",
+		"col": "abc"
 	},
 	{
 		"bookshelf": "",
@@ -21,7 +22,8 @@
 		"year": "2015",
 		"notes": "E-2",
 		"name": "0002",
-		"link": "/#0002"
+		"link": "/#0002",
+		"col": "def"
 	},
 	{
 		"bookshelf": "",
@@ -33,7 +35,8 @@
 		"year": "2014",
 		"notes": "C-3",
 		"name": "0003",
-		"link": "/#0003"
+		"link": "/#0003",
+		"col": "xyz"
 	},
 	{
 		"bookshelf": "",
