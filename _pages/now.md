@@ -5,14 +5,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-16
 published: true
 ---
 
-⁜ 1
+⁜ 65
 
-Carl Gustav Jung: Dışa Bakan Rüya Görür, İçe Bakan Uyanır (2020)  
-_by_ Özlem Küskü  
-128 sayfa
+Her İnsan Gördüğü Rüyanın Tabiridir (2022)  
+_by_ Yılmaz Şener    
+72 sayfa
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
