@@ -4,115 +4,111 @@ published: true
 last_modified_at: 2023-01-08
 title: "okuma listesi"
 ---
-<style>
-   .container {
-      max-width: 95%;
-		width: fit-content;
-      }
-</style>
-<div class="container">
 
-   <table>
-      <tr>
-         <th style="text-align: left">
-            &nbsp;
-         </th>
-         <th style="text-align: left;"> 
-            kitabın adı
-         </th>
-         <th style="text-align: left;"> 
-            yazar
-         </th>
-         <th style="text-align: left;"> 
-            yıl & sayfa
-         </th>
-         <th style="text-align: left;"> 
-            kategori
-         </th>
-         <th style="text-align: left;">
-            tekrar okumaya değer mi?   </th>
-            <th style="text-align: left;">
-               <div style="color: white">_stars_rating_</div>
-            </th>
-            <th style="text-align: left;">
-               links
-            </th>
-            <th style="text-align: left;">
-               <div style="color: white">__image__</div>
-            </th>
-         </tr>
-         {%- assign posts = site.posts -%}
-         {%- for post in site.posts -%}
-         {%- if post.category != 'book3'-%}
-         <tr>  
-            <td>
-               <center><a href="{{ post.image }}" title="{{ post.title }}" target="_blank">𖧷 {{ post.num }}</a></center>
-            </td>
-            <td>
-               <div class="link1"> 
-                  <a href="{{ post.url }}">{{ post.kitap }}</a>
-               </div>
-            </td>
-            <td>
-               {{ post.yazar }}
-            </td>
-            <td>
-               {{ post.yil }}
-               {{ post.sayfa }}
-            </td>
-            <td>
-               {{ post.tag }}
-            </td>
-            <td>
-               {%- if post.reread == 'yes' -%}
-               evet
-               {%- elsif post.reread == 'no' -%}
-               hayır
-               {%- else -%}
-               -
-               {%- endif -%}
-            </td>
-            <td>
-               {%- if post.rating == '1' -%}
-               &#9733; &#9734; &#9734; &#9734; &#9734;
-               {%- elsif post.rating == '2' -%}
-               &#9733; &#9733; &#9734; &#9734; &#9734;
-               {%- elsif post.rating == '3' -%}
-               &#9733; &#9733; &#9733; &#9734; &#9734;
-               {%- elsif post.rating == '4' -%}
-               &#9733; &#9733; &#9733; &#9733; &#9734;
-               {%- elsif post.rating == '5' -%}
-               &#9733; &#9733; &#9733; &#9733; &#9733;
-               {%- else -%}
-               &#9734; &#9734; &#9734; &#9734; &#9734;
-               {%- endif -%}
-            </td>
-            <td>
-               <div class="link1">  
-                  <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
-               </div>
-               {% if post.eng %}
-               <div class="link1">  
-                  <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">eng</a>
-               </div>
-               {% else %}
-               <div style="visibility: hidden;"></div>
-               {% endif %}
-               <div class="link1" style="font-size: 100%;">
-                  <a href="{{ post.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads"> goodreads </a>
-               </div>
-               <div class="link1">  
-                  <a name="{{ post.title | split: "|" }}" title="google search" href="https://www.google.com/search?q={{ post.title | split: "|" | first | replace: " ","+" }}{{ post.yazar | url_encode }}" target="_blank" rel="noreferrer,nofollow"> google </a>
-               </div>
-               
-            </td>
-            <td>
-               <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 40px; height: 40px; display: inline-block;">
-            </td>
-         </tr>
-         {%- endif -%}
-         {%- endfor -%}  
-      </table>  
-      <div style="clear: both;"></div>
-      <br />
-   </div>
+<table style="max-width: 95%; width: fit-content">
+	<tr>
+		<th style="text-align: left">&nbsp;</th>
+		<th style="text-align: left">kitabın adı</th>
+		<th style="text-align: left">yazar</th>
+		<th style="text-align: left">yıl & sayfa</th>
+		<th style="text-align: left">kategori</th>
+		<th style="text-align: left">tekrar okumaya değer mi?</th>
+		<th style="text-align: left">
+			<div style="color: white">_stars_rating_</div>
+		</th>
+		<th style="text-align: left">links</th>
+		<th style="text-align: left">
+			<div style="color: white">__image__</div>
+		</th>
+	</tr>
+	{%- assign posts = site.posts -%} {%- for post in site.posts -%} {%- if
+	post.category != 'book3'-%}
+	<tr>
+		<td>
+			<center>
+				<a
+					href="{{ post.image }}"
+					title="{{ post.title }}"
+					target="_blank"
+					>𖧷 {{ post.num }}</a
+				>
+			</center>
+		</td>
+		<td>
+			<div class="link1">
+				<a href="{{ post.url }}">{{ post.kitap }}</a>
+			</div>
+		</td>
+		<td>{{ post.yazar }}</td>
+		<td>{{ post.yil }} {{ post.sayfa }}</td>
+		<td>{{ post.tag }}</td>
+		<td>
+			{%- if post.reread == 'yes' -%} evet {%- elsif post.reread == 'no' -%}
+			hayır {%- else -%} - {%- endif -%}
+		</td>
+		<td>
+			{%- if post.rating == '1' -%} &#9733; &#9734; &#9734; &#9734; &#9734; {%-
+			elsif post.rating == '2' -%} &#9733; &#9733; &#9734; &#9734; &#9734; {%-
+			elsif post.rating == '3' -%} &#9733; &#9733; &#9733; &#9734; &#9734; {%-
+			elsif post.rating == '4' -%} &#9733; &#9733; &#9733; &#9733; &#9734; {%-
+			elsif post.rating == '5' -%} &#9733; &#9733; &#9733; &#9733; &#9733; {%-
+			else -%} &#9734; &#9734; &#9734; &#9734; &#9734; {%- endif -%}
+		</td>
+		<td>
+			<div class="link1">
+				<a
+					name="{{ post.url | split: '/' | last | replace: '.html','' }}"
+					title="TLDR"
+					href="/summary.html#{{ post.url | split: '/' | last | replace: '.html','' }}"
+					>tl;dr</a
+				>
+			</div>
+			{% if post.eng %}
+			<div class="link1">
+				<a
+					name="{{ post.url | split: '/' | last | replace: '.html','' }}"
+					title="English"
+					href="/books.html#{{ post.url | split: '/' | last | replace: '.html','' }}"
+					>eng</a
+				>
+			</div>
+			{% else %}
+			<div style="visibility: hidden"></div>
+			{% endif %}
+			<div
+				class="link1"
+				style="font-size: 100%"
+			>
+				<a
+					href="{{ post.goodreads }}"
+					target="_blank"
+					rel="noreferrer,nofollow"
+					title="goodreads"
+				>
+					goodreads
+				</a>
+			</div>
+			<div class="link1">
+				<a
+					name="{{ post.title | split: '|' }}"
+					title="google search"
+					href="https://www.google.com/search?q={{ post.title | split: '|' | first | replace: ' ','+' }}{{ post.yazar | url_encode }}"
+					target="_blank"
+					rel="noreferrer,nofollow"
+				>
+					google
+				</a>
+			</div>
+		</td>
+		<td>
+			<img
+				src="{{ post.image }}"
+				alt="{{ post.title }}"
+				style="width: 40px; height: 40px; display: inline-block"
+			/>
+		</td>
+	</tr>
+	{%- endif -%} {%- endfor -%}
+</table>
+<div style="clear: both"></div>
+<br />
