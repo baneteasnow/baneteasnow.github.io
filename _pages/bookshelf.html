@@ -1,15 +1,24 @@
 ---
 layout: page-5
-title: 'kitaplık'
+title: "kitaplık"
 published: true
 last_modified_at: 2021-07-08
 ---
 
-        {% for post in site.posts %}
-           {% if post.category != 'book3' %}
-       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 64%; margin: 0 0 1% 1%; width: 17%;" title="{{ post.title }}" /></a>
-            {% endif %}
-        {% endfor %} 
-    <br />
-<div style="clear: both;"></div>
+{% for post in site.posts %} {% if post.category != 'book3' %}
+<a href="{{ post.url }}"
+	><img
+		src="{{ post.image }}"
+		style="float: left; height: 64%; margin: 0 0 1% 1%; width: 17%"
+		title="{{ post.title }}"
+/></a>
+{% endif %} {% endfor %}
 <br />
+<div style="clear: both"></div>
+<br />
+<div
+	class="link1"
+	style="position: fixed; right: 3%; top: 85%"
+>
+	<a href="#"><i>yukarı</i> &#8593;</a>
+</div>
