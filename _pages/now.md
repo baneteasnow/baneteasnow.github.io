@@ -5,14 +5,20 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-09-16
+last_modified_at: 2023-09-18
 published: true
 ---
 
-⁜ 65
+⁜ 66
 
-Her İnsan Gördüğü Rüyanın Tabiridir (2022)  
-_by_ Yılmaz Şener    
-72 sayfa
+The Piggle: An Account of the Psychoanalytic Treatment of a Little Girl (2019)  
+_by_ D.W. Winnicott  
+160 sayfa
+
+⁜ 67
+
+What To Do When Machines Do Everything: How to Get Ahead in a World of AI, Algorithms, Bots, and Big Data (2019)  
+_by_ Malcolm Frank, Paul Roehrig, Ben Pring  
+271 sayfa
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
