@@ -5,14 +5,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-09-18
+last_modified_at: 2023-09-21
 published: true
 ---
 
-⁜ 67
+⁜ 69
 
-What To Do When Machines Do Everything: How to Get Ahead in a World of AI, Algorithms, Bots, and Big Data (2019)  
-_by_ Malcolm Frank, Paul Roehrig, Ben Pring  
-271 sayfa
+Insan Olmak (2023)  
+_by_ Engin Gectan  
+190 sayfa
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
