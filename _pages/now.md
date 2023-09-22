@@ -21,4 +21,6 @@ Virtual Society (2023)
 _by_ Herman Narula  
 232 sayfa  
 
+{{ 200 | times: 100 | divided_by: 5 }}
+
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
