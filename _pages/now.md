@@ -15,7 +15,7 @@ Insan Olmak (2023)
 _by_ Engin Gectan  
 190 sayfa  
 
-* 70  
+⁜ 70  
 
 Virtual Society (2023)  
 _by_ Herman Narula. 
