@@ -18,7 +18,7 @@ _by_ Engin Gectan
 ⁜ 70  
 
 Virtual Society (2023)  
-_by_ Herman Narula. 
+_by_ Herman Narula  
 232 sayfa  
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
