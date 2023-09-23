@@ -5,20 +5,22 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-09-18
+last_modified_at: 2023-09-21
 published: true
 ---
 
-⁜ 66
+⁜ 69  
 
-The Piggle: An Account of the Psychoanalytic Treatment of a Little Girl (2019)  
-_by_ D.W. Winnicott  
-160 sayfa
+Insan Olmak (2023)  
+_by_ Engin Gectan  
+190 sayfa  
 
-⁜ 67
+⁜ 70  
 
-What To Do When Machines Do Everything: How to Get Ahead in a World of AI, Algorithms, Bots, and Big Data (2019)  
-_by_ Malcolm Frank, Paul Roehrig, Ben Pring  
-271 sayfa
+Virtual Society (2023)  
+_by_ Herman Narula  
+232 sayfa  
+
+{{ 200 | times: 100 | divided_by: 5 }}
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
