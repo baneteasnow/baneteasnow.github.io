@@ -11,9 +11,9 @@ published: true
 
 ⁜ 69  
 
-Insan Olmak (2023)  
+Kimbilir (2020)  
 _by_ Engin Gectan  
-190 sayfa  
+142 sayfa  
 
 ⁜ 70  
 
@@ -21,6 +21,6 @@ Virtual Society (2023)
 _by_ Herman Narula  
 232 sayfa  
 
-{{ 200 | times: 100 | divided_by: 5 }}
+{{ 200 | times: 5 | divided_by: 100 }}
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
