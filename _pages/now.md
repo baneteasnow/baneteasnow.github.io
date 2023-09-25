@@ -23,4 +23,16 @@ _by_ Herman Narula
 
 {{ 200 | times: 5 | divided_by: 100 }}
 
+<ul>
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+    <li id="y{{currentdate}}">{{ currentdate }}</li>
+    {% assign date = currentdate %} 
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
