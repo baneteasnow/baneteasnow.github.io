@@ -28,7 +28,7 @@ _by_ Herman Narula
 {% assign posts_by_month = {} %}
 
 {% for post in site.posts %}
-    {% capture post_month %}{{ post.date | date: "%B %Y" }}{% endcapture %}
+    {% capture post_month %}{{ post.date | date: "%Y %m" }}{% endcapture %}
     {% if posts_by_month[post_month] %}
         {% assign posts_by_month[post_month] = posts_by_month[post_month] | plus: 1 %}
     {% else %}
