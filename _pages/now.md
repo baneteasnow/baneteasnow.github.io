@@ -23,5 +23,22 @@ _by_ Herman Narula
 
 {{ 200 | times: 5 | divided_by: 100 }}
 
+  
+<ul>
+{% assign posts_by_month = {} %}
+
+{% for post in site.posts %}
+    {% capture post_month %}{{ post.date | date: "%B %Y" }}{% endcapture %}
+    {% if posts_by_month[post_month] %}
+        {% assign posts_by_month[post_month] = posts_by_month[post_month] | plus: 1 %}
+    {% else %}
+        {% assign posts_by_month[post_month] = 1 %}
+    {% endif %}
+{% endfor %}
+
+{% for month in posts_by_month %}
+    <li>{{ month }}: {{ posts_by_month[month] }} posts</li>
+{% endfor %}
+</ul>
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
