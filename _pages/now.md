@@ -39,6 +39,7 @@ _by_ Herman Narula
 {% for month in posts_by_month %}
     <li>{{ month }}: {{ posts_by_month[month] }} posts</li>
 {% endfor %}
+...
 </ul>
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
