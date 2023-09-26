@@ -1,0 +1,15 @@
+{% assign post_count_by_month = {} %}
+{% for post in site.posts %}
+  {% capture post_month %}{{ post.date | date: "%Y-%m" }}{% endcapture %}
+  {% if post_count_by_month[post_month] %}
+    {% assign post_count_by_month[post_month] = post_count_by_month[post_month] | plus: 1 %}
+  {% else %}
+    {% assign post_count_by_month[post_month] = 1 %}
+  {% endif %}
+{% endfor %}
+
+<ul>
+{% for month in post_count_by_month %}
+  <li>{{ month }}: {{ post_count_by_month[month] }}</li>
+{% endfor %}
+</ul>
