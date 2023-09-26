@@ -23,5 +23,6 @@ _by_ Herman Narula
 
 {{ 200 | times: 5 | divided_by: 100 }}
   
+{% include postcountbymonth.html %}
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
