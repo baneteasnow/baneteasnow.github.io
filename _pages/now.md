@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-09-27
+last_modified_at: 2023-09-30
 published: true
 ---
 
-⁜ 71  
+⁜ 72  
   
-Virtual Society (2023)  
-_by_ Herman Narula  
-232 sayfa  
+Erteleme (2023)  
+_by_ Nihan Kaya  
+200 sayfa  
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
