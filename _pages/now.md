@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-09-30
+last_modified_at: 2023-10-03
 published: true
 ---
 
 ⁜ 72  
   
-Erteleme (2023)  
+Yuzmek, Yasamak ve Olma Arzusu (2023)  
 _by_ Nihan Kaya  
-200 sayfa  
+272 sayfa  
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
