@@ -11,7 +11,7 @@ last_modified_at: 2023-10-03
 published: true
 ---
 
-⁜ 72  
+⁜ 73  
   
 Yuzmek, Yasamak ve Olma Arzusu (2023)  
 _by_ Nihan Kaya  
