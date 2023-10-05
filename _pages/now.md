@@ -11,9 +11,9 @@ last_modified_at: 2023-10-03
 published: true
 ---
 
-⁜ 73  
-  
-Yuzmek, Yasamak ve Olma Arzusu (2023)  
+⁜ 73
+
+Yuzmek, Yasamak ve Olma Arzusu (2022)  
 _by_ Nihan Kaya  
 272 sayfa  
 {{ 86 | times: 100 | divided_by: 272 }}%
