@@ -258,7 +258,7 @@ a {
 /* a:visited {color: #add8e6;text-decoration: none !important;} */
 /* ::selection {color: red; background: yellow;} */
 ::selection {
-	background: linear-gradient(90deg, #cdffd8 #94b9ff);
+	background-image: linear-gradient(90deg, #cdffd8 #94b9ff);
 	/* #ffffcc */
 }
 a:hover {
