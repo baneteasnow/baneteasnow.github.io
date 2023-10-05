@@ -4,7 +4,7 @@ layout: post
 category: book
 title: "How to Worry Less About Money  |  John Armstrong (Kitap)"
 kitap: "How to Worry Less About Money"
-tr: "# Para Hakkındaki Endişelerimizi Nasıl Gideririz"
+tr: "Para Hakkındaki Endişelerimizi Nasıl Gideririz"
 yazar: "John Armstrong"
 yil: "2013"
 sayfa: "160"
@@ -13,7 +13,7 @@ description: "How to Worry Less About Money, mali kaygıları azaltmak ve daha s
 last_modified_at: 2023-06-20
 published: true
 posted: 2023-06-20
-tag: "felsefe" 
+tag: "felsefe"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -29,5 +29,3 @@ John Armstrong tarafından yazılan "How to Worry Less About Money", para konusu
 Kitap, toplumun ve kültürün mali algımız üzerindeki etkisini, tüketim alışkanlıklarımızın ve materyalist tutumlarımızın refahımız üzerindeki etkilerini inceler. Aynı zamanda mali okuryazarlık ve eğitimin önemine de değinir. Armstrong, okuyucuları kendi mali değerlerini ve hedeflerini gözden geçirmeye ve daha sağlıklı ve bilinçli bir mali yaklaşım geliştirmeye teşvik eder.
 
 Kitap boyunca, gerçek ihtiyaçlarımızı ve isteklerimizi ayırt etmenin önemine vurgu yapar ve mali seçimlerimizi değerlerimiz ve önceliklerimizle uyumlu hale getirmemizi önerir. Bütçeleme, biriktirme ve yatırım yapma konularında stratejiler sunar ve uzun vadeli bir mali planın önemini vurgular. Kitap, ayrıca minnettarlık, cömertlik ve materyal değerlere sığınmadan mutluluk bulma konularında da derinlemesine bir inceleme sunar.
-
-
