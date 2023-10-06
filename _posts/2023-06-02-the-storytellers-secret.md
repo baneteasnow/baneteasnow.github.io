@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Carmine Gallo, etkili hikaye anlatıcılarının ortak özellikler
 last_modified_at: 2023-06-02
 published: true
 posted: 2023-06-02
-tag: "motivasyon" 
+tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -29,5 +30,3 @@ Carmine Gallo "Hikaye Anlatıcısının Sırrı" isimli kitabında, etkileyici b
 Kitap, hikaye anlatma sürecinin temel adımlarını ele alır. İyi bir hikaye, başlangıç, gelişme ve sonuç bölümlerinden oluşur. Gallo, karakterlerin ve olay örgüsünün nasıl kullanılacağı konusunda pratik ipuçları sunarak okuyucuların aktardıkları hikayelerini güçlendirmelerine de yol gösteriyor.
 
 Ayrıca, kitap içindeki tekniklerle hikayelerin daha çekici hale getirilmesi de mümkün. Canlı ayrıntılar eklemek, duyusal imgeler kullanmak ve sürprizleri dahil etmek gibi stratejiler hikayelerin daha etkileyici olmasını sağlar.
-
-
