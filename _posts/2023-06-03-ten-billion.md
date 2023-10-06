@@ -13,12 +13,12 @@ description: "10 Milyar, artan dünya nüfusunun çevre ve yaşam kalitesi üzer
 last_modified_at: 2023-06-03
 published: true
 posted: 2023-06-03
-tag: "çevre" 
+tag: "çevre"
 instagram: "no"
 insta: "no"
 reread: "no"
 rating: "5"
-eng: " Ten Billion by Stephen Emmott explores the relationship between global population growth and environmental challenges, highlighting the urgent need for action to address climate change, water scarcity, energy consumption, food security, and biodiversity loss. It serves as a call to understand and address the complex issues facing our planet for a more sustainable future."
+eng: "Ten Billion by Stephen Emmott explores the relationship between global population growth and environmental challenges, highlighting the urgent need for action to address climate change, water scarcity, energy consumption, food security, and biodiversity loss. It serves as a call to understand and address the complex issues facing our planet for a more sustainable future."
 openai: "yes"
 num: "325"
 image: "/assets/new/ten-billion.jpg"

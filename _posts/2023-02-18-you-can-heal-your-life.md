@@ -24,20 +24,20 @@ eng: "You Can Heal Your Life by Louise L. Hay is a book that explores how our th
 image: "/assets/new/you-can-heal-your-life.jpg"
 ---
 
-İnsan zihninden günde ortalama olarak elli bin düşünce geçer. Bu düşüncelerin yüzde altmış ile altmış beşi olumsuz düşüncelerden meydana gelir. Düşünceler duyguları yaratır, duygular davranışları belirler. Olumsuz düşüncelerin birikimi, fiziksel,  zihinsel ve duygusal rahatsızlıklar yaşatır. 
+İnsan zihninden günde ortalama olarak elli bin düşünce geçer. Bu düşüncelerin yüzde altmış ile altmış beşi olumsuz düşüncelerden meydana gelir. Düşünceler duyguları yaratır, duygular davranışları belirler. Olumsuz düşüncelerin birikimi, fiziksel, zihinsel ve duygusal rahatsızlıklar yaşatır.
 
-Aklımızda oluşturduğumuz her düşünce geleceğimizi yaratır. Kendimiz ve hayat hakkındaki inançlarımız, bizim gerçeğimizi oluşturur. 
+Aklımızda oluşturduğumuz her düşünce geleceğimizi yaratır. Kendimiz ve hayat hakkındaki inançlarımız, bizim gerçeğimizi oluşturur.
 
-Hayatta yaşanılan tüm deneyimler, geçmişe dayanan düşünce ve inançların ürünüdür. Kendini onaylama ve kabul etme, hayatımızın her boyutunda olumlu değişimlerin olması için temel anahtardır. 
+Hayatta yaşanılan tüm deneyimler, geçmişe dayanan düşünce ve inançların ürünüdür. Kendini onaylama ve kabul etme, hayatımızın her boyutunda olumlu değişimlerin olması için temel anahtardır.
 
-Kendimiz ve hayat hakkında neler hissedeceğimizi, küçükken etrafımızda olan yetişkinlerin davranışlarından, tepkilerinden öğreniriz. 
+Kendimiz ve hayat hakkında neler hissedeceğimizi, küçükken etrafımızda olan yetişkinlerin davranışlarından, tepkilerinden öğreniriz.
 
 Geçmişten gelen inançlarımız sorunlara dönüşür. Aslında düşünce kalıpları değiştirilebilir.
 
 'İyi' ya da 'kötü' hava diye bir şey yoktur; sadece bireysel tepkilerimiz vardır. Değişim, kendi düşüncelerimizde şimdi ve burada başlar. Şimdi, şu anda inanmayı ve düşünmeyi seçtiğiniz şeyler, bir sonraki anınızı, yarınınızı, gelecek ayınızı, gelecek yılınızı yaratır.
 
-Bir durumu değiştirmek için önce derinliklerde gömülü olan düşünce kalıplarımızın farkında olmalıyız. 
+Bir durumu değiştirmek için önce derinliklerde gömülü olan düşünce kalıplarımızın farkında olmalıyız.
 
-Meditasyon, affirmasyonlar (olumlu ifadeler ve onaylayıcı düşünceler), imgeleme zihinsel yatırımlardır. 
+Meditasyon, affirmasyonlar (olumlu ifadeler ve onaylayıcı düşünceler), imgeleme zihinsel yatırımlardır.
 
-Bedenimizde 'hastalık' denilen şeyi kendimizin yarattığına inanıyorum. Hayatta her şeyin olduğu gibi, beden de içsel düşünce ve inançlarımızın bir aynasıdır. Dinlemesini bilirsel bedenimiz daima bizimle konuşur. Bedeninizin her hücresi, düşündüğünüz her düşünceye, söylediğiniz her söze karşılık verir.
+Bedenimizde 'hastalık' denilen şeyi bizzat kendimiz yaratıyoruz. Hayatta her şeyin olduğu gibi, beden de içsel düşünce ve inançlarımızın bir aynasıdır. Dinlemesini bilirsel bedenimiz daima bizimle konuşur. Bedeninizin her hücresi, düşündüğünüz her düşünceye, söylediğiniz her söze karşılık verir.
