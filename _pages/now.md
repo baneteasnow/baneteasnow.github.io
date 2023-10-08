@@ -16,6 +16,6 @@ published: true
 Yuzmek, Yasamak ve Olma Arzusu (2022)  
 _by_ Nihan Kaya  
 272 sayfa  
-{{ 86 | times: 100 | divided_by: 272 }}%
+{{ 147 | times: 100 | divided_by: 272 }}%
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
