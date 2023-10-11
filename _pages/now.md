@@ -21,7 +21,7 @@ _by_ Amanda Ripley
 {{ 54 | times: 100 | divided_by: 336 }}%  
  
  
-<div><progress title="{{ page.read }}/{{ page.all }}" value="{{ page.read }}" max="{{ page.all }}" style="width: 90%;"></progress><span style="font-size: 50%; width: 5%; font-style: italic;" title="reading challenge 2023"> {{ page.read }}/{{ page.all }}</span></div>
+<div><progress title="{{ page.read }}/{{ page.all }}" value="{{ page.read }}" max="{{ page.all }}" style="width: 80%;"></progress><span style="font-size: 50%; width: 5%; font-style: italic;" title="reading challenge 2023"> {{ page.read }}/{{ page.all }}</span></div>
 <div style="clear: both"></div>
 <br />
 
