@@ -15,9 +15,10 @@ booktitle: The Unthinkable
 bookyear: 2013
 author: "Amanda Ripley"
 sayfa: 336
+read: 74
 ---
 
-⁜ 74
+⁜ {{ page.read }}
 
 {{ page.booktitle }} ({{ page.bookyear }})  
 _by_ {{ page.author }}  
