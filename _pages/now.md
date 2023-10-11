@@ -7,15 +7,15 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-10-09
+last_modified_at: 2023-10-11
 published: true
 ---
 
-⁜ 73
+⁜ 74
 
-The Culture of Narcissism  (2021)  
-_by_ Christopher Lasch  
-360 sayfa  
-{{ 11 | times: 100 | divided_by: 360 }}%
+The Unthinkable  (2013)  
+_by_ Amanda Ripley  
+336 sayfa  
+{{ 54 | times: 100 | divided_by: 336 }}%
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
