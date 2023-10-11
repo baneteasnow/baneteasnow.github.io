@@ -20,7 +20,7 @@ sayfa: 336
 ⁜ 74
 
 {{ page.booktitle }} ({{ page.bookyear }})  
-_by_ {{ page.author }}
+_by_ {{ page.author }}  
 {{ page.sayfa }} sayfa
 
 <div style="font-size: 50%; width: 5%; font-style: italic;" title="reading challenge 2023"> 
@@ -28,7 +28,7 @@ _by_ {{ page.author }}
 </div>
 
 <div>
-  <progress title="{{ page.read }}/{{ page.all }}" value="{{ page.read }}" max="{{ page.all }}" style="width: 80%;">xxx</progress>
+  <progress title="{{ page.read }}/{{ page.all }}" value="{{ page.read }}" max="{{ page.all }}" style="width: 80%;"></progress>
   <span style="font-size: 50%; width: 5%; font-style: italic;" title="reading challenge 2023"> {{ page.read }}/{{ page.all }}</span>
 </div>
 <div style="clear: both"></div>
