@@ -9,6 +9,8 @@ layout: page
 title: şimdi okuduğum kitaplar
 last_modified_at: 2023-10-11
 published: true
+read: 54
+all: 336
 ---
 
 ⁜ 74
@@ -16,6 +18,11 @@ published: true
 The Unthinkable  (2013)  
 _by_ Amanda Ripley  
 336 sayfa  
-{{ 54 | times: 100 | divided_by: 336 }}%
+{{ 54 | times: 100 | divided_by: 336 }}%  
+ 
+ 
+<div><progress title="{{ page.read }}/{{ page.all }}" value="{{ page.read }}" max="{{ page.all }}" style="width: 90%;"></progress><span style="font-size: 50%; width: 5%; font-style: italic;" title="reading challenge 2023"> {{ page.read }}/{{ page.all }}</span></div>
+<div style="clear: both"></div>
+<br />
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
