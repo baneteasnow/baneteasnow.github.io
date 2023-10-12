@@ -13,16 +13,16 @@ booktitle1: "The Unthinkable"
 bookyear1: 2013
 author1: "Amanda Ripley"
 sayfa1: 336
-pageread1: 54
+pageread1: 114
 booktitle2: "Afacan Bir Psikanalistan Düşünceleri"
 bookyear2: 2023
 author2: "Antonino Ferro"
 sayfa2: 152
-pageread2: 1
+pageread2: 31
 read: 74
 ---
 
-<!-- book 1 -->
+	<!-- book 1 -->
 
 ⁜ {{ page.read }}
 
