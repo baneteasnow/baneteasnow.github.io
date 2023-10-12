@@ -9,18 +9,18 @@ layout: page
 title: şimdi okuduğum kitaplar
 last_modified_at: 2023-10-12
 published: true
-pageread1: 54
-pageall1: 336
 booktitle1: "The Unthinkable"
 bookyear1: 2013
 author1: "Amanda Ripley"
 sayfa1: 336
-booktitle2: "Afacan Bir Psikanalistan Düşüncüleri"
+pageread1: 54
+pageall1: 336
+booktitle2: "Afacan Bir Psikanalistan Düşünceleri"
 bookyear2: 2023
 author2: "Antonino Ferro"
 sayfa2: 152
-pageread2: 54
-pageall2: 336
+pageread2: 1
+pageall2: 152
 read: 74
 ---
 
@@ -29,8 +29,11 @@ read: 74
 ⁜ {{ page.read }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
-_by_ {{ page.author1 }}  
-{{ page.sayfa1 }} sayfa
+_by_ {{ page.author1 }}
+
+<div style="font-size: 50%; width: 5%; font-style: italic;">
+  {{ page.sayfa1 }} sayfa
+ </div>
 
 <div style="font-size: 50%; width: 5%; font-style: italic;" title="reading challenge 2023"> 
   {{ page.pageread1 | times: 100 | divided_by: page.pageall1 }}%
@@ -46,9 +49,13 @@ _by_ {{ page.author1 }}
 <br />
   <!-- book 2 -->
 ⁜ {{ page.read | plus: 1 }}
+
 {{ page.booktitle2 }} ({{ page.bookyear2 }})  
-_by_ {{ page.author2 }}  
-{{ page.sayfa2 }} sayfa
+_by_ {{ page.author2 }}
+
+<div style="font-size: 50%; width: 5%; font-style: italic;">
+  {{ page.sayfa2 }} sayfa
+ </div>
 
 <div style="font-size: 50%; width: 5%; font-style: italic;" title="reading challenge 2023"> 
   {{ page.pageread2 | times: 100 | divided_by: page.pageall2 }}%
