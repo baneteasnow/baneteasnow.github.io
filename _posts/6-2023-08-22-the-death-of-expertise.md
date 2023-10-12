@@ -23,5 +23,3 @@ num: "372"
 publisher: "Uzmanlığın Ölümü adlı kitap, çağdaş toplumda kurulmuş bilgiye ve uzmanlara saygının azalmasını inceleyerek, internetin, sosyal medyanın ve populizmin yükselişinin, birçok insanın uzman görüşlerini reddetmesine ve kendi görüşlerine veya bilgi kaynaklarına güvenmesine nasıl katkıda bulunduğunu ve bu eğilimin bilgilendirilmiş karar verme ve sağlıklı bir demokrasi için ciddi sonuçlara yol açabileceğini tartışır."
 image: "/assets/new/the-death-of-expertise.jpg"
 ---
-
-2023-08-22-the-death-of-expertise

@@ -23,5 +23,3 @@ num: "374"
 publisher: "Pingala"
 image: "/assets/new/a-yogis-guide-to-chakra-meditation.jpg"
 ---
-
-2023-08-29-a-yogis-guide-to-chakra-meditation

@@ -23,5 +23,3 @@ num: "369"
 publisher: "Muptela"
 image: "/assets/new/ilimli-vegan.jpg"
 ---
-
-2023-08-07-ilimli-vegan

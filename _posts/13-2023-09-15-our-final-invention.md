@@ -23,5 +23,3 @@ num: "379"
 publisher: "Pegasus"
 image: "/assets/new/our-final-invention.jpg"
 ---
-
-2023-09-15-our-final-invention

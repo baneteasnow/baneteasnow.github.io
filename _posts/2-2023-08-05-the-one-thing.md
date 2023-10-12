@@ -23,5 +23,3 @@ num: "368"
 publisher: "Altin Kitaplar"
 image: "/assets/new/the-one-thing.jpg"
 ---
-
-2023-08-05-the-one-thing

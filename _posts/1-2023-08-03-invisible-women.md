@@ -23,5 +23,3 @@ num: "367"
 publisher: "Epsilon"
 image: "/assets/new/invisible-women.jpg"
 ---
-
-2023-08-03-invisible-women

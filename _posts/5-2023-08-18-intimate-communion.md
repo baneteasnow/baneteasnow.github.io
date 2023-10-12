@@ -23,5 +23,3 @@ num: "371"
 publisher: "Aya Kitap"
 image: "/assets/new/intimate-communion.jpg"
 ---
-
-2023-08-18-intimate-communion
