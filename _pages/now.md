@@ -14,13 +14,11 @@ bookyear1: 2013
 author1: "Amanda Ripley"
 sayfa1: 336
 pageread1: 54
-pageall1: 336
 booktitle2: "Afacan Bir Psikanalistan Düşünceleri"
 bookyear2: 2023
 author2: "Antonino Ferro"
 sayfa2: 152
 pageread2: 1
-pageall2: 152
 read: 74
 ---
 
@@ -36,13 +34,13 @@ _by_ {{ page.author1 }}
  </div>
 
 <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-  {{ page.pageread1 | times: 100 | divided_by: page.pageall1 }}%
+  {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
 </div>
 
 <div>
-  <progress title="{{ page.pageread1 }}/{{ page.pageall1 }}" value="{{ page.pageread1 }}" max="{{ page.pageall1 }}" style="width: 80%;"></progress>
+  <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-    {{ page.pageread1 }}/{{ page.pageall1 }}
+    {{ page.pageread1 }}/{{ page.sayfa1 }}
   </span>
 </div>
 <div style="clear: both"></div>
@@ -60,13 +58,13 @@ _by_ {{ page.author2 }}
  </div>
 
 <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-  {{ page.pageread2 | times: 100 | divided_by: page.pageall2 }}%
+  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
 </div>
 
 <div>
-  <progress title="{{ page.pageread2 }}/{{ page.pageall2 }}" value="{{ page.pageread2 }}" max="{{ page.pageall2 }}" style="width: 80%;"></progress>
+  <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-    {{ page.pageread2 }}/{{ page.pageall2 }}
+    {{ page.pageread2 }}/{{ page.sayfa2 }}
   </span>
 </div>
 <div style="clear: both"></div>
