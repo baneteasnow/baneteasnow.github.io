@@ -9,11 +9,11 @@ layout: page
 title: şimdi okuduğum kitaplar
 last_modified_at: 2023-10-12
 published: true
-booktitle1: "The Unthinkable"
-bookyear1: 2013
-author1: "Amanda Ripley"
-sayfa1: 336
-pageread1: 193
+# booktitle1: ""
+# bookyear1: 
+# author1: ""
+# sayfa1: 
+# pageread1: 
 booktitle2: "Afacan Bir Psikanalistan Düşünceleri"
 bookyear2: 2023
 author2: "Antonino Ferro, Luca Nicoli"
@@ -24,7 +24,7 @@ read: 74
 
 <!-- book 1 -->
 
-⁜ {{ page.read }}
+<!-- ⁜ {{ page.read }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
 _by_ {{ page.author1 }}
@@ -44,7 +44,7 @@ _by_ {{ page.author1 }}
   </span>
 </div>
 <div style="clear: both"></div>
-<br />
+<br /> -->
 
   <!-- book 2 -->
 
