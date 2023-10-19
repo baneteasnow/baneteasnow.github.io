@@ -13,7 +13,7 @@ booktitle: "Afacan Bir Psikanalistan Düşünceleri"
 bookyear: 2023
 author: "Antonino Ferro, Luca Nicoli"
 sayfa: 152
-pageread: 87
+pageread: 114
 read: 74
 ---
 
