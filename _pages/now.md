@@ -9,11 +9,6 @@ layout: page
 title: şimdi okuduğum kitaplar
 last_modified_at: 2023-10-12
 published: true
-# booktitle1: ""
-# bookyear1: 
-# author1: ""
-# sayfa1: 
-# pageread1: 
 booktitle2: "Afacan Bir Psikanalistan Düşünceleri"
 bookyear2: 2023
 author2: "Antonino Ferro, Luca Nicoli"
@@ -22,24 +17,30 @@ pageread2: 87
 read: 74
 ---
 
+<!-- # booktitle1: ""
+# bookyear1:
+# author1: ""
+# sayfa1:
+# pageread1:  -->
+
 <!-- book 1 -->
 
 <!-- ⁜ {{ page.read }}
 
-{{ page.booktitle1 }} ({{ page.bookyear1 }})  
+{{ page.booktitle1 }} ({{ page.bookyear1 }})
 _by_ {{ page.author1 }}
 
 <div style="font-size: 50%; font-style: italic;">
   {{ page.sayfa1 }} sayfa
  </div>
 
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
   {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
 </div>
 
 <div>
   <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
-  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
     {{ page.pageread1 }}/{{ page.sayfa1 }}
   </span>
 </div>
