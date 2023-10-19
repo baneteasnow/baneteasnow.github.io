@@ -7,65 +7,33 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-10-12
+last_modified_at: 2023-10-19
 published: true
-booktitle2: "Afacan Bir Psikanalistan Düşünceleri"
-bookyear2: 2023
-author2: "Antonino Ferro, Luca Nicoli"
-sayfa2: 152
-pageread2: 87
+booktitle: "Afacan Bir Psikanalistan Düşünceleri"
+bookyear: 2023
+author: "Antonino Ferro, Luca Nicoli"
+sayfa: 152
+pageread: 87
 read: 74
 ---
 
-<!-- # booktitle1: ""
-# bookyear1:
-# author1: ""
-# sayfa1:
-# pageread1:  -->
-
-<!-- book 1 -->
-
-<!-- ⁜ {{ page.read }}
-
-{{ page.booktitle1 }} ({{ page.bookyear1 }})
-_by_ {{ page.author1 }}
-
-<div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa1 }} sayfa
- </div>
-
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
-  {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
-</div>
-
-<div>
-  <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
-  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
-    {{ page.pageread1 }}/{{ page.sayfa1 }}
-  </span>
-</div>
-<div style="clear: both"></div>
-<br /> -->
-
-  <!-- book 2 -->
-
 ⁜ {{ page.read | plus: 1 }}
 
-{{ page.booktitle2 }} ({{ page.bookyear2 }})  
-_by_ {{ page.author2 }}
+{{ page.booktitle }} ({{ page.bookyear }})  
+_by_ {{ page.author }}
 
 <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa2 }} sayfa
+  {{ page.sayfa }} sayfa
  </div>
 
 <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+  {{ page.pageread | times: 100 | divided_by: page.sayfa }}%
 </div>
 
 <div>
-  <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+  <progress title="{{ page.pageread }}/{{ page.sayfa }}" value="{{ page.pageread }}" max="{{ page.sayfa }}" style="width: 80%;"></progress>
   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-    {{ page.pageread2 }}/{{ page.sayfa2 }}
+    {{ page.pageread }}/{{ page.sayfa }}
   </span>
 </div>
 <div style="clear: both"></div>
