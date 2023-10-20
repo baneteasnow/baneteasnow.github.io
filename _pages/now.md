@@ -9,31 +9,58 @@ layout: page
 title: şimdi okuduğum kitaplar
 last_modified_at: 2023-10-19
 published: true
-booktitle: "Afacan Bir Psikanalistan Düşünceleri"
-bookyear: 2023
-author: "Antonino Ferro, Luca Nicoli"
-sayfa: 152
-pageread: 114
+booktitle1: "Tartismalar"
+bookyear1: 2022
+author1: "The School of Life"
+sayfa1: 126
+pageread1: 13
+booktitle2: "Sakinlik"
+bookyear2: 2023
+author2: "The School of Life"
+sayfa2: 190
+pageread2: 1
 read: 74
 ---
 
 ⁜ {{ page.read | plus: 1 }}
 
-{{ page.booktitle }} ({{ page.bookyear }})  
-_by_ {{ page.author }}
+{{ page.booktitle1 }} ({{ page.bookyear1 }})  
+_by_ {{ page.author1 }}
 
 <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa }} sayfa
+  {{ page.sayfa1 }} sayfa
  </div>
 
 <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-  {{ page.pageread | times: 100 | divided_by: page.sayfa }}%
+  {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
 </div>
 
 <div>
-  <progress title="{{ page.pageread }}/{{ page.sayfa }}" value="{{ page.pageread }}" max="{{ page.sayfa }}" style="width: 80%;"></progress>
+  <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-    {{ page.pageread }}/{{ page.sayfa }}
+    {{ page.pageread1 }}/{{ page.sayfa1 }}
+  </span>
+</div>
+<div style="clear: both"></div>
+<br />
+
+⁜ {{ page.read | plus: 2 }}
+
+{{ page.booktitle2 }} ({{ page.bookyear2 }})  
+_by_ {{ page.author2 }}
+
+<div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa2 }} sayfa
+ </div>
+
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+</div>
+
+<div>
+  <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+    {{ page.pageread2 }}/{{ page.sayfa2 }}
   </span>
 </div>
 <div style="clear: both"></div>
