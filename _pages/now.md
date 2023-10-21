@@ -10,13 +10,13 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2023-10-19
 published: true
 # 1
-booktitle1: "Tartismalar"
+booktitle1: "Arguments"
 bookyear1: 2022
 author1: "The School of Life"
 sayfa1: 126
-pageread1: 13
+pageread1: 59
 # 2
-booktitle2: "Sakinlik"
+booktitle2: "Calm"
 bookyear2: 2023
 author2: "The School of Life"
 sayfa2: 190
