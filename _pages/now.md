@@ -20,7 +20,7 @@ booktitle2: "Calm"
 bookyear2: 2023
 author2: "The School of Life"
 sayfa2: 190
-pageread2: 11
+pageread2: 97
 # 3
 read: 75
 # ---
