@@ -16,37 +16,37 @@ author1: "The School of Life"
 sayfa1: 126
 pageread1: 59
 # 2
-booktitle2: "Calm"
-bookyear2: 2023
-author2: "The School of Life"
-sayfa2: 190
-pageread2: 11
+# booktitle2: "Calm"
+# bookyear2: 2023
+# author2: "The School of Life"
+# sayfa2: 190
+# pageread2: 11
 # 3
-read: 74
+read: 76
+# ---
+# 
+# ⁜ {{ page.read | plus: 1 }}
+# 
+# {{ page.booktitle1 }} ({{ page.bookyear1 }})  
+# _by_ {{ page.author1 }}
+
+# <div style="font-size: 50%; font-style: italic;">
+#   {{ page.sayfa1 }} sayfa
+#  </div>
+
+# <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+#   {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
+# </div>
+# 
+# <div>
+#   <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
+#   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+#     {{ page.pageread1 }}/{{ page.sayfa1 }}
+#   </span>
+# </div>
+# <div style="clear: both"></div>
+# <br />
 ---
-
-⁜ {{ page.read | plus: 1 }}
-
-{{ page.booktitle1 }} ({{ page.bookyear1 }})  
-_by_ {{ page.author1 }}
-
-<div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa1 }} sayfa
- </div>
-
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-  {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
-</div>
-
-<div>
-  <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
-  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-    {{ page.pageread1 }}/{{ page.sayfa1 }}
-  </span>
-</div>
-<div style="clear: both"></div>
-<br />
-
 ⁜ {{ page.read | plus: 2 }}
 
 {{ page.booktitle2 }} ({{ page.bookyear2 }})  
