@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "The Talent Code | Daniel Coyle (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "248"
 goodreads: "https://www.goodreads.com/book/show/5771014-the-talent-code"
 description: "Daniel Coyle'un Yetenek Kodu adlı kitabı, farklı alanlarda yetenek geliştirmenin bilimsel temellerini inceler ve uzmanlık kazanmanın belirli eğitim ve çevresel faktörlere dayandığını, doğuştan gelen bir özellik olmadığını vurgular."
 last_modified_at: 2023-08-15
-published: false
+published: true
 posted: 2023-08-15
 tag: "psikoloji"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "370"
 publisher: "Beyaz Yayinlari"
 image: "/assets/new/the-talent-code.jpg"
 ---
+
+to be updated...

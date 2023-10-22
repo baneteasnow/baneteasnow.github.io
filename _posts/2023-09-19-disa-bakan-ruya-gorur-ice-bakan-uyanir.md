@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Dışa Bakan Rüya Görür, İçe Bakan Uyanır | Carl Gustav Jung (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/55822270-carl-gustav-jung"
 description: ""
 last_modified_at: 2023-09-19
-published: false
+published: true
 posted: 2023-09-19
 tag: "psikoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Destek Yayinlari"
 image: "/assets/new/disa-bakan-ruya-gorur-ice-bakan-uyanir.jpg"
 ---
 
-2023-09-19-disa-bakan-ruya-gorur-ice-bakan-uyanir
+to be updated...

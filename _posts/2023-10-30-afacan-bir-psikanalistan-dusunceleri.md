@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Afacan Bir Psikanalistan Düşünceleri | Antonino Ferro (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/122368875-afacan-bir-psikanalistan-d-nc-leri"
 description: ""
 last_modified_at: 2023-10-30
-published: false
+published: true
 posted: 2023-10-30
 tag: "psikoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Yapi Kredi Yayinlari"
 image: "/assets/new/afacan-bir-psikanalistan-dusunceleri.jpg"
 ---
 
-2023-10-30-afacan-bir-psikanalistan-dusunceleri
+to be updated...

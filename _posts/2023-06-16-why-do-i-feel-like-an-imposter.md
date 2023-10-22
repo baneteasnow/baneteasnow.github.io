@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Why Do I Feel Like an Imposter?kitabı, insanların neden kendiler
 last_modified_at: 2023-06-16
 published: true
 posted: 2023-06-16
-tag: "psikoloji" 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -31,8 +32,3 @@ Kitap, imposter sendromunun çeşitli alanlarda nasıl ortaya çıkabileceğini 
 Kitap aynı zamanda imposter sendromunun nasıl etkiler yarattığını ve insanların yaşam kalitesini nasıl etkilediğini açıklar. Yetersizlik duygularının, özgüven eksikliğinin, kariyer ilerlemesinin engellenmesinin ve yaşamın keyifli yanlarının gözden kaçmasının imposter sendromuyla ilişkili olabileceğini vurgular. Yazar, bu durumu anlamak ve etkilerini azaltmak için okuyucuya pratik stratejiler sunar.
 
 İmposter Sendromu kitabı, okuyuculara imposter sendromunu aşmaları ve gerçek potansiyellerini keşfetmeleri konusunda ilham veriyor. Yazar, özgüvenin geliştirilmesi, olumlu düşünce kalıplarının oluşturulması ve kendi değerlerimizin farkına varmanın önemini vurgular. Kitap, okuyucuları imposter sendromuyla mücadele etme konusunda cesaretlendirir ve kendilerine olan güvenlerini yeniden kazanmalarına yardımcı olur.
-
-
-
-
-

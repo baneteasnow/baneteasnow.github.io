@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Eşyaların Patriyarkası | Rebekka Endler (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "312"
 goodreads: "https://www.goodreads.com/book/show/74736061-e-yalar-n-patriyarkas"
 description: ""
 last_modified_at: 2023-09-07
-published: false
+published: true
 posted: 2023-09-07
 tag: "sosyoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: ""
 image: "/assets/new/esyalarin-petriyarkasi.jpg"
 ---
 
-2023-09-07-esyalarin-petriyarkasi
+to be updated...

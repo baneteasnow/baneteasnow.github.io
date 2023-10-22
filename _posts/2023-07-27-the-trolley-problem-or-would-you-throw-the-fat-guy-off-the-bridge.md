@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Troleybüs Problemi ya da Şişman Adamı Üst Geçitten Aşağı 
 last_modified_at: 2023-07-27
 published: true
 posted: 2023-07-27
-tag: "felsefe" 
+tag: "felsefe"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -31,6 +32,3 @@ Troleybüs Problemi, ahlaki karar alma süreçlerini sorgulayan bir felsefi soru
 Troleybüs Problemi, farklı etik bakış açılarını ve birçok insanın hayatını kurtarmak adına bir yaşamı feda etme konusundaki ahlaki karmaşıklıkları keşfeder. Bireysel hayatların değeri, faydacılık kavramı (genel mutluluğu maksimize etmek) ve daha büyük bir zararı önlemek için aktif olarak zarar vermenin etiği gibi konuları sorgular.
 
 Kitap, felsefi düşünme becerisi kazandırmayı amaçlayan bir yaklaşım ile farklı tarafların görüşlerini gerekçeleri ile ele alır ve kararı okuyucuya bırakır.
-
-
-

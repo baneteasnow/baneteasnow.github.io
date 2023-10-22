@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Tom Chivers, kitabında yapay zekanın insan zekasını aşma pota
 last_modified_at: 2023-06-06
 published: true
 posted: 2023-06-06
-tag: "teknoloji" 
+tag: "teknoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -30,7 +31,7 @@ Kısacası, insan düzeyinde yapay genel zeka (sıradan bir insandan her konuda 
 
 Yakın gelecekte yapay zekanın başrolde olacağı bazıları olumlu bazıları da olumsuz pek çok gelişme yaşanabilir. Örneğin, herkesin yaşamak için gerekli her şeyi elde ettiği mutlu zihinlerin egemen olduğu bir medeniyet kurulabileceği gibi, iyi tanımlanmamış hedefleri gerçekleştirmek üzere farkında olmadan insanlığın sonunu getiren bir yapay zeka uygulaması da devreye girebilir.
 
-İnsan olarak, yapay zekayı kendi zeka anlayışımızla kıyaslama eğilimimiz var ve bu da aslında kendimizi merkeze alan bir anlayış. Oysa ki, esas olan yapay zekanın komutlarla programlanarak hayata geçtiği ve yapılacak en küçük bir hatanın ya da hesap edilmeyen en küçük bir riskin istenmeyen sonuçlara yol açabileceği. 
+İnsan olarak, yapay zekayı kendi zeka anlayışımızla kıyaslama eğilimimiz var ve bu da aslında kendimizi merkeze alan bir anlayış. Oysa ki, esas olan yapay zekanın komutlarla programlanarak hayata geçtiği ve yapılacak en küçük bir hatanın ya da hesap edilmeyen en küçük bir riskin istenmeyen sonuçlara yol açabileceği.
 
 İnsanların süper zekanın potansiyel olarak tehlikeli olabileceğini göz ardı ettiği bir nokta var ve bu da potansiyel riskleri gözden kaçırmamıza neden oluyor. Yapay zeka, kendi hedefleri veya programlanmış talimatlarına karşı düşünme yeteneğine sahip olmadığında bile tehlikeli olabilir. Başka bir deyişle, yapay zeka bizimle aynı değerleri veya arzuları paylaşmasa bile yanlışlıkla bile olsa zararlı olabilir.
 

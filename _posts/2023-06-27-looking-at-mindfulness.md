@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Christophe André's book, Looking at Mindfulness, provides a valua
 last_modified_at: 2023-06-27
 published: true
 posted: 2023-06-27
-tag: "mindfulness" 
+tag: "mindfulness"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -28,8 +29,4 @@ image: "/assets/new/looking-at-mindfulness.jpg"
 
 "Looking at Mindfulness", mindfulness anlayışını derinleştirmek ve uygulamak isteyen herkes için değerli bir kaynaktır. Kitap, stresli ve karmaşık dünyamızda iç huzurunuzu bulmanızı sağlayacak bir rehberlik sunar. André'nin samimi anlatımı ve zengin içeriği, mindfulness'in nasıl günlük yaşama entegre edileceği konusunda ilham verici bir yol göstericidir. Kitap, pratik mindfulness tekniklerini açıklar, zihni sakinleştirme yöntemlerini paylaşır ve zihinsel farkındalığı artırmak için yararlı ipuçları sunar.
 
-André, kitaptaki her bölüme ünlü bir sanat eserinin kendisine anımsattıklarını paylaşarak başlıyor. Her biri hayatın farklı bir anını işleyen bu sanat eserleri ile  mindfulness kavramını adım adım detaylandırıyor.
-
-
-
-
+André, kitaptaki her bölüme ünlü bir sanat eserinin kendisine anımsattıklarını paylaşarak başlıyor. Her biri hayatın farklı bir anını işleyen bu sanat eserleri ile mindfulness kavramını adım adım detaylandırıyor.

@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Cennetin Dibi | Gündüz Vassaf (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "251"
 goodreads: "https://www.goodreads.com/book/show/7113702-cennetin-dibi"
 description: ""
 last_modified_at: 2023-09-10
-published: false
+published: true
 posted: 2023-09-10
 tag: "felsefe"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Iletisim"
 image: "/assets/new/cennetin-dibi.jpg"
 ---
 
-2023-09-10-cennetin-dibi
+to be updated...

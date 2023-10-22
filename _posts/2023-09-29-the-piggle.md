@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "The Piggle | D.W. Winnicott (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/791139.The_Piggle"
 description: "Piggle - Küçük Bir Kız Çocuğunun Psikanalizle Tedavisinin Öyküsü adlı kitap, D.W. Winnicott tarafından yazılmış bir vaka çalışmasıdır ve bir genç kızın psikanalitik tedavi sürecini ve çocuk psikolojisi ile terapi yöntemleri hakkında içgörüler sunar."
 last_modified_at: 2023-09-29
-published: false
+published: true
 posted: 2023-09-29
 tag: "psikoloji"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "383"
 publisher: "Yapi Kredi Yayinlari"
 image: "/assets/new/the-piggle.jpg"
 ---
+
+to be updated...

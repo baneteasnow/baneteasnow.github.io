@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -24,12 +25,8 @@ num: "360"
 image: "/assets/new/this-book-is-for-you.jpg"
 ---
 
-@worry__lines Instagram hesabındaki paylaşımları ile tanınan Worry Lines,  Bu Kitap Senin İçin'de "ben", "umut" ve "kaygı" karakterlerinin maceralarını renkli çizimler ile aktarıyor. 
+@worry\_\_lines Instagram hesabındaki paylaşımları ile tanınan Worry Lines, Bu Kitap Senin İçin'de "ben", "umut" ve "kaygı" karakterlerinin maceralarını renkli çizimler ile aktarıyor.
 
-"Ben" bir kitap yazmak istemektedir. "Umut" bu fikre oldukça sıcak bakar ve hemen destek olur; ancak "Kaygı" ise bu fikrin başarısızlıkla sonuçlanacak olan büyük bir hataya dönüşeceğinden endişelidir. 
+"Ben" bir kitap yazmak istemektedir. "Umut" bu fikre oldukça sıcak bakar ve hemen destek olur; ancak "Kaygı" ise bu fikrin başarısızlıkla sonuçlanacak olan büyük bir hataya dönüşeceğinden endişelidir.
 
 "Ben", "Kaygı"ya hali hazırdaki çizimlerini gösterir. Bu çizimler, ithaf, sevgi, empati, kaygılar, duygular, düşünceler ve umutla ilgilidir. Bir yandan "Ben" ve "Umut", bu kitabın başarılı olacağına dair "Kaygı"yı ikna etmeye çalışırlarken, diğer yandan da endişe duymanın aslında ne kadar normal olduğunu ortaya koyarlar ve başa çıkma yolları üzerine de minik ipuçları paylaşırlar.
-
-
-
-

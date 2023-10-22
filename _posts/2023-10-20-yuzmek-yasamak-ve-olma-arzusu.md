@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Yüzmek, Yaşamak ve Olma Arzusu | Nihan Kaya (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/61942229-y-zmek-ya-amak-ve-olma-arzusu"
 description: ""
 last_modified_at: 2023-10-20
-published: false
+published: true
 posted: 2023-10-20
 tag: "psikoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Eksik Parca"
 image: "/assets/new/yuzmek-yasamak-ve-olma-arzusu.jpg"
 ---
 
-2023-10-20-yuzmek-yasamak-ve-olma-arzusu
+to be updated...

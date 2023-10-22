@@ -1,5 +1,6 @@
 ---
-# open ai 
+# to be updated
+# open ai
 layout: post
 category: book
 title: "A World Without Work | Daniel Susskind (Kitap)"
@@ -13,7 +14,7 @@ description: "Çalışılmayan Bir Dünya, gelecekteki iş gücü dönüşümler
 last_modified_at: 2023-07-25
 published: true
 posted: 2023-07-25
-tag: "teknoloji" 
+tag: "teknoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -28,11 +29,6 @@ image: "/assets/new/a-world-without-work.jpg"
 
 Susskind, kitapta otomasyonun iş dünyasına olan etkilerini incelerken, bu değişikliklerin toplumun nasıl şekillenebileceğini ve işsizlik, eşitsizlik, ekonomik yapılar ve sosyal normlar gibi konuları ele alır. Yazar, teknolojik ilerlemenin iş yapısını nasıl dönüştürebileceğini ve insanların işgücündeki yerini nasıl etkileyebileceğini tartışıyor.
 
-Kitap aynı zamanda teknolojik ilerlemenin getirdiği potansiyel avantajlar ve dezavantajlar üzerinde de duruyor. Susskind, yeni iş fırsatları yaratılmasının yanı sıra, bazı mesleklerin yerini alabilecek teknolojik gelişmelerin de olduğunu belirtiyor. 
+Kitap aynı zamanda teknolojik ilerlemenin getirdiği potansiyel avantajlar ve dezavantajlar üzerinde de duruyor. Susskind, yeni iş fırsatları yaratılmasının yanı sıra, bazı mesleklerin yerini alabilecek teknolojik gelişmelerin de olduğunu belirtiyor.
 
-Kitapta konu bağlam, tehdit ve çözüm olarak üç kısımda ele alınıyor. Teknoloji ile birlikte gelen makineleşmenin değiştirdiği meslekler ve gelecekte iş gücünün hangi yönde hareket edeceği açıklanıyor. Ayrıca, Evrensel Temel Gelir kavramı da çözüm yollarından bir tanesi olarak ele alınıyor. 
-
-
-
-
-
+Kitapta konu bağlam, tehdit ve çözüm olarak üç kısımda ele alınıyor. Teknoloji ile birlikte gelen makineleşmenin değiştirdiği meslekler ve gelecekte iş gücünün hangi yönde hareket edeceği açıklanıyor. Ayrıca, Evrensel Temel Gelir kavramı da çözüm yollarından bir tanesi olarak ele alınıyor.

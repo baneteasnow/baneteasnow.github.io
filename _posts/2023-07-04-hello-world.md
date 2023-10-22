@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Hannah Fry tarafından yazılan Hello World, algoritmaların güc�
 last_modified_at: 2023-07-04
 published: true
 posted: 2023-07-04
-tag: "teknoloji" 
+tag: "teknoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -31,5 +32,3 @@ Kitap, algoritmaların günlük hayatımızda nasıl kullanıldığına dair ilg
 Kitap aynı zamanda algoritmaların potansiyel tehlikelerine de dikkat çekiyor. Örneğin, veri manipülasyonu ve algoritmalardaki önyargılar, insan haklarına ve adaletin sağlanmasına zarar verebilir. Fry, bu sorunlara karşı nasıl önlemler alınabileceğini ve etik bir algoritma kullanımının nasıl sağlanabileceğini tartışır.
 
 Fry, algoritmaların hayatımızdaki yerini anlamamıza yardımcı olurken, gelecekteki gelişmeler ve etkileri hakkında da önemli ipuçları sunuyor. Kitap, teknolojinin toplum üzerindeki etkilerini anlamak isteyen herkes için değerli bir kaynak niteliği taşıyor.
-
-

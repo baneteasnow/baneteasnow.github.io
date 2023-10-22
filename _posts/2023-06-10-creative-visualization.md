@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Shakti Gawain'in Yaratıcı İmgeleme kitabı, pozitif düşünce 
 last_modified_at: 2023-06-10
 published: true
 posted: 2023-06-10
-tag: "motivasyon" 
+tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "yes"
@@ -31,6 +32,3 @@ Gawain, okuyuculara kendi içsel güçlerini fark etme ve kullanma yöntemlerini
 "Yaratıcı İmgeleme", olumlu düşüncenin ve olumlu bir zihinsel tutumun önemini vurguluyor. Gawain, negatif düşüncelerle başa çıkmayı öğrenme ve zihinsel süzgeçlerimizi pozitif ve yapıcı düşüncelere yönlendirme konusunda stratejiler sunuyor. Kitap, düşüncelerimizin yaratıcı gücünü anlamamıza yardımcı olarak, dış dünyamızı şekillendiren iç dünyamızı nasıl yönetebileceğimizi gösteriyor.
 
 Gawain, zihinsel imgeleme sürecini açıklayarak, hayallerimizi gerçekleştirmek, içsel gücümüzü harekete geçirmek ve yaşamımızı daha tatmin edici bir şekilde yaşamak için bu güçlü aracı kullanmanın yollarını gösteriyor.
-
-
-

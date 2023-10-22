@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Ellen J. Langer'ın yazdığı Mindfulness kitabı, farkındalık 
 last_modified_at: 2023-06-15
 published: true
 posted: 2023-06-15
-tag: "mindfulness" 
+tag: "mindfulness"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -31,4 +32,3 @@ Langer, farkındalık kavramını, otomatikleşmiş düşüncelerimizin ve davra
 "Mindfulness" kitabı, farkındalığın farklı alanlarda nasıl uygulanabileceğine dair örnekler veriyor. İlişkiler, sağlık, iş hayatı ve karar verme süreçleri gibi konulara odaklanırken, her bir alanda farkındalığın nasıl olumlu etkiler yarattığını açıklıyor. Langer, zihnimizi açık tutmanın ve önyargılardan kaçınmanın önemini vurgularken; aynı zamanda, zamanın nasıl algılandığına dair farkındalığın etkilerini ve seçimlerimizi daha bilinçli bir şekilde yapmanın faydalarını da ele alıyor.
 
 "Mindfulness" kitabı, okuyuculara pratik stratejiler sunuyor ve farkındalığı günlük yaşamlarına entegre etmelerine yardımcı oluyor. Langer, kitap boyunca çeşitli egzersizler ve meditasyon teknikleri paylaşarak, farkındalığı artırmak ve hayatlarımızı daha bilinçli bir şekilde yaşamak için araçlar sunuyor. Ayrıca, kitapta yer alan ilham verici hikayeler ve gerçek hayattan örnekler, farkındalığın gerçek hayatta nasıl uygulandığını gösteriyor.
-

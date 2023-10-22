@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Intimate Communion | David Deida (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/32884.Intimate_Communion"
 description: "Yakın İlişki isimli kitap, cinsellik, ruhsal bağlantı ve kişisel gelişimle ilgili temaları ele almaktadır ve bu kitap özel ilişkilerde, cinsellikte ve ruhsal bağlantıda dinamikleri incelemektedir, ilişkilerde daha derin bağlantılar kurmanın ve aşkta ruhsal boyutları bulmanın yolunu göstermektedir."
 last_modified_at: 2023-08-18
-published: false
+published: true
 posted: 2023-08-18
 tag: "lifestyle"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "371"
 publisher: "Aya Kitap"
 image: "/assets/new/intimate-communion.jpg"
 ---
+
+to be updated...

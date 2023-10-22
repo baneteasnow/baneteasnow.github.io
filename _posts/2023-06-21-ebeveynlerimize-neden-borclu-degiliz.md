@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openaı
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Ebeveynlerimize Neden Borçlu Değiliz? kitabı, yetişkinlerin eb
 last_modified_at: 2023-06-21
 published: true
 posted: 2023-06-21
-tag: "felsefe" 
+tag: "felsefe"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -28,4 +29,4 @@ Barbara Bleisch tarafından kaleme alınan "Ebeveynlerimize Neden Borçlu Değil
 
 Kitap, ebeveyn-çocuk ilişkisindeki karmaşık dinamikleri derinlemesine inceler. Yazar, yetişkinlerin ebeveynlerinin beklentileri ve değerleriyle nasıl başa çıkabileceklerini ve kendi kimliklerini nasıl şekillendirebileceklerini tartışır. Aynı zamanda ebeveynlerin yetiştirme tarzlarının çocuklar üzerindeki etkilerini de ele alır. Bu şekilde, okuyucular ebeveynlerinin etkisinden ayrışma sürecinde kendilerini daha iyi anlayabilir ve kendi bağımsızlık yolculuklarında rehberlik edecek araçlar bulabilirler.
 
-Kitap aynı zamanda ilişkilerimizde özgürlüğü ve bağımsızlığı nasıl dengeleyebileceğimiz konusunda da derin bir düşünce sunar. Yazar, yetişkinlerin kendi hayatlarını kurarken ebeveynlerinin etkisinden nasıl ayrışabileceklerini ve kendi değerlerine uygun bir şekilde yaşayabileceklerini vurgular. 
+Kitap aynı zamanda ilişkilerimizde özgürlüğü ve bağımsızlığı nasıl dengeleyebileceğimiz konusunda da derin bir düşünce sunar. Yazar, yetişkinlerin kendi hayatlarını kurarken ebeveynlerinin etkisinden nasıl ayrışabileceklerini ve kendi değerlerine uygun bir şekilde yaşayabileceklerini vurgular.

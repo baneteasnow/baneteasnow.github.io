@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Invisible Women | Caroline Criado Perez (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "440"
 goodreads: "https://www.goodreads.com/book/show/41104077-invisible-women"
 description: "Caroline Criado Perez'ın Görünmez Kadınlar adlı kitabı, cinsiyetle ilgili eksik veriler nedeniyle dünyanın tasarımının, politikalarının ve kararlarının temelde kadınlara karşı önyargılı olduğunu ortaya koyuyor."
 last_modified_at: 2023-08-03
-published: false
+published: true
 posted: 2023-08-03
 tag: "sosyoloji"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "367"
 publisher: "Epsilon"
 image: "/assets/new/invisible-women.jpg"
 ---
+
+to be updated...

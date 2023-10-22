@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Peter Hollins'in The Science of Accelerated Learning kitabı, bili
 last_modified_at: 2023-06-18
 published: true
 posted: 2023-06-18
-tag: "öğrenmeyi öğrenmek" 
+tag: "öğrenmeyi öğrenmek"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -28,6 +29,4 @@ Peter Hollins'in "The Science of Accelerated Learning" kitabı, hızlandırılm�
 
 Kitapta, hızlı ve etkili öğrenme için kullanılabilecek stratejiler ve yöntemler ayrıntılı olarak ele alınıyor. Bunlar arasında aktif dinleme, tekrar etme, kavram haritaları oluşturma, hızlı okuma teknikleri ve bilginin gerçek dünyada nasıl uygulanabileceği gibi konular yer alıyor. Ayrıca, zihinsel esneklik, problem çözme becerileri, hafıza geliştirme ve öğrenmeyi sürdürmek için motivasyonu sürdürme gibi kilit alanlara da odaklanılıyor.
 
-Hızlı Öğrenme Bilimi, okuyuculara hızlı ve etkili bir şekilde öğrenme becerilerini geliştirmek için bilimsel temellere dayanan stratejiler sunuyor. 
-
-
+Hızlı Öğrenme Bilimi, okuyuculara hızlı ve etkili bir şekilde öğrenme becerilerini geliştirmek için bilimsel temellere dayanan stratejiler sunuyor.

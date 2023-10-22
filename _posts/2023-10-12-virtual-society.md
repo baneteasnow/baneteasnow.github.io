@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Virtual Society | Herman Narula (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "232"
 goodreads: "https://www.goodreads.com/book/show/60149538-virtual-society"
 description: ""
 last_modified_at: 2023-10-12
-published: false
+published: true
 posted: 2023-10-12
 tag: "teknoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Orenda"
 image: "/assets/new/virtual-society.jpg"
 ---
 
-2023-10-12-virtual-society
+to be updated...

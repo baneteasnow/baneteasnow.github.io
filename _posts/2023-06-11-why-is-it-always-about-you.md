@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Sandy Hotchkiss'in Why Is It Always About You? adlı kitabı, nars
 last_modified_at: 2023-06-11
 published: true
 posted: 2023-06-11
-tag: "psikoloji" 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -33,4 +34,3 @@ Ayrıca, yazar, kitapta narsistik davranışların temelinde yatan düşünce ka
 "Narsisistik Bir Dünyada Hayatta Kalma Rehberi" aynı zamanda narsistik kişilik bozukluğuna sahip olanların çevresindeki insanlar için de bilgilendirmeler yapıyor Kitap, narsistik kişilerle sağlıklı sınırlar belirlemenin önemini vurgularken kendini koruma stratejileri de paylaşıyor.
 
 Sonuç olarak, "Narsisistik Bir Dünyada Hayatta Kalma Rehberi" narsistik kişilik bozukluğunu anlamak ve narsistik davranışlarla başa çıkmak isteyenlere odaklanıyor. Hotchkiss'in kitabı, narsistik kişilik özelliklerini tanımamıza, etkilerini anlamamıza ve sağlıklı ilişkiler kurmamıza yardımcı oluyor.
-

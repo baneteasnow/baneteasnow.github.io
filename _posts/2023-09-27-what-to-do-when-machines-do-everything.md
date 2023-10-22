@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "What To Do When Machines Do Everything | Malcolm Frank, Paul Roehrig, Ben Pring (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "271"
 goodreads: "https://www.goodreads.com/book/show/34026641-what-to-do-when-machines-do-everything"
 description: "Malcolm Frank, Paul Roehrig ve Ben Pring tarafından yazılan Makineler Her Şeyi Yaptığında Biz Ne Yapacağız adlı kitap, otomasyon, yapay zeka ve robotik teknolojilerin iş gücü üzerindeki bozucu etkilerini ele alır ve çalışma dünyasının değişen yapısına uyum sağlama konusuna odaklanır."
 last_modified_at: 2023-09-27
-published: false
+published: true
 posted: 2023-09-27
 tag: "teknoloji"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "382"
 publisher: "Aganta Kitap"
 image: "/assets/new/what-to-do-when-machines-do-everything.jpg"
 ---
+
+to be updated...

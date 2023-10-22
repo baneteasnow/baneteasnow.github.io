@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -33,8 +34,3 @@ It Didn't Start With You, kişisel hikayeler ve klinik çalışmalar aracılığ
 Kitap, aile geçmişi ve atalarımızın deneyimlerinin nasıl şu anda yaşadığımız sorunları etkileyebileceğine odaklanıyor. Wolynn, genetik miras ve nesilden nesile geçen travmaların etkilerini inceliyor. Ayrıca, bu travmaların bilinçsizce aktarıldığını ve çocukluk dönemimizdeki deneyimlerimizle nasıl etkileşime girdiğini açıklıyor.
 
 It Didn't Start With You kitabı, bireylerin kendilerini ve ilişkilerini daha sağlıklı bir şekilde sürdürebilmeleri için geçmişten gelen izlerin farkında olmayı teşvik ediyor. Wolynn'ın deneyimlerinden ve araştırmalarından yola çıkarak yazılan bu kitap, miras alınan travmaların nasıl üstesinden gelinebileceği konusunda da derin bir iç görü sunuyor.
-
-
-
-
-

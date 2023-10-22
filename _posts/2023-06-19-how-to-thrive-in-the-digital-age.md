@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Tom Chatfield'in How to Thrive in the Digital Age kitabı, dijital
 last_modified_at: 2023-06-19
 published: true
 posted: 2023-06-19
-tag: "felsefe" 
+tag: "felsefe"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -32,8 +33,4 @@ Kitabın temel temasından biri, dijital teknolojilerle bilinçli bir şekilde e
 
 Ayrıca, Chatfield kitapta dijital iyilik hali kavramını ve teknolojinin zihinsel sağlık üzerindeki etkisini ele alır. Dijital baskınlıkla başa çıkma, bilgi aşırı yükünü yönetme ve teknolojiyle sağlıklı ilişkiler kurma konularında içgörüler sunar. Kitap ayrıca dijital empati ve bilinçli iletişimin önemini vurgulayarak dijital etkileşimlerin belirlediği bir dönemde dijital dünyada insanların birbirleriyle empati kurma ve bilinçli iletişim kurma becerilerini geliştirmelerine yardımcı olur.
 
-Etkileyici anekdotlar, araştırma bulguları ve düşündürücü iç görüler aracılığıyla "How to Thrive in the Digital Age", okuyuculara dijital dünyanın karmaşıklıklarını kendine güvenle ve bilgelikle yönetmek için kapsamlı bir yol haritası sunar. 
-
-
-
-
+Etkileyici anekdotlar, araştırma bulguları ve düşündürücü iç görüler aracılığıyla "How to Thrive in the Digital Age", okuyuculara dijital dünyanın karmaşıklıklarını kendine güvenle ve bilgelikle yönetmek için kapsamlı bir yol haritası sunar.

@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "A Yogi's Guide to Chakra Meditation | Paul Grilley (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "78"
 goodreads: "https://www.goodreads.com/book/show/44350838-a-yogi-s-guide-to-chakra-meditation"
 description: "Paul Grilley tarafından yazılan Yogi'nin El Kitabı Çakra Meditasyonu, yoga ve meditasyon uygulamaları içinde çakra meditasyonunu keşfeden bir rehber kitaptır, çakra sisteminin anlaşılması, denge sağlanması ve meditasyon aracılığıyla iç huzura ulaşma konularında bilgi sunar."
 last_modified_at: 2023-08-29
-published: false
+published: true
 posted: 2023-08-29
 tag: "lifestyle"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "374"
 publisher: "Pingala"
 image: "/assets/new/a-yogis-guide-to-chakra-meditation.jpg"
 ---
+
+to be updated...

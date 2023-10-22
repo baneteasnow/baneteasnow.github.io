@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Psikanaliz ve Sonrasi | Engin Geçtan (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/12321534-psikanaliz-ve-sonras"
 description: ""
 last_modified_at: 2023-09-03
-published: false
+published: true
 posted: 2023-09-03
 tag: "psikoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Metis"
 image: "/assets/new/psikanaliz-ve-sonrasi.jpg"
 ---
 
-2023-09-03-psikanaliz-ve-sonrasi
+to be updated...

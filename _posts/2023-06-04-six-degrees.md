@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Mark Lynas'in 6 Derece kitabı, iklim değişikliğinin çeşitli 
 last_modified_at: 2023-06-04
 published: true
 posted: 2023-06-04
-tag: "çevre" 
+tag: "çevre"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -23,6 +24,7 @@ openai: "yes"
 num: "326"
 image: "/assets/new/six-degrees.jpg"
 ---
+
 Mark Lynas'in "6 Derece" kitabı, iklim değişikliğinin çeşitli sıcaklık artışı seviyelerinde dünyamızı nasıl etkileyeceğini inceleyen kapsamlı bir çalışma. Her bir bölümde, bir derece artıştan itibaren sıcaklık artışının etkileri ayrıntılı olarak ele alınıyor.
 
 1 derece artış seviyesinde, kitap iklim değişikliğinin erken etkilerine odaklanıyor. Deniz seviyelerinde yükselme, buzulların erimesi, daha sık ve şiddetli hava olayları, tarım veriminde azalma ve su kaynaklarındaki değişimler gibi konular işleniyor ve bu değişikliklerin insanlar ve ekosistemler üzerindeki etkileri açıklanıyor.

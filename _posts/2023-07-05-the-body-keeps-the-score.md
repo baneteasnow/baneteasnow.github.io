@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Beden Kayıt Tutar, travmanın beden üzerindeki etkisini inceliyo
 last_modified_at: 2023-07-05
 published: true
 posted: 2023-07-05
-tag: "psikoloji" 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "yes"
@@ -28,10 +29,4 @@ Beden Kayıt Tutar, travma sonrası stres bozukluğu (TSSB) ve travmanın insan 
 
 Kitap, yıllar süren araştırmalar, klinik deneyimler ve kişisel hikayelerden oluşan bir dizi zengin içerik sunuyor. Van Der Kolk, okuyuculara travma sonrası stres bozukluğunun karmaşıklığını ve derinliğini anlatarak, travmatik deneyimlerin nasıl beyinde, sinir sisteminde ve bedende izler bıraktığını vaka örnekleri üzerinden açıklıyor.
 
-Kitap, bedenin travmatik deneyimleri nasıl kaydettiğini ve nasıl tepkiler verdiğinine odaklanıyor. Aynı zamanda, bu etkilerle başa çıkmak ve iyileşmek için kullanılabilecek farklı tedavi yaklaşımlarını da ele alıyor. Ayrıca, yıllar içinde değişen ve gelişen tedavi seçeneklerini detaylandırıyor.  İlaç tedavisi ile paralel veya tek başına mindfulness, yoga, dans terapisi gibi alternatif yöntemlere de odaklanarak, bedeni iyileşmenin bir aracı olarak kullanma fikrine vurgu yapıyor.
-
-
-
-
-
-
+Kitap, bedenin travmatik deneyimleri nasıl kaydettiğini ve nasıl tepkiler verdiğinine odaklanıyor. Aynı zamanda, bu etkilerle başa çıkmak ve iyileşmek için kullanılabilecek farklı tedavi yaklaşımlarını da ele alıyor. Ayrıca, yıllar içinde değişen ve gelişen tedavi seçeneklerini detaylandırıyor. İlaç tedavisi ile paralel veya tek başına mindfulness, yoga, dans terapisi gibi alternatif yöntemlere de odaklanarak, bedeni iyileşmenin bir aracı olarak kullanma fikrine vurgu yapıyor.

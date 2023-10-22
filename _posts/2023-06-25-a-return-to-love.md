@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "A Return to Love by Marianne Williamson is a spiritual guide that 
 last_modified_at: 2023-06-25
 published: true
 posted: 2023-06-25
-tag: "motivasyon" 
+tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -31,5 +32,3 @@ Kitap, Williamson'ın özgün ve derinlemesine düşüncelerini sunmaktadır. Se
 "A Return to Love", bireyin kendi kendine şifa ve dönüşüm sürecinde nasıl adımlar atabileceğini ele alır. Kitap, ruhsal büyüme, özgürleşme ve kendini gerçekleştirme için sevginin ve bağışlamanın güçlü araçlar olduğunu anlatır. Okuyuculara, içsel huzur, anlam ve ilişkilerde daha derin bir bağlantı arayışında sevginin rehberliğine güvenmelerini önerir.
 
 "A Return to Love", Marianne Williamson'ın kendine özgü üslubuyla yazılmış, ruhsal bir kılavuz kitaptır. Sevginin ve bağışlamanın, kişisel ve toplumsal dönüşümün temel taşları olduğunu anlatırken, okuyuculara içsel bir yolculuk için ilham verir ve daha büyük bir sevgi bilinciyle hareket etmeyi teşvik eder.
-
-

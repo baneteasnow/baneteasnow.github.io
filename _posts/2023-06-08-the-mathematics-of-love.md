@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Hannah Fry, Aşkın Matematiği isimli kitabında matematiksel mod
 last_modified_at: 2023-06-08
 published: true
 posted: 2023-06-08
-tag: "psikoloji" 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -34,5 +35,4 @@ Ayrıca, Hannah Fry, aşkın istatistiksel eğilimlerini ve trendlerini keşfe �
 
 Aşkın Matematiği, aynı zamanda romantizmin yanıltıcı doğasına da ışık tutuyor. Aşkın öngörülemez ve duygusal bir yolculuk olduğunu kabul ederken, matematiksel modellerin ve istatistiklerin bize ilişkiler hakkında bazı önemli ipuçları verebileceğini savunuyor. Kitap, okuyucuları, aşkın sadece bir his değil aynı zamanda bir matematiksel denklemler dizisi olduğu düşüncesine yönlendiriyor.
 
-Aşkın Matematiği, aşkın matematiksel bir perspektiften ele alınarak anlaşılmasını hedefliyor. Hannah Fry, matematiği günlük yaşamımızın bir parçası haline getirerek, romantik ilişkilerin gizemini ve eşleşme sürecini anlamamıza yardımcı oluyor. 
-
+Aşkın Matematiği, aşkın matematiksel bir perspektiften ele alınarak anlaşılmasını hedefliyor. Hannah Fry, matematiği günlük yaşamımızın bir parçası haline getirerek, romantik ilişkilerin gizemini ve eşleşme sürecini anlamamıza yardımcı oluyor.

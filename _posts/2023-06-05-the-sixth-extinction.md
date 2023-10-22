@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Altıncı Yok Oluş, dünyamızdaki altıncı kitlesel yok oluş d
 last_modified_at: 2023-06-05
 published: true
 posted: 2023-06-05
-tag: "çevre" 
+tag: "çevre"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -37,4 +38,3 @@ Kitap, altıncı yok oluşun etkilerini somutlaştırmak için birçok örnek su
 Kolbert, aynı zamanda insanlığın bu krizle yüzleşme biçimini de inceliyor. Kitap, bilimsel araştırmalardan, çevre aktivistlerinden ve doğa koruma çabalarından ilham alan umut dolu örneklerle son buluyor. Kolbert, kitabın sonunda okuyucuları bu felaketi durdurmak için harekete geçmeye teşvik ederken bireylerin, toplumların ve dünya liderlerinin sorumluluklarını yerine getirmelerinin önemini vurguluyor.
 
 "Altıncı Yok Oluş", etkileyici bir şekilde yazılmış ve bilimsel kanıtlarla desteklenen kapsamlı bir çalışmadır. Elizabeth Kolbert, gezegenimizin geleceği için kritik bir tehdit olan türlerin yok oluşu konusunda bizi uyandıran, düşündüren ve harekete geçiren bir kitap sunuyor. Okuyuculara, insanlığın bu sorunun çözümüne yönelik adımlar atmasının önemini anlatıyor ve doğal dünyanın korunması için herkesin sorumluluk taşıdığı mesajını ileterek, gelecek nesillere yaşanabilir bir dünya bırakma çağrısında bulunuyor.
-

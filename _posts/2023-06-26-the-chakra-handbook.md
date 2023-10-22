@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Shalila Sharamon ve Bodo J. Baginski'nin Chakra El Kitabı, çakra
 last_modified_at: 2023-06-26
 published: true
 posted: 2023-06-26
-tag: "motivasyon" 
+tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -28,8 +29,6 @@ Chakra El Kitabı adlı kitap, çakra sistemi hakkında detaylı bilgi sunar ve 
 
 Kitap, okuyuculara çakra sistemini anlamaları ve dengelemeleri için farkındalık sağlar. Her bir çakranın enerji akışını artırmak ve sağlıklı bir şekilde çalışmasını desteklemek için egzersizler, meditasyonlar ve iyileştirme yöntemleri sunar. Ayrıca, çakraların renkler, taşlar, beslenme ve yaşam tarzıyla ilişkisini de ele alır.
 
-Chakra El Kitabı, okuyuculara çakraların enerjik bedenimizdeki önemini keşfetme ve bu enerji merkezlerini uyumlu bir şekilde dengeleme konusunda rehberlik eder. 
+Chakra El Kitabı, okuyuculara çakraların enerjik bedenimizdeki önemini keşfetme ve bu enerji merkezlerini uyumlu bir şekilde dengeleme konusunda rehberlik eder.
 
 Shalila Sharamon ve Bodo J. Baginski tarafından hazırlanan Chakra El Kitabı, çakra sistemi hakkında ayrıntılı bir anlayış sunarken, uygulamalar ve pratik bilgilerle okuyuculara çakralarının denge ve sağlığını güçlendirmek için somut adımlar atmalarına yardımcı olur.
-
-

@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "The Unthinkable | Amanda Ripley (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/2706211-the-unthinkable"
 description: ""
 last_modified_at: 2023-10-25
-published: false
+published: true
 posted: 2023-10-25
 tag: "psikoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Pegasus"
 image: "/assets/new/the-unthinkable.jpg"
 ---
 
-2023-10-25-the-unthinkable
+to be updated...

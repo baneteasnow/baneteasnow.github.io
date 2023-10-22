@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Her İnsan Gördüğü Rüyanın Tabiridir | Sigmund Freud (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "72"
 goodreads: "https://www.goodreads.com/book/show/53313803-sigmund-freud"
 description: ""
 last_modified_at: 2023-09-23
-published: false
+published: true
 posted: 2023-09-23
 tag: "psikoloji"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Desek Yayinlari"
 image: "/assets/new/her-insan-gordugu-ruyanin-tabiridir.jpg"
 ---
 
-2023-09-23-her-insan-gordugu-ruyanin-tabiridir
+to be updated...

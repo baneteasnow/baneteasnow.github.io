@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Cehenneme Övgü | Gündüz Vassaf (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "279"
 goodreads: "https://www.goodreads.com/book/show/6902351-cehenneme-vg"
 description: ""
 last_modified_at: 2023-09-13
-published: false
+published: true
 posted: 2023-09-13
 tag: "felsefe"
 instagram: "no"
@@ -24,4 +25,4 @@ publisher: "Iletisim"
 image: "/assets/new/cehenneme-ovgu.jpg"
 ---
 
-2023-09-13-cehenneme-ovgu
+to be updated...

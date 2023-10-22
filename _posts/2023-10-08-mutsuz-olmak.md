@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Mutsuz Olmak | Wilhelm Schmid (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "92"
 goodreads: "https://www.goodreads.com/book/show/20798324-mutsuz-olmak"
 description: "Mutsuz Olmak adlı kitap mutsuzluğu felsefi bir bakış açısıyla ele alarak, mutsuzluğun hayatın doğal bir parçası olduğunu ve onu anlayarak daha anlamlı bir varoluşa ulaşmanın yollarını tartışır."
 last_modified_at: 2023-10-08
-published: false
+published: true
 posted: 2023-10-08
 tag: "felsefe"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "384"
 publisher: "Iletisim Yayinlari"
 image: "/assets/new/mutsuz-olmak.jpg"
 ---
+
+to be updated...

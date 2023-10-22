@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "The One Thing | Gary Keller, Jay Papasan (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/16256798-the-one-thing"
 description: "Gary Keller ve Jay Papasan'ın Bir Tek Şey adlı kitabı, o anda en önemli göreve odaklanarak olağanüstü sonuçlar elde etmeyi anlatıyor."
 last_modified_at: 2023-08-05
-published: false
+published: true
 posted: 2023-08-05
 tag: "üretkenlik ve teknoloji"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "368"
 publisher: "Altin Kitaplar"
 image: "/assets/new/the-one-thing.jpg"
 ---
+
+to be updated...

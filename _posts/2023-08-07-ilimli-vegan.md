@@ -1,4 +1,5 @@
 ---
+# to be updated
 layout: post
 category: book
 title: "Ilımlı Vegan | Oben Budak (Kitap)"
@@ -10,7 +11,7 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/178952426-il-ml-vegan"
 description: "Oben Budak, Ilımlı Vegan isimli kitabında nasıl vegan olduğunu anlatıyor, ayrıca vegan olmanın kendisi icin anlamını açıklıyor."
 last_modified_at: 2023-08-07
-published: false
+published: true
 posted: 2023-08-07
 tag: "veganlık"
 instagram: "no"
@@ -23,3 +24,5 @@ num: "369"
 publisher: "Muptela"
 image: "/assets/new/ilimli-vegan.jpg"
 ---
+
+to be updated...

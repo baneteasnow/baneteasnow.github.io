@@ -1,4 +1,5 @@
 ---
+# to be updated
 # open ai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Bırak Dağınık Kalsın, gündelik hayata dair 115 gerçeğe de�
 last_modified_at: 2023-07-19
 published: true
 posted: 2023-07-19
-tag: "sosyal bilimler" 
+tag: "sosyal bilimler"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -24,7 +25,7 @@ num: "358"
 image: "/assets/new/never-make-your-bed.jpg"
 ---
 
-Bırak Dağınık Kalsın, gündelik hayata dair 115 gerçeğe değiniyor. Bir popüler kültür kitabı niteliğinde olan bu kitap ilginç gerçekler, anekdotlar ve günlük yaşamla ilgili ilginç olaylara yer veriyor. 
+Bırak Dağınık Kalsın, gündelik hayata dair 115 gerçeğe değiniyor. Bir popüler kültür kitabı niteliğinde olan bu kitap ilginç gerçekler, anekdotlar ve günlük yaşamla ilgili ilginç olaylara yer veriyor.
 
 115 maddenin her birine kısaca değinilmiş ve alıntı yapılan makale ve kaynaklar da özellikle belirtilmiş. Kitapta yer alan başlıklardan bazıları şöyle:
 

@@ -1,5 +1,6 @@
 ---
-# open ai 
+# to be updated
+# open ai
 layout: post
 category: book
 title: "Wahn - Stories | Christof M. Kessle (Kitap)"
@@ -13,7 +14,7 @@ description: "Yüzü Olmayan Adam isimli kitapta nöroloji alanından hikayeler 
 last_modified_at: 2023-07-23
 published: true
 posted: 2023-07-23
-tag: "psikoloji" 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -25,6 +26,5 @@ image: "/assets/new/wahn-stories.jpg"
 ---
 
 Yüzü Olmayan Adam, bir nörolog olan Kessler tarafından kurgu olarak kaleme alınan 12 farklı hasta hikayesinden oluşuyor.
-
 
 Kitap, beyin ve zihin arasındaki ilişkiyi anlamaya ve insan deneyimlerini derinlemesine incelemeye odaklanıyor. Bu hikayeler, farklı nörolojik durumlar, beyin hasarları ve benzeri konulara ışık tutarak zihinsel dünyamızın karmaşıklığını ve çeşitliliğini göstermeyi amaçlıyor.

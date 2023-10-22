@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "Duygusal Açlık kitabı, okuyuculara duygusal açlığın kökenl
 last_modified_at: 2023-06-14
 published: true
 posted: 2023-06-14
-tag: "psikoloji" 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "yes"
@@ -29,5 +30,3 @@ image: "/assets/new/constant-craving.jpg"
 Kitap, duygusal açlığın tetikleyicilerini ve bu açlığın nasıl giderilebileceğini ele alıyor. Doreen Virtue, duygusal açlığı besleyen duygusal durumları, düşünce kalıplarını ve alışkanlıkları fark etmemizi çeşitli örnekler vererek sağlıyor. Bunun yanı sıra, sağlıklı bir yaşam tarzı, duygusal denge ve kendi kendini sevgiyle besleme konularında stratejiler sunuyor.
 
 "Duygusal Açlık", duygusal açlığı aşma ve gerçek doyumun nasıl elde edileceği konularında rehberlik sağlıyor. Kitap, öz-sevgi, öz-farkındalık, kişisel gelişim ve sağlıklı ilişkilerin nasıl geliştirileceği konularında pratik adımlar ve egzersizler sunuyor. Ayrıca, meditasyon, nefes teknikleri ve vizyon tahtası kullanımı gibi araçları da paylaşıyor.
-
-
