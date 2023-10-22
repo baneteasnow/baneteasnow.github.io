@@ -1,4 +1,5 @@
 ---
+# to be updated
 # openai
 layout: post
 category: book
@@ -13,7 +14,7 @@ description: "TED Gibi Konuş, ünlü TED konuşmalarının ardındaki stratejil
 last_modified_at: 2023-06-01
 published: true
 posted: 2023-06-01
-tag: "motivasyon" 
+tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -24,7 +25,9 @@ num: "323"
 image: "/assets/new/talk-like-ted.jpg"
 ---
 
-TED (Teknoloji, Eğlence, Tasarım) konuşmaları, dünya genelinde milyonlarca insanı etkileyen ve ilham veren sunumların merkezini oluşturuyor. Carmine Gallo'nun yazdığı TED Gibi Konuş, etkili bir şekilde konuşma yapmanın sırlarını inceliyor. Kitap, iz bırakan TED konuşmalarının başarılı olmasının ardındaki faktörleri araştırıyor ve okuyuculara bir TED konuşması kadar etkili sunumlar yapabilmeleri için ipuçları sunuyor. 
+# to be updated
+
+TED (Teknoloji, Eğlence, Tasarım) konuşmaları, dünya genelinde milyonlarca insanı etkileyen ve ilham veren sunumların merkezini oluşturuyor. Carmine Gallo'nun yazdığı TED Gibi Konuş, etkili bir şekilde konuşma yapmanın sırlarını inceliyor. Kitap, iz bırakan TED konuşmalarının başarılı olmasının ardındaki faktörleri araştırıyor ve okuyuculara bir TED konuşması kadar etkili sunumlar yapabilmeleri için ipuçları sunuyor.
 
 Kitap, başarılı TED konuşmacılarının kendine özgü niteliklerini ve sunum tekniklerini ortaya koyuyor. Gallo, bir TED konuşması yapmak isteyen herkesin, izleyicileri etkilemek ve onları harekete geçirmek için bu teknikleri kullanabileceğini ileri sürüyor. Kitapta vurgulanan bazı anahtar noktalar şöyle:
 
@@ -39,9 +42,3 @@ Kitap, başarılı TED konuşmacılarının kendine özgü niteliklerini ve sunu
 9. Hazırlık Yapın: Etkileyici bir TED konuşması hazırlamak, çokça pratik ve hazırlık gerektirir. Kitap, konuşma becerilerini geliştirmek için pratik yapmanın, konunuzu iyi araştırmanın ve hazırlığınızı titizlikle yapmanın önemini vurgular. Hazır olmak, konuşmanızı özgüvenle sunmanıza yardımcı olur ve beklenmedik durumlara karşı esneklik kazandırır.
 
 Carmine Gallo, kitabı için yapmış olduğu kapsamlı araştırmalarında ulaştığı pek çok örneği TED Gibi Konuş'ta paylaşıyor. Kitapta yer alan pratik bilgiler, sadece sunumlar yapacaklar için değil, aynı zamanda eğitimciler, girişimciler, liderler ya da iletişim becerilerini geliştirmek isteyen herkes için uygulanabilir nitelikte.
-
-
-
-
-
-
