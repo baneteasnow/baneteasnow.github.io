@@ -3,7 +3,7 @@
 # open ai
 layout: post
 category: book
-title: "Wahn - Stories | Christof M. Kessle (Kitap)"
+title: "Wahn - Stories | Christof M. Kessler (Kitap)"
 kitap: "Wahn - Stories"
 tr: "Yüzü Olmayan Adam: Bir Nörologdan Hikayeler"
 yazar: "Christof M. Kessler"
