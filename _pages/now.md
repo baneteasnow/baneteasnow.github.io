@@ -22,7 +22,7 @@ author2: "The School of Life"
 sayfa2: 190
 pageread2: 11
 # 3
-read: 76
+read: 75
 # ---
 # 
 # ⁜ {{ page.read | plus: 1 }}
