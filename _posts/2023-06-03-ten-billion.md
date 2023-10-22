@@ -25,6 +25,8 @@ num: "325"
 image: "/assets/new/ten-billion.jpg"
 ---
 
+to be updated...
+
 Stephen Emmott'un "10 Milyar" kitabı, dünya nüfusunun hızla artışının, gezegen üzerindeki çevresel sorunlar ve sürdürülebilirlik açısından ne denli büyük bir etkiye sahip olduğunu ele alıyor. Emmott, dünya nüfusunun önümüzdeki yıllarda 10 milyara ulaşacağını ve bu durumun doğal kaynakları, gıda güvenliğini, iklim değişikliğini ve ekosistemleri nasıl tehdit ettiğini detaylı bir şekilde inceliyor.
 
 Kitap, ilk olarak iklim değişikliğinin etkilerine odaklanıyor. Emmott, artan sera gazı emisyonları, küresel ısınma, buzulların erimesi, deniz seviyesinin yükselmesi ve ekstrem hava olaylarının artması gibi iklim değişikliğiyle ilişkili konuları ele alarak, gezegenimizin karşı karşıya olduğu tehlikeleri ortaya koyuyor.

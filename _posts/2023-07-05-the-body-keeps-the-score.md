@@ -25,6 +25,8 @@ num: "355"
 image: "/assets/new/the-body-keeps-the-score.jpg"
 ---
 
+to be updated...
+
 Beden Kayıt Tutar, travma sonrası stres bozukluğu (TSSB) ve travmanın insan bedeni üzerindeki etkilerini inceliyor.
 
 Kitap, yıllar süren araştırmalar, klinik deneyimler ve kişisel hikayelerden oluşan bir dizi zengin içerik sunuyor. Van Der Kolk, okuyuculara travma sonrası stres bozukluğunun karmaşıklığını ve derinliğini anlatarak, travmatik deneyimlerin nasıl beyinde, sinir sisteminde ve bedende izler bıraktığını vaka örnekleri üzerinden açıklıyor.

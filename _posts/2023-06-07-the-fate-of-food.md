@@ -25,6 +25,8 @@ num: "329"
 image: "/assets/new/the-fate-of-food.jpg"
 ---
 
+to be updated...
+
 Amanda Little tarafından yazılan "The Fate of Food: What We'll Eat in a Bigger, Hotter, Smarter World" isimli kitap, gelecekte yiyecek üretimi ve gıda sistemleri üzerindeki zorlukları ele alan bir araştırma kitabı.
 
 Kitap, iklim değişikliği, nüfus artışı, kaynak kıtlığı ve teknolojik gelişmeler gibi faktörlerin gıda güvenliği ve sürdürülebilirlik üzerindeki etkilerini inceliyor. Amanda Little, dünya genelindeki çeşitli bölgelerde ve teknoloji merkezlerinde yapılan araştırmaları ve röportajları temel alarak, gelecekteki gıda üretiminin nasıl şekilleneceğini ve insanların ne tür yiyecekler tüketeceğini analiz ediyor.

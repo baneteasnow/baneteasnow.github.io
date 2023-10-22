@@ -25,6 +25,8 @@ num: "333"
 image: "/assets/new/why-is-it-always-about-you.jpg"
 ---
 
+to be updated...
+
 Sandy Hotchkiss'in "Narsisistik Bir Dünyada Hayatta Kalma Rehberi" adlı kitabı, narsistik kişilik bozukluğu ve narsisizmin etkilerini anlamaya yönelik bir rehber niteliği taşıyor. Kitap, narsistik kişilik özellikleri taşıyan bireylerin nasıl hareket ettiğini, neden kendilerini sürekli olarak merkeze koyduklarını ve başkalarının duygusal ihtiyaçlarını nasıl ihmal ettiklerini açıklıyor.
 
 Hotchkiss, narsistik kişilik bozukluğunun kökenlerini incelerken, bu bozukluğun kişinin ilişkilerinde nasıl bir etkiye sahip olduğunu da analiz ediyor. Kitap, narsistik davranışların çeşitli formlarını tanımlıyor ve narsistik kişilerle başa çıkma stratejileri sunuyor.

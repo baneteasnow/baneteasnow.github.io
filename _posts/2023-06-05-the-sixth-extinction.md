@@ -25,6 +25,8 @@ num: "327"
 image: "/assets/new/the-sixth-extinction.jpg"
 ---
 
+to be updated...
+
 Elizabeth Kolbert'in "Altıncı Yok Oluş" isimli kitabı, dünyamızdaki altıncı kitlesel yok oluş dönemini detaylı bir şekilde ele alarak insan faaliyetlerinin bu süreçteki rolünü derinlemesine inceliyor. Kitap, gezegenimizin tarihinde yaşanan beş büyük yok oluş olayının ardından, günümüzde insan kaynaklı bir altıncı yok oluş döneminin gerçekleşmekte olduğunu savunuyor.
 
 Kolbert, kitabında bilimsel araştırmaları, röportajları ve kendi gözlemlerini bir araya getirerek okuyuculara bu korkutucu gerçeği sunuyor. Kitap boyunca, dünyanın farklı bölgelerine seyahat ediyor ve fosil kayıtları, jeolojik kanıtlar ve biyolojik verilerle desteklenen kanıtları paylaşıyor. İnsanların iklim değişikliği, habitat tahribi, kirlilik, aşırı avlanma ve yabancı türlerin invazyonu gibi etkileriyle doğal dünyayı nasıl tehdit ettiğini ayrıntılı bir şekilde açıklıyor.

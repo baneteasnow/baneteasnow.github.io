@@ -25,6 +25,8 @@ num: "364"
 image: "/assets/new/a-world-without-work.jpg"
 ---
 
+to be updated...
+
 "A World Without Work", gelecekte iş gücü dönüşümleri ve otomasyonun iş hayatına etkileri konusunda bir bakış sunuyor. Kitap, gelişen teknoloji ve yapay zeka ile birlikte işlerin nasıl değiştiğini ve hatta bazı işlerin tamamen ortadan kalkabileceğini anlatıyor.
 
 Susskind, kitapta otomasyonun iş dünyasına olan etkilerini incelerken, bu değişikliklerin toplumun nasıl şekillenebileceğini ve işsizlik, eşitsizlik, ekonomik yapılar ve sosyal normlar gibi konuları ele alır. Yazar, teknolojik ilerlemenin iş yapısını nasıl dönüştürebileceğini ve insanların işgücündeki yerini nasıl etkileyebileceğini tartışıyor.

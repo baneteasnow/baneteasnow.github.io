@@ -25,6 +25,8 @@ num: "332"
 image: "/assets/new/creative-visualization.jpg"
 ---
 
+to be updated...
+
 Shakti Gawain'in "Yaratıcı İmgeleme" kitabı, kişisel gelişim ve yaratıcı potansiyelimizi keşfetme konusunda rehberlik ediyor Kitap, içsel gücümüzü harekete geçirmek ve hayallerimizi gerçekleştirmek için zihinsel imgeleme ve vizyon kullanmanın önemini vurguluyor.
 
 Gawain, okuyuculara kendi içsel güçlerini fark etme ve kullanma yöntemlerini öğretiyor. Kitap boyunca, olumlu düşünce, vizyon panosu oluşturma, meditasyon ve vizyonlarımızı gerçekleştirme konularında pratik ipuçları ve teknikler sunuyor.

@@ -25,6 +25,8 @@ num: "330"
 image: "/assets/new/the-mathematics-of-love.jpg"
 ---
 
+to be updated...
+
 Hannah Fry, Aşkın Matematiği isimli kitabında, aşkın karmaşıklığını matematiksel modeller ve istatistiksel analizlerle anlamaya çalışırken, romantik ilişkilerin arkasındaki bazı ilginç gerçekleri de ortaya koyuyor.
 
 Hannah Fry, aşkı ve ilişkileri matematiksel bir perspektiften ele alıyor ve romantizmi sayılarla nasıl anlayabileceğimizi gösteriyor. İlk olarak, yazar, aşkın biyolojik ve psikolojik yönlerini araştırıyor. Hormonlar ve beyin kimyası gibi faktörlerin ilişkilerde nasıl bir rol oynadığını ve insanların neden belirli kişilere çekildiğini anlamak için istatistiksel verilere bakıyor.

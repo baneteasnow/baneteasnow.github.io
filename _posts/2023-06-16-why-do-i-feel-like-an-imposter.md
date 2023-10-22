@@ -25,6 +25,8 @@ num: "338"
 image: "/assets/new/why-do-i-feel-like-an-imposter.jpg"
 ---
 
+to be updated...
+
 "Why Do I Feel Like an Imposter?" kitabı, imposter sendromu olarak bilinen psikolojik bir durumu ele alıyor. Bu sendromu yaşayanlar haketmedikleri başarıları şans eseri elde ettiklerini düşünürler ve kendilerini adeta bir sahtekar gibi hissederler. Yazar Sandi Mann, insanların kendilerini başarısız, sahte veya yetersiz hissetme eğilimini anlamaya ve bu hislerle başa çıkmaya odaklanır. Kitap, bu durumun nedenlerini, yaygınlığını ve etkilerini inceler.
 
 Kitap, imposter sendromunun çeşitli alanlarda nasıl ortaya çıkabileceğini açıklar. İş yaşamı, akademik dünya, ilişkiler ve kişisel hedefler gibi alanlarda insanların kendilerini imposter gibi hissetme eğilimini araştırır. Yazar, bu durumu etkileyen faktörleri, toplumsal normları ve kişisel deneyimleri ele alırken, okuyucuya kendini tanıma ve farkındalık geliştirme konusunda rehberlik eder.

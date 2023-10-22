@@ -25,6 +25,8 @@ num: "334"
 image: "/assets/new/on-being-a-master-therapist.jpg"
 ---
 
+to be updated...
+
 "On Being a Master Therapist" kitabı, terapistlerin mesleki gelişimlerini desteklemeye ve terapi pratiğinde ustalaşma sürecine odaklanıyor.
 
 Kitap, deneyimli terapistlerin kendi hikayelerini ve öğrenme deneyimlerini paylaşarak, terapistlerin müşteri ilişkilerini güçlendirme ve terapi sürecindeki zorluklarla başa çıkma konularında rehberlik sunuyor. Yazarlar, terapistlerin kendi sınırlarını belirleme, etik sorunları ele alma ve müşterilerle daha etkili çalışma stratejileri geliştirme becerilerini geliştirmelerine yardımcı olacak pratik bilgiler sunuyorlar.

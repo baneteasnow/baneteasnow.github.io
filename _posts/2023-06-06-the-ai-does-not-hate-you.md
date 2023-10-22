@@ -25,6 +25,8 @@ num: "328"
 image: "/assets/new/the-ai-does-not-hate-you.jpg"
 ---
 
+to be updated...
+
 Eliezer Yudkowsky'in 2000'li yıllarda yazdığı "Sequences" olarak bilinen seri blog yazılarına bir gönderme ile başlayan Tom Chivers'ın "Yapay Zeka Senden Nefret Etmiyor" kitabı, yapay zekanın getirdiği riskler ve son 5-10 yılda gelişen alt kültür olan rasyonalist topluluk hakkında. (Bu alt kültürün açıklanması esnasında LessWrong ve Scott Alexander'ın Slate Star Codex'i ve benzerlerinden ayrıntılı şekilde söz ediliyor.) Kitap, insanlığın gelecek 100 yıl içinde yapay zeka tarafından tanınmaz hale getirilip getirilmeyeceği konusunda hemfikir olup olmadığını öğrenme çabalarını anlatıyor.
 
 Kısacası, insan düzeyinde yapay genel zeka (sıradan bir insandan her konuda en az kadar iyi olan bir makine) birkaç on yıl uzakta olabilir. Dahası, zeka seviyesinin bizim seviyemizde sona ermeyeceğine dair bir neden yoktur. Bir yapay zeka kendini yeniden programlayabilirse - insan programcıların yapay zekaları yeniden programlayabileceği gibi - daha da yetenekli hale gelebilir ve bizi geride bırakabilir.

@@ -25,6 +25,8 @@ num: "361"
 image: "/assets/new/latte-or-cappuccino.jpg"
 ---
 
+to be updated...
+
 Hilly Janes tarafından kaleme alınan Sütlü mü? Köpüklü mü? isimli kitap, hayatımızı etkileyebilecek 125 önemli kararı ele alır. Her bir karar, günlük hayatta sıklıkla karşılaşılan konulara odaklanarak daha bilinçli bir şekilde düşünme ve hareket etme konusunda ilham veriyor.
 
 Kitapta ele alınan konular arasında güne başlangıç, kahvaltı vakti, iş günü, enerji takviyeleri, yemek, gün sonu, hafta sonu ve çocuklar var.

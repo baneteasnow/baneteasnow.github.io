@@ -25,6 +25,8 @@ num: "358"
 image: "/assets/new/never-make-your-bed.jpg"
 ---
 
+to be updated...
+
 Bırak Dağınık Kalsın, gündelik hayata dair 115 gerçeğe değiniyor. Bir popüler kültür kitabı niteliğinde olan bu kitap ilginç gerçekler, anekdotlar ve günlük yaşamla ilgili ilginç olaylara yer veriyor.
 
 115 maddenin her birine kısaca değinilmiş ve alıntı yapılan makale ve kaynaklar da özellikle belirtilmiş. Kitapta yer alan başlıklardan bazıları şöyle:

@@ -25,6 +25,8 @@ num: "359"
 image: "/assets/new/stats-and-curiosities.jpg"
 ---
 
+to be updated...
+
 Kenyalılar Otobüs Şoförlerine Neden Bağırır?, günlük hayatımızda karşılaştığımız olayları ve fenomenleri istatistiksel verilerle açıklamayı amaçlıyor. İstatistiklerin nasıl kullanılabileceği, verilerin nasıl yorumlanabileceği ve gerçeklerin arkasındaki hikayelerin nasıl anlaşılabileceği gibi konuları ele alıyor.
 
 Andrew O'Connell, Harvard Business Review'de "Daily Stats" başlığıyla yayımlanan istatistik ve araştırmalardan en ilgi çekici olanları bu kitapta toplamış. Ele alınan konular arasında davranışsal iktisat, ekonomi, çalışma yaşamı ve sağlık gibi alanlar yer alıyor.

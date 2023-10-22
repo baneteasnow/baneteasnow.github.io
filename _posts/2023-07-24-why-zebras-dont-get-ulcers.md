@@ -25,6 +25,8 @@ num: "363"
 image: "/assets/new/why-zebras-dont-get-ulcers.jpg"
 ---
 
+to be updated...
+
 Zebralar Neden Ülser Olmaz?, stresin biyolojik, psikolojik ve sosyal boyutlarını incelerken, stresin nedenleri, etkileri ve uzun vadeli sağlık üzerindeki etkileri hakkında derin bir anlayış sunuyor.
 
 Kitap, stresin nasıl ortaya çıktığını, stres tepkisinin nasıl çalıştığını ve stresin fizyolojik etkilerini detaylı bir şekilde açıklıyor. Yazar, stresin bağışıklık sistemi, kalp-damar sağlığı, sindirim sistemi, uyku düzeni, beyin fonksiyonları ve zihinsel sağlık üzerindeki etkilerini ele alıyor. Ayrıca, kronik stresin yaşlanma, depresyon, anksiyete, obezite ve diğer sağlık sorunlarıyla ilişkisini araştırıyor.

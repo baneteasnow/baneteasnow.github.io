@@ -25,6 +25,8 @@ num: "357"
 image: "/assets/new/it-didnt-start-with-you.jpg"
 ---
 
+to be updated...
+
 It Didn't Start With You, geçmiş travmaların nasıl bugünkü hayatımızı etkileyebileceği üzerine odaklanıyor. Wolynn, bu etkilerin genellikle nesilden nesile geçtiğini ve bilinçli olmadığımız şekillerde davranışlarımızı, ilişkilerimizi ve sağlığımızı etkileyebileceğini öne sürüyor.
 
 Kitap, okuyucuları geçmiş travmaların izlerini keşfetmeye ve anlamaya teşvik ediyor. Wolynn, bu izleri bulmanın ve bunları çözmenin, daha sağlıklı ve bilinçli bir yaşam sürmek için önemli bir adım olduğunu vurgulayarak, geçmiş travmalara dayalı düşünce, hissetme ve davranış kalıplarını fark etmenin ve değiştirmenin önemine işaret ediyor.

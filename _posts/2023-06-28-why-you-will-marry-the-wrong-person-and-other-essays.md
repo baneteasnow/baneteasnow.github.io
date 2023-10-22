@@ -25,6 +25,8 @@ num: "350"
 image: "/assets/new/why-you-will-marry-the-wrong-person-and-other-essays.jpg"
 ---
 
+to be updated...
+
 Neden Yanlış Kişiyle Evleneceksiniz, modern ilişkiler ve aşkın çeşitli yönlerini keşfeder. Geleneksel romantizm anlayışını sorgulayarak uzun vadeli ortaklıkların karmaşıklıklarına iner. Psikolojik ve duygusal ilişki dinamiklerine dair iç görüler sunar, uyumluluk, iletişim ve öz farkındalık gibi yaygın konulara değinir. Denemeler, okuyucuları beklentilerini yeniden gözden geçirmeye ve daha gerçekçi ve merhametli bir yaklaşımı aşka benimsemeye teşvik eder.
 
 Kitap, ilişkilerde sık karşılaşılan zorlukları ele alırken, insanların kendi içsel dünyalarını anlamalarına ve ilişkilerinde daha sağlıklı bir şekilde iletişim kurmalarına yardımcı olur. Aşkın karmaşıklıklarını ve romantizmin gerçek hayatta karşılaşılan zorlukları nasıl etkilediğini anlatır.

@@ -25,6 +25,8 @@ num: "365"
 image: "/assets/new/the-trolley-problem-or-would-you-throw-the-fat-guy-off-the-bridge.jpg"
 ---
 
+to be updated...
+
 "Troleybüs Problemi ya da Şişman Adamı Üst Geçitten Aşağı Atar mısınız?" isimli kitap, felsefi bir düşünce deneyi olan "Troleybüs Problemi"ni ele alır.
 
 Troleybüs Problemi, ahlaki karar alma süreçlerini sorgulayan bir felsefi sorundur. Senaryo, raylarda kaçamayacak durumda bulunan birden fazla kişiye doğru ilerleyen kontrolden çıkmış bir troleybüsü içerir. Durumu fark eden bir kişi ise, troleybüsü başka bir ray üzerine yönlendirmek suretiyle daha az sayıda insanın zarar göreceği bir yola sapma veya hiçbir şey yapmadan troleybüsün seyrine devam etmesine izin verme gibi bir seçim yapmak zorundadır. Bu kişinin seçimi troleybüsün seyrini değiştirmek olduğu takdirde, bu kişi suç işlemiş sayılır mı?

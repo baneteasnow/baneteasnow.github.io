@@ -25,6 +25,8 @@ num: "345"
 image: "/assets/new/infinitely-full-of-hope.jpg"
 ---
 
+to be updated...
+
 Tom Whyman'ın ilk kitabı, yeni bir baba olarak "Kötü bir dünyaya yeni yaşam getirmek zalimlik midir?" sorusuyla umut felsefesini keşfeder. Kant, Adorno ve Kafka gibi önemli düşünürleri de konuya dahil ederken, Jeremy Corbyn, Boris Johnson ve Greta Thunberg gibi çağdaş figürlerle de kitaba modern bir dokunuş katar.
 
 Whyman, çağdaş bir insan olarak dünyanın giderek daha umutsuz bir hale geldiğini fark eder. Kendi kuşağına ekonomik felaketleri anlatırken, yeni bir yaşamı umutsuz bir dünyaya getirmenin "şaşırtıcı, hatta zalim" olabileceğini düşünür.

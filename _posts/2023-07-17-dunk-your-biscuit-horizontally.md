@@ -25,6 +25,8 @@ num: "356"
 image: "/assets/new/dunk-your-biscuit-horizontally.jpg"
 ---
 
+to be updated...
+
 Bisküviyi Çaya Yatay Bandırın, gündelik hayata dair 104 gerçeğe değiniyor. Bir popüler kültür kitabı niteliğinde olan bu kitap ilginç gerçekler, anekdotlar ve günlük yaşamla ilgili ilginç olaylara yer veriyor.
 
 104 maddenin her birine kısaca değinilmiş ve alıntı yapılan makale ve kaynaklar da özellikle belirtilmiş. Kitapta yer alan başlıklardan bazıları şöyle:

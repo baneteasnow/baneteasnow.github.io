@@ -25,6 +25,8 @@ num: "337"
 image: "/assets/new/mindfulness-25th-anniversary-edition.jpg"
 ---
 
+to be updated...
+
 Ellen J. Langer'ın "Mindfulness" adlı kitabı, farkındalık kavramını derinlemesine inceler. Langer, geleneksel fikirlerin ötesine geçerek, farkındalığı "anı bilinçli bir şekilde deneyimlemek" olarak tanımlıyor; bu tanımdan hareketle her anı tam olarak yaşamaya ve keşfetmeye teşvik ediyor. Kitap, bilinçli düşünmenin günlük hayatta nasıl uygulanabileceği konusunda ilham verici örnekler ve pratik stratejiler sunuyor.
 
 Langer, farkındalık kavramını, otomatikleşmiş düşüncelerimizin ve davranışlarımızın farkına varma becerisi olarak tanımlar. Kitapta, alışkanlık haline gelmiş düşünce kalıplarımızı sorgulamak ve yeniden değerlendirmek için yöntemler önerir. Langer'a göre, birçok insan zihinlerini rutinleşmiş düşüncelerle dolu tutar ve bu durum gerçek potansiyelimizi keşfetmemizi engeller. Kitap, bu düşünce kalıplarını kırarak ve farkındalığı her anımızda uygulayarak, daha yaratıcı, esnek ve anlamlı bir yaşam sürmemizi sağlamayı hedefler.
