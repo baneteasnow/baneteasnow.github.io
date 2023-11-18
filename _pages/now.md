@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-10-19
+last_modified_at: 2023-11-18
 published: true
 # 1
 # booktitle1: "Arguments"
