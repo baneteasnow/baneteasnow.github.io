@@ -16,11 +16,11 @@ published: true
 # sayfa1: 126
 # pageread1: 59
 # 2
-booktitle2: "Calm"
-bookyear2: 2023
-author2: "The School of Life"
-sayfa2: 190
-pageread2: 97
+booktitle2: "Blockbusters"
+bookyear2: 2013
+author2: "Anita Elberse"
+sayfa2: 321
+pageread2: 11
 # 3
 read: 75
 # ---
@@ -47,7 +47,7 @@ read: 75
 # <div style="clear: both"></div>
 # <br />
 ---
-⁜ {{ page.read | plus: 2 }}
+⁜ {{ page.read | plus: 3 }}
 
 {{ page.booktitle2 }} ({{ page.bookyear2 }})  
 _by_ {{ page.author2 }}
