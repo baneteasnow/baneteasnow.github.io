@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2023-11-18
 published: true
 # 1
-# booktitle1: "Arguments"
-# bookyear1: 2022
-# author1: "The School of Life"
-# sayfa1: 126
-# pageread1: 59
+booktitle1: "Know My Name - A Memoir"
+bookyear1: 2019
+author1: "Chanel Miller"
+sayfa1: 310
+pageread1: 35
 # 2
 booktitle2: "Blockbusters"
 bookyear2: 2013
@@ -23,30 +23,30 @@ sayfa2: 321
 pageread2: 11
 # 3
 read: 75
-# ---
-# 
-# ⁜ {{ page.read | plus: 1 }}
-# 
-# {{ page.booktitle1 }} ({{ page.bookyear1 }})  
-# _by_ {{ page.author1 }}
-
-# <div style="font-size: 50%; font-style: italic;">
-#   {{ page.sayfa1 }} sayfa
-#  </div>
-
-# <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-#   {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
-# </div>
-# 
-# <div>
-#   <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
-#   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-#     {{ page.pageread1 }}/{{ page.sayfa1 }}
-#   </span>
-# </div>
-# <div style="clear: both"></div>
-# <br />
 ---
+
+⁜ {{ page.read | plus: 4 }}
+
+{{ page.booktitle1 }} ({{ page.bookyear1 }})  
+_by_ {{ page.author1 }}
+
+<div style="font-size: 50%; font-style: italic;">
+   {{ page.sayfa1 }} sayfa
+ </div>
+
+ <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+   {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
+ </div>
+
+ <div>
+   <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
+   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
+     {{ page.pageread1 }}/{{ page.sayfa1 }}
+   </span>
+ </div>
+ <div style="clear: both"></div>
+ <br />
+
 ⁜ {{ page.read | plus: 3 }}
 
 {{ page.booktitle2 }} ({{ page.bookyear2 }})  
