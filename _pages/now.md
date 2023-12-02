@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-11-18
+last_modified_at: 2023-12-02
 published: true
 # 1
 booktitle1: "Know My Name - A Memoir"
 bookyear1: 2019
 author1: "Chanel Miller"
 sayfa1: 310
-pageread1: 53
+pageread1: 194
 # 2
 booktitle2: "Blockbusters"
 bookyear2: 2013
