@@ -14,7 +14,7 @@ booktitle1: "Know My Name - A Memoir"
 bookyear1: 2019
 author1: "Chanel Miller"
 sayfa1: 310
-pageread1: 226
+pageread1: 251
 # 2
 booktitle2: "Blockbusters"
 bookyear2: 2013
