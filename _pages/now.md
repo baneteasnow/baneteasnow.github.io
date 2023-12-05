@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2023-12-05
 published: true
 # 1
-booktitle1: "Know My Name - A Memoir"
-bookyear1: 2019
-author1: "Chanel Miller"
-sayfa1: 310
-pageread1: 310
+booktitle1: "Why I'm No Longer Talking To White People About Race"
+bookyear1: 2017
+author1: "Reni Eddo-Lodge"
+sayfa1: 273
+pageread1: 6
 # 2
 booktitle2: "Blockbusters"
 bookyear2: 2013
@@ -25,7 +25,7 @@ pageread2: 23
 read: 75
 ---
 
-⁜ {{ page.read | plus: 4 }}
+⁜ {{ page.read | plus: 5 }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
 _by_ {{ page.author1 }}
@@ -47,7 +47,7 @@ _by_ {{ page.author1 }}
  <div style="clear: both"></div>
  <br />
 
-⁜ {{ page.read | plus: 3 }}
+⁜ {{ page.read | plus: 4 }}
 
 {{ page.booktitle2 }} ({{ page.bookyear2 }})  
 _by_ {{ page.author2 }}
