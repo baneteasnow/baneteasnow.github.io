@@ -20,7 +20,7 @@ booktitle2: "Blockbusters"
 bookyear2: 2013
 author2: "Anita Elberse"
 sayfa2: 321
-pageread2: 11
+pageread2: 23
 # 3
 read: 75
 ---
