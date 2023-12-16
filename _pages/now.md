@@ -16,12 +16,36 @@ author1: "Reni Eddo-Lodge"
 sayfa1: 273
 pageread1: 6
 # 2
-booktitle2: "Blockbusters"
-bookyear2: 2013
-author2: "Anita Elberse"
-sayfa2: 286
-
-pageread2: 286
+# booktitle2: "Blockbusters"
+# bookyear2: 2013
+# author2: "Anita Elberse"
+# sayfa2: 286
+# pageread2: 286
+#
+#
+#
+# ⁜ {{ page.read | plus: 4 }}
+#
+# {{ page.booktitle2 }} ({{ page.bookyear2 }})
+# _by_ {{ page.author2 }}
+#
+# <div style="font-size: 50%; font-style: italic;">
+#   {{ page.sayfa2 }} sayfa
+#  </div>
+#
+# <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+#   {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+# </div>
+#
+# <div>
+#   <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+#   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+#     {{ page.pageread2 }}/{{ page.sayfa2 }}
+#   </span>
+# </div>
+# <div style="clear: both"></div>
+# <br />
+#
 # 3
 read: 75
 ---
@@ -48,26 +72,4 @@ _by_ {{ page.author1 }}
  <div style="clear: both"></div>
  <br />
 
-⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle2 }} ({{ page.bookyear2 }})  
-_by_ {{ page.author2 }}
-
-<div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa2 }} sayfa
- </div>
-
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
-</div>
-
-<div>
-  <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
-  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023"> 
-    {{ page.pageread2 }}/{{ page.sayfa2 }}
-  </span>
-</div>
-<div style="clear: both"></div>
-<br />
-  
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
