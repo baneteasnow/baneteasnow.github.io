@@ -20,7 +20,7 @@ reread: "no"
 rating: "1"
 eng: ""
 openai: "no"
-num: "394"
+num: "395"
 publisher: "Garaj"
 image: "/assets/new/blockbusters.jpg"
 ---
