@@ -14,7 +14,7 @@ booktitle1: "Why I'm No Longer Talking To White People About Race"
 bookyear1: 2017
 author1: "Reni Eddo-Lodge"
 sayfa1: 273
-pageread1: 6
+pageread1: 94
 # 2
 # booktitle2: "Blockbusters"
 # bookyear2: 2013
