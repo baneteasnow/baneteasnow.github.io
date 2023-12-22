@@ -7,20 +7,20 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-12-05
+last_modified_at: 2023-12-22
 published: true
 # 1
-booktitle1: "Why I'm No Longer Talking To White People About Race"
-bookyear1: 2017
-author1: "Reni Eddo-Lodge"
-sayfa1: 273
-pageread1: 94
+booktitle1: "Self-Made Man"
+bookyear1: 2006
+author1: "Norah Vincent"
+sayfa1: 290
+pageread1: 12
 # 2
-# booktitle2: "Blockbusters"
-# bookyear2: 2013
-# author2: "Anita Elberse"
-# sayfa2: 286
-# pageread2: 286
+booktitle2: "The Woman In Me"
+bookyear2: 2023
+author2: "Britney Spears"
+sayfa2: 277
+pageread2: 1
 #
 #
 #
@@ -47,10 +47,10 @@ pageread1: 94
 # <br />
 #
 # 3
-read: 75
+read: 80
 ---
 
-⁜ {{ page.read | plus: 5 }}
+⁜ {{ page.read | plus: 1 }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
 _by_ {{ page.author1 }}
@@ -69,6 +69,29 @@ _by_ {{ page.author1 }}
      {{ page.pageread1 }}/{{ page.sayfa1 }}
    </span>
  </div>
+
+⁜ {{ page.read | plus: 2 }}
+
+{{ page.booktitle2 }} ({{ page.bookyear2 }})
+_by_ {{ page.author2 }}
+
+<div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa2 }} sayfa
+</div>
+
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+</div>
+
+  <div>
+    <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+    <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+      {{ page.pageread2 }}/{{ page.sayfa2 }}
+    </span>
+  </div>
+
+<br />
+
  <div style="clear: both"></div>
  <br />
 
