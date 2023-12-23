@@ -14,7 +14,7 @@ booktitle1: "Self-Made Man"
 bookyear1: 2006
 author1: "Norah Vincent"
 sayfa1: 290
-pageread1: 12
+pageread1: 17
 # 2
 # booktitle2: "The Woman In Me"
 # bookyear2: 2023
