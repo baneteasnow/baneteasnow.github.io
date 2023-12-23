@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-12-22
+last_modified_at: 2023-12-23
 published: true
 # 1
 booktitle1: "Self-Made Man"
@@ -16,11 +16,11 @@ author1: "Norah Vincent"
 sayfa1: 290
 pageread1: 12
 # 2
-booktitle2: "The Woman In Me"
-bookyear2: 2023
-author2: "Britney Spears"
-sayfa2: 277
-pageread2: 1
+# booktitle2: "The Woman In Me"
+# bookyear2: 2023
+# author2: "Britney Spears"
+# sayfa2: 277
+# pageread2: 1
 #
 #
 #
@@ -47,7 +47,7 @@ pageread2: 1
 # <br />
 #
 # 3
-read: 80
+read: 81
 ---
 
 ⁜ {{ page.read | plus: 1 }}
@@ -69,26 +69,6 @@ _by_ {{ page.author1 }}
      {{ page.pageread1 }}/{{ page.sayfa1 }}
    </span>
  </div>
-
-⁜ {{ page.read | plus: 2 }}
-
-{{ page.booktitle2 }} ({{ page.bookyear2 }})
-_by_ {{ page.author2 }}
-
-<div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa2 }} sayfa
-</div>
-
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
-  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
-</div>
-
-  <div>
-    <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
-    <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
-      {{ page.pageread2 }}/{{ page.sayfa2 }}
-    </span>
-  </div>
 
 <br />
 

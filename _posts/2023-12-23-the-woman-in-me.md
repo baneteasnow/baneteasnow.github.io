@@ -1,0 +1,28 @@
+---
+# to be updated
+layout: post
+category: book
+title: "The Woman In Me (Kitap)"
+kitap: "The Woman In Me"
+tr: "-"
+yazar: "Britney Spears"
+yil: "2023"
+sayfa: "277"
+goodreads: "https://www.goodreads.com/book/show/63133205-the-woman-in-me"
+description: ""
+last_modified_at: 2023-12-23
+published: true
+posted: 2023-12-23
+tag: "biyografi"
+instagram: "no"
+insta: "no"
+reread: "no"
+rating: "5"
+eng: ""
+openai: "no"
+num: "297"
+publisher: ""
+image: "/assets/new/the-woman-in-me.jpg"
+---
+
+to be updated
