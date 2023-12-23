@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Blockbusters (Kitap)"
+title: "Blockbusters | Anita Elberse (Kitap)"
 kitap: "Blockbusters - Hit-making, Risk-taking, and the Big Business of Entertainment"
 tr: "Blockbusters Hit Yapim Stratejileri ve Riskler - Eglencenin Buyuk Ekonomisi"
 yazar: "Anita Elberse"

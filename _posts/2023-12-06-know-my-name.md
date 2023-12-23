@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Know My Name (Kitap)"
+title: "Know My Name | Chanel Miller (Kitap)"
 kitap: "Know My Name - A Memoir"
 tr: "Benim Bir Adim Var"
 yazar: "Chanel Miller"

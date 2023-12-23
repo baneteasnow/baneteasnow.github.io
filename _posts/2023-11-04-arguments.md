@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Arguments (Kitap)"
+title: "Arguments | The School of Life (Kitap)"
 kitap: "Arguments"
 tr: "Tartismalar"
 yazar: "The School of Life"
@@ -26,4 +26,3 @@ image: "/assets/new/arguments.jpg"
 ---
 
 to be updated...
-

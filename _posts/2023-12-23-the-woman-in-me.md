@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "The Woman In Me (Kitap)"
+title: "The Woman In Me | Britney Spears (Kitap)"
 kitap: "The Woman In Me"
 tr: "-"
 yazar: "Britney Spears"

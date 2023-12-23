@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Why I’m No Longer Talking To White People About Race (Kitap)"
+title: "Why I’m No Longer Talking To White People About Race | Reni Eddo-Lodge (Kitap)"
 kitap: "Why I’m No Longer Talking To White People About Race"
 tr: "-"
 yazar: "Reni Eddo-Lodge"
