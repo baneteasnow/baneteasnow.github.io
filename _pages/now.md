@@ -16,7 +16,7 @@ author1: "Norah Vincent"
 sayfa1: 290
 pageread1: 290
 # 2
-booktitle2: "Aska Ovgu"
+booktitle2: "Aşka Övgü"
 bookyear2: 2023
 author2: "Alain Badiou, Nicolas Truong"
 sayfa2: 72
