@@ -14,7 +14,7 @@ booktitle1: "Self-Made Man"
 bookyear1: 2006
 author1: "Norah Vincent"
 sayfa1: 290
-pageread1: 191
+pageread1: 290
 # 2
 booktitle2: "Aska Ovgu"
 bookyear2: 2023
