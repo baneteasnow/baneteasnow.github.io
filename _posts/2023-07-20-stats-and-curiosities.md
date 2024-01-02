@@ -10,7 +10,7 @@ yazar: "Andrew O'Connell"
 yil: "2013"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/17290915-stats-and-curiosities"
-description: "Kenyalılar Otobüs Şoförlerine Neden Bağırır?, günlük hayatımızda karşılaştığımız olayları ve fenomenleri istatistiksel verilerle açıklamayı amaçlıyor.."
+description: "Kenyalılar Otobüs Şoförlerine Neden Bağırır?, günlük hayatımızda karşılaştığımız olayları istatistiksel verilerden yararlanarak yorumluyor."
 last_modified_at: 2023-07-20
 published: true
 posted: 2023-07-20
@@ -23,14 +23,12 @@ eng: "Stats and Curiosities explores everyday topics through the lens of statist
 openai: "yes"
 num: "359"
 image: "/assets/new/stats-and-curiosities.jpg"
-update: "tobeupdated"
+update: "done"
 ---
 
-to be updated...
+Kenyalılar Otobüs Şoförlerine Neden Bağırır, günlük hayatımızda karşılaştığımız olayları istatistiksel verilerle açıklıyor.
 
-Kenyalılar Otobüs Şoförlerine Neden Bağırır?, günlük hayatımızda karşılaştığımız olayları ve fenomenleri istatistiksel verilerle açıklamayı amaçlıyor. İstatistiklerin nasıl kullanılabileceği, verilerin nasıl yorumlanabileceği ve gerçeklerin arkasındaki hikayelerin nasıl anlaşılabileceği gibi konuları ele alıyor.
-
-Andrew O'Connell, Harvard Business Review'de "Daily Stats" başlığıyla yayımlanan istatistik ve araştırmalardan en ilgi çekici olanları bu kitapta toplamış. Ele alınan konular arasında davranışsal iktisat, ekonomi, çalışma yaşamı ve sağlık gibi alanlar yer alıyor.
+Harvard Business Review'de "Daily Stats" başlığıyla yayımlanan istatistik ve araştırmalardan en ilgi çekici olanları bu kitapta toplanmış. Ele alınan konular arasında davranışsal iktisat, ekonomi, çalışma yaşamı ve sağlık gibi alanlar yer alıyor.
 
 Kitaptan bir kaç başlık şöyle:
 
@@ -44,3 +42,5 @@ Kitaptan bir kaç başlık şöyle:
 - Evinden çalışanlar yaratıcı işlerde daha verimliler, tekdüze işlerde ise daha verimsiz
 - İyi eğitimli çalışanlar daha memnuniyetsiz
 - Pahalı nesneler ucuz mallarla aynı pakete konursa (tüketicinin gözünde) değer yitirir.
+
+Bu başlıklar kısa kısa işlenirken, aynı zamanda istatistiklerin nasıl kullanıldığına, verilerin nasıl yorumlandığına ve gerçeklerin arkasındaki hikayelerin nasıl anlaşılması gerektiğine dair bilgiler de paylaşılıyor.
