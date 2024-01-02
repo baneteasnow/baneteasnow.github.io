@@ -23,7 +23,7 @@ openai: "no"
 num: "399"
 publisher: "Fihrist Kitap"
 image: "/assets/new/aska-ovgu.jpg"
-update: "tobeupdated"
 ---
 
+update: "tobeupdated"
 to be updated...
