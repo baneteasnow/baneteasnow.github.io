@@ -13,11 +13,4 @@ to be updated: {% assign updated = posts_data | where: "update", "tobeupdated" |
 {% endif %}
 {% endfor %}
 <br />
-{% assign posts_info = site.posts %}
-done: {% assign updatedone = posts_info | where: "update", "done" | size %} {{ updatedone }}
-
-{% for post in site.posts %}
-{% if post.update == 'updatedone' %}
-{{ post.num }} <a href="{{ post.url }}">{{ post.title | downcase }}</a>
-{% endif %}
-{% endfor %}
+{% include update.html %}
