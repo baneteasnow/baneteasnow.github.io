@@ -13,4 +13,4 @@ to be updated: {% assign updated = posts_data | where: "update", "tobeupdated" |
 {% endif %}
 {% endfor %}
 <br />
-{% include update.html %}
+{% include update.md %}
