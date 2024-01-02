@@ -23,6 +23,7 @@ openai: "no"
 num: "389"
 publisher: "Eksik Parca"
 image: "/assets/new/yuzmek-yasamak-ve-olma-arzusu.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

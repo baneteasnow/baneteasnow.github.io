@@ -23,6 +23,7 @@ eng: "Dunk Your Biscuit Horizontally is an intriguing pop culture book written b
 openai: "yes"
 num: "356"
 image: "/assets/new/dunk-your-biscuit-horizontally.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

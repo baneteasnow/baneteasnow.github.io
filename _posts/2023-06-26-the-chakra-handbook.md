@@ -23,6 +23,7 @@ eng: "Shalila Sharamon and Bodo J. Baginski's The Chakra Handbook is a comprehen
 openai: "yes"
 num: "348"
 image: "/assets/new/the-chakra-handbook.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

@@ -23,6 +23,7 @@ openai: "no"
 num: "376"
 publisher: ""
 image: "/assets/new/esyalarin-petriyarkasi.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

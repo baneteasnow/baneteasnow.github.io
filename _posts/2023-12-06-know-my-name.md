@@ -23,6 +23,7 @@ openai: "no"
 num: "394"
 publisher: "Epsilon"
 image: "/assets/new/know-my-name.jpg"
+update: "tobeupdated"
 ---
 
 to be updated

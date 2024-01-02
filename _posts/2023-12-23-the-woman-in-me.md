@@ -23,6 +23,7 @@ openai: "no"
 num: "297"
 publisher: ""
 image: "/assets/new/the-woman-in-me.jpg"
+update: "tobeupdated"
 ---
 
-to be updated
+to be updated...

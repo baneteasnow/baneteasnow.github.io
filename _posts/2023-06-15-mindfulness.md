@@ -23,6 +23,7 @@ eng: "Mindfulness by Ellen J. Langer explores the transformative power of being 
 openai: "yes"
 num: "337"
 image: "/assets/new/mindfulness-25th-anniversary-edition.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

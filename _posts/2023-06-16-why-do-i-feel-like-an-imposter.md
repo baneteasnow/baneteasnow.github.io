@@ -23,6 +23,7 @@ eng: "Why Do I Feel Like an Imposter? by Sandi Mann explores the phenomenon of i
 openai: "yes"
 num: "338"
 image: "/assets/new/why-do-i-feel-like-an-imposter.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

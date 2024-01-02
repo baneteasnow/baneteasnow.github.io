@@ -23,6 +23,7 @@ eng: "Marianne Williamson tarafından yazılan A Return to Love, kişisel ve kol
 openai: "yes"
 num: "347"
 image: "/assets/new/a-return-to-love.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

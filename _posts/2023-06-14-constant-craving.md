@@ -23,6 +23,7 @@ eng: "Constant Craving by Doreen Virtue is a book that explores the nature of cr
 openai: "no"
 num: "336"
 image: "/assets/new/constant-craving.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

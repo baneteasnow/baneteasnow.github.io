@@ -23,6 +23,7 @@ openai: "no"
 num: "380"
 publisher: "Destek Yayinlari"
 image: "/assets/new/disa-bakan-ruya-gorur-ice-bakan-uyanir.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

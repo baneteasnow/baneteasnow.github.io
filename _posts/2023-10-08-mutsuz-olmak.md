@@ -23,6 +23,7 @@ openai: "no"
 num: "384"
 publisher: "Iletisim Yayinlari"
 image: "/assets/new/mutsuz-olmak.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

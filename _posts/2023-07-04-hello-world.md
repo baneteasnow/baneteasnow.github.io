@@ -23,6 +23,7 @@ eng: "Hello World by Hannah Fry explores the power and consequences of algorithm
 openai: "yes"
 num: "354"
 image: "/assets/new/hello-world.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

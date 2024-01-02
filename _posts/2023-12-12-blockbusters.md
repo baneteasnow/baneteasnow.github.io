@@ -23,6 +23,7 @@ openai: "no"
 num: "395"
 publisher: "Garaj"
 image: "/assets/new/blockbusters.jpg"
+update: "tobeupdated"
 ---
 
 to be updated

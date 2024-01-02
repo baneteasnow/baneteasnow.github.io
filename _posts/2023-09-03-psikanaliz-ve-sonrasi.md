@@ -23,6 +23,7 @@ openai: "no"
 num: "375"
 publisher: "Metis"
 image: "/assets/new/psikanaliz-ve-sonrasi.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

@@ -23,6 +23,7 @@ eng: "Never Make Your Bed covers 115 strange scientific facts."
 openai: "yes"
 num: "358"
 image: "/assets/new/never-make-your-bed.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

@@ -23,6 +23,7 @@ eng: "The School of Life tarafından yazılan Neden Yanlış Kişiyle Evleneceks
 openai: "yes"
 num: "350"
 image: "/assets/new/why-you-will-marry-the-wrong-person-and-other-essays.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

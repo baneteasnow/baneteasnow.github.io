@@ -23,6 +23,7 @@ eng: "Wahn: Stories, written by Christof M. Kessler, is a book that delves into 
 openai: "yes"
 num: "362"
 image: "/assets/new/wahn-stories.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

@@ -23,6 +23,7 @@ eng: "This book explores the complex emotions adults have towards their parents 
 openai: "no"
 num: "343"
 image: "/assets/new/ebeveynlerimize-neden-borclu-degiliz.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

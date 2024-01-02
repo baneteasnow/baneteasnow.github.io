@@ -23,6 +23,7 @@ openai: "no"
 num: "379"
 publisher: "Pegasus"
 image: "/assets/new/our-final-invention.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

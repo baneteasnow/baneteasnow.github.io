@@ -23,6 +23,7 @@ eng: "Beyond the Power of Your Subconscious Mind by C. James Jensen is a transfo
 openai: "no"
 num: "335"
 image: "/assets/new/beyond-the-power-of-your-subconscious-mind.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

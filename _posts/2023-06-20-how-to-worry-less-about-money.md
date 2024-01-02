@@ -23,6 +23,7 @@ eng: "How to Worry Less About Money by John Armstrong is a practical guide to re
 openai: "yes"
 num: "342"
 image: "/assets/new/how-to-worry-less-about-money.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

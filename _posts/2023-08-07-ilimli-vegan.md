@@ -23,6 +23,7 @@ openai: "no"
 num: "369"
 publisher: "Muptela"
 image: "/assets/new/ilimli-vegan.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

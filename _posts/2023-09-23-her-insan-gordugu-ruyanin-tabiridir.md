@@ -23,6 +23,7 @@ openai: "no"
 num: "381"
 publisher: "Desek Yayinlari"
 image: "/assets/new/her-insan-gordugu-ruyanin-tabiridir.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

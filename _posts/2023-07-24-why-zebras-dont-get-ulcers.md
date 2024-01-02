@@ -23,6 +23,7 @@ eng: "Why Zebras Don't Get Ulcers is a book that explores the intricate relation
 openai: "yes"
 num: "363"
 image: "/assets/new/why-zebras-dont-get-ulcers.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

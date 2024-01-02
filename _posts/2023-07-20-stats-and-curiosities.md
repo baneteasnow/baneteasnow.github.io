@@ -23,6 +23,7 @@ eng: "Stats and Curiosities explores everyday topics through the lens of statist
 openai: "yes"
 num: "359"
 image: "/assets/new/stats-and-curiosities.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

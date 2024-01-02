@@ -23,6 +23,7 @@ openai: "no"
 num: "383"
 publisher: "Yapi Kredi Yayinlari"
 image: "/assets/new/the-piggle.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

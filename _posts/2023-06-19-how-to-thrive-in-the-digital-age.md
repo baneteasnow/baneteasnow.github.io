@@ -23,6 +23,7 @@ eng: "How to Thrive in the Digital Age by Tom Chatfield is a comprehensive guide
 openai: "yes"
 num: "341"
 image: "/assets/new/how-to-thrive-in-the-digital-age.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

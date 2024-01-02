@@ -23,6 +23,7 @@ openai: "no"
 num: "382"
 publisher: "Aganta Kitap"
 image: "/assets/new/what-to-do-when-machines-do-everything.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

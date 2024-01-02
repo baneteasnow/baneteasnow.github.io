@@ -23,6 +23,7 @@ openai: "no"
 num: "298"
 publisher: "xxx"
 image: "/assets/new/self-made-man.jpg"
+update: "tobeupdated"
 ---
 
-to be updated
+to be updated...

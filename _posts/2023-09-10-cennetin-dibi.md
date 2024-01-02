@@ -23,6 +23,7 @@ openai: "no"
 num: "377"
 publisher: "Iletisim"
 image: "/assets/new/cennetin-dibi.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

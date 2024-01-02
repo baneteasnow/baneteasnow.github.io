@@ -23,6 +23,7 @@ openai: "no"
 num: "391"
 publisher: "Yapi Kredi Yayinlari"
 image: "/assets/new/afacan-bir-psikanalistan-dusunceleri.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

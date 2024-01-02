@@ -23,6 +23,7 @@ openai: "no"
 num: "385"
 publisher: "Orenda"
 image: "/assets/new/virtual-society.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

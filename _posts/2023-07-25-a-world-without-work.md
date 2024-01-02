@@ -23,6 +23,7 @@ eng: "A World Without Work explores the future transformations of the workforce 
 openai: "yes"
 num: "364"
 image: "/assets/new/a-world-without-work.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

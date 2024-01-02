@@ -23,6 +23,7 @@ eng: " The Body Keeps the Score by Bessel A. Van Der Kolk explores the impact of
 openai: "yes"
 num: "355"
 image: "/assets/new/the-body-keeps-the-score.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

@@ -23,6 +23,7 @@ eng: "This Book Is for You is a short comic book that covers the adventures of t
 openai: "yes"
 num: "360"
 image: "/assets/new/this-book-is-for-you.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

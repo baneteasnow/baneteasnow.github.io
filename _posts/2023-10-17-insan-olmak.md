@@ -23,6 +23,7 @@ openai: "no"
 num: "386"
 publisher: "Metis"
 image: "/assets/new/insan-olmak.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

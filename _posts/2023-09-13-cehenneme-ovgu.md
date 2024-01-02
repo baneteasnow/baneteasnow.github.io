@@ -23,6 +23,7 @@ openai: "no"
 num: "378"
 publisher: "Iletisim"
 image: "/assets/new/cehenneme-ovgu.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

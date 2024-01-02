@@ -23,6 +23,7 @@ openai: "no"
 num: "368"
 publisher: "Altin Kitaplar"
 image: "/assets/new/the-one-thing.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

@@ -23,6 +23,7 @@ eng: "Tom Whyman's first book, Infinitely Full of Hope, explores the philosophy 
 openai: "yes"
 num: "345"
 image: "/assets/new/infinitely-full-of-hope.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

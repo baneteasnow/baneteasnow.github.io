@@ -23,6 +23,7 @@ eng: "The Science of Accelerated Learning by Peter Hollins is a concise guide th
 openai: "yes"
 num: "340"
 image: "/assets/new/the-science-of-accelerated-learning.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

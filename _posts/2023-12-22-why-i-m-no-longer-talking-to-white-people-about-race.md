@@ -23,6 +23,7 @@ openai: "no"
 num: "396"
 publisher: ""
 image: "/assets/new/why-i-m-no-longer-talking-to-white-people-about-race.jpg"
+update: "tobeupdated"
 ---
 
 to be updated

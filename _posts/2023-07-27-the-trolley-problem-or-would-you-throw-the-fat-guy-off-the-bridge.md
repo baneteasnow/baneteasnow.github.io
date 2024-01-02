@@ -23,6 +23,7 @@ eng: "The Trolley Problem explores a philosophical dilemma that raises questions
 openai: "yes"
 num: "365"
 image: "/assets/new/the-trolley-problem-or-would-you-throw-the-fat-guy-off-the-bridge.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

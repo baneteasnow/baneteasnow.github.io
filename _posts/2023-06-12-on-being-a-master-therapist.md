@@ -23,6 +23,7 @@ eng: "On Being a Master Therapist is a book by Jeffrey A. Kottler and Jon Carlso
 openai: "yes"
 num: "334"
 image: "/assets/new/on-being-a-master-therapist.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

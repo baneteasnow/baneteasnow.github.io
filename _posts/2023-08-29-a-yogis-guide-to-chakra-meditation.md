@@ -23,6 +23,7 @@ openai: "no"
 num: "374"
 publisher: "Pingala"
 image: "/assets/new/a-yogis-guide-to-chakra-meditation.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

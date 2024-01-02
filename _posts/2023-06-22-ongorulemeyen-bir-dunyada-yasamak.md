@@ -23,6 +23,7 @@ eng: "This book explores how to navigate the uncertainties of modern life and fi
 openai: "yes"
 num: "344"
 image: "/assets/new/ongorulemeyen-bir-dunyada-yasamak.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

@@ -23,6 +23,7 @@ eng: "Christophe André'nin Mindfulness adlı kitabı, iç huzur ve zihinsel ref
 openai: "no"
 num: "349"
 image: "/assets/new/looking-at-mindfulness.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

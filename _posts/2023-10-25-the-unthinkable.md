@@ -23,6 +23,7 @@ openai: "no"
 num: "390"
 publisher: "Pegasus"
 image: "/assets/new/the-unthinkable.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

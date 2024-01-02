@@ -23,6 +23,7 @@ openai: "no"
 num: "370"
 publisher: "Beyaz Yayinlari"
 image: "/assets/new/the-talent-code.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

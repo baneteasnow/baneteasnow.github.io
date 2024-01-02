@@ -23,6 +23,7 @@ openai: "no"
 num: "371"
 publisher: "Aya Kitap"
 image: "/assets/new/intimate-communion.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

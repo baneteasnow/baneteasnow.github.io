@@ -23,6 +23,7 @@ openai: "no"
 num: "367"
 publisher: "Epsilon"
 image: "/assets/new/invisible-women.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

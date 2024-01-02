@@ -23,6 +23,7 @@ eng: "Latte or Cappuccino? - 125 Decisions That Will Change Your Life is a book 
 openai: "yes"
 num: "361"
 image: "/assets/new/latte-or-cappuccino.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

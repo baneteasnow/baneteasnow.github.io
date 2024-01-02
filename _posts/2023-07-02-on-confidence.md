@@ -23,6 +23,7 @@ eng: "On Confidence is a valuable resource written by The School of Life that pr
 openai: "yes"
 num: "352"
 image: "/assets/new/on-confidence.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

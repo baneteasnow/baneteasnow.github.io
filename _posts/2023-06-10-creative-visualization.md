@@ -23,6 +23,7 @@ eng: "Creative Visualization by Shakti Gawain explores the transformative power 
 openai: "yes"
 num: "332"
 image: "/assets/new/creative-visualization.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

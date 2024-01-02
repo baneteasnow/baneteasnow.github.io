@@ -23,6 +23,7 @@ eng: "It Didn't Start with You explores inherited family trauma, epigenetics, an
 openai: "yes"
 num: "357"
 image: "/assets/new/it-didnt-start-with-you.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

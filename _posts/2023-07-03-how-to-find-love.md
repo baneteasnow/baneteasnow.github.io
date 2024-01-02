@@ -23,6 +23,7 @@ eng: "How to Find Love is a thoughtful guide written by The School of Life, offe
 openai: "yes"
 num: "353"
 image: "/assets/new/how-to-find-love.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...
