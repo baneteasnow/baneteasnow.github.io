@@ -1,4 +1,3 @@
-done...  
 {% assign posts_info = site.posts %}
 done: {% assign updatedone = posts_info | where: "update", "done" | size %} {{ updatedone }}
 
