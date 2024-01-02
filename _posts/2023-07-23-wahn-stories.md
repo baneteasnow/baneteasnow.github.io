@@ -23,11 +23,9 @@ eng: "Wahn: Stories, written by Christof M. Kessler, is a book that delves into 
 openai: "yes"
 num: "362"
 image: "/assets/new/wahn-stories.jpg"
-update: "tobeupdated"
+update: "done"
 ---
 
-to be updated...
+Yüzü Olmayan Adam, bir nörolog olan Kessler tarafından kurgu olarak kaleme alınmış 12 farklı hasta hikayesinden oluşuyor.
 
-Yüzü Olmayan Adam, bir nörolog olan Kessler tarafından kurgu olarak kaleme alınan 12 farklı hasta hikayesinden oluşuyor.
-
-Kitap, beyin ve zihin arasındaki ilişkiyi anlamaya ve insan deneyimlerini derinlemesine incelemeye odaklanıyor. Bu hikayeler, farklı nörolojik durumlar, beyin hasarları ve benzeri konulara ışık tutarak zihinsel dünyamızın karmaşıklığını ve çeşitliliğini göstermeyi amaçlıyor.
+Kitapta yer alan hikayeler, beyin ve zihin arasındaki ilişkiyi anlamaya ve insan deneyimlerini derinlemesine incelemeye odaklanıyor. Bu hikayeler, farklı nörolojik durumlar, beyin hasarları ve benzeri konulara ışık tutarak zihinsel dünyamızın karmaşıklığını ve çeşitliliğini gösteriyor.
