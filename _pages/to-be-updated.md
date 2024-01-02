@@ -5,8 +5,9 @@ published: true
 ---
 
 {% assign posts_data = site.posts %}
-{% assign updated = posts_data | where: "update", "tobeupdated" | size %} {{ updated }}
-{% assign updateddone = posts_data | where: "update", "done" | size %} {{ updateddone }}
+to be updated: {% assign updated = posts_data | where: "update", "tobeupdated" | size %} {{ updated }}
+
+done: {% assign updateddone = posts_data | where: "update", "done" | size %} {{ updateddone }}
 
 {% for post in site.posts %}
 {% if post.update == 'tobeupdated' %}
