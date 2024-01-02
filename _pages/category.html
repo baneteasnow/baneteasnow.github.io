@@ -1,199 +1,179 @@
 ---
 layout: page-9
-title: 'kategoriler'
+title: "kategoriler"
 published: true
 ---
 
 <a name="vegan"></a>
-    <div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div> 
-{% for post in site.posts %}
-    {% if post.tag == 'veganlık' or
-          post.tag == 'hayvan hakları' or
-          post.tag == 'etik' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}  
-    <br />
+<div class="link1"><a href="#vegan">veganlık + hayvan hakları + etik</a></div>
+{% for post in site.posts %} {% if post.tag == 'veganlık' or post.tag == 'hayvan
+hakları' or post.tag == 'etik' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="health"></a>
-    <div class="link1"><a href="#health">sağlık + beslenme + tıp</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'sağlık' or
-          post.tag == 'beslenme' or
-          post.tag == 'tıp' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1"><a href="#health">sağlık + beslenme + tıp</a></div>
+{% for post in site.posts %} {% if post.tag == 'sağlık' or post.tag ==
+'beslenme' or post.tag == 'tıp' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="motivation"></a>
-    <div class="link1"><a href="#motivation">lifestyle + motivasyon + seyahat + yaratıcılık + mindfulness</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'lifestyle' or
-          post.tag == 'motivasyon' or 
-          post.tag == 'mindfulness' or
-          post.tag == 'seyahat' or
-          post.tag == 'yaratıcılık' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#motivation"
+		>lifestyle + motivasyon + seyahat + yaratıcılık + mindfulness</a
+	>
+</div>
+{% for post in site.posts %} {% if post.tag == 'lifestyle' or post.tag ==
+'motivasyon' or post.tag == 'mindfulness' or post.tag == 'seyahat' or post.tag
+== 'yaratıcılık' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="planning"></a>
-    <div class="link1"><a href="#planning">öğrenmeyi öğrenmek + üretkenlik ve teknoloji + yazmak ve yaratıcılık + zaman planlaması + kitap okumak ve kitaplar</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'öğrenmeyi öğrenmek' or 
-          post.tag == 'üretkenlik ve teknoloji' or
-          post.tag == 'yazmak ve yaratıcılık' or
-          post.tag == 'zaman planlaması' or
-          post.tag == 'kitap okumak ve kitaplar' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#planning"
+		>öğrenmeyi öğrenmek + üretkenlik ve teknoloji + yazmak ve yaratıcılık +
+		zaman planlaması + kitap okumak ve kitaplar</a
+	>
+</div>
+{% for post in site.posts %} {% if post.tag == 'öğrenmeyi öğrenmek' or post.tag
+== 'üretkenlik ve teknoloji' or post.tag == 'yazmak ve yaratıcılık' or post.tag
+== 'zaman planlaması' or post.tag == 'kitap okumak ve kitaplar' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="fashion"></a>
-    <div class="link1"><a href="#fashion">moda markaları + moda tasarım</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'moda markaları' or 
-          post.tag == 'moda tasarım' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1"><a href="#fashion">moda markaları + moda tasarım</a></div>
+{% for post in site.posts %} {% if post.tag == 'moda markaları' or post.tag ==
+'moda tasarım' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="architecture"></a>
-    <div class="link1"><a href="#architecture">mimarlık + mühendislik + endüstriyel tasarım + şehir planlama</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'mimarlık' or
-          post.tag == 'mühendislik' or 
-          post.tag == 'şehir planlama' or
-          post.tag == 'endüstriyel tasarım' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#architecture"
+		>mimarlık + mühendislik + endüstriyel tasarım + şehir planlama</a
+	>
+</div>
+{% for post in site.posts %} {% if post.tag == 'mimarlık' or post.tag ==
+'mühendislik' or post.tag == 'şehir planlama' or post.tag == 'endüstriyel
+tasarım' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="minimalism"></a>
-    <div class="link1"><a href="#minimalism">minimalizm + sıfır atık yaşam</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'sıfır atık yaşam' or
-          post.tag == 'minimalizm' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1"><a href="#minimalism">minimalizm + sıfır atık yaşam</a></div>
+{% for post in site.posts %} {% if post.tag == 'sıfır atık yaşam' or post.tag ==
+'minimalizm' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="marketing"></a>
-    <div class="link1"><a href="#marketing">pazarlama + reklam + tüketici davranışları</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'pazarlama' or
-          post.tag == 'reklam' or
-          post.tag == 'tüketici davranışları' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#marketing">pazarlama + reklam + tüketici davranışları</a>
+</div>
+{% for post in site.posts %} {% if post.tag == 'pazarlama' or post.tag ==
+'reklam' or post.tag == 'tüketici davranışları' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="technology"></a>
-    <div class="link1"><a href="#technology">teknoloji + gelecek ve trendler + yapay zeka + siber güvenlik + internet + yazılım + bilgi sistemleri + internet of things</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'teknoloji' or
-          post.tag == 'yapay zeka' or
-          post.tag == 'gelecek ve trendler' or
-          post.tag == 'internet' or
-          post.tag == 'internet of things' or
-          post.tag == 'yazılım' or
-          post.tag == 'bilgi sistemleri' or
-          post.tag == 'siber güvenlik' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#technology"
+		>teknoloji + gelecek ve trendler + yapay zeka + siber güvenlik + internet +
+		yazılım + bilgi sistemleri + internet of things</a
+	>
+</div>
+{% for post in site.posts %} {% if post.tag == 'teknoloji' or post.tag == 'yapay
+zeka' or post.tag == 'gelecek ve trendler' or post.tag == 'internet' or post.tag
+== 'internet of things' or post.tag == 'yazılım' or post.tag == 'bilgi
+sistemleri' or post.tag == 'siber güvenlik' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="science"></a>
-    <div class="link1"><a href="#science">fen bilimleri + küresel ısınma + sürdürülebilirlik + permakültür + bahçe tarımı + çevre</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'fen bilimleri' or
-          post.tag == 'küresel ısınma' or
-          post.tag == 'sürdürülebilirlik' or
-          post.tag == 'permakültür' or
-          post.tag == 'bahçe tarımı' or
-          post.tag == 'çevre' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#science"
+		>fen bilimleri + küresel ısınma + sürdürülebilirlik + permakültür + bahçe
+		tarımı + çevre</a
+	>
+</div>
+{% for post in site.posts %} {% if post.tag == 'fen bilimleri' or post.tag ==
+'küresel ısınma' or post.tag == 'sürdürülebilirlik' or post.tag == 'permakültür'
+or post.tag == 'bahçe tarımı' or post.tag == 'çevre' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="media"></a>
-    <div class="link1"><a href="#media">dijital kültür + sosyal medya + medya + iletişim + sanat</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'dijital kültür' or
-          post.tag == 'sosyal medya' or
-          post.tag == 'medya' or
-          post.tag == 'sanat' or
-          post.tag == 'iletişim' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#media">dijital kültür + sosyal medya + medya + iletişim + sanat</a>
+</div>
+{% for post in site.posts %} {% if post.tag == 'dijital kültür' or post.tag ==
+'sosyal medya' or post.tag == 'medya' or post.tag == 'sanat' or post.tag ==
+'iletişim' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="profile"></a>
-    <div class="link1"><a href="#profile">biyografi + marka profili</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'biyografi' or
-          post.tag == 'marka profili' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1"><a href="#profile">biyografi + marka profili</a></div>
+{% for post in site.posts %} {% if post.tag == 'biyografi' or post.tag == 'marka
+profili' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="work"></a>
-    <div class="link1"><a href="#work">çalışma yaşamı + kariyer + girişimcilik + hukuk + yönetim + insan kaynakları</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'çalışma yaşamı' or
-          post.tag == 'kariyer' or
-          post.tag == 'girişimcilik' or
-          post.tag == 'hukuk' or
-          post.tag == 'insan kaynakları' or
-          post.tag == 'yönetim' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1">
+	<a href="#work"
+		>çalışma yaşamı + kariyer + girişimcilik + hukuk + yönetim + insan
+		kaynakları</a
+	>
+</div>
+{% for post in site.posts %} {% if post.tag == 'çalışma yaşamı' or post.tag ==
+'kariyer' or post.tag == 'girişimcilik' or post.tag == 'hukuk' or post.tag ==
+'insan kaynakları' or post.tag == 'yönetim' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="behavioural"></a>
-    <div class="link1"><a href="#behavioural">davranışsal iktisat</a></div>
-{% for post in site.posts %}
-    {% if post.tag contains 'davranışsal iktisat' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1"><a href="#behavioural">davranışsal iktisat</a></div>
+{% for post in site.posts %} {% if post.tag contains 'davranışsal iktisat' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="economics"></a>
-    <div class="link1"><a href="#economics">ekonomi + küreselleşme</a></div>
-{% for post in site.posts %}
-    {% if post.tag == 'ekonomi' or
-          post.tag == 'küreselleşme' %}
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-    {% endif %}
-{% endfor %}
-    <br />
+<div class="link1"><a href="#economics">ekonomi + küreselleşme</a></div>
+{% for post in site.posts %} {% if post.tag == 'ekonomi' or post.tag ==
+'küreselleşme' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
 
 <a name="social"></a>
-    <div class="link1"><a href="#social">sosyal bilimler + psikoloji + sosyoloji + felsefe + tarih + sosyal psikoloji + siyaset bilimi + eğitim</a></div>
-    {% for post in site.posts %}
-        {% if post.tag == 'psikoloji' or
-              post.tag == 'felsefe' or
-              post.tag == 'sosyoloji' or
-              post.tag == 'siyaset bilim' or
-              post.tag == 'sosyal bilimler' or
-              post.tag == 'eğitim' or
-              post.tag == 'tarih' or
-              post.tag == 'kişisel gelişim' or
-              post.tag == 'sosyal psikoloji' %}      
-      <p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
-        {% endif %}
-    {% endfor %}
-    <br />
+<div class="link1">
+	<a href="#social"
+		>sosyal bilimler + psikoloji + sosyoloji + felsefe + tarih + sosyal
+		psikoloji + siyaset bilimi + eğitim</a
+	>
+</div>
+{% for post in site.posts %} {% if post.tag == 'psikoloji' or post.tag ==
+'felsefe' or post.tag == 'sosyoloji' or post.tag == 'siyaset bilim' or post.tag
+== 'sosyal bilimler' or post.tag == 'eğitim' or post.tag == 'tarih' or post.tag
+== 'kişisel gelişim' or post.tag == 'sosyal psikoloji' %}
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />

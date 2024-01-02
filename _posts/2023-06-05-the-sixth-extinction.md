@@ -23,6 +23,7 @@ eng: "The Sixth Extinction: An Unnatural History by Elizabeth Kolbert is a compe
 openai: "yes"
 num: "327"
 image: "/assets/new/the-sixth-extinction.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

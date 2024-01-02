@@ -23,6 +23,7 @@ eng: "Six Degrees by Mark Lynas explores the potential consequences of climate c
 openai: "yes"
 num: "326"
 image: "/assets/new/six-degrees.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

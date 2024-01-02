@@ -23,6 +23,7 @@ eng: "Ten Billion by Stephen Emmott explores the relationship between global pop
 openai: "yes"
 num: "325"
 image: "/assets/new/ten-billion.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

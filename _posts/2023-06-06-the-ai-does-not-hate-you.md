@@ -23,6 +23,7 @@ eng: "The AI Does Not Hate You: Superintelligence, Rationality and the Race to S
 openai: "yes"
 num: "328"
 image: "/assets/new/the-ai-does-not-hate-you.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

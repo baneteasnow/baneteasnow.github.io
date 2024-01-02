@@ -23,6 +23,7 @@ eng: "The Mathematics of Love is a book by Hannah Fry that explores love through
 openai: "yes"
 num: "330"
 image: "/assets/new/the-mathematics-of-love.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

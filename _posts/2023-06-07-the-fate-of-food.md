@@ -23,6 +23,7 @@ eng: "The Fate of Food by Amanda Little examines the future of food in a changin
 openai: "yes"
 num: "329"
 image: "/assets/new/the-fate-of-food.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

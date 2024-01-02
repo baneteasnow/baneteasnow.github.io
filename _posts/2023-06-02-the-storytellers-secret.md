@@ -23,6 +23,7 @@ eng: "In  The Storyteller's Secret, Carmine Gallo argues that storytelling is a
 openai: "yes"
 num: "324"
 image: "/assets/new/the-storytellers-secret.jpg"
+update: "tobeupdated"
 ---
 
 to be updated...

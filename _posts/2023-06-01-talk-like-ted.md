@@ -23,9 +23,10 @@ eng: "In Talk Like TED, Carmine Gallo shares the nine public speaking secrets of
 openai: "yes"
 num: "323"
 image: "/assets/new/talk-like-ted.jpg"
+update: "tobeupdated"
 ---
 
-# to be updated
+to be updated...
 
 TED (Teknoloji, Eğlence, Tasarım) konuşmaları, dünya genelinde milyonlarca insanı etkileyen ve ilham veren sunumların merkezini oluşturuyor. Carmine Gallo'nun yazdığı TED Gibi Konuş, etkili bir şekilde konuşma yapmanın sırlarını inceliyor. Kitap, iz bırakan TED konuşmalarının başarılı olmasının ardındaki faktörleri araştırıyor ve okuyuculara bir TED konuşması kadar etkili sunumlar yapabilmeleri için ipuçları sunuyor.
 
