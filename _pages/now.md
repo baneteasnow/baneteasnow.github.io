@@ -7,20 +7,20 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2023-12-30
+last_modified_at: 2024-01-04
 published: true
 # 1
-booktitle1: "Self-Made Man"
-bookyear1: 2006
+booktitle1: "The Sentient Machine "
+bookyear1: 2019
 author1: "Norah Vincent"
-sayfa1: 290
-pageread1: 290
+sayfa1: 218
+pageread1: 31
 # 2
-booktitle2: "Aşka Övgü"
-bookyear2: 2023
-author2: "Alain Badiou, Nicolas Truong"
-sayfa2: 72
-pageread2: 1
+# booktitle2: "Aşka Övgü"
+# bookyear2: 2023
+# author2: "Alain Badiou, Nicolas Truong"
+# sayfa2: 72
+# pageread2: 1
 #
 #
 #
@@ -47,7 +47,7 @@ pageread2: 1
 # <br />
 #
 # 3
-read: 81
+read: 1
 ---
 
 ⁜ {{ page.read | plus: 1 }}
@@ -72,9 +72,9 @@ _by_ {{ page.author1 }}
 
 <br />
 
-⁜ {{ page.read | plus: 2 }}
+<!-- ⁜ {{ page.read | plus: 2 }}
 
-{{ page.booktitle2 }} ({{ page.bookyear2 }})  
+{{ page.booktitle2 }} ({{ page.bookyear2 }})
 _by_ {{ page.author2 }}
 
 <div style="font-size: 50%; font-style: italic;">
@@ -90,7 +90,7 @@ _by_ {{ page.author2 }}
   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
     {{ page.pageread2 }}/{{ page.sayfa2 }}
   </span>
-</div>
+</div> -->
 
  <div style="clear: both"></div>
  <br />

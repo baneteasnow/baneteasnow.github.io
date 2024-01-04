@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Aşka Övgü (Kitap)"
+title: "Aska Ovgu | Alain Badiou, Nicolas Truong (Kitap)"
 kitap: "Aşka Övgü"
 tr: "Aşka Övgü"
 yazar: "Alain Badiou, Nicolas Truong"
@@ -11,7 +11,7 @@ sayfa: "72"
 goodreads: "https://www.goodreads.com/book/show/17348233-a-ka-vg"
 description: ""
 last_modified_at: xxxx-xx-xx
-published: false
+published: true
 posted: xxxx-xx-xx
 tag: "felsefe"
 instagram: "no"
@@ -23,7 +23,7 @@ openai: "no"
 num: "399"
 publisher: "Fihrist Kitap"
 image: "/assets/new/aska-ovgu.jpg"
+update: "tobeupdated"
 ---
 
-update: "tobeupdated"
 to be updated...
