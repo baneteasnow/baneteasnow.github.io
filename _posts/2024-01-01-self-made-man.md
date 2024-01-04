@@ -11,7 +11,7 @@ sayfa: "290"
 goodreads: "https://www.goodreads.com/book/show/29434.Self_Made_Man"
 description: ""
 last_modified_at: 2024-01-01
-published: false
+published: true
 posted: 2024-01-01
 tag: "biyografi"
 instagram: "no"
