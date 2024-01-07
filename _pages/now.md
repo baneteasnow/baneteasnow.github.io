@@ -14,7 +14,7 @@ booktitle1: "The Sentient Machine"
 bookyear1: 2019
 author1: "Amir Husain"
 sayfa1: 218
-pageread1: 31
+pageread1: 218
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
