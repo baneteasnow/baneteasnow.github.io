@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-01-07
 published: true
 # 1
-booktitle1: "The Sentient Machine"
-bookyear1: 2019
-author1: "Amir Husain"
-sayfa1: 218
-pageread1: 218
+booktitle1: "Sapiens"
+bookyear1: 2016
+author1: "Yuval Noah Harari"
+sayfa1: 417
+pageread1: 17
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 218
 # <br />
 #
 # 3
-read: 1
+read: 2
 ---
 
 ⁜ {{ page.read | plus: 1 }}
