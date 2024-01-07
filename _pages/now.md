@@ -7,12 +7,12 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-01-04
+last_modified_at: 2024-01-07
 published: true
 # 1
-booktitle1: "The Sentient Machine "
+booktitle1: "The Sentient Machine"
 bookyear1: 2019
-author1: "Norah Vincent"
+author1: "Amir Husain"
 sayfa1: 218
 pageread1: 31
 # 2
