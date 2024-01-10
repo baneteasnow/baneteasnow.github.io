@@ -10,10 +10,10 @@ yil: "2016"
 sayfa: "417"
 goodreads: "https://www.goodreads.com/book/show/23692271-sapiens"
 description: ""
-last_modified_at: xxxx-xx-xx
+last_modified_at: 2024-xx-xx
 published: false
-posted: xxxx-xx-xx
-tag: "xxx"
+posted: 2024-xx-xx
+tag: "tarih"
 instagram: "no"
 insta: "no"
 reread: "no"
