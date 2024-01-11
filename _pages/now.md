@@ -14,7 +14,7 @@ booktitle1: "Sapiens"
 bookyear1: 2016
 author1: "Yuval Noah Harari"
 sayfa1: 417
-pageread1: 247
+pageread1: 270
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
