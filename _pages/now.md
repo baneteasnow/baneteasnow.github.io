@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-01-07
+last_modified_at: 2024-01-12
 published: true
 # 1
-booktitle1: "Sapiens"
+booktitle1: "Homo Deus: A History of Tomorrow"
 bookyear1: 2016
 author1: "Yuval Noah Harari"
-sayfa1: 417
-pageread1: 270
+sayfa1: 456
+pageread1: 0
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
