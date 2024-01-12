@@ -23,6 +23,7 @@ openai: "no"
 num: "402"
 publisher: "Kolektif Kitap"
 image: "/assets/new/homo-deus.jpg"
+update: "tobeupdated"
 ---
 
 to be updated

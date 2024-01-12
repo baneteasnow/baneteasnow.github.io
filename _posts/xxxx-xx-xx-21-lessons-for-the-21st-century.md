@@ -23,6 +23,7 @@ openai: "no"
 num: "403"
 publisher: "Kolektif Kitap"
 image: "/assets/new/21-lessons-for-the-21st-century.jpg"
+update: "tobeupdated"
 ---
 
 to be updated
