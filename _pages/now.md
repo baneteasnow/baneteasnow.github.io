@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-01-29
+last_modified_at: 2024-01-31
 published: true
 # 1
-booktitle1: "Is It Ever Just Sex?"
-bookyear1: 2023
-author1: "Darian Leader"
-sayfa1: 208
-pageread1: 42
+booktitle1: "21 Lessons for the 21st Century"
+bookyear1: 2018
+author1: "Yuval Noah Harari"
+sayfa1: 334
+pageread1: 35
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
