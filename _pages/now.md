@@ -14,7 +14,7 @@ booktitle1: "21 Lessons for the 21st Century"
 bookyear1: 2018
 author1: "Yuval Noah Harari"
 sayfa1: 334
-pageread1: 93
+pageread1: 128
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
