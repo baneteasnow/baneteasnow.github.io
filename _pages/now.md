@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-01-31
+last_modified_at: 2024-02-02
 published: true
 # 1
 booktitle1: "21 Lessons for the 21st Century"
 bookyear1: 2018
 author1: "Yuval Noah Harari"
 sayfa1: 334
-pageread1: 35
+pageread1: 93
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
