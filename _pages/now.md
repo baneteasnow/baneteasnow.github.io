@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-02-02
 published: true
 # 1
-booktitle1: "21 Lessons for the 21st Century"
-bookyear1: 2018
-author1: "Yuval Noah Harari"
-sayfa1: 334
-pageread1: 128
+booktitle1: "2012 - Marduk'la Randevu"
+bookyear1: 2003
+author1: "Burak Eldem"
+sayfa1: 607
+pageread1: 9
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 128
 # <br />
 #
 # 3
-read: 5
+read: 6
 ---
 
 ⁜ {{ page.read | plus: 1 }}
