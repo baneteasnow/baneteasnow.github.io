@@ -14,7 +14,7 @@ booktitle1: "2012 - Marduk'la Randevu"
 bookyear1: 2003
 author1: "Burak Eldem"
 sayfa1: 607
-pageread1: 235
+pageread1: 289
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
