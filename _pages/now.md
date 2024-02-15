@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-02
+last_modified_at: 2024-02-15
 published: true
 # 1
 booktitle1: "2012 - Marduk'la Randevu"
 bookyear1: 2003
 author1: "Burak Eldem"
 sayfa1: 607
-pageread1: 463
+pageread1: 557
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
