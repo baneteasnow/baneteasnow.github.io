@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-02-15
 published: true
 # 1
-booktitle1: "2012 - Marduk'la Randevu"
-bookyear1: 2003
-author1: "Burak Eldem"
-sayfa1: 607
-pageread1: 557
+booktitle1: "101 Things I Learned in Psychology School"
+bookyear1: 2024
+author1: "Tim Bono, Matthew Frederick"
+sayfa1: 216
+pageread1: 1
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 557
 # <br />
 #
 # 3
-read: 6
+read: 7
 ---
 
 ⁜ {{ page.read | plus: 1 }}
