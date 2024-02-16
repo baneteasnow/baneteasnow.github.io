@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-02-15
 published: true
 # 1
-booktitle1: "101 Things I Learned in Psychology School"
-bookyear1: 2024
-author1: "Tim Bono, Matthew Frederick"
-sayfa1: 216
-pageread1: 1
+booktitle1: "What Does Europe Want?"
+bookyear1: 2015
+author1: "Srecko Horvat, Slavoj Zizek"
+sayfa1: 208
+pageread1: 11
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
