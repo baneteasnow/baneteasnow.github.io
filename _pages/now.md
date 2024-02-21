@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-20
+last_modified_at: 2024-02-21
 published: true
 # 1
-booktitle1: "What Does Europe Want?"
-bookyear1: 2015
-author1: "Srecko Horvat, Slavoj Zizek"
-sayfa1: 208
-pageread1: 84
+booktitle1: "Yalnizlik Zamaninda Ask - Durtu ve Arzu Uzerine Uc Deneme"
+bookyear1: 2023
+author1: "Paul Verhaeghe"
+sayfa1: 200
+pageread1: 7
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 84
 # <br />
 #
 # 3
-read: 7
+read: 9
 ---
 
 ⁜ {{ page.read | plus: 1 }}
