@@ -10,7 +10,7 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-02-23
 published: true
 # 1
-booktitle1: "The Sex Is (Not) Political"
+booktitle1: "The Sexual Is (Not) Political"
 bookyear1: 2022
 author1: "Slavoj Zizek"
 sayfa1: 108
