@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-21
+last_modified_at: 2024-02-23
 published: true
 # 1
 booktitle1: "Yalnizlik Zamaninda Ask - Durtu ve Arzu Uzerine Uc Deneme"
 bookyear1: 2023
 author1: "Paul Verhaeghe"
 sayfa1: 200
-pageread1: 90
+pageread1: 140
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
