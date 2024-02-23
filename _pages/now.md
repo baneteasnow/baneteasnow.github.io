@@ -10,10 +10,10 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-02-23
 published: true
 # 1
-booktitle1: "The Sexual Is (Not) Political"
-bookyear1: 2022
-author1: "Slavoj Zizek"
-sayfa1: 108
+booktitle1: "Shrinks ~ The Untold Story of Psychiatry"
+bookyear1: 2020
+author1: "Jeffrey A. Lieberman, Ogi Ogas"
+sayfa1: 392
 pageread1: 11
 # 2
 # booktitle2: "Aşka Övgü"
