@@ -14,7 +14,7 @@ booktitle1: "Yalnizlik Zamaninda Ask - Durtu ve Arzu Uzerine Uc Deneme"
 bookyear1: 2023
 author1: "Paul Verhaeghe"
 sayfa1: 200
-pageread1: 81
+pageread1: 90
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
