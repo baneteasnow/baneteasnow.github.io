@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-02-23
 published: true
 # 1
-booktitle1: "Yalnizlik Zamaninda Ask - Durtu ve Arzu Uzerine Uc Deneme"
-bookyear1: 2023
-author1: "Paul Verhaeghe"
-sayfa1: 200
-pageread1: 140
+booktitle1: "The Sex Is (Not) Political"
+bookyear1: 2022
+author1: "Slavoj Zizek"
+sayfa1: 108
+pageread1: 11
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 140
 # <br />
 #
 # 3
-read: 9
+read: 10
 ---
 
 ⁜ {{ page.read | plus: 1 }}
