@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-23
+last_modified_at: 2024-02-25
 published: true
 # 1
 booktitle1: "Shrinks ~ The Untold Story of Psychiatry"
 bookyear1: 2020
 author1: "Jeffrey A. Lieberman, Ogi Ogas"
 sayfa1: 392
-pageread1: 207
+pageread1: 241
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
