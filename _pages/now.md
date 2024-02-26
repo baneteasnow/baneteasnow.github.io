@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-25
+last_modified_at: 2024-02-26
 published: true
 # 1
-booktitle1: "Shrinks ~ The Untold Story of Psychiatry"
-bookyear1: 2020
-author1: "Jeffrey A. Lieberman, Ogi Ogas"
-sayfa1: 392
-pageread1: 288
+booktitle1: "The Female Brain"
+bookyear1: 2022
+author1: "Louann Brizendine"
+sayfa1: 328
+pageread1: 13
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 288
 # <br />
 #
 # 3
-read: 10
+read: 12
 ---
 
 ⁜ {{ page.read | plus: 1 }}
