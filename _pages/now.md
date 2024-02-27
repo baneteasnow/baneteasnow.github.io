@@ -14,7 +14,7 @@ booktitle1: "The Female Brain"
 bookyear1: 2022
 author1: "Louann Brizendine"
 sayfa1: 328
-pageread1: 87
+pageread1: 153
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
