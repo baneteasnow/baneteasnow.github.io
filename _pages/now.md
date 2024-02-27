@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-26
+last_modified_at: 2024-02-27
 published: true
 # 1
 booktitle1: "The Female Brain"
 bookyear1: 2022
 author1: "Louann Brizendine"
 sayfa1: 328
-pageread1: 13
+pageread1: 55
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
