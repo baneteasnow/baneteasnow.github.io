@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-27
+last_modified_at: 2024-02-28
 published: true
 # 1
-booktitle1: "The Female Brain"
+booktitle1: "The Male Brain"
 bookyear1: 2022
 author1: "Louann Brizendine"
-sayfa1: 328
-pageread1: 153
+sayfa1: 336
+pageread1: 23
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 153
 # <br />
 #
 # 3
-read: 12
+read: 13
 ---
 
 ⁜ {{ page.read | plus: 1 }}
