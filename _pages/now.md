@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-02-28
 published: true
 # 1
-booktitle1: "The Male Brain"
-bookyear1: 2022
-author1: "Louann Brizendine"
+booktitle1: "The Gendered Brain"
+bookyear1: 2023
+author1: "Gina Rippon"
 sayfa1: 336
-pageread1: 23
+pageread1: 21
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 23
 # <br />
 #
 # 3
-read: 13
+read: 14
 ---
 
 ⁜ {{ page.read | plus: 1 }}
