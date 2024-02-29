@@ -49,7 +49,7 @@ pageread1: 21
 # 3
 read: 14
 ---
-
+⁜ {{ page.read | plus: page.sayfa1 }}
 ⁜ {{ page.read | plus: 1 }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
