@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-02-28
+last_modified_at: 2024-03-01
 published: true
 # 1
 booktitle1: "The Gendered Brain"
 bookyear1: 2023
 author1: "Gina Rippon"
 sayfa1: 336
-pageread1: 21
+pageread1: 54
 # 2
 # booktitle2: "Aşka Övgü"
 # bookyear2: 2023
