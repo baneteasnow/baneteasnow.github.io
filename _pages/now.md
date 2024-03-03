@@ -7,24 +7,30 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-03-01
+last_modified_at: 2024-03-03
 published: true
 # 1
 booktitle1: "The Gendered Brain"
 bookyear1: 2023
 author1: "Gina Rippon"
 sayfa1: 336
-pageread1: 54
+pageread1: 108
 # 2
-# booktitle2: "Aşka Övgü"
+booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
+bookyear2: 2023
+author2: "Louann Brizendine"
+sayfa2: 384
+pageread2: 9
+# 2
+# booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
-# author2: "Alain Badiou, Nicolas Truong"
-# sayfa2: 72
-# pageread2: 1
+# author2: "Louann Brizendine"
+# sayfa2: 384
+# pageread2: 9
 #
 #
 #
-# ⁜ {{ page.read | plus: 4 }}
+# ⁜ {{ page.read | plus: 2 }}
 #
 # {{ page.booktitle2 }} ({{ page.bookyear2 }})
 # _by_ {{ page.author2 }}
@@ -46,7 +52,8 @@ pageread1: 54
 # <div style="clear: both"></div>
 # <br />
 #
-# 3
+# 18-23 arasi
+# ve 83 satirlar
 read: 14
 ---
 ⁜ {{ page.read | plus: 1 }}
@@ -73,5 +80,26 @@ _by_ {{ page.author1 }}
 
  <div style="clear: both"></div>
  <br />
+⁜ {{ page.read | plus: 2 }}  
+
+{{ page.booktitle2 }} ({{ page.bookyear2 }})  
+_by_ {{ page.author2 }}  
+
+<div style="font-size: 50%; font-style: italic;">  
+  {{ page.sayfa2 }} sayfa  
+  </div>  
+
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">  
+  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%  
+ </div>  
+
+ <div>  
+   <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>  
+   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">  
+    {{ page.pageread2 }}/{{ page.sayfa2 }}  
+   </span>  
+ </div>  
+ <div style="clear: both"></div>  
+ <br />  
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
