@@ -14,13 +14,13 @@ booktitle1: "The Gendered Brain"
 bookyear1: 2023
 author1: "Gina Rippon"
 sayfa1: 336
-pageread1: 116
+pageread1: 145
 # 2
 booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 bookyear2: 2023
 author2: "Louann Brizendine"
 sayfa2: 384
-pageread2: 33
+pageread2: 37
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
