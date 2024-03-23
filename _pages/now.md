@@ -13,8 +13,8 @@ published: true
 booktitle1: "The Gendered Brain"
 bookyear1: 2023
 author1: "Gina Rippon"
-sayfa1: 336
-pageread1: 165
+sayfa1: 460
+pageread1: 336
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
