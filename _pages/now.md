@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-03-03
+last_modified_at: 2024-03-24
 published: true
 # 1
-booktitle1: "The Gendered Brain"
-bookyear1: 2023
-author1: "Gina Rippon"
-sayfa1: 460
-pageread1: 336
+booktitle1: "Mastering Adulthood"
+bookyear1: 2020
+author1: "Lara E. Fielding"
+sayfa1: 240
+pageread1: 11
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
