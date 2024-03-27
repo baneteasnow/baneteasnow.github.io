@@ -1,3 +1,4 @@
+---
 # to be updated
 layout: post
 category: book
@@ -16,7 +17,7 @@ tag: "tarih"
 instagram: "no"
 insta: "no"
 reread: "no"
-rating: "4"
+rating: "3"
 eng: ""
 openai: "no"
 num: "404"
