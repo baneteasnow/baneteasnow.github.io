@@ -10,9 +10,9 @@ yil: "2018"
 sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
 description: ""
-last_modified_at: 2024-01-15
+last_modified_at: 2024-01-20
 published: true
-posted: 2024-01-15
+posted: 2024-01-20
 tag: "tarih"
 instagram: "no"
 insta: "no"
@@ -20,7 +20,7 @@ reread: "no"
 rating: "5"
 eng: ""
 openai: "no"
-num: "402"
+num: "403"
 publisher: "Kolektif Kitap"
 image: "/assets/new/21-lessons-for-the-21st-century.jpg"
 update: "tobeupdated"
