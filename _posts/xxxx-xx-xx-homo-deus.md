@@ -10,17 +10,17 @@ yil: "2016"
 sayfa: "456"
 goodreads: "https://www.goodreads.com/book/show/31138556-homo-deus"
 description: ""
-last_modified_at: 2024-xx-xx
-published: false
-posted: 2024-xx-xx
+last_modified_at: 2024-01-15
+published: true
+posted: 2024-01-15
 tag: "tarih"
 instagram: "no"
 insta: "no"
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
 openai: "no"
-num: "402"
+num: "403"
 publisher: "Kolektif Kitap"
 image: "/assets/new/homo-deus.jpg"
 update: "tobeupdated"
