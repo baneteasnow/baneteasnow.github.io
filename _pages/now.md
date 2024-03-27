@@ -10,11 +10,11 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-03-24
 published: true
 # 1
-booktitle1: "Mastering Adulthood"
-bookyear1: 2020
-author1: "Lara E. Fielding"
-sayfa1: 240
-pageread1: 11
+booktitle1: "How Data Happened"
+bookyear1: 2024
+author1: "Chris Wiggins, Matthew L. Jones"
+sayfa1: 400
+pageread1: 9
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 11
 # <br />
 #
 # 
-read: 15
+read: 17
 ---
 ⁜ {{ page.read | plus: 1 }}
 
