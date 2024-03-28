@@ -2,27 +2,27 @@
 # to be updated
 layout: post
 category: book
-title: "21 Lessons for the 21st Century | Yuval Noah Harari (Kitap)"
-kitap: "21 Lessons for the 21st Century"
-tr: "21. Yüzyıl İçin 21 Ders"
-yazar: "Yuval Noah Harari"
-yil: "2018"
-sayfa: "336"
-goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
+title: "The Sexual Is (Not) Political | Slavoj Zizek (Kitap)"
+kitap: "The Sexual Is (Not) Political"
+tr: "Cinsel Olan Politik midir?"
+yazar: "Slavoj Zizek"
+yil: "2022"
+sayfa: "108"
+goodreads: "https://www.goodreads.com/book/show/38909305-cinsel-olan-politik-midir"
 description: ""
-last_modified_at: 2024-02-04
-published: false
-posted: 2024-02-04 
-tag: "tarih"
+last_modified_at: 2024-02-16
+published: true
+posted: 2024-02-16
+tag: "sosyoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
 eng: ""
 openai: "no"
-num: "407"
-publisher: "Kolektif Kitap"
-image: "/assets/new/101-things-i-learned-in-psychology-school.jpg"
+num: "408"
+publisher: "Encore Yayinlari"
+image: "/assets/new/the-sexual-is-not-political.jpg"
 update: "tobeupdated"
 ---
 
