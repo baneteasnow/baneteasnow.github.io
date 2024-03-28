@@ -2,27 +2,27 @@
 # to be updated
 layout: post
 category: book
-title: "21 Lessons for the 21st Century | Yuval Noah Harari (Kitap)"
-kitap: "21 Lessons for the 21st Century"
-tr: "21. Yüzyıl İçin 21 Ders"
-yazar: "Yuval Noah Harari"
-yil: "2018"
-sayfa: "336"
-goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
+title: "The Female Brain | Louann Brizendine (Kitap)"
+kitap: "The Female Brain"
+tr: "Kadın Beyni"
+yazar: "Louann Brizendine"
+yil: "2022"
+sayfa: "328"
+goodreads: "https://www.goodreads.com/book/show/23968.The_Female_Brain"
 description: ""
-last_modified_at: 2024-02-04
-published: false
-posted: 2024-02-04 
-tag: "tarih"
+last_modified_at: 2024-02-29
+published: true
+posted: 2024-02-29
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
 rating: "4"
 eng: ""
 openai: "no"
-num: "409"
-publisher: "Kolektif Kitap"
-image: "/assets/new/shrinks.jpg"
+num: "410"
+publisher: "Say Yayinlari"
+image: "/assets/new/the-female-brain.jpg"
 update: "tobeupdated"
 ---
 
