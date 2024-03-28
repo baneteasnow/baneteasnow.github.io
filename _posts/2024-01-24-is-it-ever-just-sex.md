@@ -2,18 +2,18 @@
 # to be updated
 layout: post
 category: book
-title: "21 Lessons for the 21st Century | Yuval Noah Harari (Kitap)"
-kitap: "21 Lessons for the 21st Century"
-tr: "21. Yüzyıl İçin 21 Ders"
-yazar: "Yuval Noah Harari"
-yil: "2018"
-sayfa: "336"
-goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
+title: "Is It Ever Just Sex? | Darian Leader (Kitap)"
+kitap: "Is It Ever Just Sex?"
+tr: "Cinsellik Seksten Mi Ibaret?"
+yazar: "Darian Leader"
+yil: "2023"
+sayfa: "208"
+goodreads: "https://www.goodreads.com/book/show/96177642-is-it-ever-just-sex"
 description: ""
 last_modified_at: 2024-01-24
-published: false
+published: true
 posted: 2024-01-24
-tag: "tarih"
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -21,8 +21,8 @@ rating: "5"
 eng: ""
 openai: "no"
 num: "404"
-publisher: "Kolektif Kitap"
-image: "/assets/new/21-lessons-for-the-21st-century.jpg"
+publisher: "Encore Yayinlari"
+image: "/assets/new/is-it-ever-just-sex.jpg"
 update: "tobeupdated"
 ---
 
