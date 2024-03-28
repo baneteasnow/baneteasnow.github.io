@@ -2,27 +2,27 @@
 # to be updated
 layout: post
 category: book
-title: "21 Lessons for the 21st Century | Yuval Noah Harari (Kitap)"
-kitap: "21 Lessons for the 21st Century"
-tr: "21. Yüzyıl İçin 21 Ders"
-yazar: "Yuval Noah Harari"
-yil: "2018"
-sayfa: "336"
-goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
+title: "The Gendered Brain | Gina Rippon (Kitap)"
+kitap: "The Gendered Brain - The New Neuroscience That Shatters the Myth of the Female Brain"
+tr: "Cinsiyetlendirilmiş Beyin - Kadın Beyni Efsanesini Paramparça Eden Yeni Sinirbilim"
+yazar: "Gina Rippon"
+yil: "2023"
+sayfa: "460"
+goodreads: "https://www.goodreads.com/book/show/40554115-the-gendered-brain"
 description: ""
-last_modified_at: 2024-02-04
-published: false
-posted: 2024-02-04 
-tag: "tarih"
+last_modified_at: 2024-03-19
+published: true
+posted: 2024-03-19
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
-rating: "2"
+rating: "4"
 eng: ""
 openai: "no"
-num: "412"
-publisher: "Kolektif Kitap"
-image: "/assets/new/shrinks.jpg"
+num: "414"
+publisher: "Ayrinti Yayinlari"
+image: "/assets/new/the-gendered-brain.jpg"
 update: "tobeupdated"
 ---
 
