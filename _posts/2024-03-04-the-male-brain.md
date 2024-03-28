@@ -13,7 +13,7 @@ description: ""
 last_modified_at: 2024-03-04
 published: true
 posted: 2024-03-04
-tag: "tarih"
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
@@ -22,7 +22,7 @@ eng: ""
 openai: "no"
 num: "412"
 publisher: "Say Yayinlari"
-image: "/assets/new/shrinks.jpg"
+image: "/assets/new/the-male-brain.jpg"
 update: "tobeupdated"
 ---
 
