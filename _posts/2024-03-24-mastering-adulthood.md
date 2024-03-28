@@ -2,27 +2,27 @@
 # to be updated
 layout: post
 category: book
-title: "21 Lessons for the 21st Century | Yuval Noah Harari (Kitap)"
-kitap: "21 Lessons for the 21st Century"
-tr: "21. Yüzyıl İçin 21 Ders"
-yazar: "Yuval Noah Harari"
-yil: "2018"
-sayfa: "336"
-goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
+title: "Mastering Adulthood | Lara E. Fielding (Kitap)"
+kitap: "Yetişkin Olmak - Büyümek ve Duygusal Olgunluğa Erişmek"
+tr: "Mastering Adulthood - Go Beyond Adulting to Become an Emotional Grown-Up"
+yazar: "Lara E. Fielding"
+yil: "2020"
+sayfa: "240"
+goodreads: "https://www.goodreads.com/book/show/38744766-mastering-adulthood"
 description: ""
-last_modified_at: 2024-02-04
-published: false
-posted: 2024-02-04 
-tag: "tarih"
+last_modified_at: 2024-03-24
+published: true
+posted: 2024-03-24 
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
 rating: "2"
 eng: ""
 openai: "no"
-num: "413"
-publisher: "Kolektif Kitap"
-image: "/assets/new/shrinks.jpg"
+num: "415"
+publisher: "Aganta Kitap"
+image: "/assets/new/mastering-adulthood.jpg"
 update: "tobeupdated"
 ---
 
