@@ -2,16 +2,16 @@
 # to be updated
 layout: post
 category: book
-title: "21 Lessons for the 21st Century | Yuval Noah Harari (Kitap)"
-kitap: "21 Lessons for the 21st Century"
-tr: "21. Yüzyıl İçin 21 Ders"
-yazar: "Yuval Noah Harari"
-yil: "2018"
-sayfa: "336"
-goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century"
+title: "Marduk'la Randevu | Burak Eldem (Kitap)"
+kitap: "Marduk'la Randevu"
+tr: "-"
+yazar: "Burak Eldem"
+yil: "2003"
+sayfa: "607"
+goodreads: "https://www.goodreads.com/book/show/10796932-2012"
 description: ""
 last_modified_at: 2024-01-29
-published: false
+published: true
 posted: 2024-01-29
 tag: "tarih"
 instagram: "no"
@@ -21,7 +21,7 @@ rating: "4"
 eng: ""
 openai: "no"
 num: "403"
-publisher: "Kolektif Kitap"
+publisher: "Inkilap Kitabevi"
 image: "/assets/new/2012-marduk-la-randevu.jpg"
 update: "tobeupdated"
 ---
