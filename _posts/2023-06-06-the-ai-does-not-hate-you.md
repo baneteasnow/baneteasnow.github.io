@@ -14,7 +14,7 @@ description: "Tom Chivers, kitabında yapay zekanın insan zekasını aşma pota
 last_modified_at: 2023-06-06
 published: true
 posted: 2023-06-06
-tag: "teknoloji"
+tag: "yapay zeka"
 instagram: "no"
 insta: "no"
 reread: "no"
