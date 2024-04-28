@@ -14,7 +14,7 @@ description: "Joseph Murphy'nin ünlü kitabı The Power of Your Subconscious Mi
 last_modified_at: 2023-06-13
 published: true
 posted: 2023-06-13
-tag: "motivation"
+tag: "motivasyon"
 instagram: "no"
 insta: "no"
 reread: "no"
