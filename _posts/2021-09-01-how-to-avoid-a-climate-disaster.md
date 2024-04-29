@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "How to Avoid a Climate Disaster | Bill Gates (Kitap)"
 kitap: "How to Avoid a Climate Disaster"
-tr: "-"
+tr: "İklim Felaketini Nasıl Önleriz"
 yazar: "Bill Gates"
 yil: "2021"
 sayfa: "256"

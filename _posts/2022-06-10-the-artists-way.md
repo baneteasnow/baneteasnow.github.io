@@ -13,7 +13,7 @@ description: "The Artist's Way, sunduğu 12 haftalık bir program ile okuyucunun
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-10
-tag: "yaratıcılık"
+tag: "yazmak ve yaratıcılık"
 instagram: "https://www.instagram.com/p/CfeZagCoUIN/"
 insta: "yes"
 reread: "yes"
@@ -37,11 +37,13 @@ Julia Cameron, önemli olanın yazmak olduğunu hatırlatıyor, aklınızdan ge�
 Yazdıklarınızı da en azından ilk 8 hafta süresince okumamanız gerekiyor. Yazdıklarınız size özel ve aslında yazmanın da herhangi bir doğru yöntemi yok. Uyandıktan hemen sonra kendi iç sesinizi ve aklınızdan geçenleri kağıda el yazınızla dökmeniz yeterli.
 
 #### [The Artist's Date](#the-artists-date)
+
 {: #the-artists-date }
 
 The Artist's Date, sadece yaratıcı yönünüzle vakit geçirmek için önceden bir gün ve saat belirleyip eğlenceli bir şeyler yapmanızı gerektiriyor. Belki resim çekmek, belki müzeye veya sergiye gitmek, belki sahilde bir yürüyüş ya da bir konsere gitmek gibi. Bunun için haftada bir kez iki saat ayırmanız yeterli.
 
 #### [12 Haftalık Program](#oniki-haftalik-program)
+
 {: #oniki-haftalik-program }
 
 1. 1\. hafta - Güven duygusunu yeniden kazanmak
