@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-03-24
+last_modified_at: 2024-05-04
 published: true
 # 1
-booktitle1: "How Data Happened"
-bookyear1: 2024
-author1: "Chris Wiggins, Matthew L. Jones"
-sayfa1: 400
-pageread1: 9
+booktitle1: "Digital Transformation"
+bookyear1: 2020
+author1: "Thomas M. Siebel"
+sayfa1: 268
+pageread1: 11
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
