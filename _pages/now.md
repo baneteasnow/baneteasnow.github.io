@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-05-04
+last_modified_at: 2024-05-10
 published: true
 # 1
-booktitle1: "Digital Transformation"
-bookyear1: 2020
-author1: "Thomas M. Siebel"
-sayfa1: 268
-pageread1: 11
+booktitle1: "Kendin Olmanin Dayanilmmaz Hafifligi"
+bookyear1: 2024
+author1: "Ferhat Jak Icoz"
+sayfa1: 240
+pageread1: 15
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 11
 # <br />
 #
 # 
-read: 17
+read: 18
 ---
 ⁜ {{ page.read | plus: 1 }}
 
