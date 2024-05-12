@@ -14,7 +14,7 @@ booktitle1: "Kendin Olmanin Dayanilmmaz Hafifligi"
 bookyear1: 2024
 author1: "Ferhat Jak Icoz"
 sayfa1: 240
-pageread1: 15
+pageread1: 121
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
