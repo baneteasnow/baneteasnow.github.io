@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-05-10
+last_modified_at: 2024-05-13
 published: true
 # 1
 booktitle1: "Kendin Olmanin Dayanilmmaz Hafifligi"
 bookyear1: 2024
 author1: "Ferhat Jak Icoz"
 sayfa1: 240
-pageread1: 121
+pageread1: 152
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
