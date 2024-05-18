@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-05-13
+last_modified_at: 2024-05-18
 published: true
 # 1
 booktitle1: "Conversations About The End of Time"
-bookyear1: 200p
+bookyear1: 1998
 author1: "Jean-Claude Carriere, Jean Delumeau, Umberto Eco, Stephen Jay Gould"
 sayfa1: 264
-pageread1: 7
+pageread1: 114
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
