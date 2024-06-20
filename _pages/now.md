@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-05-18
+last_modified_at: 2024-06-20
 published: true
 # 1
-booktitle1: "Conversations About The End of Time"
-bookyear1: 1998
-author1: "Jean-Claude Carriere, Jean Delumeau, Umberto Eco, Stephen Jay Gould"
-sayfa1: 264
-pageread1: 114
+booktitle1: "Character Is Destiny"
+bookyear1: 1997
+author1: "Russell Gough"
+sayfa1: 192
+pageread1: 139
 # 2
 # booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
 # bookyear2: 2023
@@ -46,9 +46,10 @@ pageread1: 114
 # <div style="clear: both"></div>
 # <br />
 #
-# 
-read: 19
+#
+read: 20
 ---
+
 ⁜ {{ page.read | plus: 1 }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
