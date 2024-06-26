@@ -7,20 +7,20 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-06-20
+last_modified_at: 2024-06-26
 published: true
 # 1
-booktitle1: "Character Is Destiny"
-bookyear1: 1997
-author1: "Russell Gough"
+booktitle1: "Orneklerle Kolay Ekonomi"
+bookyear1: 2019
+author1: "Mahfi Egilmez"
 sayfa1: 192
-pageread1: 139
+pageread1: 14
 # 2
-# booktitle2: "The Upgrade - How The Female Brain Gets Stronger and Better in Mid-life and Beyond"
-# bookyear2: 2023
-# author2: "Louann Brizendine"
-# sayfa2: 384
-# pageread2: 9
+booktitle2: "Kingpin"
+bookyear2: 2020
+author2: "Kevin Poulsen"
+sayfa2: 312
+pageread2: 15
 #
 #
 #
@@ -47,7 +47,7 @@ pageread1: 139
 # <br />
 #
 #
-read: 20
+read: 21
 ---
 
 ⁜ {{ page.read | plus: 1 }}
@@ -74,5 +74,28 @@ _by_ {{ page.author1 }}
 
  <div style="clear: both"></div>
  <br />
+
+⁜ {{ page.read | plus: 2 }}
+
+{{ page.booktitle2 }} ({{ page.bookyear2 }})
+_by_ {{ page.author2 }}
+
+<div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa2 }} sayfa
+</div>
+
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+</div>
+
+<div>
+  <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+    {{ page.pageread2 }}/{{ page.sayfa2 }}
+  </span>
+</div>
+
+<div style="clear: both"></div>
+<br />
 
 [🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
