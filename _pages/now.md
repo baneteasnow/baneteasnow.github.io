@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-06-26
+last_modified_at: 2024-07-01
 published: true
 # 1
 booktitle1: "Orneklerle Kolay Ekonomi"
@@ -16,11 +16,11 @@ author1: "Mahfi Egilmez"
 sayfa1: 192
 pageread1: 14
 # 2
-booktitle2: "Kingpin"
-bookyear2: 2020
-author2: "Kevin Poulsen"
-sayfa2: 312
-pageread2: 15
+booktitle2: ""
+bookyear2: 0
+author2: ""
+sayfa2: 0
+pageread2: 0
 #
 #
 #
@@ -47,7 +47,7 @@ pageread2: 15
 # <br />
 #
 #
-read: 21
+read: 23
 ---
 
 ⁜ {{ page.read | plus: 1 }}
