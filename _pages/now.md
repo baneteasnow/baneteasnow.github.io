@@ -16,9 +16,9 @@ author1: "Mahfi Egilmez"
 sayfa1: 192
 pageread1: 14
 # 2
-booktitle2: ""
+booktitle2: "-"
 bookyear2: 0
-author2: ""
+author2: "-"
 sayfa2: 0
 pageread2: 0
 #
