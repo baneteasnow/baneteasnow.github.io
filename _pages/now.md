@@ -16,11 +16,11 @@ author1: "Mahfi Egilmez"
 sayfa1: 192
 pageread1: 14
 # 2
-# booktitle2: "-"
-# bookyear2: 0
-# author2: "-"
-# sayfa2: 0
-# pageread2: 0
+booktitle2: "Anneni ve Babani Terk Edeceksin"
+bookyear2: 2023
+author2: "Philippe Julien"
+sayfa2: 112
+pageread2: 11
 #
 #
 #
@@ -72,6 +72,28 @@ _by_ {{ page.author1 }}
 
 <br />
 
+ <div style="clear: both"></div>
+ <br />
+
+⁜ {{ page.read | plus: 2 }}
+
+{{ page.booktitle2 }} ({{ page.bookyear2 }})
+_by_ {{ page.author2 }}
+
+<div style="font-size: 50%; font-style: italic;">
+   {{ page.sayfa2 }} sayfa
+  </div>
+
+ <div style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+   {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+ </div>
+
+ <div>
+   <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2023">
+     {{ page.pageread2 }}/{{ page.sayfa2 }}
+   </span>
+ </div>
  <div style="clear: both"></div>
  <br />
 
