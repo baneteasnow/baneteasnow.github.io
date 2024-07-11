@@ -16,11 +16,11 @@ author1: "Mahfi Egilmez"
 sayfa1: 192
 pageread1: 14
 # 2
-booktitle2: "Anneni ve Babani Terk Edeceksin"
-bookyear2: 2023
-author2: "Philippe Julien"
-sayfa2: 112
-pageread2: 11
+booktitle2: "Sex at Dawn - The Prehistoric Origins of Modern Sexuality"
+bookyear2: 2017
+author2: "Christopher Ryan, Cacilda Jethá"
+sayfa2: 512
+pageread2: 193
 #
 #
 #
@@ -47,7 +47,7 @@ pageread2: 11
 # <br />
 #
 #
-read: 23
+read: 24
 ---
 
 ⁜ {{ page.read | plus: 1 }}
