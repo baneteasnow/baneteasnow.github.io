@@ -10,17 +10,17 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-07-01
 published: true
 # 1
-booktitle1: "Orneklerle Kolay Ekonomi"
+booktitle1: "Incognito"
 bookyear1: 2019
-author1: "Mahfi Egilmez"
-sayfa1: 192
-pageread1: 14
+author1: "David Eagleman"
+sayfa1: 304
+pageread1: 38
 # 2
-booktitle2: "Sex at Dawn - The Prehistoric Origins of Modern Sexuality"
-bookyear2: 2017
-author2: "Christopher Ryan, Cacilda Jethá"
-sayfa2: 512
-pageread2: 193
+booktitle2: "Çatalın Neden Tadı Yoktur?"
+bookyear2: 2023
+author2: "Devis Belluci"
+sayfa2: 160
+pageread2: 25
 #
 #
 #
