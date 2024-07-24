@@ -10,7 +10,7 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-07-24
 published: true
 # 1
-booktitle1: "Beyin"
+booktitle1: "The Brain - The Story of You"
 bookyear1: 2018
 author1: "David Eagleman"
 sayfa1: 272

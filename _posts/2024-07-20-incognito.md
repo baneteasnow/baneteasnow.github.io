@@ -11,7 +11,7 @@ sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/9827912-incognito"
 description: ""
 last_modified_at: 2024-07-20
-published: false
+published: true
 posted: 2024-07-20
 tag: "fen bilimleri"
 instagram: "no"
