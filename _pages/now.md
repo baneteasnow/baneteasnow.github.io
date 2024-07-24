@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-07-01
+last_modified_at: 2024-07-24
 published: true
 # 1
-booktitle1: "Incognito"
-bookyear1: 2019
+booktitle1: "Beyin"
+bookyear1: 2018
 author1: "David Eagleman"
-sayfa1: 304
-pageread1: 38
+sayfa1: 272
+pageread1: 7
 # 2
 booktitle2: "Çatalın Neden Tadı Yoktur?"
 bookyear2: 2023
@@ -47,7 +47,7 @@ pageread2: 25
 # <br />
 #
 #
-read: 26
+read: 27
 ---
 
 ⁜ {{ page.read | plus: 1 }}
