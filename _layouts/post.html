@@ -6,32 +6,37 @@ layout: default
 <!-- <span class="link1">{%-include back_link.html-%}</span> -->
 
 <article>
-  <p class="post-meta" style="font-size: 85% !important;">
-          <a href="#links" style="font-style: normal; color: #777; font-size: 130% !important;">&#10086;</a>
-        {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
-        {% assign mes = site.data.tr.meses[mes_index] %}
-    <time datetime="{{ page.date }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
- </p>
-  <i><h4><a href="/">{{ page.title }}</a></h4></i>
-<div class="ind10">
-  {{ content }}
-  </div>
+	<p
+		class="post-meta"
+		style="font-size: 85% !important"
+	>
+		<a
+			href="#links"
+			style="font-style: normal; color: #777; font-size: 90% !important"
+		>
+			{% assign mes_index = page.date | date: "%-m" | minus: 1 %} {% assign mes
+			= site.data.tr.meses[mes_index] %}
+			<time datetime="{{ page.date }}"
+				>{{ mes }} {{ page.date | date: "%-d, %Y" }}</time
+			></a
+		>
+	</p>
+	<i
+		><h4><a href="/">{{ page.title }}</a></h4></i
+	>
+	<div class="ind10">{{ content }}</div>
 </article>
 <br />
 
 <div class="fs85">
-{%-include post-footer.html-%}
-{%-include post-tag.html-%} 
-  </div>
+	{%-include post-footer.html-%} {%-include post-tag.html-%}
+</div>
 {%-include star-rating.html-%}
-<div class="fs85">
-{%-include copy.html-%}
-{%-include zettelkasten.html-%}
-  </div>
+<div class="fs85">{%-include copy.html-%} {%-include zettelkasten.html-%}</div>
 
 <br />
 {%-include post-nav1.html-%}
-<div style="clear: both;"></div>
+<div style="clear: both"></div>
 <br />
 <br />
 {%-include footer-links8.html-%}
