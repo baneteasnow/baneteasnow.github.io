@@ -6,21 +6,23 @@ layout: default
 <!-- <span class="link1">{%-include back_link.html-%}</span> -->
 
 <article>
-	<p
-		class="post-meta"
-		style="font-size: 85% !important"
+	<i
+		><p
+			class="post-meta"
+			style="font-size: 85% !important"
+		>
+			<a
+				href="#links"
+				style="font-style: normal; color: #777; font-size: 90% !important"
+			>
+				{% assign mes_index = page.date | date: "%-m" | minus: 1 %} {% assign
+				mes = site.data.tr.meses[mes_index] %}
+				<time datetime="{{ page.date }}"
+					>{{ mes }} {{ page.date | date: "%-d, %Y" }}</time
+				></a
+			>
+		</p></i
 	>
-		<a
-			href="#links"
-			style="font-style: normal; color: #777; font-size: 90% !important"
-		>
-			{% assign mes_index = page.date | date: "%-m" | minus: 1 %} {% assign mes
-			= site.data.tr.meses[mes_index] %}
-			<time datetime="{{ page.date }}"
-				>{{ mes }} {{ page.date | date: "%-d, %Y" }}</time
-			></a
-		>
-	</p>
 	<i
 		><h4><a href="/">{{ page.title }}</a></h4></i
 	>

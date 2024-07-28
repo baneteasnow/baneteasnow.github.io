@@ -4,21 +4,23 @@ layout: default
 ---
 
 <header>
-	<p
-		class="post-meta"
-		style="font-size: 85% !important"
+	<i
+		><p
+			class="post-meta"
+			style="font-size: 85% !important"
+		>
+			<a
+				href="#links"
+				style="font-style: normal; color: #777; font-size: 90% !important"
+			>
+				{% assign mes_index = site.posts.first.date | date: "%-m" | minus: 1 %}
+				{% assign mes = site.data.tr.meses[mes_index] %}
+				<time datetime="{{ site.posts.first.date }}"
+					>{{ mes }} {{ site.posts.first.date | date: "%-d, %Y" }}</time
+				></a
+			>
+		</p></i
 	>
-		<a
-			href="#links"
-			style="font-style: normal; color: #777; font-size: 90% !important"
-		>
-			{% assign mes_index = site.posts.first.date | date: "%-m" | minus: 1 %} {%
-			assign mes = site.data.tr.meses[mes_index] %}
-			<time datetime="{{ site.posts.first.date }}"
-				>{{ mes }} {{ site.posts.first.date | date: "%-d, %Y" }}</time
-			></a
-		>
-	</p>
 
 	<p
 		class="title2"
