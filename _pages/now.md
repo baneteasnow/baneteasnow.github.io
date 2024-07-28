@@ -7,13 +7,13 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-07-24
+last_modified_at: 2024-07-28
 published: true
 # 1
-booktitle1: "The Brain - The Story of You"
-bookyear1: 2018
-author1: "David Eagleman"
-sayfa1: 272
+booktitle1: "Hayat ve Diğer Hastalıklar"
+bookyear1: 2023
+author1: "Alper Hasanoğlu"
+sayfa1: 360
 pageread1: 7
 # 2
 booktitle2: "Çatalın Neden Tadı Yoktur?"
@@ -47,7 +47,7 @@ pageread2: 25
 # <br />
 #
 #
-read: 27
+read: 28
 ---
 
 ⁜ {{ page.read | plus: 1 }}
