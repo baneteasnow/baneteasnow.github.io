@@ -22,37 +22,37 @@ publisher: "ODTU Yayincilik"
 image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 
-William Poundstone tarafından yazılan bu kitap, bir dönem internette ve sosyal medyada oldukça popüler olan 'alışılmışın dışında - ilginç mülakat soruları' başlıklı yazıların kaynağı aslında.
+William Poundstone tarafından yazılan bu kitap, bir dönem internette ve sosyal medyada popüler olan “alışılmışın dışında - ilginç mülakat soruları” yazılarının kaynağıdır.
 
-- Neden kanalizasyon kapakları kare değil de daire biçimindedir?
-- Neden bira kutularının altı ve üstü, ortasından daha dardır?
+- Neden kanalizasyon kapakları kare değil de yuvarlaktır?
+- Neden bira kutularının üstü ve altı, ortasından daha dardır?
 - Dünyada kaç tane piyano akortçusu vardır?
-- Aynadaki bir görüntüde neden 'yukarı ile aşağı' yer değiştirmez de 'sağ ile sol' yer değiştirir?
+- Aynadaki görüntüde neden yukarı ve aşağı yer değiştirmez de sağ ve sol yer değiştirir?
 
-Kitap, Microsoft'un mülakat tarzı üzerine şekillenerek, geleneksel tarz mülakat soruları ile ('Beş yıl sonra kendinizi nerede görüyorsunuz?', 'Güçlü ve gelişime açık yönleriniz nelerdir?' gibi sorular) davranışçı mülakat sorularından (STAR tekniği - 'Geçmişte karşılaştığınız ve üstesinden geldiğiniz bir sorunu anlatın.', 'Geçmişte, bir işi belirli bir sürede yetiştirmek zorunda olduğunuz, ancak zamanın yetersiz olduğu bir durumu anlatın.' gibi sorular) bahsederek başlıyor.
+Kitap, Microsoft’un mülakat tarzını ele alarak, geleneksel mülakat sorularının (“Beş yıl sonra kendinizi nerede görüyorsunuz?”, “Güçlü ve zayıf yönleriniz nelerdir?”) yanı sıra davranışsal mülakat sorularını (STAR tekniği - “Geçmişte karşılaştığınız ve üstesinden geldiğiniz bir sorunu anlatın.”, “Zamanın yetersiz olduğu bir durumu ve nasıl başa çıktığınızı anlatın.”) da açıklıyor.
 
-Kitaba göre, standart bir iş görüşmesinde görüşmeci bilinçsiz olarak aday ile karşılaştığı anda kendisi ile ilgili bir ilk izlenim oluşturur ve buna göre bir karar verir. Bu durumu önlemek için her ne kadar STAR tekniği geliştirilmiş olsa da, aday ancak sorulara verdiği cevaplarla değerlendirilebilir, daha fazlası ile değil. Mülakat teknikleri işe alım uzmanları tarafından bilindiği gibi, aynı zamanda pek çok aday tarafından da bu tekniklere nasıl cevap verirlerse başarılı sayılacakları da biliniyor. Bu nedenle adaylardan bazılarının beklenen cevapları vermeye çalıştıkları düşünülürse, bu durum da yanıltıcı hale gelebilir. Bu tür durumları önlemek adına, yukarıda örnekleri bulunan 'zeka soruları' olarak tanımlanabilecek sorular devreye girer kitaba göre. Aslında bu tür soruların bazıları çözümü imkansız sorulardır. Önemli olan standart düşünme tarzının dışına çıkabilmek ve soruları iyi yorumlamaktır. Adaydan bazı durumlarda görüşmeciye çeşitli sorular sorması beklenir. (Örneğin... tasarlayın gibi sorularda. Böyle bir sorunun ardından aday kim için tasarlanması gerekiyor? Nerede kullanacak? gibi sorularla ipucu toplamalıdır.)
+Kitaba göre, standart bir iş görüşmesinde görüşmeci, adayı gördüğü anda bilinçsiz olarak bir ilk izlenim oluşturur ve buna göre karar verir. Bu durumu önlemek için STAR tekniği geliştirilmiş olsa da, aday sadece verdiği cevaplarla değerlendirilebilir. Mülakat teknikleri hem işe alım uzmanları hem de birçok aday tarafından bilinir. Bu nedenle bazı adaylar, beklenen cevapları vermeye çalışarak yanıltıcı olabilir.
 
-Bazı soruların (örneğin bahsi geçen tasarım soruları) tek bir doğru yanıtı olmayabilir. Microsoft'a göre, bu sorularla adayın genel problem çözme becerileri hakkında fikir elde edilir ve adaylar yaptıklarına göre değil yapabileceklerine göre değerlendirilmektedir, yani geleceğe bakılmaktadır. Seçilen kişiler ise, henüz büyük bir başarı elde etmemiş ama gelecekte isimlerinden fazlaca söz edilecek olarak sayılırlar. Bu soruları yaygın olarak kullanan Microsoft, adayın mezun olduğu okul ile deneyimini pek önemsememekte bunun yerine adayın karmaşık bir durumla nasıl başettiğini ve çözüme giderken hangi değerlendirmeleri yaptığını gözlemlemektedir.
+Bu tür durumları önlemek için kitapta, “zeka soruları” olarak adlandırılan sorular devreye girer. Bu soruların bazıları çözümsüzdür. Önemli olan, adayın standart düşünme tarzının dışına çıkabilmesi ve soruları iyi yorumlayabilmesidir. Bazen adayın görüşmeciye çeşitli sorular sorması beklenir. Örneğin, “tasarlayın” gibi sorularda aday, “Kim için tasarlanması gerekiyor?” ve “Nerede kullanılacak?” gibi sorularla ipucu toplamalıdır.
 
-Kitapta yer verilen soruların cevaplarının bulunduğu ayrı bir bölüm de yer alıyor. Bu açıdan sadece mülakatlarla ilgilenenler için değil aynı zamanda IQ testlerinin temelini öğrenmek isteyenler, Wall Street için yapılan stres mülakatlarını, Silikon Vadisi'nin kurulma öyküsünü merak edenler ile bu tür zeka sorularını çözmekten zevk alanlar için de faydalı ve ilginç bir kitap.
+Bazı soruların (örneğin tasarım soruları) tek bir doğru yanıtı olmayabilir. Microsoft’a göre, bu sorularla adayın genel problem çözme becerileri değerlendirilir ve adaylar yaptıklarına değil, yapabileceklerine göre değerlendirilir, yani geleceğe odaklanılır. Seçilen kişiler, henüz büyük bir başarı elde etmemiş olabilirler, ancak gelecekte büyük başarılara imza atacak potansiyel olarak görülürler. Microsoft, bu soruları yaygın olarak kullanarak adayın mezun olduğu okul ve deneyimden ziyade, karmaşık bir durumla nasıl başa çıktığını ve çözüme giderken hangi değerlendirmeleri yaptığını gözlemler.
 
-Tahminlere göre, bir tam gün süren mülakatlar için Redmond'a davet edilenlerin dörtte birinden azı bir iş teklifi almaktadır. (sayfa 11)
+Kitapta, soruların cevaplarının bulunduğu ayrı bir bölüm de yer alıyor. Bu nedenle, sadece mülakatlarla ilgilenenler için değil, aynı zamanda IQ testlerinin temelini öğrenmek isteyenler, Wall Street’teki stres mülakatlarını, Silikon Vadisi’nin kuruluş öyküsünü merak edenler ve bu tür zeka sorularını çözmekten zevk alanlar için de faydalı ve ilginç bir kitaptır.
 
-Uygun olmayan kişileri ise almaktansa, bazı iyi insanları elden kaçırmak daha iyidir. (sayfa 138)
+> Tahminlere göre, bir tam gün süren mülakatlar için Redmond’a davet edilenlerin dörtte birinden azı bir iş teklifi almaktadır. (sayfa 11)
 
-Bir soruyu, iş başvurusunda bulunanlara sormadan önce, kendinize şu iki soruyu sormalısınız: Bu soruya vereceği iyi bir yanıttan dolayı birini işe alır mıyım? ve bu soruya vereceği kötü bir yanıttan dolayı birini geri çevirmek ister miyim? (sayfa 135)
+> Uygun olmayan kişileri ise almaktansa, bazı iyi insanları elden kaçırmak daha iyidir. (sayfa 138)
 
-Yazarın bu tür sorularla mülakat yapmak isteyenlere yönelik birkaç önerisi de bulunuyor. (sayfa 132'den itibaren)
+> Bir soruyu, iş başvurusunda bulunanlara sormadan önce, kendinize şu iki soruyu sormalısınız: Bu soruya vereceği iyi bir yanıttan dolayı birini işe alır mıyım? ve bu soruya vereceği kötü bir yanıttan dolayı birini geri çevirmek ister miyim? (sayfa 135)
 
-Esas amaç, işe alım sürecinde karar vermeyi mümkün olduğunca kolaylaştıracak sorular sormaktır.
+> Yazarın bu tür sorularla mülakat yapmak isteyenlere yönelik birkaç önerisi de bulunuyor. (sayfa 132’den itibaren)
 
-Öyle sorular seçilmelidir ki, aday bu sorularla önceden karşılaşmış olsa bile, ancak çözüm yöntemini benimsemişse ve zekice bir kavrayışla doğru yanıtı verebilmelidir.
+Esas amaç, işe alım sürecinde karar vermeyi mümkün olduğunca kolaylaştıracak sorular sormaktır. Öyle sorular seçilmelidir ki, aday bu sorularla önceden karşılaşmış olsa bile, ancak çözüm yöntemini benimseyip zekice bir kavrayışla doğru yanıtı verebilmelidir.
 
-Stres mülakatlarının çoğunlukla adayın stres karşısındaki gerçek performansını göstermeyeceği, mülakatlarda yaratılan stresin yapay olduğu unutulmamalıdır.
+Stres mülakatlarının çoğunlukla adayın gerçek performansını göstermediği, çünkü mülakatta yaratılan stresin yapay olduğu unutulmamalıdır.
 
-Adayların bulmacalara verdiği değer, deneyimi ile ters orantılıdır. Deneyimi belli bir süreyi geçen adaylar kendilerine bu tür sorular yöneltilmesini hoş karşılamayabilirler.
+Adayların bulmacalara verdiği değer, deneyimi ile ters orantılıdır. Deneyimi belirli bir süreyi geçen adaylar, bu tür soruların sorulmasını hoş karşılamayabilirler.
 
-Kitap yanlış ise alimin maliyetinin çok yüksek olması nedeni ile yeniliğe dayalı firmaların bu tür soruları kullanarak bir ön eleme yapabileceğini ve aynı zamanda bu sorularla adayların problem çözme becerileri ile farklı düşünme tarzlarını ortaya çıkarılabileceğini belirtmektedir.
+Kitap, yeniliğe dayalı firmaların bu tür soruları kullanarak bir ön eleme yapabileceğini ve bu sorularla adayların problem çözme becerileri ile farklı düşünme tarzlarını ortaya çıkarabileceğini belirtmektedir. Yanlış seçimlerin maliyetinin yüksek olduğu durumlarda bu yöntemler faydalı olabilir.
 
-Kitabın son kısmında Microsoft tarzı mülakat sorularına yer veren internet sitelerinin adreslerini bulabilirsiniz.
+Kitabın sonunda, Microsoft tarzı mülakat sorularına yer veren internet sitelerinin adresleri de yer alıyor.
