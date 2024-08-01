@@ -7,20 +7,20 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-07-28
+last_modified_at: 2024-08-01
 published: true
 # 1
 booktitle1: "Hayat ve Diğer Hastalıklar"
 bookyear1: 2023
 author1: "Alper Hasanoğlu"
 sayfa1: 360
-pageread1: 7
+pageread1: 35
 # 2
 booktitle2: "Çatalın Neden Tadı Yoktur?"
 bookyear2: 2023
 author2: "Devis Belluci"
 sayfa2: 160
-pageread2: 25
+pageread2: 42
 #
 #
 #
