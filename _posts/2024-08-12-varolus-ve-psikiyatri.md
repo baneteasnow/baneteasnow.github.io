@@ -10,9 +10,9 @@ yil: "2023"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/203259520-atal-n-neden-tad-yoktur"
 description: ""
-last_modified_at: 2024-07-25
+last_modified_at: 2024-08-25
 published: false
-posted: 2024-07-25
+posted: 2024-08-25
 tag: "fen bilimleri"
 instagram: "no"
 insta: "no"
