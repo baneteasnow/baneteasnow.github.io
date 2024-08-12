@@ -2,27 +2,27 @@
 # to be updated
 layout: post
 category: book
-title: "Çatalın Neden Tadı Yoktur? | Devis Belluci (Kitap)"
-kitap: "Çatalın Neden Tadı Yoktur? - Ve Bilimi Sevdiren Birçok İlginç Soru"
+title: "Varoluş ve Psikiyatri | Engin Geçtan (Kitap)"
+kitap: "Varoluş ve Psikiyatri"
 tr: "-"
-yazar: "Devis Belluci"
-yil: "2023"
-sayfa: "160"
-goodreads: "https://www.goodreads.com/book/show/203259520-atal-n-neden-tad-yoktur"
+yazar: "Engin Geçtan"
+yil: "2021"
+sayfa: "208"
+goodreads: "https://www.goodreads.com/book/show/16282217-varolu-ve-psikiyatri"
 description: ""
-last_modified_at: 2024-08-25
+last_modified_at: 2024-08-12
 published: false
-posted: 2024-08-25
-tag: "fen bilimleri"
+posted: 2024-08-12
+tag: "psikoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
 rating: "3"
 eng: ""
 openai: "no"
-num: "426"
-publisher: "Timas Genc"
-image: "/assets/new/catalin-neden-tadi-yoktur.jpg"
+num: "428"
+publisher: "Metis"
+image: "/assets/new/varolus-ve-psikiyatri.jpg"
 update: "tobeupdated"
 ---
 
