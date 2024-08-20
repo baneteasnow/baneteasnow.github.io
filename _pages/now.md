@@ -14,13 +14,13 @@ booktitle1: "Varoluş ve Psikiyatri"
 bookyear1: 2021
 author1: "Engin Geçtan"
 sayfa1: 208
-pageread1: 31
+pageread1: 94
 # 2
 booktitle2: "Çatalın Neden Tadı Yoktur?"
 bookyear2: 2023
 author2: "Devis Belluci"
 sayfa2: 160
-pageread2: 67
+pageread2: 84
 #
 #
 #
