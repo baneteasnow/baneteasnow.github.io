@@ -7,20 +7,20 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-08-12
+last_modified_at: 2024-08-25
 published: true
 # 1
-booktitle1: "Varoluş ve Psikiyatri"
-bookyear1: 2021
-author1: "Engin Geçtan"
-sayfa1: 208
-pageread1: 94
+booktitle1: "Hayat Bilgisi - Bir Hayat Acemisinin Notları"
+bookyear1: 2024
+author1: "Alper Hasanoğlu"
+sayfa1: 320
+pageread1: 9
 # 2
 booktitle2: "Çatalın Neden Tadı Yoktur?"
 bookyear2: 2023
 author2: "Devis Belluci"
 sayfa2: 160
-pageread2: 84
+pageread2: 85
 #
 #
 #
@@ -47,7 +47,7 @@ pageread2: 84
 # <br />
 #
 #
-read: 28
+read: 30
 ---
 
 ⁜ {{ page.read | plus: 1 }}
