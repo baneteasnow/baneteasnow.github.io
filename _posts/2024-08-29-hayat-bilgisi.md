@@ -11,7 +11,7 @@ sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/209340332-hayat-bilgisi-bir-hayat-acemisinin-notlar"
 description: ""
 last_modified_at: 2024-08-29
-published: false
+published: true
 posted: 2024-08-29
 tag: "psikoloji"
 instagram: "no"
@@ -20,7 +20,7 @@ reread: "no"
 rating: "4"
 eng: ""
 openai: "no"
-num: "427"
+num: "430"
 publisher: "Pinhan Yayincilik"
 image: "/assets/new/hayat-bilgisi.jpg"
 update: "tobeupdated"
