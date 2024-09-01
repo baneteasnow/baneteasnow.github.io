@@ -10,9 +10,9 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-09-01
 published: true
 # 1
-booktitle1: "Hayat Bilgisi - Bir Hayat Acemisinin Notları"
-bookyear1: 2024
-author1: "Alper Hasanoğlu"
+booktitle1: "It's Been a Good Life"
+bookyear1: 2007
+author1: "Isaac Asimov, Janet Jeppson Asimov"
 sayfa1: 320
 pageread1: 9
 # 2
