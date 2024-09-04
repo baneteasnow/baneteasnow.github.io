@@ -1,5 +1,5 @@
 ---
-# https://www.nonfictionbooks.xyz/toc.html
+# https://www.next52books.com/toc.html
 layout: page-9
 published: true
 last_modified_at: 2023-01-20
@@ -7,13 +7,15 @@ title: "TED Videoları"
 ---
 
 {: #toc }
-* TOC
-{:toc class="toc1"} 
+
+- TOC
+  {:toc class="toc1"}
 
 #### [The Surprising Habits of Original Thinkers | Adam Grant (TED)](#the-suprising-habits-of-original-thinkers)
+
 {: #the-suprising-habits-of-original-thinkers }
 
-Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor. 
+Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor.
 
 Grant ile bir öğrencisi tarafından gerçekleştirilen bir anket çalışmasına göre, orijinaller ne çok erkenci ne de erteleyici gruptalar. Kendilerine bir görev verildikten sonra, başka bir işle uğraşıyor gibi görünseler de aslında yaptıkları şey arka planda o görevin ayrıntıları üzerinde düşünmek. Aslında, belli bir oranda erteleme konuya taze bir bakış açısı getirmeye yarıyor. Orijinaller, bir konuda çalışmaya hızlı başlıyorlar ve çalışmalarını geç bitiriyorlar. Endişeleri ve korkularını herkesten farklı yönetiyorlar ve çoğu kötü olmak üzere pek çok fikir üretiyorlar. En sonunda ise, bu fikirlerinden bir tanesi ise yarıyor.
 
@@ -22,10 +24,11 @@ Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu
 <i>Adam Grant  
 2016  
 15 dk.  
-[TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="\_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [The Paradox of Choice | Barry Schwartz (TED)](#the-paradox-of-choice)
+
 {: #the-paradox-of-choice }
 
 Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
@@ -43,10 +46,11 @@ Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan 
 <i>Barry Schwartz  
 2005  
 21 dk.  
-[TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Sleep Is Your Superpower | Matt Walker (TED)](#sleep-is-your-superpower)
+
 {: #sleep-is-your-superpower }
 
 Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
@@ -64,6 +68,6 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 <i>Matthew Walker  
 2019  
 20 dk.  
-[TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  </i>
+[TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
 <br />

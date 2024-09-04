@@ -1,47 +1,56 @@
-
 {
-  "name":"nonfictionbooks.xyz",
-  "short_name":"nonfictionbooks.xyz",
-  "description":"nonfictionbooks.xyz - okuduğum kitaplar",
-  "icons":[
-           {
-            "src":"https://www.nonfictionbooks.xyz/assets/images/android-chrome-192x192.png",
-            "sizes":"192x192",
-            "type":"image/png",
-            "purpose": "any maskable"
-             
-           },
-           {
-            "src":"https://www.nonfictionbooks.xyz/assets/images/android-chrome-512x512.png",
-            "sizes":"512x512",
-            "type":"image/png",
-            "purpose": "any maskable"
-           }
-          ],
-  "theme_color":"#ffffcc",
-  "background_color":"#ffffcc",
-  "display":"standalone",
-  "orientation": "natural",
-  "categories": ["books"],
-  "start_url": "https://www.nonfictionbooks.xyz",
-  "shortcuts" : [
-  {
-    "name": "şimdi",
-    "url": "https://www.nonfictionbooks.xyz/now.html",
-    "description": "şimdi okuduğum kitap",
-    "icons": [{ "src": "https://www.nonfictionbooks.xyz/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
-  },
-  {
-    "name": "başka ne var?",
-    "description": "başka ne var?r",
-    "url": "https://www.nonfictionbooks.xyz/map.html",
-    "icons": [{ "src": "https://www.nonfictionbooks.xyz/assets/images/android-chrome-192x192.png", "sizes": "192x192" }]
-  }
-                ],
-  "screenshots" : [
-  {
-    "src": "https://www.nonfictionbooks.xyz/assets/images/mobile.png",
-    "sizes": "600x1299",
-    "type": "image/png"
-  }]
+	"name": "next52books.com",
+	"short_name": "next52books.com",
+	"description": "next52books.com - okuduğum kitaplar",
+	"icons": [
+		{
+			"src": "https://www.next52books.com/assets/images/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "https://www.next52books.com/assets/images/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"theme_color": "#ffffcc",
+	"background_color": "#ffffcc",
+	"display": "standalone",
+	"orientation": "natural",
+	"categories": ["books"],
+	"start_url": "https://www.next52books.com",
+	"shortcuts": [
+		{
+			"name": "şimdi",
+			"url": "https://www.next52books.com/now.html",
+			"description": "şimdi okuduğum kitap",
+			"icons": [
+				{
+					"src": "https://www.next52books.com/assets/images/android-chrome-192x192.png",
+					"sizes": "192x192"
+				}
+			]
+		},
+		{
+			"name": "başka ne var?",
+			"description": "başka ne var?r",
+			"url": "https://www.next52books.com/map.html",
+			"icons": [
+				{
+					"src": "https://www.next52books.com/assets/images/android-chrome-192x192.png",
+					"sizes": "192x192"
+				}
+			]
+		}
+	],
+	"screenshots": [
+		{
+			"src": "https://www.next52books.com/assets/images/mobile.png",
+			"sizes": "600x1299",
+			"type": "image/png"
+		}
+	]
 }

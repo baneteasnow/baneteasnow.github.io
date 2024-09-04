@@ -1,43 +1,136 @@
- <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />  
-  <title>
-    {%- if page.title -%}
-      {{ page.title }} - nonfictionbooks.xyz
-    {%- else -%}
-      {{ site.title }}
-    {%- endif -%}
-  </title>
+<head>
+	<meta charset="utf-8" />
+	<meta
+		http-equiv="X-UA-Compatible"
+		content="IE=edge"
+	/>
+	<meta
+		name="viewport"
+		content="width=device-width, initial-scale=1"
+	/>
+	<title>
+		{%- if page.title -%} {{ page.title }} - next52books.com {%- else -%} {{
+		site.title }} {%- endif -%}
+	</title>
 
-    {%-seo title=false-%}
-    {%-feed_meta-%}
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
-  <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
-  
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
-  <link rel="manifest" href="https://raw.githubusercontent.com/baneteasnow/baneteasnow.github.io/gh-pages/site.webmanifest">
-  <meta name="theme-color" content="#DDDDDD"/>
-  <link href="/splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-  <link href="/splashscreens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="apple-touch-fullscreen" content="yes" />
-  <script src="https://cdn.jsdelivr.net/gh/ncase/nutshell@1.0.1/nutshell.js"></script>
+	{%-seo title=false-%} {%-feed_meta-%}
+	<link
+		rel="shortcut icon"
+		type="image/x-icon"
+		href="{{ site.favicon | relative_url }}"
+	/>
+	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+	<link
+		rel="apple-touch-icon"
+		href="/assets/images/apple-touch-icon.png"
+	/>
+	<link
+		rel="apple-touch-icon"
+		sizes="180x180"
+		href="/assets/images/apple-touch-icon.png"
+	/>
+	<link
+		rel="icon"
+		type="image/png"
+		sizes="32x32"
+		href="/assets/images/favicon-32x32.png"
+	/>
+	<link
+		rel="icon"
+		type="image/png"
+		sizes="16x16"
+		href="/assets/images/favicon-16x16.png"
+	/>
+
+	<link
+		rel="preconnect"
+		href="https://fonts.googleapis.com"
+	/>
+	<link
+		rel="preconnect"
+		href="https://fonts.gstatic.com"
+		crossorigin
+	/>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+		rel="stylesheet"
+	/>
+
+	<link
+		rel="stylesheet"
+		href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+		crossorigin="anonymous"
+		referrerpolicy="no-referrer"
+	/>
+	<link
+		rel="manifest"
+		href="https://raw.githubusercontent.com/baneteasnow/baneteasnow.github.io/gh-pages/site.webmanifest"
+	/>
+	<meta
+		name="theme-color"
+		content="#DDDDDD"
+	/>
+	<link
+		href="/splashscreens/iphone5_splash.png"
+		media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/iphone6_splash.png"
+		media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/iphoneplus_splash.png"
+		media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/iphonex_splash.png"
+		media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/iphonexr_splash.png"
+		media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/iphonexsmax_splash.png"
+		media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/ipad_splash.png"
+		media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/ipadpro1_splash.png"
+		media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/ipadpro3_splash.png"
+		media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image"
+	/>
+	<link
+		href="/splashscreens/ipadpro2_splash.png"
+		media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)"
+		rel="apple-touch-startup-image"
+	/>
+	<meta
+		name="apple-mobile-web-app-capable"
+		content="yes"
+	/>
+	<meta
+		name="mobile-web-app-capable"
+		content="yes"
+	/>
+	<meta
+		name="apple-touch-fullscreen"
+		content="yes"
+	/>
+	<script src="https://cdn.jsdelivr.net/gh/ncase/nutshell@1.0.1/nutshell.js"></script>
 </head>

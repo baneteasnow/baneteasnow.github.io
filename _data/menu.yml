@@ -1,14 +1,12 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
-# - title: <a href="/now.html">şimdi</a> 
-# - title: <a href='https://www.nonfictionbooks.xyz/'>nonfictionbooks.xyz</a> 
+# - title: <a href="/now.html">şimdi</a>
+# - title: <a href='https://www.next52books.com/'>next52books.com</a>
 
 entries:
-
   - title: # all posts
     post_list:
       limit: 0
       show_more: false
-      show_more_text:  ... devamı # See archive...
+      show_more_text: ... devamı # See archive...
       show_more_url: archive.html
-

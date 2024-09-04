@@ -75,4 +75,4 @@ _by_ {{ page.author1 }}
  <div style="clear: both"></div>
  <br />
 
-[🍃](https://www.nonfictionbooks.xyz/now.html "şimdi okuduğum kitaplar")
+[🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")
