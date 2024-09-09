@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-09-01
+last_modified_at: 2024-09-09
 published: true
 # 1
 booktitle1: "It's Been a Good Life"
@@ -47,7 +47,7 @@ pageread1: 9
 # <br />
 #
 #
-read: 32
+read: 34
 ---
 
 ⁜ {{ page.read | plus: 1 }}
