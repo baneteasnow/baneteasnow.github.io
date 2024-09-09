@@ -10,10 +10,10 @@ title: şimdi okuduğum kitaplar
 last_modified_at: 2024-09-09
 published: true
 # 1
-booktitle1: "It's Been a Good Life"
-bookyear1: 2007
-author1: "Isaac Asimov, Janet Jeppson Asimov"
-sayfa1: 320
+booktitle1: "Bir Terapistin Arka Bahcesi"
+bookyear1: 2022
+author1: "IAlper Hasanoglu"
+sayfa1: 240
 pageread1: 9
 # 2
 # booktitle2: "Çatalın Neden Tadı Yoktur?"
