@@ -4,14 +4,14 @@ layout: post
 category: book
 title: "It's Been a Good Life | Isaac Asimov, Janet Jeppson Asimov (Kitap)"
 kitap: "It's Been a Good Life"
-tr: "-"
+tr: "Dolu Dolu Yaşadım"
 yazar: "Isaac Asimov, Janet Jeppson Asimov"
 yil: "2007"
 sayfa: "307"
 goodreads: "https://www.goodreads.com/book/show/41837.It_s_Been_a_Good_Life"
 description: ""
 last_modified_at: 2024-09-01
-published: false
+published: true
 posted: 2024-09-01
 tag: "biyografi"
 instagram: "no"

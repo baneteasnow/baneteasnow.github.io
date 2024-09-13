@@ -7,14 +7,14 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-09-09
+last_modified_at: 2024-09-13
 published: true
 # 1
-booktitle1: "Bir Terapistin Arka Bahcesi"
-bookyear1: 2022
-author1: "IAlper Hasanoglu"
-sayfa1: 240
-pageread1: 9
+booktitle1: "Hesap Lutfen!"
+bookyear1: 2023
+author1: "Vedat Milor, Nurhak Kaya"
+sayfa1: 272
+pageread1: 31
 # 2
 # booktitle2: "Çatalın Neden Tadı Yoktur?"
 # bookyear2: 2023
@@ -47,7 +47,7 @@ pageread1: 9
 # <br />
 #
 #
-read: 34
+read: 35
 ---
 
 ⁜ {{ page.read | plus: 1 }}
