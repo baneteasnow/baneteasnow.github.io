@@ -84,7 +84,7 @@ _by_ {{ page.author1 }}
 
 ⁜ {{ page.read | plus: 2 }}
 
-{{ page.booktitle2 }} ({{ page.bookyear2 }})
+{{ page.booktitle2 }} ({{ page.bookyear2 }})  
 _by_ {{ page.author2 }}
 
 <div style="font-size: 50%; font-style: italic;">
@@ -106,7 +106,7 @@ _by_ {{ page.author2 }}
 
 ⁜ {{ page.read | plus: 3 }}
 
-{{ page.booktitle3 }} ({{ page.bookyear3 }})
+{{ page.booktitle3 }} ({{ page.bookyear3 }})  
 _by_ {{ page.author3 }}
 
 <div style="font-size: 50%; font-style: italic;">
