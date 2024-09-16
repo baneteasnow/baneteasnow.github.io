@@ -11,13 +11,13 @@ sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/58212875-hesap-l-tfen"
 description: ""
 last_modified_at: 2024-09-15
-published: false
+published: true
 posted: 2024-09-15
 tag: "sosyoloji"
 instagram: "no"
 insta: "no"
 reread: "no"
-rating: "3"
+rating: "4"
 eng: ""
 openai: "no"
 num: "434"
