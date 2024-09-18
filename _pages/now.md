@@ -11,11 +11,11 @@ last_modified_at: 2024-09-18
 published: true
 
 # 1
-booktitle2: "The Big Short"
-bookyear2: 2011
-author2: "Michael Lewis"
-sayfa2: 346
-pageread2: 15
+booktitle1: "The Big Short"
+bookyear1: 2011
+author1: "Michael Lewis"
+sayfa1: 346
+pageread1: 15
 
 # 2
 booktitle2: "The Antisocial Network"
