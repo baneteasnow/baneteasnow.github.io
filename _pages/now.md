@@ -18,11 +18,11 @@ sayfa2: 346
 pageread2: 15
 
 # 2
-booktitle3: "The Antisocial Network"
-bookyear3: 2023
-author3: "Ben Mezrich"
-sayfa3: 272
-pageread3: 13
+booktitle2: "The Antisocial Network"
+bookyear2: 2023
+author2: "Ben Mezrich"
+sayfa2: 272
+pageread2: 13
 #
 #
 #
