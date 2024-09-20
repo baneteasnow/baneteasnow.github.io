@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-09-18
+last_modified_at: 2024-09-20
 published: true
 
 # 1
@@ -15,14 +15,8 @@ booktitle1: "The Big Short"
 bookyear1: 2011
 author1: "Michael Lewis"
 sayfa1: 346
-pageread1: 15
+pageread1: 43
 
-# 2
-booktitle2: "The Antisocial Network"
-bookyear2: 2023
-author2: "Ben Mezrich"
-sayfa2: 272
-pageread2: 13
 #
 #
 #
@@ -49,7 +43,7 @@ pageread2: 13
 # <br />
 #
 #
-read: 37
+read: 38
 ---
 
 ⁜ {{ page.read | plus: 1 }}
@@ -76,27 +70,5 @@ _by_ {{ page.author1 }}
 
  <div style="clear: both"></div>
  <br />
-
-⁜ {{ page.read | plus: 2 }}
-
-{{ page.booktitle2 }} ({{ page.bookyear2 }})  
-_by_ {{ page.author2 }}
-
-<div style="font-size: 50%; font-style: italic;">
- {{ page.sayfa2 }} sayfa
-</div>
-
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
- {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
-</div>
-
-<div>
-  <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
-  <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-{{ page.pageread2 }}/{{ page.sayfa2 }}
-  </span>
-</div>
-<div style="clear: both"></div>
-<br />
 
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")
