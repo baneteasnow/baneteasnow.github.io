@@ -31,6 +31,13 @@ author3: "Zeyneb Uras"
 sayfa3: 136
 pageread3: 22
 
+# 4
+booktitle4: "I Can Do It"
+bookyear4: 2019
+author4: "Louise L. Hay"
+sayfa4: 80
+pageread4: 1
+
 #
 #
 #
@@ -131,4 +138,28 @@ _by_ {{ page.author3 }}
  <div style="clear: both"></div>
  <br />
 
+⁜ {{ page.read | plus: 4 }}
+
+{{ page.booktitle4 }} ({{ page.bookyear4 }})  
+_by_ {{ page.author4 }}
+
+<div style="font-size: 50%; font-style: italic;">
+   {{ page.sayfa4 }} sayfa
+ </div>
+
+ <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
+   {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
+ </div>
+
+ <div>
+   <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
+   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
+     {{ page.pageread4 }}/{{ page.sayfa4 }}
+   </span>
+ </div>
+
+<br />
+
+<br />
+<div style="clear: both"></div>
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")
