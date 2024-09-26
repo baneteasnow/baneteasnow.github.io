@@ -15,8 +15,6 @@ last_modified_at: 2023-07-04
 published: true
 posted: 2023-07-04
 tag: "teknoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: "Hello World by Hannah Fry explores the power and consequences of algorithms in our lives, delving into their impact on different domains and urging readers to reflect on their role and influence."

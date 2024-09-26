@@ -13,8 +13,6 @@ published: true
 description: "Tobias Leenaert, How to Create a Vegan World isimli kitabında 'Veganville (Veganköy)' olarak isimlendirdiği bir dünyaya giden yolu tarif ediyor. Veganville hiç kuşkusuz ki bir ütopya. Leenaert, pragmatik bir anlayışı benimseyerek, veganlığı savunan pek çok kişiden farklı bir perspektif sunuyor."
 posted: 2021-08-18
 tag: "veganlık"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "189"

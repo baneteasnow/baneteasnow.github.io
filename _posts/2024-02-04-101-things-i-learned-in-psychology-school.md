@@ -12,10 +12,8 @@ goodreads: "https://www.goodreads.com/book/show/123025864-101-things-i-learned-i
 description: ""
 last_modified_at: 2024-02-04
 published: true
-posted: 2024-02-04 
+posted: 2024-02-04
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: ""

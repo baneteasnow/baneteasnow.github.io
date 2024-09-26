@@ -14,8 +14,6 @@ last_modified_at: 2023-09-27
 published: true
 posted: 2023-09-27
 tag: "teknoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "What To Do When Machines Do Everything by Malcolm Frank, Paul Roehrig, and Ben Pring delves into the disruptive effects of automation, artificial intelligence, and robotics on the workforce, and provides guidance on adapting to the changing landscape of work."

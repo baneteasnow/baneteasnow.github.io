@@ -13,8 +13,6 @@ description: "Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar
 posted: 2021-05-19
 last_modified_at: 2023-01-14
 tag: "minimalizm"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "173"

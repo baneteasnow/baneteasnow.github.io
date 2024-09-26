@@ -15,8 +15,6 @@ last_modified_at: 2023-06-26
 published: true
 posted: 2023-06-26
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: "Shalila Sharamon and Bodo J. Baginski's The Chakra Handbook is a comprehensive guide that provides practical information and techniques for understanding and balancing the chakra system."

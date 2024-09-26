@@ -13,8 +13,6 @@ published: true
 description: "Dört Anlaşma, genel olarak bir kişinin kendini kısıtlayan inançlarının bir süre sonra onun hayatını nasıl sınırlayıcı olduğunu ve bu kısıtları aşmanın her biri bir öğreti niteliğinde olan dört anlaşmanın uygulanmasıyla mümkün olduğundan bahsediyor."
 tag: "felsefe"
 posted: 2021-12-29
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "212"
@@ -26,4 +24,4 @@ Don Miguel Ruiz'in eski Toltek Bilgelik öğretilerini anlattığı Dört Anlaş
 1\. Anlaşma: Kullandığın Sözcükleri Özenle Seç  
 2\. Anlaşma: Hiçbir Şeyi Kişisel Algılama  
 3\. Anlaşma: Varsayımda Bulunma  
-4\. Anlaşma: Daima Yapabildiğinin En İyisini Yap  
+4\. Anlaşma: Daima Yapabildiğinin En İyisini Yap

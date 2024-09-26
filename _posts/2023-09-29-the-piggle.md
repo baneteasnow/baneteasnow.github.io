@@ -14,8 +14,6 @@ last_modified_at: 2023-09-29
 published: true
 posted: 2023-09-29
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 eng: "The Piggle: An Account of the Psychoanalytic Treatment of a Little Girl by D.W. Winnicott is a case study detailing the psychoanalytic treatment of a young girl, offering insights into child psychology and therapeutic processes."

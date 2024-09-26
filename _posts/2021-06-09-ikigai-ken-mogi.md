@@ -13,22 +13,20 @@ goodreads: "https://www.goodreads.com/book/show/36001608-the-little-book-of-ikig
 posted: 2021-06-09
 last_modified_at: 2023-01-14
 tag: "lifestyle"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "176"
 image: "/assets/new/ikigai-ken-mogi.jpg"
 ---
 
-Ken Mogi, Ikigai'nin 5 boyutu olduğunu ileterek başlıyor kitabına. (sayfa 5)  
-  
-- Ufaktan başlamak  
-- Benliği bırakmak  
-- Ahenk ve sürdürülebilirlik  
-- Küçük şeylerden sevinç duymak  
-- Şimdi ve burada olmak  
-  
+Ken Mogi, Ikigai'nin 5 boyutu olduğunu ileterek başlıyor kitabına. (sayfa 5)
+
+- Ufaktan başlamak
+- Benliği bırakmak
+- Ahenk ve sürdürülebilirlik
+- Küçük şeylerden sevinç duymak
+- Şimdi ve burada olmak
+
 Ikigai, hayatın zevklerini ve anlamlarını ifade eden Japonca bir sözcüktür; "Iki" (yaşamak) ve "gai" (sebep) sözcüklerinden oluşur. Ikigai yaşamın çeşitliliğini kucaklayan demokratik bir kavramdır. Ikigai sahibi olmak başarı getirebilir ancak başarı ikigai için gerekli bir koşul değildir. (sayfa 11)
 
 How to live to be 100+ başlıklı bir TED konuşmasında Amerikalı yazar Dan Buettner Ikigai'yi özellikle sağlık ve uzun ömre yönelik bir kültür ve yaşam tarzı olarak ele almıştı. Buettner konuşmasında, dünyada insanların daha uzun yaşadığı beş bölgedeki yaşam biçimlerinin özelliklerini açıklar. Buettner'in verdiği adla, bu 'mavi bölge (blue zone)'lerin her birinin ömrü uzatmaya katkısı olan kendi kültürü ve geleneği var. Mavi bölgelerin arasında en uzun ömür ortalaması Okinavalılar'dadır.

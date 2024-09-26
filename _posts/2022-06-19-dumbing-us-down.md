@@ -14,8 +14,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-19
 tag: "sosyoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "263"
@@ -24,7 +22,7 @@ eng: "Dumbing Us Down by John Taylor Gatto exposes the flaws of the traditional 
 image: "/assets/new/dumbing-us-down.jpg"
 ---
 
-Bir öğretmen olan John Taylor Gatto, okulların işlevini ve eğitimin gerçekte yetiştirmek istediği insan tipini Aptallaştıran Eğitim isimli kitabında tartışıyor. Gatto, yaygın kanının aksine ABD'de eğitim sisteminin gayet başarılı olduğunu ileri sürüyor. Bu görüşünün dayanak noktası kitlesel eğitimin neye hizmet ediyor olduğu. Bugün okullarda, kapitalist sistemin devamını sağlamak için gerekli işgücü yetiştiriliyor. Farklı endüstrilerin değişen talepleri, uysal, söz dinleyen, isyan etmeyen, motivasyonu yüksek insanlar gerektiriyor. Okullar da tam da bu noktada devreye giriyor ve şirketlere fiziksel, entelektüel ve duygusal açıdan bağımlı hayatın anlamını tüketimde arayan yeni mezunlar gönderiyor. Üstelik gençler şirketlerin kendilerinden bekledikleri yetkinlikleri kazanmak için eğitim almak zorunda. Bu eğitimin maliyetini -  yarı gönüllü yarı zorunlu olarak - ancak büyük finansal yüklerin altına girerek karşılayabiliyorlar, üstelik iş bulma garantileri de yok. 
+Bir öğretmen olan John Taylor Gatto, okulların işlevini ve eğitimin gerçekte yetiştirmek istediği insan tipini Aptallaştıran Eğitim isimli kitabında tartışıyor. Gatto, yaygın kanının aksine ABD'de eğitim sisteminin gayet başarılı olduğunu ileri sürüyor. Bu görüşünün dayanak noktası kitlesel eğitimin neye hizmet ediyor olduğu. Bugün okullarda, kapitalist sistemin devamını sağlamak için gerekli işgücü yetiştiriliyor. Farklı endüstrilerin değişen talepleri, uysal, söz dinleyen, isyan etmeyen, motivasyonu yüksek insanlar gerektiriyor. Okullar da tam da bu noktada devreye giriyor ve şirketlere fiziksel, entelektüel ve duygusal açıdan bağımlı hayatın anlamını tüketimde arayan yeni mezunlar gönderiyor. Üstelik gençler şirketlerin kendilerinden bekledikleri yetkinlikleri kazanmak için eğitim almak zorunda. Bu eğitimin maliyetini - yarı gönüllü yarı zorunlu olarak - ancak büyük finansal yüklerin altına girerek karşılayabiliyorlar, üstelik iş bulma garantileri de yok.
 
 Biraz ondan biraz bundan mantığı ile okullarda sunulan eğitime maruz kalan çoğu öğrenci en değerli yetisini yani tutku sahibi olmayı kaybediyor. Sonuç tam bir karmaşanın ortaya çıkması oluyor, öğrenciler de bu karmaşaya hem okulda hem de evde o kadar uzun süre maruz kalıyorlar ki, bunu kanıksıyorlar. (karmaşa) Gatto, bir ilkokul öğretmeni olarak öğrencilerine 'sınıftaki yerlerini' bilmeyi öğrettiğini anlatıyor. Başarılı olan öğrenciler 'bir üst sınıfa' geçmeye hak kazanıyor. Sınıf içinde rekabet var. Ama bu sınıfın üyeleri hangi gerekçelerle yanyana gelmiş kimse sormuyor. Öğrencilerin herbirinin kendine ait numaraları var. Bu numaralar adeta herkesin piramitte bir yeri olduğu mesajını veriyor. )sınıftaki yer)
 
@@ -38,6 +36,6 @@ Sınıftaki en büyük beklenti, ne yapılması gerektiği direktifinin öğretm
 
 Gatto, bir zamanların Amerikası'nda makbul olanın kendi adına söz söylemek olduğunu, orijinal fikirlerin birbiri ile yarıştığını, makbul olanın bağımsız olarak bir şeyler başarabilmek olduğunu hatırlatıyor. Kendi adına düşünebilen, sorgulayabilen bireyler yerini okullar aracılığı ile gerçekleştirilen toplum mühendisliği ile sıradanlaşan, bütün içinde kendini sadece bir nokta olarak gören bireylere bıraktı. Gatto, bu açıdan okulların oldukça başarılı olduğunu vurguluyor. Okuldaki eğitimin verdiği yedi ders, karmaşa, sınıftaki yer, ilgisizlik, duygusal ve düşünsel bağlılık, koşullu öz saygı ve gözetim kendi parlak yeteneklerini keşfedemeyen bunun yerine toplumda bulunduğu yeri kabullenmiş kişiler yaratıyor, uzun süre bir konuya odaklanamayan, zaman algısı zayıflamış bireyler. Okuldaki eğitimin yıllardır değişmeyen tek unsuru kullanılan yöntem.
 
-Gatto, çözüm olarak daha az okul ve evde eğitiimi öneriyor. 
+Gatto, çözüm olarak daha az okul ve evde eğitiimi öneriyor.
 
 "ABD'de eğitimin ayağına dolanan şey,büyürken izlenecek tek doğru yolun olduğunu söyleyen bir toplum mühendisliği kuramıdır. Bu kuram, ön yüzünde George Washington resmi bulunan bir dolarlık banknotlarımızın arka yüzünde, tepesinde göz bulunan bir piramitle simgelenen eski Mısır'a ait bir fikirdir. Herkes, piramitteki konumuyla tanımlanan birer tuğladır. Bu kuram birçok farklı biçimde karşımıza çıkar ama aslında başkalarının zihnini denetlemeyi, egemenlik kurmayı ve bu egemenliği korumada kullanılacak müdahale stratejilerini takıntı haline getiren zihinlerin dünya görüşüne işaret etmektedir." (sayfa 96)

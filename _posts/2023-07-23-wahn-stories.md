@@ -15,8 +15,6 @@ last_modified_at: 2023-07-23
 published: true
 posted: 2023-07-23
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 eng: "Wahn: Stories, written by Christof M. Kessler, is a book that delves into the complexities of the human mind by sharing fictional stories from the field of neurology."

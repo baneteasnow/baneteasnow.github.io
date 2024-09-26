@@ -13,7 +13,6 @@ description: "Peynir Tuzağı, yıllardır pek çok kişinin dünyanın en sağl
 last_modified_at: 2023-01-14
 posted: 2021-04-21
 tag: "beslenme"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "168"

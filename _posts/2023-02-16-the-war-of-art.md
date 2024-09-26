@@ -14,8 +14,6 @@ last_modified_at: 2023-02-16
 published: true
 posted: 2023-02-16
 tag: "yazmak ve yaratıcılık"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "305"
@@ -26,9 +24,10 @@ image: "/assets/new/the-war-of-art.jpg"
 
 Profesyonel olarak yazarlık yapanlar, asıl zor olanın yazmak değil, yazmaya başlamak olduğunu bilirler. Öncelikle, dirençle mücadele edip yazmaya başlamak gerekir. Ortaya çıkan ürün ikincil sırada gelir, niteliği ise sonrasında değerlendirilir.
 
-Pek çok kişi iki ayrı yaşama  sahiptir; biri yaşanılan hayat, diğeri ise saklı, yaşanamayan hayat. Direnç ise, bu iki ayrı yaşamın tam ortasında yer alır. İlk adımı atmak öylesine zordur ki, dirence yenik düşmemek içten bile değildir.
+Pek çok kişi iki ayrı yaşama sahiptir; biri yaşanılan hayat, diğeri ise saklı, yaşanamayan hayat. Direnç ise, bu iki ayrı yaşamın tam ortasında yer alır. İlk adımı atmak öylesine zordur ki, dirence yenik düşmemek içten bile değildir.
 
 ### [Direnç ve Özellikleri](#direnc-ve-ozellikleri)
+
 {: #direnc-ve-ozellikleri }  
 _Düşmanı Tanımlamak_
 
@@ -56,16 +55,18 @@ Direnç, anlık hazlar yerine uzun vadeli bir gelişim, sağlık ve bütünlük 
 - Direnç korku olarak deneyimlenebilir. Korku, tıpkı tereddüt gibi bir göstergedir. Direnci yenmek için kullanılabilir.
 
 ### [Dirençle Mücadele](#direncle-mucadele)
+
 {: #direncle-mucadele }  
 _Profesyonelleşme_
 
 Bir işi profesyonel olarak yapan kişi ile amatör olarak yapan kişinin yaklaşımı farklıdır. (Buradaki profesyonellik, bir meslek grubunu temsilen kullanılmamaktadır.)
 
-Profesyonel kazanmak için oynar, amatör ise eğlence için. 
+Profesyonel kazanmak için oynar, amatör ise eğlence için.
 Profesyonel işini yapmaktadır, amatör ise hobisini.
 Profesyonel tam zamanlı olarak işi yapar, amatör ise yarı zamanlı.
 
 Profesyoneli diğerlerinden ayıran bazı unsurlar vardır. Profesyonel,
+
 > her gün kendini göstermek zorundadır.  
 > ne olursa olsun bu işi yapmaya devam eder.  
 > tüm günü işte geçer.  
@@ -75,7 +76,7 @@ Profesyoneli diğerlerinden ayıran bazı unsurlar vardır. Profesyonel,
 > kendini bir tek işi ile tanımlamaktan kaçınır. _(Amatör ise, tam tersine kendini hobileriyle tanımlamaya eğilimlidir.)_  
 > işin gerektirdiği teknik konularda ustadır.  
 > kendi işine espri ile yaklaşabilir.  
-> gerçek hayatta övgü ve suçlamaları kabul eder. _(Amatör ise eleştirilere pek hazır değildir, kullanması gereken tekniklerde pek usta değildir. )_  
+> gerçek hayatta övgü ve suçlamaları kabul eder. _(Amatör ise eleştirilere pek hazır değildir, kullanması gereken tekniklerde pek usta değildir. )_
 
 Profesyonellerin diğer özellikleri;
 
@@ -91,11 +92,11 @@ Profesyonellerin diğer özellikleri;
 - Profesyonel kişi yardım istemekten çekinmez.
 - Profesyonel kişinin enstrümanıyla arasında mesafe vardır.
 - Profesyonel kişi hatayı (ya da başarıyı) kişiselleştirmez.
-	> Profesyonel kişi reddedilmeyi kişiselleştirmez.  
-	> Profesyonel kişi, kendisini, kendi performans alanının uzağında durmak için özellikle eğitir.  
-	> Profesyoneller işlerini severler.  
-	> Profesyoneller, geçerliliklerini kendi kendilerine denerlerler.  
-	> Profesyoneller eleştiriye açıktır.  
+  > Profesyonel kişi reddedilmeyi kişiselleştirmez.  
+  > Profesyonel kişi, kendisini, kendi performans alanının uzağında durmak için özellikle eğitir.  
+  > Profesyoneller işlerini severler.  
+  > Profesyoneller, geçerliliklerini kendi kendilerine denerlerler.  
+  > Profesyoneller eleştiriye açıktır.
 - Profesyonel kişi zorluklara tahammül eder.
 - Profesyonel kişi kendi geçerliliğini kendisi denetler.
 - Profesyonel kişi sınırlarını bilir.

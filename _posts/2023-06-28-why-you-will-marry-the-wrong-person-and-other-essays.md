@@ -15,8 +15,6 @@ last_modified_at: 2023-06-28
 published: true
 posted: 2023-06-28
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: "The School of Life tarafından yazılan Neden Yanlış Kişiyle Evleneceksiniz adlı kitap, modern ilişkiler üzerine düşündüren içgörüler sunar ve aşka daha gerçekçi bir yaklaşımı teşvik eder."

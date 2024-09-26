@@ -13,8 +13,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2021-11-21
 tag: "biyografi"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 num: "205"

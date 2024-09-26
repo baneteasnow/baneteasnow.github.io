@@ -15,8 +15,6 @@ last_modified_at: 2023-06-16
 published: true
 posted: 2023-06-16
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: "Why Do I Feel Like an Imposter? by Sandi Mann explores the phenomenon of imposter syndrome and offers practical strategies to overcome feelings of self-doubt and inadequacy. It provides insights into the causes, impact, and ways to combat imposter syndrome in various areas of life."

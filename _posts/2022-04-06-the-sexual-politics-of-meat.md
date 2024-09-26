@@ -13,8 +13,6 @@ published: true
 description: "Carol J. Adams, bir ekofeminist, hayvan hakları savunucusu ve aktivist olarak kaleme aldığı Etin Cinsel Politikası isimli kitabında erkek egemen toplumun kadınlar ve hayvanlar üzerinde kurduğu baskı ile kullanılan dilin ve anlatım tarzının mevcut kültürü nasıl şekillendirdiğini anlatıyor."
 tag: "etik"
 posted: 2022-04-06
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "237"

@@ -13,8 +13,6 @@ goodreads: "https://www.goodreads.com/book/show/34466958-bullshit-jobs"
 posted: 2021-06-02
 last_modified_at: 2023-01-14
 tag: "sosyoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "175"

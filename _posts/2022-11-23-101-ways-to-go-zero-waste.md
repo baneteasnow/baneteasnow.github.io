@@ -14,8 +14,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-11-23
 tag: "sıfır atık yaşam"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 num: "290"
@@ -24,7 +22,7 @@ eng: "101 Ways to Go Zero Waste by Kathryn Kellogg is a practical and inspiring 
 image: "/assets/new/101-ways-to-go-zero-waste.jpg"
 ---
 
-Kathryn Kellogg, Sıfır Atık İçin 101 Yol isimli kitabında çevreye duyarlı atıksız bir yaşam için 101 farklı öneri getiriyor. 
+Kathryn Kellogg, Sıfır Atık İçin 101 Yol isimli kitabında çevreye duyarlı atıksız bir yaşam için 101 farklı öneri getiriyor.
 
 > Sıfır atığın amacı çöp sahalarına hiçbir şey göndermemektir. İhtiyaç duymadıklarımızı azaltmak, elimizden geldiğince tekrar kullanmak, geri dönüşüme olabildiğince az atık göndermek ve kalanlarla da kompost yapmaktır. - s.17
 
@@ -36,7 +34,7 @@ Kathryn Kellogg, Sıfır Atık İçin 101 Yol isimli kitabında çevreye duyarl�
 
 > Çöp sahaları oldukça sorunlu. Organik maddelerin doğru şekilde bozunması için yeterince hava yoktur. Ayrıca, piller, temizlik maddeleri, küçük elektronik aletler ve çöp sahasına bırakılmaması gereken diğer tüm maddelerden gelen toksinler, toprağa sızar, yeraltı sularına, denizlere, okyanuslara taşınır. - s.14
 
-> Plymouth Üniversitesi,nin 2016'da yaptığı bir araştırmaya göre, bir makine dolusu çamaşırla, 700000,e kadar mikroplastik tanecik su yollarına karışır.  - s.16
+> Plymouth Üniversitesi,nin 2016'da yaptığı bir araştırmaya göre, bir makine dolusu çamaşırla, 700000,e kadar mikroplastik tanecik su yollarına karışır. - s.16
 
 > Sıfır atık yaşam tarzını benimsemek, doğaya karşı duyarlı olmamı sağladı. Sıfır atık, mevsimlerle bağ kurmanın, yerel yaşamanın ve yarı bağımsız bir yaşam sürdürmenin güzel bir yolu. - s. 19
 
@@ -45,10 +43,9 @@ Kathryn Kellogg, Sıfır Atık İçin 101 Yol isimli kitabında çevreye duyarl�
 > Atık denetimi, kendi atık akışınızı inceleme yöntemidir. Oldukça kişiseldir, tek bir doğru yoktur, herkes kendi çözümünü geliştirebilir. Bunun için öncelikle çöp kutusu ve geridönüşüm kutusuna atılan her bir parçanın listelenmesi, çöpe ve geridönüşüme sık yollanan parçaların belirlenmesi ve gelişim noktalarının tespit edilmesi gerekir. Yapılacak düzenlemelerle daha az atık çıkarmak mümkündür. - s. 22 - Çöpünüzü Bilin de Atın
 
 ![bunu-satin-almali-miyim - sayfa-23](/assets/graph/2022-11-23/bunu-satin-almali-miyim-sayfa-23.jpg)
-<center> "Bunu satın almalı mıyım?" - sayfa 23</center>  
 
+<center> "Bunu satın almalı mıyım?" - sayfa 23</center>
 
 > Karbon emisyonunuzu ve çöp üretiminizi düşürmenin en basit yolu, sadece daha az tüketmektir. - s. 23 - Daha Az Satın Alın.
 
-"Sıfır atık, mükemmelliyetten değil, daha iyi seçimler yapmaktan geçer." maddesi ile son bulan kitap, sıfır atığa başlangıç, mutfakta sıfır atık ve yemek yapmak, banyoda kullanılan ürünler ve kişisel bakımda sıfır atık, ev temizliğinde sıfır atık, bilinçli bir tüketici olmak, işte, okulda, dışarıda atıksız yemek, yolculuk ve ulaşımda sıfır atık felsefesi, özel günlerde sıfır atığın nasıl mümkğn olabileceği gibi başlıkları ele alıyor. 
-
+"Sıfır atık, mükemmelliyetten değil, daha iyi seçimler yapmaktan geçer." maddesi ile son bulan kitap, sıfır atığa başlangıç, mutfakta sıfır atık ve yemek yapmak, banyoda kullanılan ürünler ve kişisel bakımda sıfır atık, ev temizliğinde sıfır atık, bilinçli bir tüketici olmak, işte, okulda, dışarıda atıksız yemek, yolculuk ve ulaşımda sıfır atık felsefesi, özel günlerde sıfır atığın nasıl mümkğn olabileceği gibi başlıkları ele alıyor.

@@ -14,8 +14,6 @@ last_modified_at: 2023-12-12
 published: true
 posted: 2023-12-12
 tag: "pazarlama"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "1"
 eng: ""

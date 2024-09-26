@@ -14,8 +14,6 @@ last_modified_at: 2024-09-15
 published: true
 posted: 2024-09-15
 tag: "sosyoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: ""

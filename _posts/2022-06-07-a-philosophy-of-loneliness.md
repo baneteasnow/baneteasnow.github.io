@@ -14,8 +14,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-07
 tag: "felsefe"
-instagram: "https://www.instagram.com/p/CfRmmELoOtX/"
-insta: "yes"
 reread: "no"
 rating: "5"
 num: "255"
@@ -24,20 +22,21 @@ eng: "A Philosophy of Loneliness by Lars Svendsen delves into the nature of lone
 image: "/assets/new/a-philosophy-of-loneliness.jpg"
 ---
 
-Herkesi zaman zaman yakalayan yalnızlık hissi, hiç kuşkusuz en insani hallerden birisi. Genellikle olumsuz şeyleri çağrıştırıyor olsa da, bazen de sakinliğin simgesi haline gelebilen yalnızlık, kalabalıklardan kaçmak için bir ihtiyaca da dönüşebiliyor. Lars Svendsen, yalnızlık kavramını ve farklı yalnmızlık türlerini hem olumlu hem de olumsuz yönleriyle felsefi açıdan ele alıyor. 
+Herkesi zaman zaman yakalayan yalnızlık hissi, hiç kuşkusuz en insani hallerden birisi. Genellikle olumsuz şeyleri çağrıştırıyor olsa da, bazen de sakinliğin simgesi haline gelebilen yalnızlık, kalabalıklardan kaçmak için bir ihtiyaca da dönüşebiliyor. Lars Svendsen, yalnızlık kavramını ve farklı yalnmızlık türlerini hem olumlu hem de olumsuz yönleriyle felsefi açıdan ele alıyor.
 
-Yalnızlık kavramı insan toplumsal bir varlık olduğu için var. İnsanın belki de kendini en fazla yalnız hissettiği yer de kalabalık şehirler. Bugün bir 'yalnızlık çağı'nda mı yaşıyoruz? Ya da bir 'yalnızlık salgını' mı var? İnsanlar başkalarıyla zaman harcamayı yalnız kalmaya tercih ettiklerini belirtseler de, aslında yalnız olmak temelinde ne pozitif ne de negatif olarak nitelenebilir. Yalnızlık duygusu ortak olsa da, deneyimi kişiden kişiye değişmektedir. Müzmin yalnızlık ise, zaman içinde bir varoluş sorununa dönüşme riskini beraberinde getirir. 
+Yalnızlık kavramı insan toplumsal bir varlık olduğu için var. İnsanın belki de kendini en fazla yalnız hissettiği yer de kalabalık şehirler. Bugün bir 'yalnızlık çağı'nda mı yaşıyoruz? Ya da bir 'yalnızlık salgını' mı var? İnsanlar başkalarıyla zaman harcamayı yalnız kalmaya tercih ettiklerini belirtseler de, aslında yalnız olmak temelinde ne pozitif ne de negatif olarak nitelenebilir. Yalnızlık duygusu ortak olsa da, deneyimi kişiden kişiye değişmektedir. Müzmin yalnızlık ise, zaman içinde bir varoluş sorununa dönüşme riskini beraberinde getirir.
 
 "Yalnızlık, bir kişinin başkarıyla bağlantı kurma gereksiniminin tatmin edilmemesine verilen duygusal bir karşılıktır." (sayfa 20)
 
 Yalnızlık üç farklı biçimde ortaya çıkar:
+
 - kronik yalnızlık - başkalarıyla yeterli derecede kurulamayan bağlar nedeni ile kişinin acı çekme durumudur. İçsel nedenlerden kaynaklanır.
 - duruma bağlı yalnızlık - hayattaki genellikle ani değişimler ile ortaya çıkar, yoğun hissedilir. Dışsal nedenlerden kaynaklanır.
-- geçici yalnızlık - kısa süre ile tek başına olunmayan bir ortamda yaşanılan 'tek başınalık' duygusu. 
+- geçici yalnızlık - kısa süre ile tek başına olunmayan bir ortamda yaşanılan 'tek başınalık' duygusu.
 
 "Başka insanlara karşı genel güvensizlik yalnızlığın en önemli göstergesidir. ... Yalnız insanlar hem başkalarından korkan hem de onlarla bağlantı kurmayı arzulayan bir benlik şekillendirmiştir." (sayfa 61)
 
-Kişinin içinde yaşadığı ülke veya bölge hissettiği yalnızlık miktarını etkileyecektir. 
+Kişinin içinde yaşadığı ülke veya bölge hissettiği yalnızlık miktarını etkileyecektir.
 
 Yalnız kişiler, sohbetlerde daha çok kendilerinden bahsederler ve daha az sooru sorarlar. yalnız kişilerin ne kendileri ile ne de başkaları ile gerçek bir ilişkisi vardır. Hem sosyal ortamlar onları korkutur hem de bu korku. Kendilerini kurban olarak görürler. Yalnız insanlar sosyal mükemmelliyetçilik gösterme eğilimine girerler, yani daha talepkar olurlar. (sayfa 80-82)
 

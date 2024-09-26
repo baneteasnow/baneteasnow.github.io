@@ -15,8 +15,6 @@ last_modified_at: 2023-07-24
 published: true
 posted: 2023-07-24
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: "Why Zebras Don't Get Ulcers is a book that explores the intricate relationship between stress and health, offering insights into how humans can better cope with and manage stress-related conditions."

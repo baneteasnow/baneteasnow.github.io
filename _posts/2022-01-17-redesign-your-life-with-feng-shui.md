@@ -13,21 +13,20 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-01-17
 tag: "lifestyle"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "218"
 image: "/assets/new/redesign-your-life-with-feng-shui.jpg"
 ---
 
-Yaron Zafran, Feng Shui ile Yaşamını Yeniden Yarat isimli kitapta kendisinin geliştirdiği Feng Shui düzenlemelerinin göze hoş görünmesi prensibine dayanan 'Chi Enerjisini Yönlendirmenin Estetik Modeli'ni ele alıyor. 
+Yaron Zafran, Feng Shui ile Yaşamını Yeniden Yarat isimli kitapta kendisinin geliştirdiği Feng Shui düzenlemelerinin göze hoş görünmesi prensibine dayanan 'Chi Enerjisini Yönlendirmenin Estetik Modeli'ni ele alıyor.
 
-Her canlıda bulunan Chi yaşam kuvvetidir, uyumlu bir yaşam için mekandaki Chi'yi dengelemek gerekir. (sayfa 23) Düzey, akış ve nitelik Chi'nin üç farklı boyutudur. 
+Her canlıda bulunan Chi yaşam kuvvetidir, uyumlu bir yaşam için mekandaki Chi'yi dengelemek gerekir. (sayfa 23) Düzey, akış ve nitelik Chi'nin üç farklı boyutudur.
 
 Feng Shui'nin beş ana unsuru su, ağaç, ateş, toprak ve metaldir. Bu unsurlardan her biri, bir diğerini yaratarak 'Yaratılış Döngüsü'nü oluşturur. Su ağacın susuzluğunu giderir; Ağaç ateş için yakıttır, Ateşin külü toprak olur; Toprağın içinde metal oluşur; Metal mineraller şeklinde içme suyunu zenginleştirir. (sayfa 56)
 
 ![Yaratilis Dongusu - sayfa 56](/assets/graph/2022-01-17/the-five-elements-creative-cycle-redesign-your-life-with-feng-shui.jpg)
+
 <center>sayfa 56</center>
 
 "Bagua, bir evin Feng Shui haritasıdır. Çince'de Bagua'nın anlamı 'Sekiz Yön' olmasına karşın, Bagua bir yeri dokuz eşit bölüme ayırır, bunlardan sekizi yaşamın değişik alanlarını, dokuzuncusu da merkezi temsil eder." (sayfa1 15)

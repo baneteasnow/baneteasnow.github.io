@@ -13,8 +13,6 @@ published: true
 description: "Ikigai isimli kitap tüm dünyaya Japonya'dan yayılan ve hep meşgul kalarak mutlu olmak anlamına gelen kavramı inceliyor."
 tag: "lifestyle"
 posted: 2021-12-01
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "207"

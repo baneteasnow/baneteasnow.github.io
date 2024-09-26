@@ -14,8 +14,6 @@ last_modified_at: 2023-02-19
 published: true
 posted: 2023-02-19
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 num: "308"
@@ -28,7 +26,7 @@ Heatherash Amara, kadınların kendi bütünlüğünü, değerini ve sevgiyi hep
 
 Yeni kadınların devrimi, başka insanlara odaklı değil, içsel dünyaya odaklı olma evrimidir. Bu, Savaşçı Tanrıça'nın yoludur.
 
-Çoğu kadın hala kendilerine ait olmayan standartlara, inançlara ve ideallere yetişmeye çalışarak yaşıyor. Savaşçı Tanrıça Eğitimi, kadınların gerçekte kim olduğunu ve ne istediğini bulmak ve bu bilgiyle birlikte, içerideki gerçek kimliklerini özgün bir biçimde örtüşen harici bir gerçeklik yaratmaktadır. 
+Çoğu kadın hala kendilerine ait olmayan standartlara, inançlara ve ideallere yetişmeye çalışarak yaşıyor. Savaşçı Tanrıça Eğitimi, kadınların gerçekte kim olduğunu ve ne istediğini bulmak ve bu bilgiyle birlikte, içerideki gerçek kimliklerini özgün bir biçimde örtüşen harici bir gerçeklik yaratmaktadır.
 
 Savaşçı Tanrıça'nın Yolu için kitapta yer alan adımlar şöyle:
 
@@ -41,5 +39,4 @@ Savaşçı Tanrıça'nın Yolu için kitapta yer alan adımlar şöyle:
 > Kalbinizi açın  
 > Gerçeğinizi söyleyin  
 > Bilgeliğinizi özümseyin  
-> Yolunuzu seçin  
-
+> Yolunuzu seçin

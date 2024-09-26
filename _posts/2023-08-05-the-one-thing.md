@@ -14,8 +14,6 @@ last_modified_at: 2023-08-05
 published: true
 posted: 2023-08-05
 tag: "üretkenlik ve teknoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 eng: "The One Thing by Gary Keller and Jay Papasan advocates for achieving extraordinary results by concentrating on the single most important task at any given moment."

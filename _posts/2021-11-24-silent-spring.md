@@ -14,8 +14,6 @@ description: "1962 yılında Rachel Carson'ın yazdığı Sessiz Bahar, kimyasal
 posted: 2021-11-24
 tag: "çevre"
 reread: "yes"
-instagram: "https://www.instagram.com/p/CW9-ycAJW7P/"
-insta: "yes"
 reread: "yes"
 rating: "5"
 num: "206"

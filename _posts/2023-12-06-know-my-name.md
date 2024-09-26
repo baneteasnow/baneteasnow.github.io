@@ -14,8 +14,6 @@ last_modified_at: 2023-12-06
 published: true
 posted: 2023-12-06
 tag: "biyografi"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: ""

@@ -14,8 +14,6 @@ last_modified_at: 2023-02-01
 published: true
 posted: 2023-02-01
 tag: "yazmak ve yaratıcılık"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "298"
@@ -49,20 +47,20 @@ Yazmak Üzerine Notlar, Jules Renard'ın günlüklerinden alıntılanmış, yaza
 
 1901  
 : Okumalarınızın her biri filizlenen bir tohum bırakır ardında.  
-: Çalışırken işin güç yanı beynin küçük lambasını yakabilmektir. Sonrasında, o kendi kendine yanar.  
+: Çalışırken işin güç yanı beynin küçük lambasını yakabilmektir. Sonrasında, o kendi kendine yanar.
 
 1902  
 : Gerçeklik her zaman sanat değildir. Sanat da her zaman gerçeklik değildir, ama gerçeklikle sanatın birbirine dokunduğu noktalar vardır. İşte ben de onları arıyorum.  
 : Yazarın kendi dilini yaratması gerekir, benzerlerininkini kullanması değil.  
 : Yazmak neredeyse her zaman yalan söylemektir.  
-: Sözcükler düşüncenin tam üstüne oturan giysi olmalıdır yalnız.  
+: Sözcükler düşüncenin tam üstüne oturan giysi olmalıdır yalnız.
 
 1903  
 : Yetenekli yazarlar, belki, ama benim gözümde yazdıkları 'karmakarışık'. Onları okumaktan çabucak sıkılıyorum.
 
 1907  
 : İnsan konuştuğu gibi yazmalı, iyi konuşabiliyorsa tabii.  
-: İnsanın, kendi yanlışlarını düzeltmek için en sık yeniden okuması gereken yazar kendisidir. 
+: İnsanın, kendi yanlışlarını düzeltmek için en sık yeniden okuması gereken yazar kendisidir.
 
 1908  
 : Yazmak için yaşamak gerek, yoksa yaşamak için yazmak değil.  
@@ -71,4 +69,3 @@ Yazmak Üzerine Notlar, Jules Renard'ın günlüklerinden alıntılanmış, yaza
 1909  
 : İnsanın, yazdığı şeyi doğru dürüst okuyabilmesi için, okurken onu yeniden düşünmesi gerekir.  
 : Mutluluk, mutluluğu aramaktır.
-

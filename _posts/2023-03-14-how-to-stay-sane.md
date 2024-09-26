@@ -14,8 +14,6 @@ last_modified_at: 2023-03-14
 published: true
 posted: 2023-03-14
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "316"
@@ -24,48 +22,51 @@ openai: yes
 image: "/assets/new/how-to-stay-sane.jpg"
 ---
 
-
 Günlük hayatın koşuşturması içinde çoğu kişi kendisini sıkışmış hissederek hayatının kontrolünü kaybettiği hissine kapılabiliyor. Akıl Sağlığımızı Nasıl Koruruz? isimli kitap, içinde yaşadığımız zamanda akıl sağlığımızı korumamız için ihtiyaç duyduğumuz esnekliği sağlamamıza yardım edecek alanları inceliyor.
 
-Psikoterapistler "içe yansıma" terimini, bir insanın ya da kültürün belirleyici niteliklerini kişinin farkında olmadan kendi ruhuna işlemesi anlamında kullanırlar. Philippa Perry, her başarılı terapi sürecinde farkındalık kazandırmaya yönelik somut adımların şu dört alanda gerçekleştiğini belirtiyor: 
-- "kendini gözlemlemek", 
+Psikoterapistler "içe yansıma" terimini, bir insanın ya da kültürün belirleyici niteliklerini kişinin farkında olmadan kendi ruhuna işlemesi anlamında kullanırlar. Philippa Perry, her başarılı terapi sürecinde farkındalık kazandırmaya yönelik somut adımların şu dört alanda gerçekleştiğini belirtiyor:
+
+- "kendini gözlemlemek",
 - "başkalarıyla ilişkilenmek",
-- "faydalı gerilim",  
+- "faydalı gerilim",
 - "kişisel anlatı".  
-Bu alanlardan herbiri psikoterapiye başvurmadan da kişinin üzerinde çalışabileceği alanlardır.
+  Bu alanlardan herbiri psikoterapiye başvurmadan da kişinin üzerinde çalışabileceği alanlardır.
 
 #### 1 [Kendini Gözlemleme](#kendini-gozlemleme)
+
 {: #kendini-gozlemleme }
 
 Kendini gözlemleme pratiği oldukça eskilere dayanır. Bu pratikle birlikte kişi, gizli kalan duygularını açığa vurur ve kendini sabote edici davranış kalıplarını daha az tekrar hale gelir. Bu da, beraberinde kişinin hem kendisine hem de etrafındakilere daha fazla şefkat duymasını sağlar.
 
-Perry, "Temellendirme Egzersizi" ismini verdiği bir uygulamadan bahsediyor. Bunun için öncelikle aşağıda yer alan ilk dört soru cevaplanır. Bu dört soru, beşinci soruya bir tür temellendirme de oluşturur. 
+Perry, "Temellendirme Egzersizi" ismini verdiği bir uygulamadan bahsediyor. Bunun için öncelikle aşağıda yer alan ilk dört soru cevaplanır. Bu dört soru, beşinci soruya bir tür temellendirme de oluşturur.
+
 - Şu anda ne hissediyorsun?
 - Şu anda ne düşünüyorsun?
 - Şu anda ne yapıyorsun?
 - Nasıl nefes alıyorum?
-ve
+  ve
 - Bu yeni anda kendin için ne istiyorsun?
 
 İnsanlar genellikle "dış" referanslara bağlı olarak hareket edenler ve "iç" referanslara bağlı olarak hareket edenler olmak üzere iki gruba ayrılır. Dış referanslara bağlı olarak hareket edenler genellikle diğer insanlar üzerinde bıraktıkları izlenimleri ve dolayısıyla onları etkilemeyi önemserken, iç referanslara dayananlar ise daha çok bir şeyin kendilerini nasıl hissettirdiği ile ilgilenirler, bir şeyleri kendileri için doğru yapmak isterler.
 
-Duyguları insanı yönlendiren ana unsurlardan biridir. Bir psikoterapist, danışanlarına gerekçelendirmelerinin ve sabir davranış kalığlarının ardında yatan duyguları görmesi için yardımcı olur. Sürekli günlük tutmak kişinin kendini gözlemlemesi için yararlı bir araçtır. 
+Duyguları insanı yönlendiren ana unsurlardan biridir. Bir psikoterapist, danışanlarına gerekçelendirmelerinin ve sabir davranış kalığlarının ardında yatan duyguları görmesi için yardımcı olur. Sürekli günlük tutmak kişinin kendini gözlemlemesi için yararlı bir araçtır.
 
 #### 2 [Başkalarıyla İlişkilenmek](#baskalariyla-iliskilenmek)
+
 {: #baskalariyla-iliskilenmek }
 
 Tıpkı nöronlar gibi bir beyin de kendi başına pek işe yaramaz. Beyinlerimiz başka beyinlere, başka bir deyişle, insanlar insanlara ihtiyaç duyar. Kurduğumuz ilişkilerde kendimiz olabilmemiz bize güçlü bağlar oluşturma fırsatını verir.
 
 #### 3 [Stres](#stres)
+
 {: #stres }
 
 Ölçülü bir stres düzeyi zihinlerimizi formda tutar ve akıl sağlığımızı korumaya yardım eder. Zihnimizi ve bedenimizi zinde tutmak için iyi stresin peşinden koşmak gerekir.
 
 #### 4 [Hikaye Ne?](#hikaye-ne)
+
 {: #hikaye-ne }
 
 Perry, her başarılı terapinin önemli bir parçasının da kişiyi tanımlayan anlatıları yeniden yazmak ve hatta farklı sonlar kurgulamak için onlardan yeni anlamlar çıkarmak olduğunu belirtiyor. Buna benzer şekilde, insanın kendi hikayesinin ne olduğunu bilmesi ve gerektiğinde yeniden yazabilmesi de akıl sağlığını korumasının bir unsurunu oluşturmaktadır.
 
-Hikayeler, kişiyi objektif düşünmeye yönlendirir, yeri geldiğinde yeni perspektif kazandırır, ayrıca esneklik de verir. Ancak, kendimize sürekli anlattığımız hikayelerin ve üzerimizdeki etkilerinin zaman içinde ne kadar derinleştiğinin farkında olmayabiliriz. 
-
-
+Hikayeler, kişiyi objektif düşünmeye yönlendirir, yeri geldiğinde yeni perspektif kazandırır, ayrıca esneklik de verir. Ancak, kendimize sürekli anlattığımız hikayelerin ve üzerimizdeki etkilerinin zaman içinde ne kadar derinleştiğinin farkında olmayabiliriz.

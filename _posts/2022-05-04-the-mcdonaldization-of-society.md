@@ -14,8 +14,6 @@ published: true
 description: "Toplumun McDonaldlaştırılması isimli kitap sosyoloji, yönetim ve iktisat alanlarından yararlanarak günümüz modern toplumunun bir analizini yapıyor."
 tag: "sosyoloji"
 posted: 2022-05-04
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "246"
@@ -33,15 +31,19 @@ McDonald's ayrıca Economist dergisi tarafından yıllık olarak yayınlanan 'Bi
 George Ritzer, McDonald's restoranlar zincirinin başarısını dört boyuta dayandırıyor; verimlilik, hesaplanabilirlik, öngörülebilirlik, denetim. (sayfa 43) Bu dört kavramın hem tüketicilere hem de çalışanlara olan etkisi de kitapta tartışılan konular arasında. Ritzer, McDonaldlaşmanın ve dört boyutunun Weber'in rasyonelleşme teorisinin tüketim ortamlarını kapsayacak şekilde genişletilmesi olduğundan bahseder. (sayfa 70) Elbette, McDonaldlaşmaya varan süreçte bürokrasinin, toplumun modernleşmesinin ve endüstrileşmesinin payı vardır. (sayfa 69) Weber'e göre formel rasyonellik, insanların belirli bir hedefe ulaşmak için en optimum araçları tespit ederken kullandıkları kurallar ve düzenlemeler bütünüdür; kısaca birtakım kurallar bu sayede kurumsallaşır, bir rehber niteliğini alarak sonradan tekrar tekrar başvurulabilir hale getirilir. Bireyler bu sayede düşünmeksizin ve tercih hakkı kullanmaksızın kendilerine önceden tanımlanmış olanı kabul ederler; bu şekilde McDonaldlaşmanın dört boyutu avantaj haline gelir. (sayfa 70-71) Rasyonelliğin irrasyonelliği ise McDonaldlaşmanın dezavantajı olarak ortaya çıkar. Rasyonel sistemlerin irrasyonel sonuçlar doğurması kaçınılmazdır. (sayfa 47) İrrasyonelliklerle ilgili olarak kitapta verimsizlik, etkinsizlik, aşırı yüksek maliyetler, vefasız arkadaşlıklar, büyünün bozulması ve McDonaldlaşmanın ürettiği meslekler ile ilgili örnekler ele alınıyor. (sayfa 237)
 
 #### Verimlilik
+
 Verimlilik, daha çok hizmet ve üretim süresinin kısaltılmasına yönelik yollar bulunması yönüyle ele alınmaktadır. Sürecin modernleştirilmesi, ürünün basitleştirilmesi ve bizzat müşterinin çalıştırılması yönünde çabalarla ulaşılır.
 
 #### Hesaplanabilirlik
+
 Hesaplanabilirlik, ürünlerin ve hizmetlerin nicel yönüyle ilgilenir; örneğin, porsiyon miktarı ve maliyet oranı, teslimat için geçen süre, gibi. Bu boyut için süreçlerin sayısallaştırılması gerekir. Ürüne ulaşmak hızlıdır, ürün standarttır ancak deneyim ne müşteri ne de çalışan açısından olumludur. Çalışanlar anlamsız buldukları işi en az ücrete en kısa zamanda yaparlar, müşteriler aceleyle aldıkları ürünü bitirmeye çalışırlar.
 
 #### Öngörülebilirlik
+
 Öngörülebilirlik, ürün ve hizmetlerin her yerde aynısının sunulacağının garantisidir. Çünkü rasyonelleşmiş bir toplumda, tüketiciler sürprizlerle karşılaşmak istemezler. Öngörülebilirlik, rutini, düzeni, standardı, belli bir kalite standardını ve tutarlılığı ifade eder.
 
 #### Denetim
+
 Denetim, başlangıçtan bitişe kadar alınan ürün ve hizmet sürecinde tüketicinin takip edeceği adımlar kısıtlı ve önceden net şekilde belirlenmiştir. Yani, adeta, 'gayri insanı teknoloji insanları kontrol etmektedir'. Çünkü rasyonel sistemlerde, belirsizlik, öngörülemezlik ve etkinsizlik genellikle (çalışan veya tüketici rolündeki) insandan kaynaklanmaktadır (sayfa 167)
 
 Kitabın son iki bölümü, McDonaldlaşma ile başa çıkılıp çıkılamayacağı tartışmasına ayrılmış. Örneğin, 1980'lerde McDonald's'in Roma'da açılmasına tepki olarak ortaya çıkan ve günümüzde de devam eden yavaş gıda (slow food) akımının destekçileri bölgesel ürünlerle geleneksel yemeklerin tercih edilmesi için mücadele vermektedir. Bir diğer örnek de, slow food akımından esinlenerek başlayan sakin şehir yani Cittaslow hareketidir. Küreselleşme sonucunda kentlerin birbirine benzemesinin önüne geçmek üzere başlayan Cittaslow, İtalya Orvieto'da başlamıştır.

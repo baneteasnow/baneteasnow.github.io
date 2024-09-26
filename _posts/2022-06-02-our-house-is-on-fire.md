@@ -14,8 +14,6 @@ published: true
 description: "Evimiz Yanıyor, İsveçli çevre aktivisti ve 'İklim Değişikliği için okul grevi' ile tanınan Greta Thunberg'in ve ailesinin hayli kişisel hikayesini aktarıyor."
 posted: 2022-06-02
 tag: "biyografi"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 num: "254"

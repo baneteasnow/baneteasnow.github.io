@@ -15,8 +15,6 @@ last_modified_at: 2023-07-22
 published: true
 posted: 2023-07-22
 tag: "sosyal bilimler"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "Latte or Cappuccino? - 125 Decisions That Will Change Your Life is a book by Hilly Janes that guides readers in making conscious choices and provides insights into 125 different decisions that can transform their lives."

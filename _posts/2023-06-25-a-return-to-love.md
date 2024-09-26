@@ -15,8 +15,6 @@ last_modified_at: 2023-06-25
 published: true
 posted: 2023-06-25
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "Marianne Williamson tarafından yazılan A Return to Love, kişisel ve kolektif yolculuklarımızda sevgi ve bağışlamanın dönüştürücü gücünü vurgulayan bir ruhsal rehberdir."

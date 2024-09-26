@@ -15,8 +15,6 @@ last_modified_at: 2023-06-19
 published: true
 posted: 2023-06-19
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: "How to Thrive in the Digital Age by Tom Chatfield is a comprehensive guide that provides valuable insights and practical strategies for navigating and succeeding in the digital era."

@@ -15,8 +15,6 @@ last_modified_at: 2023-06-18
 published: true
 posted: 2023-06-18
 tag: "öğrenmeyi öğrenmek"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "The Science of Accelerated Learning by Peter Hollins is a concise guide that offers evidence-based strategies to enhance learning, improve memory, and increase focus, providing practical tools for effective information processing and application."

@@ -13,8 +13,6 @@ description: "Keep Going, bir sanatçının yaratıcılığını her daim sürd�
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
 posted: 2021-06-23
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "178"
@@ -44,6 +42,6 @@ Kitapta yer alan başlıklar şöyle
 7\. Fikrinizi değiştirmekte serbestsiniz  
 8\. Kuşkuya düştüğünüzde, toparlanın  
 9\. Zalimler taze havayı sevmezler  
-10\. Bahçenize yeni bitkiler ekin  
+10\. Bahçenize yeni bitkiler ekin
 
 <!-- category: [book, reread] rereading: '#yeniden' -->

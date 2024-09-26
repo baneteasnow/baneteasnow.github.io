@@ -12,10 +12,8 @@ goodreads: "https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st
 description: ""
 last_modified_at: 2024-02-04
 published: false
-posted: 2024-02-04 
+posted: 2024-02-04
 tag: "tarih"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: ""

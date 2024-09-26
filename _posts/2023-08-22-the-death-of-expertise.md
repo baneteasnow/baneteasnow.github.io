@@ -14,8 +14,6 @@ last_modified_at: 2023-08-22
 published: true
 posted: 2023-08-22
 tag: "sosyoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 eng: "The Death of Expertise by Tom Nichols examines the decline in respect for established knowledge and experts in the modern age, discussing its implications for informed decision-making and democracy."

@@ -15,8 +15,6 @@ last_modified_at: 2023-06-12
 published: true
 posted: 2023-06-12
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "On Being a Master Therapist is a book by Jeffrey A. Kottler and Jon Carlson that guides therapists on their journey to mastery, offering insights on overcoming challenges, deepening client relationships, and developing effective therapy skills. It emphasises collaboration, continuous learning, and personal growth in the therapy profession."

@@ -15,8 +15,6 @@ last_modified_at: 2023-06-08
 published: true
 posted: 2023-06-08
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: "The Mathematics of Love is a book by Hannah Fry that explores love through mathematical models and statistical analysis, revealing the hidden patterns and complexities of romantic relationships."

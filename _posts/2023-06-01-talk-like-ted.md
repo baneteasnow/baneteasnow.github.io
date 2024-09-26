@@ -15,8 +15,6 @@ last_modified_at: 2023-06-01
 published: true
 posted: 2023-06-01
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: "In Talk Like TED, Carmine Gallo shares the nine public speaking secrets of the world's top minds. These secrets include starting with a story, telling a big idea, being passionate, using simple language, being visual, practicing, being yourself, and having fun. Gallo's book is a valuable resource for anyone who wants to improve their public speaking skills."

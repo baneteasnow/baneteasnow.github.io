@@ -13,8 +13,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-01-07
 tag: "teknoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "215"

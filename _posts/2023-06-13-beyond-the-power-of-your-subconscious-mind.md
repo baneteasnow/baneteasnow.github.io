@@ -15,8 +15,6 @@ last_modified_at: 2023-06-13
 published: true
 posted: 2023-06-13
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: "Beyond the Power of Your Subconscious Mind by C. James Jensen is a transformative guide that helps you unlock your potential by harnessing the power of your subconscious mind. This book is the updated version of The Power of Your Subconscious Mind by Joseph Murphy."

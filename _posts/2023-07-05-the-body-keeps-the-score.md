@@ -15,8 +15,6 @@ last_modified_at: 2023-07-05
 published: true
 posted: 2023-07-05
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 eng: " The Body Keeps the Score by Bessel A. Van Der Kolk explores the impact of trauma on the body and provides insights into healing and recovery. Drawing from extensive research and real-life stories, Van Der Kolk reveals how traumatic experiences are stored in the body and offers practical tools for managing and healing from trauma. "

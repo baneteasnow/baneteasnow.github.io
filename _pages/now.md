@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-09-24
+last_modified_at: 2024-09-26
 published: true
 
 # 1
@@ -18,10 +18,10 @@ sayfa1: 256
 pageread1: 9
 
 # 2
-booktitle2: "Nomadland"
-bookyear2: 2021
-author2: "Jessica Bruder"
-sayfa2: 272
+booktitle2: "Notes from an Apocalypse"
+bookyear2: 2024
+author2: "Mark O'Connell"
+sayfa2: 184
 pageread2: 18
 
 # 3
@@ -37,6 +37,13 @@ bookyear4: 2019
 author4: "Louise L. Hay"
 sayfa4: 80
 pageread4: 1
+
+# 5
+booktitle5: "The New Age of Catastrophe"
+bookyear5: 2024
+author5: "Alex Callinicos"
+sayfa5: 328
+pageread5: 1
 
 #
 #
@@ -64,7 +71,7 @@ pageread4: 1
 # <br />
 #
 #
-read: 39
+read: 40
 ---
 
 ⁜ {{ page.read | plus: 1 }}
@@ -155,6 +162,28 @@ _by_ {{ page.author4 }}
    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
    <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
      {{ page.pageread4 }}/{{ page.sayfa4 }}
+   </span>
+ </div>
+
+<br />
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+_by_ {{ page.author5 }}
+
+<div style="font-size: 50%; font-style: italic;">
+   {{ page.sayfa5 }} sayfa
+ </div>
+
+ <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
+   {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+ </div>
+
+ <div>
+   <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
+     {{ page.pageread5 }}/{{ page.sayfa5 }}
    </span>
  </div>
 

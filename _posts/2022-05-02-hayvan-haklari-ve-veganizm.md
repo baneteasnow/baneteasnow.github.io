@@ -14,8 +14,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-02
 tag: "veganlık"
-instagram: "https://www.instagram.com/p/CfBnXUPoIZu/"
-insta: "yes"
 reread: "yes"
 rating: "3"
 num: "245"

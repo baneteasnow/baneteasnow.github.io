@@ -14,8 +14,6 @@ last_modified_at: 2023-08-18
 published: true
 posted: 2023-08-18
 tag: "lifestyle"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "1"
 eng: "Intimate Communion by David Deida explores the intersection of spirituality, sexuality, and intimate relationships, offering insights into how to deepen connections and find spiritual dimensions in love."

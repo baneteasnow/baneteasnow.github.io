@@ -14,8 +14,6 @@ last_modified_at: 2024-03-04
 published: true
 posted: 2024-03-04
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: ""

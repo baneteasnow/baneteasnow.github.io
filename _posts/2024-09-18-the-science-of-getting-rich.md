@@ -14,8 +14,6 @@ last_modified_at: 2024-09-18
 published: true
 posted: 2024-09-18
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: ""

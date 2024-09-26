@@ -13,8 +13,6 @@ published: true
 description: "101 Things I Learned in Film School, sinema ve film yapımcılığı ile ilgili temel kavramları aktarıyor."
 posted: 2021-09-22
 tag: "sanat"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "195"
@@ -28,6 +26,6 @@ image: "/assets/new/101-things-i-learned-in-film-school.jpg"
 - Yeni teknoloji film çekiminde nasıl kullanılabilir?
 - Bir film için gerekli finansman nasıl bulunur?
 
-Kitapta vurgulanan diğer bir nokta da, bir şeyi söyleyerek ifade etmektense görüntüleyerek göstermenin daha etkili olacağıdır. Nokta atışı cümleler veya ortasında başlayan diyaloglar, filmi sıkıcı olmaktan kurtararak daha takip edilebilir kılacaktır. 
+Kitapta vurgulanan diğer bir nokta da, bir şeyi söyleyerek ifade etmektense görüntüleyerek göstermenin daha etkili olacağıdır. Nokta atışı cümleler veya ortasında başlayan diyaloglar, filmi sıkıcı olmaktan kurtararak daha takip edilebilir kılacaktır.
 
-101 Things I Learned in Film School, hem hikaye anlatıcılığı hem de film çekiminin teknik yönü hakkında çeşitli ipuçlarını ünlü filmlerden örneklerle birlikte okuyucuyla paylaşıyor. 
+101 Things I Learned in Film School, hem hikaye anlatıcılığı hem de film çekiminin teknik yönü hakkında çeşitli ipuçlarını ünlü filmlerden örneklerle birlikte okuyucuyla paylaşıyor.

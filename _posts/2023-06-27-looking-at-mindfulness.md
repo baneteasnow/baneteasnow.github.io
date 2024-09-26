@@ -15,8 +15,6 @@ last_modified_at: 2023-06-27
 published: true
 posted: 2023-06-27
 tag: "mindfulness"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: "Christophe André'nin Mindfulness adlı kitabı, iç huzur ve zihinsel refah için mindfulness'in anlaşılması ve uygulanması konusunda yol gösteriyor."

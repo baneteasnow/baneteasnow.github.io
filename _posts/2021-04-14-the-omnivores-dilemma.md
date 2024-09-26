@@ -13,7 +13,6 @@ description: "Michael Pollan, 'Etobur-Otobur İkilemi' isimli kitabında, yediğ
 last_modified_at: 2023-01-14
 posted: 2021-04-14
 tag: "beslenme"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "167"

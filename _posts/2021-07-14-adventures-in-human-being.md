@@ -14,8 +14,6 @@ description: "Adventures in Human Being, bir doktor olan Gavin Francis'in her bi
 posted: 2021-07-14
 published: true
 tag: "tıp"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "183"

@@ -14,8 +14,6 @@ last_modified_at: 2024-08-28
 published: true
 posted: 2024-08-28
 tag: "fen bilimleri"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: ""

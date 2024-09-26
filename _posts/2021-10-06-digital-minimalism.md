@@ -13,8 +13,6 @@ published: true
 description: "Cal Newport, Dijital Minimalizm isimli kitabında ekran başında geçirilen zamanı azaltmanın gerekliliğini ve yollarını tartışıyor."
 posted: 2021-10-06
 tag: "üretkenlik ve teknoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "197"
@@ -39,6 +37,6 @@ Cal Newport, Dijital Minimalizmin 3 temel unsurunu şöyle sıralıyor:
 
 1\. Karmaşıklık maliyetlidir.bir şeylerşeyler kaçırmamak uğruna sürekli takip edilen teknolojik platformlar maliyet yaratır.  
 2\. Optimizasyon önemlidir. Yeni bir teknolojiyi günlük yaşama alırken bu teknolojinin nasıl kullanılacağı da hesap edilmelidir.  
-3\. Niyet tatmin yaratır. Dijital minimalistler, yeni bir teknolojiyi hayatlarına kabul ederken bu teknolojinin kendileri için gerçekte neye hizmet ettiğini sorgularlar.  
+3\. Niyet tatmin yaratır. Dijital minimalistler, yeni bir teknolojiyi hayatlarına kabul ederken bu teknolojinin kendileri için gerçekte neye hizmet ettiğini sorgularlar.
 
 Cal Newport, bu kitabında hem dijital minimalizme geçiş sürecine dair önerilerini aktarıyor hem de ekran bağımlılığından kaçınarak teknolojinin olumsuz etkilerinden korunmaya dair ilkeleri paylaşıyor.

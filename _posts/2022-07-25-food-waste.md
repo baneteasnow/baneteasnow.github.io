@@ -14,8 +14,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-25
 tag: "sıfır atık yaşam"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "274"

@@ -13,8 +13,6 @@ description: "The China Study, beslenme ile ilgili olarak bugüne kadar gerçekl
 posted: 2021-05-05
 last_modified_at: 2022-01-14
 tag: "beslenme"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "170"

@@ -14,8 +14,6 @@ tag: "felsefe"
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-01
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "4"
 num: "253"
@@ -28,11 +26,10 @@ Günlük koşuşturmaca içinde ya geçmişte ya da gelecekte yaşayanlara şimd
 
 Birçok okuyucu tarafından bir kişisel gelişim kitabı olmanın çok ötesinde olarak tanımlanan Şimdi'nin Gücü, özetle ne geçmişe, ne geleceğe, yalnızca ama yalnızca şimdiye odaklanmanın yanı ani yaşamanın önemini anlatıyor.
 
-Kitabın sunduğu en önemli nokta, doğru düşünme biçimi ile anda kalmanın mümkün olduğu. Çünkü, bir kişi yanlış bir düşünme biçimine sahip ise bu ona sonsuz acı ve ıstırap verebilir. Kişi çoğu kez kendi iç sesini duymakta, kendini o sese kaptırmakta ve teslim olmaktadır. Bu durumla başa çıkmanın en gerçekçi yöntemi ise geçmiş veya gelecekte yaşamak yerine şimdiye odaklanmaktır. Şimdiye odaklanmak beraberinde mutluluğu getirecek ve en başarılı yönleri keşfetmeyi sağlayacaktır. 
+Kitabın sunduğu en önemli nokta, doğru düşünme biçimi ile anda kalmanın mümkün olduğu. Çünkü, bir kişi yanlış bir düşünme biçimine sahip ise bu ona sonsuz acı ve ıstırap verebilir. Kişi çoğu kez kendi iç sesini duymakta, kendini o sese kaptırmakta ve teslim olmaktadır. Bu durumla başa çıkmanın en gerçekçi yöntemi ise geçmiş veya gelecekte yaşamak yerine şimdiye odaklanmaktır. Şimdiye odaklanmak beraberinde mutluluğu getirecek ve en başarılı yönleri keşfetmeyi sağlayacaktır.
 
-Gerçeği deneyimlemenin önündeki en büyük engel zihnin bunu ayırt etmesidir. Çünkü zihin kavramları, etiketleri, resimleri, kelimeleri, yargıları ve tanımları ortaya çıkarır ve tüm bunlar da şimdi ile ilişki kurmayı engelleyen öğelerdir. Zihin, doğru kullanıldığında en güçlü araçtır. 
+Gerçeği deneyimlemenin önündeki en büyük engel zihnin bunu ayırt etmesidir. Çünkü zihin kavramları, etiketleri, resimleri, kelimeleri, yargıları ve tanımları ortaya çıkarır ve tüm bunlar da şimdi ile ilişki kurmayı engelleyen öğelerdir. Zihin, doğru kullanıldığında en güçlü araçtır.
 
-Kendini tekrar eden düşünce kalıplarını yakalamak ve sürekli konuşan iç sesi yargılamadan tarafsız şekilde farkında olarak dinlemeye başlamak yüksek bir bilinç seviyesinin kapısını da aralar. 
+Kendini tekrar eden düşünce kalıplarını yakalamak ve sürekli konuşan iç sesi yargılamadan tarafsız şekilde farkında olarak dinlemeye başlamak yüksek bir bilinç seviyesinin kapısını da aralar.
 
 Pişmanlıklarla dolu geçmişe takılıp kalmak veya kontrol edemeyeceğimiz gelecekle ilgili olarak sürekli endişe duymak yerine elimizdeki 'şimdi'ye odaklanmak; geçmişte veya gelecekte yaşamak yerine 'şimdi'de yaşamak, bir kişinin kendi hayatını iyileştirmek için yapabileceği yegane şeydir.
-

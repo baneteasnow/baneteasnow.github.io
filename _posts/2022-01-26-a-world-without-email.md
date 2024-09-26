@@ -13,8 +13,6 @@ published: true
 description: "Cal Newport, A World Without Email isimli kitabında dijital teknolojilerin yaygınlaşması ile birlikte başta email olmak üzere Slack, Microsoft Teams gibi iş hayatında çokça kullanılan uygulamaların üretkenlik üzerindeki etkilerini tartışıyor."
 tag: "üretkenlik ve teknoloji"
 posted: 2022-01-26
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "4"
 num: "220"

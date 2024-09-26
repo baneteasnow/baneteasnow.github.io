@@ -13,8 +13,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2021-12-17
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "210"
@@ -32,6 +30,7 @@ Factfulness, insanların dünyayı yorumlarken kullanmaya eğilimli oldukları 1
 Uçurum içgüdüsü, elimizdeki özneleri daima iki gruba ayırmaya eğilimli olduğumuza işaret ediyor. Üstelik, iki gruba ayırmakla kalmıyor çoğu kez de bu grupları 'iyi' - 'kötü' veya 'zengin' - 'fakir' olarak etiketliyoruz. Bunun en belirgin örneği 1960 'li yıllardan beri halen devam eden 'gelişmiş' ve 'gelişmekte olan' etiketleri. Bugün en yoğun nüfus bu iki etiket arasında yaşamlarını sürdürüyor. 'Gelişmiş' ve 'gelişmekte olan' etiketleri bugünkü durumu açıklamakta yetersiz kalıyor. Rosling, kitabında dört gelir seviyesi ileri sürüyor. Seviye 1 en alt gelir grubunu temsil ederken seviye 4 en yüksek gelir grubunu temsil ediyor. Bugün en yoğun nüfus seviye 2 ve seviye 3 aralığında yaşamlarını sürdürüyor.
 
 Uçurum içgüdünü tetikleyen 3 farklı nokta var:
+
 - Ortalamaları kıyaslamak uçurum yaratır. Oysaki ülkeler arasında zenginlik kıyaslamasında belirgin ölçüde kesişen alanlar vardır.
 - Aşırılıkları kıyaslamak söz konusu olduğunda bir ülkedeki çoğunluktan elde edilmiş veriler kullanılmıyor demektir.
 - Eğer seviye 4 'te yaşıyorsanız, diğer herkes size kıyasla daha 'fakir' kalacaktır.
@@ -70,4 +69,4 @@ Suçlama içgüdüsü, kötü olayların neden meydana geldiğini bulmaya çalı
 
 10. Telaş içgüdüsü - Küçük adımlarla ilerle
 
-Telaş içgüdüsü bur tehlikeyi algılar algılamaz bir aksiyon almamız için bizi harekete geçiren güdüdür. Bu içgüdünün yarattığı en önemli sorun bizi daha stresli hale getirmesidir. Stres diğer içgüdülerin daha da derinleşmesine ve analitik olarak düşünemez hale gelmemize yol açar.. 
+Telaş içgüdüsü bur tehlikeyi algılar algılamaz bir aksiyon almamız için bizi harekete geçiren güdüdür. Bu içgüdünün yarattığı en önemli sorun bizi daha stresli hale getirmesidir. Stres diğer içgüdülerin daha da derinleşmesine ve analitik olarak düşünemez hale gelmemize yol açar..

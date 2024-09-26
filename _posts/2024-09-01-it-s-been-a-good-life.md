@@ -14,8 +14,6 @@ last_modified_at: 2024-09-01
 published: true
 posted: 2024-09-01
 tag: "biyografi"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: ""

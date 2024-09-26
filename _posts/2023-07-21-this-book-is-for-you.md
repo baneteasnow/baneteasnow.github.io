@@ -15,8 +15,6 @@ last_modified_at: 2023-07-21
 published: true
 posted: 2023-07-21
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 eng: "This Book Is for You is a short comic book that covers the adventures of the characters me, worry, and hope by @worry__lines."

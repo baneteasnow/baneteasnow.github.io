@@ -1,24 +1,22 @@
 ---
-layout: post  
-category: book  
-title: "Trading Up | Michael J. Silverstein, Neil Fiske, John Butman (Kitap)"  
-kitap: "Trading Up: Why Consumers Want New Luxury Goods–and How Companies Create Them"  
-tr: "Trading Up - Tüketiciler Neden Lüks Ürün İster ve Şirketler Bu Ürünleri Nasıl Yaratır?"  
-yazar: "Michael J. Silverstein, Neil Fiske, John Butman"  
-yil: "2008"  
-sayfa: "324"  
-goodreads: "https://www.goodreads.com/book/show/117671.Trading_Up"  
-last_modified_at: 2023-01-14 
-published: true  
+layout: post
+category: book
+title: "Trading Up | Michael J. Silverstein, Neil Fiske, John Butman (Kitap)"
+kitap: "Trading Up: Why Consumers Want New Luxury Goods–and How Companies Create Them"
+tr: "Trading Up - Tüketiciler Neden Lüks Ürün İster ve Şirketler Bu Ürünleri Nasıl Yaratır?"
+yazar: "Michael J. Silverstein, Neil Fiske, John Butman"
+yil: "2008"
+sayfa: "324"
+goodreads: "https://www.goodreads.com/book/show/117671.Trading_Up"
+last_modified_at: 2023-01-14
+published: true
 description: "Tüketici davranışlarını ve psikolojisini ele alan Trading Up bir pazarlama kitabı. Kitap, kapağında da alt başlık olarak yer alan ‘Tüketiciler neden lüks ürün ister ve şirketler bu ürünleri nasıl yaratır?’ sorusuna ABD odaklı olarak cevap arıyor."
 tag: "tüketici davranışları"
 posted: 2022-02-23
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "226"
-image: "/assets/new/trading-up.jpg" 
+image: "/assets/new/trading-up.jpg"
 ---
 
 Tüketici davranışlarını ve psikolojisini ele alan Trading Up bir pazarlama kitabı. Kitap, kapağında da alt başlık olarak yer alan ‘Tüketiciler neden lüks ürün ister ve şirketler bu ürünleri nasıl yaratır?’ sorusuna ABD odaklı olarak cevap arıyor.

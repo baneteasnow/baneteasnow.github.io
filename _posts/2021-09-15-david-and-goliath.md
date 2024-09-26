@@ -13,8 +13,6 @@ published: true
 description: "Malcolm Gladwell, David and Goliath isimli kitabında avantajlı görünenlerle dezavantajlı görünenlerin hikayesini anlatıyor ve 'avantaj' ile 'dezavantaj' sayılan unsurların aslında göründükleri gibi olmayabileceğini vurguluyor."
 tag: "psikoloji"
 posted: 2021-09-15
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "4"
 num: "193"

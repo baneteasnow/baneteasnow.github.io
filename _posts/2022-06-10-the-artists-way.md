@@ -14,8 +14,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-10
 tag: "yazmak ve yaratıcılık"
-instagram: "https://www.instagram.com/p/CfeZagCoUIN/"
-insta: "yes"
 reread: "yes"
 rating: "5"
 num: "258"

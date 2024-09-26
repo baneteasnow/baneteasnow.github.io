@@ -14,8 +14,6 @@ last_modified_at: 2023-08-07
 published: true
 posted: 2023-08-07
 tag: "veganlık"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "Oben Budak explains the meaning of being a vegan while telling his story about how he has become one."

@@ -13,8 +13,6 @@ last_modified_at: 2023-01-14
 posted: 2023-01-14
 published: true
 tag: "minimalizm"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "172"

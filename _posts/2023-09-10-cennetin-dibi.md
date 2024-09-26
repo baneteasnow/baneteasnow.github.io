@@ -14,8 +14,6 @@ last_modified_at: 2023-09-10
 published: true
 posted: 2023-09-10
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: ""

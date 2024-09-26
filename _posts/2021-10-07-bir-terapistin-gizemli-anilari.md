@@ -13,17 +13,15 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2021-10-07
 tag: "lifestyle"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 num: "198"
 image: "/assets/new/bir-terapistin-gizemli-anilari.jpg"
 ---
 
-Nefes terapisti Ülker Uzun Polat, danışanlarıyla yaptığı nefes çalışmalarının onlar üzerindeki etkisini çarpıcı diyaloglarla aktarıyor. Kitapta vurgulanan en önemli nokta ise değişimin ancak ve ancak kişi değişime hazır olduğunda gerçekleştiği olmuş. 
+Nefes terapisti Ülker Uzun Polat, danışanlarıyla yaptığı nefes çalışmalarının onlar üzerindeki etkisini çarpıcı diyaloglarla aktarıyor. Kitapta vurgulanan en önemli nokta ise değişimin ancak ve ancak kişi değişime hazır olduğunda gerçekleştiği olmuş.
 
-Ülker Uzun Polat, danışanları ile olan ilişkisinde onlara faydalı olabilmek için dikkat ettiği noktaları da yer yer paylaşıyor. Örneğin, bir danışanın ihtiyaç duyduğu tekniği doğru belirlemek adına onun aktardığı sorunlar içinde kök nedeni bulabilmenin ne kadar kritik olduğu gibi. Kitapta yer alan pek çok öyküde, kök neden genellikle geçmişle ilgili oluyor. Danışan, olumsuz bir olay deneyimliyor, sonraki süreçte ise neden sonuç ilişkisi kurarak bu olayın etkisinden kurtulamadığı bir yaşama sürükleniyor. Ya da danışanın sorunlarının pek çoğunun aslında çevresi tarafından kendisine dayatıldığı ortaya çıkıyor. Seanslardan sonra danışanlar genellikle bir farkındalık kazanıyor ve olumlu şekilde yaşamlarını dönüştürmenin yolunu buluyorlar. Tabii ki, her danışanın öyküsü olumlu olmayabiliyor; tam olumluya gidecekken kendi çıkmazına geri dönenler de olabiliyor. 
+Ülker Uzun Polat, danışanları ile olan ilişkisinde onlara faydalı olabilmek için dikkat ettiği noktaları da yer yer paylaşıyor. Örneğin, bir danışanın ihtiyaç duyduğu tekniği doğru belirlemek adına onun aktardığı sorunlar içinde kök nedeni bulabilmenin ne kadar kritik olduğu gibi. Kitapta yer alan pek çok öyküde, kök neden genellikle geçmişle ilgili oluyor. Danışan, olumsuz bir olay deneyimliyor, sonraki süreçte ise neden sonuç ilişkisi kurarak bu olayın etkisinden kurtulamadığı bir yaşama sürükleniyor. Ya da danışanın sorunlarının pek çoğunun aslında çevresi tarafından kendisine dayatıldığı ortaya çıkıyor. Seanslardan sonra danışanlar genellikle bir farkındalık kazanıyor ve olumlu şekilde yaşamlarını dönüştürmenin yolunu buluyorlar. Tabii ki, her danışanın öyküsü olumlu olmayabiliyor; tam olumluya gidecekken kendi çıkmazına geri dönenler de olabiliyor.
 
 "Karşımızdaki insanın ne yaptığından çok bunun bizde yarattığı duyguya ve neden böyle bir duygu içinde olduğumuza yoğunlaşmak bana her zaman daha akılcı ve yapıcı geliyor. Sonuçta onu ve eylemlerini, yapmış olduklarını ya da yapacaklarını değiştirme gücümüz yok ama kendi duygularımız üzerinde her zaman kontrol sahibiyiz." (sayfa 68)
 
@@ -34,7 +32,7 @@ Ah işte! Kontrol... Kontrolle kimsenin bir sorunu yok aslında. Kontrol etmek i
 
 "Artık yapılacak bir şey kalmadığından olunacak bir hal olursun sadece. O da mutluluktur, neşedir, hafifliktir." (sayfa 101)
 
-"Pencereden bakıyor, 'Aman' diyor. 'Beni şimdi Kanada'ya götürsen ne olacak? Mutlu mu olacağım sanki?' 
+"Pencereden bakıyor, 'Aman' diyor. 'Beni şimdi Kanada'ya götürsen ne olacak? Mutlu mu olacağım sanki?'
 Gülmeye başlıyoruz.
 Doğru ya, istersen İzlanda'ya git. Ne olacak? İçindeki karamsarlığı, mutsuzluğu oraya da götürdükten sonra." (sayfa 137)
 
@@ -43,4 +41,3 @@ Doğru ya, istersen İzlanda'ya git. Ne olacak? İçindeki karamsarlığı, muts
 "Modern çağın yaşam şekli bizi bir an bile durmadan, duygularımızın, hislerimizin ötesinde bir koşuşturma halinde tutmakta ve biz de çoğunlukla bunları fark etmeden, zihin kalıplarımızla, düşüncelerimizle zihnimizin içinde yaşıyoruz. Ne hissettiğimize bakmadan, ruhumuza sormadan yaşıyoruz. Oysaki, bu çok büyük bir eksiklik." (sayfa 363)
 
 Bir Terapistin Gizemli Anıları, özellikle nefes üzerine çalışarak bir terapistin desteği ile kendi kişisel gelişim yolculuklarına çıkmak isteyenlere karşılaşacakları süreç hakkında çeşitli ipuçları veren bir kitap.
-

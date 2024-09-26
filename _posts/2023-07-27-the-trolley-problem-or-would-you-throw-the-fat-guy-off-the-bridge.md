@@ -15,8 +15,6 @@ last_modified_at: 2023-07-27
 published: true
 posted: 2023-07-27
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: "The Trolley Problem explores a philosophical dilemma that raises questions about moral decision-making."

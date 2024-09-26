@@ -14,8 +14,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2021-06-25
 tag: "üretkenlik ve teknoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "179"
@@ -31,7 +29,9 @@ Bullet journal methodunun bir anda bu kadar popüler olmasının belki de en bü
 Bir kez kullanılmaya başlandığında kişinin günlük ihtiyaçlarına göre şekillendirebileceği bullet journal methodu, bir üre sonra büyük resmi görmeyi de sağlayacağı için hem doğru olana odaklanma ihtiyacını karşılar hem de daha az çaba ile daha fazlasını başarmak noktasında yardımcı olur. Amerikalılar, 1950 ve 2000' li yıllar arasında kendi üretkenliklerini 1-4% seviyesinde arttırmayı başarmışlardır. 2005 yılında bu gelişimde bir yavaşlama yaşanmış ve 2016 yılından bu yana ise üretkenlik seviyesinde her geçen yıl bir düşme yaşanmaya başlanmıştır. Bu düşüşün bir nedeni her geçen gün artan aşırı bilgi yüküdür.
 
 #### Sistem
+
 ##### Collections
+
 - Index
 - Future Log
 - Monthly Log
@@ -43,21 +43,23 @@ Bir kez kullanılmaya başlandığında kişinin günlük ihtiyaçlarına göre 
 - Custom Collections
 
 ##### Kullanılan hatırlatıcı işaretler
+
 . tasks  
 \- note  
-o events  
+o events
 
 . task incomplete  
 x task complete  
 \> task migrated (into collection)  
 \< task scheduled (into future log)  
-<strike>task irrelevant</strike>  
+<strike>task irrelevant</strike>
 
 \* Piority  
-! Inspıration 
+! Inspıration
 
 #### Uygulama
-- sabah saatleri (a.m.) günü planla  
-- akşam saatleri (p.m.) günü değerlendir  
+
+- sabah saatleri (a.m.) günü planla
+- akşam saatleri (p.m.) günü değerlendir
 
 Ryder Carroll, kitabın ilerleyen sayfalarında bullet journal methodunun getireceği faydaları çeşitli örneklerle anlatıyor ve odaklanmayı sağlamak amacını kaybetmediği sürece aslında bullet journal tutmanın pek de 'doğru' bir yöntemi olmadığını vurguluyor.

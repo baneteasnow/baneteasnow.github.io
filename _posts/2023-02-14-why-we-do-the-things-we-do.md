@@ -14,8 +14,6 @@ last_modified_at: 2023-02-14
 published: true
 posted: 2023-02-14
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 num: "303"
@@ -24,9 +22,9 @@ eng: "In Why We Do the Things We Do, Joel Levy presents an insightful examinatio
 image: "/assets/new/why-we-do-the-things-we-do.jpg"
 ---
 
-On dokuzuncu yüzyılın sonlarına kadar henüz tanınmış bir bilim dalı haline gelmemiş olan psikoloji, insan zihnini inceler. Psikolojinin bilim olarak doğuşu 1879 yılında Almanya'da Leipzig Ünversitesi'nde Deneysel Psikoloji Enstitüsü'nü kuran Wilhelm Wundt'a kadar dayanır. 
+On dokuzuncu yüzyılın sonlarına kadar henüz tanınmış bir bilim dalı haline gelmemiş olan psikoloji, insan zihnini inceler. Psikolojinin bilim olarak doğuşu 1879 yılında Almanya'da Leipzig Ünversitesi'nde Deneysel Psikoloji Enstitüsü'nü kuran Wilhelm Wundt'a kadar dayanır.
 
-"Yaptığımız Şeyleri Neden Yaparız?",  psikolojiyle ilgili sorulara giriş düzeyinde kısa cevaplar getirirken yer yer felsefeye de dokunuyor.
+"Yaptığımız Şeyleri Neden Yaparız?", psikolojiyle ilgili sorulara giriş düzeyinde kısa cevaplar getirirken yer yer felsefeye de dokunuyor.
 
 Kitapta cevaplanan sorulardan bazıları:
 

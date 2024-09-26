@@ -13,8 +13,6 @@ description: "Matthew Walker, Why We Sleep isimli kitabında uyku ve uykuya dair
 posted: 2021-05-26
 last_modified_at: 2023-01-14
 tag: "sağlık"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 num: "174"

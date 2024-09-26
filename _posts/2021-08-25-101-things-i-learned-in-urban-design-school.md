@@ -13,8 +13,6 @@ published: true
 description: "101 Things I Learned in Urban Design School, şehir planlama ile ilgili temel kavramları ele alıyor."
 posted: 2021-08-25
 tag: "şehir planlama"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "190"

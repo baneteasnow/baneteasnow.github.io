@@ -15,8 +15,6 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-21
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "264"
@@ -30,6 +28,7 @@ Zor Bir Ailede Büyümek, bir kişinin çocuklukta anne babası ile olan ilişki
 Her ailenin hiç kuşkusuz kendi içinde dengeleri vardır, her gün aynı pozitiflikte geçmeyebilir, yaşanan sorunlarla ilişkiler zaman zaman gerilebilir. Ancak, bireylerin karşılıklı olarak saygılarını korumaları ve birbirlerine destek olmaları ile bu dönemler atlatılır, yapılan hatalar telafi edilir, aile ilişkileri bu sayede devamlılığını korur. Sağlıklı aile ilişkilerinde bireyler destek bulur, sorumluluk alır, bağımsız hareket edebilir ve kendilerine değer verildiğini hissettikleri için hem yeterlilik duygusunu yaşarlar hem de bu duyguyu sonraki nesillere aktarabilirler. Kitapta bahsedilen toksik ebeveynler ise kontrolcü, suistimal edici, kışkırtıcı, yetersiz olmaları nedeni ile çocuklarının kendilerine olan bağımlılıklarını kullanırlar ve onlar üzerinde telafisi güç yaralar bırakırlar.
 
 Kitabın ilk kısmında toksik anne babalar,
+
 - sürekli kendi problemlerine odaklanan yetersiz ebeveynler,
 - çocuklarının hayatlarına aşırı şekilde müdahalede bulunan, suçluluk duygusu yaratarak onları manipüle eden kontrolcü ebeveynler,
 - alkol bağımlılıkları nedeni ile düzensiz ruh hallerini çocuklarına yansıtan ebeveynler,

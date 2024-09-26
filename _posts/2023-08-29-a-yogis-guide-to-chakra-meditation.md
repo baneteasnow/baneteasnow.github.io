@@ -14,8 +14,6 @@ last_modified_at: 2023-08-29
 published: true
 posted: 2023-08-29
 tag: "lifestyle"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 eng: "A Yogi's Guide to Chakra Meditation by Paul Grilley is a guidebook that explores chakra meditation within the context of yoga and meditation practices, offering insights on understanding the chakra system, achieving balance, and attaining inner peace through meditation."

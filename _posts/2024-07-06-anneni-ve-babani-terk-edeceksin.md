@@ -14,8 +14,6 @@ last_modified_at: 2024-07-06
 published: true
 posted: 2024-07-06
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: ""

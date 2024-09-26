@@ -13,8 +13,6 @@ goodreads: "https://www.goodreads.com/book/show/49188385-101-things-i-learned-in
 posted: 2021-06-16
 last_modified_at: 2023-01-14
 tag: "endüstriyel tasarım"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "177"

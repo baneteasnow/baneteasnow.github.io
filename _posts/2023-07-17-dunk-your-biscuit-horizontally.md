@@ -15,8 +15,6 @@ last_modified_at: 2023-07-17
 published: true
 posted: 2023-07-17
 tag: "sosyal bilimler"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "Dunk Your Biscuit Horizontally is an intriguing pop culture book written by Rik Kuiper and Tonie Mudde."

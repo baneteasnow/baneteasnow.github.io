@@ -15,8 +15,6 @@ last_modified_at: 2023-07-18
 published: true
 posted: 2023-07-18
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "It Didn't Start with You explores inherited family trauma, epigenetics, and the power of healing generational patterns. Through research and personal stories, Wolynn offers practical exercises for uncovering and healing ancestral wounds to create a more authentic life. "

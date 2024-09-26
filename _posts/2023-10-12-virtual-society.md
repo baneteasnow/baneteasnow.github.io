@@ -14,8 +14,6 @@ last_modified_at: 2023-10-12
 published: true
 posted: 2023-10-12
 tag: "teknoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: ""

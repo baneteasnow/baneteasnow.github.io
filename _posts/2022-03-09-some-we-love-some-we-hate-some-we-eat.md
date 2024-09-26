@@ -13,8 +13,6 @@ published: true
 description: "Sevdiklerimiz, Tiksindiklerimiz, Yediklerimiz isimli kitapta antrozoolog Hal Herzog hayvanlarla insanlar arasındaki ilişkiyi kişisel, kültürel ve inançsal boyutları ile ahlaki açıdan ele alıyor."
 tag: "hayvan hakları"
 posted: 2022-03-09
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 num: "229"

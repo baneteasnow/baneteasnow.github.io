@@ -14,8 +14,6 @@ last_modified_at: 2023-08-15
 published: true
 posted: 2023-08-15
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "The Talent Code by Daniel Coyle reveals the principles behind skill development across various disciplines, emphasizing the importance of deliberate practice, coaching, and the myelin sheath in achieving expertise."

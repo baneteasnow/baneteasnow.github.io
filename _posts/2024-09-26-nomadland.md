@@ -10,17 +10,15 @@ yil: "2021"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/38212124-nomadland"
 description: ""
-last_modified_at: 2024-09-27
-published: false
-posted: 2024-09-27
+last_modified_at: 2024-09-26
+published: true
+posted: 2024-09-26
 tag: "sosyoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
-rating: "3"
+rating: "2"
 eng: ""
 openai: "no"
-num: "440"
+num: "438"
 publisher: "Ithaki Yayinlari"
 image: "/assets/new/nomadland.jpg"
 update: "tobeupdated"

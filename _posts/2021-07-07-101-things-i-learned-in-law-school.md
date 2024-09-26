@@ -13,16 +13,14 @@ description: "Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in 
 last_modified_at: 2023-01-14
 posted: 2021-07-07
 tag: "hukuk"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "182"
 image: "/assets/new/101-things-i-learned-in-law-school.jpg"
 ---
 
-Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in Law School, ABD'deki hukuk sisteminin nasıl işlediğini de ele alıyor. 
+Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in Law School, ABD'deki hukuk sisteminin nasıl işlediğini de ele alıyor.
 
-Kitapta vurgulanan noktalardan bir tanesi, duruşmalarda söylenilenler kadar bu söylemlerin nasıl yapıldığının da çok önemli olduğu. Dikkat çekici diğer iki nokta ise dürüst olmakla doğruları söylemek arasındaki fark ve bir kuralın istisnası varsa, çoğu kez bu istisna kuralın yerine geçeceği vurgusu. 
+Kitapta vurgulanan noktalardan bir tanesi, duruşmalarda söylenilenler kadar bu söylemlerin nasıl yapıldığının da çok önemli olduğu. Dikkat çekici diğer iki nokta ise dürüst olmakla doğruları söylemek arasındaki fark ve bir kuralın istisnası varsa, çoğu kez bu istisna kuralın yerine geçeceği vurgusu.
 
-Kitapta, çeşitli davalardan örnekler de yer alıyor. 
+Kitapta, çeşitli davalardan örnekler de yer alıyor.

@@ -14,8 +14,6 @@ last_modified_at: 2023-10-17
 published: true
 posted: 2023-10-17
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 eng: "İnsan Olmak by Engin Geçtan is a philosophical exploration of the essence of human existence and what it means to be human."

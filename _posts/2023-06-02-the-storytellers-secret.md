@@ -15,8 +15,6 @@ last_modified_at: 2023-06-02
 published: true
 posted: 2023-06-02
 tag: "motivasyon"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "In  The Storyteller's Secret, Carmine Gallo argues that storytelling is a powerful tool that can be used to persuade, inspire, and motivate others. He draws on neuroscience, psychology, and sociology research to explain why stories are so effective at capturing our attention and influencing our behaviour. Gallo also provides practical advice on how to craft and deliver compelling stories."

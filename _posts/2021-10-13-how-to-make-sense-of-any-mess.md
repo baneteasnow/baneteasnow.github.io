@@ -13,8 +13,6 @@ published: true
 description: "How To Make Sense Of Any Mess, Abby Covert'in bilgi mimarisi (Information Architecture) hakkında yazdığı bir kitap."
 tag: "bilgi sistemleri"
 posted: 2021-10-13
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "199"
@@ -33,7 +31,7 @@ Abby Covert kitapta, herhangi bir bilgi mimarisi projesi için 7 aşamalı bir s
 4\. Bir yön belirle  
 5\. Aradaki farkı gör  
 6\. Yapı ile oyna  
-7\. Uyum göstermeye hazırlan  
+7\. Uyum göstermeye hazırlan
 
 Bilgi, ipucu verir. Bizler, karşı taraf için bir yapıyı anlamlı hale getirmek için uğraşsak da, esas iş kullanıcıya düşer. Kullanıcı karşısına çıkan yapıdan gerekli bilgiyi almalıdır, yoksa harcanan emek ve zaman boşa gider. Bundan dolayıdır ki, bir amaçla başlamak, hedef kitleyi belirlemek çok önemlidir. 'Ne' sorusu, 'nasıl'dan önce gelmelidir.
 

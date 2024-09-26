@@ -13,8 +13,6 @@ published: true
 last_modified_at: 2024-07-29
 posted: 2013-12-25
 tag: "çalışma yaşamı"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "3"

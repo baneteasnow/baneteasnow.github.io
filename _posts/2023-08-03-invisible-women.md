@@ -14,8 +14,6 @@ last_modified_at: 2023-08-03
 published: true
 posted: 2023-08-03
 tag: "sosyoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 eng: "Invisible Women by Caroline Criado Perez exposes the pervasive gender data gap, revealing how the world's design, policies, and decisions are fundamentally biased against women due to a lack of gender-inclusive data."

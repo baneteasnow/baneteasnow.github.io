@@ -15,8 +15,6 @@ last_modified_at: 2023-07-20
 published: true
 posted: 2023-07-20
 tag: "sosyal bilimler"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "Stats and Curiosities explores everyday topics through the lens of statistics and intriguing facts, providing insights into understanding the world around us."

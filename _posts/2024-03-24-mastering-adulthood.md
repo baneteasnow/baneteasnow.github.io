@@ -12,10 +12,8 @@ goodreads: "https://www.goodreads.com/book/show/38744766-mastering-adulthood"
 description: ""
 last_modified_at: 2024-03-24
 published: true
-posted: 2024-03-24 
+posted: 2024-03-24
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "2"
 eng: ""

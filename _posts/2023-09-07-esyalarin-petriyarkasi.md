@@ -14,8 +14,6 @@ last_modified_at: 2023-09-07
 published: true
 posted: 2023-09-07
 tag: "sosyoloji"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 eng: ""

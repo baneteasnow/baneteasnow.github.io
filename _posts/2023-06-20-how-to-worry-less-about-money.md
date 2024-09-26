@@ -15,8 +15,6 @@ last_modified_at: 2023-06-20
 published: true
 posted: 2023-06-20
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: "How to Worry Less About Money by John Armstrong is a practical guide to reducing financial stress and cultivating a healthier mindset towards money."

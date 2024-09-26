@@ -15,8 +15,6 @@ last_modified_at: 2023-06-23
 published: true
 posted: 2023-06-23
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: "Tom Whyman's first book, Infinitely Full of Hope, explores the philosophy of hope by questioning whether it is cruel to bring new life into a bad world."

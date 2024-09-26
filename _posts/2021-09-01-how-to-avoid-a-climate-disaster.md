@@ -13,8 +13,6 @@ description: "Bill Gates, How to Avoid a Climate Disaster isimli kitabında ikli
 posted: 2021-09-01
 last_modified_at: 2023-01-14
 tag: "küresel ısınma"
-instagram: "yes"
-insta: "no"
 reread: "no"
 rating: "4"
 num: "191"

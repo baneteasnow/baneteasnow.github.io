@@ -15,8 +15,6 @@ last_modified_at: 2023-06-15
 published: true
 posted: 2023-06-15
 tag: "mindfulness"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "4"
 eng: "Mindfulness by Ellen J. Langer explores the transformative power of being fully present in the moment and offers practical strategies for incorporating mindfulness into everyday life. The book provides insights, examples, and research to inspire readers to cultivate a more conscious and fulfilling existence."

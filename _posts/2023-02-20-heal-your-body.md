@@ -14,8 +14,6 @@ last_modified_at: 2023-02-20
 published: true
 posted: 2023-02-20
 tag: "psikoloji"
-instagram: "no"
-insta: "no"
 reread: "no"
 num: "309"
 rating: "4"
@@ -24,16 +22,14 @@ eng: "Heal Your Body by Louise L. Hay discusses the connection between the mind 
 image: "/assets/new/heal-your-body.jpg"
 ---
 
-Bir kişini zihinsel ya da sözlü olarak etrafına yaydığı her şey aynı biçimde kendisine geri yansır. Deneyimlerimizi şekillendiren düşünce kalıpları, hayatımızdaki olumlu ya da olumsuz şeylerin bir sonucudur. 
+Bir kişini zihinsel ya da sözlü olarak etrafına yaydığı her şey aynı biçimde kendisine geri yansır. Deneyimlerimizi şekillendiren düşünce kalıpları, hayatımızdaki olumlu ya da olumsuz şeylerin bir sonucudur.
 
-Bir rahatsızlığı kalıcı bir şekilde ortadan kaldırmak için, öncelikle onu yaratan zihinsel nedeni belirlemek ve çözmek gerekir. 
+Bir rahatsızlığı kalıcı bir şekilde ortadan kaldırmak için, öncelikle onu yaratan zihinsel nedeni belirlemek ve çözmek gerekir.
 
 Tüm Hastalıkların Zihinsel Nedenleri, rahatsızlıkların ve hastalıkların ardındaki olası zihinsel kalıpları ve olası nedenleri içeren listeyi paylaşmaktadır. Aynı listede, söz konusu hastalık ya da rahatsızlıktan kaçınmak için edinilmesi gereken yeni düşünce modeli de bulunmaktadır.
 
-| Sorun | Olası Neden | Yeni Düşünce Modeli  |
-|:---:|:---- |:---- |
-| Acı, Ağrı| Suçluluk duygusu. Suçluluk duygusu daima ceza peşinde koşar. | Geçmişi sevgiyle bırakıyorum. Huzur içindeyim. |
-| Anksiyete | Hayatın akışına, yaşam sürecine güvenmemek. | Kendimi seviyor ve onaylıyorum. Yaşam sürecine güveniyorum. Ben güvendeyim. |
-| Bağımlılıklar | Kendinden kaçış. Korku. Kendini nasıl sevebileceğini bilememek. | Ne kadar harika olduğumu şimdi keşfediyorum. Kendimi sevmeyi seçiyorum. |
-
-
+|     Sorun     | Olası Neden                                                     | Yeni Düşünce Modeli                                                         |
+| :-----------: | :-------------------------------------------------------------- | :-------------------------------------------------------------------------- |
+|   Acı, Ağrı   | Suçluluk duygusu. Suçluluk duygusu daima ceza peşinde koşar.    | Geçmişi sevgiyle bırakıyorum. Huzur içindeyim.                              |
+|   Anksiyete   | Hayatın akışına, yaşam sürecine güvenmemek.                     | Kendimi seviyor ve onaylıyorum. Yaşam sürecine güveniyorum. Ben güvendeyim. |
+| Bağımlılıklar | Kendinden kaçış. Korku. Kendini nasıl sevebileceğini bilememek. | Ne kadar harika olduğumu şimdi keşfediyorum. Kendimi sevmeyi seçiyorum.     |

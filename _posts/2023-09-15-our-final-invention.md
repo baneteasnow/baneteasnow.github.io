@@ -14,8 +14,6 @@ last_modified_at: 2023-09-15
 published: true
 posted: 2023-09-15
 tag: "yapay zeka"
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "4"
 eng: "Our Final Invention by James Barrat delves into the ethical and existential implications of the rise of superintelligent artificial intelligence and its potential impact on humanity."

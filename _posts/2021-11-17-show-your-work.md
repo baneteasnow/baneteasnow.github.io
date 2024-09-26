@@ -13,8 +13,6 @@ published: true
 description: "Austin Kleon, Show Your Work! isimli kitabında ortaya çıkan eserleri görünür kılmanın ve büyük kitlelere ulaştırmanın yollarını paylaşıyor."
 tag: "yaratıcılık"
 posted: 2021-11-17
-instagram: "no"
-insta: "no"
 reread: "yes"
 rating: "5"
 num: "204"
@@ -44,4 +42,4 @@ Kitaptaki başlıklar şöyle:
 7\. Kendinizi ise yaramaz birine dönüştürmeyin  
 8\. Eleştiri kabul etmeyi öğrenin  
 9\. Satış yapın  
-10\. Israrcı olun  
+10\. Israrcı olun

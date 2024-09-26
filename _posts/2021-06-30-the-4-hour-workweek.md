@@ -13,8 +13,6 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2021-06-30
 tag: "kariyer"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 num: "180"

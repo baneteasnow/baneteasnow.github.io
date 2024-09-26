@@ -14,8 +14,6 @@ last_modified_at: 2024-02-10
 published: true
 posted: 2024-02-10
 tag: "siyaset bilimi"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "3"
 eng: ""

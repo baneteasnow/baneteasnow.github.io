@@ -15,8 +15,6 @@ last_modified_at: 2023-07-01
 published: true
 posted: 2023-07-01
 tag: "felsefe"
-instagram: "no"
-insta: "no"
 reread: "no"
 rating: "5"
 eng: "The book Heartbreak by The School of Life offers compassionate insights and practical guidance on navigating the emotional challenges of heartbreak and finding healing and growth."
