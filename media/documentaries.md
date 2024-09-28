@@ -7,10 +7,12 @@ title: "Belgeseller"
 ---
 
 {: #toc }
-* TOC
-{:toc class="toc1"} 
+
+- TOC
+  {:toc class="toc1"}
 
 #### [The Social Dilemma (Belgesel)](#the-social-dilemma)
+
 {: #the-social-dilemma }
 
 Facebook, Instagram, Twitter, Pinterest, Google ve benzer diğer platformlarda gerçek ürün aslında kullanıcılar ve onların bu platformları kullanmaya ayırdıkları dikkatleri. The Social Dilemma, bu konuda yapılmış olan ilk belgesel olmasa da, görüşlerine yer verilen isimler oldukça dikkat çekici, pek çoğu bu platformları geliştiren ve onlara yeni özellikler ekleyen isimler.
@@ -21,10 +23,11 @@ Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, ins
 
 <i>2020  
 94 dk.  
-[imdb](https://www.imdb.com/title/tt11464826/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt11464826/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Terms and Conditions May Apply (Belgesel)](#terms-and-conditions-may-apply)
+
 {: #terms-and-conditions-may-apply }
 
 Terms and Conditions May Apply, Google, Facebook, Instagram, Twitter ve diğer pek çok ücretsiz platformda kullanıcı olabilmek için çoğu zaman hiç düşünmeden kabul ettiğimiz hüküm ve koşulların bize aslında neye malolduğunu anlatıyor. Beğendiklerimiz, arama geçmişimiz, bulunduğumuz lokasyonlar, iletişimde olduğumuz kişiler, hangi resimlere kaç saniye baktığımız gibi aslında çok değerli bilgileri bu platformlarla paylaşıyoruz, üstelik kendi isteğimizle, hiçbir itiraz hakkımız olmadığını baştan kabul ederek. Kullanıcıların dikkati, bu platformların ürünü haline geliyor.
@@ -32,45 +35,49 @@ Terms and Conditions May Apply, Google, Facebook, Instagram, Twitter ve diğer p
 Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaların öncülerinden olan bu belgesel özel hayatın gizliliğinin olmadığını vurguluyor. Üstelik, sizin sosyal medyada hesabınızın olmamasının güvende kalmanız için asla yeterli olamayacağı da vurgulanıyor.
 
 <i>2013  
-80 dk.   
-[imdb](https://www.imdb.com/title/tt2084953/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+80 dk.  
+[imdb](https://www.imdb.com/title/tt2084953/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Minimalism: A Documentary About the Important Things (Belgesel)](#minimalism)
+
 {: #minimalism }
 
 The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Nicodemus, bu belgeselde daha az eşya ile yaşamaya karar veren insanların öykülerini paylaşıyor. Daha azla yaşamak hiç birşeyle yaşamak değil kesinlikle. Sadece yetecek olan kadarı ile yaşamak. İçinde bulunduğunuz ortamdaki eşyaların ve nesnelerin sayısını azaltmak aynı zamanda o ortamdaki arınmayı ve ferahlığı da beraberinde getiriyor aslında. Daha sürdürülebilir bir hayat tarzına geçenlerin öyküsü aslında ilham veriyor, sadece almak için almak değil gerçekten gerekli olanı almanın hem bireylere hem de dünyaya olumlu etkisi anlatılıyor. Sürdürülebilir bir dünya için, aynı zamanda, ikinci el eşya seçeneğini de unutmamak gerekli.
 
 <i>2015  
 79 dk.  
-[imdb](https://www.imdb.com/title/tt3810760/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt3810760/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Food, Inc. (Belgesel)](#food-inc)
+
 {: #food-inc }
 
-Her gün markete gidip satın aldığımız yiyecekler, hangi süreçlerden geçerek tabağımıza kadar ulaşıyor? İçeriklerinde hangi katkı maddeleri yer alıyor? Ve daha da önemli bir soru: Ne yediğimizi gerçekten bilseydik eğer, gene de yemeğe devam eder miydik? 
+Her gün markete gidip satın aldığımız yiyecekler, hangi süreçlerden geçerek tabağımıza kadar ulaşıyor? İçeriklerinde hangi katkı maddeleri yer alıyor? Ve daha da önemli bir soru: Ne yediğimizi gerçekten bilseydik eğer, gene de yemeğe devam eder miydik?
 
 Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda üretimi artık aynı şekilde yapılıyor, marketlerde aynı büyük firmalara ait yiyecekler kendine yer buluyor. Gıda firmalarının argümanı ise, giderek artan nüfusu beslemek için, yani herkese yetecek gıdanın üretimi için yeni yollar aradıkları yönünde. Hamburger Cumhuriyeti isimli kitabın yazarı Eric Schlosser'in de yeraldığı bu belgesel işte bu konuları tartışıyor.
 
 <i>2008  
 94 dk.  
-[imdb](https://www.imdb.com/title/tt1286537/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt1286537/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [The True Cost (Belgesel)](#the-true-cost)
+
 {: #the-true-cost }
 
-Giydiğimiz kıyafetlerin gerçek bedelini aslında kim ödüyor? $5 etiketi ile satılan tişörtlerin dünyaya gerçek maliyeti ne? Hızlı moda (fast fashion) akımının perde arkasını anlatan bu belgesel, moda sektöründe daha adil bir üretimin yollarını arıyor, sektörün yol açtığı etkileri tartışıyor. Bir tarafta düşük bütçeli hızlı tüketime yönelik moda akımına kapılmış tüketiciler ve diğer tarafta olumsuz şartlar altında üretime devam eden, farklı ülkelerdeki ucuz işgücünden yararlanan firmalar. En acı olaylardan biri 2013 yılında Bangladeş'te büyük bir felaketle sonuçlanan Rana Plza'nın çöküşüydü. Üstelik bu ne ilk ne de son örnek. 
+Giydiğimiz kıyafetlerin gerçek bedelini aslında kim ödüyor? $5 etiketi ile satılan tişörtlerin dünyaya gerçek maliyeti ne? Hızlı moda (fast fashion) akımının perde arkasını anlatan bu belgesel, moda sektöründe daha adil bir üretimin yollarını arıyor, sektörün yol açtığı etkileri tartışıyor. Bir tarafta düşük bütçeli hızlı tüketime yönelik moda akımına kapılmış tüketiciler ve diğer tarafta olumsuz şartlar altında üretime devam eden, farklı ülkelerdeki ucuz işgücünden yararlanan firmalar. En acı olaylardan biri 2013 yılında Bangladeş'te büyük bir felaketle sonuçlanan Rana Plza'nın çöküşüydü. Üstelik bu ne ilk ne de son örnek.
 
 Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 
 <i>2015  
 92 dk.  
-[imdb](https://www.imdb.com/title/tt3162938/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt3162938/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Forks Over Knives (Belgesel)](#forks-over-knives)
+
 {: #forks-over-knives }
 
 Forks Over Knives, batı tarzı diyetin yol açtığı hastalıklara ve kilo artışına dikkat çekerek başlıyor. Batı tarzı diyet, yüksek kalorili, protein açısından zengin, bol yağlı ancak lifli beşinden yoksun kızartılmış gıdanın yoğun olarak kullanıldığı beslenme tarzını temsil ediyor. Bu beslenme tarzı, özellikle zincir restoranlar ve paketli işlenmiş hazır gıdaların yaygın hale gelmesi ile tüm dünyaya yayılmış durumda. Belgeselde paylaşılan verilerine göre ABD'de nüfusun 40%'i obezite ile karşı karşıya. Bu veriler, 2011 yılı öncesine ait. Ayrıca, ABD nüfusunun yarısı düzenli olarak reçeteli ilaç kullanıyor. Şeker, kafein, tuz, yağ en çok tüketilen besin içerikleri arasında yer alıyor. Beslenme tarzının hazır ve işlenmiş yiyeceklere dayanması kitlesel bir sağlık krizine işaret ediyor, kal hastalıkları, kanser, yüksek tansiyon, diyabet gibi kronik pek çok hastalığı beraberinde getiriyor.
@@ -81,16 +88,17 @@ Belgeselde 'bitki bazlı beslenme' (whole food plant based diet) öneriliyor ve 
 
 Tuz, şeker, kızarılmış ürünler ile yağlı besinler bağımlılık yaratıyor. Yüksek kalorili olan bu gıdaların besin değeri çok zayıf. Beslenme düzeni pek çok hastalığın tetikleyicisi durumunda.
 
-Colin Campbell'in The China Study (2004) isimli kitabında sonuçlarını paylaştığı Çin'de yapılan araştırmada Çin'de batı tarzı diyet yaygınlaşmadan önce kırsal ve yarı kırsal sayılan bölgelerde yaşayan kişilerin diyet, hayat tarzları çeşitli kan ve idrar testleri ile kayda alınmış ve yıllar içinde geçirdikleri hastalıklar harita üzerinde bölgelere göre belirlenmiş. Bu araştırmada beslenme ve hastalıklar arasındaki ilişkiyi ortaya çıkarılıyor. Konuyla ilgili olarak, The Cheese Trap (2017)  isimli kitabın yazarı Dr. Neal Barnard'a ve onun görüşlerine de yer veriliyor.
+Colin Campbell'in The China Study (2004) isimli kitabında sonuçlarını paylaştığı Çin'de yapılan araştırmada Çin'de batı tarzı diyet yaygınlaşmadan önce kırsal ve yarı kırsal sayılan bölgelerde yaşayan kişilerin diyet, hayat tarzları çeşitli kan ve idrar testleri ile kayda alınmış ve yıllar içinde geçirdikleri hastalıklar harita üzerinde bölgelere göre belirlenmiş. Bu araştırmada beslenme ve hastalıklar arasındaki ilişkiyi ortaya çıkarılıyor. Konuyla ilgili olarak, The Cheese Trap (2017) isimli kitabın yazarı Dr. Neal Barnard'a ve onun görüşlerine de yer veriliyor.
 
 Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak için yemek yiyin."
 
 <i>2011  
 96 dk.  
-[imdb](https://www.imdb.com/title/tt1567233/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt1567233/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Food Fighter (Belgesel)](#food-fighter)
+
 {: #food-fighter }
 
 Ronni Kahn, Avustralya'da resmi otoriteleri harekete geçiren bir değişimi başlatan bir aktivist. Odaklandığı nokta, yiyecek israfı.
@@ -101,32 +109,34 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 
 <i>2018  
 87 dk.  
-[imdb](https://www.imdb.com/title/tt8142370/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt8142370/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [The Inventor: Out for Blood in Silicon Valley (Belgesel)](#the-inventor)
+
 {: #the-inventor }
 
-Elizabeth Holmes ve medikal kan testlerinin yapılış yönteminde devrim yaratma iddiası ile 2003 yılında kurduğu Theranos firmasının hikayesi bu belgeselde anlatılıyor. Elizabeth Holmes, yıllar içinde firmasına aldığı yatırımlar sayesinde Silikon Vadisi'ndeki en genç kadın milyarderlerden biri haline gelmiş, ancak The Wall Street Journal'da John Carreyrou imzasını taşıyan 'Hot Startup Theranos Has Struggled With Its Blood-Test Technology' isimli makalenin  2015 yılında yayınlanması ile firmanın sunduğu testlerin doğruluğu sorgulanmaya başlanmış. 
+Elizabeth Holmes ve medikal kan testlerinin yapılış yönteminde devrim yaratma iddiası ile 2003 yılında kurduğu Theranos firmasının hikayesi bu belgeselde anlatılıyor. Elizabeth Holmes, yıllar içinde firmasına aldığı yatırımlar sayesinde Silikon Vadisi'ndeki en genç kadın milyarderlerden biri haline gelmiş, ancak The Wall Street Journal'da John Carreyrou imzasını taşıyan 'Hot Startup Theranos Has Struggled With Its Blood-Test Technology' isimli makalenin 2015 yılında yayınlanması ile firmanın sunduğu testlerin doğruluğu sorgulanmaya başlanmış.
 
-Holmes, hayalini sağlık sistemine ve hastalıkları önceden teşhis edilmesine imkan veren kan testlerine herkesin ulaşabilmesi olarak açıklıyor kendisi ile yapılan bir röportajda. Belgeselde, yaşananlar ile ilgili görüşlerini paylaşan davranışsal iktisatçı Dan Ariely, ortaya çıkan olumsuz sonucu iyi anlayabilmek adına olayları baştan sona değerlendirmek ve Holmes'un hareket noktasını iyi analiz etmek gerektiğini belirtiyor. Holmes, erkeklerin egemen olduğu tıp dünyasında Theranos'un kuruluş hikayesini kişiselleştirerek anlatıyor. Kendisinin kan vermekten korktuğunu, bu işlemden hoşlanmadığını ve basit bir test ile hayatı kurtulabilecekken geç tanı nedeni ile amcasını kaybettiklerinden bahsediyor. 
+Holmes, hayalini sağlık sistemine ve hastalıkları önceden teşhis edilmesine imkan veren kan testlerine herkesin ulaşabilmesi olarak açıklıyor kendisi ile yapılan bir röportajda. Belgeselde, yaşananlar ile ilgili görüşlerini paylaşan davranışsal iktisatçı Dan Ariely, ortaya çıkan olumsuz sonucu iyi anlayabilmek adına olayları baştan sona değerlendirmek ve Holmes'un hareket noktasını iyi analiz etmek gerektiğini belirtiyor. Holmes, erkeklerin egemen olduğu tıp dünyasında Theranos'un kuruluş hikayesini kişiselleştirerek anlatıyor. Kendisinin kan vermekten korktuğunu, bu işlemden hoşlanmadığını ve basit bir test ile hayatı kurtulabilecekken geç tanı nedeni ile amcasını kaybettiklerinden bahsediyor.
 
-Theranos'da geliştirildiği söylenen ve patentleri dahi alınan cihazlar aslında çok karmaşık sistemlere sahip. Alanında uzman pek çok kişi, tanıtımı yapılan küçük cihazın iddia edilen testleri gerçekleştirmesinin fiziksel olarak imkansız olduğunu belirtiyor. Kimse, Theranos çalışanları dahil, bu cihazların nasıl çalıştığını anlayamazken, Holmes nanoteknoloji sayesinde kan testlerini yaptıklarını söylüyor. 
+Theranos'da geliştirildiği söylenen ve patentleri dahi alınan cihazlar aslında çok karmaşık sistemlere sahip. Alanında uzman pek çok kişi, tanıtımı yapılan küçük cihazın iddia edilen testleri gerçekleştirmesinin fiziksel olarak imkansız olduğunu belirtiyor. Kimse, Theranos çalışanları dahil, bu cihazların nasıl çalıştığını anlayamazken, Holmes nanoteknoloji sayesinde kan testlerini yaptıklarını söylüyor.
 
-Theranos, pek çok ünlü isimden yatırım almış. Bu kişiler arasında Silikon Vadisi firmalarına erken yatırımcı olarak katkı yapan ve tahminlerinde hemen hiç yanılmayan kişiler var. Belgeselde altı çizilen diğer bir nokta, Silikon Vadisi'nde aslında firmalardan çok firmanın vizyonuna ve liderine yatırım yapıldığı. Holmes, kilit isimleri etkilemeyi başarıyor ve bu isimler de firmaya referans oldukları için diğer yatırımcıları da firmaya çekmek kolaylaşıyor. Yatırımcıların aslında paralarını ortaya koydukları cihazlar hakkında pek bir fikirleri yok. 
+Theranos, pek çok ünlü isimden yatırım almış. Bu kişiler arasında Silikon Vadisi firmalarına erken yatırımcı olarak katkı yapan ve tahminlerinde hemen hiç yanılmayan kişiler var. Belgeselde altı çizilen diğer bir nokta, Silikon Vadisi'nde aslında firmalardan çok firmanın vizyonuna ve liderine yatırım yapıldığı. Holmes, kilit isimleri etkilemeyi başarıyor ve bu isimler de firmaya referans oldukları için diğer yatırımcıları da firmaya çekmek kolaylaşıyor. Yatırımcıların aslında paralarını ortaya koydukları cihazlar hakkında pek bir fikirleri yok.
 
-Pek çok doktor, firmanın yeterince şeffaf davranmadığını belirterek, testlerin nasıl yapıldığını açıklayana kadar Theranos'un testlerine güvenmediklerini açıklamışlar. 
+Pek çok doktor, firmanın yeterince şeffaf davranmadığını belirterek, testlerin nasıl yapıldığını açıklayana kadar Theranos'un testlerine güvenmediklerini açıklamışlar.
 
-Theranos, Walgreens ile yaptığı anlaşma ile menüden yemek seçer gibi kan testi seçilen mini kliniklerini devreye sokmuş. Ancak, Theranos'un sağladığı test sonuçlarını klasik yöntem ile gerçekleştirilen kan testi sonuçları ile karşılaştıran pek çok kişi, firmanın güvenirliğini sorgulamaya başlamış. 
+Theranos, Walgreens ile yaptığı anlaşma ile menüden yemek seçer gibi kan testi seçilen mini kliniklerini devreye sokmuş. Ancak, Theranos'un sağladığı test sonuçlarını klasik yöntem ile gerçekleştirilen kan testi sonuçları ile karşılaştıran pek çok kişi, firmanın güvenirliğini sorgulamaya başlamış.
 
-Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Carreyrou ise Elizabeth Holmes ve Theranos'un hikayesini ayrıntılı olarak Bad Blood (2018) isimli kitabında ele almıştır. 
+Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Carreyrou ise Elizabeth Holmes ve Theranos'un hikayesini ayrıntılı olarak Bad Blood (2018) isimli kitabında ele almıştır.
 
 <i>2019  
 119 dk.  
-[imdb](https://www.imdb.com/title/tt8488126/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt8488126/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Cowspiracy: The Sustainability Secret (Belgesel)](#cowspiracy)
+
 {: #cowspiracy }
 
 Belgeselin yazarı ve yönetmeni Kip Anderson, yıllar önce Al Gore'un 'An Inconvenient Truth' isimli belgeselinden etkilenerek günlük alışkanlıklarını değiştirmiş, örneğin, geri dönüşüme daha fazla önem verir almış, duşta su harcama süresini iyice azaltmış. Ancak, kazandığı bu ileri düzeyde biraz da 'takıntılı' çevreci bakışçısının yetmediğini düşünerek konuyu daha fazla araştırınca yıllık sera gazi salınımında sektörler arasında en üst sırada hayvancılığın geldiğini görmüş. Örneğin 1 hamburger için 660 galon su tüketilmesi gerekiyor. Bu miktar yaklaşık olarak iki ay süresince kısa duşlarda tüketilen su miktarına eşit. Oysa, ABD'de yıllık şu tüketimi incelendiğinde hayvancılık sektörü 55%'lik oran ile diğer tüm kalemlerin önüne geçiyor.
@@ -143,24 +153,26 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 
 <i>2014  
 90 dk.  
-[imdb](https://www.imdb.com/title/tt3302820/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt3302820/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [The September Issue (Belgesel)](#the-september-issue)
+
 {: #the-september-issue }
 
-Eylül ayı sonbaharın kendini yavaş yavaş göstermeye başladığı, yeni ürün lansmanlarının yapıldığı, yeni sezon koleksiyonlarının vitrinlere çıktığı aydır. Vogue dergisi için de yılın en önemli sayısı eylül ayınınkidir, çünkü moda dünyasının 'ocak' ayı 'eylül'dur. The September Issue, Vogue US'in Eylül 2007 sayısının hazırlanması sırasında derginin ünlü editörü Anna Wintour ve ekibini adım adım takip ediyor. Anna Wintor'ün beğenmediği ve bu nedenle İptal edilen çekimler, bu çekimlerin zaman baskısı altında yenilenmesi, kapak fotoğrafının seçilmesi, renk uyumuna gösterilen titizlik, sayının ana konseptinin belirlenmesi, gibi pek çok ayrıntı belgeselde yer alıyor. 
+Eylül ayı sonbaharın kendini yavaş yavaş göstermeye başladığı, yeni ürün lansmanlarının yapıldığı, yeni sezon koleksiyonlarının vitrinlere çıktığı aydır. Vogue dergisi için de yılın en önemli sayısı eylül ayınınkidir, çünkü moda dünyasının 'ocak' ayı 'eylül'dur. The September Issue, Vogue US'in Eylül 2007 sayısının hazırlanması sırasında derginin ünlü editörü Anna Wintour ve ekibini adım adım takip ediyor. Anna Wintor'ün beğenmediği ve bu nedenle İptal edilen çekimler, bu çekimlerin zaman baskısı altında yenilenmesi, kapak fotoğrafının seçilmesi, renk uyumuna gösterilen titizlik, sayının ana konseptinin belirlenmesi, gibi pek çok ayrıntı belgeselde yer alıyor.
 
-1988 yılından bu yana Vogue US'in editörlüğünü yapan Anna Wintour, o zamandan bu yana moda sektörüne öncülük yapan isim olarak biliniyor. Örneğin, dergi kapaklarında ünlülere yer vermek onun ilk uyguladığı fikirlerden biriymiş. Wintour, "moda, geçmişe değil geleceğe doğru bir bakıştır" diyor. 
+1988 yılından bu yana Vogue US'in editörlüğünü yapan Anna Wintour, o zamandan bu yana moda sektörüne öncülük yapan isim olarak biliniyor. Örneğin, dergi kapaklarında ünlülere yer vermek onun ilk uyguladığı fikirlerden biriymiş. Wintour, "moda, geçmişe değil geleceğe doğru bir bakıştır" diyor.
 
-Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına devam edeceklerini duyurdukları bugünlerde, bir moda dergisinin eylül sayısı heyecanını yansıtan bir belgesel The September Issue. Ancak, bu belgeselin çekilme tarihi olan 2007'den bugüne moda dünyasında çok fazla şeyin değişmiş olduğu da ayrı bir gerçek. 
+Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına devam edeceklerini duyurdukları bugünlerde, bir moda dergisinin eylül sayısı heyecanını yansıtan bir belgesel The September Issue. Ancak, bu belgeselin çekilme tarihi olan 2007'den bugüne moda dünyasında çok fazla şeyin değişmiş olduğu da ayrı bir gerçek.
 
 <i>2009  
 90 dk.  
-[imdb](https://www.imdb.com/title/tt1331025/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt1331025/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [The Minimalists: Less Is Now (Belgesel)](#the-minimalists)
+
 {: #the-minimalists }
 
 Online alışverişin bu kadar kolay olması, reklamlar, alınanların mutluluk getireceği gibi çeşitli etkenler, insanları aslında ihtiyaçları olmayan ürünler almaya itiyor. Oysa, tüketimin sınırlarını çoktan zorlar duruma geldik. Elimizdeki zaten mevcut ürünleri değerlendirmek yerine yenisini almak daha kolay. Aslında yaşamak için gerekli olan günlük eşyalar o kadar az ki.
@@ -183,24 +195,26 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 
 <i>2021  
 53 dk.  
-[imdb](https://www.imdb.com/title/tt13583144/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt13583144/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Take Your Pills (Belgesel)](#take-your-pills)
+
 {: #take-your-pills }
 
 2018 yapımı bir Netflix belgeseli olan Take Your Pills, hem öğrencilerin hem de yetişkinlerin konsantrasyonlarını arttırmak üzere başvurdukları en başlıca yöntem olan reçeteli ilaç kullanımının olumsuz sonuçlarını inceliyor. Verilen örnekler çarpıcı da olsa, belgeselde konunun işlenişi yer yer yüzeysel kalmış.
 
-Belgeselde paylaşılan örneklere göre, teknoloji ve finans sektörü çalışanlardan, yazılımcılardan, sınavlara hazırlanan öğrencilerden ya da yarışlara girmek üzere olan sporculardan her an en iyi performanslarını göstermeleri bekleniyor. Rekabet o kadar fazla ki, bir an duraksayan kişi hemen geriye düşüyor. Böyle baskı altında kalan kişiler, kesintisiz performans gösterebilmek için doktora başvurduklarında, pek çoğuna ADHD (Attention Deficit Hyperactivity Dışorder - Dikkat Eksikliği ve Hiperaktivite Bozukluğu) ya da benzer bir teşhis konuluyor. Bu kişilere, tüm olumsuz etkilerine rağmen, çeşitli ilaçlar veriliyor. Bu ilaçların düzenli olarak kullanılması gerekiyor. Bu sayede uzun süre yüksek dikkat gerektiren, aslında oldukça sıkıcı işler üzerinde çalışmaları mümkün hale gelse de, uzun vadede bu durum bir bağımlılık haline gelebiliyor. 
+Belgeselde paylaşılan örneklere göre, teknoloji ve finans sektörü çalışanlardan, yazılımcılardan, sınavlara hazırlanan öğrencilerden ya da yarışlara girmek üzere olan sporculardan her an en iyi performanslarını göstermeleri bekleniyor. Rekabet o kadar fazla ki, bir an duraksayan kişi hemen geriye düşüyor. Böyle baskı altında kalan kişiler, kesintisiz performans gösterebilmek için doktora başvurduklarında, pek çoğuna ADHD (Attention Deficit Hyperactivity Dışorder - Dikkat Eksikliği ve Hiperaktivite Bozukluğu) ya da benzer bir teşhis konuluyor. Bu kişilere, tüm olumsuz etkilerine rağmen, çeşitli ilaçlar veriliyor. Bu ilaçların düzenli olarak kullanılması gerekiyor. Bu sayede uzun süre yüksek dikkat gerektiren, aslında oldukça sıkıcı işler üzerinde çalışmaları mümkün hale gelse de, uzun vadede bu durum bir bağımlılık haline gelebiliyor.
 
 Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Belgeselde anlatılana göre, özellikle ergenlerde, bu teşhis konulduğunda anne-babalarda adeta bir rahatlama oluyor, pek çoğu çocuğunun başarılı olacağı düşüncesi ile ikinci bir uzman görüşü alma yoluna dahi gitmeden doktorun önerdiği tedaviyi benimsiyor, çocuklarını bu şekilde kontrol altında tutuyorlar. Take Your Pills, bu sayede else edilen başarının kişiye mi yoksa kişinin başvurduğu bu yönteme mi ait olduğunu sorguluyor.
 
 <i>2018  
 87 dk.  
-[imdb](https://www.imdb.com/title/tt7983844/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt7983844/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [What The Health (Belgesel)](#what-the-health)
+
 {: #what-the-health }
 
 Kip Anderson, What The Health isimli belgeselin hem yönetmeni hem de yazarı. Belgesel, genel olarak diyet ve hastalıklar arasındaki bağlantıyı araştırıyor. Ailesinde kalp rahatsızlığı, diyabet, kanser gibi pek çok hastalık bulunan Anderson, beslenme düzenini değiştirerek bu hastalıklara yakalanma riskini azaltıp azaltamayacağını sorguluyor.
@@ -213,10 +227,11 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 
 <i>2017  
 97 dk.  
-[imdb](https://www.imdb.com/title/tt5541848/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
+[imdb](https://www.imdb.com/title/tt5541848/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Seaspiracy (Belgesel)](#seaspiracy)
+
 {: #seaspiracy }
 
 Seaspiracy, balık tüketiminin etik ve çevre bakımından sonuçlarını küresel çapta ele alan bir belgesel. Belgeselin yapımcısı Cowspiracy (2014) ve What The Health (2017) belgeselleri ile tanınan Kip Anderson. Seaspiracy, filmin aynı zamanda yönetmeni de olan Ali Tabrizi’nin dünyanın ticari balıkçılık merkezlerinde iz sürmesini anlatıyor.
@@ -229,10 +244,11 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 
 <i>2021  
 79 dk.  
-[imdb](https://www.imdb.com/title/tt14152756/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}   
+[imdb](https://www.imdb.com/title/tt14152756/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
 #### [Earthlings (Belgesel)](#earthlings)
+
 {: #earthlings }
 
 Yönetmenliğini Shaun Monson’ın yaptığı ve Joaquin Phoenix seslendirdiği belgesel Earthlings, ticari hayvancılık hakkında her bakımdan çok çarpıcı gerçeklere yer veriyor. Bu belgeseli izlemesi hiç kolay değil, zira pek çok kişi bu belgeseli izledikten sonra hayvansal ürünleri tüketemediklerini ve veganlığı benimsediklerini belirtiyor.
@@ -249,10 +265,10 @@ Earthlings, hayvanlara yapılan uygulamaları beş farklı başlık altında ele
 
 Her başlık, hayvanlara yapılan uygulamalara odaklanarak adım adım inceleniyor. Hayvansal ürün tüketiminin bu canlılara bu kadar acı vermeye değip değmeyeceği sorgulanıyor.
 
-Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri. 
+Earthlings, konuya duyarlı herkese önerilen en ünlü yapımlardan biri.
 
 <i>2005  
 85 dk.  
-[imdb](https://www.imdb.com/title/tt0358456/){:target="_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  </i>
+[imdb](https://www.imdb.com/title/tt0358456/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
 <br />
