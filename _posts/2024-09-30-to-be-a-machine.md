@@ -4,7 +4,7 @@ layout: post
 category: book
 title: "To Be a Machine | Mark O'Connell (Kitap)"
 kitap: "To Be a Machine"
-tr: "-"
+tr: "Makine Olmak - Mütevazı Sorunumuz Ölümlülük"
 yazar: "Mark O'Connell"
 yil: "2018"
 sayfa: "272"
