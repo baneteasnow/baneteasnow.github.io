@@ -46,11 +46,11 @@ sayfa5: 328
 pageread5: 1
 
 # 6
-booktitle5: "To Be a Machine"
-bookyear5: 2018
-author5: "Alex Callinicos"
-sayfa5: 272
-pageread5: 1
+booktitle6: "To Be a Machine"
+bookyear6: 2018
+author6: "Alex Callinicos"
+sayfa6: 272
+pageread6: 1
 
 #
 #
