@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-09-26
+last_modified_at: 2024-09-28
 published: true
 
 # 1
@@ -22,7 +22,7 @@ booktitle2: "Notes from an Apocalypse"
 bookyear2: 2024
 author2: "Mark O'Connell"
 sayfa2: 184
-pageread2: 18
+pageread2: 61
 
 # 3
 booktitle3: "Yeniden"
@@ -43,6 +43,13 @@ booktitle5: "The New Age of Catastrophe"
 bookyear5: 2024
 author5: "Alex Callinicos"
 sayfa5: 328
+pageread5: 1
+
+# 6
+booktitle5: "To Be a Machine"
+bookyear5: 2018
+author5: "Alex Callinicos"
+sayfa5: 272
 pageread5: 1
 
 #
@@ -188,6 +195,26 @@ _by_ {{ page.author5 }}
  </div>
 
 <br />
+
+⁜ {{ page.read | plus: 6 }}
+
+{{ page.booktitle6 }} ({{ page.bookyear6 }})  
+_by_ {{ page.author6 }}
+
+<div style="font-size: 50%; font-style: italic;">
+   {{ page.sayfa6 }} sayfa
+ </div>
+
+ <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
+   {{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
+ </div>
+
+ <div>
+   <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
+   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
+     {{ page.pageread6 }}/{{ page.sayfa6 }}
+   </span>
+ </div>
 
 <br />
 <div style="clear: both"></div>
