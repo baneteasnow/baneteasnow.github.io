@@ -50,6 +50,7 @@ Dikkat edilmesi gereken nokta, mutluluk kavramının farklı kişilerce farklı 
 #### [İsviçre](#isvicre)
 
 {: #isvicre }
+
 Yazarın İsviçre'de yaptığı gözlemlere göre, Isviçre'liler nadir bulunan bir kombinasyona sahipler; refah ve sabır. Bu nedenle, kimse saatine bakmıyor, acele etmiyor. Ağırdan almak, günlük yaşamın parçası, bunu ani yaşamak için yapıyorlar. İsviçre vatandaşları, çeşitli konularda yılda ortalama 6-7 kez oy veriyorlar, bu durum onların demokrasi anlayışlarının bir parçası. Ayrıca, güven de mutluluk tanımlarının önemli bir unsuru.
 
 #### [Bhutan](#bhutan)
@@ -78,6 +79,7 @@ Taylandlılar, mutlu olup olmadıklarını düşünemeyecek kadar başka şeyler
 #### [Büyük Britanya](#buyuk-britanya)
 
 {: #buyuk-britanya }
+
 Yazar, Londra'da Heathrow Havaalanı'dan birkaç kilometre uzakta yer alan Slough'da bir televizyon deneyinin parçası olarak 50 kişiye verilen mutluluk manifestosunu ve sonrasında bu kişilerin mutluluklarının artıp artmadığını gözlemlemeye çalışıyor.
 
 #### [Hindistan](#hindistan)
