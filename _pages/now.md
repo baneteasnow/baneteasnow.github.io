@@ -7,7 +7,7 @@
 # : definition
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-09-28
+last_modified_at: 2024-09-30
 published: true
 
 # 1
@@ -18,34 +18,27 @@ sayfa1: 256
 pageread1: 9
 
 # 2
-booktitle2: "Notes from an Apocalypse"
-bookyear2: 2024
-author2: "Mark O'Connell"
-sayfa2: 184
-pageread2: 61
-
-# 3
 booktitle3: "Yeniden"
 bookyear3: 2023
 author3: "Zeyneb Uras"
 sayfa3: 136
 pageread3: 22
 
-# 4
+# 3
 booktitle4: "I Can Do It"
 bookyear4: 2019
 author4: "Louise L. Hay"
 sayfa4: 80
 pageread4: 1
 
-# 5
+# 4
 booktitle5: "The New Age of Catastrophe"
 bookyear5: 2024
 author5: "Alex Callinicos"
 sayfa5: 328
 pageread5: 1
 
-# 6
+# 5
 booktitle6: "To Be a Machine"
 bookyear6: 2018
 author6: "Alex Callinicos"
@@ -78,7 +71,7 @@ pageread6: 1
 # <br />
 #
 #
-read: 40
+read: 41
 ---
 
 ⁜ {{ page.read | plus: 1 }}
@@ -191,28 +184,6 @@ _by_ {{ page.author5 }}
    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
    <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
      {{ page.pageread5 }}/{{ page.sayfa5 }}
-   </span>
- </div>
-
-<br />
-
-⁜ {{ page.read | plus: 6 }}
-
-{{ page.booktitle6 }} ({{ page.bookyear6 }})  
-_by_ {{ page.author6 }}
-
-<div style="font-size: 50%; font-style: italic;">
-   {{ page.sayfa6 }} sayfa
- </div>
-
- <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
-   {{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
- </div>
-
- <div>
-   <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
-   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
-     {{ page.pageread6 }}/{{ page.sayfa6 }}
    </span>
  </div>
 

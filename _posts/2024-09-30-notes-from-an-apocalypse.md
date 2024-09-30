@@ -11,14 +11,14 @@ sayfa: "184"
 goodreads: "https://www.goodreads.com/book/show/52019031-notes-from-an-apocalypse"
 description: ""
 last_modified_at: 2024-09-30
-published: false
+published: true
 posted: 2024-09-30
 tag: "çevre"
 reread: "no"
 rating: "3"
 eng: ""
 openai: "no"
-num: ""
+num: "439"
 publisher: "Mundi"
 image: "/assets/new/notes-from-an-apocalypse.jpg"
 update: "tobeupdated"
