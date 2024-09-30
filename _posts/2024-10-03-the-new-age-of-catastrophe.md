@@ -10,9 +10,9 @@ yil: "2024"
 sayfa: "328"
 goodreads: "https://www.goodreads.com/book/show/63321704-the-new-age-of-catastrophe"
 description: ""
-last_modified_at: 2024-09-30
+last_modified_at: 2024-10-03
 published: false
-posted: 2024-09-30
+posted: 2024-10-03
 tag: "sosyoloji"
 reread: "no"
 rating: "3"

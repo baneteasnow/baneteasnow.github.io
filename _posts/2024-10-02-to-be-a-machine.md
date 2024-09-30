@@ -10,9 +10,9 @@ yil: "2018"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/30555486-to-be-a-machine"
 description: ""
-last_modified_at: 2024-09-30
+last_modified_at: 2024-10-02
 published: false
-posted: 2024-09-30
+posted: 2024-10-02
 tag: "teknoloji"
 reread: "no"
 rating: "3"

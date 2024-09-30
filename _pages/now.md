@@ -18,32 +18,25 @@ sayfa1: 256
 pageread1: 9
 
 # 2
-booktitle2: "Yeniden"
-bookyear2: 2023
-author2: "Zeyneb Uras"
-sayfa2: 136
-pageread2: 22
+booktitle2: "I Can Do It"
+bookyear2: 2019
+author2: "Louise L. Hay"
+sayfa2: 80
+pageread2: 1
 
 # 3
-booktitle3: "I Can Do It"
-bookyear3: 2019
-author3: "Louise L. Hay"
-sayfa3: 80
+booktitle3: "The New Age of Catastrophe"
+bookyear3: 2024
+author3: "Alex Callinicos"
+sayfa3: 328
 pageread3: 1
 
 # 4
-booktitle4: "The New Age of Catastrophe"
-bookyear4: 2024
+booktitle4: "To Be a Machine"
+bookyear4: 2018
 author4: "Alex Callinicos"
-sayfa4: 328
+sayfa4: 272
 pageread4: 1
-
-# 5
-booktitle5: "To Be a Machine"
-bookyear5: 2018
-author5: "Alex Callinicos"
-sayfa5: 272
-pageread5: 1
 
 #
 #
@@ -71,7 +64,7 @@ pageread5: 1
 # <br />
 #
 #
-read: 41
+read: 42
 ---
 
 ⁜ {{ page.read | plus: 1 }}
