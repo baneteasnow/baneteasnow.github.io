@@ -1,6 +1,4 @@
 ---
-# to be updated
-# open ai
 layout: post
 category: book
 title: "Stats and Curiosities | Andrew O'Connell (Kitap)"
@@ -18,7 +16,6 @@ tag: "sosyal bilimler"
 reread: "no"
 rating: "3"
 eng: "Stats and Curiosities explores everyday topics through the lens of statistics and intriguing facts, providing insights into understanding the world around us."
-openai: "yes"
 num: "359"
 image: "/assets/new/stats-and-curiosities.jpg"
 update: "done"

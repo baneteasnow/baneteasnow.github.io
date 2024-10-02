@@ -34,7 +34,7 @@ pageread3: 1
 # 4
 booktitle4: "To Be a Machine"
 bookyear4: 2018
-author4: "Alex Callinicos"
+author4: "Mark O'Connell"
 sayfa4: 272
 pageread4: 1
 

@@ -1,6 +1,4 @@
 ---
-# to be updated
-# open ai
 layout: post
 category: book
 title: "Wahn - Stories | Christof M. Kessler (Kitap)"
@@ -18,7 +16,6 @@ tag: "psikoloji"
 reread: "no"
 rating: "2"
 eng: "Wahn: Stories, written by Christof M. Kessler, is a book that delves into the complexities of the human mind by sharing fictional stories from the field of neurology."
-openai: "yes"
 num: "362"
 image: "/assets/new/wahn-stories.jpg"
 update: "done"
