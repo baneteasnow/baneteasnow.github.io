@@ -5,9 +5,11 @@
 # [^aaa]: This is the footnote.
 # term
 # : definition
+read: 43
+#
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-09-30
+last_modified_at: 2024-10-08
 published: true
 
 # 1
@@ -30,14 +32,6 @@ bookyear3: 2024
 author3: "Alex Callinicos"
 sayfa3: 328
 pageread3: 1
-
-# 4
-booktitle4: "To Be a Machine"
-bookyear4: 2018
-author4: "Mark O'Connell"
-sayfa4: 272
-pageread4: 1
-
 #
 #
 #
@@ -64,7 +58,6 @@ pageread4: 1
 # <br />
 #
 #
-read: 42
 ---
 
 ⁜ {{ page.read | plus: 1 }}
@@ -138,26 +131,5 @@ _by_ {{ page.author3 }}
  <div style="clear: both"></div>
  <br />
 
-⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle4 }} ({{ page.bookyear4 }})  
-_by_ {{ page.author4 }}
-
-<div style="font-size: 50%; font-style: italic;">
-   {{ page.sayfa4 }} sayfa
- </div>
-
- <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
-   {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
- </div>
-
- <div>
-   <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
-     {{ page.pageread4 }}/{{ page.sayfa4 }}
-   </span>
- </div>
-
-<br />
 <div style="clear: both"></div>
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")
