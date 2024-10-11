@@ -5,33 +5,26 @@
 # [^aaa]: This is the footnote.
 # term
 # : definition
-read: 43
+read: 44
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-10-08
+last_modified_at: 2024-10-12
 published: true
 
 # 1
-booktitle1: "The Age of Fitness"
-bookyear1: 2024
-author1: "Jürgen Martschukat"
-sayfa1: 256
-pageread1: 9
+booktitle1: "I Can Do It"
+bookyear1: 2019
+author1: "Louise L. Hay"
+sayfa1: 80
+pageread1: 1
 
 # 2
-booktitle2: "I Can Do It"
-bookyear2: 2019
-author2: "Louise L. Hay"
-sayfa2: 80
+booktitle2: "The New Age of Catastrophe"
+bookyear2: 2024
+author2: "Alex Callinicos"
+sayfa2: 328
 pageread2: 1
-
-# 3
-booktitle3: "The New Age of Catastrophe"
-bookyear3: 2024
-author3: "Alex Callinicos"
-sayfa3: 328
-pageread3: 1
 #
 #
 #
@@ -100,29 +93,6 @@ _by_ {{ page.author2 }}
    <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
    <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
      {{ page.pageread2 }}/{{ page.sayfa2 }}
-   </span>
- </div>
-
-<br />
-<div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 3 }}
-
-{{ page.booktitle3 }} ({{ page.bookyear3 }})  
-_by_ {{ page.author3 }}
-
-<div style="font-size: 50%; font-style: italic;">
-   {{ page.sayfa3 }} sayfa
- </div>
-
- <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
-   {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
- </div>
-
- <div>
-   <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
-   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024"> 
-     {{ page.pageread3 }}/{{ page.sayfa3 }}
    </span>
  </div>
 
