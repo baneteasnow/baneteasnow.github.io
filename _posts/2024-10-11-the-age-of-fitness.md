@@ -10,15 +10,15 @@ yil: "2024"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/55182495-the-age-of-fitness"
 description: ""
-last_modified_at: 2024-10-01
-published: false
-posted: 2024-10-01
+last_modified_at: 2024-10-11
+published: true
+posted: 2024-10-11
 tag: "sosyoloji"
 reread: "no"
-rating: "3"
+rating: "4"
 eng: ""
 openai: "no"
-num: ""
+num: "442"
 publisher: "Iletisim Yayinlari"
 image: "/assets/new/the-age-of-fitness.jpg"
 update: "tobeupdated"
