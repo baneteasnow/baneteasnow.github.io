@@ -5,26 +5,26 @@
 # [^aaa]: This is the footnote.
 # term
 # : definition
-read: 44
+read: 45
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-10-12
+last_modified_at: 2024-10-16
 published: true
 
 # 1
-booktitle1: "I Can Do It"
-bookyear1: 2019
-author1: "Louise L. Hay"
-sayfa1: 80
-pageread1: 1
+booktitle1: "The Science of Being Well"
+bookyear1: 2023
+author1: "Wallace D. Wattles"
+sayfa1: 100
+pageread1: 7
 
 # 2
 booktitle2: "The New Age of Catastrophe"
 bookyear2: 2024
 author2: "Alex Callinicos"
 sayfa2: 328
-pageread2: 1
+pageread2: 93
 #
 #
 #
