@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "The New Age of Catastrophe | Wallace D. Wattles (Kitap)"
+title: "The Science of Being Great | Wallace D. Wattles (Kitap)"
 kitap: "The Science of Being Great - The Practical Guide to a Life of Power"
 tr: "Muhteşem Olma Bilimi"
 yazar: "Wallace D. Wattles"
