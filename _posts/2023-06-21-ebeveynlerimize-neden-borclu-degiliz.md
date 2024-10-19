@@ -15,7 +15,7 @@ last_modified_at: 2023-06-21
 published: true
 posted: 2023-06-21
 tag: "felsefe"
-reread: "no"
+reread: "yes"
 rating: "5"
 eng: "This book explores the complex emotions adults have towards their parents and offers guidance on navigating these feelings in modern society."
 num: "343"

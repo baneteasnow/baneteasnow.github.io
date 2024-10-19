@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-06-09
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "98"
 eng: "The Nature of Technology addresses the nature and evolution of technology with straightforward and to-the-point language style."

@@ -15,7 +15,7 @@ last_modified_at: 2023-06-06
 published: true
 posted: 2023-06-06
 tag: "yapay zeka"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "The AI Does Not Hate You: Superintelligence, Rationality and the Race to Save the World by Tom Chivers is an insightful exploration of the potential risks and rewards of artificial intelligence. It delves into the concept of superintelligence, presents arguments from rationalists, and emphasizes the importance of informed decision-making and proactive measures to ensure the safe development of AI."
 num: "328"

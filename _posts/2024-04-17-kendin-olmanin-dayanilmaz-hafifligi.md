@@ -14,7 +14,7 @@ last_modified_at: 2024-04-17
 published: true
 posted: 2024-04-17
 tag: "psikoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: ""
 num: "417"

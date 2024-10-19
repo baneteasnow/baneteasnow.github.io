@@ -14,7 +14,7 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-10-17
 tag: "sosyoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "287"
 eng: "Why the Germans Do it Better by John Kampfner is a book that explores the reasons for Germany's post-war success by examining its economic, social, and political systems. Kampfner argues that Germany's success can be attributed to a number of factors. These include its strong social welfare system, its culture of consensus-building, and its focus on vocational education and training. Kampfner also examines the role of German political and business leaders in moving Germany forward. He considers the challenges that lie ahead as Germany faces an aging population and increasing competition from emerging markets."

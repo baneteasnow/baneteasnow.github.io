@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-11-17
 tag: "gelecek ve trendler"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "115"
 image: "/assets/old/the-industries-of-the-future.jpg"

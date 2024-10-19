@@ -13,7 +13,7 @@ published: true
 description: "Tüketici davranışlarını ve psikolojisini ele alan Trading Up bir pazarlama kitabı. Kitap, kapağında da alt başlık olarak yer alan ‘Tüketiciler neden lüks ürün ister ve şirketler bu ürünleri nasıl yaratır?’ sorusuna ABD odaklı olarak cevap arıyor."
 tag: "tüketici davranışları"
 posted: 2022-02-23
-reread: "no"
+reread: "yes"
 rating: "3"
 num: "226"
 image: "/assets/new/trading-up.jpg"

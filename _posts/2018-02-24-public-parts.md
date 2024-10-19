@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-02-24
 tag: "internet"
-reread: "no"
+reread: "yes"
 rating: "3"
 num: "83"
 image: "/assets/old/public-parts.jpg"
@@ -29,7 +29,8 @@ Yazar, kitap boyunca halka açıklığı, şeffaflığı savunuyor; kendi hayat�
 
 Facebook, Google ve diğer internet hizmetleri, paylaşmak için bizi motive etme çabalarında ortak bir tekno-insan hedefine sahip: Niyetimizi hissetmek. Onlar bizimle ilgili sinyaller toplamaya çalışıyorlar ki, içeriklerini hizmetlerini ve reklamlarını bize göre ayarlayabilsinler. (sayfa 35)
 
-Örneğin, Google'da Paris diye aratarak birkaç seyahat yazısı okuyan kişi, kısa bir süre sonra ziyaret ettiği farklı sayfalarda Paris'teki otellerin reklamlarını görmeye başlar. Yer bildirimi almayı amaçlayan Foursquare gibi pek çok uygulamada etkileşim fırsatı sunarak bu amacına ulaşır. Yazar, bu durumu 'etkileşim karşılığında etkileşim' olarak nitelendiriyor.  
+Örneğin, Google'da Paris diye aratarak birkaç seyahat yazısı okuyan kişi, kısa bir süre sonra ziyaret ettiği farklı sayfalarda Paris'teki otellerin reklamlarını görmeye başlar. Yer bildirimi almayı amaçlayan Foursquare gibi pek çok uygulamada etkileşim fırsatı sunarak bu amacına ulaşır. Yazar, bu durumu 'etkileşim karşılığında etkileşim' olarak nitelendiriyor.
+
 Bugün pek çok firma halka açıklığı kendi lehine kullanarak sadık bir müşteri kitlesi elde ediyor. Teknoloji firmaları, geliştirdikleri yazılımların henüz son şeklini almamış hallerini beta olarak piyasaya sürüyor ve gelişim sürecinin bizzat programın kullanıcıları tarafından tamamlanmasına izin veriyor. Böylece, ürün son şeklini bizzat kendi müşteri tarafından alır. İnternetin bu kadar çok yaygınlaşmasından önce ise durum tam tersiydi, firmalar müşterilerin ne isteyeceğini ancak 'tahmin ediyordu'.
 
 Yazar, mahremiyetin ne olduğu ve halka açıklığın önemi gibi konulara da değiniyor. (sayfa 139)

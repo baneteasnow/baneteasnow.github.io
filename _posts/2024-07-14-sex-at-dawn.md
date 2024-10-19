@@ -14,7 +14,7 @@ last_modified_at: 2024-07-14
 published: true
 posted: 2024-07-14
 tag: "sosyal bilimler"
-reread: "no"
+reread: "yes"
 rating: "3"
 eng: ""
 num: "423"

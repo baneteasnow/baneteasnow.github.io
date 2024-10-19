@@ -13,7 +13,7 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2018-04-07
 tag: "dijital kültür"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "89"
 image: "/assets/old/the-penguin-and-the-leviathan.jpg"

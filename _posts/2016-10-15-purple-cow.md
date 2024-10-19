@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2016-10-15
 tag: "girişimcilik"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "35"
 image: "/assets/old/purple-cow.jpg"

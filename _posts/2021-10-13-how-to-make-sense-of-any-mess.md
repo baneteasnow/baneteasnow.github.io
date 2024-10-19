@@ -13,7 +13,7 @@ published: true
 description: "How To Make Sense Of Any Mess, Abby Covert'in bilgi mimarisi (Information Architecture) hakkında yazdığı bir kitap."
 tag: "bilgi sistemleri"
 posted: 2021-10-13
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "199"
 image: "/assets/new/how-to-make-sense-of-any-mess.jpg"

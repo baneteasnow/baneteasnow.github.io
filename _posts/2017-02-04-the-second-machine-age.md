@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-02-04
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "46"
 image: "/assets/old/the-second-machine-age.jpg"

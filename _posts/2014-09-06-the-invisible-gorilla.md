@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2021-07-12
 posted: 2014-09-06
 tag: "psikoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "4"
 image: "/assets/old/the-invisible-gorilla.jpg"

@@ -14,7 +14,7 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-07
 tag: "felsefe"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "255"
 eng: "A Philosophy of Loneliness by Lars Svendsen delves into the nature of loneliness, exploring its cultural significance and existential implications while offering insights and reflections on this universal human experience."

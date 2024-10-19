@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-12-09
 tag: "yönetim"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "79"
 image: "/assets/old/leading-digital.jpg"

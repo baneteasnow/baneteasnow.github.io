@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-09-30
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "70"
 image: "/assets/old/the-future.jpg"

@@ -15,7 +15,7 @@ last_modified_at: 2023-06-22
 published: true
 posted: 2023-06-22
 tag: "felsefe"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "This book explores how to navigate the uncertainties of modern life and find meaning in the midst of change."
 num: "344"

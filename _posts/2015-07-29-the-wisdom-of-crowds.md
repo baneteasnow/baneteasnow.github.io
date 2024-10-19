@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2015-07-29
 tag: "dijital kültür"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "12"
 image: "/assets/old/the-wisdom-of-crowds.jpg"

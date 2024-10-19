@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-01-06
 tag: "sosyal medya"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "81"
 eng: "Tell Everyone is a fascinating read on the evolution of social media and how the culture is affected by it."

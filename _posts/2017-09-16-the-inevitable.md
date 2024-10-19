@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-09-16
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "69"
 eng: "This book is from Kevin Kelly, the founding executive editor of Wired magazine. In The Inevitable, the author forecasts the twelve technological forces that will shape the next thirty years. A worth reading book to understand the future."

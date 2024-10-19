@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2015-09-26
 tag: "dijital kültür"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "17"
 image: "/assets/old/connected.jpg"

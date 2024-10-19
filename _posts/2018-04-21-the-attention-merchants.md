@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-04-21
 tag: "üretkenlik ve teknoloji"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "91"
 eng: "In his book Attention Merchants, Tim Wu starts with the history of advertising accompanied by pop culture and how these two concepts get our attention out of our hands to commercialise. To understand 'how' and 'why' for advertising and media, this book is a good option."

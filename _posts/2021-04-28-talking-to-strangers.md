@@ -13,7 +13,7 @@ description: "Malcolm Gladwell, Talking to Strangers isimli kitabında birbirler
 posted: 2021-04-28
 last_modified_at: 2023-01-14
 tag: "psikoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "169"
 image: "/assets/new/talking-to-strangers.jpg"

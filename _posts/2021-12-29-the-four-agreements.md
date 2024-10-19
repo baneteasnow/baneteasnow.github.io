@@ -13,7 +13,7 @@ published: true
 description: "Dört Anlaşma, genel olarak bir kişinin kendini kısıtlayan inançlarının bir süre sonra onun hayatını nasıl sınırlayıcı olduğunu ve bu kısıtları aşmanın her biri bir öğreti niteliğinde olan dört anlaşmanın uygulanmasıyla mümkün olduğundan bahsediyor."
 tag: "felsefe"
 posted: 2021-12-29
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "212"
 image: "/assets/new/the-four-agreements.jpg"

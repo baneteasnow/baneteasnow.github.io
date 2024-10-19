@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-04-01
 tag: "internet of things"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "52"
 image: "/assets/old/the-zero-marginal-cost-society.jpg"

@@ -15,7 +15,7 @@ last_modified_at: 2023-06-11
 published: true
 posted: 2023-06-11
 tag: "psikoloji"
-reread: "no"
+reread: "yes"
 rating: "5"
 eng: "Why Is It Always About You? by Sandy Hotchkiss is a concise guide that explores narcissistic personality disorder, its effects on relationships, and provides strategies for dealing with narcissistic individuals."
 num: "333"

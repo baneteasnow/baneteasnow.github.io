@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-10-21
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "73"
 image: "/assets/old/big-data-at-work.jpg"
@@ -32,8 +32,7 @@ Kuruluşların temel yönelimi ile kültürünü de değiştiren büyük veriden
 - Maliyet düşürme,
 - Karar vermede iyileşme,
 - Ürün ve hizmetlerde iyileşme.
-  2.bölümde, büyük veri sektörler ve kritik iş birimleri açısından ele alınıyor. Sektörel açıdan dezavantajlı olanlar sağlık hizmetleri kuruluşları, B2B firmaları ve endüstriyel ürünler; düşük başarılı olanlar geleneksel bankalar, telekom, medya ve eğlence, perakende, elektrik sağlayıcıları; üstün başarılılar ise tüketici ürünleri, sigorta, online, seyahat ve taşımacılık ile kredi kartları (sayfa 51). İlerleyen sayfalarda kritik iş birimleri olarak pazarlama, satış, tedarik zinciri, üretim, insan kaynakları, strateji, finans ve enformasyon teknolojileri incelenmiş.  
-
+  2.bölümde, büyük veri sektörler ve kritik iş birimleri açısından ele alınıyor. Sektörel açıdan dezavantajlı olanlar sağlık hizmetleri kuruluşları, B2B firmaları ve endüstriyel ürünler; düşük başarılı olanlar geleneksel bankalar, telekom, medya ve eğlence, perakende, elektrik sağlayıcıları; üstün başarılılar ise tüketici ürünleri, sigorta, online, seyahat ve taşımacılık ile kredi kartları (sayfa 51). İlerleyen sayfalarda kritik iş birimleri olarak pazarlama, satış, tedarik zinciri, üretim, insan kaynakları, strateji, finans ve enformasyon teknolojileri incelenmiş.
 
 3\. bölümde, büyük veri stratejisinin nasıl geliştirileceği ele alınırken, 4. bölümde ise büyük veri üzerine çalışacak insanlara değiniliyor ve veri bilimcinin beş kritik özelliği - hacker, bilim insanı, sayısal analist, güvenilir danışman, iş uzmanı - inceleniyor.
 

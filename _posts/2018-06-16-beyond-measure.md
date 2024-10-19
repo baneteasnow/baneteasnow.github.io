@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-06-16
 tag: "yönetim"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "99"
 image: "/assets/old/beyond-measure.jpg"

@@ -15,8 +15,8 @@ last_modified_at: 2023-06-07
 published: true
 posted: 2023-06-07
 tag: "beslenme"
-reread: "no"
-rating: "3"
+reread: "yes"
+rating: "5"
 eng: "The Fate of Food by Amanda Little examines the future of food in a changing world, exploring challenges and innovative solutions for sustainability and food security."
 num: "329"
 image: "/assets/new/the-fate-of-food.jpg"

@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-07-07
 tag: "tüketici davranışları"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "In a world that is full of advertisement, this book explains how a child is being exposed to hidden impacts of brands; and when he or she becomes an adult how his or her buying behaviour is affected."
 num: "102"

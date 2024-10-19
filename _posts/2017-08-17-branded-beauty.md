@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-08-17
 tag: "moda markaları"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "66"
 image: "/assets/old/branded-beauty.jpg"

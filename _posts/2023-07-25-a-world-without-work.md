@@ -15,7 +15,7 @@ last_modified_at: 2023-07-25
 published: true
 posted: 2023-07-25
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "A World Without Work explores the future transformations of the workforce and the impact of automation on labour, providing a perspective on how technology could reshape our jobs."
 num: "364"

@@ -14,7 +14,7 @@ last_modified_at: 2023-02-26
 published: true
 posted: 2023-02-26
 tag: "felsefe"
-reread: "no"
+reread: "yes"
 openai: yes
 rating: "5"
 eng: "In How to Change the World, John-Paul Flintoff emphasizes that creating positive change in the world begins with small, incremental steps taken on an individual level. Flintoff believes that everyone has the potential to create positive change and shares stories of people who have done so. As the first phase of an individual's ability to effect change, the book offers to take an interest in other people's problems and help them. Aligning personal values with one's goals is also necessary to find meaning and fulfilment in change."

@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2019-08-10
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "141"
 image: "/assets/old/the-fourth-industrial-revolution.jpg"

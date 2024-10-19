@@ -15,7 +15,7 @@ last_modified_at: 2023-06-05
 published: true
 posted: 2023-06-05
 tag: "çevre"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "The Sixth Extinction: An Unnatural History by Elizabeth Kolbert is a compelling exploration of the ongoing mass extinction event caused by human activities. Through thorough research and vivid storytelling, Kolbert highlights the devastating impact of climate change, habitat destruction, and other factors on Earth's biodiversity. Urging readers to take action, the book serves as a poignant reminder of our responsibility to protect the planet and its diverse species."
 num: "327"

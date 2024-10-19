@@ -14,7 +14,7 @@ last_modified_at: 2024-05-24
 published: true
 posted: 2024-05-24
 tag: "felsefe"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: ""
 num: "418"

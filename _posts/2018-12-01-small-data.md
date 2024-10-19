@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2018-12-01
 tag: "tüketici davranışları"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "117"
 image: "/assets/old/small-data.jpg"

@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2014-07-05
 tag: "çalışma yaşamı"
-reread: "no"
+reread: "yes"
 rating: "3"
 num: "10"
 image: "/assets/old/the-carrot-principle.jpg"

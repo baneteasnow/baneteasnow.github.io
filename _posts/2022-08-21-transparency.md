@@ -14,7 +14,7 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-08-21
 tag: "yönetim"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "281"
 eng: "Transparency by Warren Bennis, Daniel Goleman, James O'Toole, and Patricia Ward Biederman is a collection of articles that examine the value of openness in today's society. The authors investigate the consequences of transparency in various spheres, including politics, business, and the media, and conclude that it is a basic virtue that preserves democracy and trust. With contributions from a number of specialists, including politicians, businesspeople, and journalists, the book offers a diversity of viewpoints on openness. Transparency is a significant resource for anyone interested in the nexus of openness, ethics, and accountability since it discusses a pressing problem in modern society."

@@ -15,7 +15,7 @@ last_modified_at: 2023-07-02
 published: true
 posted: 2023-07-02
 tag: "felsefe"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "On Confidence is a valuable resource written by The School of Life that provides practical guidance on how to develop and sustain confidence."
 num: "352"

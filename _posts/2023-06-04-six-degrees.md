@@ -15,7 +15,7 @@ last_modified_at: 2023-06-04
 published: true
 posted: 2023-06-04
 tag: "çevre"
-reread: "no"
+reread: "yes"
 rating: "4"
 eng: "Six Degrees by Mark Lynas explores the potential consequences of climate change at different temperature increase levels. From rising sea levels to ecosystem collapse, the book presents a compelling case for urgent action to address the climate crisis. Lynas emphasizes the need for collective efforts to mitigate the devastating effects of global warming."
 num: "326"

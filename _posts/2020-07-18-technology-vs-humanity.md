@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2020-07-18
 tag: "gelecek ve trendler"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "164"
 eng: "Gerd Leonhard's book 'Technology and Humanity' is a critical analysis of the impact of technology on society, exploring both the benefits and challenges of technological progress. The book highlights ethical issues posed by the exponential development of technology and encourages readers to consider the implications of automation and the role of technology in our daily lives. It is a must-read for anyone interested in the intersection of technology and society."

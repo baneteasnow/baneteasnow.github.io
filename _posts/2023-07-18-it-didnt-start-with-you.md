@@ -3,7 +3,7 @@
 # open ai
 layout: post
 category: book
-title: "It Didn't Start With You  | Mark Wolynn (Kitap)"
+title: "It Didn't Start With You | Mark Wolynn (Kitap)"
 kitap: "It Didn't Start With You: How inherited family trauma shapes who we are and how to end the cycle"
 tr: "Seninle Başlamadı - Kalıtsal Aile Travmalarının Kim Olduğumuza Etkileri ve Sorunların Üstesinden gelmenin Yolları"
 yazar: "Mark Wolynn"
@@ -15,7 +15,7 @@ last_modified_at: 2023-07-18
 published: true
 posted: 2023-07-18
 tag: "psikoloji"
-reread: "no"
+reread: "yes"
 rating: "3"
 eng: "It Didn't Start with You explores inherited family trauma, epigenetics, and the power of healing generational patterns. Through research and personal stories, Wolynn offers practical exercises for uncovering and healing ancestral wounds to create a more authentic life. "
 num: "357"

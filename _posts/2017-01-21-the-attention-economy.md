@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2017-01-21
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "44"
 image: "/assets/old/the-attention-economy.jpg"

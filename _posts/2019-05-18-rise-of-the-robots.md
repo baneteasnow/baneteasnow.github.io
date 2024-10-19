@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2023-01-14
 posted: 2019-05-18
 tag: "teknoloji"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "134"
 image: "/assets/old/rise-of-the-robots.jpg"

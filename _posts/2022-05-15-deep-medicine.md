@@ -14,7 +14,7 @@ last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-15
 tag: "yapay zeka"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "249"
 eng: "Deep Medicine by Eric J. Topol explores how artificial intelligence can revolutionize healthcare, improving diagnostics, personalizing treatments, and enhancing patient outcomes while maintaining a human-centered approach."
