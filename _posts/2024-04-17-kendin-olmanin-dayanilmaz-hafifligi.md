@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Kendin Olmanın Dayanılmaz Hafifliği | Ferhat Jak İçöz (Kitap)"
+title: "Kendin Olmanın Dayanılmaz Hafifliği | Ferhat Jak Içöz (Kitap)"
 kitap: "Kendin Olmanın Dayanılmaz Hafifliği"
 tr: "-"
 yazar: "Ferhat Jak İçöz"

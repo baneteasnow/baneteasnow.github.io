@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Dışa Bakan Rüya Görür, İçe Bakan Uyanır | Carl Gustav Jung (Kitap)"
+title: "Dışa Bakan Rüya Görür, Içe Bakan Uyanır | Carl Gustav Jung (Kitap)"
 kitap: "Carl Gustav Jung: Dışa Bakan Rüya Görür, İçe Bakan Uyanır"
 tr: "-"
 yazar: "Carl Gustav Jung, Özlem Küskü (Hazırlayan)"

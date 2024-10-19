@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "İnsan Olmak | Engin Geçtan (Kitap)"
+title: "Insan Olmak | Engin Geçtan (Kitap)"
 kitap: "İnsan Olmak"
 tr: "-"
 yazar: "Engin Geçtan"

@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Her İnsan Gördüğü Rüyanın Tabiridir | Sigmund Freud (Kitap)"
+title: "Her Insan Gördüğü Rüyanın Tabiridir | Sigmund Freud (Kitap)"
 kitap: "Sigmund Freud: Her İnsan Gördüğü Rüyanın Tabiridir - İnsan Ruhuna Derin Bir Yolculuk"
 tr: "-"
 yazar: "Sigmund Freud, Yılmaz Şener (Editor)"
