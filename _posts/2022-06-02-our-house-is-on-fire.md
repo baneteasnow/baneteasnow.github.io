@@ -17,7 +17,6 @@ tag: "biyografi"
 reread: "no"
 rating: "5"
 num: "254"
-openai: "yes"
 eng: "Our House is on Fire is a powerful memoir by the Ernman-Thunberg family, highlighting their personal experiences and Greta Thunberg's journey as a climate activist, urging urgent action to address the global environmental crisis."
 image: "/assets/new/our-house-is-on-fire.jpg"
 ---

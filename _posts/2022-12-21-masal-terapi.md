@@ -17,7 +17,6 @@ tag: "psikoloji"
 reread: "no"
 rating: "3"
 num: "292"
-openai: "yes"
 eng: "Masal Terapi is a self-help book by Judith Malika Liberman that explores the therapeutic benefits of storytelling. The book draws on the ancient tradition of using stories to convey moral lessons and offer guidance, and provides readers with practical exercises and techniques for incorporating storytelling into their daily lives. Liberman explains that stories have the power to heal and transform, and can help readers access their inner wisdom and navigate life's challenges with greater resilience and creativity."
 image: "/assets/new/masal-terapi.jpg"
 ---
@@ -94,11 +93,12 @@ Masallardan her birinde ders niteliğinde bir mesaj var. Aynı zamanda her masal
 > **Seyir Defteri**  
 >  Bilmenin dört penceresi  
 > Dünya ve kendimiz hakkında bilgi edinmenin birden fazla yolu vardır. Psıkolog Eligio Stephen Gallegos, '_bilmenin dört penceresi_' diyerek hissetme, hayal etme, sezme ve düşünmeden bahseder.  
-> Daha çok hakim olmak istediğin bir konu seç ve bu konu hakkında şu dört soruyu yanıtla:  
->  1. Bu konuya, insana veya duruma odaklandığımda içimde hangi duygular uyanıyor?  
->  2. Hayal gücümün zihnimin orkestrasını yönetmesine izin verirsem bu konu, insan veya durum etrafında ne senaryolar, hikayeler yaratabilir?  
->  3. Sezgilerim bu durum, konu veya kişi hakkında ne söylüyor? Ne duyuyorum, kokluyorum, görüyorum, ne tadı alıyorum, kaslarımda veya dokunuşumda neler hissediyorum?  
->  4. Bu konu, kişi veya durumu düşündüğümde aklıma neler geliyor?
+> Daha çok hakim olmak istediğin bir konu seç ve bu konu hakkında şu dört soruyu yanıtla:
+>
+> 1.  Bu konuya, insana veya duruma odaklandığımda içimde hangi duygular uyanıyor?
+> 2.  Hayal gücümün zihnimin orkestrasını yönetmesine izin verirsem bu konu, insan veya durum etrafında ne senaryolar, hikayeler yaratabilir?
+> 3.  Sezgilerim bu durum, konu veya kişi hakkında ne söylüyor? Ne duyuyorum, kokluyorum, görüyorum, ne tadı alıyorum, kaslarımda veya dokunuşumda neler hissediyorum?
+> 4.  Bu konu, kişi veya durumu düşündüğümde aklıma neler geliyor?
 
 ##### [Okulda Ne Öğrendin?](#okulda-ne-ogrendin) (sayfa 165)
 
@@ -128,13 +128,14 @@ Masallardan her birinde ders niteliğinde bir mesaj var. Aynı zamanda her masal
 
 > **Seyir Defteri**  
 >  Byron Katie'nin 'Çalışma'sı  
-> Byron Katie, hayatları dönüştüren 'çalışma'sında kendimize anlattığımız ve bize zarar veren veya stres yükleyen hikâyeyi gözden geçirmemiz için dört soru öneriyor. Sana acı veren veya sende strese sebep olan bir inancını yaz. Bu inancı dört soruyu kullanarak sorgula ve tersine çevir.  
->  1. Bu doğru mu? (Evet veya hayır; hayır dediysen 3. soruya git.). 2. Doğru olduğunu kesinlikle söyleyebilir misin? (Bunu olabildiğince derin sorgula.)  
->  3. Bu düşünceye inandığında nasıl tepki veriyorsun, ne oluyor?  
->  4. Bu düşünce olmasaydı kim olurdun?  
-> İnancını sorguladıktan sonra bu ifadeyi tersine çevirmeye ve diğer itadelerin de sana acı veren bu ifade kadar doğru olabileceğini görmeye hazırsın. Bir ifadeyi tersine çevirmenin üç yolu vardır: Kendine, ötekine, karşıtına.  
-> Örnek: 'Paul beni anlamalı' ifadesi söyle çevrilir:  
->  Kendimi anlamalıyım (kendine).  
->  Paul'u anlamalıyım (ötekine).  
->  Paul beni anlamalı (karşıtına).  
-> İnancını çevirerek elde ettiğin üç ifadeyi düşün ve bu durumda, bu yeni ifadelerin nasıl senin için aynı derecede doğru olduğuna dair en az üç gerçek örnek bul. Sonra da bu sürecin seni acı veren inanç sistemlerine bağlığından kurtararak nasıl bir iç huzuru sağlayabileceğini vücudunda hisset.
+> Byron Katie, hayatları dönüştüren 'çalışma'sında kendimize anlattığımız ve bize zarar veren veya stres yükleyen hikâyeyi gözden geçirmemiz için dört soru öneriyor. Sana acı veren veya sende strese sebep olan bir inancını yaz. Bu inancı dört soruyu kullanarak sorgula ve tersine çevir.
+>
+> 1.  Bu doğru mu? (Evet veya hayır; hayır dediysen 3. soruya git.). 2. Doğru olduğunu kesinlikle söyleyebilir misin? (Bunu olabildiğince derin sorgula.)
+> 2.  Bu düşünceye inandığında nasıl tepki veriyorsun, ne oluyor?
+> 3.  Bu düşünce olmasaydı kim olurdun?  
+>     İnancını sorguladıktan sonra bu ifadeyi tersine çevirmeye ve diğer itadelerin de sana acı veren bu ifade kadar doğru olabileceğini görmeye hazırsın. Bir ifadeyi tersine çevirmenin üç yolu vardır: Kendine, ötekine, karşıtına.  
+>     Örnek: 'Paul beni anlamalı' ifadesi söyle çevrilir:  
+>      Kendimi anlamalıyım (kendine).  
+>      Paul'u anlamalıyım (ötekine).  
+>      Paul beni anlamalı (karşıtına).  
+>     İnancını çevirerek elde ettiğin üç ifadeyi düşün ve bu durumda, bu yeni ifadelerin nasıl senin için aynı derecede doğru olduğuna dair en az üç gerçek örnek bul. Sonra da bu sürecin seni acı veren inanç sistemlerine bağlığından kurtararak nasıl bir iç huzuru sağlayabileceğini vücudunda hisset.

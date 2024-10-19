@@ -17,7 +17,6 @@ tag: "biyografi"
 reread: "no"
 rating: "4"
 num: "302"
-openai: "yes"
 eng: "Anthony Bourdain's memoir, Kitchen Confidential, provides a thorough and open description of the food business. To explain to readers how kitchens function and the culture that surrounds them, Bourdain draws on his own experiences as a chef and restaurateur. He talks about the difficulties and benefits of the profession as well as its less positive sides, such drug abuse and kitchen politics."
 image: "/assets/new/kitchen-confidential.jpg"
 ---

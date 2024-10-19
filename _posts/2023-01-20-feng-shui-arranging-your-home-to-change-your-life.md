@@ -17,7 +17,6 @@ tag: "lifestyle"
 reread: "no"
 rating: "4"
 num: "296"
-openai: "yes"
 eng: "Feng Shui: Arranging Your Home to Change Your Life by Kirsten M. Lagatree is a guidebook that explains the principles of feng shui, an ancient Chinese practice of arranging one's environment to promote harmony and balance. The book provides readers with practical tips on how to apply feng shui principles to their homes and create a space that supports their physical, emotional, and spiritual well-being. Lagatree explains the meaning of various feng shui elements such as color, light, and furniture placement, and how they can affect energy flow in a space. She also covers common challenges such as clutter, small spaces, and shared living arrangements."
 image: "/assets/new/feng-shui-arranging-your-home-to-change-your-life.jpg"
 ---
@@ -26,12 +25,13 @@ Kökeni Çin'e dayanan Feng Shui'nin temel amacı evrende ve doğada uyum ve den
 
 Bir evin yeri, içindeki eşyalar ve bu eşyaların nasıl yerleştirildiği, her bir odada kullanılan renkler ve benzer etkenler o ortamın dengeli mi, dengesiz mi, güç verici mi, yoksa tüketici mi, olumlu mu olumsuz mu olacağını belirler. Feng Shui kurallarını uygulayarak dengeli bir ortam yaratmak mümkündür. Feng Shui, insanın kaderini iyi yönlendirmek amacıyla fiziksel çevresini düzenlemesini içeren kadim bir sanattır.
 
-Feng shui uygulamasında çeşitli akımlar vardır: - Toprak Şekli / Şekil Okulu  
- - İnsanın içinde yaşadığı coğrafya onun yaşamını nasıl etkiler?  
- - Pusula Okulu  
- - Pusulanın farklı yönleri farklı etkiler getirir.  
- - Siyah Şapka Okulu  
- - California - Berkeley Üniversitesi'nin öncülüğünde feng shui daha fazla duruma uyarlanabilir hale gelmiştir. Analiz için bir binanın ya da odanın giriş kapısı başlama noktası kabul edilir. Bu okul, sade ve basit olması nedeniyle batıda popüler hale gelmiştir.
+Feng shui uygulamasında çeşitli akımlar vardır: - Toprak Şekli / Şekil Okulu
+
+- İnsanın içinde yaşadığı coğrafya onun yaşamını nasıl etkiler?
+- Pusula Okulu
+- Pusulanın farklı yönleri farklı etkiler getirir.
+- Siyah Şapka Okulu
+- California - Berkeley Üniversitesi'nin öncülüğünde feng shui daha fazla duruma uyarlanabilir hale gelmiştir. Analiz için bir binanın ya da odanın giriş kapısı başlama noktası kabul edilir. Bu okul, sade ve basit olması nedeniyle batıda popüler hale gelmiştir.
 
 Feng Shui, insanın kaderini iyi yönlendirmek amacıyla fiziksel çevresini düzenlemesini içeren kadim bir sanattır. Kişisel çevrede denge ve uyum yaratmak için renklerin ve şekillerin yanı sıra, beş ana unsur - toprak, su, ateş, metal ve ağaç - birbiri ile kaynaştırıp uyumlamak gereklidir. Böylece, evrenin iki zıt fakat birbirini tamamlayan gücü, yin ve yang güçleri arasında denge sağlanır.
 

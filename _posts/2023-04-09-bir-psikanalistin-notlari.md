@@ -16,7 +16,6 @@ tag: "psikoloji"
 reread: "no"
 rating: "3"
 eng: "In Historias de diván, Gabriel Rolon shares his experiences as a psychoanalyst. The book contains eight stories, each exploring a different aspect of psychoanalysis."
-openai: "no"
 num: "319"
 image: "/assets/new/bir-psikanalistin-notlari.jpg"
 ---

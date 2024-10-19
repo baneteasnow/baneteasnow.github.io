@@ -17,7 +17,6 @@ tag: "sıfır atık yaşam"
 reread: "no"
 rating: "4"
 num: "274"
-openai: "yes"
 eng: "Food Waste: Home Consumption, Material Culture and Everyday Life by David Evans examines the problem of food waste from a cultural perspective, exploring its causes, consequences, and potential solutions for a more sustainable future."
 image: "/assets/new/food-waste.jpg"
 ---

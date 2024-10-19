@@ -17,7 +17,6 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "270"
-openai: "yes"
 eng: "Overcoming the Fear of Success by Martha Friedman is a transformative guide that helps individuals break free from self-destructive patterns, conquer the fear of success, and create a life filled with love, fulfillment, and authenticity."
 image: "/assets/new/overcoming-the-fear-of-success.jpg"
 ---

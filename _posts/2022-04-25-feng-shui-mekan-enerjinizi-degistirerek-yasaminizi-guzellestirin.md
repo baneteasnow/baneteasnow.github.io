@@ -17,7 +17,6 @@ tag: "lifestyle"
 reread: "no"
 rating: "3"
 num: "243"
-openai: "yes"
 eng: "Feng Shui - Mekan Enerjinizi Değiştirerek Yaşamınızı Güzelleştirin by Zeynep Akçay is a practical guide that teaches readers how to use the principles of Feng Shui to improve their living spaces and create a more harmonious and positive environment."
 image: "/assets/new/feng-shui-mekan-enerjinizi-degistirerek-yasaminizi-guzellestirin.jpg"
 ---

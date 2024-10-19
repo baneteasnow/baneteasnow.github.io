@@ -17,7 +17,6 @@ tag: "lifestyle"
 reread: "no"
 rating: "3"
 eng: "Esra E. Karaosmanoğlu, the author of Acemi Yoginin Ayurveda Yolculuğu, slightly delves into the principles and practices of Ayurveda, an ancient Indian system of holistic healing. She shared her observations and experience at an Ayurvedic centre in Bangalore in February 2019. "
-openai: "yes"
 num: "322"
 image: "/assets/new/acemi-yoginin-ayurveda-yolculugu.jpg"
 ---

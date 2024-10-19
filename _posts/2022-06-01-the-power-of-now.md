@@ -17,7 +17,6 @@ posted: 2022-06-01
 reread: "yes"
 rating: "4"
 num: "253"
-openai: "yes"
 eng: "The Power of Now by Eckhart Tolle is a life-changing guide that teaches the power of living in the present moment for spiritual enlightenment and inner peace."
 image: "/assets/new/the-power-of-now.jpg"
 ---

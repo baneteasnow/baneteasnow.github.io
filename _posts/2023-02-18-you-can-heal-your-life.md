@@ -17,7 +17,6 @@ tag: "psikoloji"
 reread: "no"
 rating: "4"
 num: "307"
-openai: "yes"
 eng: "You Can Heal Your Life by Louise L. Hay is a book that explores how our thoughts and emotions can impact our physical health and overall well-being. The author believes that our beliefs and thinking patterns shape our experiences in life, including our health and relationships. The book provides practical techniques like affirmations and visualisation exercises to help readers let go of negative beliefs and adopt positive ones to improve their health, happiness, and success."
 image: "/assets/new/you-can-heal-your-life.jpg"
 ---

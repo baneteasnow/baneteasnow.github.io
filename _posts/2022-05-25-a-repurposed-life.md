@@ -17,7 +17,6 @@ tag: "biyografi"
 reread: "no"
 rating: "3"
 num: "251"
-openai: "yes"
 eng: "A Repurposed Life is a powerful memoir by Ronni Kahn and Jessica Chapnik Kahn, depicting Ronni's transformation from an event planner to a food waste activist. It showcases her founding of OzHarvest, a leading food rescue organization, and her relentless pursuit to combat food waste and hunger. This inspiring book celebrates the capacity for individuals to drive meaningful change."
 image: "/assets/new/a-repurposed-life.jpg"
 ---

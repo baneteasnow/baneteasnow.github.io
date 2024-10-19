@@ -17,7 +17,6 @@ tag: "felsefe"
 reread: "no"
 rating: "3"
 num: "276"
-openai: "yes"
 eng: "The Almanack of Naval Ravikant by Eric Jorgenson is a compilation of the wisdom and insights of entrepreneur Naval Ravikant, providing practical guidance on wealth creation, personal development, and finding fulfillment in life."
 image: "/assets/new/the-almanack-of-naval-ravikant.jpg"
 ---

@@ -16,9 +16,7 @@ posted: 2023-04-06
 tag: "felsefe"
 reread: "no"
 rating: "4"
-openai: "no"
 eng: "Philosophy: The Essential Study Guide provides guidance on how to study philosophy. As philosophy is mainly about questioning, the book identifies four key skills to master in this field, active reading, active listening, active discussion and active writing."
-openai: "yes"
 num: "318"
 image: "/assets/new/philosophy.jpg"
 ---

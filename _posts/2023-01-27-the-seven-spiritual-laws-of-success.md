@@ -17,7 +17,6 @@ tag: "mindfulness"
 reread: "no"
 rating: "3"
 num: "297"
-openai: "yes"
 eng: "The Seven Spiritual Principles of Success, written by Deepak Chopra, outlines seven rules for success in all facets of life. Each law seeks to teach individuals more about themselves and their relationship to the cosmos and is based on spiritual teachings from Eastern faiths. Chopra's laws emphasize the value of mindfulness, the law of attraction, the effectiveness of intention, and the notion of detachment. The book contains exercises and helpful advice to help readers implement these rules into their daily lives and lead lives that are more successful and satisfying. The Seven Spiritual Laws of Success offers a spiritually based and all-encompassing strategy for success and personal growth."
 image: "/assets/new/the-seven-spiritual-laws-of-success.jpg"
 ---

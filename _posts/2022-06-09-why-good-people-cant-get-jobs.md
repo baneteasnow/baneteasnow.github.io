@@ -17,7 +17,6 @@ tag: "sosyoloji"
 reread: "yes"
 rating: "5"
 num: "257"
-openai: "yes"
 eng: "Why Good People Can't Get Jobs by Peter Cappelli examines the issue of unemployment despite a pool of qualified individuals. Cappelli challenges the notion of a skills gap and suggests that the problem lies in outdated hiring practices and unrealistic expectations. The book offers practical solutions for companies to improve their hiring strategies and invest in training and development."
 image: "/assets/new/why-good-people-cant-get-jobs.jpg"
 ---

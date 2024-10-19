@@ -17,7 +17,6 @@ tag: "lifestyle"
 reread: "no"
 rating: "3"
 num: "289"
-openai: "yes"
 eng: "Acemi Yoginin Elkitabı by Esra E. Karaosmanoğlu is a comprehensive guidebook that offers readers an introduction to the practice of yoga. The book covers a range of topics, including the history, benefits and philosophy of yoga, as well as practical guidance on yoga postures, breathing techniques, and meditation."
 image: "/assets/new/acemi-yoginin-elkitabi.jpg"
 ---

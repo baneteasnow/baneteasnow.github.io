@@ -17,7 +17,6 @@ tag: "veganlık"
 reread: "no"
 rating: "5"
 num: "252"
-openai: "yes"
 eng: "Fausto Brizzi, shares his personal journey of marrying a vegan. Through witty anecdotes and introspection, the author explores the challenges, joys, and surprises that arise in a relationship where one partner embraces a vegan lifestyle."
 image: "/assets/new/bir-vegan-ile-evlendim.jpg"
 ---

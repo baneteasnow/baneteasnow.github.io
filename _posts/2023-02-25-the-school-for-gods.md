@@ -17,7 +17,6 @@ tag: "felsefe"
 reread: "no"
 rating: "3"
 num: "314"
-openai: "yes"
 eng: "Stefano D'Anna's philosophical book, The School for Gods, aims to lead readers on a spiritual journey toward discovering their own divinity. D'Anna gives people practical insights and tools for personal growth and transformation by combining ancient wisdom with modern psychology."
 image: "/assets/new/the-school-for-gods.jpg"
 ---

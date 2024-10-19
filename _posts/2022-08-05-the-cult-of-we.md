@@ -17,7 +17,6 @@ tag: "marka profili"
 reread: "no"
 rating: "5"
 num: "277"
-openai: "yes"
 eng: "The Cult of We by Eliot Brown and Maureen Farrell is an investigative book that explores the rise and fall of WeWork, uncovering a toxic culture and questionable practices behind its ambitious vision of transforming the real estate industry."
 image: "/assets/new/the-cult-of-we.jpg"
 ---

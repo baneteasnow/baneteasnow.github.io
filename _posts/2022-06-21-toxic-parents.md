@@ -18,7 +18,6 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "264"
-openai: "yes"
 eng: "Toxic Parents by Susan Forward offers guidance and support for individuals seeking to heal from the damaging effects of toxic parenting and reclaim their lives."
 image: "/assets/new/toxic-parents.jpg"
 ---

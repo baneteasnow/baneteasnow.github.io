@@ -17,7 +17,6 @@ tag: "pazarlama"
 reread: "no"
 rating: "5"
 num: "248"
-openai: "yes"
 eng: "The Paradox of Choice by Barry Schwartz examines the negative consequences of having too many choices and provides guidance on how to navigate decision-making in a world of abundance."
 image: "/assets/new/the-paradox-of-choice.jpg"
 ---

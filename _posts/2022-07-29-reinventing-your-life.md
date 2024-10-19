@@ -17,7 +17,6 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "275"
-openai: "yes"
 eng: "Reinventing Your Life by Jeffrey E. Young and Janet S. Klosko is a self-help book that presents a program to overcome negative behaviors, heal past wounds, and cultivate a more fulfilling life through practical strategies and cognitive therapy techniques."
 image: "/assets/new/reinventing-your-life.jpg"
 ---

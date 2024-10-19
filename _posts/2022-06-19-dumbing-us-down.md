@@ -17,7 +17,6 @@ tag: "sosyoloji"
 reread: "yes"
 rating: "5"
 num: "263"
-openai: "yes"
 eng: "Dumbing Us Down by John Taylor Gatto exposes the flaws of the traditional education system and advocates for a more independent and meaningful approach to learning."
 image: "/assets/new/dumbing-us-down.jpg"
 ---

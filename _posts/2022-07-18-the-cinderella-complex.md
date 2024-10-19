@@ -17,7 +17,6 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "272"
-openai: "yes"
 eng: "The Cinderella Complex: Women's Hidden Fear of Independence by Colette Dowling explores the psychological barriers women face in embracing independence and fulfilling their potential, offering insights and encouragement to overcome societal conditioning and pursue personal fulfillment."
 image: "/assets/new/the-cinderella-complex.jpg"
 ---

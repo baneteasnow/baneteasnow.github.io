@@ -17,7 +17,6 @@ tag: "yazmak ve yaratıcılık"
 reread: "no"
 rating: "3"
 num: "305"
-openai: "yes"
 eng: "Steven Pressfield's book The War of Art examines the obstacles that prevent people from reaching their creative potential. The concept of 'resistance', which is the force that prevents us from achieving our goals and realizing our potential, is presented in the book. The author contends that resistance manifests itself in a variety of ways, including procrastination, self-doubt, and fear. The book emphasizes that it needs discipline, determination, and a strong work ethic to overcome resistance. Pressfield provides readers with helpful suggestions and guidance to help them get through resistance and succeed in their artistic undertakings."
 image: "/assets/new/the-war-of-art.jpg"
 ---

@@ -17,7 +17,6 @@ tag: "lifestyle"
 reread: "no"
 rating: "3"
 num: "304"
-openai: "yes"
 eng: "In their book, How We Eat with Our Eyes and Think with Our Stomachs, Melanie Mühl and Diana von Kopp explore the complex relationship between our senses, emotions, and eating habits. The book investigates how our different sensory cues such as sight, smell, and touch can affect our appetite and satisfaction. The authors also discuss how our cultural background can shape our daily food preferences and the way we eat."
 image: "/assets/new/how-we-eat-with-our-eyes-and-think-with-our-stomachs.jpg"
 ---

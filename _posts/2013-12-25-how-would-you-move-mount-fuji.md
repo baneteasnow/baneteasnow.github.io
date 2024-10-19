@@ -16,7 +16,6 @@ tag: "çalışma yaşamı"
 reread: "no"
 rating: "3"
 num: "3"
-publisher: "ODTU Yayincilik"
 image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 

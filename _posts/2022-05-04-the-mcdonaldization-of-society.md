@@ -17,7 +17,6 @@ posted: 2022-05-04
 reread: "yes"
 rating: "5"
 num: "246"
-openai: "yes"
 eng: "The McDonaldization of Society by George Ritzer explores how fast food principles and practices have infiltrated and transformed various aspects of contemporary life, from education to entertainment, emphasizing efficiency, calculability, predictability, and control. The book highlights the widespread influence of this rationalized and standardized approach and its implications for society."
 image: "/assets/new/the-mcdonaldization-of-society.jpg"
 ---

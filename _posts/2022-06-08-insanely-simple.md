@@ -17,7 +17,6 @@ posted: 2022-06-08
 reread: "no"
 rating: "4"
 num: "256"
-openai: "yes"
 eng: "Insanely Simple: The Obsession That Drives Apple's Success by Ken Segall delves into the key factor behind Apple's achievements—simplicity. The book highlights how Apple's unwavering commitment to simplicity has shaped their products, marketing, and overall success, offering valuable lessons for businesses aiming to make a lasting impact in today's complex world."
 image: "/assets/new/insanely-simple.jpg"
 ---

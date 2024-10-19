@@ -17,7 +17,6 @@ tag: "mindfulness"
 reread: "no"
 rating: "2"
 num: "282"
-openai: "yes"
 eng: "The Little Book of Mindfulness by Patrizia Collard is a useful guide to incorporating mindfulness into daily life. The book includes a variety of short, simple activities designed to increase readers' present-moment awareness and help them manage stress and anxiety. Collard advises readers to incorporate mindfulness into everyday activities such as eating and walking by providing instructions on practices such as body awareness, breath meditation, and mindful movement."
 image: "/assets/new/the-little-book-of-mindfulness.jpg"
 ---

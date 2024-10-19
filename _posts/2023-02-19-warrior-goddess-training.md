@@ -18,7 +18,6 @@ reread: "no"
 rating: "2"
 num: "308"
 eng: "Warrior Goddess Training by HeatherAsh Amara is a book that helps women reclaim their strength, true selves, and inner balance. It gives practical tips and techniques to overcome insecurities, worries, and self-defeating thoughts, and to nurture self-esteem, calmness, and happiness. The book combines ancient teachings and modern psychology to highlight the significance of staying present, meditating, being creative, and building relationships when exploring oneself and evolving as a person."
-openai: "yes"
 image: "/assets/new/warrior-goddess-training.jpg"
 ---
 

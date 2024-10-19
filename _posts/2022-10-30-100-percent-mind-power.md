@@ -17,7 +17,6 @@ tag: "kisisel gelisim"
 reread: "no"
 rating: "3"
 num: "288"
-openai: "yes"
 eng: "100 Percent Mind Power by Jack Ensign Addington is a book that addresses the idea of using the power of the mind to increase success and pleasure. The book offers helpful advice on how to strengthen mental concentration and enhance one's attitude via the use of positive thinking, visualization and affirmations. Addington offers exercises and methods that readers may utilize to unleash their mind's full potential and accomplish their personal and professional objectives."
 image: "/assets/new/100-percent-mind-power.jpg"
 ---

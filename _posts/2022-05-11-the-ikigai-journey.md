@@ -17,7 +17,6 @@ posted: 2022-05-11
 reread: "no"
 rating: "3"
 num: "247"
-openai: "yes"
 eng: "The Ikigai Journey by Francesc Miralles and Hector Garcia is a practical guide that explores the concept of ikigai, the Japanese philosophy of finding purpose and happiness. Drawing from ancient wisdom and modern research, the book offers insights and exercises to help readers uncover their own ikigai and live a more fulfilling and meaningful life."
 image: "/assets/new/the-ikigai-journey.jpg"
 ---

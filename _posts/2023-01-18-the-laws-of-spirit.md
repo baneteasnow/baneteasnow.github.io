@@ -17,7 +17,6 @@ tag: "felsefe"
 reread: "no"
 rating: "3"
 num: "294"
-openai: "yes"
 eng: "Dan Millman's spiritual book The Laws of Spirit provides readers with a framework for leading more purposeful and satisfying lives. The book outlines 12 universal laws or principles that can assist readers in developing a higher level of awareness, living in harmony with their environment, and connecting with their higher selves. The laws range in subject matter from presence and balance to surrender and intention, and each is accompanied by doable exercises and meditations to aid readers in incorporating it into their daily lives. In order to present a comprehensive and approachable approach to personal growth, Millman draws on his own experiences as a spiritual teacher and practitioner as well as insights from different spiritual traditions."
 image: "/assets/new/the-laws-of-spirit.jpg"
 ---

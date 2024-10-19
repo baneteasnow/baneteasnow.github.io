@@ -17,7 +17,6 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "273"
-openai: "yes"
 eng: "Mothers Who Can't Love: A Healing Guide for Daughters by Susan Forward offers support and guidance for daughters who have struggled with emotionally unavailable or abusive mothers, providing strategies for healing, setting boundaries, and cultivating self-love."
 image: "/assets/new/mothers-who-cant-love.jpg"
 ---

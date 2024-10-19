@@ -17,7 +17,6 @@ tag: "psikoloji"
 reread: "no"
 num: "309"
 rating: "4"
-openai: "yes"
 eng: "Heal Your Body by Louise L. Hay discusses the connection between the mind and body as well as how our ideas and emotions can impact our physical health. Hay provides a thorough list of prevalent illnesses and their underlying emotional causes while offering affirmations and visualisation techniques to encourage healing and constructive transformation. The book encourages readers to take responsibility for their health and well-being, and to use the power of their thoughts and beliefs to create a healthy and fulfilling life."
 image: "/assets/new/heal-your-body.jpg"
 ---

@@ -17,7 +17,6 @@ tag: "yazmak ve yaratıcılık"
 reread: "no"
 rating: "4"
 num: "301"
-openai: "yes"
 eng: "The Basics of Essay Writing by Nigel Warburton is a practical guide to writing effective essays. The book covers the essentials of essay writing, including how to generate ideas, structure an essay, write clear and concise paragraphs, and develop a persuasive argument. Warburton emphasizes the importance of planning and research, offering tips on creating outlines and conducting effective research. He also advises on writing introductions and conclusions and using evidence to support arguments."
 image: "/assets/new/the-basics-of-essay-writing.jpg"
 ---
