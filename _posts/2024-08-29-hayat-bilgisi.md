@@ -2,8 +2,8 @@
 # to be updated
 layout: post
 category: book
-title: "Hayat ve Diğer Hastalıklar | Alper Hasanoğlu (Kitap)"
-kitap: "Hayat ve Diğer Hastalıklar"
+title: "Hayat Bilgisi | Alper Hasanoğlu (Kitap)"
+kitap: "Hayat Bilgisi - Bir Hayat Acemisinin Notları"
 tr: "-"
 yazar: "Alper Hasanoğlu"
 yil: "2024"
