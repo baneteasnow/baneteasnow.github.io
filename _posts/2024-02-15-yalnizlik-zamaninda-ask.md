@@ -2,8 +2,8 @@
 # to be updated
 layout: post
 category: book
-title: "Yalnizlik Zamaninda Ask | Paul Verhaeghe (Kitap)"
-kitap: "Yalnizlik Zamaninda Ask"
+title: "Yalnızlık Zamanında Aşk | Paul Verhaeghe (Kitap)"
+kitap: "Yalnızlık Zamanında Aşk"
 tr: "-"
 yazar: "Paul Verhaeghe"
 yil: "2023"

@@ -2,7 +2,7 @@
 layout: post
 category: book2
 title: "Utopia for Realists | Rutger Bregman (Kitap)"
-kitap: "Utopia for Realists - And How We Can Get There"
+kitap: "Utopia for Realists: And How We Can Get There"
 tr: "Gerçekçiler İçin Ütopya - Kusursuz Dünyayı Nasıl İnşa Edebiliriz?"
 yazar: "Rutger Bregman"
 yil: "2018"
