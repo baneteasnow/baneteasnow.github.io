@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Maybe You Should Talk To Someone | Lori Gottlieb (Kitap)"

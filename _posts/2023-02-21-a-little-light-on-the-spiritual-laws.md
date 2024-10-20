@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "A Little Light on the Spiritual Laws | Diana Cooper (Kitap)"

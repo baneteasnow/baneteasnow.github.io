@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "Öngörülemeyen Bir Dünyada Yaşamak | Frederic Lenoir (Kitap)"

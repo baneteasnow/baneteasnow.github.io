@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Why We Do the Things We Do | Joel Levy (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Light Up Your Life | Diana Cooper (Kitap)"

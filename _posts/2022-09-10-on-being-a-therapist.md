@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "On Being A Therapist | Jeffrey A. Kottler (Kitap)"

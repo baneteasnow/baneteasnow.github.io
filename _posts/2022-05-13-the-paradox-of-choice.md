@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Paradox of Choice | Barry Schwartz (Kitap)"

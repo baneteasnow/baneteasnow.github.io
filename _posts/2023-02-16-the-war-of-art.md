@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The War of Art | Steven Pressfield (Kitap)"

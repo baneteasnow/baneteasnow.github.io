@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "101 Things to Learn in Art School | Kit White (Kitap)"

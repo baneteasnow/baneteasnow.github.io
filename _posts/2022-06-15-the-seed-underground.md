@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Seed Underground | Janisse Ray (Kitap)"

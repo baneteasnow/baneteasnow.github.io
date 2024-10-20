@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Mothers Who Can't Love | Susan Forward (Kitap)"

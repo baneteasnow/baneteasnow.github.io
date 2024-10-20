@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "On Being a Master Therapist | Jeffrey A. Kottler, Jon Carlson (Kitap)"

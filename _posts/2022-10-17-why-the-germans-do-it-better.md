@@ -1,5 +1,4 @@
 ---
-# openai ---
 layout: post
 category: book
 title: "Why the Germans Do it Better | John Kampfner (Kitap)"

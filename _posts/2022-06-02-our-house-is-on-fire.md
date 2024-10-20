@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Our House is on Fire | Malena Ernman, Greta Thunberg, Beata Ernman, Svante Thunberg (Kitap)"

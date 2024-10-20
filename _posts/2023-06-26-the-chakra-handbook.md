@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "The Chakra Handbook | S. Sharamon, B. J. Baginski (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Little Book of Mindfulness | Patrizia Collard (Kitap)"

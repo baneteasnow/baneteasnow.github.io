@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Vegan Devrimi ve Hayvan Özgürlüğü | Zülâl Kalkandelen (Kitap)"

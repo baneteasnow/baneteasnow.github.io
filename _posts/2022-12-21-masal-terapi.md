@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Masal Terapi | Judith Malika Liberman (Kitap)"

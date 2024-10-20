@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Warrior Goddess Training | Heatherash Amara (Kitap)"

@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "How to Worry Less About Money  |  John Armstrong (Kitap)"

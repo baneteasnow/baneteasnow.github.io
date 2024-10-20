@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Neurotic Personality of Our Time | Karen Horney (Kitap)"

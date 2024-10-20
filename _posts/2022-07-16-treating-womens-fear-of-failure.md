@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Treating Women's Fear of Failure | Esther D. Rothblum, Elle Cole (Kitap)"

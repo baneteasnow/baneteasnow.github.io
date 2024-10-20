@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "How to Thrive in the Digital Age | Tom Chatfield (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Reinventing Your Life | Jeffrey E. Young, Janet S. Klosko (Kitap)"

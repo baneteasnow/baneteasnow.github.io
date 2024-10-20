@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Overcoming the Fear of Success | Martha Friedman (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Cult of We | Eliot Brown, Maureen Farrell (Kitap)"

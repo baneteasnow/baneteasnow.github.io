@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "Talk Like TED | Carmine Gallo (Kitap)"

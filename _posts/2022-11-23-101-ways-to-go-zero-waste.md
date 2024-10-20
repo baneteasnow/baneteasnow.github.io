@@ -1,5 +1,4 @@
 ---
-# openai ---
 layout: post
 category: book
 title: "101 Ways to Go Zero Waste | Kathryn Kellogg (Kitap)"

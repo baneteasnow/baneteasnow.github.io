@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Yoga | David Frawley (Kitap)"

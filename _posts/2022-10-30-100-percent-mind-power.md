@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "100 Percent Mind Power | Jack Ensign Addington (Kitap)"

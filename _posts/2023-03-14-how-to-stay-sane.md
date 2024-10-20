@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "How to Stay Sane | Philippa Perry (Kitap)"

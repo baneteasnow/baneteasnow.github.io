@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Feng Shui: Arranging Your Home to Change Your Life | Kirsten M. Lagatree (Kitap)"

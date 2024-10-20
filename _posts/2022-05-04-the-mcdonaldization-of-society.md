@@ -1,5 +1,4 @@
 ---
-#openai
 layout: post
 category: book
 title: "The McDonaldization of Society | George Ritzer (Kitap) "

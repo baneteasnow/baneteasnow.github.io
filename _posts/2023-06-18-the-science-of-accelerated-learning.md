@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "The Science of Accelerated Learning | Peter Hollins (Kitap)"

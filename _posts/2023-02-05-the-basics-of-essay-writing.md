@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Basics of Essay Writing | Nigel Warburton (Kitap)"

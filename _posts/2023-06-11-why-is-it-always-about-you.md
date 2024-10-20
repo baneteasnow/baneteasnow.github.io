@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "Why Is It Always About You? | Sandy Hotchkiss (Kitap)"

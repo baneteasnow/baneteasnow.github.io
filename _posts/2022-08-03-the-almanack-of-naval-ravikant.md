@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Almanack of Naval Ravikant | Eric Jorgenson (Kitap)"

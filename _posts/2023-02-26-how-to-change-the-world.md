@@ -1,5 +1,4 @@
 ---
-# openai ---
 layout: post
 category: book
 title: "How to Change the World | John-Paul Flintoff (Kitap)"

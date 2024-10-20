@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The End of Education | Neil Postman (Kitap)"

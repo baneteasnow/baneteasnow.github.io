@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Hayvan Hakları ve Veganizm | Kamil Savaş (Kitap)"

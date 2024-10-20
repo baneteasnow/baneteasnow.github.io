@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Atomic Habits | James Clear (Kitap)"

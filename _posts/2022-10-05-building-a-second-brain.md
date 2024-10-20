@@ -1,5 +1,4 @@
 ---
-# openai ---
 layout: post
 category: book
 title: "Building a Second Brain | Tiago Forte (Kitap)"

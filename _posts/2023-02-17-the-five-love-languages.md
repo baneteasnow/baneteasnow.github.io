@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The 5 Love Languages | Gary Chapman (Kitap)"

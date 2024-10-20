@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Acemi Yoginin Elkitabı | Esra E. Karaosmanoğlu (Kitap)"

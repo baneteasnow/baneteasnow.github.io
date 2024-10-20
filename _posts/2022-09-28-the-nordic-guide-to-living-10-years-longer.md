@@ -1,5 +1,4 @@
 ---
-#openai ---
 layout: post
 category: book
 title: "The Nordic Guide to Living 10 Years Longer | Bertil Marklund (Kitap)"

@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "Beyond the Power of Your Subconscious Mind | C. James Jensen (Kitap)"

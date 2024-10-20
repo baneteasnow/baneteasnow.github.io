@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Universe Has Your Back | Gabrielle Bernstein (Kitap)"

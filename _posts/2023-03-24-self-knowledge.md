@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Self-knowledge | The School of Life (Kitap)"

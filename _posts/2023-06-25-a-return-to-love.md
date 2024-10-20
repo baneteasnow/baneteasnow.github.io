@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "A Return To Love | Marianne Williamson (Kitap)"

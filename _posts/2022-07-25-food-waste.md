@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Food Waste | David Evans (Kitap)"

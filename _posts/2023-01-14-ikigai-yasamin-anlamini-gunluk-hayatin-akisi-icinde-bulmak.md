@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Ikigai - Yaşamın Anlamını Günlük Hayatın Akışı Içinde Bulmak | Bettina Lemke (Kitap)"

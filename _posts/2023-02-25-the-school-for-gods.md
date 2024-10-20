@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The School For Gods | Stefano D'Anna (Kitap)"

@@ -1,6 +1,5 @@
 ---
 # to be updated
-# openai
 layout: post
 category: book
 title: "Mindfulness | Ellen J. Langer (Kitap)"

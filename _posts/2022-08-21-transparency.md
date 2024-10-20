@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Transparency | Warren Bennis, Daniel Goleman, James O'Toole, Patricia Ward Biederman (Kitap)"

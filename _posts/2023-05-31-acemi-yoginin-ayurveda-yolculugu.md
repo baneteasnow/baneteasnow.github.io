@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Acemi Yoginin Ayurveda Yolculuğu | Esra E. Karaosmanoğlu (Kitap)"

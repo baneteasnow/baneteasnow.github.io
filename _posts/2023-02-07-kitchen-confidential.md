@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Kitchen Confidential | Anthony Bourdain (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Artist's Way | Julia Cameron (Kitap)"

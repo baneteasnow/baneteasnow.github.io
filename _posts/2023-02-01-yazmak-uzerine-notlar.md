@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "Yazmak Üzerine Notlar | Jules Renard (Kitap)"

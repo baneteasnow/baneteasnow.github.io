@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Seven Spiritual Laws of Success | Deepak Chopra (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Ikigai Journey | Francesc Miralles, Hector Garcia (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "You Can Heal Your Life | Louise L. Hay (Kitap)"

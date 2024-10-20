@@ -1,5 +1,4 @@
 ---
-# openai
 layout: post
 category: book
 title: "The Cinderella Complex | Colette Dowling (Kitap)"
