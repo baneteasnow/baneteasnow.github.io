@@ -5,7 +5,7 @@ published: true
 ---
 
 {% assign posts_data = site.posts %}
-to be updated: {% assign updated = posts_data | where_exp: "update", "'tobeupdated' and nil" | size %} {{ updated }}
+to be updated: {% assign updated = posts_data | where_exp: "update", "'tobeupdated' or nil" | size %} {{ updated }}
 
 {% for post in site.posts %}
 {% if post.update == 'tobeupdated' or post.update == nil or post.update == 'done' %}
