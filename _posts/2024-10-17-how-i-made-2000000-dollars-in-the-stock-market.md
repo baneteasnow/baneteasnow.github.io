@@ -14,7 +14,7 @@ last_modified_at: 2024-11-17
 published: true
 posted: 2024-11-17
 tag: "biyografi"
-reread: "no"
+reread: "yes"
 rating: "5"
 eng: ""
 num: "443"
