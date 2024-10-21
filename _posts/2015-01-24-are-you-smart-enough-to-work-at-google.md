@@ -16,6 +16,8 @@ tag: "çalışma yaşamı"
 reread: "no"
 rating: "3"
 num: "7"
+eng: ""
+update: "n/a"
 image: "/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 

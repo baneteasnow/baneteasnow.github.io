@@ -17,6 +17,7 @@ reread: "yes"
 rating: "4"
 num: "8"
 eng: "Jeff Howe coined the term crowdsourcing back in 2008 in an article he wrote for Wired magazine. In the age of the internet, the wisdom of the crowds find solutions to many problems. Crowdsourcing is the power of the wisdom of crowds accomplishing tasks without being a specialist in a specific area. Although it is a dated book, it explains the term well with many examples."
+update: "n/a"
 image: "/assets/old/crowdsourcing.jpg"
 ---
 

@@ -16,6 +16,8 @@ tag: "çalışma yaşamı"
 reread: "no"
 rating: "3"
 num: "3"
+eng: ""
+update: "n/a"
 image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 

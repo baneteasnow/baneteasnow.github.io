@@ -17,6 +17,7 @@ reread: "yes"
 num: "2"
 eng: "Alain de Botton offers insightful observations on the nature of work and people’s diverse attitudes towards it. By spending a day with individuals from various fields—such as consulting, painting, fishing, cargo ship spotting, and biscuit manufacturing—he aims to gain a deeper understanding of their perspectives on their jobs and what they find enjoyable or challenging about them."
 rating: "5"
+update: "n/a"
 image: "/assets/old/the-pleasures-and-sorrows-of-work.jpg"
 ---
 

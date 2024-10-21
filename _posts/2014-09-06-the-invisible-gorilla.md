@@ -16,6 +16,8 @@ tag: "psikoloji"
 reread: "yes"
 rating: "4"
 num: "4"
+eng: ""
+update: "n/a"
 image: "/assets/old/the-invisible-gorilla.jpg"
 ---
 

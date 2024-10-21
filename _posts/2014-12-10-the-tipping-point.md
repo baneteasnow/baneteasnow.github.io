@@ -17,6 +17,7 @@ reread: "yes"
 rating: "5"
 num: "6"
 eng: "Why some of the ideas or brands become suddenly popular, while others don’t? How do trends spread, how do they stick? A classic book of Malcolm Gladwell answers all these questions and many more on trends."
+update: "n/a"
 image: "/assets/old/the-tipping-point.jpg"
 ---
 

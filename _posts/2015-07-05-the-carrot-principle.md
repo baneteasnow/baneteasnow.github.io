@@ -16,6 +16,8 @@ tag: "çalışma yaşamı"
 reread: "yes"
 rating: "3"
 num: "10"
+eng: ""
+update: "n/a"
 image: "/assets/old/the-carrot-principle.jpg"
 ---
 

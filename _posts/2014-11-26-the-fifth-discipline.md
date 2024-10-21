@@ -16,6 +16,8 @@ tag: "yönetim"
 reread: "yes"
 rating: "5"
 num: "5"
+eng: ""
+update: "n/a"
 image: "/assets/old/the-fifth-discipline.jpg"
 ---
 

@@ -16,6 +16,8 @@ tag: "çalışma yaşamı"
 reread: "no"
 rating: "4"
 num: "9"
+eng: ""
+update: "n/a"
 image: "/assets/old/hello-laziness.jpg"
 ---
 

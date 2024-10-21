@@ -16,6 +16,8 @@ tag: "dijital kültür"
 reread: "yes"
 rating: "4"
 num: "12"
+eng: ""
+update: "n/a"
 image: "/assets/old/the-wisdom-of-crowds.jpg"
 ---
 

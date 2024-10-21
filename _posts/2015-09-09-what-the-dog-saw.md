@@ -16,6 +16,8 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "15"
+eng: ""
+update: "n/a"
 image: "/assets/old/what-the-dog-saw.jpg"
 ---
 

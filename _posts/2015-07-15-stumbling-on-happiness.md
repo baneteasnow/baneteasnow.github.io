@@ -16,6 +16,8 @@ tag: "felsefe"
 reread: "yes"
 rating: "5"
 num: "11"
+eng: ""
+update: "n/a"
 image: "/assets/old/stumbling-on-happiness.jpg"
 ---
 
