@@ -5,12 +5,13 @@ published: true
 ---
 
 {% assign posts_data = site.posts %}
-to be updated: {% assign allposts = posts_data | size %} {% assign tobeupdated = posts_data | where: "update", "tobeupdated" | size %} {% assign done = posts_data | where: "update", "done" | size %} {{ allposts | minus: done }}
+update: {% assign allposts = posts_data | size %} {% assign tobeupdated = posts_data | where: "update", "tobeupdated" | size %} {% assign done = posts_data | where: "update", "done" | size %} {{ allposts | minus: done }}
 
 to be updated: {{ tobeupdated }}  
 done: {{ done }}  
 n/a: {% assign na = posts_data | where: "update", "n/a" | size %} {{ na }}  
-nil: {{ allposts | minus: done | minus: tobeupdated }}
+nil: {{ allposts | minus: done | minus: tobeupdated | minus: na }}  
+all: {{ allposts }}
 
 {% for post in site.posts %}
 {% if post.update == 'tobeupdated' or post.update == nil or post.update == 'done' %}
