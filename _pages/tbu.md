@@ -11,10 +11,10 @@ done: {{ done }}
 n/a: {% assign na = posts_data | where: "update", "n/a" | size %} {{ na }}  
 nil: {{ allposts | minus: done | minus: tobeupdated | minus: na }}  
 <br />
-all: {{ allposts }}
+all: {{ allposts }}  
 <br />
 {% for post in site.posts %}
-{% if post.update == 'tobeupdated' or post.update == nil or post.update == 'done' or post.update == 'n/a' %}
+{% if post.update == 'tobeupdated' or post.update == nil or post.update == 'n/a' %}
 {{ post.num }} <a href="{{ post.url }}">{{ post.title | downcase }}</a>
 {% endif %}
 {% endfor %}
