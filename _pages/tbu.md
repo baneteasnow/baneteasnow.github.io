@@ -16,5 +16,3 @@ to be updated: {% assign updated0 = posts_data | where: "update", 'tobeupdated' 
 {% include update.md %}
 
 {% assign people = site.data.people | where_exp: "someone", "someone.election_2020.office == 'U.S. President' and someone.election_2020.party == 'Democratic'" | sort: "last_names" %}
-
-{% assign updated = site.posts | where_exp: "update", "'tobeupdated' and nil" %}
