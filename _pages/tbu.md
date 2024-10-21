@@ -10,6 +10,7 @@ to be updated: {{ tobeupdated }}
 done: {{ done }}  
 n/a: {% assign na = posts_data | where: "update", "n/a" | size %} {{ na }}  
 nil: {{ allposts | minus: done | minus: tobeupdated | minus: na }}  
+<br />
 all: {{ allposts }}
 
 {% for post in site.posts %}
