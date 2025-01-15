@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 4
+read: 5
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-01-12
+last_modified_at: 2025-01-15
 published: true
 #
 # 1
@@ -23,12 +23,12 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "Ultra-Processed People - The Science Behind Food That Isn't Food"
-bookyear2: 2024
-author2: "Chris van Tulleken"
-sayfa2: 432
+booktitle2: "Natural Causes"
+bookyear2: 2021
+author2: "Barbara Ehrenreich"
+sayfa2: 200
 format2: reading as a book
-pageread2: 20
+pageread2: 1
 #
 # 3
 booktitle3: "Empire of Pain"
@@ -49,6 +49,14 @@ format4: listening as an audiobook
 pageread4: 22
 pagereadsaat4: 0
 pagereaddakika4: 22
+#
+# 5
+booktitle5: "A Healing Relationship"
+bookyear5: 2024
+author5: "Richard G Erskine"
+sayfa5: 204
+format5: reading as a book
+pageread5: 43
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -179,6 +187,31 @@ _by_ {{ page.author4 }}
 
   <br />
   <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+_by_ {{ page.author5 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+   {{ page.sayfa5 }} sayfa
+ </div>
+
+ <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025"> 
+   {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+ </div>
+
+ <div>
+   <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025"> 
+     {{ page.pageread5 }}/{{ page.sayfa5 }}
+   </span>
+ </div>
+
+<br />
+<div style="clear: both"></div>
 
   <br />
 _Through the Year_

@@ -10,12 +10,12 @@ yil: "2024"
 sayfa: "432"
 goodreads: "https://www.goodreads.com/book/show/62586003-ultra-processed-people"
 description: ""
-last_modified_at: 2025-01-31
-published: false
-posted: 2025-01-31
+last_modified_at: 2025-01-15
+published: true
+posted: 2025-01-15
 tag: ""
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
 num: ""
 image: "/assets/new/ultra-processed-people.jpg"
