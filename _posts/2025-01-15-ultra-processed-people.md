@@ -13,11 +13,11 @@ description: ""
 last_modified_at: 2025-01-15
 published: true
 posted: 2025-01-15
-tag: ""
+tag: "saglik"
 reread: "no"
 rating: "5"
 eng: ""
-num: ""
+num: "464"
 image: "/assets/new/ultra-processed-people.jpg"
 update: "tobeupdated"
 ---

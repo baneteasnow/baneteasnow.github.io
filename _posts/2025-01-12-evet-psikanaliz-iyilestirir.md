@@ -15,7 +15,7 @@ published: true
 posted: 2025-01-12
 tag: ""
 reread: "yes"
-rating: "3"
+rating: "5"
 eng: ""
 num: ""
 image: "/assets/new/evet-psikanaliz-iyilestirir.jpg"
