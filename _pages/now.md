@@ -62,9 +62,9 @@ pageread5: 43
 booktitle6: "The 60-Second Shrink"
 bookyear6: 2021
 author6: "Arnold A. Lazarus, Clifford N. Lazarus"
-sayfa6: 256
+sayfa6: 224
 format6: reading as a book
-pageread6: 1
+pageread6: 224
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
