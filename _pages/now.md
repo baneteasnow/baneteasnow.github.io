@@ -58,14 +58,6 @@ sayfa5: 204
 format5: reading as a book
 pageread5: 43
 #
-# 6
-booktitle6: "The 60-Second Shrink"
-bookyear6: 2021
-author6: "Arnold A. Lazarus, Clifford N. Lazarus"
-sayfa6: 224
-format6: reading as a book
-pageread6: 224
-#
 #
 # ⁜ {{ page.read | plus: 2 }}
 #
@@ -215,31 +207,6 @@ _by_ {{ page.author5 }}
    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
    <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025"> 
      {{ page.pageread5 }}/{{ page.sayfa5 }}
-   </span>
- </div>
-
-<br />
-<div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 6 }}
-
-{{ page.booktitle6 }} ({{ page.bookyear6 }})  
-_by_ {{ page.author6 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format6 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-   {{ page.sayfa6 }} sayfa
- </div>
-
- <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025"> 
-   {{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
- </div>
-
- <div>
-   <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
-   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025"> 
-     {{ page.pageread6 }}/{{ page.sayfa6 }}
    </span>
  </div>
 
