@@ -8,16 +8,16 @@ tr: "Sağlık Salgını - Uzun Yaşama Sevdamız Nelere Mal Oluyor?"
 yazar: "Barbara Ehrenreich"
 yil: "2021"
 sayfa: "200"
-goodreads: "https://www.goodreads.com/book/show/35959785-natural-causes"
+goodreads: "https://www.goodreads.com/book/show/35960002-natural-causes"
 description: ""
-last_modified_at: 2025-01-31
-published: false
-posted: 2025-01-31
-tag: ""
+last_modified_at: 2025-01-20
+published: true
+posted: 2025-01-20
+tag: "saglik"
 reread: "no"
-rating: "3"
+rating: "4"
 eng: ""
-num: ""
+num: "466"
 image: "/assets/new/natural-causes.jpg"
 update: "tobeupdated"
 ---
