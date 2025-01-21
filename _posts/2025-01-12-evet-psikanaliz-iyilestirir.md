@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Evet, Psikanaliz İyileştirir! | J. D. Nasio (Kitap)"
+title: "Evet, Psikanaliz Iyileştirir! | J. D. Nasio (Kitap)"
 kitap: "-"
 tr: "Evet, Psikanaliz İyileştirir!"
 yazar: "J. D. Nasio"
