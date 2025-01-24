@@ -12,7 +12,7 @@ description: ""
 last_modified_at: 2024-12-06
 published: true
 posted: 2024-12-06
-tag: "biyografi"
+tag: "sosyoloji"
 reread: "no"
 rating: "3"
 eng: ""

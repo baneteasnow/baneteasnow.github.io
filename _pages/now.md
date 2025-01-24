@@ -11,7 +11,7 @@ read: 9
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-01-23
+last_modified_at: 2025-01-24
 published: true
 #
 # 1
@@ -28,7 +28,7 @@ bookyear2: 2018
 author2: "Michael Moss"
 sayfa2: 488
 format2: reading as a book
-pageread2: 1
+pageread2: 54
 #
 # 3
 booktitle3: "The Contrarian"
@@ -51,12 +51,20 @@ pagereadsaat4: 0
 pagereaddakika4: 22
 #
 # 5
-booktitle5: "Salt Sugar Fat"
-bookyear5: 2018
-author5: "Michael Moss"
-sayfa5: 488
+booktitle5: "Buyrun Ziyafete"
+bookyear5: 2023
+author5: "Vedat Milor, Besim Hatinoğlu"
+sayfa5: 264
 format5: reading as a book
-pageread5: 1
+pageread5: 93
+#
+# 6
+booktitle6: "Gelecek Düşündüğünüzden Daha Yakın"
+bookyear6: 2024
+author6: "Peter H. Diamandis,  Steven Kotler"
+sayfa6: 384
+format6: reading as a book
+pageread6: 1
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -207,6 +215,31 @@ _by_ {{ page.author5 }}
     <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread5 }}/{{ page.sayfa5 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 6 }}
+
+{{ page.booktitle6 }} ({{ page.bookyear6 }})  
+_by_ {{ page.author6 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format6 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa6 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread6 }}/{{ page.sayfa6 }}
       </span>
   </div>
 
