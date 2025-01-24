@@ -59,7 +59,7 @@ format5: reading as a book
 pageread5: 93
 #
 # 6
-booktitle6: "Gelecek Düşündüğünüzden Daha Yakın"
+booktitle6: "The Future Is Faster Than You Think"
 bookyear6: 2024
 author6: "Peter H. Diamandis,  Steven Kotler"
 sayfa6: 384
