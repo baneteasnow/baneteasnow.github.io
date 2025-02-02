@@ -28,7 +28,7 @@ bookyear2: 2018
 author2: "Michael Moss"
 sayfa2: 488
 format2: reading as a book
-pageread2: 54
+pageread2: 488
 #
 # 3
 booktitle3: "The Contrarian"
