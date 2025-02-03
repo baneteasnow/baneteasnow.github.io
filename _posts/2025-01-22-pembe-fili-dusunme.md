@@ -17,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "4"
 eng: ""
-num: ""
+num: "468"
 image: "/assets/new/pembe-fili-dusunme.jpg"
 update: "tobeupdated"
 ---

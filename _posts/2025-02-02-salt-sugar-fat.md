@@ -10,14 +10,14 @@ yil: "2018"
 sayfa: "488"
 goodreads: "https://www.goodreads.com/book/show/15797397-salt-sugar-fat"
 description: ""
-last_modified_at: 2025-01-31
-published: false
-posted: 2025-01-31
+last_modified_at: 2025-02-02
+published: true
+posted: 2025-02-02
 tag: ""
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
-num: ""
+num: "470"
 image: "/assets/new/salt-sugar-fat.jpg"
 update: "tobeupdated"
 ---

@@ -10,14 +10,14 @@ yil: "2024"
 sayfa: "264"
 goodreads: "https://www.goodreads.com/book/show/75595760-buyurun-ziyafete"
 description: ""
-last_modified_at: 2025-01-31
-published: false
-posted: 2025-01-31
+last_modified_at: 2025-01-24
+published: true
+posted: 2025-01-24
 tag: ""
 reread: "no"
-rating: "3"
+rating: "2"
 eng: ""
-num: ""
+num: "469"
 image: "/assets/new/buyrun-ziyafete.jpg"
 update: "tobeupdated"
 ---
