@@ -11,7 +11,7 @@ read: 11
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-03
+last_modified_at: 2025-02-06
 published: true
 #
 # 1
@@ -23,12 +23,12 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "The Future Is Faster Than You Think"
-bookyear2: 2024
-author2: "Peter H. Diamandis,  Steven Kotler"
-sayfa2: 384
+booktitle2: "Creatures of a Day"
+bookyear2: 2016
+author2: "Irvin D. Yalom"
+sayfa2: 208
 format2: reading as a book
-pageread2: 44
+pageread2: 1
 #
 # 3
 booktitle3: "The Contrarian"

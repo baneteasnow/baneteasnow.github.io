@@ -10,9 +10,9 @@ yil: "2019"
 sayfa: "206"
 goodreads: "https://www.goodreads.com/book/show/44563704-rezonans-kanunu"
 description: ""
-last_modified_at: 2025-01-31
+last_modified_at: 2025-02-28
 published: false
-posted: 2025-01-31
+posted: 2025-02-28
 tag: ""
 reread: "no"
 rating: "3"
