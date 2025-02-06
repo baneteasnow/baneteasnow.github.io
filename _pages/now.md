@@ -28,7 +28,7 @@ bookyear2: 2024
 author2: "Peter H. Diamandis,  Steven Kotler"
 sayfa2: 384
 format2: reading as a book
-pageread2: 1
+pageread2: 44
 #
 # 3
 booktitle3: "The Contrarian"
