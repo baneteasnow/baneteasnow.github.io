@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 11
+read: 13
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-06
+last_modified_at: 2025-02-07
 published: true
 #
 # 1
@@ -23,10 +23,10 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "Creatures of a Day"
-bookyear2: 2016
+booktitle2: "Becoming Myself"
+bookyear2: 2017
 author2: "Irvin D. Yalom"
-sayfa2: 208
+sayfa2: 408
 format2: reading as a book
 pageread2: 1
 #
