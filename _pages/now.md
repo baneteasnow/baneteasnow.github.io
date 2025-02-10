@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 13
+read: 14
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-07
+last_modified_at: 2025-02-10
 published: true
 #
 # 1
@@ -23,10 +23,10 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "Becoming Myself"
-bookyear2: 2017
-author2: "Irvin D. Yalom"
-sayfa2: 408
+booktitle2: "Freud Bana Masal Anlatsa"
+bookyear2: 2023
+author2: "Aydın Parmaksız"
+sayfa2: 208
 format2: reading as a book
 pageread2: 1
 #

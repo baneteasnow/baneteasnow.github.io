@@ -10,14 +10,14 @@ yil: "2016"
 sayfa: "408"
 goodreads: "https://www.goodreads.com/book/show/34219966-becoming-myself"
 description: ""
-last_modified_at: 2025-02-28
-published: false
-posted: 2025-02-28
+last_modified_at: 2025-02-09
+published: true
+posted: 2025-02-09
 tag: "psikoloji"
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
-num: "472"
+num: "473"
 image: "/assets/new/becoming-myself.jpg"
 update: "tobeupdated"
 ---
