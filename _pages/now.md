@@ -11,7 +11,7 @@ read: 14
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-10
+last_modified_at: 2025-02-11
 published: true
 #
 # 1
@@ -28,7 +28,7 @@ bookyear2: 2023
 author2: "Aydın Parmaksız"
 sayfa2: 208
 format2: reading as a book
-pageread2: 1
+pageread2: 42
 #
 # 3
 booktitle3: "The Contrarian"
@@ -49,6 +49,14 @@ format4: listening as an audiobook
 pageread4: 22
 pagereadsaat4: 0
 pagereaddakika4: 22
+#
+# 5
+booktitle5: "Yazılar"
+bookyear5: 2023
+author5: "Doğan Şahin"
+sayfa5: 248
+format5: reading as a book
+pageread5: 56
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -174,6 +182,31 @@ _by_ {{ page.author4 }}
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pagereadsaat4 }}"{{ page.pagereaddakika4 }}'/{{ page.suresaat4 }}"{{ page.suredakika4 }}'
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+_by_ {{ page.author5 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa5 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread5 }}/{{ page.sayfa5 }}
       </span>
   </div>
 
