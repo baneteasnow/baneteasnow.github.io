@@ -313,9 +313,8 @@ _by_ {{ page.author8 }}
   <div style="clear: both"></div>
 
   <br />
-_Through the Year_
-
-{% include image-gallery.html folder="/assets/through-the-year" %}
 
   <div style="clear: both"></div>
+[through the year](https://www.next52books.com/through-the-year.html "through the year")
+<div style="clear: both"></div>
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")
