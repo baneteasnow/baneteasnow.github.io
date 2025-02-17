@@ -3,8 +3,8 @@
 layout: post
 category: book
 title: "Evet, Psikanaliz Iyileştirir! | J. D. Nasio (Kitap)"
-kitap: "-"
-tr: "Evet, Psikanaliz İyileştirir!"
+kitap: "Evet, Psikanaliz İyileştirir!"
+tr: "-"
 yazar: "J. D. Nasio"
 yil: "2019"
 sayfa: "96"
