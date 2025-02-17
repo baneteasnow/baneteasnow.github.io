@@ -10,14 +10,14 @@ yil: "2018"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/24484886-every-day-gets-a-little-closer"
 description: ""
-last_modified_at: 2025-02-28
-published: false
-posted: 2025-02-28
+last_modified_at: 2025-02-17
+published: true
+posted: 2025-02-17
 tag: "psikoloji"
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
-num: ""
+num: "474"
 image: "/assets/new/every-day-gets-a-little-closer.jpg"
 update: "tobeupdated"
 ---
