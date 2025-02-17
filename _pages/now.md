@@ -315,6 +315,6 @@ _by_ {{ page.author8 }}
   <br />
 
   <div style="clear: both"></div>
-[through the year](https://www.next52books.com/through-the-year.html "through the year")
+_[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 <div style="clear: both"></div>
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")

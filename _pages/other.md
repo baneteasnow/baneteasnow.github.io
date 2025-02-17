@@ -8,7 +8,8 @@ last_modified_at: 2024-12-05
 _published: true_
 
 [now](/now.html)  
-[menu](/menu.html)
+[through the year](through-the-year.md)  
+[menu](/menu.html)  
 [map](/map.html)
 
 [tbu - long list](/tbu.html)  

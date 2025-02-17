@@ -8,4 +8,4 @@ published: true
 {% include image-gallery.html folder="/assets/through-the-year" %}
 
   <div style="clear: both"></div>
-[şimdi okuduğum kitaplar](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")
+_[şimdi okuduğum kitaplar](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")_
