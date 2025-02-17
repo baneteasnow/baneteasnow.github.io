@@ -17,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "5"
 eng: ""
-num: "472"
+num: "473"
 image: "/assets/new/creatures-of-a-day.jpg"
 update: "tobeupdated"
 ---

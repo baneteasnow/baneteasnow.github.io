@@ -17,7 +17,7 @@ tag: "saglik"
 reread: "no"
 rating: "4"
 eng: ""
-num: "466"
+num: "467"
 image: "/assets/new/natural-causes.jpg"
 update: "tobeupdated"
 ---

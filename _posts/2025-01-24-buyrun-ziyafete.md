@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "2"
 eng: ""
-num: "469"
+num: "470"
 image: "/assets/new/buyrun-ziyafete.jpg"
 update: "tobeupdated"
 ---

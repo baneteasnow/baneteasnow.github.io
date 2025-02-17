@@ -17,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "1"
 eng: ""
-num: "465"
+num: "466"
 image: "/assets/new/the-60-second-shrink.jpg"
 update: "tobeupdated"
 ---

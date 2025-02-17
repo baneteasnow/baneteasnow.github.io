@@ -17,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "5"
 eng: ""
-num: "473"
+num: "474"
 image: "/assets/new/becoming-myself.jpg"
 update: "tobeupdated"
 ---

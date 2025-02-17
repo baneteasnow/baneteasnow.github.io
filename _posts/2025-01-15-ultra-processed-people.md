@@ -17,7 +17,7 @@ tag: "saglik"
 reread: "no"
 rating: "5"
 eng: ""
-num: "464"
+num: "465"
 image: "/assets/new/ultra-processed-people.jpg"
 update: "tobeupdated"
 ---

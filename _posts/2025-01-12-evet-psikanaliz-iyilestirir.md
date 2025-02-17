@@ -13,11 +13,11 @@ description: ""
 last_modified_at: 2025-01-12
 published: true
 posted: 2025-01-12
-tag: ""
+tag: "psikoloji"
 reread: "yes"
 rating: "5"
 eng: ""
-num: ""
+num: "463"
 image: "/assets/new/evet-psikanaliz-iyilestirir.jpg"
 update: "tobeupdated"
 ---

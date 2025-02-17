@@ -17,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "3"
 eng: ""
-num: "463"
+num: "464"
 image: "/assets/new/i-want-to-die-but-i-want-to-eat-tteokpokki.jpg"
 update: "tobeupdated"
 ---

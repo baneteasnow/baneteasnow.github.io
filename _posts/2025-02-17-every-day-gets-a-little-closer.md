@@ -17,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "5"
 eng: ""
-num: "474"
+num: "475"
 image: "/assets/new/every-day-gets-a-little-closer.jpg"
 update: "tobeupdated"
 ---

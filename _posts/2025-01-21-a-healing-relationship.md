@@ -17,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "5"
 eng: ""
-num: "467"
+num: "468"
 image: "/assets/new/a-healing-relationship.jpg"
 update: "tobeupdated"
 ---

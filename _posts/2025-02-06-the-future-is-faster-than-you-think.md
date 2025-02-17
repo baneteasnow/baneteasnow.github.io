@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "3"
 eng: ""
-num: "471"
+num: "472"
 image: "/assets/new/the-future-is-faster-than-you-think.jpg"
 update: "tobeupdated"
 ---
