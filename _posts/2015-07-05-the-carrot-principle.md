@@ -23,7 +23,12 @@ image: "/assets/old/the-carrot-principle.jpg"
 
 Havuç İlkesi, liderlikte takdirin önemini vurgulayan, çalışan motivasyonu ve bağlılığı üzerine odaklanmış bir kitap. Kitap, “En iyi yöneticiler çalışanlarını takdir ederek onların yeteneklerini nasıl daha fazla kullanmalarını sağlarlar?” sorusuna yanıt arıyor. Yazarlar, takdirin sadece hoş bir jest olmadığını, aynı zamanda iş sonuçlarına doğrudan katkı sağlayan bir liderlik aracı olduğunu savunuyorlar.
 
-Kitap, “havuç ilkesi”ni bir hızlandırıcı olarak tanımlayarak, liderliğin temel dört unsuru etrafında detaylandırıyor: 1. Hedef koyma 2. İletişim 3. Güven 4. Sorumluluk
+Kitap, “havuç ilkesi”ni bir hızlandırıcı olarak tanımlayarak, liderliğin temel dört unsuru etrafında detaylandırıyor:
+
+1. Hedef koyma
+2. İletişim
+3. Güven
+4. Sorumluluk
 
 Bu dört unsurun güçlü bir takdir kültürüyle birleştiğinde liderleri daha etkili hale getirdiği belirtiliyor. Örneğin, kitabın 7. bölümünde “Bir Havuç Kültürünün Yapıtaşları” başlığı altında, çalışanların performanslarını artırmak ve bağlılıklarını sağlamak için nasıl bir takdir kültürü oluşturulabileceği ayrıntılı bir şekilde ele alınmış.
 
