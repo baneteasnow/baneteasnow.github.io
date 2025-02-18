@@ -13,8 +13,8 @@ last_modified_at: 2024-12-06
 published: true
 posted: 2024-12-06
 tag: "sosyoloji"
-reread: "no"
-rating: "3"
+reread: "yes"
+rating: "4"
 eng: ""
 num: "453"
 image: "/assets/new/yeni-dunya-yeni-kurallar.jpg"
