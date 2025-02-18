@@ -12,7 +12,7 @@ description: "Ege Soley, Pazartesi Mektupları adlı kitabında, kısa yazılar�
 last_modified_at: 2024-11-27
 published: true
 posted: 2024-11-27
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "2"
 eng: "Ege Soley shares her heartfelt perspectives on various aspects of life in her book Pazartesi Mektupları."

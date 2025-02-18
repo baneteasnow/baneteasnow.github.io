@@ -12,7 +12,7 @@ description: "Başak Kablan, Önce Hayallerim Öldü Sonra Babam isimli kitabın
 last_modified_at: 2024-10-31
 published: true
 posted: 2024-10-31
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "1"
 eng: "Önce Hayallerim Öldü Sonra Babam is a book where the author, Başak Kablan, shares a collection of short essays reflecting on her life."

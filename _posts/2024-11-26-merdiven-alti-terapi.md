@@ -12,7 +12,7 @@ description: "Deniz Dülgeroğlu, Merdiven Altı Terapi isimli podcastinde anlat
 last_modified_at: 2024-11-26
 published: true
 posted: 2024-11-26
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "2"
 eng: "Deniz Dülgeroğlu, formerly a dentist and now a podcaster, shares her story in her latest book, Merdiven Altı Terapi."
