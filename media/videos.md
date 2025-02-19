@@ -68,7 +68,7 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 20 dk.  
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
-### [The Tipping Point I Got Wrong by Malcolm Gladwell TED Video](https://www.youtube.com/watch?v=RmXrwKydM9k&t)
+#### [The Tipping Point I Got Wrong by Malcolm Gladwell TED Video](https://www.youtube.com/watch?v=RmXrwKydM9k&t)
 
 {: #the-tipping-point-i-got-wrong-by-by-malcolm-gladwell-ted-video}
 **TED Video**
