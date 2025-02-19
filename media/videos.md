@@ -2,7 +2,7 @@
 # https://www.next52books.com/media-content.html
 layout: page-14
 published: true
-last_modified_at: 2024-12-04
+last_modified_at: 2025-02-19
 title: "TED Videoları"
 ---
 
@@ -67,5 +67,23 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 2019  
 20 dk.  
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
+
+### [The Tipping Point I Got Wrong by Malcolm Gladwell TED Video](https://www.youtube.com/watch?v=RmXrwKydM9k&t)
+
+{: #the-tipping-point-i-got-wrong-by-by-malcolm-gladwell-ted-video}
+**TED Video**
+
+Malcolm Gladwell, 2000 yılında yayımlanan The Tipping Point adlı kitabında, küçük değişimlerin büyük sosyal dönüşümlere nasıl yol açtığını anlatırken, özellikle New York'taki suç oranlarının azalmasını "Kırık Camlar Teorisi" (Broken Windows Theory) ile açıklamıştı. Ancak, yıllar sonra TED sahnesinde yaptığı konuşmada, bu teorinin yanlış uygulanmasının beklenmedik olumsuz sonuçlara yol açtığını kabul etti.
+
+Başlangıçta, küçük suçlarla mücadele edilirse büyük suçların da önlenebileceği fikri, New York polis teşkilatı tarafından agresif bir şekilde benimsendi. Ancak bu yaklaşım, özellikle Stop and Frisk (Durdur ve Ara) politikasıyla birlikte, masum insanlara yönelik haksız uygulamalara dönüştü. Gladwell, bu yöntemin zamanla siyah ve Latin topluluklarını orantısız şekilde hedef aldığını, polisle toplum arasındaki güveni sarstığını ve toplumsal gerilimleri artırdığını gözlemledi.
+
+Ayrıca, suç oranlarının düşüşünün sadece bu tür sert polis müdahaleleriyle açıklanamayacağını, ekonomik ve demografik faktörlerin de önemli rol oynadığını fark etti. Yıllar sonra kendi teorisini yeniden değerlendiren Gladwell, yazarların ve gazetecilerin görüşlerini zamanla sorgulaması gerektiğini ve bir fikrin gerçek dünyadaki etkilerinin öngörülenden çok farklı olabileceğini vurguladı.
+
+Bu konuşma, hem bir fikrin nasıl beklenmedik sonuçlara yol açabileceğini hem de kendi düşüncelerimizi sorgulamanın önemini hatırlatan güçlü bir öz-eleştiri olarak öne çıkıyor.
+
+<i>Malcolm Gladwell  
+2024  
+16 dk.  
+[TED](https://www.youtube.com/watch?v=RmXrwKydM9k&t){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
 <br />
