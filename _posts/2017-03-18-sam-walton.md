@@ -12,7 +12,7 @@ description: "Sally Lee tarafından kaleme alınan kitapta Sam Walton'ın hayat�
 published: true
 last_modified_at: 2023-01-14
 posted: 2017-03-18
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "3"
 num: "51"

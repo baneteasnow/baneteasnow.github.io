@@ -12,7 +12,7 @@ description: "Steve Jobs Olmak, Steve Jobs'in hayatını ve kariyerini konu alı
 published: true
 last_modified_at: 2023-01-14
 posted: 2017-09-09
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "5"
 num: "68"

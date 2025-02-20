@@ -13,7 +13,7 @@ description: ""
 last_modified_at: 2024-09-20
 published: true
 posted: 2024-09-20
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "4"
 eng: ""

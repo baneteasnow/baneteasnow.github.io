@@ -12,7 +12,7 @@ description: "Mutfak Sırları, ünlü şef Anthony Bourdain'in inişlerle ve ç
 last_modified_at: 2023-02-07
 published: true
 posted: 2023-02-07
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "4"
 num: "302"

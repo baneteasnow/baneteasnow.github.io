@@ -12,7 +12,7 @@ description: "Aradığın Her Şey, dünyanın en büyük firmalarından biri ha
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-12-15
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "3"
 num: "119"

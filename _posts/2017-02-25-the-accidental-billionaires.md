@@ -12,7 +12,7 @@ description: "Kazara Milyarder, dünyanın en çok tanınan ve her ülkeden mily
 published: true
 last_modified_at: 2023-01-14
 posted: 2017-02-25
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "4"
 num: "49"

@@ -13,7 +13,7 @@ description: ""
 last_modified_at: 2023-12-06
 published: true
 posted: 2023-12-06
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "5"
 eng: ""

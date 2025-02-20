@@ -12,7 +12,7 @@ description: "Susan Fowler, yazılım mühendisi olarak çalıştığı Uber'den
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-01-06
-tag: "biyografi"
+tag: "profile"
 reread: "no"
 rating: "5"
 num: "214"
