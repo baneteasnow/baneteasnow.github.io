@@ -46,9 +46,9 @@ Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan 
 [TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 </i>
 
-#### [Sleep Is Your Superpower by Matt Walker TED Video](#sleep-is-your-superpower-by-matt-walker-ted-video)
+#### [Sleep Is Your Superpower by Matt Walker](#sleep-is-your-superpower-by-matt-walker)
 
-{: #sleep-is-your-superpower-by-matt-walker-ted-video }
+{: #sleep-is-your-superpower-by-matt-walker }
 **TED Video**
 
 Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
@@ -68,9 +68,9 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 20 dk.  
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
-#### [The Tipping Point I Got Wrong by Malcolm Gladwell TED Video](#the-tipping-point-i-got-wrong-by-malcolm-gladwell-ted-video)
+#### [The Tipping Point I Got Wrong by Malcolm Gladwell](#the-tipping-point-i-got-wrong-by-malcolm-gladwell)
 
-{: #the-tipping-point-i-got-wrong-by-malcolm-gladwell-ted-video}
+{: #the-tipping-point-i-got-wrong-by-malcolm-gladwell}
 **TED Video**
 
 Malcolm Gladwell, 2000 yılında yayımlanan The Tipping Point adlı kitabında, küçük değişimlerin büyük sosyal dönüşümlere nasıl yol açtığını anlatırken, özellikle New York'taki suç oranlarının azalmasını "Kırık Camlar Teorisi" (Broken Windows Theory) ile açıklamıştı. Ancak, yıllar sonra TED sahnesinde yaptığı konuşmada, bu teorinin yanlış uygulanmasının beklenmedik olumsuz sonuçlara yol açtığını kabul etti.
@@ -86,9 +86,9 @@ Bu konuşma, hem bir fikrin nasıl beklenmedik sonuçlara yol açabileceğini he
 16 dk.  
 [TED](https://www.youtube.com/watch?v=RmXrwKydM9k&t){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
-#### [The Invisible Gorilla by Christopher Chabris Talks at Google](#the-invisible-gorilla-by-christopher-chabris-talks-at-google)
+#### [The Invisible Gorilla by Christopher Chabris](#the-invisible-gorilla-by-christopher-chabris)
 
-{: #the-invisible-gorilla-by-christopher-chabris-talks-at-google}
+{: #the-invisible-gorilla-by-christopher-chabris}
 **Talks at Google**
 
 Christopher Chabris'in "Görünmez Goril" başlıklı Talks at Google sunumu, insan algısı ve dikkati üzerine çarpıcı bir bakış açısı sunuyor. Ünlü "görünmez goril" deneyi temelinde şekillenen bu konuşma, algı, hafıza ve öz güven gibi kavramlara dair önemli çıkarımlar sunuyor.
