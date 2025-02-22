@@ -2,7 +2,7 @@
 # https://www.next52books.com/media-content.html
 layout: page-14
 published: true
-last_modified_at: 2025-02-19
+last_modified_at: 2025-02-22
 title: "TED Videoları"
 ---
 
@@ -68,7 +68,7 @@ Gün içinde şekerleme yapmamak, fazla alkol ve kafein tüketiminden kaçınman
 20 dk.  
 [TED](https://www.youtube.com/watch?v=5MuIMqhT8DM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
-#### [The Tipping Point I Got Wrong by Malcolm Gladwell TED Video](https://www.youtube.com/watch?v=RmXrwKydM9k&t)
+#### [The Tipping Point I Got Wrong by Malcolm Gladwell TED Video](#the-tipping-point-i-got-wrong-by-by-malcolm-gladwell-ted-video)
 
 {: #the-tipping-point-i-got-wrong-by-by-malcolm-gladwell-ted-video}
 **TED Video**
@@ -85,5 +85,36 @@ Bu konuşma, hem bir fikrin nasıl beklenmedik sonuçlara yol açabileceğini he
 2024  
 16 dk.  
 [TED](https://www.youtube.com/watch?v=RmXrwKydM9k&t){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
+
+#### [The Invisible Gorilla by Christopher Chabris Talks at Google](#the-invisible-gorilla-by-christopher-chabris-talks-at-google)
+
+{: #the-invisible-gorilla-by-christopher-chabris-talks-at-google}
+**Talks at Google**
+
+Christopher Chabris'in "Görünmez Goril" başlıklı Talks at Google sunumu, insan algısı ve dikkati üzerine çarpıcı bir bakış açısı sunuyor. Ünlü "görünmez goril" deneyi temelinde şekillenen bu konuşma, algı, hafıza ve öz güven gibi kavramlara dair önemli çıkarımlar sunuyor.
+
+Deneyde, katılımcılara basketbol oynayan insanların videosu izletiliyor ve pas sayılarını saymaları isteniyor. Ancak videonun ortasında goril kostümlü bir kişi beliriyor. Şaşırtıcı bir şekilde, katılımcıların büyük bir bölümü gorili fark etmiyor. Bu durum, "seçici dikkat" olarak bilinen olgunun bir sonucu. Odaklandığımız bir şeye yoğunlaşırken, diğer uyaranları göz ardı edebiliyoruz.
+Chabris, bu olgunun sadece laboratuvar ortamında değil, gerçek hayatta da karşımıza çıktığını vurguluyor. Sürücülerin yayaları fark etmemesi, doktorların röntgen filmlerindeki detayları gözden kaçırması gibi durumlar, seçici dikkatin sonuçları olabilir.
+
+Konuşmada dikkat çekilen bir diğer nokta ise hafızanın güvenilirliği. Hatıralarımızın zamanla değişebileceği, hatta yanlış hatırlayabileceğimiz durumlar sıkça yaşanıyor. Belleğimiz, bir kayıt cihazı gibi değil, sürekli yeniden şekillenen ve yanıltıcı olabilen bir sistem. Chabris, bu nedenle hafızamıza aşırı güvenmememiz gerektiğini belirtiyor.
+
+Chabris, "Görünmez Goril" deneyi ve dikkat yanılsamasının yanı sıra, karar verme süreçlerimizi etkileyebilecek başka bilişsel yanılsamalardan da bahsediyor. Bunlardan bazıları şunlardır:
+
+- **Hafıza Yanılsaması**: Geçmişte yaşadığımız olayları tam ve doğru bir şekilde hatırladığımızı düşünürüz, ancak gerçekte hafızamız seçici ve yanıltıcı olabilir. Hatıralarımız zamanla değişebilir, hatta tamamen uydurma olabilir.
+- **Güven Yanılsaması**: Kendi yeteneklerimizi ve bilgilerimizi abartma eğilimindeyiz. Bu durum, gerçekçi olmayan beklentilere ve riskli kararlara yol açabilir. Örneğin, sürücülerin %80'i kendilerini ortalamanın üzerinde iyi sürücü olarak görür.
+- **Bilgi Yanılsaması**: Bir konuda çok fazla bilgiye sahip olmanın, o konuda daha iyi kararlar vermemizi sağlayacağını düşünürüz. Ancak, bilgi her zaman doğru ve yararlı olmayabilir. Aşırı bilgi, kafa karışıklığına ve yanlış kararlara neden olabilir.
+- **Neden Yanılsaması**: Olaylar arasında neden-sonuç ilişkisi kurma eğilimindeyiz, ancak bu ilişki her zaman gerçek olmayabilir. İki olay arasında bir ilişki olması, birinin diğerine neden olduğu anlamına gelmez.
+- **Potansiyel Yanılsaması**: Gizli yeteneklere sahip olduğumuzu ve bunları kolayca ortaya çıkarabileceğimizi düşünürüz. Ancak, yeteneklerimizi geliştirmek için zaman, çaba ve eğitim gerekir.
+
+Chabris, bu yanılsamaların farkında olmanın, daha iyi kararlar vermemize ve daha sağlıklı bir düşünce yapısına sahip olmamıza yardımcı olabileceğini vurguluyor.
+
+Günümüzde bilgiye erişim kolaylaşmış olsa da, doğru bilgiye ulaşmak ve yanıltıcı bilgilerden korunmak giderek zorlaşıyor. Seçici dikkat ve hafıza yanılsamaları, sahte haberler, manipülatif reklamlar ve bilgi kirliliği gibi sorunlarla başa çıkmamızı zorlaştırıyor. Chabris'in sunumu, bu tür sorunlara karşı daha bilinçli olmamız gerektiğini vurguluyor.
+
+"Görünmez Goril" deneyi ve Chabris'in açıklamaları, algımızın ve hafızamızın düşündüğümüz kadar güvenilir olmadığını gösteriyor. Bu farkındalık, hem bireysel hem de toplumsal düzeyde daha doğru kararlar almamıza yardımcı olabilir. Bilgiye eleştirel yaklaşmak, algımızın sınırlarını bilmek ve bilişsel yanılgılarımızın farkında olmak, daha sağlıklı bir düşünce yapısına sahip olmamızı sağlayabilir.
+
+<i>Christopher Chabris  
+2010  
+68 dk.  
+[Talks at Google](https://www.youtube.com/watch?v=4rdUk52h-MY){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"} </i>
 
 <br />

@@ -10,10 +10,12 @@ assign media2 = site.data.medialist | where: "type", "Belgesel" | size %} {%
 assign media3 = site.data.medialist | where: "type", "Podcast" | size %} {%
 assign media4 = site.data.medialist | where: "type", "Makale" | size %}
 
-<a href="https://www.next52books.com/media/videos.html"><b>TED Videolari</b></a>
+<a href="https://www.next52books.com/media/videos.html"
+	><b>TED Videolari / Videolar</b></a
+>
 {{ media1 }}
 <br />
-{% for item in site.data.medialist %} {% if item.type == "TEDVideo" %}
+{% for item in site.data.medialist %} {% if item.type == "Video" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
