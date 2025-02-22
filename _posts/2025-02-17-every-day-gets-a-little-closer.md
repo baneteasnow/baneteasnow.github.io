@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Every Day Gets a Little Closer | Irvin D. Yalom, Ginny Elkin (Kitap)"
@@ -14,7 +13,7 @@ last_modified_at: 2025-02-18
 published: true
 posted: 2025-02-17
 tag: "psikoloji"
-reread: "no"
+reread: "yes"
 rating: "5"
 eng: "Every Day Gets a Little Closer is a unique book that juxtaposes the perspectives of therapist and patient, illustrating how inner transformation is a process that requires patience and time."
 num: "475"

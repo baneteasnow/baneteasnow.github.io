@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 15
+read: 16
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-17
+last_modified_at: 2025-02-22
 published: true
 #
 # 1
@@ -28,7 +28,7 @@ bookyear2: 2023
 author2: "Aydın Parmaksız"
 sayfa2: 208
 format2: reading as a book
-pageread2: 49
+pageread2: 208
 #
 # 3
 booktitle3: "The Contrarian"
@@ -56,7 +56,7 @@ bookyear5: 2023
 author5: "Doğan Şahin"
 sayfa5: 248
 format5: reading as a book
-pageread5: 118
+pageread5: 196
 #
 # 6
 booktitle6: "Terapistin İkilemi"
@@ -64,7 +64,7 @@ bookyear6: 2024
 author6: "Elvin Aydın Keleş"
 sayfa6: 224
 format6: reading as a book
-pageread6: 1
+pageread6: 35
 #
 # 7
 booktitle7: "The Naked Lady Who Stood on Her Head"
