@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 16
+read: 17
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-22
+last_modified_at: 2025-02-23
 published: true
 #
 # 1
@@ -56,7 +56,7 @@ bookyear5: 2023
 author5: "Doğan Şahin"
 sayfa5: 248
 format5: reading as a book
-pageread5: 196
+pageread5: 248
 #
 # 6
 booktitle6: "Terapistin İkilemi"

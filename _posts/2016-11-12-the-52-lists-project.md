@@ -13,7 +13,7 @@ published: true
 last_modified_at: 2024-12-07
 posted: 2016-11-12
 tag: "motivasyon"
-reread: "no"
+reread: "yes"
 rating: "4"
 num: "38"
 eng: "The 52 Lists Project invites you to explore yourself and gain awareness by creating themed lists throughout the year."
