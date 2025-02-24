@@ -11,7 +11,7 @@ read: 17
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-23
+last_modified_at: 2025-02-24
 published: true
 #
 # 1
@@ -23,12 +23,12 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "Freud Bana Masal Anlatsa"
-bookyear2: 2023
-author2: "Aydın Parmaksız"
-sayfa2: 208
+booktitle2: "The Naked Lady Who Stood on Her Head"
+bookyear2: 2018
+author2: "Gary Small, Gigi Vorgan"
+sayfa2: 336
 format2: reading as a book
-pageread2: 208
+pageread2: 89
 #
 # 3
 booktitle3: "The Contrarian"
@@ -51,36 +51,20 @@ pagereadsaat4: 0
 pagereaddakika4: 22
 #
 # 5
-booktitle5: "Yazılar"
-bookyear5: 2023
-author5: "Doğan Şahin"
-sayfa5: 248
+booktitle5: "Terapistin İkilemi"
+bookyear5: 2024
+author5: "Elvin Aydın Keleş"
+sayfa5: 224
 format5: reading as a book
-pageread5: 248
+pageread5: 57
 #
 # 6
-booktitle6: "Terapistin İkilemi"
-bookyear6: 2024
-author6: "Elvin Aydın Keleş"
-sayfa6: 224
+booktitle6: "Mating in Captivity"
+bookyear6: 2025
+author6: "Esther Perel"
+sayfa6: 288
 format6: reading as a book
-pageread6: 35
-#
-# 7
-booktitle7: "The Naked Lady Who Stood on Her Head"
-bookyear7: 2018
-author7: "Gary Small, Gigi Vorgan"
-sayfa7: 336
-format7: reading as a book
-pageread7: 1
-#
-# 8
-booktitle8: "Mating in Captivity"
-bookyear8: 2025
-author8: "Esther Perel"
-sayfa8: 288
-format8: reading as a book
-pageread8: 1
+pageread6: 1
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -256,56 +240,6 @@ _by_ {{ page.author6 }}
     <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread6 }}/{{ page.sayfa6 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 7 }}
-
-{{ page.booktitle7 }} ({{ page.bookyear7 }})  
-_by_ {{ page.author7 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format7 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa7 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread7 | times: 100 | divided_by: page.sayfa7 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread7 }}/{{ page.sayfa7 }}" value="{{ page.pageread7 }}" max="{{ page.sayfa7 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread7 }}/{{ page.sayfa7 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 8 }}
-
-{{ page.booktitle8 }} ({{ page.bookyear8 }})  
-_by_ {{ page.author8 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format8 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa8 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread8 | times: 100 | divided_by: page.sayfa8 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread8 }}/{{ page.sayfa8 }}" value="{{ page.pageread8 }}" max="{{ page.sayfa8 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread8 }}/{{ page.sayfa8 }}
       </span>
   </div>
 
