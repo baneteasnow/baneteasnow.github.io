@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 17
+read: 18
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-24
+last_modified_at: 2025-02-26
 published: true
 #
 # 1
@@ -28,7 +28,7 @@ bookyear2: 2018
 author2: "Gary Small, Gigi Vorgan"
 sayfa2: 336
 format2: reading as a book
-pageread2: 89
+pageread2: 336
 #
 # 3
 booktitle3: "The Contrarian"
