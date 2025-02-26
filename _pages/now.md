@@ -23,12 +23,12 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "The Naked Lady Who Stood on Her Head"
-bookyear2: 2018
-author2: "Gary Small, Gigi Vorgan"
-sayfa2: 336
+booktitle2: "Love's Executioner and Other Tales of Psychotherapy"
+bookyear2: 2010
+author2: "Irvin D. Yalom"
+sayfa2: 304
 format2: reading as a book
-pageread2: 336
+pageread2: 1
 #
 # 3
 booktitle3: "The Contrarian"
