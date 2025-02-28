@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 18
+read: 19
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-26
+last_modified_at: 2025-02-28
 published: true
 #
 # 1
@@ -26,9 +26,9 @@ pageread1: 34
 booktitle2: "Love's Executioner and Other Tales of Psychotherapy"
 bookyear2: 2010
 author2: "Irvin D. Yalom"
-sayfa2: 304
+sayfa2: 312
 format2: reading as a book
-pageread2: 1
+pageread2: 312
 #
 # 3
 booktitle3: "The Contrarian"
