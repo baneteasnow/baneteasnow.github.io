@@ -23,12 +23,12 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "Love's Executioner and Other Tales of Psychotherapy"
-bookyear2: 2010
-author2: "Irvin D. Yalom"
-sayfa2: 312
+booktitle2: "A Year to Change Your Mind"
+bookyear2: 2025
+author2: "Lucy Maddox"
+sayfa2: 256
 format2: reading as a book
-pageread2: 312
+pageread2: 313
 #
 # 3
 booktitle3: "The Contrarian"
@@ -64,7 +64,39 @@ bookyear6: 2025
 author6: "Esther Perel"
 sayfa6: 288
 format6: reading as a book
-pageread6: 1
+pageread6: 37
+#
+# 7
+booktitle7: "The Yalom Reader"
+bookyear7: 2018
+author7: "Irvin D. Yalom"
+sayfa7: 244
+format7: reading as a book
+pageread7: 1
+#
+# 8
+booktitle8: "Didik Didik Freud"
+bookyear8: 2022
+author8: "Serol Teber, Şenol Ayla"
+sayfa8: 256
+format8: reading as a book
+pageread8: 1
+#
+# 9
+booktitle9: "Gönlüm Dilime Dargın"
+bookyear9: 2021
+author9: "Elvin Aydın Keleş"
+sayfa9: 208
+format9: reading as a book
+pageread9: 1
+#
+# 10
+booktitle10: "Around the World in 80 Trains"
+bookyear10: 2024
+author10: "Monisha Rajesh"
+sayfa10: 344
+format10: reading as a book
+pageread10: 1
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -246,9 +278,107 @@ _by_ {{ page.author6 }}
   <br />
   <div style="clear: both"></div>
 
-  <br />
+⁜ {{ page.read | plus: 7 }}
 
+{{ page.booktitle7 }} ({{ page.bookyear7 }})  
+_by_ {{ page.author7 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format7 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa7 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread7 | times: 100 | divided_by: page.sayfa7 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread7 }}/{{ page.sayfa7 }}" value="{{ page.pageread7 }}" max="{{ page.sayfa7 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread7 }}/{{ page.sayfa7 }}
+      </span>
+  </div>
+
+  <br />
   <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 8 }}
+
+{{ page.booktitle8 }} ({{ page.bookyear8 }})  
+_by_ {{ page.author8 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format8 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa8 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread8 | times: 100 | divided_by: page.sayfa8 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread8 }}/{{ page.sayfa8 }}" value="{{ page.pageread8 }}" max="{{ page.sayfa8 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread8 }}/{{ page.sayfa8 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 9 }}
+
+{{ page.booktitle9 }} ({{ page.bookyear9 }})  
+_by_ {{ page.author9 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format9 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa9 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread9 | times: 100 | divided_by: page.sayfa9 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread9 }}/{{ page.sayfa9 }}" value="{{ page.pageread9 }}" max="{{ page.sayfa9 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread9 }}/{{ page.sayfa9 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 10 }}
+
+{{ page.booktitle10 }} ({{ page.bookyear10 }})  
+_by_ {{ page.author10 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format10 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa10 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread10 | times: 100 | divided_by: page.sayfa10 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread10 }}/{{ page.sayfa10 }}" value="{{ page.pageread10 }}" max="{{ page.sayfa10 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread10 }}/{{ page.sayfa10 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
+
 <div style="clear: both"></div>
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")

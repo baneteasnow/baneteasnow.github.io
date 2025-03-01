@@ -10,9 +10,9 @@ yil: "2021"
 sayfa: "400"
 goodreads: "https://www.goodreads.com/book/show/57880116-the-contrarian"
 description: ""
-last_modified_at: 2025-02-28
+last_modified_at: 2025-03-31
 published: false
-posted: 2025-02-28
+posted: 2025-03-31
 tag: "lifestyle"
 reread: "no"
 rating: "3"
