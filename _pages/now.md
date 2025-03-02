@@ -28,7 +28,7 @@ bookyear2: 2025
 author2: "Lucy Maddox"
 sayfa2: 256
 format2: reading as a book
-pageread2: 313
+pageread2: 1
 #
 # 3
 booktitle3: "The Contrarian"
