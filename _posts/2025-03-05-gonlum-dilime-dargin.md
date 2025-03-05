@@ -10,14 +10,14 @@ yil: "2021"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/58581443-gonlum-dilime-darg-n"
 description: ""
-last_modified_at: 2025-03-31
-published: false
-posted: 2025-03-31
+last_modified_at: 2025-03-05
+published: true
+posted: 2025-03-05
 tag: "psikoloji"
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
-num: ""
+num: "480"
 image: "/assets/new/gonlum-dilime-dargin.jpg"
 update: "tobeupdated"
 ---

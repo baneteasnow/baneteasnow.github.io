@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 19
+read: 20
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-02-28
+last_modified_at: 2025-03-05
 published: true
 #
 # 1
@@ -83,20 +83,12 @@ format8: reading as a book
 pageread8: 1
 #
 # 9
-booktitle9: "Gönlüm Dilime Dargın"
-bookyear9: 2021
-author9: "Elvin Aydın Keleş"
-sayfa9: 208
+booktitle9: "Around the World in 80 Trains"
+bookyear9: 2024
+author9: "Monisha Rajesh"
+sayfa9: 344
 format9: reading as a book
 pageread9: 1
-#
-# 10
-booktitle10: "Around the World in 80 Trains"
-bookyear10: 2024
-author10: "Monisha Rajesh"
-sayfa10: 344
-format10: reading as a book
-pageread10: 1
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -347,31 +339,6 @@ _by_ {{ page.author9 }}
     <progress title="{{ page.pageread9 }}/{{ page.sayfa9 }}" value="{{ page.pageread9 }}" max="{{ page.sayfa9 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread9 }}/{{ page.sayfa9 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 10 }}
-
-{{ page.booktitle10 }} ({{ page.bookyear10 }})  
-_by_ {{ page.author10 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format10 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa10 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread10 | times: 100 | divided_by: page.sayfa10 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread10 }}/{{ page.sayfa10 }}" value="{{ page.pageread10 }}" max="{{ page.sayfa10 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread10 }}/{{ page.sayfa10 }}
       </span>
   </div>
 
