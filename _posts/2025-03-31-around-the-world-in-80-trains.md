@@ -10,14 +10,14 @@ yil: "2024"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/48730164-around-the-world-in-80-trains"
 description: ""
-last_modified_at: 2025-03-31
-published: false
-posted: 2025-03-31
-tag: "sosyoloji"
+last_modified_at: 2025-03-07
+published: true
+posted: 2025-03-07
+tag: "profile"
 reread: "no"
-rating: "3"
+rating: "1"
 eng: ""
-num: ""
+num: "481"
 image: "/assets/new/around-the-world-in-80-trains.jpg"
 update: "tobeupdated"
 ---

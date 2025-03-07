@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 20
+read: 21
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-03-05
+last_modified_at: 2025-03-07
 published: true
 #
 # 1
@@ -81,15 +81,6 @@ author8: "Serol Teber, Şenol Ayla"
 sayfa8: 256
 format8: reading as a book
 pageread8: 1
-#
-# 9
-booktitle9: "Around the World in 80 Trains"
-bookyear9: 2024
-author9: "Monisha Rajesh"
-sayfa9: 344
-format9: reading as a book
-pageread9: 1
-#
 #
 # ⁜ {{ page.read | plus: 2 }}
 #
@@ -314,31 +305,6 @@ _by_ {{ page.author8 }}
     <progress title="{{ page.pageread8 }}/{{ page.sayfa8 }}" value="{{ page.pageread8 }}" max="{{ page.sayfa8 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread8 }}/{{ page.sayfa8 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 9 }}
-
-{{ page.booktitle9 }} ({{ page.bookyear9 }})  
-_by_ {{ page.author9 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format9 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa9 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread9 | times: 100 | divided_by: page.sayfa9 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread9 }}/{{ page.sayfa9 }}" value="{{ page.pageread9 }}" max="{{ page.sayfa9 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread9 }}/{{ page.sayfa9 }}
       </span>
   </div>
 
