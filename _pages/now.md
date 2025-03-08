@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 21
+read: 22
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-03-07
+last_modified_at: 2025-03-08
 published: true
 #
 # 1
@@ -59,12 +59,12 @@ format5: reading as a book
 pageread5: 57
 #
 # 6
-booktitle6: "Mating in Captivity"
-bookyear6: 2025
-author6: "Esther Perel"
-sayfa6: 288
+booktitle6: "Didik Didik Freud"
+bookyear6: 2022
+author6: "Serol Teber, Şenol Ayla"
+sayfa6: 256
 format6: reading as a book
-pageread6: 37
+pageread6: 1
 #
 # 7
 booktitle7: "The Yalom Reader"
@@ -73,14 +73,6 @@ author7: "Irvin D. Yalom"
 sayfa7: 244
 format7: reading as a book
 pageread7: 1
-#
-# 8
-booktitle8: "Didik Didik Freud"
-bookyear8: 2022
-author8: "Serol Teber, Şenol Ayla"
-sayfa8: 256
-format8: reading as a book
-pageread8: 1
 #
 # ⁜ {{ page.read | plus: 2 }}
 #
@@ -280,31 +272,6 @@ _by_ {{ page.author7 }}
     <progress title="{{ page.pageread7 }}/{{ page.sayfa7 }}" value="{{ page.pageread7 }}" max="{{ page.sayfa7 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread7 }}/{{ page.sayfa7 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 8 }}
-
-{{ page.booktitle8 }} ({{ page.bookyear8 }})  
-_by_ {{ page.author8 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format8 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa8 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread8 | times: 100 | divided_by: page.sayfa8 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread8 }}/{{ page.sayfa8 }}" value="{{ page.pageread8 }}" max="{{ page.sayfa8 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread8 }}/{{ page.sayfa8 }}
       </span>
   </div>
 
