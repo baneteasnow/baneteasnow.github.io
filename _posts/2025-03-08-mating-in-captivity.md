@@ -10,11 +10,11 @@ sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/27485.Mating_in_Captivity"
 description: "Esaret Altındaki İlişkiler, bağlılık ve tutku arasındaki çelişkiyi ele alarak, modern ilişkilerde özgürlüğü ve arzuyu nasıl koruyabileceğimizi sorgulayan cesur bir kitap."
 last_modified_at: 2025-03-08
-published: false
+published: true
 posted: 2025-03-08
 tag: "psikoloji"
 reread: "no"
-rating: "3"
+rating: "2"
 eng: "Mating in Captivity is a bold exploration of the tension between commitment and desire, questioning how we can sustain freedom and passion in modern relationships."
 num: "482"
 image: "/assets/new/mating-in-captivity.jpg"
