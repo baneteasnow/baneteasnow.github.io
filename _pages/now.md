@@ -20,7 +20,7 @@ bookyear1: 2024
 author1: "Candace Rose Rardon"
 sayfa1: 184
 format1: reading as a book
-pageread1: 34
+pageread1: 184
 #
 # 2
 booktitle2: "A Year to Change Your Mind"
