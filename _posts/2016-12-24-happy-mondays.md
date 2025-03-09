@@ -8,7 +8,7 @@ yazar: "Richard Reeves"
 yil: "2003"
 sayfa: "203"
 goodreads: "https://www.goodreads.com/book/show/1475006.Happy_Mondays"
-description: "Mutlu Pazartesiler, çalışmanın ve çalışma yaşamının insan hayatındaki etkilerine odaklanıyor ve konuyu pozitif şekilde ele alıyor."
+description: "Mutlu Pazartesiler, çalışmanın mutluluğa etkisini sorgulayarak, işin yalnızca bir zorunluluk değil, anlam ve kimlik kazandıran bir süreç olduğunu vurguluyor."
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-12-24
@@ -16,8 +16,8 @@ tag: "çalışma yaşamı"
 reread: "no"
 rating: "4"
 num: "43"
-eng: ""
-update: "tobeupdated"
+eng: "Happy Mondays explores the relationship between work and happiness, emphasizing that a job is not just an obligation but a source of meaning and identity."
+update: "done"
 image: "/assets/old/happy-mondays.jpg"
 ---
 

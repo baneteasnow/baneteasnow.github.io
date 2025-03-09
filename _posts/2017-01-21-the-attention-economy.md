@@ -8,27 +8,29 @@ yazar: "Thomas H. Davenport, John C. Beck"
 yil: "2010"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/475876.Attention_Economy"
-description: "Kitap, internetin yaygınlaşması ile birlikte enformasyonun her geçen gün daha da artmasını ve bu durumun iş dünyasında dikkat yönetiminin adeta bir bilim olarak yansımasını konu ediniyor."
+description: "Dikkat Ekonomisi, bilgi çağında dikkatin en kıt kaynak haline gelmesini ve bireylerin, şirketlerin bu sınırlı kaynağı nasıl yönlendirebileceğini ele alıyor."
+eng: "The Attention Economy explores how attention has become the scarcest resource in the information age and how individuals and businesses can manage it effectively."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-09
 posted: 2017-01-21
 tag: "teknoloji"
 reread: "yes"
 rating: "4"
 num: "44"
+update: "done"
 image: "/assets/old/the-attention-economy.jpg"
 ---
 
-Dikkat Ekonomisi isimli kitap, yazarları Thomas H. Davenport ve John C. Beck tarafından 2001'de kaleme alınmış.
+Thomas H. Davenport ve John C. Beck’in Dikkat Ekonomisi adlı kitabı, bilgi çağında dikkatin en kıt kaynak haline gelmesini ve iş dünyasında dikkat yönetiminin giderek daha kritik bir hale gelmesini ele alıyor. 2001 yılında yazılan kitap, internetin hızla yayılmaya başladığı dönemde enformasyon akışının nasıl hızlandığını ve bireylerin, şirketlerin ve pazarlamacıların bu yeni dünyada dikkat çekmek için nasıl mücadele verdiğini inceliyor.
 
-Kitap, internetin yaygınlaşması ile birlikte enformasyonun her geçen gün daha da artmasını ve bu durumun iş dünyasında dikkat yönetiminin adeta bir bilim olarak yansımasını konu ediniyor. Bu kitap okunurken, yazıldığı tarih dikkate alınarak, o günlerde internetin hızla yayılmakta olduğu (ancak bugünkü yaygın, hızlı ve kolay erişilebilir haline henüz gelmediği), her geçen gün internet için yeni bir kullanım alanı oluştuğu / açıldığı, iletişimin internet ve e-posta aracılığıyla sağlanmaya başlandığı göz önünde bulundurulmalıdır. Ancak, gene de kitapta yer verilen pek çok konu oldukça ilginç ve faydalı.
+Kitap, enformasyonun bol ancak dikkatin sınırlı olduğu bir ekonomide, bireylerin dikkatini çekmenin ve elde tutmanın nasıl bir değere dönüştüğünü açıklıyor. Eskiden bilgiye ulaşmak zorken, günümüzde esas zorluk, bu bilgiye ayıracak yeterli dikkati bulmak. Yazarlar, modern dünyada bant genişliğinin artık bir sorun olmadığını, ancak insanın dikkat kapasitesinin kısıtlı olduğunu vurguluyor. Dikkatin nasıl yönlendirileceği, işletmelerin ve bireylerin nasıl daha etkili bir şekilde odaklanabileceği gibi konular kitapta detaylı bir şekilde ele alınıyor.
 
-Kitapta yer alan şu paragraf dikkatin önemine vurgu yapıyor (sayfa 14-15):
+Dikkat yönetimiyle ilgili şu satırlar kitabın temel argümanını özetliyor (sayfa 14-15):
 
-> Hepimiz, artık bir dikkat ekonomisinde yaşıyoruz. Bu yeni ekonomide sermaye, iş gücü, enformasyon ve bilginin hepsi oldukça verimli bir kaynak oluşturuyorlar. Bir iş kurmak, müşterilere ve pazarlara ulaşmak, bir web sitesi hazırlamak, ilan ve reklam tasarlamak çok kolay. Yetersiz olan insan dikkati. Telekomünikasyondaki bant genişliği bir sorun değil ama insanınki bir sorun. Bir dönem, yazılım dünyasının ileri gelenleri "enformasyonu parmaklarınızın ucuna getirmek" konusunda oldukça ihtiraslıydılar. Artık buna sahibiz, hem de geniş çapta. Ancak insanlar bu enformasyona ayıracak fazladan dikkat bulamadıkları takdirde kimse bundan haberdar olamayacak, bir şey öğrenmeyecek ve etkilenmeyecek. Maalesef çoğu kuruluş bir şeye yöneltecek dikkati çok az bulabiliyor. Bu da bizi dikkat yönetiminin anahtar ilkesine yöneltiyor.
+> “Hepimiz artık bir dikkat ekonomisinde yaşıyoruz. Bu yeni ekonomide sermaye, iş gücü, enformasyon ve bilginin hepsi verimli bir kaynak oluşturuyor. Ancak, en kıt kaynak insan dikkati. Telekomünikasyondaki bant genişliği bir sorun değil ama insanınki bir sorun.”
 
-Aşağıdaki şu satır da oldukça ilginç (sayfa 17):
+Kitapta, tüketicilerin maruz kaldığı aşırı enformasyon karşısında nasıl seçim yaptıkları da tartışılıyor. Örneğin, bir süpermarkette ortalama 40 bin farklı ürün yer almasına rağmen, bir ailenin yılda yalnızca 150 farklı ürünü tercih etmesi, dikkatin nasıl çalıştığını gösteren çarpıcı bir örnek olarak sunuluyor.
 
-> Bugün ortalama bir market yaklaşık 40 bin ürün veya ürün çeşidi stokluyor. Peki, ortalama bir aile yıllık sadece 150 çeşit ürün satın alırken bu ürünler onların dikkatini nasıl çekiyor?
+Ayrıca, günümüzde yaygın olarak benimsenen multitasking (çoklu görev yapma) kavramının insan beyni için ne kadar gerçekçi olduğu da ele alınıyor. Kitaba göre, insanların aynı anda birden fazla karmaşık göreve verimli bir şekilde odaklanması mümkün değil; beyin yalnızca bir konuya tam anlamıyla dikkat verebiliyor.
 
-Dikkat Ekonomisi'nde günümüzde çok talep gören multitasking kavramının aslında normal bir birey tarafından kendisinden istenildiği şekilde yerine getirmesinin pek mümkün olmadığı, çünkü insanın tek bir anda ve/veya zaman diliminde ancak tek bir konu üzerine odaklanabildiği vurgulanıyor.
+Dikkat Ekonomisi, günümüz dünyasında bireylerin ve işletmelerin dikkat çekmek ve dikkati yönetmek için geliştirmesi gereken stratejileri ele alarak, enformasyon çağında nasıl fark yaratılabileceğini sorguluyor.

@@ -14,8 +14,8 @@ last_modified_at: 2025-02-26
 published: true
 posted: 2025-02-26
 tag: "psikoloji"
-reread: "no"
-rating: "3"
+reread: "yes"
+rating: "5"
 eng: ""
 num: "478"
 image: "/assets/new/the-naked-lady-who-stood-on-her-head.jpg"
