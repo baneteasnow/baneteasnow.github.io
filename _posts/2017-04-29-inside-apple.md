@@ -8,58 +8,47 @@ yazar: "Adam Lashinsky"
 yil: "2012"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/13055451-inside-apple"
-description: "Apple Mucizesi, Steve Jobs liderliğinde Apple'ın nasıl bugünkü konumuna geldiğini ilgi çekici kesitlerle aktaran bir kitap."
-last_modified_at: 2023-01-14
+description: "Apple Mucizesi, Steve Jobs liderliğinde Apple’ın nasıl dünyanın en etkili teknoloji şirketlerinden biri haline geldiğini, inovasyon anlayışını, gizlilik odaklı kurumsal kültürünü ve iş yapma felsefesini detaylı bir şekilde ele alıyor."
+eng: "Inside Apple explores how Apple, under Steve Jobs’ leadership, became one of the most influential technology companies in the world, delving into its innovation philosophy, secrecy-driven corporate culture, and unique business strategies."
+last_modified_at: 2025-03-09
 published: true
 posted: 2017-04-29
 tag: "marka profili"
 reread: "no"
 rating: "5"
 num: "54"
+update: "done"
 image: "/assets/old/inside-apple.jpg"
 ---
 
-Adam Lashinsky tarafından kaleme alınan Apple Mucizesi, Steve Jobs liderliğinde Apple'ın nasıl bugünkü konumuna geldiğini ilgi çekici kesitlerle aktaran bir kitap.
+Apple Mucizesi, Adam Lashinsky’nin kaleme aldığı ve Apple’ın Steve Jobs liderliğinde nasıl dünyanın en etkili teknoloji şirketlerinden biri haline geldiğini anlatan bir kitap. Apple’ın kurumsal kültürü, inovasyon süreçleri ve gizlilikle örülmüş iş yapısı üzerine pek çok ilginç detayı barındıran bu kitap, sadece bir teknoloji devinin değil, bir vizyonun nasıl hayata geçirildiğini gözler önüne seriyor.
 
-İç yapısı ve ortamı hakkında oldukça ketum davranan Apple, çıkardığı ürünler ve endüstriyi şekillendirici rolüyle dikkatleri üzerinde topluyor. Steve Jobs'in en büyük özelliklerinden biri vizyoner olması ve bu özelliğini de ürünlere yansıtma becerisi idi. Apple'ın geçmişten bugüne kadar olan süreci incelendiğinde ancak doğru şeyin doğru zaman ve yerde piyasaya sunulması ile başarı yakalanacağı görülecektir. Örneğin, mobil internet gereken hız seviyesine ulaşmadan akıllı telefonlar ve tabletler bugünkü kullanım alanları ile piyasaya sürülememiştir.
+Apple, iş dünyasında genellikle şeffaflık, esneklik ve açık iletişim gibi değerler öne çıkarılırken, tam tersi bir yaklaşım benimsiyor. Şirketin iç işleyişi son derece gizli tutuluyor, çalışanlar bile yalnızca kendi projeleri hakkında bilgi sahibi olabiliyor. Steve Jobs, yalnızca güven duyduğu kişileri en kritik projelere dahil ederken, geri kalanların bilinmezlik içinde kalmasının rekabeti artıracağını düşünüyordu. Apple’da çalışanlar arasında yazılı olmayan bir kast sistemi bulunduğu belirtiliyor. Unvanlar prestij kazandırmıyor; esas önemli olan, kimin hangi projede ne kadar etkili olduğu (sayfa 37).
 
-iPhone, 2007 yılında çıkarıldığında, o tarihlerde oldukça başarılı olan iPod'un müzik depolama ve dinleme teknolojisi ile akıllı bir telefonu birleştiren özellikleri, pek çok eksikliğine rağmen devrimsel bir cihaz olmayı başarmıştır.
+Apple’ın katı gizlilik anlayışı, işyerine yeni katılan çalışanlar için işe alım sürecinde bile kendini gösteriyor. Yeni çalışanlar, hangi projede çalışacaklarını işe başlamadan öğrenemiyor ve şirket içinde de yalnızca doğrudan dahil oldukları projelere erişim sağlayabiliyorlar. Çalışanların yalnızca görevlerine odaklanmasını sağlamak amacıyla, Apple kampüsündeki erişim yetkileri sık sık değiştiriliyor. Hatta hafta sonu binanın iç düzeni değiştirilerek, bazı çalışanların artık giriş yetkisine sahip olmadığı bölümler oluşturulabiliyor (sayfa 31).
 
-Kitap, Steve Jobs'in çoklu endüstrileri yeniden şekillendirilmesindeki katkılarına işaret ederek devrim yarattığı dört alanın altını çizmektedir (sayfa 12-13):
+Kitap, Steve Jobs’un endüstriler üzerindeki etkisini dört ana başlıkta ele alıyor (sayfa 12-13):
 
-- Bilgisayar (ev ve ofis kullanımı için birbirinden farkları kolaylıkla anlaşılabilen farklı ve sade modeller çıkararak)
-- Müzik (iTunes Store ve iPod)
-- Film (Apple'dan ayrı kaldığı dönemde bilgisayar animasyonuna öncülük eden Pixar ve Toy Story)
-- İletişim (iPhone)
-- iPad'ın piyasa sürülmesiyle birlikte Jobs, "PC sonrası çağın" başladığını da duyurmuştur.
+- Bilgisayar: Macintosh ile kullanıcı dostu tasarımları standart hale getirdi.
+- Müzik: iTunes ve iPod ile müzik endüstrisini dönüştürdü.
+- Film: Pixar’ı kurarak animasyon sinemasında devrim yaptı.
+- İletişim: iPhone ile akıllı telefon çağını başlattı.
 
-Apple, şeffaflığın öneminin vurgulandığı iş dünyasında hem kendi çalışanları hem de dış dünya ile mümkün olduğunca az bilgi paylaşması, aşırı gizlilik kuralları ve protokolleri, çalışanlara verdiği dar kontrol alanı ile de dikkat çekmektedir. Kitabın aktardığına göre Steve Jobs, firmanın "yıldızları" arasından daha parlak olanları gizli projelerde çalışmak üzere görevlendirirken bunun geride kalanlarda yarattığı hayal kırıklığı duygusunun da (iç) rekabeti pekiştireceğini düşünüyordu.
+2007’de tanıtılan iPhone, Apple’ın endüstrileri dönüştürme gücünün en büyük kanıtlarından biri oldu. O dönemde oldukça popüler olan iPod’un müzik teknolojisini akıllı telefon konseptiyle birleştiren Apple, pazara büyük bir yenilik getirdi. Kitapta, Steve Jobs’un yeni ürün lansmanlarında belirli bir hikaye anlatıcılığı stratejisi izlediği anlatılıyor. iPhone’un lansmanında üç ana mesaj öne çıkarılmıştı: devrim niteliğinde bir telefon, interneti mobil hale getiren bir cihaz ve o zamana kadarki en iyi iPod (sayfa 30). Apple, ürünlerini pazarlarken yalnızca teknik özelliklerini değil, kullanıcıların nasıl bir yaşam tarzına sahip olabileceklerini vurguluyor.
 
-Apple'da makamlar her zaman statü kazandırmaz; herkes yazılı olmayan kast sisteminin farkındadır. (Sayfa 37)
+Şirketin tasarım felsefesi de kitabın önemli odak noktalarından biri. Apple, bir ürünün kutu açma deneyimini bile büyük bir titizlikle tasarlıyor. Ürün kutuları, bir tasarımın devamı olarak görülüyor ve kullanıcı deneyiminin bir parçası olarak ele alınıyor. Ürünlerin tasarımı, mümkün olduğunca sadeleştirilerek gereksiz düğmeler veya ek detaylar bir sonraki modelde kaldırılıyor.
 
-Popüler kültürde kendine yer edinmiş Google çalışma ortamının aksine Apple'ın çalışma ortamı güzel bir yer olarak gösterilmemiştir ve Apple da 'çalışılacak en iyi işyer' gibi listelere girmek için başvuru yapmamıştır. (Sayfa 13-14)
+Apple’ın çalışma kültürü, geleneksel iş ortamlarından oldukça farklı. Çalışanlar için bir “Directly Responsible Individual” (doğrudan sorumlu kişi) belirleniyor ve herkesin kendi sorumluluk alanı net bir şekilde tanımlanıyor. Amazon’un “iki pizza kuralı”na benzer bir yaklaşımla, ekipler 100 kişiyi geçmeyecek şekilde tutuluyor (4. bölüm).
 
-Psikoterapist ve iş koçu Michael Maccoby, Harvard Business Review dergisinde 2000 yılında yayınlanan makalesinde Jobs'i dünyayı değiştirmek için arzu duyan hayalperest risk alıcı bir "üretken narsist" olarak tanımlamıştı. (Sayfa 21)
+Kitap, Apple’ın rekabet stratejilerine ve pazarlama yöntemlerine de ışık tutuyor. Apple ürünleri, Modern Family ve The Daily Show gibi dizilere ürün yerleştirme yoluyla entegre ediliyor. Şirket, reklamlarında teknik özelliklerden çok, kullanıcıların Apple ürünleriyle nasıl bir hayat süreceğini vurgulamayı tercih ediyor.
 
-Kitapta aktarılan bir anekdot da aslında gizliliğin hangi boyutta olduğunun altını çiziyor: 1 Infinite Loop'da halka açık mağazada satışta olan bir t-shirtün üzerinde şöyle yazmaktadır; 'Apple kampüsünü ziyaret ettim, ancak sadece bu kadarını söylememe izin verildi.' (Sayfa 30) Kitabın 2.bölümü Apple ve Google arasındaki birtakım farklılıklara yer veriyor, Google'ün ücretsiz yemekleri, halka açık eğlence dolu Googleplex kampüsünün aksine, Apple binaları tam korunaklıdır ve çalışanlar bile sadece ilgili oldukları bölümlere giriş yapabilirler, bir haftasonunda binanın içi yeniden şekillendirilerek eskiden giriş izni olan kişilerin bile o kısma erişimlerinin engellenmiş olması normal karşılanır.
+Son bölümde Apple’ın önemli kilometre taşlarına da yer veriliyor:
 
-Yeni çalışanlarla ilgili yer verilenler de oldukça ilgi çekici: "İse yeni başlayan acemiler için gizlilik, hangi binada çalışacaklarını öğrenmelerinden de önce başlar. Büyük bir titizlikle gerçekleştirilen birçok görüşmeyi atlatmalarına karşın, pek çok çalışan şirkete kabul edilene kadar ayrıntılarıyla açıklanmamış görevlerde, sözde geçici pozisyonlarda çalıştırılır. Yeni çalışanlar nezaketle karşılansa da görevlerinin esasları kendilerine henüz anlatılmamıştır, onlara güven duyup, kendi özel görevleri kadar hassas olan bilgilerin verilmesi şart değildir." (Sayfa 31)
+- iPod: 23 Ekim 2001
+- iPhone: 9 Ocak 2007
+- iPad: 27 Ocak 2010
+- iTunes Store: 28 Nisan 2003
+- İlk Apple Store: 19 Mayıs 2001 (Tysons Corner, Virginia)
+- Apple’ın tipografi tercihi: Helvetica Neue
 
-Yeni çalışanlar, daha önce çalışmış oldukları herhangi bir şirketten farklı bir yerde olduklarını ilk iş gününde anlarlar. Dışarıda Apple saygı görür. İçeride ise sorgusuz bir bağlılık vardır ve işe yeni başlayanlara sadece bilgi verilir. Yeni çalışanların hepsi, tatile denk gelmedikçe her zaman pazartesi günleri gerçekleştirilen yarım günlük bir oryantasyona tabii tutulur. Oryantasyon daha çok standart şirket gereçlerinin verilmesiyle gerçekleştirilir: Apple'a katıldığını söyleyen etiketler, İK ve benzeri formlar, ayrıca önünde o yılı ve bölümünü belirten armaların olduğu bir t-shirtten oluşan bir hoş geldin paketi. Apple, sonradan bünyesine kattığı az sayıdaki şirketin çalışanlarının da hızlı bir şekilde artık Apple ailesinin bir parçası olduklarını hissetmelerini sağlar. (Sayfa 31)
-
-Apple'da ayrıntılara takıntı derecesinde odaklanıldığının bir örneği olarak paketlemeye gösterilen hassasiyet verilmiştir. Paketleme, Apple için -diğer markaların aksine- ürünün tasarımının bir devamı olarak kabul edilmektedir ve yaşanacak "paket açma deneyiminin" hatırlanabilir olması istenmektedir. Apple'da tasarım ürünlerin başlangıç noktasıdır ve birçok firmanın aksine bu oldukça farklı bir bakış açısıdır. Özellikle teknolojik ürünler söz konusu olduğunda, ürünlerin teknik işlevselliğinin ve fonksiyonlarının ürünlerin tasarımının önüne geçtiği alışıldık bir durumdur; Apple bunu tümden değiştirmiştir. Apple ürünlerinin tasarımı mümkün olduğunda sade yapılarak gereksiz olan kısımlar (tuş vb) bir sonraki modelde kaldırılmaktadır. Apple ürünleri fiyatlandırma olarak rakiplerine göre yüksek görünse de, Apple'ın sahip olduğu uzun vadeli yaklaşım yüksek kalitedeki ürünlerin kendini belli ederek tüketicinin tercihi olacağı yönündedir.
-
-Apple kültürü aslında Steve Jobs'a dair pek çok nitelik taşımaktadır. Her konu için mutlaka bir 'Directly Responsible Individual' (doğrudan sorumlu kişi) atanır, fonksiyonel çizgide örgütlenme vardır ve yönetim ve beceri geliştirme tepeden başlar, tabana doğru ilerler. Açık yönlendirme bireysel sorumluluk, ivedilik hissi, sürekli geri bildirim ve görev netliği Apple değerlerinin temelini oluşturur. Birimlerdeki kişi sayısı 1992 yılında antropolog Robin Dunbar'ın ileri sürdüğü insanların eş zamanlı olarak 150'den fazla kişi ile ilişki kuramayacağı savına dayanarak en fazla 100 kişi ile sınırlanır. (Benzer şekilde, Amazon.com'da da 'iki pizza kuralı' vardır; bu şu anlama gelir, ekiplerin boyutu geç saatlere kadar çalıştıklarında ve acıktıklarında en fazla iki pizza ile doyabilecekleri şekilde ayarlanmalıdır.) (4.bölüm)
-
-Kitabın ilerleyen sayfalarında basın önünde yapılan yeni ürün lansmanlarının perde arkasına ve reklamlarda verdikleri mesajların nasıl seçildiğine de değiniliyor. Örneğin iPhone ilk çıktığında, Steve Jobs'in sunumunda üç şeye odaklanılmıştır, devrimsel bir telefon olmasına, internetin pratik kullanımını mobil olarak mümkün kılmasına ve o ana kadar ki en iyi iPod olmasına. Bu mesajlar seçilirken, iPhone'un göze çarpmasını sağlayan şeyler seçilmiş ancak müşterilerin heyecanlanıp devamını öğrenmek için sabırsızlanmaları istenmiştir. Apple'da kullanılan hikaye anlatıcılığı müşterinin nasıl bir ürün almak istediğini değil, nasıl bir insan olmak istediği ile ilgilenmektedir. Bu açıdan Apple ürünleri aslında bir yaşam tarzı satmaktadır. Apple özellikle iPhone ve iPad ılk çıkarıldığında Modern Family, Family Guy ve The Daily Show gibi ünlü dizi ve programlara ürün yerleştirme ve öyküleştirme yolu ile girmiştir.
-
-Apple İçin Bazı Satırbaşları
-
-- iPod müzik çaları 23 Ekim 2001'de çıkardı.
-- iPhone'u 9 Ocak 2007'de çıkardı.
-- iPad ılk olarak 27 Ocak 2010'da, iPad Mini 23 Ekim 2012'de ve iPad Air 22 Ekim 2013'de iPad Pro 9 Eylül 2015'de tanıtıldı.
-- iTunes Store 28 Nisan 2003'de açıldı.
-- iPhone 4 çıkarılana kadar mobil işletim sistemi "iPhone OS" olarak adlandırılıyordu. Bu isim iPhone 4 ile birlikte iOS oldu.
-- Genius Barları ile ünlü ve dünyanın en büyük şehirlerinde en önemli noktalara konumlandırılan Apple Store'ların iç kısmında sadece üç malzeme kullanılmaktadır: tahta - cam - çelik.
-- İlk Apple Store 2001 yılında 19 Mayıs'da Tysons Corner Virginia'da açılmıştır.
-- Apple ürünlerinde ve web sitesi Apple.com'da Helvetica (Neue) fontu kullanılmaktadır, ekran görüntüleri en sade şekilde tasarlanmaktadır.
+Apple Mucizesi, Apple’ın yalnızca bir teknoloji şirketi olmadığını, bir iş felsefesine ve vizyona sahip olduğunu gösteren detaylarla dolu. Kitap, Steve Jobs’un yönetim tarzı, Apple’ın kurumsal kültürü ve ürün geliştirme süreçleri hakkında önemli içgörüler sunuyor.

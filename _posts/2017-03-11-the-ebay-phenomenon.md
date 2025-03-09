@@ -8,65 +8,60 @@ yazar: "David Bunnell"
 yil: "2005"
 sayfa: "270"
 goodreads: "https://www.goodreads.com/book/show/1729295.The_Ebay_Phenomenon"
-description: "eBay Fenomeni, talep bazlı fiyatlandırma sistemine dayanan bir iş modeline dayanan online açık arttırma sitesi ebay'i anlatıyor."
+description: "eBay Fenomeni, online açık artırma devi eBay’in kuruluşundan küresel bir markaya dönüşüm sürecini, iş modelini ve topluluk odaklı stratejilerini detaylı bir şekilde ele alıyor."
+eng: "The eBay Phenomenon explores the journey of eBay from its humble beginnings to becoming a global brand, analyzing its business model and community-driven strategies in depth."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-09
 posted: 2017-03-11
 tag: "marka profili"
 reread: "no"
 rating: "4"
 num: "50"
+update: "done"
 image: "/assets/old/the-ebay-phenomenon.jpg"
 ---
 
-eBay Fenomeni, talep bazlı fiyatlandırma sistemine dayanan bir iş modeli ile kurulan online açık arttırma sitesi eBay'ı ve bugünkü şeklini alana kadar izlediği adımları yer yer ilginç detaylara da yer vererek anlatıyor. 1995-2001 yılları arasında hızla büyüyen dot-com bubble (nokta-com balonunun ) parçalarından biri olan eBay, 1995 yılında o yıllarda moda olduğu gibi bir garajda kurulmuştur. Pek çok yerde ve kitapta da geçen hikayeye göre, Pierre Omidyar, o dönemde nişanlısı sonradan eşi olan Pamela (Kerr) Omidyar'ın Pez şekerlerinin çizgi film karakterleri şeklinde tasarlanan kutularını biriktiren bir koleksiyonerdir.
+eBay Fenomeni, dünyanın en büyük online açık artırma platformlarından biri olan eBay’in doğuşunu, büyümesini ve iş modelini detaylı bir şekilde ele alıyor. Thomas H. Davenport ve John C. Beck’in kaleme aldığı kitap, eBay’in 1995 yılında küçük bir girişim olarak başlamasından itibaren geçirdiği dönüşümü anlatırken, şirketin büyüme stratejilerini, topluluk odaklı yaklaşımını ve zaman içinde karşılaştığı zorlukları inceliyor.
 
-Omidyar ise onun daha fazla şeker kutusuna ulaşması için 1995 yılında (ilk olarak Auction-Web adını verdikleri sonradan eBay adını alacak olan) web sitesini oldukça basit ve sade bir tasarım ile kurar. Omidyar, bu siteyi ilk zamanlarda Jeffrey Skoll ile birlikte işletir.
+eBay, 90’ların ortasında internetin hızla büyüdüğü ve dijital ekonominin şekillenmeye başladığı dönemde ortaya çıktı. O dönemde birçok girişim hayata geçiyor, ancak bunların çoğu kısa sürede başarısız oluyordu. eBay’in kurucusu Pierre Omidyar, o yıllarda nişanlısı Pamela (Kerr) Omidyar’ın Pez şeker kutularını koleksiyon yapmasıyla ilgili bir çözüm arayışına girdi. İnsanların ellerindeki koleksiyonluk eşyaları kolayca alıp satabileceği bir platform fikri üzerine çalışarak, 1995 yılında AuctionWeb adlı basit bir siteyi yayına aldı. Kısa sürede popülerlik kazanan platform, adını değiştirerek eBay haline geldi ve dijital açık artırma dünyasının en büyük oyuncusu olmaya başladı.
 
-Kurulduğu günden bu yana, alanında en bilindik web sitelerinden biri olan eBay pek çok ilke imza attı. Katalogla uzaktan alışverişin oldukça çok tercih edildiği kuruluşunun ilk döneminde, coğrafi uzaklığı ortadan kaldırarak anlık tepki ve geribildirimlerle alışverişi mümkün kıldı. Kullanıcı kitlesi her geçen gün artan eBay, düzenlenmesini mümkün kıldığı online açık arttırmalı satışlar sayesinde aynı zamanda alışverişe farklı bir heyecan ve eğlence de katmış oldu. 2.el eşyaların ekonomiye tekrar katılmasını, bir kullanıcının artık sahip olmak istemediği bir eşyanın başka bir kullanıcı tarafından belli bir bedel ödenerek sahip olmasını mümkün kıldı.
+Kitap, eBay’in iş modelini ve başarısının ardındaki temel unsurları inceliyor. Talep bazlı fiyatlandırma, eBay’in en önemli yeniliklerinden biri olarak öne çıkıyor. Geleneksel perakende sisteminde fiyatlar satıcılar tarafından belirlenirken, eBay’de alıcılar fiyatlandırmayı belirleyen taraf haline geldi. Satıcılar belirli bir rezerv fiyat koyabiliyor, ancak ürünün nihai değeri, açık artırma sürecinde alıcıların yaptığı teklifler doğrultusunda şekilleniyordu. Bu model, platforma dinamik bir pazar yapısı kazandırarak kullanıcılar arasında etkileşimi artırdı (sayfa 111).
 
-Alışılageldik düzende satıcılar fiyatlandırma konusunda karar veren taraftır ancak eBay'de kullanılan talep bazlı fiyatlandırmada bu kritik kararı alıcılar vermektedir. Satıcı eğer isterse bir taban satış fiyatı (rezerv fiyat) belirleyerek bu fiyatı gizli tutabilir, ancak fiyatın ne kadar yüksek olacağını veya satıcının belirlediği gizli fiyata ulaşılıp ulaşılamayacağına alıcı karar verir. eBay, bu düzeni getirmiş ve zaman içinde getirdiği çeşitli kurallarla sistemin daha iyi işlemesini sağlamıştır.
+Şirket, hızla büyüyerek 1997 yılında Silikon Vadisi’nin önemli risk sermayesi firmalarından Benchmark Capital’den yatırım aldı. Ancak eBay’i küresel bir dev haline getiren en kritik kararlardan biri, Omidyar’ın şirketin yönetimini profesyonel bir CEO’ya devretme kararı oldu. 1998 yılında Meg Whitman CEO olarak göreve geldi ve şirketin operasyonlarını daha kurumsal hale getirerek büyük bir dönüşüm başlattı (sayfa 149). Whitman’ın liderliğinde eBay, Starbucks CEO’su Howard Schultz ve Intuit yönetim kurulu başkanı Scott Cook gibi önemli isimleri yönetim kuruluna dahil ederek stratejik bir büyüme sürecine girdi.
 
-1997 yılında eBay çoktan kar eden bir firma haline gelmiştir ve Silikon Vadisinin risk sermayecilerinden olan Benchmark Capital'den yatırım almıştır.
+eBay’in başarısının temel taşlarından biri de topluluk kültürü oldu. Şirket, sadece bir ticaret platformu değil, aynı zamanda satıcıların ve alıcıların bir araya gelerek bilgi paylaşımı yapabileceği bir topluluk oluşturdu. eBay Community adlı platform, kullanıcıların deneyimlerini paylaşmalarını, soru sormalarını ve alışveriş süreçleriyle ilgili geri bildirimde bulunmalarını sağladı (sayfa 161-162). Geri bildirim sistemi, alıcıların satıcılara puan vermesine ve yorum yapmasına imkan tanıyordu. Bu sistem, eBay’de güven inşa etmenin en önemli unsurlarından biri haline geldi. 1997’de kurulan müşteri hizmetleri departmanı, kullanıcı deneyimini daha güvenilir hale getirmek için devreye sokuldu.
 
-eBay'ı bugünkü güçlü haline getiren kararlardan belki de en önemlilerinden biri, Omidyar'ın firması için en iyi olanı yapmak adına yönetimi profesyonel bir CEO'ya bırakması olmuştur. 1998 yılında Meg Whitman şirkete katılmıştır. Kısa bir süre sonra da, Starbucks'in CEO'su ve yönetim kurulu başkanı Howard Schultz ile İntuit'in yönetim kurulu başkanı olan Scott Cook, yönetim kurulu üyesi olarak göreve başlamışlardır.
+Kitap, eBay’in gelir modelini de detaylandırıyor. Şirket, satıcılardan aldığı listeleme ve işlem ücretleri sayesinde karlılığını artırırken, operasyonel maliyetlerini optimize etmek için altyapı yatırımlarına öncelik verdi. eBay’in işletme karını sağlayan model şu şekilde özetleniyor (sayfa 111):
 
-Kitaba göre, eBayın başarısı kendisini sadece belirli tip bir ürün çeşidi ile sınırlandırmaması ve kullanıcıların istedikleri hemen her şeyi satabilecekleri bir platform olarak şekillenmesinden kaynaklanmaktadır.
+- Net Gelirler (Satıcı ücretlerinden elde edilen gelir)
+- Net Gelirlerin Maliyeti (Altyapı giderleri)
+- İşletme Masrafları (Pazarlama, ürün geliştirme, yönetim giderleri)
+  = İşletme Karı
 
-eBay de temeli güven ve dürüstlüğe dayanan, fikir alışverişi ve geri bildirim sağlayan bir "topluluk kültürü" ilk günden beri hakim olmuştur. Kitap, eBay Topluluğunun kullanıcıları siteye bağlayan faktörlerin başında geldiğini vurgulamaktadır.
+Şirket, büyümesini hızlandırmak için AOL, Disney, AutoTrader.com ve CarClub gibi firmalarla stratejik ortaklıklar geliştirdi. Ayrıca, e-Stamp, i-Gönderim, iEscrow ve Billpoint gibi yeni hizmetler sunarak platformunu daha işlevsel hale getirdi.
 
-eBay Community adını taşıyan kullanıcılar topluluğu, sitenin ilk günlerinden beri aktiftir. Kullanıcıların kendi aralarında sohbet etmelerine ve çeşitli konularda (başta web sitesinin kullanımı olmak üzere) yardımlaşmalarına imkan tanıyan bu kısım, eBay'ın ayrılmaz bir parçası halini almıştır. Açık arttırma sisteminde güven ve iyi niyet oldukça önemlidir ve topluluk da bunu sağlamanın bir parçasıdır. Aynı zamanda, her satıcı için ayrı ayrı oluşturulmuş geri bildirim forumlarında yer alan yorumlarla satıcılar zaman içinde satış işlem sayıları arttıkça itibar kazanmaktadır. Daha önceki satışlardan alınan pozitif geribildirimler de, yeni alıcıların o satıcıya güvenmelerini ve işlem yapmalarını sağlamaktadır. Ayrıca, eBay'ın 1997 yılından itibaren kendi müşteri hizmetleri departmanı da bulunmaktadır.
-
-4.Bölümde, sayfa 111'de belirtildiği üzere eBay'ın işletme karını sağlayan model şu şekildedir:
-
-> Net Gelirler (Satıcı ücretlerinden alınan)
-
-> \- Net Gelirlerin Maliyeti (alt yapı)  
-> \- İşletme Masrafları (pazarlama, ürün geliştirme, genel ve yönetimsel giderler, amortisman)  
-> \= İşletme Karı
-
-eBay, zaman içinde AOL, Disney, AutoTrade.com, CarClub gibi bazı firmalarla stratejik ortaklıklar geliştirmiştir. Ayrıca, e-Stamp, i-Gönderim, iEscrow, Billpoint gibi bazı hizmetler de devreye girmiş ve eBay değer ağının bir parçası olmuştur.
-
-eBay'de kurum kültürünün temelinin sağlam atılması gerektiği ve sürdürülebilir olmasının önemi erken safhalarda fark edilmiştir. Ekibe katılan her yeni kişinin bu kültüre uyum sağlaması beklenir ve seçimler ona göre yapılır. Dikkat edilen 9 kültürel öğe şöyledir (sayfa 149):
+Kurum kültürü, eBay’in sürdürülebilir başarısının en kritik unsurlarından biri olarak kitapta vurgulanıyor. Şirketin çalışanları için oluşturduğu temel değerler şunlardı (sayfa 149):
 
 - Sürekli öğrenme
 - Değer yaratmaya odaklanma
-- Yaratıcı alternatifleri geliştirme yeteneği
+- Yaratıcı çözümler geliştirme yeteneği
 - Delegasyon ve yetkilendirme
-- Alternatif fikirleri ve alınan kararları tartabilecek disiplinli bir yöntem
+- Alternatif fikirleri değerlendirebilme disiplini
 - Açık bilgi akışı
-- Dış ve iç stratejik bakış açısı
-- İnisiyatif alma ve belirsizliklerle baş etme istekliliği
+- Stratejik bakış açısı
+- İnisiyatif alma ve belirsizliklerle baş etme yetkinliği
 - Sistem düşüncesi
 
-Paralel şekilde, eBay'ın orijinal kültürünün korunması için Müşterinin Sesi Günleri düzenlenmektedir. Bugünlerde pek çok aktif eBay kullanıcı San Jose merkez ofise gelir ve çalışanlarla toplantı yapıp bazı konuların üzerinden geçerler. Bu uygulamanın amacı, yeni işe alınan kişileri topluluk ruhu ile ve kurucu Omidyar'ın tasarladığı değerler ile eğitmektir (sayfa 161-162)
+eBay, topluluk ruhunu ve kullanıcı deneyimini güçlendirmek için Müşterinin Sesi Günleri düzenledi. Bu etkinliklerde eBay kullanıcıları San Jose’deki merkez ofise davet edilerek çalışanlarla doğrudan görüşme fırsatı yakaladı. Bu uygulama, kurumsal değerlerin korunması ve yeni çalışanların eBay kültürüne adapte olmasını sağlamak için önemli bir araç haline geldi (sayfa 161-162).
 
-eBay zaman içinde odaklanacağı stratejisinin 5 ana unsurunu şöyle belirlemiştir (sayfa 174):
+Kitap, eBay’in gelecek stratejisini de ele alıyor ve şirketin uzun vadeli hedeflerini beş ana başlık altında topluyor (sayfa 174):
 
-- Kullanıcı tabanını genişletmek
-- eBay markasını güçlendirmek
-- Ürün kategorilerini arttırarak ve yeni ürünleri sunarak ticaret platformunu genişletmek
-- Topluluk arasındaki bağlılığı tevik etmek
-- Site özelliklerini ve işlevselliğini genişletmek
+1. Kullanıcı tabanını genişletmek
+2. eBay markasını güçlendirmek
+3. Ürün kategorilerini çeşitlendirmek ve yeni ticaret modelleri geliştirmek
+4. Topluluk etkileşimini artırmak
+5. Site özelliklerini ve işlevselliğini genişletmek
 
-Kitabın 7.bölümü, kaçak, yasak ve tuhaf eşyalara ayrılmıştır. Son iki bölüm ise. eBay'ın zaman içinde ortaya çıkan rakiplerini incelemekte ve eBay'ın olası geleceğini öngörümlemektedir.
+Kitabın son bölümleri, kaçak, yasak ve sıra dışı ürünlerin eBay üzerindeki varlığını inceliyor (Sayfa 249). Ayrıca, platformun karşılaştığı rekabeti ve gelecekte nasıl bir konuma evrilebileceğini tartışıyor. eBay’in iş modeli birçok yeni girişim için ilham kaynağı oldu, ancak zamanla Amazon gibi güçlü rakiplerle rekabet etmek zorunda kaldı.
+
+eBay Fenomeni, yalnızca bir şirketin büyüme hikayesini anlatmakla kalmıyor, aynı zamanda dijital ekonominin nasıl şekillendiğini ve internet tabanlı ticaretin iş dünyasını nasıl değiştirdiğini gözler önüne seriyor.

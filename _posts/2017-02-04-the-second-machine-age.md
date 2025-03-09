@@ -8,23 +8,31 @@ yazar: "Erik Brynjolfsson, Andrew McAfee"
 yil: "2015"
 sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/23316526-the-second-machine-age"
-description: "The Second Machine Age, teknolojideki gelişmelerin ekonomik ve sosyal sonuçlarını inceliyor."
+description: "The Second Machine Age, dijitalleşme, yapay zekâ ve otomasyonun ekonomi ve toplum üzerindeki dönüştürücü etkilerini ele alarak, teknolojik ilerlemelerin fırsatlar ve eşitsizlikler yarattığını gösteriyor."
+eng: "The Second Machine Age explores how digitalization, artificial intelligence, and automation are reshaping the economy and society, highlighting both the opportunities and inequalities they create."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-09
 posted: 2017-02-04
 tag: "teknoloji"
 reread: "yes"
 rating: "5"
 num: "46"
+update: "done"
 image: "/assets/old/the-second-machine-age.jpg"
 ---
 
-The Second Machine Age, teknolojideki gelişmelerin ekonomik ve sosyal sonuçlarını inceliyor. Kitapta ilk ele alınan gelişme, 18.yüzyılın ikinci yarısında buhar makinesinin bulunması ile başlayan Sanayi ya da Endüstri Devrimi. Yazarlar, Erik Brynjolfsson ve Andrew McAfee, bugün içinde bulunduğumuz çağda yaşanan dijital devrime “İkinci Makine Çağı” ismini veriyorlar. Dijital devrim, onlara göre, pek çok artı ile gelse de aynı zamanda pek çok yeni problemi de beraberinde getiriyor.
+Erik Brynjolfsson ve Andrew McAfee’nin The Second Machine Age adlı kitabı, teknolojik ilerlemelerin ekonomi ve toplum üzerindeki etkilerini ele alıyor. Yazarlar, Sanayi Devrimi’ni birinci makine çağı, içinde bulunduğumuz dijital dönüşümü ise “İkinci Makine Çağı” olarak adlandırıyor. Kitap, yapay zekâ, otomasyon ve dijitalleşmenin iş gücü, üretim, gelir dağılımı ve toplumsal yapıyı nasıl dönüştürdüğünü anlatıyor.
 
-İkinci makine çağının beraberinde getirdiği üstel büyüme, dijitalleşme ve parçaların yeniden birleştirilmesi iki önemli gelişmeye yol açmıştır: Birinci gelişme, yapay zekaların ortaya çıkmasıdır. İkinci gelişme ise, kurulan ortak bir dijital ağ ile dünyadaki insanların büyük bölümünün birbirlerine bağlanmış olmasıdır. (Sayfa 108)
+İkinci Makine Çağı’nın Temel Özellikleri (sayfa 108):
+• Üstel Büyüme: Teknoloji doğrusal değil, katlanarak ilerliyor.
+• Dijitalleşme: Fiziksel dünyadaki birçok süreç artık dijital ortamda işliyor.
+• Bağlantısallık: Küresel bir dijital ağ sayesinde insanlar ve makineler giderek daha fazla birbirine bağlanıyor.
 
-Halen yaşanan dijital, birleştirici ve katlanarak ilerleyen bir seyir izlemekte olan gelişim sürecinin ilk büyük ekonomik sonucu ‘bolluk’tur. İkinci sonuç ise, ‘uçurum’ yani insanlar arasında gelir, zenginlik ve diğer önemli konularda gitgide büyüyen farktır. (Sayfa 151)
+Yazarlar, bu dönüşümün iki büyük ekonomik sonucu olduğunu belirtiyor (sayfa 151):
 
-Kitap geleceği anlamak ve bugünkü teknolojik gelişmelerin nasıl kaydedildiğini ve olası etkilerini anlamak açısından oldukça önemli bir kaynak. Şu anda yaşanan teknolojik gelişmelerden bahsettiği gibi bu gelişmelerin nasıl mümkün olduğuna da değiniyor. Yeterli detay seviyesi ve örneklendirme ile gerekli tartışmayı yapabilen aynı zamanda da rahatça okunabilen bir kitap.
+- Bolluk: Dijitalleşme, üretim maliyetlerini düşürerek pek çok ürün ve hizmeti daha erişilebilir hale getiriyor.
+- Eşitsizlik: Teknoloji, sermaye sahiplerini daha zenginleştirirken, iş gücüne bağımlı olanlar için istihdam olanaklarını azaltabiliyor.
 
-Yazarlar, aynı zamanda değişen veya değişmekte olan dengeleri de tartışıyor. İkinci makine çağı, hiç kuşkusuz ki, bazı alanlarda bolluk getiriyor, üretkenliğin artmasını sağlıyor. Ancak, otomizasyonun belki de hayal edemeyeceğimiz kadar genişlemesi ise, bazı meslek gruplarında ya da yerleşim yerlerindeki dağılmayı da beraberinde getiriyor.
+Yapay zekâ ve otomasyonun yükselişi, geleneksel iş modellerini değiştiriyor. Bazı meslekler kaybolurken, yeni iş kolları doğuyor. Ancak, bu dönüşüm her kesim için eşit fırsatlar yaratmıyor. Yazarlar, toplumun bu değişime nasıl uyum sağlayabileceğini tartışıyor ve teknolojik ilerlemelerin refahı artırması için yeni politikalar ve eğitim modellerinin gerekliliğini vurguluyor.
+
+The Second Machine Age, bugünün teknolojik gelişmelerini anlamak ve gelecekte bizi nelerin beklediğine dair ipuçları sunan kapsamlı bir çalışma. Dijital devrim fırsatlar sunduğu kadar, çözülmesi gereken büyük sorunları da beraberinde getiriyor.
