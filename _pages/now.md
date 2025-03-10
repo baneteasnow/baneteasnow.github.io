@@ -7,72 +7,64 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 22
+read: 23
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-03-08
+last_modified_at: 2025-03-09
 published: true
 #
 # 1
-booktitle1: "Stuff Every Coffee Lover Should Know"
-bookyear1: 2024
-author1: "Candace Rose Rardon"
-sayfa1: 184
+booktitle1: "A Year to Change Your Mind"
+bookyear1: 2025
+author1: "Lucy Maddox"
+sayfa1: 256
 format1: reading as a book
-pageread1: 184
+pageread1: 1
 #
 # 2
-booktitle2: "A Year to Change Your Mind"
-bookyear2: 2025
-author2: "Lucy Maddox"
-sayfa2: 256
-format2: reading as a book
+booktitle2: "The Contrarian"
+bookyear2: 2021
+author2: "Max Chafkin"
+sayfa2: 400
+format2: reading as an ebook
 pageread2: 1
 #
 # 3
-booktitle3: "The Contrarian"
-bookyear3: 2021
-author3: "Max Chafkin"
-sayfa3: 400
-format3: reading as an ebook
-pageread3: 1
+booktitle3: "Rezonans Kanunu"
+bookyear3: 2019
+author3: "Pierre Franckh"
+suresaat3: 4
+suredakika3: 45
+sayfa3: 285
+format3: listening as an audiobook
+pageread3: 22
+pagereadsaat3: 0
+pagereaddakika3: 22
 #
 # 4
-booktitle4: "Rezonans Kanunu"
-bookyear4: 2019
-author4: "Pierre Franckh"
-suresaat4: 4
-suredakika4: 45
-sayfa4: 285
-format4: listening as an audiobook
-pageread4: 22
-pagereadsaat4: 0
-pagereaddakika4: 22
+booktitle4: "Terapistin İkilemi"
+bookyear4: 2024
+author4: "Elvin Aydın Keleş"
+sayfa4: 224
+format4: reading as a book
+pageread4: 57
 #
 # 5
-booktitle5: "Terapistin İkilemi"
-bookyear5: 2024
-author5: "Elvin Aydın Keleş"
-sayfa5: 224
+booktitle5: "Didik Didik Freud"
+bookyear5: 2022
+author5: "Serol Teber, Şenol Ayla"
+sayfa5: 256
 format5: reading as a book
-pageread5: 57
+pageread5: 1
 #
 # 6
-booktitle6: "Didik Didik Freud"
-bookyear6: 2022
-author6: "Serol Teber, Şenol Ayla"
-sayfa6: 256
+booktitle6: "The Yalom Reader"
+bookyear6: 2018
+author6: "Irvin D. Yalom"
+sayfa6: 244
 format6: reading as a book
 pageread6: 1
-#
-# 7
-booktitle7: "The Yalom Reader"
-bookyear7: 2018
-author7: "Irvin D. Yalom"
-sayfa7: 244
-format7: reading as a book
-pageread7: 1
 #
 # ⁜ {{ page.read | plus: 2 }}
 #
@@ -111,22 +103,22 @@ _by_ {{ page.author1 }}
 <div style="font-size: 50%; font-style: italic;"> {{ page.format1 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
-   {{ page.sayfa1 }} sayfa
- </div>
+  {{ page.sayfa1 }} sayfa
+  </div>
 
- <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025"> 
-   {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
- </div>
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
+  </div>
 
- <div>
-   <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
-   <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025"> 
-     {{ page.pageread1 }}/{{ page.sayfa1 }}
-   </span>
- </div>
+  <div>
+    <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread1 }}/{{ page.sayfa1 }}
+      </span>
+  </div>
 
-<br />
-<div style="clear: both"></div>
+  <br />
+  <div style="clear: both"></div>
 
 ⁜ {{ page.read | plus: 2 }}
 
@@ -161,7 +153,7 @@ _by_ {{ page.author3 }}
 <div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa3 }} sayfa
+  {{ page.suresaat3 }} saat {{ page.suredakika3 }} dakika
   </div>
 
   <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
@@ -171,7 +163,7 @@ _by_ {{ page.author3 }}
   <div>
     <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread3 }}/{{ page.sayfa3 }}
+      {{ page.pagereadsaat3 }}"{{ page.pagereaddakika3 }}'/{{ page.suresaat3 }}"{{ page.suredakika3 }}'
       </span>
   </div>
 
@@ -186,7 +178,7 @@ _by_ {{ page.author4 }}
 <div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
-  {{ page.suresaat4 }} saat {{ page.suredakika4 }} dakika
+  {{ page.sayfa4 }} sayfa
   </div>
 
   <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
@@ -196,7 +188,7 @@ _by_ {{ page.author4 }}
   <div>
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pagereadsaat4 }}"{{ page.pagereaddakika4 }}'/{{ page.suresaat4 }}"{{ page.suredakika4 }}'
+      {{ page.pageread4 }}/{{ page.sayfa4 }}
       </span>
   </div>
 
@@ -247,31 +239,6 @@ _by_ {{ page.author6 }}
     <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread6 }}/{{ page.sayfa6 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 7 }}
-
-{{ page.booktitle7 }} ({{ page.bookyear7 }})  
-_by_ {{ page.author7 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format7 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa7 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread7 | times: 100 | divided_by: page.sayfa7 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread7 }}/{{ page.sayfa7 }}" value="{{ page.pageread7 }}" max="{{ page.sayfa7 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread7 }}/{{ page.sayfa7 }}
       </span>
   </div>
 
