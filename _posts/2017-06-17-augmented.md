@@ -8,45 +8,54 @@ yazar: "Brett King"
 yil: "2016"
 sayfa: "414"
 goodreads: "https://www.goodreads.com/book/show/29467089-augmented"
-description: "Kitap, teknolojide yaşanan gelişmeler ile birlikte gelecekteki dünyanın nasıl bir yer olacağını anlatıyor"
+description: "Teknolojinin hızla ilerlemesiyle birlikte, gelecekte günlük yaşamın, iş dünyasının, eğitim sisteminin ve şehirlerin nasıl dönüşeceğini ele alan kitap, artırılmış çağın getireceği yenilikleri ve bu değişimin sosyal, ekonomik ve etik etkilerini inceliyor."
+eng: "As technology advances rapidly, this book explores how daily life, the business world, the education system, and cities will transform in the future, examining the innovations of the augmented age and the social, economic, and ethical implications of this shift."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-11
 posted: 2017-06-17
 tag: "yapay zeka"
 reread: "yes"
 rating: "5"
 num: "60"
+update: "done"
 image: "/assets/old/augmented.jpg"
 ---
 
-Kitap, teknolojide yaşanan gelişmeler ile birlikte gelecekteki dünyanın nasıl bir yer olacağını anlatıyor. İlk sayfalarda, bugünkü teknolojiye nasıl ulaşıldığı anlatılıyor, sonraki sayfalarda ise gelecekte günlük hayatta yaşanacak değişiklikler ve gelişmeler; ulaşım, trafik, akıllı ev sistemleri, sağlık / tedavi süreçleri, eğitim, ödeme sistemleri, vb açısından detaylandırılarak akıcı bir dille ele alınıyor.
+Teknolojide yaşanan hızlı ilerlemeler, yalnızca yeni cihazlar ve yazılımlar değil, aynı zamanda toplumsal yapı ve insan yaşamı üzerinde de köklü değişiklikler getiriyor. Kitap, bugüne kadar nasıl bir teknolojik evrim yaşandığını ve gelecekte günlük hayatın nasıl şekilleneceğini ele alıyor. Ulaşım, trafik, akıllı ev sistemleri, sağlık, eğitim, ödeme sistemleri gibi birçok alanda yaşanacak dönüşümler detaylandırılarak okuyucuya sunuluyor.
 
-Teknolojide yaşanan ve günlük hayata yansıyan gelişmeler sosyolojik olarak birtakım değişikliklerin de ortaya çıkmasını sağlıyor. İnternet, sosyal medya ve akıllı telefonlar, iletişim devrimini başlatarak daha pek çok kolaylık sağlamıştır ancak, siber suç kavramının ortaya çıkması, mahremiyetin sınırlarının yıkılması, kimlik ve veri hırsızlıkları, devlet ve özel çeşitli kurumlara online saldırılar gibi bazı olumsuzlukları da beraberinde getirmiştir. İşte bu nedenle yazar, içinde bulunduğumuz çağı en yıkıcı ve en yenilikçi çağ olarak tanımlamaktadır.
+Teknolojik gelişmelerin hızlanmasıyla birlikte, günlük hayatımıza entegre olan yenilikler sosyolojik olarak da yeni normlar ortaya çıkarıyor. İnternet, sosyal medya ve akıllı telefonlar bir iletişim devrimini başlatarak hayatı kolaylaştırdı; ancak bu gelişmeler, siber suçların artması, mahremiyetin tehdit altında olması, kimlik ve veri hırsızlıklarının yaygınlaşması ve devletler ile özel kuruluşlara yönelik dijital saldırılar gibi birçok olumsuzluğu da beraberinde getirdi. Yazar, içinde bulunduğumuz çağı hem en yenilikçi hem de en yıkıcı dönem olarak tanımlıyor.
 
-Teknolojinin toplum içinde yayılma hızının artması aynı zamanda yeni teknolojinin benimsenmesini de kolaylaştırmaktadır; yeni teknolojilerin ortaya çıkması aynı zamanda daha da yenilerinin ortaya çıkmasını sağlamaktadır. Teknolojide yaşanan ilerlemelerin ölçeği 1965 yılında Gordon E. Moore tarafından ortaya atılan Moore Yasası'na tabidir.
+Yeni teknolojilerin hızla benimsenmesi ve yaygınlaşması, aynı zamanda daha ileri seviyede inovasyonların doğmasına zemin hazırlıyor. 1965 yılında Gordon E. Moore tarafından ortaya atılan ve teknolojik ilerlemenin üstel hızda arttığını öngören Moore Yasası, bugün bile geçerliliğini koruyor. Bu bağlamda, bir zamanların dev markaları yeni trendleri yakalayamazsa piyasadan silinebiliyor. Örneğin, Apple ve Samsung’un akıllı telefon pazarına hakim olmasıyla birlikte Blackberry, Motorola ve Nokia gibi markalar rekabetten düştü.
 
-Teknolojik ilerlemeler, tüketicilerin dönem dönem yeni markalara ve yeni ürünlere odaklanmasını sağlıyor, ancak bazen de bir dönemin ünlü markaları liderliği başka markalara kaptırdıkları anda piyasadan siliniyorlar. Örneğin, Apple ve Samsung marka akıllı cep telefonlarının piyasaya hakim olmasından sonra Blacberry, Motorola ve Nokia gibi markalar bu durumla karşılaştılar.
+Teknolojinin toplum üzerindeki etkisi o kadar büyük ki, dilimize ‘Kodak Moments’ (özel anları fotoğraflamak), ‘Xeroxing’ (fotokopi çekmek), ‘to Google’ (internette arama yapmak) ve ‘to Uber’ (mobil uygulama ile ulaşım sağlamak) gibi pek çok terim girdi. Geleceği şekillendirecek başlıca kavramlar arasında yapay zeka, gen düzenleme, nano ölçekli üretim, otonom araçlar, robotlar ve entegre veri işleme gibi teknolojiler bulunuyor. Yazar, bu yeni dönemi ‘Artırılmış Çağ’ olarak adlandırıyor çünkü bu yenilikler, yalnızca günlük hayatı değiştirmekle kalmayacak, insan doğasını ve davranışlarını da derinden etkileyecek.
 
-Teknoloji günlük hayatı öylesine etkilemektedir ki, günlük konuşma diline 'Kodak Moments' (fotoğraflanmaya değecek özel anlar), 'Xeroxing' (fotokopi çekerek çoğaltmak), 'to Google' (internette bir bilgiyi aratmak), 'to Uber' (ulaşımı Über app üzerinden çağrılan araçla sağlamak) gibi pek çok ifade girmiştir.
+Artırılmış Çağ, dört temel gelişmeyi beraberinde getiriyor:
 
-İnsanların sonraki kuşaklarını şekillendirecek kavramlar arasında yapay zeka, gen biçimlendirme, nano ölçek imalat, otonom araçlar, robotlar, giysi bilgisayarlar ve tümleşik veri işleme gibi teknolojiler var ve yazar bu kuşağı 'Artırılmış Çağ' olarak isimlendiriyor. Çünkü, teknoloji hem günlük hayatı hem de insan davranışlarını kökten şekilde değiştirecek ve bu değişim yazara göre bu kez oldukça kişisel olacak.
+1. **Yapay zeka** – Karar alma süreçlerini ve günlük işleyişi değiştirecek.
+2. **Yayılmış ve entegre deneyimler** – Sanal ve artırılmış gerçeklik gibi teknolojilerle insan-makine etkileşimini güçlendirecek.
+3. **Akıllı altyapılar** – Şehirlerin, binaların ve ulaşım sistemlerinin daha verimli çalışmasını sağlayacak.
+4. **Gen düzenleme ve sağlık teknolojileri** – İnsan ömrünü uzatacak ve genetik hastalıkların önlenmesini sağlayacak.
 
-Artırılmış çağ, dört önemli ilerlemeyi de beraberinde getiriyor:  
-(1) Yapay zeka,  
-(2) Yayılmış ve tümleşik deneyimler,  
-(3) Akıllı altyapı,  
-(4) Gen biçimlendirme ve sağlık teknolojisi.
+Buna ek olarak, iki uzun vadeli ve yıkıcı teknoloji de gelişmeye devam ediyor:
 
-Uzun vadeli ve yıkıcı iki teknolojiyi de başlatıyor:  
-(1) Meta malzemeler,  
-(2) Üç boyutlu baskı.
+1. **Meta malzemeler** – Yeni nesil hafif, dayanıklı ve esnek materyaller.
+2. **Üç boyutlu baskı** – Üretim süreçlerini ve tedarik zincirlerini kökten değiştirme potansiyeline sahip.
 
-Yenilenebilir enerji kaynaklarına ve özellikle güneş enerjisine verilen önem giderek artıyor, pek çok firma bu yenilenebilir enerjiler üzerine yatırım yapıyor: Örneğin (Green) Google ve Tesla Motors. Kitapta yer alan bilgiye göre, 2035 yılından itibaren dünya çapında yenilenebilir enerji kullanımı ağırlıklı olacaktır. Ayrıca, üreten tüketicilerin (prosumers) sayısı da giderek artmaktadır.
+Yenilenebilir enerjiye verilen önem giderek artıyor; özellikle güneş enerjisi alanında büyük yatırımlar yapılıyor. Örneğin, Google’ın (Green Google) ve Tesla Motors’un temiz enerjiye yönelik girişimleri bu değişimin öncüsü konumunda. Kitapta yer alan tahmine göre, 2035 yılından itibaren dünya genelinde yenilenebilir enerji kullanımı baskın hale gelecek. Bunun yanı sıra, **prosumers** (üreten tüketiciler) kavramı da giderek yaygınlaşıyor. İnsanlar yalnızca tüketici olmakla kalmayıp aynı zamanda içerik, enerji ve ürün üreten bireyler haline geliyor.
 
-Öğrencilerin okulda gördüğü derslerin de artırılmış çağ ile birlikte tamamen değişmesi gerekecek. Bilim, teknoloji, mühendislik ve matematik gibi eskiden beri okutulan alanların yanı sıra, öğrencilerin yaratıcı düşünme, adaptasyon, hızlı öğrenme ve beceri kazanmaya yönelik teknikler üzerine de deneyim kazanması gerekiyor. Eğitim sistemi bu yeni yetkinliklere adapte edildiği takdirde, istihdam ve yeni iş modellerinin getirdiği değişime ayak uydurmak ve cevap vermek mümkün olacaktır.
+Eğitim sisteminin de Artırılmış Çağ’a adapte olması gerektiği vurgulanıyor. Gelecekte yalnızca bilim, teknoloji, mühendislik ve matematik (STEM) alanları değil, aynı zamanda yaratıcı düşünme, adaptasyon, hızlı öğrenme ve beceri kazandıran disiplinler de müfredatta yer almalı. Eğitimde bu dönüşüm sağlanmadığı takdirde, iş dünyasında yaşanacak büyük değişimlere ayak uydurmak mümkün olmayacak.
 
-İş dünyasında start-upların sayısı her geçen gün artıyor, Y Kuşağı daha esnek olarak çalışabileceği bir iş modelini benimsiyor, birçoğu da işlerini geliştirmek için akıllı cep telefonlarında yer alan uygulamaları yoğun şekilde kullanıyor. Serbest çalışmak 'gig' kelimesi ile tanımlanıyor. Ortak çalışma alanlarının (çoworking spaces) sayısı giderek artıyor.
+İş dünyasında da büyük bir dönüşüm yaşanıyor. Start-upların sayısı hızla artarken, Y Kuşağı daha esnek iş modellerini tercih ediyor. Akıllı telefonlar ve uygulamalar iş hayatının vazgeçilmez unsurları haline gelirken, ‘gig ekonomisi’ (serbest çalışma) giderek yaygınlaşıyor. Ortak çalışma alanlarının (coworking spaces) artışı, bireylerin daha özgür ve esnek bir çalışma düzenine yöneldiğini gösteriyor. Geleneksel 9-5 çalışma düzeninin yerini ‘mikro-kariyerler’ alıyor. İnsanlar birden fazla alanda kariyer yapıyor ya da sürekli iş değiştirerek deneyim kazanıyor. ‘Job hopper’ olarak adlandırılan ve ne yapmak istediğini bulana kadar farklı işlerde çalışan bireyler artık normal karşılanıyor hatta teşvik ediliyor.
 
-Geleneksel çalışma biçimi ve haftalık belli bir çalışma saatini doldurmak yerine yeni kuşak 'mikro-kariyer' sahibi oluyor. Birden fazla alanda kariyer sahibi olanların yanı sıra ne yapmak istediğini bulana kadar iş değiştirenler de (job hopper) giderek normal karşılanıyor hatta böyle olması 'bekleniyor'.
+Kitapta geleceğe dair daha pek çok konu ele alınıyor:
 
-Kitabın ilerleyen sayfalarında ele alınan konular arasında akıllı kentler, giyilebilir ve yutulabilir teknolojiler ile değişen artırılmış insan, dijital kişisel asistanların günlük hayatın hemen her alanında yer alması, otomobil ve evlerde nelerin değişeceği, ulaşımda yaşanacak değişimler, robotların her alanda yaygınlaşması, bazı alanlarda iş gücü olarak insanın yerini alması, bankacılık, para ve ödeme sistemlerinde yaşanacak değişimler, bu yeni çağda gizlilik ve güven, bilgisayarlarda ve ekranlarda yaşanacak değişimler gibi başlıklar yer alıyor. Kitap, bazı öngörülerle birlikte 2020'li yıllarda örnek temsili günlük yaşamların anlatımı ile son buluyor.
+- Akıllı şehirler nasıl olacak?
+- Giyilebilir ve yutulabilir teknolojiler insan hayatını nasıl değiştirecek?
+- Dijital kişisel asistanlar gündelik hayatımızın ayrılmaz bir parçası haline mi gelecek?
+- Ulaşım nasıl evrilecek? Otonom araçlar ve uçan arabalar hayatımıza ne zaman girecek?
+- Robotlar hangi alanlarda iş gücünün yerini alacak?
+- Bankacılık ve ödeme sistemlerinde nasıl değişimler yaşanacak?
+- Gizlilik ve güvenlik kavramları nasıl dönüşecek?
+- Bilgisayarlar ve ekran teknolojileri gelecekte neye benzeyecek?
+
+Kitap, tüm bu sorulara yanıt ararken, aynı zamanda 2020’li yıllara dair örneklerle gelecekte yaşanabilecek senaryoları canlandırıyor. Artırılmış Çağ’ın sunduğu fırsatları ve beraberinde getirdiği riskleri gözler önüne seren bu çalışma, teknolojinin geleceği ve onun toplumsal etkileri üzerine düşünen herkes için önemli bir rehber niteliğinde.

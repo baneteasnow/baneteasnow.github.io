@@ -8,56 +8,55 @@ yazar: "P.W. Singer, Allan Friedman"
 yil: "2015"
 sayfa: "396"
 goodreads: "https://www.goodreads.com/book/show/16182409-cybersecurity-and-cyberwar"
-description: "Siber Güvenlik ve Siber Savaş sanal dünyada yaşanan tehlikeleri anlatıyor ve olası bir siber savaş durumunda yaşanabilecekleri tartışıyor."
+description: "Siber Güvenlik ve Siber Savaş, internetin getirdiği tehlikeleri, siber suçları ve olası bir siber savaş senaryosunda bireylerin, şirketlerin ve devletlerin karşılaşabileceği tehditleri ayrıntılı bir şekilde ele alıyor."
+eng: "Cybersecurity and Cyberwar explores the dangers of the internet, cyber crimes, and the threats that individuals, corporations, and governments may face in a potential cyber warfare scenario."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-11
 posted: 2017-05-27
 tag: "siber güvenlik"
 reread: "no"
 rating: "3"
 num: "57"
+update: "done"
 image: "/assets/old/cybersecurity-and-cyberwar.jpg"
 ---
 
-P.W. Singer ve Allan Friedman tarafından yazılan Siber Güvenlik ve Siber Savaş sanal dünyada yaşanan tehlikeleri anlatıyor ve olası bir siber savaş durumunda yaşanabilecekleri tartışıyor. Bilgisayar virüsleri, solucanlar, tehlikeli yazılımların yol açtığı (ve açabileceği) tehlikeleri hem bireysel kullanıcılar, hem kurumlar hem de devletler açısından inceliyor. Bir anlık dikkatsizliğin telafisinin sanal dünyada imkanı olmadığını örneklerle açıklıyor. Ayrıca, siber güvenlik farkındalığının arttırılması için ne yapılması gerektiğini de anlatıyor.
+P.W. Singer ve Allan Friedman tarafından yazılan _Siber Güvenlik ve Siber Savaş_, dijital dünyanın giderek daha karmaşık hale gelmesiyle birlikte ortaya çıkan güvenlik tehditlerini detaylı bir şekilde ele alıyor. Kitap, siber tehditlerin bireylerden devletlere kadar geniş bir yelpazede nasıl bir risk oluşturduğunu ve siber savaşın olası etkilerini tartışıyor.
 
-Kitap, 3 ana bölümden oluşuyor ve alt başlıklar da bölüm başlıkları gibi sorulardan oluşuyor:
+Dijital çağın getirdiği yeni tehditler, bilgisayar virüsleri, solucanlar ve zararlı yazılımlar ile sistemlere nasıl zarar verilebileceğini gösteriyor. Kitap, hem bireylerin hem de şirketlerin güvenlik farkındalığını artırarak olası saldırılara karşı nasıl önlem alabileceğine dair önemli ipuçları sunuyor. Siber saldırılar artık sadece kişisel verileri hedef almakla kalmıyor; devletlerin kritik altyapıları ve büyük şirketlerin veri tabanları da giderek daha fazla risk altında.
 
-- Her şey nasıl işliyor?
-- Neden bu kadar önemli?
-- Ne yapabiliriz?
+Kitap üç ana bölümden oluşuyor ve her bölüm temel sorular etrafında şekilleniyor:
 
-Kitaptan ilginç bazı bilgiler:
+1. **Her şey nasıl işliyor?**
+2. **Neden bu kadar önemli?**
+3. **Ne yapabiliriz?**
 
-İlk e-mail 1971 yılında gönderilmiştir. Günümüzde yılda 40 trilyondan fazla e-mail gönderilmektedir.
+Kitap, internetin ilk günlerinden başlayarak günümüzde geldiği noktayı sayısal verilerle destekleyerek anlatıyor:
 
-İlk web sitesi 1991 yılında tasarlanmıştır. 2013 yılı itibarıyla bireysel web sitesi sayısı 30 trilyonu aşmıştır.
+- İlk e-posta 1971 yılında gönderilmişken, günümüzde yılda 40 trilyondan fazla e-posta gönderilmektedir.
+- İlk web sitesi 1991 yılında tasarlanmıştır ve 2013 yılı itibarıyla bireysel web sitesi sayısı 30 trilyonu aşmıştır.
+- Cisco'nun tahminine göre 2012 yılı sonunda 8,7 milyar cihaz internete bağlıyken, 2020'de bu rakam 40 milyara ulaşmıştır. (sayfa 14-15)
 
-Cisco, 2012 sonu itibarıyla 8,7 milyar cihazın internete bağlı olduğunu ve bu rakamın 2020 ile birlikte arabaların, buzdolaplarının, tıbbi cihazlar ve henüz tasarlanmamış veya icat edilmemiş cihazlarla birlikte 40 milyar olacağını tahmin etmiştir. (sayfa 14-15)  
-Siber güvenlik riskleri, birçok yetkili kişi tarafından yaklaşan en büyük tehdit olarak nitelendirilmektedir.
+Kitap, siber güvenlik risklerinin giderek büyüyen bir tehdit olarak görüldüğünü vurguluyor. Yazarlar, dijital çağda bireylerin, şirketlerin ve devletlerin bu tehditlere karşı bilinçlenmesi gerektiğini, aksi takdirde büyük kayıplar yaşayabileceklerini belirtiyorlar.
 
-İnterneti az ya da çok kullansın, ya da hiç kullanmasın, herkesin ve her kurumun bu alanda bilinçlenmesi gerekmektedir ve bazı önlemlerin alınması için herkesin özeni sarttır.
+**Öne çıkan bazı kavramlar:**
 
-Bugünün gençliği 'dijital dünyanın yerlileridir' ancak dünya halen bilgisayar ve internet çağının getirdiklerini kafa karıştırıcı bulan 'dijital göçmenler' tarafından yönetilmektedir. (Marc Prensky'in makalesi Dijital Yerliler, Dijital Göçmenler (2001))
+- _Dijital Yerliler ve Dijital Göçmenler:_ Marc Prensky’in 2001 tarihli "Dijital Yerliler, Dijital Göçmenler" makalesine referansla, bugünün genç neslinin dijital dünyada doğduğu ve büyüdüğü, ancak devletlerin ve yöneticilerin hala "dijital göçmenler" olduğu anlatılıyor. Bu nesil farkı, siber güvenlik stratejilerinin oluşturulmasında önemli bir boşluk yaratıyor.
+- _İnterneti Kim Yönetiyor?_ Kitap, internetin küresel olarak nasıl düzenlendiğini ve ICANN (Internet Corporation for Assigned Names and Numbers) gibi kuruluşların rolünü açıklıyor.
+- _Bilgi Güvenliği Prensipleri:_ Siber güvenliğin üç temel prensibi şu şekilde sıralanıyor: _Gizlilik, Bütünlük ve Kullanılabilirlik._ (sayfa 57)
+- _Sosyal Mühendislik:_ İnsanları kandırarak hassas bilgilerini paylaşmalarını sağlayan ve yaygın olarak kullanılan "phishing (yemleme)" saldırılarının nasıl çalıştığını ele alıyor. (sayfa 64)
+- _Sıfırıncı Gün (Zero Day) Saldırıları:_ Daha önce bilinmeyen bir güvenlik açığından faydalanan saldırı türü. Bu tür saldırılar, genellikle büyük ölçekli siber tehditlerin temelini oluşturuyor. (sayfa 66)
+- _Şifre Güvenliği:_ En yaygın kullanılan şifrelerin "password" ve "123456" olduğu belirtiliyor ve güvenli şifre oluşturmanın önemine dikkat çekiliyor.
 
-İnterneti kimin işlettiği oldukça kritik bir sorudur ve kitap bu soruyu cevaplamaktadır. (İCANN - Internet Corporation for Assigned Names and Numbers)
+**Siber savaşın ironisi:** Bir ülke ne kadar bağlantılı olursa internetten o kadar fazla faydalanabiliyor; ancak aynı zamanda saldırılara karşı da o kadar savunmasız hale geliyor. Bir anlamda, en gelişmiş ülkeler en büyük "camdan evlerde" yaşıyor.
 
-Bir bilgi çerçevesindeki güvenliğin standart amaçları şunlardır: Gizlilik, Bütünlük ve Kullanılabilirlik. (sayfa 57)
+**Siber Savaş ve Geleceğe Yönelik Tehditler:**
+Siber savaş, geleneksel savaşlardan farklı olarak fiziksel değil, dijital bir boyutta gerçekleşiyor. Kitap, saldırganların kimler olduğu, nasıl çalıştıkları ve devletlerin nasıl tepki verdiği üzerine derinlemesine bir inceleme sunuyor. Siber tehditler sadece devletlerden gelmiyor; büyük şirketler, organize suç örgütleri ve hatta bireysel hackerlar da küresel siber savaşın aktörleri arasında yer alıyor.
 
-Sosyal mühendislik, insanları gizli bilgilerini vermeye ikna etme ve böylece saldırgana yardım etmelerini sağlamanın bir yoludur ve çeşitli sistemlere girmek için hacklemenin ilk günlerinden itibaren kullanılan bir yöntemdir. Yaygın bir şekli, pnishing (yemleme) saldırısıdır. (sayfa 64)
+**Günlük Hayatta Siber Güvenlik:**
+Yazarlar, bireylerin dijital dünyada nasıl daha güvende olabileceklerini de anlatıyor:
 
-Genellikle fabrika ayarından kalan ve/veya kolaylıkla tahmin edilebilecek şifre ve kullanıcı adlarının kullanılması özellikle wifi için tehlike yaratmaktadır. En çok kullanılan iki şifre password ve 123456 dir.
+- Güvenlik sorularının sosyal medya paylaşımlarından kolayca çözülebileceğine dikkat çekiyorlar. Örneğin, "İlkokul öğretmeninizin adı?" veya "En sevdiğiniz kitap hangisi?" gibi sorular, sosyal medya profillerinden kolayca tahmin edilebilir.
+- Kullanıcıların internet alışkanlıkları ve aşırı bağlılıkları da ele alınıyor. Günümüzde birçok kişi yatmadan önce ve uyanır uyanmaz telefonlarını kontrol ediyor. Sosyal medyada yaşanan bir yavaşlama veya kesinti, birçok kişide erişimi kaybetme korkusuna yol açabiliyor.
 
-Daha önceden bilinmeyen bir hassasiyeti istismar eden bir saldırı sıfırıncı gün (zero day) olarak adlandırılır. (sayfa 66)
-
-İnsan vücudundaki bağışıklık sistemi gibi, tehditin içeri girmesi halinde değerli olan bilgi ve verileri korumanın yolu şifreleme kullanmaktır.
-
-Siber savaşın garip ironisi: Bir ulus ne kadar çok bağlantılı olursa internetten de o kadar faydalanabilmektedir. Ancak, yine bir ulus ne kadar çok bağlantılı olursa, interneti kötü amaçlar için kullananlar tarafından zarar verilmesi olsailiği da artmaktadır. (Bir anlamda, taş fırlatmada en yetenekli uluslar en büyük camdan evlerde yaşamaktadırlar.)
-
-Siber dünyadaki savaş ve mücadeleler, gerçek dünyadakinden oldukça farklıdır ve bilinmezliklerle doludur. Somut olarak karşı tarafa sergilenebilen (fiziki) silahların ve kuvvetlerin aksine sanal dünyadaki birimlerin taarruz halinde mi yoksa saldırı halinde mi olacaklarını seçmeleri gerekmektedir.
-
-Tehditler, bazı kötü niyetli veya fırsatçı kişiler tarafından sanal ortamda fırsatlar olarak görülebilir. Endişe duyulan noktaların başında bu durum gelmelidir.
-
-Güvenlik soruları, sosyal medyada paylaşılan bilgiler sayesinde kötü niyetli kişiler tarafından rahatlıkla aşılabilmektedir. ('İlkokul öğretmeninizin adı' veya 'en sevdiğiniz kitap hangisi' gibi)
-
-İnternete aşırı derecede bağlı günümüz dünyasında birçok kişinin yatmadan önce yaptığı son şey ve uyandıktan sonra yaptığı ilk şey cep telefonunu kontrol etmek olmaktadır. Hal böyle olunca, Twitter, Facebook veya Instagram üzerinde yaşanabilen bir yavaşlama veya aksaklık, pek çok kişiye erişimi kaybetme korkusu yaşatmaktadır.
+Kitap, internetin hayatımızın ayrılmaz bir parçası haline geldiği bu çağda, dijital tehditlere karşı nasıl korunabileceğimize dair kapsamlı bir rehber sunuyor. Siber güvenliğin bireysel farkındalıkla başladığını ve her bireyin bu konuda bilinçlenmesi gerektiğini vurguluyor.

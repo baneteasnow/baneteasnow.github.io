@@ -8,19 +8,25 @@ yazar: "Jamie Bartlett"
 yil: "2016"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/19186421-the-dark-net"
-description: "Kitap, internetin rahatsız edici ve karanlık yüzünü mercek altına alıyor ve internetin güvenli kullanımı için bireysel kullanıcılara yol gösteriyor."
+description: "Dark Net, internetin bilinmeyen ve tehlikeli yönlerini incelerken, dijital dünyada güvenli kalmanın ve bilinçli bir internet kullanıcısı olmanın önemini vurguluyor."
+eng: "Dark Net explores the hidden and dangerous aspects of the internet while emphasizing the importance of staying safe and being a conscious internet user in the digital world."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-11
 posted: 2017-05-27
 tag: "siber güvenlik"
 reread: "no"
 rating: "4"
 num: "58"
+update: "done"
 image: "/assets/old/the-dark-net.jpg"
 ---
 
-Dark Net isimli kitabı, gazeteci Jamie Bartlett kaleme almış.
+İnternet, modern yaşamın ayrılmaz bir parçası haline gelirken, yüzeyde görülen bilgi akışının ve sosyal etkileşimin çok ötesinde, daha az bilinen, hatta bazen tehlikeli bir yönü de bulunuyor. Dark Net adlı kitabında Jamie Bartlett, internetin bu karanlık yüzünü derinlemesine inceliyor ve anonimlik, mahremiyet, dijital suçlar, yasa dışı faaliyetler ve siber dünyadaki kimlikler konularına ışık tutuyor.
 
-İnternet günümüzde, günlük hayatın vazgeçilmez bir parçası haline geldi. Teknolojinin ucuzlaması ile birlikte, hem bilgisayar kullanıcılarının hem de mobil cihaz kullanıcılarının sayısı her geçen gün artıyor. Bilgiye ulaşmak, alışveriş yapmak, haberleri takip etmek, restoran önerisi almak, yeni çıkan kitapları ve vizyona girecek filmleri takip etmek ve iletişimde kalmak için internet milyarlarca kişi tarafından kullanılıyor. İnternet, ayrı bir dünya, sanal bir ortam, herhangi birinin hayal ettiği kişi olabilmek için profilini o şekilde düzenleyerek sosyal medyada yer alması yeterli. Hal böyle olunca, cinsiyet, yaş, meslek, yaşanılan yer vb konularda yanlış ve yanıltıcı bilgi verenlerin sayısı da bir hayli yüksek. Ancak, tüm bunların ötesinde, internetteki platformların kötü niyetli ve yasalara uygun olmayan şekilde kullanımı giderek artış gösteriyor, bu durum ise her geçen gün büyüyen bir sorun olarak hem bireysel kullanıcıları hem de yetkili mercileri tehdit ediyor.
+Kitap, sosyal medyada insanların kendilerini nasıl farklı şekillerde sunabildiklerinden başlayarak, internetin sunduğu özgürlüğün nasıl kötüye kullanılabileceğine dair örnekler sunuyor. Örneğin, insanlar cinsiyet, yaş, meslek veya yaşadıkları yer hakkında yanıltıcı bilgiler verebilir ve kimliklerini saklayarak başkalarını manipüle edebilirler. Ancak internetin bilinçli ya da bilinçsiz olarak bu şekilde kullanımı, kitapta incelenen daha büyük ve daha sistematik sorunların sadece yüzeyini oluşturuyor.
 
-Kitap, internetin bu rahatsız edici ve karanlık yüzünü mercek altına alıyor ve internetin güvenli kullanımı için bireysel kullanıcılara yol gösteriyor. Yediden yetmişe tüm internet kullanıcılarının hem bilgi güvenliklerini sağlayabilmeleri hem de bireysel kimlik bütünlüklerini gerektiği şekilde koruyabilmeleri için bilinçlenmesi gerekiyor. Kitap, bu açıdan bir rehber ve uyarı niteliği taşıyor.
+Bartlett, internetin yasa dışı ve karanlık yönlerini keşfetmek için derinlemesine bir araştırma yapıyor. Dark Web’de yasadışı pazarların nasıl işlediğini, siber suçluların nasıl organize olduğunu, politik aktivizmin dijital dünyada nasıl yeni bir boyuta ulaştığını ve internetin toplumun geleneksel kurallarını nasıl zorladığını inceliyor. Kitap boyunca, siber suçlar, çocuk istismarı, yasa dışı uyuşturucu ticareti, siber terörizm ve diğer çevrimiçi tehditlerle ilgili çarpıcı örnekler paylaşılıyor.
+
+Kitabın önemli noktalarından biri, internetin güvenli kullanımı konusunda bireylere rehberlik etmesi. Dijital dünyada kimlik bütünlüğünü korumanın, mahremiyeti sağlamanın ve kişisel bilgileri güvende tutmanın yolları kitapta ele alınıyor. İnternetin sunduğu avantajlarla birlikte, siber tehditlerin de her geçen gün arttığını göz önünde bulunduran Bartlett, okuyucuya bilinçli bir internet kullanıcısı olmanın önemini anlatıyor.
+
+Özetle, Dark Net, sadece internetin karanlık köşelerini gözler önüne seren bir araştırma kitabı değil, aynı zamanda bireysel ve toplumsal farkındalığı artırmayı hedefleyen bir eser. Bartlett, dijital dünyanın sunduğu olanaklar kadar, bu dünyada gezinirken karşılaşılabilecek riskleri de anlamanın önemine vurgu yapıyor. Kitap, teknolojiye meraklı okurlar, internetin bilinmeyen yönlerini keşfetmek isteyenler ve siber güvenlik konusunda bilinçlenmek isteyen herkes için değerli bir kaynak niteliğinde.

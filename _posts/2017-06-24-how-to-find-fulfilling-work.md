@@ -8,37 +8,28 @@ yazar: "Roman Krznaric"
 yil: "2013"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/14059030-how-to-find-fulfilling-work"
-description: "Roman Krznaric tarafından kaleme alınan Kendimize Uygun İşi Nasıl Buluruz, iş yaşamına ve kariyer basamaklarına farklı bir bakış açısı sunuyor."
+description: "Kendimize Uygun İşi Nasıl Buluruz, anlamlı ve tatmin edici bir kariyer inşa etmenin yollarını psikoloji, sosyoloji ve kişisel deneyimlerle ele alarak, bireylerin tutkularını ve yeteneklerini keşfetmeleri için rehberlik ediyor."
+eng: "How to Find Fulfilling Work explores the paths to building a meaningful and satisfying career, drawing on psychology, sociology, and personal experiences to guide individuals in discovering their passions and talents."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-11
 posted: 2017-06-24
 tag: "felsefe"
 reread: "yes"
 rating: "5"
 num: "61"
+update: "done"
 image: "/assets/old/how-to-find-fulfilling-work.jpg"
 ---
 
-Roman Krznaric tarafından kaleme alınan Kendimize Uygun İşi Nasıl Buluruz, iş yaşamına ve kariyer basamaklarına farklı bir bakış açısı sunuyor. Kişinin kariyer beklentisinin gerek eğitimi, gerek ailesinin ve çevresinin yönlendirmesi, gerekse de çevresinden gördüğü 'başarılı diye tabir edilen' örneklerle mi şekillenmesi gerektiğini yoksa; kişinin er ya da geç kendisini mutlu edecek 'anlamlı' bir iş aramaktan vazgeçmemesi mi gerektiğini tartışıyor.
+Roman Krznaric’in _Kendimize Uygun İşi Nasıl Buluruz_ adlı kitabı, iş ve kariyer seçimlerini yeniden düşünmeye davet eden, geleneksel başarı anlayışına meydan okuyan bir eser. Yazar, bireylerin kariyer yolculuklarını nasıl yönlendirmeleri gerektiğini, iş yaşamından ne beklediklerini ve mutluluğu nasıl tanımlamaları gerektiğini sorguluyor. Kariyer seçimlerimizin yalnızca eğitim, aile yönlendirmesi ya da toplumun dayattığı ‘başarı’ kavramı üzerinden şekillenmemesi gerektiğini, aksine bireylerin içsel tatmin duygusunu bulabilmeleri için anlamlı bir iş arayışından vazgeçmemeleri gerektiğini savunuyor.
 
-Kitabın ilk sayfasında yer alan Fyodor Dostoyevski'ye ait aşağıdaki alıntı kitabın bakış açısı hakkında fikir veriyor:
+Kitap, Fyodor Dostoyevski’nin şu çarpıcı alıntısıyla başlıyor: _“Bir gün fark ettim ki eğer bir insan başka birini tamamen ezip mahvetmek, ona en berbat cezayı, en korkunç katilin karşısında titreyeceği, peşinen geri çekileceği cezayı vermek istiyorsa, tek yapacağı, onu işe yaramayan, manadan bütünüyle yoksun bir işte çalıştırmaktır.”_ (sayfa 1) Bu alıntı, kitabın ana temasını özetler nitelikte: Bir insanın işinde anlam bulamaması, onun ruhsal olarak çökmesine neden olabilir.
 
-"Bir gün fark ettim ki eğer bir insan başka birini tamamen ezip mahvetmek, ona en berbat cezayı, en korkunç katilin karşısında titreyeceği, peşinen geri çekileceği cezayı vermek istiyorsa, tek yapacağı, onu ise yaramayan, manadan bütünüyle yoksun bir işte çalıştırmaktır."
+Kitap altı ana bölümden oluşuyor ve her bölüm, anlatılan konuyu destekleyen gerçek hayat hikayeleriyle güçlendirilmiş. İlk bölüm olan _Tatmin Çağı_, bireylerin sadece para kazanmak veya güvenli bir işte çalışmak yerine, tatmin edici bir iş arayışına yöneldiğini vurguluyor. Yazar, ‘tatmin edici iş’i, kişinin değerlerini, tutkularını ve kişiliğini yansıtan, ona derin bir amaç duygusu veren bir iş olarak tanımlıyor. (sayfa 15) Modern toplumda maddi olanakların artmasıyla birlikte, insanlar artık sadece maaş ve iş güvenliğiyle yetinmiyor; anlamlı bir iş yapmanın peşine düşüyorlar. Tatmin edici bir kariyerin üç temel unsuru ise _anlam, akış ve özgürlük_ olarak sıralanıyor. (sayfa 20)
 
-Kitap 6 ana bölümden oluşuyor. Her bölümde anlatılan konuyu destekleyen örnek kariyer hikayeleri aktarılmış. İlk bölüm, 'Tatmin Çağı' başlığını taşıyor. Yapan kişiye derin bir amaç duygusu veren, kişinin değerlerini, arzularını ve kişiliğini yansıtan bir iş olarak tanımlanabilecek "tatmin edici iş" kavramı kitaba göre modern çağın getirdiği kavramlardan bir tanesi. (sayfa 15) Toplumlarda maddi gücün artması, kişileri refah içinde olmalarını sağlayacak bir kariyer arayışına itmiştir. Makul bir maaş, iş güvenliği gibi unsurların yanı sıra artık anlamlı bir iş yapıyor olmak çalışanların listesinin en üst sırasında yer alıyor. Bu beklenti, bireyleri doğru kariyeri nasıl seçebilecekleri sorusu ile baş başa bırakıyor. Ne istediğini bilen bireyler için, gidecekleri yön zaten belirlenmiş oluyor. Ancak, fırsatları olsa bambaşka bir işte çalışmak isteyen milyonlarca kişi var. Bireylerin işten beklentisi günümüzde, önceki kuşaklara göre epeyce farklılaştı. Yazar, tatmin edici bir kariyerin üç unsuru olduğunu belirtiyor: Anlam, akis ve özgürlük. (sayfa 20)
+İkinci bölüm, _Kariyer Karışıklıkları_, bireylerin neden sevmedikleri işlerde sıkışıp kaldıklarını ele alıyor. Günümüzdeki geniş kariyer seçenekleri bazen özgürlükten çok karar felci yaratıyor. Yazar, Psikolog Barry Schwartz’ın _The Paradox of Choice_ kitabına atıfta bulunarak, seçeneklerin artmasının karar vermeyi zorlaştırdığını ve alınan kararın sonucundan daha az tatmin duymamıza neden olduğunu açıklıyor. (sayfa 27) Bireyler, yanlış karar alma korkusuyla tatminsiz oldukları işlerde kalmayı sürdürüyorlar. (sayfa 33) Schwartz, bu durumla başa çıkmak için iki çözüm öneriyor: _Seçenekleri sınırlamak_ ve _mükemmeli aramak yerine yeterince iyi olanı kabul etmek._
 
-İkinci bölüm, kariyer karışıklıkları üzerine yazılmış. Günümüzde bu kadar fazla sayıda farklı kariyer seçeneği varsa, kişiler neden kendilerini hiç de sevmedikleri işlerde çalışırken buluyorlar? Bunun en önemli nedenleri, değişen ve modernleşen iş tanımlarına uygun bir eğitim almamış olmak, çok fazla seçeneğin doğru kararı vermeyi zorlaştırması ve baskı yaratması, geçmişin yükünün kişiler üzerinde etkili olması olarak sıralanmış. (sayfa 27)
-
-Çok fazla seçeneğe sahip olmanın karar verme üzerindeki olumsuz etkisi açıklanırken Psikolog Barry Schwartz'in 'The Paradox of Choice' (Bolluk Paradoksu) isimli kitabına gönderme yapılmış; Schwartz'a göre, 'pek çok seçeneğe sahip olmanın bir etkisi özgürlük vermekten ziyade felç halini getirmesidir, aralarında seçim yapılacak çok fazla seçeneğin olmasıyla insanlara seçim yapmak iyice zor gelir. Felç halinden çıkılıp seçim yapılsa dahi, daha az seçenekle alınan karara kıyasla seçimin sonucundan daha az tatmin sağlanır.' Bu da Schwartz'in kitabına konu olan paradoksu yaratır.
-
-Bazen de bireyler yanlış bir karar alıp pişman olmaktan o kadar korkarlar ki, sonunda bir karar almak yerine mevcut tatminsiz işlerine devam etmeyi tercih ederler. (sayfa 33)
-
-Schwartz bu durumla başa çıkmak için iki farklı yol göstermiştir:
-
-- Seçenekleri sınırlamaya çalışmak
-- En iyiyi seçmeye çalışmak yerine yeterince iyi olanda karar kılmak.
-
-Üçüncü bölüm, ise anlam kazandırmanın yolları ile ilgilidir. Öncelikle, bir işi anlamlı kılan beş farklı bakış açısı sıralanmıştır ve her bir madde için detay verilmiştir (sayfa 50):
+Üçüncü bölüm, bir işe anlam kazandırmanın yollarına odaklanıyor. Yazar, anlamlı bir işin beş temel kaynağını şöyle sıralıyor (sayfa 50):
 
 - Para kazanmak (dış motivasyon kaynağı)
 - Statü elde etmek (dış motivasyon kaynağı)
@@ -46,20 +37,16 @@ Schwartz bu durumla başa çıkmak için iki farklı yol göstermiştir:
 - Tutkuları gerçekleştirmek (iç motivasyon kaynağı)
 - Yetenekleri kullanmak (iç motivasyon kaynağı)
 
-'Önce harekete geç, sonra düşün' başlığını taşıyan dördüncü bölümde, işlerini ve kariyerlerini değiştirmek isteyen kişilerin genellikle kendilerini tamamen güvende hissedene kadar mevcut işlerinde bekledikleri ancak belki de (ne yazık ki) hiçbir zaman kendilerini yeterince güvende hissedip işlerinden ayrılıp harekete geçemeyecek oldukları (ve bu durumun arkasında yatan nedenler) anlatılıyor. İnsanların değişimden korkması nedeni ile bu tür büyük değişiklikler için harekete geçmekte zorlandıkları yapılan araştırmalarla ortaya çıkarılmış. 1970'lerde psikolog Amos Tversky ve Daniel Kahneman, olası kazanç ve kayıplara karşı insanların nasıl değer biçtiğini inceledikleri deneylerinde, insanların kazanmayı sevdiklerinin iki katı kadar kaybetmekten nefret ettikleri ortaya çıkarılmıştır. İnsanların yolunda gitmeyebilecek şeyleri büyütme eğilimleri vardır ve bu da kariyer değişikliği noktasında pek çoğuna engel olmaktadır. (sayfa 82)
-
-Yazar, kariyer değişiminden hemen önce, kişinin bir hazırlık aşaması yaşamasının bu noktada epeyce faydalı olacağını belirtiyor. Deneysel projelerin gerçekleştirileceği bu hazırlık aşamasında üç farklı olasılık söz konusu:
+Dördüncü bölüm, _Önce Harekete Geç, Sonra Düşün_ başlığını taşıyor ve iş değiştirme konusunda yaşanan tereddütleri ele alıyor. İnsanlar genellikle kendilerini tamamen güvende hissedene kadar mevcut işlerinde bekliyorlar, ancak bu güven hissi çoğu zaman hiç gelmiyor. Psikolog Amos Tversky ve Daniel Kahneman’ın araştırmalarına göre, insanlar kazanmayı sevdiklerinin iki katı kadar kaybetmekten nefret ediyorlar. Bu durum, iş değişikliği gibi büyük kararları almakta zorlanmamıza neden oluyor. (sayfa 82) Yazar, kariyer değişikliği yapmadan önce bireylerin kendilerini hazırlamaları gerektiğini ve bunun için üç strateji öneriyor:
 
 - Radikal izin yılı
 - Paralel projeler (geçici görevlendirme)
 - Konuşmaya dayalı araştırmalar
 
-Bu olasılıklardan her biri çeşitli örneklerle açıklanıyor. Peki, bir kişi kendine uygun tatminkar bir iş alanını bulduğunu nasıl anlayacak? Bu sorunun cevabı da, 1970'lı yıllarda Macar kökenli Amerikalı psikolog Mihaly Csıkszentmihalyi tarafından ortaya atılan akış (flow) kavramına dayandırılıyor. Akış, yapılan ise insanın kendisine kaptırması bir anlamda akışa geçerek başka bir şeyi umursamaması ile ilgili bir kavram. (sayfa 95) Akış hissi, yaratıcılık anlarında, yeni beceriler öğrenildiğinde, eylemlerin etkileri hemen görülebildiğinde ve açıkça tamamlanmış hedefler olduğunda artar. (sayfa 96)
+Bu stratejiler sayesinde kişiler, risk almadan yeni iş alanlarını deneyimleyebilirler.
 
-Beşinci bölüm, özgürlük arzusu başlığını taşıyor ve bireylerin özgürlük anlayışları tartışılıyor. İstediğini alabilmek, pahalı seyahatleri karşılayabilmek, gibi pek çok şeyin karşılanabilmesi için insanlar haftalık çalışma saatlerini doldurmaya devam ediyorlar. Pek çok kişi, iş - özel yaşam dengelerinin pek olmadığından, kendilerine ve sevdiklerine daha fazla vakit ayıramadıklarından dert yanıyorlar. Yazarın ne çarpıcı cümlelerinden bir tanesi şöyle (sayfa 111):
+Beşinci bölüm, _Özgürlük Arzusu_ üzerine. Pek çok kişi, ekonomik bağımsızlığa sahip olmayı özgürlük olarak görse de, yazar özgürlüğün işten bağımsız olmak değil, işin içinde özgür hissetmek anlamına geldiğini savunuyor. (sayfa 111) İnsanların, kendilerini gerçekleştirebilecekleri, zamanlarını daha esnek yönetebilecekleri işler aradıklarını vurguluyor.
 
-Ya eğer özgürlük idealimiz kendimizi işimizde bağımsız ve özgür hissetmek değil de işimizden özgür hissetmekse?
+Altıncı ve son bölüm olan _Bir Uğraş Büyütmek_, insanların kariyer yolculuklarını bir keşif süreci olarak görmeleri gerektiğini anlatıyor. Marie Curie’nin başarısının, işini sadece bir meslek değil, bir uğraş olarak görmesine dayandığını belirtiyor. Bir kariyerin zaman içinde büyütülebileceğini ve şekillendirilebileceğini ifade eden yazar, “Bir uğraş bulunacak bir şey değil, bizim büyüttüğümüz ve içinde büyüyerek ona uygun hale geldiğimiz bir şeydir.” diyerek bu süreci özetliyor. (sayfa 139)
 
-Altıncı bölüm 'Bir uğraş büyütmek'te Marie Curie'nin başarısının aslında işini bir uğraş olarak görmesine ve işinden evine döndükten sonra bile bu uğraşı üzerinde çalışmaya devam edecek kadar bağlı olmasına dayalı olduğu anlatılmıştır.
-
-Bir uğraş bulunacak bir şey değil, bizim büyüttüğümüz ve içinde büyüyerek ona uygun hale geldiğimiz şeydir. (sayfa 139)
+Krznaric’in kitabı, klasik kariyer planlama anlayışından farklı olarak, bireylerin içsel tatmini, anlamı ve özgürlüğü nasıl bulabileceklerine dair değerli içgörüler sunuyor. Geleneksel başarı kavramlarını sorgulayan ve iş yaşamına daha bilinçli bir bakış açısı kazandıran bu kitap, işini değiştirmek ya da kariyerinde yeni bir yön arayanlar için ilham verici bir rehber niteliğinde.
