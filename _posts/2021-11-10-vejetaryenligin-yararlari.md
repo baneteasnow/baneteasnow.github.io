@@ -2,8 +2,8 @@
 layout: post
 category: book
 title: "Vejetaryenliğin Yararları | Sadık Hidayet (Kitap)"
-tr: "Vejetaryenliğin Yararları"
-kitap: "Fevayid-i Giyahhari"
+kitap: "Vejetaryenliğin Yararları"
+tr: "-"
 yazar: "Sadık Hidayet"
 yil: "2018"
 sayfa: "73"
