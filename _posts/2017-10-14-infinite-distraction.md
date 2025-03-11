@@ -9,6 +9,7 @@ yil: "2017"
 sayfa: "126"
 goodreads: "https://www.goodreads.com/book/show/29451184-infinite-distraction"
 description: "Sonsuz Dikkat Dağınıklığı, dikkat dağılmasının dijitalleşmesini konu alıyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2017-10-14
@@ -16,6 +17,7 @@ tag: "üretkenlik ve teknoloji"
 reread: "yes"
 rating: "5"
 num: "72"
+update: ""
 image: "/assets/old/infinite-distraction.jpg"
 ---
 

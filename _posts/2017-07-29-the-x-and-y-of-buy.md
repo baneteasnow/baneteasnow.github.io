@@ -8,23 +8,29 @@ yazar: "Elizabeth Pace"
 yil: "2011"
 sayfa: "174"
 goodreads: "https://www.goodreads.com/book/show/6561577-the-x-and-y-of-buy"
-description: "Kadın ve erkeklerin alışveriş, satın alma, hizmet ve ürün tüketimi gibi konularda birbirlerinden ne kadar farklı olduklarını çeşitli araştırmalardan örneklerle anlatıyor."
+description: "Alışverişte Kadın Erkek, Elizabeth Pace’in kadın ve erkeklerin beyin yapılarının alışveriş alışkanlıklarını nasıl etkilediğini açıkladığı ve pazarlama stratejilerini bu farklılıklara göre nasıl şekillendirmek gerektiğini ele aldığı bir kitap."
+eng: "The X and Y of Buy by Elizabeth Pace explores how the differences in male and female brain structures influence shopping behaviors and explains how marketing strategies should be adapted accordingly."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-11
 posted: 2017-07-29
 tag: "tüketici davranışları"
 reread: "no"
 rating: "4"
 num: "64"
+update: "done"
 image: "/assets/old/the-x-and-y-of-buy.jpg"
 ---
 
-Elizabeth Pace, Alışverişte Kadın Erkek isimli kitabına 2002 yılında davranışları etkileyen cinsiyet farklılıkları üzerine kaleme alınan bazı kitapları (The Wonder of Girls - Michael Gürian, vb.) nasıl okuduğunu anlatarak başlıyor. Ardından, bu konuyu kendi uzmanlık alanı olan pazarlama ve satış stratejilerini kurgulamaya nasıl uyarlanabileceğini düşündüğünde, bu kitabının temelleri ortaya çıkmış oluyor.
+Elizabeth Pace’in _Alışverişte Kadın Erkek_ kitabı, kadınlar ve erkekler arasındaki bilişsel farklılıkların tüketici davranışlarına nasıl yansıdığını ele alıyor. Yazar, 2002 yılında okuduğu bazı kitapların (örneğin, Michael Gurian’ın _The Wonder of Girls_ adlı eseri) kadın ve erkek beyinlerinin nasıl farklı çalıştığını ortaya koyduğunu belirtiyor. Bu farkların pazarlama ve satış stratejilerine nasıl uyarlanabileceğini düşündüğünde ise bu kitabın temelleri ortaya çıkıyor.
 
-Her iki cinsiyette de bazı istisnalar olsa da (erkeğe özgü beyne sahip kadınlar veya kadına özgü beyne sahip erkekler), genel olarak bakıldığında, kadın ve erkeklerin kendi cinsiyetlerine özgü bakış açıları, düşünme ve karar alma şekilleri vardır. Kitap, her iki cinsiyete yönelik olarak uygulanması gereken pazarlama ve satış stratejileri hakkında ipuçları veriyor; son iki bölümde de (Satın Almanın X'i & Satın Almanın Y'si) Cinsiyet Döngüsü Satışı açıklanıyor.
+Pace, kitabında cinsiyetler arası farklılıkların satış ve pazarlama süreçlerine nasıl yön verdiğini bilimsel araştırmalara dayandırarak açıklıyor. Kadın ve erkek beyinlerinin farklı işleyiş mekanizmalarına sahip olduğunu belirten yazar, bu farklılıkların alışveriş alışkanlıklarını doğrudan etkilediğini vurguluyor. Yapılan araştırmalar, kadınların ve erkeklerin alışveriş, satın alma, hizmet ve ürün tüketimi gibi pek çok alanda beyinlerinin farklı bölgelerini kullandıklarını gösteriyor. (sayfa 14)
 
-Yapılan çeşitli araştırmalarda, bilim insanları kadın ve erkeklerin alışveriş, satın alma, hizmet ve ürün tüketimi gibi pek çok alanda beyinlerinin farklı bölgelerini kullandıklarını ve sonuç olarak da farklı davrandıklarını doğrulamıştır. (sayfa 14)
+Kadınlar, kendileri ve aileleri için yapılan tüm tüketici harcamalarının %83’ünü gerçekleştiriyor. Bu sadece gıda, temizlik malzemeleri ve giyimle sınırlı değil; aynı zamanda bilgisayar, otomobil ve sağlık hizmetleri gibi yüksek bütçeli alımları da kapsıyor. Kadınlar, satın alma yöneticisi ve aracı olarak, yan hakların belirlenmesinde söz sahibi yöneticiler olarak birçok pozisyonda aktif rol oynuyor. (sayfa 15) Ancak yalnızca kadınlara odaklanarak yapılan pazarlama stratejileri, satın almaların %20 ila %50’sini gerçekleştiren erkek tüketicileri göz ardı etmek anlamına geliyor.
 
-Kadınlar, kendileri ve aileleri için tüm tüketici alımlarının 83%'ünden sorumludur. Sadece temizlik malzemeleri, gıda, giyim gibi alımlar değil, aynı zamanda bilgisayar, yeni araba, sağlık hizmetleri gibi yüklü miktarlarda alışverişlerde de satın alma işlemi kadınlar tarafından gerçekleştirilir. Bundan dolayıdır ki, satın alma yöneticileri ve aracıları, yan hakların belirlenmesinde söz sahibi yöneticiler gibi pek çok pozisyonlarda çoğunlukla kadınlar yer alır. (sayfa 15) Ancak, sadece kadınlara yönelik olarak pazarlama, reklam ve satış stratejileri geliştirmek, satışların 20-50-%'sini gerçekleştiren erkeklere hitap edememek dolayısıyla bu satışlardan vazgeçmek anlamına gelir.
+Kadın ve erkeklerin karar alma süreçleri de farklılık gösteriyor. Erkekler analiz yaparak ve aşamalı bir düşünce süreci izleyerek karar verirken (basamaklı düşünme), kadınlar bilgileri bir araya getirerek sentez yapar ve daha bütüncül bir bakış açısıyla karar alır (ağ şeklinde düşünme). (sayfa 35) Erkekler daha fazla risk almaya eğilimlidir, kadınlar ise riskleri daha dikkatli hesaplar. (sayfa 45-46) Bunun yanı sıra, erkekler bir konuya tek bir noktadan odaklanırken, kadınlar aynı anda birden fazla konuyla ilgilenebilir ve çoklu görev yeteneğine sahiptir. (sayfa 52) Görsel algı açısından da farklılıklar söz konusudur; erkeklerin dikkatini daha çok hareketli cisimler çekerken, kadınlar duygusal unsurlara odaklanır. (sayfa 72)
 
-Erkekler, karar verme sürecinde önceliklendirir ve analiz ederken (basamaklı düşünme); kadınlar ise maksimize eder ve sentezler (ağ şeklinde düşünme). (sayfa 35) Erkekler riski sever, kadınlar riski hesaplar. (sayfa 45-46) Erkekler, tek seferde tek bir noktaya odaklanırken, kadınlar aynı anda birden fazla konuyu düşünür ve birden fazla şeye odaklanabilir. (sayfa 52) Erkeklerin dikkatini hareketli cisimler çekerken, kadınları cezbeden şey ise duygulardır. (sayfa 72) Erkekler, bir elektronik eşyanın nasıl çalıştığını öğrenmek isterler, kadınlar için ise sorunsuz çalışması yeterlidir. (sayfa 73-74) Erkekler duygularını kendine saklar, kadınlar ise aktarır. (sayfa 103)
+Erkekler, satın alacakları bir elektronik eşyanın nasıl çalıştığını öğrenmek isterken, kadınlar için cihazın sorunsuz çalışması yeterlidir. (sayfa 73-74) Duygusal ifade biçimleri de farklıdır; erkekler genellikle duygularını kendilerine saklarken, kadınlar çevreleriyle paylaşmayı tercih eder. (sayfa 103) Bu farklar, markaların hedef kitleleriyle nasıl iletişim kurmaları gerektiği konusunda önemli ipuçları sunmaktadır.
+
+Kitap, son iki bölümde “Satın Almanın X’i” ve “Satın Almanın Y’si” başlıkları altında Cinsiyet Döngüsü Satışı kavramını açıklıyor. Pazarlamacılar ve satış profesyonelleri için hazırlanmış olan bu bölümler, cinsiyetlere özgü tüketici davranışlarını daha etkili bir şekilde anlamayı ve bu davranışlara uygun stratejiler geliştirmeyi amaçlıyor.
+
+Elizabeth Pace, alışveriş alışkanlıklarını anlamanın sadece tüketiciye hitap eden firmalar için değil, aynı zamanda bireylerin günlük yaşantılarında karşı cinsle olan iletişimlerini geliştirmeleri açısından da önemli olduğunu vurguluyor. Bu nedenle, kitap pazarlamacılar kadar, psikoloji ve insan davranışlarına ilgi duyan okurlar için de faydalı bir kaynak niteliği taşıyor.

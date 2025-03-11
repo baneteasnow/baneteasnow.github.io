@@ -8,38 +8,47 @@ yazar: "Malene Rydahl"
 yil: "2017"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/33827779-happy-as-a-dane"
-description: "Danimarkalı Gibi Mutlu, yapılan araştırmalarda yüksek mutluluk oranları ile dikkat çeken Danimarka'nın günlük yaşamına odaklanan bir kitap."
-last_modified_at: 2023-01-14
+description: "Danimarkalı Gibi Mutlu, Malene Rydahl’in Danimarka’nın mutluluk sıralamalarındaki başarısını inceleyerek güven, iş-yaşam dengesi ve toplumsal dayanışma gibi faktörlerin bireylerin refahına nasıl katkıda bulunduğunu açıkladığı bir kitap."
+eng: "Happy as a Dane by Malene Rydahl explores Denmark’s success in global happiness rankings, explaining how factors like trust, work-life balance, and social solidarity contribute to individual well-being."
+last_modified_at: 2025-03-11
 published: true
 posted: 2017-07-22
 tag: "lifestyle"
 reread: "yes"
 rating: "5"
 num: "63"
+update: "done"
 image: "/assets/old/happy-as-a-dane.jpg"
 ---
 
-Danimarka'nın Kopenhag şehrinde doğan kitabın yazarı Malene Rydahl, 18 yaşında halen yaşamakta olduğu Paris'e yerleşmiştir. Yazar, çocukluğunu geçirdiği ülkesinde dahil olduğu Danimarka modelinin genel hatlarını kaleme aldığı Danimarkalı Gibi Mutlu kitabında anlatıyor.
+Malene Rydahl tarafından kaleme alınan Danimarkalı Gibi Mutlu, Danimarka’nın mutluluk anlayışını ve bu ülkenin dünyada en mutlu ülkelerden biri olmasının ardındaki kültürel ve sosyolojik nedenleri inceliyor. Danimarka 2012, 2013 ve 2016 yıllarında Dünya Mutluluk Raporunda birinci sırada yer aldı ve yazar, bu durumun tesadüf olmadığını vurguluyor. 18 yaşında Kopenhag’dan Paris’e taşınan Rydahl, çocukluğundan itibaren deneyimlediği Danimarka modeli ile Fransız kültürü arasındaki farkları karşılaştırarak, Danimarkalıların mutluluk anlayışının temel taşlarını sıralıyor.
 
-Danimarka 2012, 2013 ve 2016 yıllarında Dünya Mutluluk Raporu'nda ilk sırada yer almıştır. 5,6 milyon nüfusa sahip Danimarka, ülkenin coğrafi konumu nedeni ile yılın dokuz ayını soğuk geçirmektedir ve öğleden sonra saat 3'de hava kararmaktadır. 60% gelir vergisi, 170% taşıt vergisi ve 25% KDV ile dünyanın en yüksek vergi oranlarına sahiptir. Danimarka'nın en temel kültürel değerleri arasında tevazu ve sadelik vardır. Yazar, Danimarka'lıların büyük çoğunluğunun yaşamlarından gerçekten memnun olduğunun da altını çiziyor.
+Danimarka’nın iklim koşulları sert; yılın dokuz ayı soğuk, kış aylarında ise günler oldukça kısa. Gelir vergisi oranı %60, taşıt vergisi %170 ve KDV oranı %25 ile dünyanın en yükseklerinden biri. Buna rağmen, Danimarka halkı hayatlarından büyük ölçüde memnun. Yazar, bunun altında yatan kültürel faktörleri ve toplumsal değerleri detaylıca ele alıyor.
 
-Danimarkalıların mutlu olma nedenlerini incelemeden önce yazar mutluluğun tanımını için ekonomist Richard Layard'ın tanımını kullanmıştır (sayfa 11):
+Kitabın ilk sayfasında ekonomist Richard Layard’ın şu tanımı yer alıyor (s.11): Mutluluk, kişinin kendini iyi hissetmesi, hayattan keyif alması ve bu hissin devam etmesini istemesidir. Kişisel mutluluk ile toplumun mutluluğu arasındaki farkı vurgulayan Rydahl, mutluluğun sadece bireysel çabalarla değil, sosyal yapı ile de desteklendiğini belirtiyor. Psikologlar ve sosyologlar, mutluluğun insanların doğası gereği eşit olmadığını kabul etse de, çevresel faktörlerin belirleyici bir rol oynadığına dikkat çekiyor.
 
-> Mutluluk kişinin kendini iyi hissetmesidir - hayattan keyif alması ve bu hissin devam etmesini istemesidir.
+Danimarkalıların mutlu olmasının ardındaki 10 temel neden kitabın bölümlerinde detaylandırılıyor:
 
-Kişisel mutluluk ile toplumun mutluluğu farklı kavramlardır. Kişisel mutluluk oldukça öznel bir konudur ve yazar mutluluğun nesnel olarak ölçülmesi noktasındaki kaygılarını da dile getirmektedir. Psikiyatrlar, sosyologlar, nörologlar ve eğitimciler, mutluluk söz konusu olduğunda insanlar arasında eşitlik olmadığını kabul etmektedir. Mutluluk durumu pek çok dış ve iç etkenden etkilenmektedir.
+1. Güven: Danimarka, dünyada en yüksek güven oranına sahip ülkelerden biri. İnsanlar hem bireysel hem de kurumsal düzeyde birbirlerine güven duyuyor.
 
-Yazar, kendi gözlemlerine ve çeşitli araştırmalara dayanarak Danimarkalıların mutlu olmasındaki 10 sebebi kitabın bölümleri boyunca anlatmaktadır.
+2. Eğitim: Eğitim sistemi bireyin kişisel gelişimini ve becerilerini destekleyecek şekilde tasarlanmış. Elit bir sınıf yaratmaktan ziyade, herkesin eşit eğitim almasını sağlamaya odaklanıyor. Eğitim ücretsiz ve hatta öğrencilere devletten maddi destek sağlanıyor.
 
-- Güven - Danimarka dünyanın en yüksek güven oranına sahiptir.
-- Eğitim - Danimarka'da eğitim her öğrencinin kişiliğini ve becerilerini geliştirecek şekilde tasarlanmıştır; bir elit yaratmaya çalışmaz. Eğitim ücretsizdir ve hatta öğrenciler devletten yardım alırlar; dolayısıyla, eğitim herkes için erişilebilirdir.
-- Özgürlük ve Bağımsızlık - Genç Danimarkalıların neredeyse 70%'i bağımsız bir hayat sürmek üzere on sekiz yaşında evi terk ediyor; bu da ebeveynlerin sosyal baskısını büyük ölçüde önlüyor.
-- Eşit Fırsat - Dünyada en yüksek sosyal hareketliliğin yaşandığı ülke Danimarka'dır.
-- Gerçekçi Beklentiler - Danimarkalılar hayatta basit şeyleri severler. Nadiren büyük maddi servet tutkuları vardır. Nadiren büyüklük ya da en iyisi olma hayalleri kurarlar; aksine, hayatı hayatı geldiği gibi kabul ederler.
-- Dayanışma ve Başkalarına Saygı - Danimarkalıların büyük çoğunluğu, yüksek vergilerden yanadır ve refah devletine derinden bağlıdır. Herkesin katkıda bulunması kaydıyla, paylaşmak onları mutlu eder.
-- İş - Yaşam Dengesi - Aile ve boş zaman Danimarkalının hayatının önemli bir parçasıdır. Danimarkalılar zamanlarını çocukları ile geçirmek için işten akşam 5'te çıkarlar. (Hygge)
-- Parayla İlişki - Danimarkalılar genellikle para söz konusu olunca gayet rahattırlar. Çoğu için, zengin olmak bir öncelik değildir.
-- Tevazu - Bu felsefe Danimarkalılar arasında tatlı bir dizginleme duygusu yaratıyor. Onlar için önemli olan kazanmak değil, katılmak.
-- Cinsiyet Eşitliği - Her insan kalıplardan ya da tabulardan endişelenmeden, kendisi için doğru rolü seçmekte özgürdür.
+3. Özgürlük ve Bağımsızlık: Danimarkalı gençlerin yaklaşık %70’i 18 yaşına geldiğinde aile evinden ayrılıyor ve bağımsız yaşamaya başlıyor. Bu da sosyal baskıyı büyük ölçüde azaltıyor.
 
-Kitabın sonuç bölümü de kısa bir özet niteliğini taşıyor ve basit yaşam felsefelerinden 10 tanesine yer veriliyor. Kitap oldukça akıcı bir dille yazılmış ve Danimarka kültürü ve modeli hakkında çeşitli ipuçları veriyor. Yazar, Danimarka dışında yaşadığı için Danimarka kültürü ve günlük yaşamı ile Fransız kültürünü ve günlük yaşamını da yer yer karşılaştırmaktadır.
+4. Eşit Fırsatlar: Danimarka, sosyal hareketliliğin en yüksek olduğu ülkelerden biri. Kişinin hangi ekonomik veya sosyal sınıftan geldiği, hayatının ilerleyen dönemlerindeki başarısını belirlemiyor.
+
+5. Gerçekçi Beklentiler: Danimarkalılar, hayatı olduğu gibi kabul eden ve küçük şeylerden mutlu olabilen bir toplum. Büyük maddi servet hayalleri kurmak yerine, daha sürdürülebilir ve ulaşılabilir hedefler belirliyorlar.
+
+6. Dayanışma ve Başkalarına Saygı: Yüksek vergi oranlarına rağmen, Danimarka halkı refah devletine ve sosyal yardımlaşmaya büyük bir bağlılık duyuyor. Toplumun her bireyinin katkıda bulunmasını adil bir sistem olarak görüyorlar.
+
+7. İş-Yaşam Dengesi: Danimarkalılar, iş hayatını özel hayatlarından ayırmayı başarıyor. Çalışanlar genellikle akşam 5’te işten çıkıyor ve aileleriyle kaliteli zaman geçiriyor. Bu denge, Danimarka’nın meşhur hygge anlayışının da bir parçası.
+
+8. Parayla İlişki: Para, Danimarkalılar için bir statü göstergesi değil. Maddi zenginlik bir öncelik olarak görülmüyor, asıl önemli olan rahat ve huzurlu bir yaşam sürdürebilmek.
+
+9. Tevazu: Danimarka kültürü, bireylerin aşırı hırslı olmaktansa topluma katkı sağlayan bireyler olmasını teşvik ediyor. "Kazanmak değil, katılmak önemlidir" anlayışı yaygın.
+
+10. Cinsiyet Eşitliği: Danimarka, toplumsal cinsiyet eşitliğinin en güçlü olduğu ülkelerden biri. Kadın ve erkekler, toplumda ve iş hayatında eşit haklara sahip.
+
+Kitabın sonunda, Rydahl bu felsefeleri hayatına adapte etmek isteyen okuyucular için önerilerde bulunuyor. Kitap, yalnızca Danimarka’nın mutluluk modelini anlatmakla kalmıyor, aynı zamanda okuyucuya bu modeli nasıl kendi hayatına uygulayabileceğine dair ipuçları da sunuyor. Akıcı dili ve samimi anlatımıyla, mutluluk arayışındaki herkes için ilham verici bir kaynak niteliğinde.
+
+Yazar, Fransa’da yaşadığı için Danimarka modeli ile Fransız yaşam tarzını sık sık karşılaştırıyor ve her iki kültürün farklarını ortaya koyuyor. Bu da kitabı yalnızca bir Danimarka analizi değil, aynı zamanda daha geniş bir perspektiften mutluluk üzerine düşünmeyi sağlayan bir eser haline getiriyor.

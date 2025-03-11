@@ -8,7 +8,8 @@ yazar: "Peter Fleming"
 yil: "2017"
 sayfa: "263"
 goodreads: "https://www.goodreads.com/book/show/23258300-the-mythology-of-work"
-description: "Çalışmanın Mitolojisi, çalışmayı ve çalışma hayatını çeşitli açılardan ele alıyor. "
+description: "Çalışmanın Mitolojisi, çalışmayı ve çalışma hayatını çeşitli açılardan ele alıyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2017-11-11
@@ -16,6 +17,7 @@ tag: "felsefe"
 reread: "yes"
 rating: "5"
 num: "75"
+update: ""
 image: "/assets/old/the-mythology-of-work.jpg"
 ---
 
