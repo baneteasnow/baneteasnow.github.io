@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 23
+read: 24
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-03-09
+last_modified_at: 2025-03-12
 published: true
 #
 # 1
