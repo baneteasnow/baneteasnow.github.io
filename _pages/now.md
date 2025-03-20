@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 24
+read: 25
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-03-12
+last_modified_at: 2025-03-20
 published: true
 #
 # 1
@@ -62,9 +62,9 @@ pageread5: 1
 booktitle6: "The Yalom Reader"
 bookyear6: 2018
 author6: "Irvin D. Yalom"
-sayfa6: 244
+sayfa6: 576
 format6: reading as a book
-pageread6: 1
+pageread6: 576
 #
 # ⁜ {{ page.read | plus: 2 }}
 #

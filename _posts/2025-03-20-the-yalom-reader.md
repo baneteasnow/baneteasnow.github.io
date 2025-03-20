@@ -7,17 +7,17 @@ kitap: "The Yalom Reader"
 tr: "Yalom Seçkisi - Usta Terapistin ve Hikaye Anlatıcısının Çalışmalarından Seçmeler"
 yazar: "Irvin D. Yalom"
 yil: "2018"
-sayfa: "244"
+sayfa: "576"
 goodreads: "https://www.goodreads.com/book/show/94139.Yalom_Reader"
 description: ""
-last_modified_at: 2025-03-31
-published: false
-posted: 2025-03-31
+last_modified_at: 2025-03-20
+published: true
+posted: 2025-03-20
 tag: "psikoloji"
-reread: "no"
-rating: "3"
+reread: "yes"
+rating: "5"
 eng: ""
-num: ""
+num: "485"
 image: "/assets/new/the-yalom-reader.jpg"
 update: "tobeupdated"
 ---

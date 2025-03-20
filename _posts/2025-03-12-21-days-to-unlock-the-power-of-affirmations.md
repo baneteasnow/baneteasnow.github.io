@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "21 Days to Unlock the Power of Affirmations | Irvin D. Yalom (Kitap)"
