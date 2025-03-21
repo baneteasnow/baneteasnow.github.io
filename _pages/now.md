@@ -59,7 +59,7 @@ format5: reading as a book
 pageread5: 1
 #
 # 6
-booktitle6: "The Yalom Reader"
+booktitle6: ""
 bookyear6: 2018
 author6: "Irvin D. Yalom"
 sayfa6: 576
