@@ -8,57 +8,34 @@ yazar: "Jeff Jarvis"
 yil: "2010"
 sayfa: "326"
 goodreads: "https://www.goodreads.com/book/show/5100525-what-would-google-do"
-description: "Jeff Jarvis, Google Olsa Ne Yapardı isimli kitabında Google'ın neyi farklı yaptığını kendi gözlemlerine dayanarak açıklıyor."
-eng: ""
+description: "Jeff Jarvis’in Google Olsa Ne Yapardı? kitabı, Google’ın iş yapma biçimini analiz ederek bu yaklaşımın medya, kamu hizmetleri ve diğer sektörlere nasıl uyarlanabileceğini düşündürüyor."
+eng: "In What Would Google Do?, Jeff Jarvis analyzes Google’s way of doing business and explores how its principles can be applied across media, public services, and various other industries."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-22
 posted: 2018-03-17
 tag: "marka profili"
 reread: "no"
 rating: "3"
 num: "86"
-update: ""
+update: "done"
 image: "/assets/old/what-would-google-do.jpg"
 ---
 
-Gazeteci - yazar ve City University of New York'ta "Girişimci Gazetecilik" alanında ders veren Jeff Jarvis, Google Olsa Ne Yapardı isimli kitabında Google'ın neyi farklı yaptığını inceliyor ve kurulduğu tarihten bu yana neleri farklı yaparak bugünkü Google haline geldiğini kendi gözlemlerine dayanarak açıklamaya çalışıyor. Google'ın neyi nasıl yapacağından yola çıkarak farklı sektörlerde ve farklı alanlarda Google gibi düşünebilmenin ve hareket edebilmenin peşine düşüyor.
+Google’ın bugün geldiği noktayı bir tesadüf ya da sadece iyi bir teknoloji ürünü olarak görmek, konuyu yüzeyde bırakmak olur. Gazeteci-yazar Jeff Jarvis, aynı zamanda City University of New York’ta “Girişimci Gazetecilik” alanında ders veren bir akademisyen olarak, Google Olsa Ne Yapardı? kitabında Google’ın iş yapma biçimini derinlemesine inceliyor. Yalnızca bu dev şirketin neyi nasıl yaptığını değil, bu yaklaşımın farklı sektörlerde nasıl uygulanabileceğini de düşündürüyor.
 
-Kitap 'Google Kuralları' ve 'Dünyaya Google Hakim Olsaydı' ve 'G Jenerasyonu' başlıklı üç ana kısımdan oluşuyor.
+Kitap üç ana bölümden oluşuyor: Google Kuralları, Dünyaya Google Hakim Olsaydı ve G Jenerasyonu. İlk bölümde Jarvis, Google’ın nasıl düşündüğünü, nasıl organize olduğunu ve dijital çağın dinamiklerine nasıl hızla uyum sağladığını anlatıyor. Ona göre Google, bir şirketten fazlası: İnternet çağının ilk post-medya şirketi, bir ağ, bir platform ve kullanıcıyı merkezine alan bir yapı. En önemlisi de, bilgiyle kurduğu ilişki. Google bilgiyi organize eder, erişilebilir kılar ve bunu yaparken kullanıcıya kontrol verir.
 
-Yazar, kitabın ilk sayfalarında Google'ın özellerini şöyle belirliyor: İnternet çağında nasıl ayakta kalınacağını iyice anlamış, ilk post-medya şirketi, network ve platformdur. Dağıtım odaklı düşünür ve insanlara kendi gider. Kitlelerin zekasını kullanır ve kullanıcılarına saygı duyar. Kendini bir ürün olarak görmez.
+Yazarın “internet çağının kuralları” olarak aktardığı ilkeler, sadece teknoloji firmaları için değil, her sektör için düşünmeye değer:
+“Kontrolü insanlara verin, vermezseniz onları kaybedersiniz.”
+“En kötü müşteriniz en iyi arkadaşınızdır.”
+“Aranabilir değilseniz, bulanamazsınız.”
+“En iyi yaptığınız şeyi yapın ve gerisini linke bırakın.”
 
-Her fırsatta internetin yararlarını vurgulayan yazar, internetle ilgili olarak şu ana kurallara işaret ediyor:
+Google’ın kullanıcı odaklı yaklaşımı, müşteriyi pasif bir tüketici yerine aktif bir ortak haline getiriyor. Bilgi ve hizmet metalaşırken, asıl değer açık platformlar yaratmakta yatıyor. Jarvis’in vurguladığı gibi, “Google bilgiyi organize eder.” (sayfa 94) Bu organizasyon, yalnızca algoritmalarla değil, kullanıcı davranışlarının ve katkılarının doğru şekilde değerlendirilmesiyle gerçekleşiyor.
 
-- Kontrolü insanlara verin, vermezseniz onları kaybedersiniz.
-- En kötü müşteriniz en iyi arkadaşınızdır.
-- En iyi müşteriniz sizin ortağınızdır.
-- Link her şeyi değiştirir.
-- En iyi yaptığınız şeyi yapın ve gerisini linke bırakın.
-- Bir networke katılın.
-- Bir platform olun.
-- Dağıtım odaklı düşünün.
-- Aranabilir değilseniz, bulanamazsınız.
-- Herkesin Google'ın yardımına ihtiyacı vardır.
-- Açıklık faydalıdır.
-- Müşterileriniz sizin reklam ajansınızdır.
-- Ücret talep etmemek, Google ile bir işletme modeli haline gelmiştir.
+Kitabın ikinci kısmında Jarvis, Google’ın yaklaşımını medya, reklamcılık, perakende, kamu hizmetleri, üretim, bankacılık, eğitim ve sağlık gibi çok farklı alanlara uygulamayı öneriyor. Örneğin, geleneksel medya içerik üretimi ve dağıtımı üzerine kontrol sahibi olmayı önemserken, Google gibi düşünen bir yapı içerikten çok bağlantılarla değer üretmeyi önceliklendirir. Yayıncılık, eğitim ve kamu hizmetlerinde açıklık, katılım ve erişilebilirlik gibi kavramlar, Google yaklaşımıyla yepyeni anlamlar kazanıyor.
 
-Google, metalaştırmayı bir işletme stratejisine çevirmiştir. Bilgiyi de mecraları da metalaştırmıştır. Google, bilgiyi organize etmektedir. (sayfa 94)
+Jarvis’e göre Google’ın yaklaşımı sadece sektörel değil, zihinsel bir devrim. Farklı düşünmek, artık bir lüks değil, dijital çağın temel becerisi. (sayfa 310) Kitap, yalnızca şirketlerin ya da yöneticilerin okuması gereken bir analiz değil; dijital dünyada var olmaya çalışan herkesin, bireysel olarak da kendi yaklaşımını sorgulaması ve dönüştürmesi gerektiğini hatırlatan bir çağrı.
 
-Metalaştırılma tehlikesine karşı yapılabilecek en iyi şey, kitlelere kötü bir hizmet sunmaktansa, nişlere iyi bir hizmet sunmaktır. (sayfa 95)
-
-Google'ın hedefi dünyayı organize etmektir. (sayfa 161)
-
-Farklı düşünmek, Google çağının temel ürünü ve becerisidir. (sayfa 310)
-
-Yazar, kitabın ikinci kısmında, Google'ın hareket tarzının, diğer alanlara ve sektöre uyarlanması ile ilgili çeşitli örnekler paylaşıyor. Bu alanlar ve sektörler ise şöyle:
-
-- Medya (gazete, sinema, yayıncılık)
-- Reklamcılık
-- Perakendecilik (restoran, market)
-- Kamu hizmetleri (enerji, aydınlatma, telekom)
-- İmalat (otomobil, içecek)
-- Hizmet (havayolları, gayrimenkul)
-- Para (yatırım, bankacılık)
-- Kamu yararı (hastane, sigortacılık)
-- Kamu kurumları (üniversite)
+Eğer bir medya kuruluşu, bir okul, bir banka ya da bir restoran Google olsaydı… nasıl işlerdi? Jarvis’in sorusu sade ama etkili: “Google olsa ne yapardı?”
+Yanıtlar ise, bugünün iş dünyasında yeniden düşünmeye değer her şeyin ipuçlarını taşıyor.

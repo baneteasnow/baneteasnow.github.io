@@ -8,25 +8,27 @@ yazar: "Alfred Hermida"
 yil: "2017"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/20663665-tell-everyone"
-description: "Herkese Söyle, çeşitli örneklerle sosyal medyada kullanıcıların yaptıkları çeşitli paylaşımları inceliyor ve bu paylaşımların arka planını sorguluyor."
+description: "Herkese Söyle, sosyal medyanın sadece bilgi paylaşımını değil, aynı zamanda toplumsal kimliğimizi nasıl yeniden şekillendirdiğini inceliyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-22
 posted: 2018-01-06
 tag: "sosyal medya"
 reread: "yes"
 rating: "5"
 num: "81"
-eng: ""
-update: ""
+eng: "Tell Everyone explores how social media has transformed not only the way we share information, but also how we shape our collective identity, one post at a time."
+update: "done"
 image: "/assets/old/tell-everyone.jpg"
 ---
 
-Doğası gereği sosyal bir varlık olan insan, varolduğu günden bu yana çevresi ile iletişime geçerek paylaşımda bulunmaktadır. Zaman ilerledikçe iletişim yöntemlerine yenileri eklenmiştir ve bu yeni yöntemler birtakım endişeleri de beraberinde getirmiştir. Ancak, bugün oldukça popüler olan sosyal medyayı kullanmak öylesine kolaydır ki, sosyal medyanın insan hayatında yol açtığı radikal değişiklikler ilk bakışta anlaşılamayabilmektedir.
+Sosyal medya hayatımıza sessiz sedasız değil, yüksek sesle, bildirimlerle, anlık güncellemelerle ve çoğu zaman fark edilmeden yerleşti. Alfred Hermida’nın Tell Everyone isimli kitabı, bu dijital devrimi yalnızca teknolojik değil, kültürel bir dönüşüm olarak ele alıyor. Hermida’ya göre sosyal medya, sadece haber paylaşmanın ya da arkadaşlarımızla iletişimde kalmanın aracı değil; aynı zamanda toplumsal bağlarımızı yeniden tanımlayan bir iletişim yapısı.
 
-Her sosyal medya kanalının kendine has özellikleri vardır. Bazılarında sadece kısa cümleler ve linkler paylaşmak mümkünken, diğerlerinde hem video hem de resim paylaşılabilir. Ancak hepsinin ortak özelliği yapılan paylaşımların aslında halka açık olarak gerçekleşmesi ve kaydedilip arşivlendiği için aslında hiçbir zaman gerçek anlamda silinmemesidir.
+Kitabın merkezindeki temel düşünce şu: sosyal medyada yaptığımız paylaşımlar ne kadar sıradan görünürse görünsün, aslında bir toplumsal bütünün inşasına katkıda bulunuyor. Günlük hayattan kesitler, evcil hayvan fotoğrafları, sabah kahvesi üzerine birkaç kelime ya da linkli haber paylaşımları… Bunlar yalnızca dijital gürültü değil; Hermida’ya göre tam tersine, bizim kim olduğumuzu anlatan, diğerleriyle bağ kurmamızı sağlayan küçük ama etkili sosyal dokunuşlar. “Hayat boş şeylerle dolu. Bizi insan yapan da bu sıradan şeyler” derken (s.15), aslında bu içeriklerin kolektif hikâyemizin parçaları olduğunu vurguluyor.
 
-Son birkaç yılda yaşanan bazı olaylar (doğal afetler, protestolar, saldırılar, v.b.) sırasında, sosyal medya ilk akla gelen haberleşme aracı olmuştur. Güncellemeler bizzat olayın gerçekleştiği noktadan olayı yaşayanlar tarafından an ve an aktarılmıştır. Hatta bazı durumlarda sadece eğlence için olduğu düşünülen sosyal medya araçları farklı amaçlar için de kendilerine kullanım yeri bulmuştur. Bunun en önemli nedeni, hiç kuşkusuz ki, milyonlarca insana ulaşmanın en az maliyetli ve en az çaba gerektiren yolun bu araçlardan geçiyor oluşudur.
+Kitap, sosyal medyadaki kullanıcı davranışlarını sadece bireysel eğilimler olarak değil, aynı zamanda kültürel ve politik birer olgu olarak da ele alıyor. Özellikle kriz anlarında — bir doğal afet, toplumsal bir protesto ya da saldırı durumunda — sosyal medyanın bir haberleşme ağına dönüşmesi, onun gücünü net şekilde ortaya koyuyor. Bu mecraların eğlence dışında başka amaçlara da hizmet edebildiği bu gibi zamanlarda açıkça görülüyor. Kitapta bu yönün altı dikkatle çiziliyor: sosyal medya, en az çabayla en çok kişiye ulaşmanın bugünkü en etkili yolu.
 
-On yıldan kısa sürede, sosyal medya toplumun dokusunu oluşturan şeylerden birisi haline geldi. Aynı zamanda da herkesin bir görüşü olduğu. Her yemekli partinin bir noktasında, sosyal medyaya insanların öğle yemeği güncellemeleriyle ya da evcil hayvan fotoğraflarıyla dolu olduğunu söyleyerek sataşan birileri çıkar. Hayat boş şeylerle dolu. Bizi insan yapan da bu sıradan şeyler. Paylaştığımız bu görüşte önemsiz kırıntılar bizim sosyal bağlar kurmamıza yardım ediyor ve bizleri bir araya getiriyor. Her gün, dakika ve saniye, milyonlarca insan tecrübelerimizi, umutlarımızı ve korkularımızı yansıtan parçalar paylaşıyoruz. Hep birlikte, hikayemizi yazıyoruz. (sayfa 15)
+Hermida’nın analizine göre sosyal medyanın en çarpıcı özelliği sadece erişim kolaylığı değil; aynı zamanda kalıcılığı. Paylaşımlar sadece anlık değil, arşivleniyor, kayıt altına alınıyor ve gerçek anlamda hiçbir zaman silinmiyor. Bu da her paylaşımı bir tür kamusal eyleme dönüştürüyor. Kimi zaman bu durum bireysel ifade özgürlüğünü desteklerken, kimi zaman da mahremiyet tartışmalarını gündeme getiriyor.
 
-Herkese Söyle, çeşitli örneklerle sosyal medyada kullanıcıların yaptıkları çeşitli paylaşımları inceliyor ve bu paylaşımların arka planını sorguluyor.
+Yazar, sosyal medyayı salt teknik bir yenilik değil, alışkanlıklarımızı, bilgiye ulaşım biçimimizi ve haber alma refleksimizi dönüştüren bir paradigma olarak sunuyor. Geleneksel medyanın tek yönlü yapısının aksine, sosyal medya herkesin yayıncı olduğu bir alan. Bu dönüşüm, “haber” kavramını da yeniden tanımlıyor: Artık haberi yalnızca gazeteciler üretmiyor, olay yerindeki sıradan bir birey de bir tweet ya da fotoğraf ile dünyanın dikkatini çekebiliyor.
+
+Herkese Söyle, sosyal medya hakkında sıkça karşılaştığımız yüzeysel yaklaşımların ötesine geçerek, bu platformların insan ilişkileri, kamusal alan ve kolektif hafıza üzerindeki etkilerini derinlemesine inceliyor. Hermida, dijital çağda bireylerin yalnızca bilgi tüketicisi değil, aynı zamanda aktif bilgi üreticisi haline geldiğini hatırlatıyor. Ve bunu yaparken sadece istatistiklere değil, gündelik dijital deneyimlerimize de kulak veriyor.

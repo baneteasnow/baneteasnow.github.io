@@ -8,8 +8,8 @@ yazar: "Ha-Joon Chang"
 yil: "2015"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism"
-description: ""
-eng: ""
+description: "Ha-Joon Chang’in Kapitalizm Hakkında Size Söylenmeyen 23 Şey kitabı, serbest piyasa ideolojisinin sorgulanmamış kabullerini eleştirerek kapitalizmin farklı şekillerde işlemesinin mümkün olduğunu anlaşılır ve çarpıcı bir dille anlatıyor."
+eng: "23 Things They Don’t Tell You About Capitalism by Ha-Joon Chang challenges the unquestioned assumptions of free-market ideology, showing in a clear and provocative way that capitalism can — and should — work differently."
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-12-23
@@ -17,49 +17,26 @@ tag: "ekonomi"
 reread: "no"
 rating: "4"
 num: "80"
-update: ""
+update: "done"
 image: "/assets/old/23-things-they-dont-tell-you-about-capitalism.jpg"
 ---
 
-Eğer kendi başlarına bırakılırsa piyasaların en iyi sonuçlar üreteceği anlayışına dayanan serbest piyasa ekonomisi 1980'lerden beri dünyada giderek yaygınlaştı. Pek çok ülke, son otuz yılda serbest piyasa politikalarına geçerek kamu sanayiini ve finans kuruluşlarını özelleştirdi; finans ve sanayi üzerindeki devlet kontrollerini kaldırdı; uluslararası ticaret ve yatırım serbestleştirildi; gelir vergisi ve sosyal yardım ödenekleri kesintiye uğradı. Ancak etkileri uzun süre devam eden 2008 küresel ekonomik krizi Büyük Buhran (The Great Depression)'dan bu yana tarihteki en büyük ikinci ekonomik kriz olma özelliğini koruyor.
+Ha-Joon Chang’in Kapitalizm Hakkında Size Söylenmeyen 23 Şey adlı kitabı, serbest piyasa ekonomisinin kutsal bir dogma gibi sunulduğu günümüzde, bu anlatıya karşı dikkat çekici ve sade bir karşı duruş sunuyor. Yazar, “serbest piyasa en iyi sistemdir” şeklindeki genel kanıyı sorgularken, sistemin işleyişine dair hem tarihsel hem yapısal eleştirilerde bulunuyor. Ama bu kitap bir anti-kapitalizm manifestosu değil; tam tersine, Chang kapitalizmi bir bütün olarak reddetmiyor. Onun hedefi, son otuz yıldır dünyanın neredeyse tartışmasız bir şekilde benimsediği, neoliberal ilkeler üzerine kurulu serbest piyasa kapitalizmi.
 
-Kitabın yazarı Ha-Joon Chang, "Kapitalizm Hakkında Bize Söylenmeyen 23 Şey" başlıklı kitabında dünya ekonomisinin işleyişine dair doğru bilinen yanlışların neden "yanlış" olduğunu anlaşılır bir dille açıklıyor. Kitabı okumak için herhangi bir ekonomi - iktisat bilgisine ihtiyaç yok, sadece dünya ekonomisini biraz takip etmiş olmak yeterli.
+Chang kitabın önsözünde, “Kapitalizmin halen insanlığın yaratmış olduğu en iyi ekonomik sistem olduğuna inanıyorum,” diyor. Ancak ekliyor: “Kapitalizmin yalnızca serbest piyasa şeklinde işleyebileceği fikri doğru değil.” İşte kitap boyunca bizi bekleyen şey, bu fikirle hesaplaşma süreci. Her biri kısa, öz ve çarpıcı başlıklarla sunulan 23 bölümde, yaygın ekonomik inançların neden yanlış veya eksik olduğunu gözler önüne seriyor.
 
-Yazar, önsözde kitapla ilgili olarak şu açıklamaya yer veriyor:
+Kitap özellikle 2008 Küresel Ekonomik Krizi sonrasında anlamını yitiren neoliberal vaatleri daha yakından sorguluyor. O krizi, “Büyük Buhran”dan sonraki en büyük sarsıntı olarak tanımlayan Chang, kriz sonrası dönemde bile bu ekonomik modelin hâlâ neden sorgulanmadığını anlamaya çalışıyor. Ve bu sorgulamalarını oldukça erişilebilir bir dille yapıyor. Okuyucunun ekonomi eğitimi olmasına gerek yok; dünya ekonomisini biraz takip etmiş biri, Chang’in söylediklerini rahatlıkla takip edebiliyor.
 
-> Bu kitapta size kapitalizm hakkında serbest piyasacıların (neo-liberal ekonomistler) söylemeyeceği bazı önemli gerçekleri anlatmayı amaçlıyorum. Bu kitap anti-kapitalist bir manifesto değil. Serbest piyasa ideolojisini eleştirmek kapitalizm karşıtı olmakla bir değildir. Sorunlarına ve sınırlarına rağmen, kapitalizmin halen insanlığın yaratmış olduğu en iyi ekonomik sistem olduğuna inanıyorum. Benim eleştirdiğim, kapitalizmin son otuz yıldır dünyaya egemen olan şekli: serbest piyasa kapitalizmi. Son otuz yıla baktığımızda görüyoruz ki, kapitalizm sadece veya en iyi şekilde böyle yürütülmez. Bu kitapta kapitalizmi iyileştirmek için yapılabilecekler ve yapılması gerekenler anlatılıyor.
+Kitapta ele alınan her “şey”, yani her başlık, aslında bir efsaneyi hedef alıyor. Örneğin, “Serbest piyasa diye bir şey yoktur” başlıklı ilk bölümde, piyasaların ‘doğal’ bir düzene sahip olduğu fikrinin bir yanılsama olduğunu savunuyor. Ona göre her piyasa, bir kurallar bütünü tarafından şekillendirilir ve bu kuralların nasıl belirlendiği tamamen siyasidir. Yani bir piyasada çocuk işçiliği yasaksa, bu bir siyasi karardır; öyle olmasa, çocuk emeği de “serbest piyasa”nın bir parçası sayılabilirdi.
 
-Kitap, başlıkta da yer aldığı gibi, toplam 23 bölümden oluşuyor. Her bölümün başında, bölüm başlığı hakkında "söylenenler" ve "söylenmeyenler" aktarılıyor ve konu bölüm boyunca farklı başlıklar altında inceleniyor. Kitabın içinde yer alan bölümler şöyle:
+Kitabın bir başka çarpıcı bölümünde, çamaşır makinesinin internetten daha büyük bir dönüşüm yarattığını söylüyor Chang. Bunun nedeni, internetin bilgiye erişimi kolaylaştırmasına rağmen çamaşır makinesinin kadınların ev içi emeğini azaltarak iş gücüne katılımlarını sağlaması ve toplumsal yapı üzerinde daha doğrudan bir etkisi olması (sayfa 18-19). Bu tür örneklerle, teknolojik ilerlemenin nasıl ve kimin hayatında nasıl bir dönüşüm yarattığını da sorgulamaya davet ediyor.
 
-- Serbest piyasa diye bir şey yoktur
-- Şirketler sahiplerinin çıkarlarına göre yönetilmemelidir
-- Zengin ülkelerde çoğu kişi gerekenden fazla maaş alıyor
-- Çamaşır makinesi dünyayı internetten daha çok değiştirdi
-- İnsanlar hakkında en kötüsünü düşünürsek, başımıza en kötüsü gelir
-- Daha büyük makroekonomik istikrar, dünya ekonomisinin istikrarını arttırmadı
-- Serbest piyasa politikaları fakir ülkeleri nadiren zenginleştirir
-- Sermayenin milliyeti olur
-- Sanayi sonrası çağda yaşamıyoruz
-- ABD dünyadaki en yüksek yaşam standartlarına sahip ülke değil
-- Azgelişmişlik Afrika'nın kaderi değil
-- Hükümetler kazananları belirleyebilir
-- Zenginleri daha da zenginleştirmek hepimizi zenginleştirmez
-- ABD'de yöneticilerin maaşları gereğinden yüksektir
-- Fakir ülkelerdeki insanlar zengin ülkelerdeki insanlardan daha girişimci
-- Piyasayı kendi haline bırakacak kadar akıllı değiliz
-- Daha fazla eğitim bir ülkeyi daha da zenginleştirmez
-- General Motors için iyi olan bir şeyin mutlaka ABD için de iyi olacağı söylenemez
-- Komünizm yıkıldı ama planlı ekonomi ayakta
-- Fırsat eşitliği adil olmayabilir
-- Büyük hükümetler insanları değişikliğe daha açık hale getiriyor
-- Finansal piyasaların daha çok değil, daha az verimli olması lazım
-- İyi ekonomi politikaları iyi ekonomistler gerektirmez
+Chang’in altını çizdiği bir diğer önemli nokta da zengin ülkelerdeki ayrıcalıkların sorgulanması. Örneğin, “Zengin ülkelerde çoğu kişi gerekenden fazla maaş alıyor” başlıklı bölümde, ücretlerin adil rekabet sonucu değil, küresel emek piyasasındaki dengesizlikler ve göç sınırlamaları gibi koruyucu önlemler sayesinde bu düzeyde kaldığını savunuyor. Aynı zamanda, “fakir ülkelerdeki insanlar daha girişimci” diyerek, yoksulluğun tembelliğe yol açtığına dair klişeleri ters yüz ediyor.
 
-Kitabın başında, 'kitabı okumanın yedi yolu' başlığı ile kısa bir rehbere de yer veriliyor. Bu kısımda aşağıdaki okuyucular için okunması gereken bölümler öneriliyor:
+Kapitalizm içinde hükümetin rolüne de değinen Chang, “Hükümetler kazananları belirleyebilir” başlıklı bölümde, devletin piyasaya müdahalesini savunuyor. Ona göre, başarılı olmuş birçok şirket ya da sektör aslında doğrudan ya da dolaylı devlet desteğiyle büyümüş durumda. Yani hükümetler, doğru politikalarla piyasalarda yön tayin edebilir; bu da serbest piyasacıların iddialarına aykırı bir durum.
 
-- Kapitalizmin ne olduğundan bile emin olmayanlar için
-- Politikanın zaman kaybı olduğunu düşünenler için
-- Sürekli gelir artışı ve teknolojik ilerlemeye rağmen, hayatın neden daha iyiye gitmediğini merak edenler için
-- Bazı insanların daha yetenekli, iyi eğitimli ve girişimci oldukları için diğerlerine göre daha zengin olduklarını düşünenler için
-- Fakir ülkelerin neden fakir olduklarını ve nasıl zenginleşebileceklerini öğrenmek isteyenler için  
-  Dünyanın adil bir yer olmadığını, ancak bu konuda da yapılacak pek fazla şey olmadığını düşünenler için
+Yine dikkat çekici bölümlerden biri olan “İyi ekonomi politikaları iyi ekonomistler gerektirmez”, ekonomik kararların sadece teknik bilgiye değil, değer yargılarına da dayandığını ortaya koyuyor. Chang’e göre, ekonomi sadece matematiksel formüllerle ilerleyen bir bilim değil; sosyal adalet, eşitlik ve uzun vadeli düşünceyi de kapsayan bir ahlaki sistem. Bu yüzden, “daha fazla eğitim daha fazla zenginlik getirir” ya da “her şey fırsat eşitliğiyle çözülür” gibi iddiaların da altını dikkatlice çizerek sorguluyor.
+
+Kitabın başında “okuma yolları” başlığı altında sunulan kısa rehber ise oldukça faydalı. Okuyucunun hangi motivasyonla bu kitaba yaklaştığına göre bölümler öneriliyor: Kapitalizmin ne olduğunu anlamaya çalışanlar, neden eğitim ve büyüme olmasına rağmen hayatın kolaylaşmadığını merak edenler, ya da yoksulluğun ‘kaçınılmaz’ olduğuna inananlar için ayrı rotalar var.
+
+Kapitalizm Hakkında Size Söylenmeyen 23 Şey, ekonomik sisteme eleştirel bir bakış atmak isteyen herkes için ufuk açıcı, düşündürücü ve yer yer kışkırtıcı bir kaynak. Sadece akademik bir tartışma sunmuyor; aynı zamanda yaşadığımız ekonomik gerçekliğin günlük hayatımızı nasıl şekillendirdiğini de anlamamıza yardımcı oluyor.

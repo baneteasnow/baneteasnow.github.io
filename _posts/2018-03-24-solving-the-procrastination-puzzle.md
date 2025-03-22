@@ -8,31 +8,27 @@ yazar: "Timothy A. Pychyl"
 yil: "2016"
 sayfa: "120"
 goodreads: "https://www.goodreads.com/book/show/18079767-solving-the-procrastination-puzzle"
-description: "Timothy A. Pychyl, Prokrastineyşın'da savsaklama alışkanlığını ve bu alışkanlıkla mücadele yöntemlerini anlatıyor."
-eng: ""
+description: "Timothy A. Pychyl’nin Prokrastineyşın kitabı, erteleme davranışının aslında bir zaman değil duygu yönetimi sorunu olduğunu sade, net ve bilimsel bir dille ortaya koyuyor."
+eng: "Timothy A. Pychyl’s Procrastination reveals, with clarity and scientific insight, that procrastination is not a time management issue but an emotional regulation challenge."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-22
 posted: 2018-03-24
 tag: "üretkenlik ve teknoloji"
 reread: "yes"
 rating: "5"
 num: "87"
-update: ""
+update: "done"
 image: "/assets/old/solving-the-procrastination-puzzle.jpg"
 ---
 
-Psychology Today için Don't Delay isimli bir blog yazısı yazan Timothy A. Pychyl'nin savsaklama alışkanlığı ve bu alışkanlıkla mücadele yöntemleri üzerine kaleme aldığı Prokrastineyşın - Başlanıp Bitirilmesi Gereken İşleri İnatla Erteleme, Savsaklama ve Oturup Çalışmak Yerine Ivır Zıvır Şeylerle Oyalanma Alışkanlığıyla Mücadele Kılavuzu isimli kitabı 2016 yılında Metropolis Kitap tarafından basılmış.
+Timothy A. Pychyl’nin Prokrastineyşın kitabı, hepimizin zaman zaman içinde debelendiği o tanıdık döngüyü masaya yatırıyor: “Yapmam gerek, biliyorum… ama neden hâlâ başlamıyorum?” Psikoloji profesörü olan Pychyl, hem akademik bilgisini hem de kendi deneyimlerini bir araya getirerek, bu erteleme alışkanlığının ardındaki psikolojik dinamikleri sade ama çarpıcı bir dille anlatıyor. Yazar, bu kitabı daha önce Psychology Today için yazdığı “Don’t Delay” başlıklı yazının içeriğini temel alarak kaleme almış.
 
-Toplam 10 bölümden oluşan kitap, her bölümün başında yaygın olarak görülebilecek kısa bir örnek senaryo verilmiş. Bu örnekten hareketle, meselenin ne olduğu ve değişim stratejisi geliştirmek için ne yapmak gerektiği inceleniyor.
+Okurken ister istemez insanın kendisiyle yüzleşmesini sağlayan bir kitap bu. Her bölümün başında yer alan günlük hayat örnekleriyle, kendini o sahnede görmek işten bile değil: serken kalkmaya söz verip erteleme tuşuna basmak, haftalardır başlanmayan bir projeyi düşünürken önce mutfağı temizlemeye girişmek, ya da sadece birkaç dakikalık bir işi erteliyor olmanın yarattığı suçluluk hissi… Bu örneklerden yola çıkarak yazar, savsaklama davranışının ne olduğunu açıkça ortaya koyuyor: “Yapılması gereken bir işi, yapılabilir olduğu hâlde, sırf gönülsüzlük yüzünden bilerek ve isteyerek ertelemek.” (sayfa 24) Bu tanım önemli çünkü her erteleme davranışı prokrastinasyon sayılmıyor. Zaman yönetimi kaynaklı gecikmeler ya da başka acil bir işin devreye girmesi, bu kapsama girmiyor. Kitabın altını çizdiği nokta şu: Asıl mesele zaman değil, duygular.
 
-Savsaklama davranışı ile mücadele için öncelikle neyin bu kapsama girdiği ve bu davranışı gösteren kişi üzerindeki olumsuz etkisinin ne olduğunun iyi anlaşılması gerekiyor. Kitapta yer alan tanım şöyle (sayfa 24):
+Pychyl’ye göre savsaklama aslında bir duygu düzenleme stratejisi. Yani o işe başlamamak, o an yaşadığımız huzursuzluk ya da sıkıntıyı azaltmanın bir yolu gibi. Kısa vadede işe yarar gibi görünse de uzun vadede suçluluk, stres ve kendine güven kaybı gibi sonuçları beraberinde getiriyor. Kitap boyunca bu içsel çelişkiyle nasıl baş edilebileceğine dair ipuçları veriliyor. Örneğin, alışkanlıkların nasıl yerleştiği ve neden kırılması zor olduğu açıklanırken, “otomatik pilot”ta ilerleyen bir zihnin yeni davranışları neden dirençle karşıladığı detaylandırılıyor. (kitabın ilerleyen bölümlerinde)
 
-Savsaklama davranışı, yapılacak bir işin veya faaliyetin bile isteye ertelenmesidir; hem de bu ertelemenin kişinin iş verimliliğini ve hatta söz konusu faaliyete veya bizzat kendisine dair hissiyatını olumsuz yönde etkileyebileceğini bile bile. Savsaklamak, bile isteye, boş yere ertelemektir.
+Yazar, sadece “başla” demekle yetinmiyor. Başlamanın önemli ama yeterli olmadığını, iradenin ve özellikle küçük ama sürdürülebilir adımların bu süreçte ne kadar kritik olduğunu hatırlatıyor. Kitabın önerisi net: Kendini disipline etmek tek başına çözüm değil, ama farkındalıkla gelen küçük kararlar ve bu kararları destekleyen davranışlar, uzun vadede işe yarıyor. Bu nedenle, “küçük bir listeyle başla” tavsiyesi yalnızca pratik değil, aynı zamanda zihinsel olarak da ulaşılabilir bir ilk adım sunuyor.
 
-Her erteleme "savsaklama" olarak sayılmamalıdır. Günlük programda son anda çıkan -gerçekten önemli ve halledilmesi gereken- bir iş yüzünden diğer işlerin ertelenmesi savsaklama davranışı olarak tanımlanamaz. Hemen şimdi harekete geçip o işi halletmek için herhangi bir engel bulunmuyorken, sırf gönülsüzlük nedeni ile işin ertelenmesi, o işle kasıtlı olarak ilgilenmemek ise savsaklama davranışıdır. Bu nedenle, aslında mücadele edilmesi gereken şey, bu gönülsüzlük ve isteksizlik halidir.
+Kısa, anlaşılır ve rehber gibi okunabilir bir formatta sunulan kitap, konuyu akademik bir soğuklukla değil; okuyucunun kendi hayatından kesitlerle ele alıyor. Bilimsel dayanaklı ama pratik bir dille yazılmış olması, kitapta anlatılanların sadece “bilgi”de kalmasını değil, davranışa da dönüşmesini sağlıyor. Özellikle de irade, özdenetim, zaman yönetimi ve kişisel sorumluluk gibi kavramların birbirine nasıl bağlı olduğunu görmek açısından oldukça öğretici.
 
-Alışkanlıkları, özellikle de uzun süredir devam eden artık bilinçsiz olarak yapılanları değiştirmek hiç kolay olmadığı için, kitap bilinçli bir değişim stratejisi ve çaba gerektiğinin altını çiziyor; birtakım yeni kararlar almaya ve kısa listeler yaparak yola çıkmaya teşvik ediyor.
-
-Hemen bir işe başlamak, ilk zamanlar için etkili olsa da, kitapta da vurgulandığı gibi, başlamak asla bir sihirli değnek değildir, başlamak bitirmeyi garantilemez. İrade ve kişilik özelliklerinin ne derecede etkili olduğu da kitapta yer alan konular arasında.
-
-Kitap, bir rehber niteliğinde ve özellikle kısa ve kolay okunur olarak hazırlanmış.
+Kitap, “neden sürekli erteliyorum?” sorusunu tekrar tekrar sorarken, cevabı dışsal faktörlerde değil, içsel tepkilerimizde bulmamızı sağlıyor. Ve belki de en önemlisi şu: Savsaklamak bir karakter zayıflığı değil, öğrenilmiş bir alışkanlık. Bu da demek oluyor ki, bu alışkanlık değiştirilebilir. Ancak bunun için, hem kendine karşı dürüst olmak hem de bu dürüstlüğü sabırla sürdürmek gerekiyor.
