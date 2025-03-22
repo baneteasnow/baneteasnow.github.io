@@ -8,35 +8,27 @@ yazar: "Peter H. Diamandis, Steven Kotler"
 yil: "2013"
 sayfa: "397"
 goodreads: "https://www.goodreads.com/book/show/13187824-abundance"
-description: "Bolluk, dünyada her şeyin daha kötüye gitmediğini düşündürecek gelişmeleri paylaşıyor."
+description: "Bolluk, kaynakların kıtlığına odaklanan karamsar bakış açısını tersine çevirerek, teknolojinin yardımıyla herkes için daha adil ve yaşanabilir bir geleceğin mümkün olduğunu savunuyor."
+eng: "Abundance challenges the scarcity-driven pessimism of our times, arguing that with the help of technology, a more equitable and livable future for all is not only possible but already underway."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-22
 posted: 2017-12-02
 tag: "gelecek ve trendler"
 reread: "yes"
 rating: "5"
 num: "78"
+update: "done"
 image: "/assets/old/abundance.jpg"
 ---
 
-'Dünya daha iyiye mi gidiyor?' sorusuna pek çok kişi muhtemelen olumsuz cevap verecektir. Haberlerin, yaşanan krizlerin ve sorunlu dönemeçlerin bu çıkarımda etkisinin büyük olduğu tartışma götürmez. Bolluk isimli kitapta ise yazarlar Peter H. Diamandis ve Steven Kotler, bu olumsuz bakış açısının kırılabilmesi için aslında her şeyin kötüye gitmediğini düşündürecek gelişmeleri paylaşıyorlar. Bu gelişmeler arasında, bilim, mühendislik, sosyal trendler ve ekonomik kuvvetlerle ilgili olanlar var.
+Dünya giderek daha mı kötüye gidiyor? Krizler, savaşlar, iklim felaketleri ve yoksullukla ilgili manşetler bu soruya çoğu insanı “evet” demeye zorluyor. Ama Peter H. Diamandis ve Steven Kotler, Bolluk adlı kitaplarında tam tersini söylüyor: Gelecek aslında düşündüğümüzden çok daha iyi olabilir. Üstelik bu yalnızca iyimser bir temenni değil; bilimsel gelişmeler, teknolojik inovasyonlar ve toplumsal değişim dinamikleriyle desteklenen bir tez.
 
-Yazarlar, Maslow'un İhtiyaçlar Hiyerarşisini dayanak alarak oluşturdukları Bolluk Piramidi ile teknoloji sayesinde gereksinim katlarındaki yükselişi açıklıyorlar:
+Kitapta yazarlar, Maslow’un İhtiyaçlar Hiyerarşisini temel alarak “Bolluk Piramidi” adını verdikleri bir model sunuyorlar. Bu modelle, teknolojinin insanlığın temel ihtiyaçlarını nasıl daha erişilebilir hale getirdiğini anlatıyorlar. Piramidin en alt katmanında gıda, su ve barınma gibi temel ihtiyaçlar yer alırken; enerji, eğitim, bilgiye erişim, sağlık ve özgürlük gibi daha karmaşık ihtiyaçlara doğru yukarı çıkılıyor. Yazarların temel iddiası şu: Kaynaklar aslında az değil, çoğu zaman erişim sınırlı. Ve teknoloji bu engelleri kaldırmak için elimizdeki en güçlü araç (sayfa 19).
 
-- Sağlık - Özgürlük
-- Enerji - Eğitim - Yaygın İletişim, Enformasyona Erişim
-- Gıda - Su - Barınak
+Kitabın ilk bölümlerinde, insanlığın kıtlığa dair algısının aslında tarihsel bir refleks olduğuna dikkat çekiliyor. Yani kıtlık dediğimiz şey çoğu zaman bağlamla ilgilidir. Güneş ışığı örneğin hep boldu, ama ancak güneş panelleriyle bu enerjiye erişip faydalanabilir hale geldik. Aynı durum gıda üretimi, temiz su, sağlık hizmetleri ve eğitim için de geçerli. Teknoloji sayesinde bir zamanlar yalnızca küçük elit kesimlerin ulaşabildiği imkanlar, bugün geniş kitlelere açılıyor.
 
-Tarihte bir zamanlar ender bulunan ve sonra inovasyon sayesinde bollaşan çok kaynak vardır. Bunun nedeni çok açık: bir şeyin nadirliği çoğunlukla bağlama göre değişir. (sayfa 18-19)
+Diamandis ve Kotler, özellikle sağlık alanındaki gelişmelere geniş yer veriyor. Genetik mühendisliğinden yapay organlara, nanoteknolojiden yapay zekâ destekli teşhislere kadar birçok yeniliğin yaşam kalitesini dramatik şekilde artırdığı örnekleniyor. Su arıtma teknolojileri, dikey tarım sistemleri, ucuz güneş panelleri ve uzaktan eğitim platformları gibi çözümler de “bolluğun” şimdiden mümkün olduğunu gösteriyor. Kitap boyunca pek çok girişimci, mucit ve sosyal yenilikçiyle tanıştırılıyoruz; onların çalışmaları, iyimserliği somut hale getiriyor.
 
-Teknoloji kaynaklara serbestlik kazandıran bir mekanizmadır. Bir zamanlar ender bulunan şeyleri bollaştırır. (sayfa 19)
+Elbette yazarlar Pollyannacılık yapmıyor. Gezegendeki doğal kaynakların şu anda sürdürülebilir bir hızla tüketilmediğini ve birçok gelişmenin hâlâ eşitsiz dağıldığını da açıkça kabul ediyorlar. Mesela herkes ortalama bir Avrupalı gibi yaşamak istese, üç dünya; Kuzey Amerikalı gibi yaşamak istese, beş dünyaya ihtiyacımız olurdu diyorlar (sayfa 20). Ama burada umudu yitirmek yerine, sorunları çözme potansiyelimize odaklanmamızı öneriyorlar.
 
-Teknolojinin gözüyle baktığınızda, gerçek anlamda kit kaynak çok azdır; asıl sorun bunların erişilebilir olmamasındadır. Ancak gene de kıtlık tehlikesi dünya görüşümüze hakimdir. (sayfa 20)
-
-Şu anda insanoğlu gezegenimizdeki doğal kaynakların, yerine yenisini koyabileceğimizden yüzde 30 daha fazlasını kullanıyor. Bugün dünyadaki herkes ortalama bir Avrupalı gibi yaşamaya kalksa, bunu sürdürebilmemiz için üç gezegenin kaynağına ihtiyacımız olurdu. Yeryüzündeki herkes ortalama bir Kuzey Amerikalı gibi yaşamak istese, o zaman da bunu kaldırabilmek için, beş gezegenin kaynağına ihtiyaç duyardık. (sayfa 20)
-
-Kitabın bakış açısına göre bolluğun tanımı:
-
-> Bolluk bu dünyadaki herkese lüks bir yaşam sağlamak demek değil, daha çok herkese olanaklar sunan bir yaşam sağlamak demek.
-
-Kitabın birinci kısmının ilerleyen sayfaları Bolluk Piramidini inceleyerek bolluk vaadinin mümkün olup olmadığını sorguluyor, olumlu düşünmeye karşı bazı önyargıları masaya yatırıyor.
+Bolluk, yalnızca bir teknoloji kitabı değil. Aynı zamanda insan doğasına, algılarımıza ve geleceğe dair inanç sistemlerimize yönelik derin bir sorgulama. Negatif haberlere boğulmuş bir dünyada, daha geniş açıdan bakabilmeyi ve fırsatları görebilmeyi öneriyor. Yazarların dediği gibi: “Bolluk, herkese lüks bir yaşam sunmak değil; herkese olanaklar sunan bir yaşam inşa etmektir.”

@@ -8,33 +8,33 @@ yazar: "Peter Fleming"
 yil: "2017"
 sayfa: "263"
 goodreads: "https://www.goodreads.com/book/show/23258300-the-mythology-of-work"
-description: "Çalışmanın Mitolojisi, çalışmayı ve çalışma hayatını çeşitli açılardan ele alıyor."
-eng: ""
+description: "Peter Fleming’in Çalışmanın Mitolojisi kitabı, çalışmanın modern toplumda bir yaşam biçimi ve kimlik haline nasıl geldiğini sorgulayan eleştirel bir analiz sunuyor."
+eng: "The Mythology of Work by Peter Fleming offers a critical analysis of how work has transformed into a way of life and a core identity in modern society."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-22
 posted: 2017-11-11
 tag: "felsefe"
 reread: "yes"
 rating: "5"
 num: "75"
-update: ""
+update: "done"
 image: "/assets/old/the-mythology-of-work.jpg"
 ---
 
-Çalışmayı ve çalışma hayatını çeşitli açılardan ele alan Çalışmanın Mitolojisi, çalışmak ile yaşamak kavramlarının ayrılmaz biçimde iç içe geçmesinden ötürü çalışma fikrini sorgulamanın yaşamın kendisini sorgulamaya benzediğini vurgulayarak başlıyor.
+Çalışmak nedir? Sadece hayatı sürdürmek için yapılan bir zorunluluk mu, yoksa kimliğimizin ayrılmaz bir parçası mı? Peter Fleming, Çalışmanın Mitolojisi kitabında bu soruyu en temelinden tartışmaya açıyor. Kitap, çalışmanın artık sadece geçim kaygısıyla yapılan bir faaliyet olmadığını, adeta yaşam tarzına dönüştüğünü anlatıyor. Yazar, çalışmanın hem bireysel hem de toplumsal düzeyde nasıl bir mitolojiye dönüştüğünü gözler önüne sererken, okuru rahatsız edecek ölçüde dürüst ve net.
 
-Kitapta açıklandığı üzere, pek çok kişi, çalışmanın ötesinde bir yaşam görmekte zorlanırken, dünya adeta, kişinin işinin etrafında dönüyor gibidir. Çalışmaya devam etmenin öncelikli nedeni, yaşamı devam ettirmek yani faturaları ödeyebilmektir. Yaşamak için gerekli parayı kazanmanın ötesine geçildiğinde, yani artık kişi maddi anlamda zenginleşmeye başladığında, çalışmaya devam etmenin gerekçeleri farklılaşır. Ekonomik kriz ve belirsizlik dönemlerinde çalışma temposu daha da hızlanır. Ofiste geçirilen saatler uzasa da, maddi karşılığı aynı kalır, ancak 'mevcut' korunmuş olur.
+Kitabın ilk sayfalarında, çalışmanın sadece bir iş olarak kalmadığını, günümüzde “Ben, İş” olarak adlandırılabilecek bir kimliğe dönüştüğünü anlatıyor Fleming. Tatildeyken bile mailleri kontrol etmek, gece saatlerinde patronlardan gelen mesajlara cevap vermek ya da sadece işe uygun görünmek için kişisel bakım harcamaları yapmak artık sıradanlaştı. Bu durumun bireyin bedenini, zamanını ve zihnini nasıl ele geçirdiğini anlatan cümleler oldukça çarpıcı: “Çalışmak başka şeylerin yanı sıra yapılan bir şey olmaktan çıkıp bireyin kendisi olan bir şeye dönüşmüştür.” (sayfa 13)
 
-Ofiste geçirilen saatler uzasa bile, ofisten çıkışta, yolda, evde hatta tatilde, kısaca internetin ve mobil cihazların kullanılabilir olduğu herhangi bir noktada iş devam etmektedir. Mobil teknoloji ile her zaman işle bir temas noktası vardır.
+Günümüz çalışma hayatının giderek daha kaotik ve güvencesiz hale geldiğini vurgulayan yazar, neoliberal düzenin ‘serbest piyasa’ ilkeleriyle çalışma ilişkilerini dönüştürdüğünü anlatıyor. Bu dönüşümün bir sonucu olarak, insanlar artık sadece iş saatlerinde değil, sürekli olarak işle “temasta” kalıyorlar. Ofisten çıkmak, işin bitmesi anlamına gelmiyor. Mobil teknolojiler, işin eve, hatta yatağın kenarına kadar gelmesine neden olmuş durumda.
 
-Çalışmak başka şeylerin yanı sıra yapılan bir şey olmaktan çıkıp bireyin kendisi olan bir şeye dönüşmüştür. Çalışmak 7/24 devam eden bir hayat tarzı olmuştur. İnsanın sosyal yönü üretimin bir parçası haline gelmiştir. Yazar, bu durumu 'Ben, İş' fonksiyonu olarak isimlendirmiştir.
+Fleming’in dikkat çektiği bir diğer nokta ise, insanların artık çalışmanın ötesinde bir hayatı tahayyül etmekte zorlanmaları. İşten kopmak neredeyse imkânsız hale gelmiş. Kapitalizm, çalışmayı sadece bir ekonomik zorunluluk olmaktan çıkarıp bir tür moral norm haline getiriyor. Artık çalışmayan biri, sadece gelirden değil, aynı zamanda sosyal kabulden de mahrum kalıyor.
 
-Kitapta yer alan bilgiye göre, Batılı toplumlarda çalışan insanların neredeyse yarısı ekonomik güvenceden yoksundur ve dünyanın büyük kentlerinde çalışma gününün ilk saatinin kazancı, o günün yol masraflarına gitmektedir. (sayfa 11)
+Kitapta yer alan araştırmalar da bu tabloyu destekliyor. Örneğin, 2011-2012 yıllarında Gallup tarafından 142 ülkede yapılan bir çalışmaya göre, küresel iş gücünün yalnızca %13’ü kendisini işine gerçekten bağlı hissediyor. %63’lük bir kesim, işi yalnızca yerine getirilen bir zorunluluk olarak görüyor. %23’lük bir kesim ise işe karşı aktif bir ilgisizlik gösteriyor; yani hem fiziksel hem duygusal olarak işten kopmuş durumdalar (sayfa 56).
 
-Birçoğumuz, bir zamanlar ebeveynlerimizin ya da onların ebeveynlerinin yaptığı gibi salt ise gidip gelmiyoruz. Çalışmak, sadece sembolik (kültürel) gerekçelerle değil, pratik gerekçelerle de bir hayat tarzıdır. Örgütlerin (maliyetlerden tasarruf etmek için) modernleşmesi ve 'serbest piyasa' ilkeleri (örneğin rekabetçi bireycilik, performans teşvikleri, vs.) etrafında yapılanan birçok işin giderek daha kaotik bir niteliğe bürünmesi nedeni ile, tamamen kötü işleyen bir istihdam sisteminin maddi masraflarını tümüyle üstlenmeye başlıyoruz. Bunun büyük bölümü de resmi çalışma saatlerimiz dışında gerçekleşiyor: Haftasonunda br toplantıya hazırlanıyor, gece 11'de patrondan telefon geliyor, iş hayatı için önem taşıyan şeyleri (giyecekler, dış bakımı, vs.) kendi cebimizden ödüyoruz. (sayfa 13)
+Yazarın özellikle üzerinde durduğu kavramlardan biri de taleplerin sürekli artması. Modern iş yaşamında “işin bitmesi” diye bir şey kalmamış durumda. “Birçok işin başlıca niteliği taleplerin katlanarak sürekli artmasıdır; işte bu nedenle işimiz hiç ‘bitmez’.” (sayfa 15) Çalışanlar her zaman daha fazlasını yapmaya zorlanırken, gerçek anlamda tatmin ya da karşılık da çoğu zaman gelmiyor. Üstelik bu bitmek bilmeyen iş talepleri, çalışanların özel hayatlarını da tehdit ediyor.
 
-Birçok işin başlıca niteliği taleplerin katlanarak sürekli artmasıdır; işte bu nedenle işimiz hiç 'bitmez'. (sayfa 15)
+Fleming, “9-5” mesai saatlerinin artık bir efsaneye dönüştüğünü belirtiyor. Günümüzde birçok çalışan sabah 7.42’de maillerini kontrol etmeye başlıyor ve akşam 7.19’da işten çıkıyor. Dahası, yöneticilerin %80’i, mesai saatleri dışında çalışanları aramanın kabul edilebilir olduğunu düşünüyor (sayfa 48). Bu da işin artık sadece bir zaman dilimine değil, tüm güne yayıldığını ve kişisel yaşamı kuşattığını gösteriyor.
 
-Son dönemde yapılan bir araştırma, 9'dan 5'e çalışmanın gerçekten de geçmişin bir kalıntısı olduğunu doğrulamaktadır. Bugün ortalama bir çalışan, işle ilgili e-postalarını sabah 7:42'de kontrol eder, büroya 8:18'de gelir ve işten akşam 7:19'da çıkar... Hükümetin yaptırdığı bir araştırmaya göre, 4,5 milyon kişi haftada bir gün evden çalışmayı istemekte ama buna izin verilmemektedir... Son dönemde yapılan bir araştırmada, Britanya'da üç çalışandan birinin e-postalarını 6:30'dan önce kontrol ettiği, işverenlerin yüzde 80'inin de, iş saatleri dışında çalışanlara telefon açmayı kabul edilebilir bulduğu ortaya çıkmıştır (işverenlerin yüzde 16'sı gece 10'dan sonra telefon açmaktan gocunmaz). (Hart) (sayfa 48)
+Tüm bu anlatım boyunca yazarın dilinde keskin bir eleştirellik var ama bu eleştiri kuru bir sistem karşıtlığına düşmüyor. Aksine, çalışmanın bizatihi doğası üzerine düşündürmeye çalışıyor: Çalışmak, gerçekten de bu kadar kutsal mı? Neden çalışmaya böylesine büyük bir anlam atfediyoruz? Ve daha da önemlisi, çalışmadan yaşamak mümkün mü?
 
-Kitapta Gallup tarafından 2011-2012 arasında küresel işgücünün ise bağlılık düzeyini ölçmek için gerçekleştirilen 142 ülkeden milyonlarca çalışanı kapsayan araştırmanın sonuçları hakkında da bilgi var. Bu araştırmaya göre, çalışanların sadece 13%'u kendilerini işlerine 'bağlı' addediyor, 'işleriyle ilgili, şevkli, işlerine bağlı, kurumlarına olumlu katkıda bulunan bireyler' olarak tanımlıyor. İşlerin 63%'u 'işlerine bağlı olmadıklarını' belirtmişlerdir. Bu bireyler, esasen 'zihinlerinde işlerinden ayrılmıştı', iş saatleri boyunca uyurgezer bir halde dolanıyor, işlerine zaman ayırıyor, ama enerjilerini ya da tutkularını ayırmıyorlardı. Katılımcıların 23%'u ise aktif bir ilgisizlik gösterdiklerini belirtmişlerdir. (sayfa 56)
+Çalışmanın Mitolojisi, iş yaşamına dair ezberleri bozmakla kalmıyor, aynı zamanda okura şu zorlayıcı soruyu soruyor: “Bu şekilde yaşamak zorunda mıyız?” Eğer çalışma hayatı size yorgunluk, anlam kaybı ve tükenmişlik getiriyorsa, Fleming’in yazdıkları size çok tanıdık gelecek. Bu kitap, işin mitolojik yanını sorgularken, bize daha özgür, daha insani bir yaşamın da ipuçlarını sunuyor.
