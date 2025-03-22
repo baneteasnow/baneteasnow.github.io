@@ -9,6 +9,7 @@ yil: "2015"
 sayfa: "232"
 goodreads: "https://www.goodreads.com/book/show/23315856-irrationally-yours"
 description: "Dan Ariely, Wall Street Journal'da yayınlanan Ask Ariely isimli köşesinde yayınlanmış yazıların bir antolojisini sunuyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-07-28
@@ -16,6 +17,7 @@ tag: "davranışsal iktisat"
 reread: "yes"
 rating: "5"
 num: "104"
+update: ""
 image: "/assets/old/irrationally-yours.jpg"
 ---
 

@@ -9,6 +9,7 @@ yil: "2017"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/34146898-smart-cities-digital-nations"
 description: "Akıllı Şehirler Dijital Ülkeler, teknoloji ile şekil değiştiren şehirciliği anlatan bir kitap."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-07-14
@@ -16,6 +17,7 @@ tag: "şehir planlama"
 reread: "no"
 rating: "3"
 num: "103"
+update: ""
 image: "/assets/old/smart-cities-digital-nations.jpg"
 ---
 

@@ -17,6 +17,7 @@ reread: "yes"
 rating: "5"
 num: "107"
 eng: "An informative read from Alter explaining behavioural addictions mainly on technology. This book points out an interesting fact; people who have created the devices do not let their children play with them or strictly limit the usage time. Addictions such as substance addiction, binge-watching, exercise addiction, social media addiction, gamification, virtual reality are all outlined step by step."
+update: ""
 image: "/assets/old/irresistible.jpg"
 ---
 

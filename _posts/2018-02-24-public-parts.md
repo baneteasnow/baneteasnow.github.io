@@ -9,6 +9,7 @@ yil: "2012"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/11238922-public-parts"
 description: "E-Sosyal Toplum, internetin artık tartışılmaz önemini mahremiyet ve kamusallık tartışmalarına rağmen altını çizerek bir kez daha vurguluyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-02-24
@@ -16,6 +17,7 @@ tag: "internet"
 reread: "yes"
 rating: "3"
 num: "83"
+update: ""
 image: "/assets/old/public-parts.jpg"
 ---
 

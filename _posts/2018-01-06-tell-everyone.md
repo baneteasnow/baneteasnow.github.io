@@ -16,7 +16,8 @@ tag: "sosyal medya"
 reread: "yes"
 rating: "5"
 num: "81"
-eng: "Tell Everyone is a fascinating read on the evolution of social media and how the culture is affected by it."
+eng: ""
+update: ""
 image: "/assets/old/tell-everyone.jpg"
 ---
 

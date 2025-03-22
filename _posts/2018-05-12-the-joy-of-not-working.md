@@ -17,6 +17,7 @@ reread: "no"
 rating: "4"
 num: "94"
 eng: "The Joy of Not Working explores our relationship with our jobs while reminding us we are more than our jobs."
+update: ""
 image: "/assets/old/the-joy-of-not-working.jpg"
 ---
 

@@ -9,6 +9,7 @@ yil: "2016"
 sayfa: "124"
 goodreads: "https://www.goodreads.com/book/show/23604558-beyond-measure"
 description: "Rakamlara Takılma, daha iyi bir çalışma ortamı isteyen herkese sesleniyor ve örgüt kültürünün nasıl iyileştirilebileceğine dair ipuçları sunuyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-06-16
@@ -16,6 +17,7 @@ tag: "yönetim"
 reread: "yes"
 rating: "4"
 num: "99"
+update: ""
 image: "/assets/old/beyond-measure.jpg"
 ---
 

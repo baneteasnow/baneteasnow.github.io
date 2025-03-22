@@ -9,6 +9,7 @@ yil: "2017"
 sayfa: "432"
 goodreads: "https://www.goodreads.com/book/show/22875447-work-rules"
 description: "Google'da People Operations departmanının yöneticisi olarak çalışan Laszlo Bock, Google'daki İK uygulamalarını anlatıyor."
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2018-03-10
@@ -16,6 +17,7 @@ tag: "yönetim"
 reread: "no"
 rating: "4"
 num: "85"
+update: ""
 image: "/assets/old/work-rules.jpg"
 ---
 

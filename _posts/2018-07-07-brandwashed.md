@@ -16,6 +16,7 @@ tag: "tüketici davranışları"
 reread: "yes"
 rating: "4"
 eng: "In a world that is full of advertisement, this book explains how a child is being exposed to hidden impacts of brands; and when he or she becomes an adult how his or her buying behaviour is affected."
+update: ""
 num: "102"
 image: "/assets/old/brandwashed.jpg"
 ---

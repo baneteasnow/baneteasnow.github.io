@@ -9,6 +9,7 @@ yil: "2013"
 sayfa: "354"
 goodreads: "https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying"
 description: "İnan Bana, Yalan Söylüyorum, kitle iletişim araçlarının aslında ne kadar kolay yönlendirilerek manipüle edilebildiğini anlatıyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-03-03
@@ -16,6 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "3"
 num: "84"
+update: ""
 image: "/assets/old/trust-me-im-lying.jpg"
 ---
 

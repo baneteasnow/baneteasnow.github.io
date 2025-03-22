@@ -17,6 +17,7 @@ reread: "yes"
 rating: "5"
 num: "98"
 eng: "The Nature of Technology addresses the nature and evolution of technology with straightforward and to-the-point language style."
+update: ""
 image: "/assets/old/the-nature-of-technology.jpg"
 ---
 

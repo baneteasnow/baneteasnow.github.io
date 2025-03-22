@@ -9,6 +9,7 @@ yil: "2012"
 sayfa: "279"
 goodreads: "https://www.goodreads.com/book/show/9778945-the-shallows"
 description: "Yüzeysellik, internetin getirilerini kabul ederken, teknolojinin kısa & uzun vadeli bedelini sorguluyor, insan hayatından alıp götürdüklerine bakıyor."
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2018-09-15
@@ -16,6 +17,7 @@ tag: "üretkenlik ve teknoloji"
 reread: "yes"
 rating: "5"
 num: "110"
+update: ""
 image: "/assets/old/the-shallows.jpg"
 ---
 

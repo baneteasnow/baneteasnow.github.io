@@ -9,6 +9,7 @@ yil: "2016"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/18050143-zero-to-one"
 description: "Sıfırdan Bire, bir iş modelinin nasıl kurgulanacağına ilişkin ipuçlarını paylaşıyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-13
 posted: 2018-09-08
@@ -16,6 +17,7 @@ tag: "girişimcilik"
 reread: "no"
 rating: "4"
 num: "109"
+update: ""
 image: "/assets/old/zero-to-one.jpg"
 ---
 

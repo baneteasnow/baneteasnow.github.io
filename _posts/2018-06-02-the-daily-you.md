@@ -9,6 +9,7 @@ yil: "2015"
 sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/13224694-the-daily-you"
 description: "Kitap, sosyal medya ve internet ile birlikte markaların ve reklam sektörünün sosyal profilleme yoluyla hedef kitleleri ayrıştırma yollarını inceliyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-06-02
@@ -16,6 +17,7 @@ tag: "reklam"
 reread: "yes"
 rating: "5"
 num: "97"
+update: ""
 image: "/assets/old/the-daily-you.jpg"
 ---
 

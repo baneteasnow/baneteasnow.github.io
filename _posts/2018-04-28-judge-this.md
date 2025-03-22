@@ -9,6 +9,7 @@ yil: "2016"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/21976094-judge-this"
 description: "Chip Kidd, kendi telefonu (iPhone 5s) ile çektiği resimleri tasarımın açıklık ve gizem cetveli (gizem-metre) üzerinde kısa cümlelerde açıklıyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-04-28
@@ -16,6 +17,7 @@ tag: "endüstriyel tasarım"
 reread: "yes"
 rating: "5"
 num: "92"
+update: ""
 image: "/assets/old/judge-this.jpg"
 ---
 

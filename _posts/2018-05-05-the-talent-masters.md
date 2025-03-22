@@ -9,6 +9,7 @@ yil: "2011"
 sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/9594128-the-talent-masters"
 description: "Yetenek Sarrafları, yeteneği tanıma ve geliştirme konusunda başarılı olan ünlü şirketleri inceliyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-05-05
@@ -16,6 +17,7 @@ tag: "çalışma yaşamı"
 reread: "no"
 rating: "3"
 num: "93"
+update: ""
 image: "/assets/old/the-talent-masters.jpg"
 ---
 

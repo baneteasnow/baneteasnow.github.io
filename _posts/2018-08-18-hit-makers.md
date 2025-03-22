@@ -17,6 +17,7 @@ reread: "yes"
 rating: "5"
 num: "106"
 eng: "Derek Thompson explains how some things become popular in the age of distraction, while others don’t."
+update: ""
 image: "/assets/old/hit-makers.jpg"
 ---
 

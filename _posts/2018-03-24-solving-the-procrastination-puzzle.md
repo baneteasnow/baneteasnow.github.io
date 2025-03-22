@@ -9,6 +9,7 @@ yil: "2016"
 sayfa: "120"
 goodreads: "https://www.goodreads.com/book/show/18079767-solving-the-procrastination-puzzle"
 description: "Timothy A. Pychyl, Prokrastineyşın'da savsaklama alışkanlığını ve bu alışkanlıkla mücadele yöntemlerini anlatıyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-03-24
@@ -16,6 +17,7 @@ tag: "üretkenlik ve teknoloji"
 reread: "yes"
 rating: "5"
 num: "87"
+update: ""
 image: "/assets/old/solving-the-procrastination-puzzle.jpg"
 ---
 

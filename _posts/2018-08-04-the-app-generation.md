@@ -8,7 +8,8 @@ yazar: "Howard Gardner, Katie Davis"
 yil: "2014"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/17802985-the-app-generation"
-description: "App Kuşağı, farklı kuşakların bakış açısı ile dijital dünyayı ve değişen teknoloji kullanım alışkanlıklarını değerlendiriyor. "
+description: "App Kuşağı, farklı kuşakların bakış açısı ile dijital dünyayı ve değişen teknoloji kullanım alışkanlıklarını değerlendiriyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-08-04
@@ -16,6 +17,7 @@ tag: "sosyoloji"
 reread: "no"
 rating: "3"
 num: "105"
+update: ""
 image: "/assets/old/the-app-generation.jpg"
 ---
 

@@ -9,6 +9,7 @@ yil: "2010"
 sayfa: "326"
 goodreads: "https://www.goodreads.com/book/show/5100525-what-would-google-do"
 description: "Jeff Jarvis, Google Olsa Ne Yapardı isimli kitabında Google'ın neyi farklı yaptığını kendi gözlemlerine dayanarak açıklıyor."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-03-17
@@ -16,6 +17,7 @@ tag: "marka profili"
 reread: "no"
 rating: "3"
 num: "86"
+update: ""
 image: "/assets/old/what-would-google-do.jpg"
 ---
 

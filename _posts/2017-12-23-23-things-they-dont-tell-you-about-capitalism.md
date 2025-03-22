@@ -9,6 +9,7 @@ yil: "2015"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism"
 description: "Kapitalizm Hakkında Size Söylenmeyen 23 Şey, dünya ekonomisinin gidişatına odaklanarak serbest piyasa kapitalizmi eleştirisi yapan bir kitap."
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2017-12-23
@@ -16,6 +17,7 @@ tag: "ekonomi"
 reread: "no"
 rating: "4"
 num: "80"
+update: ""
 image: "/assets/old/23-things-they-dont-tell-you-about-capitalism.jpg"
 ---
 
