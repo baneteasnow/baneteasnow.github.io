@@ -8,29 +8,29 @@ yazar: "Yochai Benkler"
 yil: "2012"
 sayfa: "214"
 goodreads: "https://www.goodreads.com/book/show/7286895-the-penguin-and-the-leviathan"
-description: "Penguen ve Leviathan, internet üzerinde işbirliği ile ilerleyen gönüllülük esasına dayanan projeler çağında insanın bireyci yaklaşımını sorguluyor."
-eng: ""
-last_modified_at: 2023-01-14
+description: "Yochai Benkler’in Penguen ve Leviathan kitabı, insan doğasının sandığımızdan çok daha işbirlikçi olduğunu savunarak, gönüllülüğe dayalı sistemlerin nasıl başarılı olabildiğini sosyal bilimsel araştırmalarla açıklıyor."
+eng: "In The Penguin and the Leviathan, Yochai Benkler argues that human nature is far more cooperative than we assume, illustrating how voluntary, collaborative systems can thrive through insights from social science."
+last_modified_at: 2025-03-23
 published: true
 posted: 2018-04-07
 tag: "dijital kültür"
 reread: "yes"
 rating: "5"
 num: "89"
-update: ""
+update: "done"
 image: "/assets/old/the-penguin-and-the-leviathan.jpg"
 ---
 
-Yazarı Harvard Üniversitesi Hukuk Profesörü Yochai Benkler olan kitap, iş birliği ile inşa edilen modellerle ilgili en çok kullanılan örnekler olan Wikipedia ve Linux ile başlıyor. Bu örneklerin her ikisi de insanlar arası iş birliği üzerine kurulmuş sistemler.
+Penguen ve Leviathan, Harvard Hukuk Profesörü Yochai Benkler’in iş birliği üzerine kaleme aldığı, teori ve pratiği ustaca harmanlayan kapsamlı bir kitap. Benkler, özellikle son yıllarda sosyal bilimlerde dikkat çeken davranışsal iktisat, örgüt sosyolojisi ve psikoloji alanlarındaki araştırmaları bir araya getirerek insan doğasına dair hâkim “bencil birey” anlayışını sorguluyor ve bu anlayışın gerçeği yansıtmadığını güçlü örneklerle ortaya koyuyor.
 
-Küresel ticaretin büyümesi ve teknolojik gelişmeler sonucunda zaman içinde hiyerarşik sistemler yetersiz kalmaya başlamıştır. Çeşitli işletme okulları ve kuruluşlar, önceden çok fazla üstünde durulan hiyerarşik yapılardan vazgeçerek farklı örgütsel modelleri denemeye başlamışlardır. Bu modeller, doğru koşullar sağlandığı takdirde insanların örgütün kollektif çıkarı için kendi özgür iradeleriyle işbirliğini tercih edecekleri varsayımına dayanmaktadır. Eşit koşullarda ortak üretime geçilmesi, pek çok kişi açısından, bundan 15-20 yıl öncesinde adeta imkansız olarak görünüyordu. Gönüllülük esasına dayalı yapılar ve sistemler çok popüler hale geldi. Sosyal bilimler, örgüt sosyolojisi, psikoloji, davranışsal iktisat gibi çeşitli alanlarda yapılan araştırmalar ile insanın sadece kendi çıkarı doğrultusunda hareket edeceğini varsayan insanın bencil davranacağını ileri süren görüşlerin tersi kanıtlanmış oldu. Bu durumun yansımaları sadece iş dünyasında ve internet üzerinde değil farklı sosyal sistemlerde de ortaya çıkmaktadır.
+Kitap, Wikipedia ve Linux gibi gönüllülük esasına dayanan projelerle başlıyor. Bu projeler, klasik ekonomik teorilerin öne sürdüğü gibi insanların yalnızca kişisel çıkarları doğrultusunda hareket etmediğini; tersine, uygun koşullar oluştuğunda bireylerin iş birliğini kendiliklerinden tercih ettiklerini gösteriyor. Wikipedia’yı binlerce gönüllü sürekli güncelliyor, Linux gibi açık kaynaklı yazılımlar gönüllü yazılımcıların emeğiyle gelişiyor. Tüm bu sistemler, yukarıdan aşağıya kurulan hiyerarşik bir yapının dışında işliyor. Benkler’e göre bu durum, içinde yaşadığımız dijital çağda, bireylerin örgütsel yapılara katılımında bir paradigma değişikliğine işaret ediyor.
 
-Yazar, kitabın son sayfalarında pratik iş birliği sistemlerinin bileşenlerini şöyle sıralamıştır:
+Kitabın ilerleyen bölümlerinde, sosyal bilimlerde uzun yıllardır egemen olan homo economicus modeline yönelik eleştiriler geniş yer tutuyor. Benkler, bu modelin insanı salt çıkarcı ve hesapçı bir varlık olarak ele aldığını; ancak son yıllarda yapılan deneysel çalışmaların, insanların empati, karşılıklılık ve dayanışma gibi duygularla hareket edebildiğini gösterdiğini belirtiyor. Örneğin, kamu malları oyunlarında ya da mahkum ikilemi deneylerinde, birçok katılımcı kendi çıkarına en uygun stratejiyi değil, adil olanı veya karşısındakine güven veren seçeneği tercih ediyor. (sayfa 57)
 
-- İletişim
-- Çerçeveleme, uygunluk ve sahicilik
-- İnsanın kendisinin ötesine bakmak, empati ve dayanışma
-- Ahlaki sistemlerin inşa edilmesi
-- Ödül ve ceza
-- İtibar, şeffaflık ve karşılıklık
-- Çeşitliliğe göre inşa etmek
+Benkler, iş birliğini mümkün kılan koşulları da detaylı biçimde analiz ediyor. İnsanların iş birliğine yönelmesinin arkasında yalnızca ahlaki motivasyonlar değil; aynı zamanda iletişim olanaklarının güçlenmesi, karşılıklılık beklentisi, şeffaflık, güven ortamı, sosyal normlar ve itibar kaygısı gibi unsurlar da bulunuyor. Bu çerçevede, sadece bireysel düzeyde değil, kurumlar ve toplumlar düzeyinde de iş birliğini teşvik edici yapılar kurulabileceğini vurguluyor. Örneğin, insanlar kendilerini bir grubun parçası olarak hissettiklerinde ya da katkılarının değer gördüğünü bildiklerinde gönüllü olarak iş birliğine daha istekli hale geliyorlar. (sayfa 142)
+
+Kitapta ayrıca, başarılı bir iş birliği sisteminin hangi yapı taşlarına sahip olması gerektiği de anlatılıyor. Yazarın son bölümlerde sıraladığı unsurlar arasında şunlar var: etkili iletişim; güven duygusunu pekiştiren sahicilik; bireyin kendi sınırlarını aşmasını sağlayan empati; ortak değerler üzerinden kurulan ahlaki çerçeve; ödül ve ceza mekanizmaları; itibar ve şeffaflık gibi sosyal denetim araçları; ve son olarak, homojen değil çeşitli perspektiflere açık sistemler tasarlamak. (sayfa 228)
+
+Benkler, bütün bu değerlendirmeleri yaparken romantik bir iyimserliğe de düşmüyor. İnsanların her zaman iş birliğine yatkın olduğunu değil, belli koşullarda bu eğilimin baskın hale geldiğini savunuyor. Kitap boyunca kullandığı metaforlar —“Penguen” gönüllü iş birliğini, “Leviathan” ise klasik otoriter devlet veya hiyerarşik yapı anlayışını temsil ediyor— üzerinden, bu iki sistemin nasıl bir arada var olabileceğini de tartışmaya açıyor.
+
+Sonuç olarak Penguen ve Leviathan, sadece teknolojik dönüşümle ilgilenenlerin değil, insan doğası ve toplumsal yapı üzerine düşünen herkesin okuması gereken bir kitap. Özellikle günümüz dünyasında, dayanışma ve kolektif aklın gücünü hatırlatması açısından son derece değerli.
