@@ -8,7 +8,8 @@ yazar: "Eric Schlosser"
 yil: "2004"
 sayfa: "341"
 goodreads: "https://www.goodreads.com/book/show/1097.Fast_Food_Nation"
-description: "Hamburger Cumhuriyeti, kırmızı et ağırlıklı ilerleyen hazır gıda sektörünün perde arkasını çarpıcı biçimde gözler önüne seriyor."
+description: ""
+eng: ""
 last_modified_at: 2024-01-14
 published: true
 posted: 2019-01-19
@@ -16,6 +17,7 @@ tag: "sosyoloji"
 reread: "yes"
 rating: "5"
 num: "125"
+update: ""
 image: "/assets/old/fast-food-nation.jpg"
 ---
 

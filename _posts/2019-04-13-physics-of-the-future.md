@@ -8,7 +8,8 @@ yazar: "Michio Kaku"
 yil: "2016"
 sayfa: "454"
 goodreads: "https://www.goodreads.com/book/show/8492907-physics-of-the-future"
-description: "Geleceğin Fiziği, 2100 yılına kadar bilimde ve teknolojide yaşanan gelişmeleri ve bunların insanların yaşamını nasıl şekillendirdiğini ele alıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-04-13
@@ -16,6 +17,7 @@ tag: "gelecek ve trendler"
 reread: "yes"
 rating: "5"
 num: "129"
+update: ""
 image: "/assets/old/physics-of-the-future.jpg"
 ---
 

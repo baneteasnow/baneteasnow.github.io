@@ -8,7 +8,8 @@ yazar: "John Rossman"
 yil: "2018"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/22393576-the-amazon-way"
-description: "Kitapta, Amazon.com'u rakiplerin farklılaştıran, onu lider konumda tutan 14 ilke ve örgüt kültürüne yansımaları inceleniyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-09-29
@@ -16,6 +17,7 @@ tag: "marka profili"
 reread: "no"
 rating: "3"
 num: "112"
+update: ""
 image: "/assets/old/the-amazon-way.jpg"
 ---
 

@@ -8,7 +8,8 @@ yazar: "Gözde Kazaz, H. İlksen Mavituna"
 yil: "136"
 sayfa: "2018"
 goodreads: "https://www.goodreads.com/book/show/41876039-bu-lkeden-gitmek"
-description: "Bu Ülkeden Gitmek, Türkiye'den son yıllarda diğer ülkelere yaşanan göçü konu alıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-02-02
@@ -16,6 +17,7 @@ tag: "sosyoloji"
 reread: "no"
 rating: "5"
 num: "127"
+update: ""
 image: "/assets/old/bu-ulkeden-gitmek.jpg"
 ---
 

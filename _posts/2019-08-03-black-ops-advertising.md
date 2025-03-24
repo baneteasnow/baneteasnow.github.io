@@ -8,7 +8,8 @@ yazar: "Mara Einstein"
 yil: "2018"
 sayfa: "264"
 goodreads: "https://www.goodreads.com/book/show/28645425-black-ops-advertising"
-description: "Dijital Reklamın Gizli Dünyası, reklam olduğu bir bakışta anlaşılmayan içerikleri anlatıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-08-03
@@ -16,6 +17,7 @@ tag: "reklam"
 reread: "no"
 rating: "5"
 num: "140"
+update: ""
 image: "/assets/old/black-ops-advertising.jpg"
 ---
 

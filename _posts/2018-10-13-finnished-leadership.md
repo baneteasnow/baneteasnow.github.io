@@ -8,7 +8,8 @@ yazar: "Pasi Sahlberg"
 yil: "2018"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/40112776-finnished-leadership"
-description: "Eğitimde Finlandiya Modeli, Finlandiya'nın eğitim sistemini nasıl farklılaştırdığı ve başarısının dayanak noktalarını inceliyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2024-01-14
 posted: 2018-10-13
@@ -16,6 +17,7 @@ tag: "eğitim"
 reread: "no"
 rating: "5"
 num: "113"
+update: ""
 image: "/assets/old/finnished-leadership.jpg"
 ---
 

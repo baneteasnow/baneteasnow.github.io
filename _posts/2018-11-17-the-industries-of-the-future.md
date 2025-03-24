@@ -8,7 +8,8 @@ yazar: "Alec Ross"
 yil: "2017"
 sayfa: "286"
 goodreads: "https://www.goodreads.com/book/show/25111341-the-industries-of-the-future"
-description: "Geleceğin Endüstrileri, teknolojinin bizi götürdüğü yere ve geleceğe dair pek çok farklı konuya yer veriyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-11-17
@@ -16,6 +17,7 @@ tag: "gelecek ve trendler"
 reread: "yes"
 rating: "4"
 num: "115"
+update: ""
 image: "/assets/old/the-industries-of-the-future.jpg"
 ---
 

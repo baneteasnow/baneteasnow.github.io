@@ -8,7 +8,8 @@ yazar: "Brad Stone"
 yil: "2017"
 sayfa: "472"
 goodreads: "https://www.goodreads.com/book/show/17660462-the-everything-store"
-description: "Aradığın Her Şey, dünyanın en büyük firmalarından biri haline gelen Amazon'un kuruluşunu ve bugünkü konumuna nasıl geldiğini anlatıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-12-15
@@ -16,6 +17,7 @@ tag: "profile"
 reread: "no"
 rating: "3"
 num: "119"
+update: ""
 image: "/assets/old/the-everything-store.jpg"
 ---
 

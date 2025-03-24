@@ -8,7 +8,8 @@ yazar: "Don Tapscott, Anthony D. Williams "
 yil: "2007"
 sayfa: "420"
 goodreads: "https://www.goodreads.com/book/show/154341.Wikinomics"
-description: "Vikinomi, kitlesel işbirliğini ve crowdsourcing kavramını ele alıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-07-27
@@ -16,6 +17,7 @@ tag: "dijital kültür"
 reread: "no"
 rating: "3"
 num: "139"
+update: ""
 image: "/assets/old/wikinomics.jpg"
 ---
 

@@ -8,7 +8,8 @@ yazar: "Michael Foley"
 yil: "2016"
 sayfa: "250"
 goodreads: "https://www.goodreads.com/book/show/7623692-the-age-of-absurdity"
-description: "Saçmalıklar Çağı, yaygın memnuniyet (mutluluk) fikirlerini felsefe, din, edebiyat, psikoloji ve sinir bilimi açısından inceliyor. Yazar: Michael Foley"
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-10-20
@@ -16,7 +17,7 @@ tag: "felsefe"
 reread: "yes"
 rating: "5"
 num: "114"
-eng: "The Age of Absurdity: Why Modern Life makes it Hard to be Happy A fascinating read on philosophy and science of happiness in the modern age. We are living in abundance and continuously searching for pleasure, but all we have is dissatisfaction in many fields of life. Michael Foley analyzes the concept of happiness in regards to philosophy, literature, psychology and neurology."
+update: ""
 image: "/assets/old/the-age-of-absurdity.jpg"
 ---
 

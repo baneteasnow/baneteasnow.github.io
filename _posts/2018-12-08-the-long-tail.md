@@ -8,7 +8,8 @@ yazar: "Chris Anderson"
 yil: "2008"
 sayfa: "248"
 goodreads: "https://www.goodreads.com/book/show/2467566.The_Long_Tail"
-description: "Uzun Kuyruk kavramı, niş ürünleri piyasaya çıkaran ve onları tüketici ile buluşturan firmaların başarılarına işaret ediyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-12-08
@@ -16,6 +17,7 @@ tag: "ekonomi"
 reread: "yes"
 rating: "4"
 num: "118"
+update: ""
 image: "/assets/old/the-long-tail.jpg"
 ---
 

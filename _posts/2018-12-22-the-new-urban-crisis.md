@@ -8,7 +8,8 @@ yazar: "Richard Florida"
 yil: "2018"
 sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/26240789-the-new-urban-crisis"
-description: "Yaratıcı Sınıf Adres Değiştiriyor, yaratıcı sınıfın küreselleşme sonucunda yaşayacağı ve çalışacağı bölgeyi seçerken nelere dikkat ettiğini anlatıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-12-22
@@ -16,6 +17,7 @@ tag: "şehir planlama"
 reread: "no"
 rating: "4"
 num: "120"
+update: ""
 image: "/assets/old/the-new-urban-crisis.jpg"
 ---
 

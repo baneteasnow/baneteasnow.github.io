@@ -8,7 +8,7 @@ yazar: "Nicholas Carr"
 yil: "2012"
 sayfa: "279"
 goodreads: "https://www.goodreads.com/book/show/9778945-the-shallows"
-description: "Yüzeysellik, internetin getirilerini kabul ederken, teknolojinin kısa & uzun vadeli bedelini sorguluyor, insan hayatından alıp götürdüklerine bakıyor."
+description: ""
 eng: ""
 last_modified_at: 2023-01-14
 published: true

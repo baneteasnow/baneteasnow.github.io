@@ -8,7 +8,8 @@ yazar: "Martin Ford"
 yil: "2018"
 sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/22928874-rise-of-the-robots"
-description: "E-Sosyal Toplum, internetin artık tartışılmaz önemini mahremiyet ve kamusallık tartışmalarına rağmen altını çizerek bir kez daha vurguluyor. J.Jarvis"
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-05-18
@@ -16,6 +17,7 @@ tag: "teknoloji"
 reread: "yes"
 rating: "5"
 num: "134"
+update: ""
 image: "/assets/old/rise-of-the-robots.jpg"
 ---
 

@@ -8,7 +8,8 @@ yazar: "Murat Kınıkoğlu"
 yil: "2018"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/25882651-vegan-beslenme"
-description: "Vegan Beslenme, bir doktorun gözünden uygulamalı vegan beslenmeyi anlatıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-02-01
@@ -16,6 +17,7 @@ tag: "beslenme"
 reread: "yes"
 rating: "5"
 num: "126"
+update: ""
 image: "/assets/old/vegan-beslenme.jpg"
 ---
 

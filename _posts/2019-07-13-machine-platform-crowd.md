@@ -8,7 +8,8 @@ yazar: "Erik Brynjolfsson, Andrew McAfee"
 yil: "2018"
 sayfa: "424"
 goodreads: "https://www.goodreads.com/book/show/38212111-machine-platform-crowd"
-description: "Makine, Platform, Kitle teknoloji ile ortaya çıkan yeni tür iş modellerinin firmaları nasıl etkilediğini ele alıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-07-13
@@ -16,6 +17,7 @@ tag: "teknoloji"
 reread: "yes"
 rating: "4"
 num: "137"
+update: ""
 image: "/assets/old/machine-platform-crowd.jpg"
 ---
 
