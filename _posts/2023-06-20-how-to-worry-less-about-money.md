@@ -9,17 +9,17 @@ yazar: "John Armstrong"
 yil: "2013"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/14478541-how-to-worry-less-about-money"
-description: "How to Worry Less About Money, mali kaygıları azaltmak ve daha sağlıklı bir mali zihin yapısına ulaşmak için pratik bilgiler ve iç görüler sunan bir kitap."
+description: ""
+eng: ""
 last_modified_at: 2023-06-20
 published: true
 posted: 2023-06-20
 tag: "felsefe"
 reread: "yes"
 rating: "5"
-eng: "How to Worry Less About Money by John Armstrong is a practical guide to reducing financial stress and cultivating a healthier mindset towards money."
 num: "342"
-image: "/assets/new/how-to-worry-less-about-money.jpg"
 update: "tobeupdated"
+image: "/assets/new/how-to-worry-less-about-money.jpg"
 ---
 
 to be updated...

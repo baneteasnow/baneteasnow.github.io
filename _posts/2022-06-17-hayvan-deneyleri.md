@@ -9,7 +9,8 @@ yazar: "Yağmur Özgür Güven, Oğuzcan Kınıkoğlu"
 yil: "2021"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/54756609-hayvan-deneyleri"
-description: "Hayvan Deneyleri isimli kitapta hayvan deneylerinin tarihi, unlu bilim insanlarının gerçekleştirdiği başlıca hayvan deneyleri, hayvan deneylerinin insanlar için ne ölçüde güvenilir olduğu ve alternatif yöntemlerin neler olabileceği tartışılıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-17
@@ -17,7 +18,7 @@ tag: "hayvan hakları"
 reread: "no"
 rating: "5"
 num: "261"
-eng: "Hayvan Deneyleri: Hayvanlar Bizim İçin mi Var? by Yağmur Özgür Güven and Oğuzcan Kınıkoğlu questions the ethics and necessity of animal experimentation, challenging readers to reconsider the impact on animal welfare and explore alternative approaches to scientific research."
+update: ""
 image: "/assets/new/hayvan-deneyleri.jpg"
 ---
 

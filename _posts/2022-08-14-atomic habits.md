@@ -8,7 +8,8 @@ yazar: "James Clear"
 yil: "2018"
 sayfa: "319"
 goodreads: "https://www.goodreads.com/book/show/40121378-atomic-habits"
-description: "Atomik Alışkanlıklar, günlük olarak yapılacak ufak değişikliklerin ve gelişimlerin değerini vurgulayarak aslında büyük başarılar için köklü değişimlerin gerekmediğine işaret ediyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-08-14
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "279"
-eng: "James Clear's book Atomic Habits is based on the premise that making small adjustments to your daily routine can have a big impact on your life. The author offers a four-step paradigm that focuses on making healthy habits clear, appealing, simple and fulfilling in order to create them and break bad ones. Having a clear and specific goal in mind, tracking your progress and creating an environment that supports your desired habits are all emphasised in Clear. To illustrate his points and inspire action, Clear uses real-life examples and anecdotes throughout the book. Atomic Habits provides a straightforward and practical approach to personal development that can help anyone who wants to change their habits and achieve their goals."
+update: ""
 image: "/assets/new/atomic-habits.jpg"
 ---
 

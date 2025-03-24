@@ -9,7 +9,8 @@ yazar: "Eric J. Topol"
 yil: "2019"
 sayfa: "400"
 goodreads: "https://www.goodreads.com/en/book/show/40915762"
-description: "Eric Topol, Deep Medicine isimli kitabında yapay zekanın gündelik hayatımızda giderek artan kullanım alanlarına dikkat çekerken modern tiptaki yerini pratik uygulama örnekleri ile tartışıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-15
@@ -17,7 +18,7 @@ tag: "yapay zeka"
 reread: "yes"
 rating: "4"
 num: "249"
-eng: "Deep Medicine by Eric J. Topol explores how artificial intelligence can revolutionize healthcare, improving diagnostics, personalizing treatments, and enhancing patient outcomes while maintaining a human-centered approach."
+update: ""
 image: "/assets/new/deep-medicine.jpg"
 ---
 

@@ -8,7 +8,8 @@ yazar: "Kirsten M. Lagatree"
 yil: "2020"
 sayfa: "112"
 goodreads: "https://www.goodreads.com/en/book/show/344899"
-description: "Kökeni Çin'e dayanan Feng Shui'nin temel amacı evrende ve doğada uyum ve dengenin sürdürülmesidir. Bu kitapta, Feng Shui'nin geçmişi ve temel unsurları ele alınıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-20
 published: true
 posted: 2023-01-20
@@ -16,7 +17,7 @@ tag: "lifestyle"
 reread: "no"
 rating: "4"
 num: "296"
-eng: "Feng Shui: Arranging Your Home to Change Your Life by Kirsten M. Lagatree is a guidebook that explains the principles of feng shui, an ancient Chinese practice of arranging one's environment to promote harmony and balance. The book provides readers with practical tips on how to apply feng shui principles to their homes and create a space that supports their physical, emotional, and spiritual well-being. Lagatree explains the meaning of various feng shui elements such as color, light, and furniture placement, and how they can affect energy flow in a space. She also covers common challenges such as clutter, small spaces, and shared living arrangements."
+update: ""
 image: "/assets/new/feng-shui-arranging-your-home-to-change-your-life.jpg"
 ---
 

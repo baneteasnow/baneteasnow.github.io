@@ -8,7 +8,8 @@ yazar: "Nigel Warburton"
 yil: "2021"
 sayfa: "120"
 goodreads: "https://www.goodreads.com/book/show/34527344-deneme-yazman-n-temel-kurallar"
-description: "Nigel Warburton, iyi bir deneme yazmanın çeşitli ilkelerini ele alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-05
 published: true
 posted: 2023-02-05
@@ -16,7 +17,7 @@ tag: "yazmak ve yaratıcılık"
 reread: "no"
 rating: "4"
 num: "301"
-eng: "The Basics of Essay Writing by Nigel Warburton is a practical guide to writing effective essays. The book covers the essentials of essay writing, including how to generate ideas, structure an essay, write clear and concise paragraphs, and develop a persuasive argument. Warburton emphasizes the importance of planning and research, offering tips on creating outlines and conducting effective research. He also advises on writing introductions and conclusions and using evidence to support arguments."
+update: ""
 image: "/assets/new/the-basics-of-essay-writing.jpg"
 ---
 

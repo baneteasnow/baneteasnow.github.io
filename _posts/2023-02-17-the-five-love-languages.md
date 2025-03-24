@@ -8,7 +8,8 @@ yazar: "Gary Chapman"
 yil: "2022"
 sayfa: "226"
 goodreads: "https://www.goodreads.com/book/show/23878688-the-5-love-languages"
-description: "Evlilik danışmanı Gary Chapman, ikili romantik ilişkilerde insanların sevgiyi anladığı ve ifade ettiği beş farklı sevgi dilinin bulunduğunu anlatıyor. Bunlar, onaylayıcı kelimeler, kaliteli zaman, hediye alma, hizmet eylemleri, fiziksel temastır."
+description: ""
+eng: ""
 last_modified_at: 2023-02-17
 published: true
 posted: 2023-02-17
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 num: "306"
 rating: "4"
-eng: "The 5 Love Languages by Gary Chapman is a book that explores the different ways in which people give and receive love. The author suggests that each person has a unique 'love language' and that understanding your own and your partner's love language can improve communication and strengthen relationships. The book identifies five love languages: words of affirmation, quality time, receiving gifts, acts of service, and physical touch. Chapman provides practical examples and exercises to help readers discover their love language and that of their partner, and offers guidance on how to communicate and express love effectively in each language."
+update: ""
 image: "/assets/new/the-five-love-languages.jpg"
 ---
 

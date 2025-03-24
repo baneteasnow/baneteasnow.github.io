@@ -9,17 +9,17 @@ yazar: "Carmine Gallo"
 yil: "2021"
 sayfa: "346"
 goodreads: "https://www.goodreads.com/book/show/25663767-the-storyteller-s-secret"
-description: "Carmine Gallo, etkili hikaye anlatıcılarının ortak özelliklerini inceliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-02
 published: true
 posted: 2023-06-02
 tag: "motivasyon"
 reread: "no"
 rating: "3"
-eng: "In The Storyteller's Secret, Carmine Gallo argues that storytelling is a powerful tool that can be used to persuade, inspire, and motivate others. He draws on neuroscience, psychology, and sociology research to explain why stories are so effective at capturing our attention and influencing our behaviour. Gallo also provides practical advice on how to craft and deliver compelling stories."
 num: "324"
-image: "/assets/new/the-storytellers-secret.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-storytellers-secret.jpg"
 ---
 
 to be updated...

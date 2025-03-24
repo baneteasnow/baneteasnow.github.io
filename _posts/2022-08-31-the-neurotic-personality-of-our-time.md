@@ -8,14 +8,15 @@ yazar: "Karen Horney"
 yil: "2017"
 sayfa: "200"
 goodreads: "https://www.goodreads.com/book/show/130384.The_Neurotic_Personality_of_Our_Time"
-description: "Karen Horney, Çağımızın Nevrotik Kişiliği isimli kitabında bir yandan nevrotik kişilerin yapılarını anlatırken, diğer yandan da onların içinde bulundukları çatışmaları, endişeleri, acıları ve hem kendileri ile hem de başkaları ile olan ilişkilerinde yaşadıkları güçlükleri ortaya koymaktadır. "
+description: ""
+eng: ""
 last_modified_at: 2022-08-31
 published: true
 posted: 2022-08-31
 reread: "yes"
 rating: "5"
 num: "283"
-eng: "The Neurotic Personality of Our Time by Karen Horney is a seminal work in psychoanalytic theory that examines the roots and manifestations of neurosis in modern society. Horney argues that the societal pressures of conformity and success contribute to the development of neurotic personalities. She also outlines several specific types of neurosis, such as the compliant personality and the detached personality. Throughout the book, Horney provides case studies and clinical examples to illustrate her theories, and she discusses the role of psychotherapy in treating neurosis. Although some of the ideas presented in the book may be controversial, The Neurotic Personality of Our Time is a valuable and thought-provoking contribution to the field of psychoanalysis that continues to influence modern understandings of mental health."
+update: ""
 image: "/assets/new/the-neurotic-personality-of-our-time.jpg"
 ---
 

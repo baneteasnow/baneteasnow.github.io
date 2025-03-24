@@ -8,7 +8,8 @@ yazar: "Judith Malika Liberman"
 yil: "2022"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/25186886-masal-terapi"
-description: "Masal Terapi'de dünyanın dört bir yanından derlenmiş 54 masal yer alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-12-21
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "3"
 num: "292"
-eng: "Masal Terapi is a self-help book by Judith Malika Liberman that explores the therapeutic benefits of storytelling. The book draws on the ancient tradition of using stories to convey moral lessons and offer guidance, and provides readers with practical exercises and techniques for incorporating storytelling into their daily lives. Liberman explains that stories have the power to heal and transform, and can help readers access their inner wisdom and navigate life's challenges with greater resilience and creativity."
+update: ""
 image: "/assets/new/masal-terapi.jpg"
 ---
 

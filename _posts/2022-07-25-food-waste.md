@@ -8,7 +8,8 @@ yazar: "David Evans"
 yil: "2020"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/20443271-food-waste"
-description: "Sıfır Atık, mutfak alışverişlerinden zamanında tüketilmeden arta kalan, bozulmaya yüz tutmuş sebze ve meyvelerin neredeyse kaçınılmaz olan kaderini yani 'gıda israfı'nı inceliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-25
@@ -16,7 +17,7 @@ tag: "sıfır atık yaşam"
 reread: "no"
 rating: "4"
 num: "274"
-eng: "Food Waste: Home Consumption, Material Culture and Everyday Life by David Evans examines the problem of food waste from a cultural perspective, exploring its causes, consequences, and potential solutions for a more sustainable future."
+update: ""
 image: "/assets/new/food-waste.jpg"
 ---
 

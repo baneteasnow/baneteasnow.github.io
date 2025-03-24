@@ -8,7 +8,8 @@ yazar: "Kathryn Kellogg"
 yil: "2021"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/en/book/show/40611253"
-description: "Sıfır Atık İçin 101 Yol, çevreye duyarlı atıksız bir yaşam için 101 farklı öneri getiriyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-11-23
@@ -16,7 +17,7 @@ tag: "sıfır atık yaşam"
 reread: "no"
 rating: "2"
 num: "290"
-eng: "101 Ways to Go Zero Waste by Kathryn Kellogg is a practical and inspiring book that offers readers simple and actionable tips for reducing waste and living a more sustainable lifestyle. A wide range of topics, including home cleaning and personal care, as well as food and travel are covered in this book."
+udpate: ""
 image: "/assets/new/101-ways-to-go-zero-waste.jpg"
 ---
 

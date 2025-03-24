@@ -10,12 +10,14 @@ sayfa: "176"
 goodreads: "https://www.goodreads.com/book/show/57670254-ikigai"
 last_modified_at: 2023-01-14
 published: true
-description: "Ikigai isimli kitap tüm dünyaya Japonya'dan yayılan ve hep meşgul kalarak mutlu olmak anlamına gelen kavramı inceliyor."
+description: ""
+eng: ""
 tag: "lifestyle"
 posted: 2021-12-01
 reread: "no"
 rating: "4"
 num: "207"
+update: ""
 image: "/assets/new/ikigai-garcia-miralles.jpg"
 ---
 

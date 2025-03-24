@@ -9,17 +9,17 @@ yazar: "Mark Lynas"
 yil: "2009"
 sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/227477.Six_Degrees"
-description: "Mark Lynas'in 6 Derece kitabı, iklim değişikliğinin çeşitli sıcaklık artışı seviyelerinde dünyamızı nasıl etkileyeceğini inceleyen kapsamlı bir çalışmadır."
+description: ""
+eng: ""
 last_modified_at: 2023-06-04
 published: true
 posted: 2023-06-04
 tag: "çevre"
 reread: "yes"
 rating: "4"
-eng: "Six Degrees by Mark Lynas explores the potential consequences of climate change at different temperature increase levels. From rising sea levels to ecosystem collapse, the book presents a compelling case for urgent action to address the climate crisis. Lynas emphasizes the need for collective efforts to mitigate the devastating effects of global warming."
 num: "326"
-image: "/assets/new/six-degrees.jpg"
 update: "tobeupdated"
+image: "/assets/new/six-degrees.jpg"
 ---
 
 to be updated...

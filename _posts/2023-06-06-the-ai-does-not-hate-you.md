@@ -10,17 +10,17 @@ yazar: "Tom Chivers"
 yil: "2023"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/56222142-the-ai-does-not-hate-you"
-description: "Tom Chivers, kitabında yapay zekanın insan zekasını aşma potansiyelini ve bu durumun beraberinde getirebileceği riskleri tartışıyor.  Yapay zekanın gelecekte insan zekasını geçebileceğini savunanların görüşlerine yer veriyor ve bu durumun insanlığın karşılaşabileceği süper zeka ve onun potansiyel riskleri üzerindeki etkilerini ele alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-06
 published: true
 posted: 2023-06-06
 tag: "yapay zeka"
 reread: "yes"
 rating: "4"
-eng: "The AI Does Not Hate You: Superintelligence, Rationality and the Race to Save the World by Tom Chivers is an insightful exploration of the potential risks and rewards of artificial intelligence. It delves into the concept of superintelligence, presents arguments from rationalists, and emphasizes the importance of informed decision-making and proactive measures to ensure the safe development of AI."
 num: "328"
-image: "/assets/new/the-ai-does-not-hate-you.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-ai-does-not-hate-you.jpg"
 ---
 
 to be updated...

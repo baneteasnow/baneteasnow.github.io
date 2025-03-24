@@ -9,17 +9,17 @@ yazar: "Shakti Gawain"
 yil: "2021"
 sayfa: "180"
 goodreads: "https://www.goodreads.com/book/show/582533.Creative_Visualization"
-description: "Shakti Gawain'in Yaratıcı İmgeleme kitabı, pozitif düşünce ve zihinsel imgelemenin gücünü vurgularken, hayallerimizi gerçekleştirme ve yaşamımızı dönüştürme konusunda da rehberlik sunuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-10
 published: true
 posted: 2023-06-10
 tag: "motivasyon"
 reread: "yes"
 rating: "4"
-eng: "Creative Visualization by Shakti Gawain explores the transformative power of thoughts and imagination. It introduces practical techniques for manifesting desires and emphasizes the importance of positive thinking. The book empowers readers to create a fulfilling life through the practice of visualization."
 num: "332"
-image: "/assets/new/creative-visualization.jpg"
 update: "tobeupdated"
+image: "/assets/new/creative-visualization.jpg"
 ---
 
 to be updated...

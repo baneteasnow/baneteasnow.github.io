@@ -8,7 +8,8 @@ yazar: "Eric Jorgenson"
 yil: "2020"
 sayfa: "242"
 goodreads: "https://www.goodreads.com/en/book/show/54898389"
-description: "Bilgenin Güncesi:, Angellist'in kurucusu ve pek çok unicorn şirketin yatırımcısı olan Naval Ravikant'ın bugüne kadar attığı adeta ders niteliğindeki tweetleri, verdiği röportajların çözümlemeleri, blogunda ve diğer yerlerde paylaştığı yazılarının bir derlemesi niteliğinde."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-08-03
@@ -16,7 +17,7 @@ tag: "felsefe"
 reread: "yes"
 rating: "3"
 num: "276"
-eng: "The Almanack of Naval Ravikant by Eric Jorgenson is a compilation of the wisdom and insights of entrepreneur Naval Ravikant, providing practical guidance on wealth creation, personal development, and finding fulfillment in life."
+update: ""
 image: "/assets/new/the-almanack-of-naval-ravikant.jpg"
 ---
 

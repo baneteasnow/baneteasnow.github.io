@@ -8,7 +8,8 @@ yazar: "Colette Dowling"
 yil: "1998"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/153378.The_Cinderella_Complex"
-description: "Sinderalla Kompleksi, çalışan bir kadının evlenmesinden ve bir aile sahibi olmasından sonra iş hayatına ve kariyere olan bakışının ne yönde değiştiğini ele alıyor. Ayrıca, yaşanan bu değişimin gerisinde yatan nedenin aslında bağımsızlık korkusu olup olmadığını sorguluyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-18
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "272"
-eng: "The Cinderella Complex: Women's Hidden Fear of Independence by Colette Dowling explores the psychological barriers women face in embracing independence and fulfilling their potential, offering insights and encouragement to overcome societal conditioning and pursue personal fulfillment."
+update: ""
 image: "/assets/new/the-cinderella-complex.jpg"
 ---
 

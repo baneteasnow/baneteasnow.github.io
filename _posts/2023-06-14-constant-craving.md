@@ -9,17 +9,17 @@ yazar: "Doreen Virtue"
 yil: "2020"
 sayfa: "376"
 goodreads: "https://www.goodreads.com/book/show/12083696-constant-craving"
-description: "Duygusal Açlık kitabı, okuyuculara duygusal açlığın kökenlerini anlama, farkındalık geliştirme ve sağlıklı bir şekilde bu açlığı aşma konularında yol gösterir."
+description: ""
+eng: ""
 last_modified_at: 2023-06-14
 published: true
 posted: 2023-06-14
 tag: "psikoloji"
 reread: "yes"
 rating: "5"
-eng: "Constant Craving by Doreen Virtue is a book that explores the nature of cravings, provides insights into their underlying causes, and offers practical strategies to overcome them and find fulfilment."
 num: "336"
-image: "/assets/new/constant-craving.jpg"
 update: "tobeupdated"
+image: "/assets/new/constant-craving.jpg"
 ---
 
 to be updated...

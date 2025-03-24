@@ -8,7 +8,8 @@ yazar: "Francesc Miralles, Hector Garcia"
 yil: "2019"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/53677560-the-ikigai-journey"
-description: "Ikigai - Uygulama Rehberi, bir kişinin kendi Ikigaisini nasıl keşfedebileceğini çeşitli mini egzersizler eşliğinde aktarıyor."
+description: ""
+eng: ""
 tag: "lifestyle"
 last_modified_at: 2023-01-14
 published: true
@@ -16,7 +17,7 @@ posted: 2022-05-11
 reread: "no"
 rating: "3"
 num: "247"
-eng: "The Ikigai Journey by Francesc Miralles and Hector Garcia is a practical guide that explores the concept of ikigai, the Japanese philosophy of finding purpose and happiness. Drawing from ancient wisdom and modern research, the book offers insights and exercises to help readers uncover their own ikigai and live a more fulfilling and meaningful life."
+update: ""
 image: "/assets/new/the-ikigai-journey.jpg"
 ---
 

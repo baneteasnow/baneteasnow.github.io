@@ -8,7 +8,8 @@ yazar: "Stefano D'Anna"
 yil: "2021"
 sayfa: "447"
 goodreads: "https://www.goodreads.com/book/show/7120047-the-school-for-gods"
-description: "Tanrılar Okulu, dünyanın kişinin düşlediklerini ayna gibi yansıttığını anlatıyor. Eğer kişinin bizzat kendisi içinde bulunduğu kırmazsa aynı olayları tekrar tekrar yaşar. Stefano D'Anna, tek çözümün bunun farkına varıp cesaretle sarmalın dışına çıkmak olduğunu Dreamer'in kurduğu cümlelerde tekrar tekrar hatırlatıyor. "
+description: ""
+eng: ""
 last_modified_at: 2023-02-25
 published: true
 posted: 2023-02-25
@@ -16,7 +17,7 @@ tag: "felsefe"
 reread: "no"
 rating: "3"
 num: "314"
-eng: "Stefano D'Anna's philosophical book, The School for Gods, aims to lead readers on a spiritual journey toward discovering their own divinity. D'Anna gives people practical insights and tools for personal growth and transformation by combining ancient wisdom with modern psychology."
+update: ""
 image: "/assets/new/the-school-for-gods.jpg"
 ---
 

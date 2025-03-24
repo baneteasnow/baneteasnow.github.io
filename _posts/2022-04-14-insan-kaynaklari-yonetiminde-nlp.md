@@ -8,7 +8,8 @@ yazar: "Elvan Acar"
 yil: "2006"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/54968118-the-code-breaker"
-description: "İnsan Kaynakları Yönetiminde NLP isimli kitapta, Kişisel gelişim uygulamalarının başında yer alan NLP tekniklerinden bir örgütsel gelişim yöntemi olarak insan kaynakları yönetiminin daha etkin olabilmesi için nasıl yararlanılabileceği anlatılıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-04-14
@@ -16,6 +17,7 @@ tag: "yönetim"
 reread: "no"
 rating: "2"
 num: "240"
+update: ""
 image: "/assets/new/insan-kaynaklari-yonetiminde-nlp.jpg"
 ---
 

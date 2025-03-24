@@ -9,7 +9,8 @@ yazar: "Emel Ernalbant, Hazal Yılmaz"
 yil: "2021"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/58484348-50-maddede-veganlik"
-description: "50 Maddede Veganlık, veganlığın kısa tarihi, veganlıkla ilgili temel kavramlar, vegan yaşam tarzı ile ilgili ayrıntılar gibi pek çok başlığın kısa notlar şeklinde paylaşıldığı veganlıkla ilgili mini bir rehber."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-11
@@ -17,7 +18,7 @@ tag: "veganlık"
 reread: "no"
 rating: "5"
 num: "269"
-eng: "50 Maddede Veganlık by Emel Ernalbant and Hazal Yılmaz is a Turkish book that explores veganism in 50 concise chapters, providing information, insights, and practical tips for adopting a vegan lifestyle. This book covers various aspects of veganism, including nutrition, animal welfare, environmental impact, and ethical considerations."
+update: ""
 image: "/assets/new/50-maddede-veganlik.jpg"
 ---
 

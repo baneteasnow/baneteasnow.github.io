@@ -9,17 +9,17 @@ yazar: "S. Sharamon, B. J. Baginski"
 yil: "2000"
 sayfa: "283"
 goodreads: "https://www.goodreads.com/book/show/192999.The_Chakra_Handbook"
-description: "Shalila Sharamon ve Bodo J. Baginski'nin Chakra El Kitabı, çakra sistemi hakkında pratik bilgiler ve teknikler sunuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-26
 published: true
 posted: 2023-06-26
 tag: "motivasyon"
 reread: "yes"
 rating: "4"
-eng: "Shalila Sharamon and Bodo J. Baginski's The Chakra Handbook is a comprehensive guide that provides practical information and techniques for understanding and balancing the chakra system."
 num: "348"
-image: "/assets/new/the-chakra-handbook.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-chakra-handbook.jpg"
 ---
 
 to be updated...

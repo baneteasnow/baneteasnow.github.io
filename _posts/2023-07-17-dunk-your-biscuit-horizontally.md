@@ -10,17 +10,17 @@ yazar: "Rik Kuiper, Tonie Mudde"
 yil: "2012"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/7393584-dunk-your-biscuit-horizontally"
-description: "Dunk Your Biscuit Horizontally, ilginç gerçeklerle dolu bir popüler kültür kitabıdır."
+description: ""
+eng: ""
 last_modified_at: 2023-07-17
 published: true
 posted: 2023-07-17
 tag: "sosyal bilimler"
 reread: "no"
 rating: "3"
-eng: "Dunk Your Biscuit Horizontally is an intriguing pop culture book written by Rik Kuiper and Tonie Mudde."
 num: "356"
-image: "/assets/new/dunk-your-biscuit-horizontally.jpg"
 update: "tobeupdated"
+image: "/assets/new/dunk-your-biscuit-horizontally.jpg"
 ---
 
 to be updated...

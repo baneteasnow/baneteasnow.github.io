@@ -8,7 +8,8 @@ yazar: "Martha Friedman"
 yil: "1997"
 sayfa: "184"
 goodreads: "https://www.goodreads.com/book/show/2311637.Overcoming_the_Fear_of_Success"
-description: "Başarı Korkusu, kavramı çeşitli yönleriyle ele alarak, toplumdaki yerini, hangi deneyimlerle ortaya çıktığını ve aile içi ilişkilerden nasıl etkilendiğini inceliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-13
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "270"
-eng: "Overcoming the Fear of Success by Martha Friedman is a transformative guide that helps individuals break free from self-destructive patterns, conquer the fear of success, and create a life filled with love, fulfillment, and authenticity."
+update: ""
 image: "/assets/new/overcoming-the-fear-of-success.jpg"
 ---
 

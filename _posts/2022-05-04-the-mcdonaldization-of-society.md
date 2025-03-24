@@ -10,13 +10,14 @@ sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/119849.The_McDonaldization_of_Society"
 last_modified_at: 2023-01-14
 published: true
-description: "Toplumun McDonaldlaştırılması isimli kitap sosyoloji, yönetim ve iktisat alanlarından yararlanarak günümüz modern toplumunun bir analizini yapıyor."
+description: ""
+eng: ""
 tag: "sosyoloji"
 posted: 2022-05-04
 reread: "yes"
 rating: "5"
 num: "246"
-eng: "The McDonaldization of Society by George Ritzer explores how fast food principles and practices have infiltrated and transformed various aspects of contemporary life, from education to entertainment, emphasizing efficiency, calculability, predictability, and control. The book highlights the widespread influence of this rationalized and standardized approach and its implications for society."
+update: ""
 image: "/assets/new/the-mcdonaldization-of-society.jpg"
 ---
 

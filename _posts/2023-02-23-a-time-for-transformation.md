@@ -8,7 +8,8 @@ yazar: "Diana Cooper"
 yil: "2022"
 sayfa: "192"
 goodreads: "https://www.goodreads.com/book/show/1230687.A_Time_for_Transformation"
-description: "Dönüşüm Zamanı, kendimizi ve hayatımızı dönüştürmek için düşünme şeklimizde hangi değişiklikleri yapmamız gerektiğini açıklıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-23
 published: true
 posted: 2023-02-23
@@ -16,7 +17,7 @@ tag: "motivasyon"
 reread: "no"
 rating: "4"
 num: "312"
-eng: "A Time For Transformation by Diana Cooper is a book that explores the spiritual significance of the current era of transformation and awakening that the world is experiencing. The book offers insights into the ascension process and practical guidance on how to navigate through the challenges and opportunities of this time. Diana Cooper draws upon her extensive knowledge of metaphysics, angelic realms, and spiritual teachings to provide a comprehensive understanding of the spiritual evolution that is occurring. It is a potentially helpful resource for those looking to explore spiritual growth and deepen their connection to the divine during this period of transformation."
+update: ""
 image: "/assets/new/a-time-for-transformation.jpg"
 ---
 

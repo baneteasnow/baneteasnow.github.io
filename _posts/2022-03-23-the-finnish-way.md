@@ -8,7 +8,8 @@ yazar: "Katja Pantzar"
 yil: "2018"
 sayfa: "251"
 goodreads: "https://www.goodreads.com/book/show/52813626-the-finnish-way"
-description: "Sisu'nun Peşinde, anne-babası Finlandiya'dan Kanada'ya göç eden Katja Pantzar'ın Finlandiya'ya taşınmasını, oradaki kültürü ve bu kültürün temel parçası olan 'sisu' kavramını günlük yaşam çerçevesinde ele alıyor."
+description: ""
+eng: ""
 tag: "lifestyle"
 last_modified_at: 2023-01-14
 published: true
@@ -16,6 +17,7 @@ posted: 2022-03-23
 reread: "no"
 rating: "5"
 num: "234"
+update: ""
 image: "/assets/new/the-finnish-way.jpg"
 ---
 

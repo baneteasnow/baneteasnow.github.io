@@ -10,17 +10,17 @@ yazar: "Barbara Bleisch"
 yil: "2022"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/38615161-warum-wir-unseren-eltern-nichts-schulden"
-description: "Ebeveynlerimize Neden Borçlu Değiliz? kitabı, yetişkinlerin ebeveynleriyle olan ilişkilerini sorguluyor, sorumluluk ve minnet duygularını anlamaya yönelik bir çerçeve çiziyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-21
 published: true
 posted: 2023-06-21
 tag: "felsefe"
 reread: "yes"
 rating: "5"
-eng: "This book explores the complex emotions adults have towards their parents and offers guidance on navigating these feelings in modern society."
 num: "343"
-image: "/assets/new/ebeveynlerimize-neden-borclu-degiliz.jpg"
 update: "tobeupdated"
+image: "/assets/new/ebeveynlerimize-neden-borclu-degiliz.jpg"
 ---
 
 to be updated...

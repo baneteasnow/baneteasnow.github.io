@@ -8,7 +8,8 @@ yazar: "Kit White"
 yil: "2013"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/12678837-101-things-to-learn-in-art-school"
-description: "Sanat Okulunda Öğrenilecek 101 Şey, sanatın özünü oluşturan detayları ve yansıttığı ortak duyguyu anlatıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-02
 published: true
 posted: 2023-02-02
@@ -16,7 +17,7 @@ tag: "sanat"
 reread: "no"
 rating: "5"
 num: "299"
-eng: "101 Things to Learn in Art School by Kit White is a comprehensive guide to the fundamental principles of art and design. The book is organized into short lessons or tips that cover a wide range of art-related themes, from fundamental compositional ideas and color theory to more intricate topics like conceptual art and critical theory."
+update: ""
 image: "/assets/new/101-things-to-learn-in-art-school.jpg"
 ---
 

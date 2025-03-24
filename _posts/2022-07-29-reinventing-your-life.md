@@ -8,7 +8,8 @@ yazar: "Jeffrey E. Young, Janet S. Klosko"
 yil: "2021"
 sayfa: "451"
 goodreads: "https://www.goodreads.com/book/show/43866.Reinventing_Your_Life"
-description: "Hayatı Yeniden Keşfedin, Jeffrey Young tarafından geliştirilen ve birkaç terapi yaklaşımının en iyi özelliklerini birleştirerek oluşturduğu Şema Terapiyi ve onbir şemayı inceliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-29
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "275"
-eng: "Reinventing Your Life by Jeffrey E. Young and Janet S. Klosko is a self-help book that presents a program to overcome negative behaviors, heal past wounds, and cultivate a more fulfilling life through practical strategies and cognitive therapy techniques."
+update: ""
 image: "/assets/new/reinventing-your-life.jpg"
 ---
 

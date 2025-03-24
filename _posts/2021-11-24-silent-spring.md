@@ -10,12 +10,14 @@ sayfa: "368"
 goodreads: "https://www.goodreads.com/book/show/27333.Silent_Spring"
 last_modified_at: 2023-01-14
 published: true
-description: "1962 yılında Rachel Carson'ın yazdığı Sessiz Bahar, kimyasalların tarımda kullanımının insan sağlığı ve çevre - ekosistem üzerindeki olumsuz etkilere dikkat çeken bir kitap."
+description: ""
+eng: ""
 posted: 2021-11-24
 tag: "çevre"
 reread: "yes"
 rating: "5"
 num: "206"
+update: ""
 image: "/assets/new/silent-spring.jpg"
 ---
 

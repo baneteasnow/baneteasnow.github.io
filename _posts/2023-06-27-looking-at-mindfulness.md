@@ -10,17 +10,17 @@ yazar: "Christophe Andre"
 yil: "2018"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/23310167-looking-at-mindfulness"
-description: "Christophe André's book, Looking at Mindfulness, provides a valuable guide to understanding and practicing mindfulness for inner peace and mental well-being."
+description: ""
+eng: ""
 last_modified_at: 2023-06-27
 published: true
 posted: 2023-06-27
 tag: "mindfulness"
 reread: "no"
 rating: "5"
-eng: "Christophe André'nin Mindfulness adlı kitabı, iç huzur ve zihinsel refah için mindfulness'in anlaşılması ve uygulanması konusunda yol gösteriyor."
 num: "349"
-image: "/assets/new/looking-at-mindfulness.jpg"
 update: "tobeupdated"
+image: "/assets/new/looking-at-mindfulness.jpg"
 ---
 
 to be updated...

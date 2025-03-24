@@ -8,7 +8,8 @@ yazar: "Anthony Bourdain"
 yil: "2022"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/33313.Kitchen_Confidential"
-description: "Mutfak Sırları, ünlü şef Anthony Bourdain'in inişlerle ve çıkışlarla dolu kariyerindeki ilginç kesitlerini ve maceralarını anlatan eğlenceli, içten bir kitap."
+description: ""
+eng: ""
 last_modified_at: 2023-02-07
 published: true
 posted: 2023-02-07
@@ -16,7 +17,7 @@ tag: "profile"
 reread: "no"
 rating: "4"
 num: "302"
-eng: "Anthony Bourdain's memoir, Kitchen Confidential, provides a thorough and open description of the food business. To explain to readers how kitchens function and the culture that surrounds them, Bourdain draws on his own experiences as a chef and restaurateur. He talks about the difficulties and benefits of the profession as well as its less positive sides, such drug abuse and kitchen politics."
+update: ""
 image: "/assets/new/kitchen-confidential.jpg"
 ---
 

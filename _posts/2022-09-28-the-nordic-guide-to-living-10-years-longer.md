@@ -8,7 +8,8 @@ yazar: "Bertil Marklund"
 yil: "2019"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/32714114-the-nordic-guide-to-living-10-years-longer"
-description: "Bir tıp doktoru olan Bertil Marklund, klinik deneyimlerinden yola çıkarak daha sağlıklı ve uzun bir yaşam için ipuçlarını İskandinav hayat tarzına odaklanarak paylaşıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-09-28
@@ -16,7 +17,7 @@ tag: "lifestyle"
 reread: "no"
 rating: "3"
 num: "285"
-eng: "The Nordic Guide to Living 10 Years Longer by Bertil Marklund is a book that explores the secrets of Nordic longevity and provides practical tips for living a healthier and longer life. Marklund examines the lifestyle factors that contribute to the high life expectancy in the Nordic countries, including healthy eating habits, physical activity, and stress management. He also highlights the importance of social connections and community involvement for overall health and well-being. The book offers evidence-based advice on how to adopt these healthy habits, such as eating a plant-based diet and incorporating regular exercise into daily routines."
+update: ""
 image: "/assets/new/the-nordic-guide-to-living-10-years-longer.jpg"
 ---
 

@@ -10,12 +10,14 @@ sayfa: "140"
 goodreads: "https://www.goodreads.com/book/show/29468074-zehirsiz-ev"
 last_modified_at: 2023-01-14
 published: true
-description: "Zehirsiz Ev, günlük olarak kullanılan ve yoğun kimyasallar içeren ürünlerin alternatiflerini öneren bir kitap."
+description: ""
+eng: ""
 posted: 2021-10-27
 tag: "sürdürülebilirlik"
 reread: "no"
 rating: "3"
 num: "201"
+update: ""
 image: "/assets/new/zehirsiz-ev.jpg"
 ---
 

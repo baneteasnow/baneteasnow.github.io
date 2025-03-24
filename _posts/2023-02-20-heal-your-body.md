@@ -8,7 +8,8 @@ yazar: "Louise L. Hay"
 yil: "2012"
 sayfa: "112"
 goodreads: "https://www.goodreads.com/book/show/270435.Heal_Your_Body"
-description: "Louise L. Hay, bir kişinin hayatını şekillendiren en önemli unsurun aklından geçen düşünceler olduğunu vurguluyor ve düşüncelerin sağlığı nasıl etkilediğini anlatıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-20
 published: true
 posted: 2023-02-20
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 num: "309"
 rating: "4"
-eng: "Heal Your Body by Louise L. Hay discusses the connection between the mind and body as well as how our ideas and emotions can impact our physical health. Hay provides a thorough list of prevalent illnesses and their underlying emotional causes while offering affirmations and visualisation techniques to encourage healing and constructive transformation. The book encourages readers to take responsibility for their health and well-being, and to use the power of their thoughts and beliefs to create a healthy and fulfilling life."
+update: ""
 image: "/assets/new/heal-your-body.jpg"
 ---
 

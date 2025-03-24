@@ -10,17 +10,17 @@ yazar: "The School of Life"
 yil: "2022"
 sayfa: "96"
 goodreads: "https://www.goodreads.com/book/show/36135707-how-to-find-love"
-description: "The School of Life tarafından kaleme alınan How to Find Love kitabı, aşkı bulma sürecinde okuyuculara sağduyulu rehberlik sunan bir kaynaktır."
+description: ""
+eng: ""
 last_modified_at: 2023-07-03
 published: true
 posted: 2023-07-03
 tag: "felsefe"
 reread: "yes"
 rating: "4"
-eng: "How to Find Love is a thoughtful guide written by The School of Life, offering sensible guidance to readers in their journey of finding love."
 num: "353"
-image: "/assets/new/how-to-find-love.jpg"
 update: "tobeupdated"
+image: "/assets/new/how-to-find-love.jpg"
 ---
 
 to be updated...

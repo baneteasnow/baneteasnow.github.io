@@ -9,7 +9,7 @@ yazar: "Eckhart Tolle"
 yil: "2010"
 sayfa: "229"
 goodreads: "https://www.goodreads.com/book/show/6708.The_Power_of_Now"
-description: "Günlük koşuşturmaca içinde ya geçmişte ya da gelecekte yaşayanlara şimdiki zamana dönmeleri için bir çağrı niteliğinde olan bu kitap, tüm zamanların en çok satılanları arasında."
+update: ""
 tag: "felsefe"
 last_modified_at: 2023-01-14
 published: true
@@ -17,7 +17,7 @@ posted: 2022-06-01
 reread: "yes"
 rating: "4"
 num: "253"
-eng: "The Power of Now by Eckhart Tolle is a life-changing guide that teaches the power of living in the present moment for spiritual enlightenment and inner peace."
+update: ""
 image: "/assets/new/the-power-of-now.jpg"
 ---
 

@@ -9,17 +9,17 @@ yazar: "Marianne Williamson"
 yil: "2018"
 sayfa: "280"
 goodreads: "https://www.goodreads.com/book/show/845977.A_Return_to_Love"
-description: "A Return to Love by Marianne Williamson is a spiritual guide that emphasizes the transformative power of love and forgiveness in our personal and collective journeys."
+description: ""
+eng: ""
 last_modified_at: 2023-06-25
 published: true
 posted: 2023-06-25
 tag: "motivasyon"
 reread: "yes"
 rating: "3"
-eng: "Marianne Williamson tarafından yazılan A Return to Love, kişisel ve kolektif yolculuklarımızda sevgi ve bağışlamanın dönüştürücü gücünü vurgulayan bir ruhsal rehberdir."
 num: "347"
-image: "/assets/new/a-return-to-love.jpg"
 update: "tobeupdated"
+image: "/assets/new/a-return-to-love.jpg"
 ---
 
 to be updated...

@@ -8,7 +8,8 @@ yazar: "Jack Ensign Addington"
 yil: "2007"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/11999765-one-hundred-per-cent-mind-power"
-description: "İnsan kendi zihinsel kalıplarını belirler, düşünceler ise bu kalıpları doldurur. %100 Düşünce Gücü, düşüncelerimizi bilinçli kullanarak bilinçaltımızı nasıl yönlendirebileceğimizi anlatıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-10-30
@@ -16,7 +17,7 @@ tag: "kisisel gelisim"
 reread: "no"
 rating: "3"
 num: "288"
-eng: "100 Percent Mind Power by Jack Ensign Addington is a book that addresses the idea of using the power of the mind to increase success and pleasure. The book offers helpful advice on how to strengthen mental concentration and enhance one's attitude via the use of positive thinking, visualization and affirmations. Addington offers exercises and methods that readers may utilize to unleash their mind's full potential and accomplish their personal and professional objectives."
+update: ""
 image: "/assets/new/100-percent-mind-power.jpg"
 ---
 

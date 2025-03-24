@@ -8,53 +8,31 @@ yazar: "Adam Alter"
 yil: "2018"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/30962055-irresistible"
-description: ""
-eng: ""
+description: "Karşı Konulmaz, modern teknolojilerin nasıl kasıtlı olarak bağımlılık yapacak şekilde tasarlandığını ve bu durumun davranışlarımızı nasıl dönüştürdüğünü anlatıyor."
+eng: "Irresistible explores how modern technologies are deliberately designed to be addictive, reshaping our behaviors and making it harder to disconnect.”"
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-24
 posted: 2018-08-25
 tag: "üretkenlik ve teknoloji"
 reread: "yes"
 rating: "5"
 num: "107"
-update: ""
+update: "done"
 image: "/assets/old/irresistible.jpg"
 ---
 
-Karşı Konulmaz, bağımlılık yapıcı davranışları yani 'Davranışsal Bağımlılığı' özellikle teknoloji açısından ele alıyor. Kitapta, konuyla ilgili olarak yapılan araştırmaların ve deneylerin sonuçları da paylaşılıyor.
+Adam Alter’ın Karşı Konulmaz kitabı, teknolojiyle kurduğumuz ilişkiye ve bunun giderek nasıl bir bağımlılığa dönüştüğüne dair oldukça çarpıcı bir tablo çiziyor. Yazar bu bağımlılığı, tıpkı bir madde bağımlılığı gibi ele alıyor; ancak burada konu olan, ekran başında geçirilen zaman, sosyal medyada geçirilen saatler, oyunlar, diziler ve hatta “boş e-posta kutusu” hedefi gibi görünüşte zararsız davranışlar.
 
-Kitap, çarpıcı bir örnekle başlıyor. Apple, Instagram, Blogger, Twitter, Medium gibi firmaların kurucuları aslında oldukça bağımlılık yapıcı bir teknoloji yarattıklarının farkında oldukları için kendi çocukları söz konusu olduğunda interneti / tablet / bilgisayar kullanımını sınırlandırmışlardır. Yazar, bu kişilerin teknolojinin çekiciliğinin bir bağımlılığa dönüşmesinin an meselesi olması nedeni ile bu tür bir karar aldıklarını vurgulamıştır.
+Kitabın başında dikkat çekici bir örnekle karşılaşıyoruz: Apple, Instagram, Twitter gibi platformların kurucularının kendi çocuklarının ekran süresini bilinçli olarak kısıtladıkları anlatılıyor. Bu kişiler, geliştirdikleri teknolojilerin ne kadar bağımlılık yapıcı olduğunu bildikleri için kendi ailelerinde sınırlamalar getirmişler. (sayfa 12–13)
 
-Bağımlılık büyük oranda çevre ve koşullar tarafından yaratılır. Bir deneyim geliştikçe eskisinin karşı konulmaz, adeta silaha dönüşmüş bir versiyonu haline geliyor. Facebook 2004 yılında eğlenceliydi, 2016'da ise bağımlılık yapıcı. (sayfa 13)
+Alter, kitabında “davranışsal bağımlılık” kavramını merkeze alıyor. Bu tür bir bağımlılık, bir maddeye değil, bir davranışa duyulan kontrolsüz ihtiyaçla tanımlanıyor. Alışveriş, e-posta kontrolü, oyun, sosyal medya kullanımı gibi davranışlar bu kapsama giriyor. Kitapta, davranışsal bağımlılığın altı temel özelliği sıralanıyor: ulaşılması güç ama erişilebilir hedefler, öngörülemez ama ödüllendirici geri bildirimler, artan ilerleme hissi, giderek zorlaşan görevler, çözüm gerektiren gerilimler ve güçlü sosyal bağlar. (sayfa 22–25)
 
-Teknoloji, onu kitle tüketimi için şekillendiren kurumlar tarafından yönlendirilene kadar, ahlaken iyi veya kötü değildir. Uygulamalar ve platformlar zengin sosyal bağlantıları geliştirecek şekilde de tasarlanabilir, sigaralarda olduğu gibi bağımlılık yaratmak üzere de.
+Bu özelliklerin büyük çoğunluğu, özellikle sosyal medya ve mobil oyun tasarımlarının merkezinde yer alıyor. Facebook’un bildirim sistemlerinden Candy Crush’ın “neredeyse kazanma” kurgusuna, her şey kullanıcıyı içeride tutmak için tasarlanmış. Yazar, bu sistemlerin bilinçli olarak “öğrenmede yakınsal gelişim alanı” (zone of proximal development) ilkesine göre kurgulandığını belirtiyor. (sayfa 104)
 
-Davranışsal bağımlılık altı bileşenden oluşur:
+Kitapta ayrıca bazı psikolojik fenomenlere de yer veriliyor. Örneğin Zeigarnik Etkisi: tamamlanmamış işler, zihnimizde tamamlananlardan daha çok yer kaplar. Bu da bir dizinin bölümlerini durmaksızın izlememizin, mail kutumuzu sıfırlama isteğimizin, ya da bazı oyunları elimizden bırakamamamızın altında yatan nedenlerden biri. (sayfa 93)
 
-- Ulaşabildiğinizin az ötesinde çekici hedefler,
-- Karşı konulmaz ve öngörülmez olumlu geri besleme,
-- Artan bir gelişme ve ilerleme duygusu,
-- Zaman içinde yavaş yavaş zorlaşan görevler,
-- Çözüm gerektiren gerilimler,
-- Güçlü sosyal bağlantılar.
+Yazarın en çarpıcı saptamalarından biri de şu: teknoloji ahlaken ne iyi ne de kötüdür; onu iyi ya da kötü yapan, onu hangi amaçla tasarladığımızdır. Instagram, Facebook, Twitter gibi uygulamalar da en başta insanları bağ kurmak için cezbetse de zamanla dikkat ekonomisinin bir parçası haline gelip kullanıcı davranışlarını istismar eder hâle geliyor.
 
-Yazarın önerisi şöyle:
+Kitapta reStart gibi internet bağımlılığına özel açılmış rehabilitasyon merkezlerine de değiniliyor. ABD’deki bu merkezlerde gençler, teknolojiyle olan ilişkilerini yeniden yapılandırmak üzere terapiye alınıyorlar. Ayrıca, telefonun yalnızca varlığının bile yüz yüze iletişimi bozduğuna dair araştırmalar ve örnekler de kitapta yer buluyor. (sayfa 211)
 
-> Davranışsal bağımlılık çağı henüz yeni başlamış sayılsa da, bir krizin işaretleri kendini göstermekte. Burada olumlu olan nokta, davranışsal bağımlılık ilişkisi henüz sabit bir hale geçmemiş ve şekillendirilebilir durumda. Bu nedenle, davranışsal bağımlılıkların nasıl işlediğini çözmeyi başaranlar da. Kendilerini muhtemel zarardan koruyabilirler. Bu noktadan hareketle, kitap genel hatlarıyla davranışsal bağımlılığı ve insan psikolojisinin bu bağımlılık türüne neden bu kadar açık olduğunu inceliyor.
-
-Kitabın içeriğini oluşturan diğer bazı noktalar şöyle:
-
-- Geri bildirimin bağımlılık davranışı üzerindeki etkileri,
-- Son dönemlerde pek çok kişide artan bir dizinin bölümlerini arka arkaya izleme (binge-watching) davranışı,
-- Bir garsonun hiç yazmadan 5-6 masanın siparişini aklında tutması, mutfağa iletmesi ancak, siparişleri dağıttıktan hemen sonra bu siparişleri unutmasının perde arkası (Zeigarnik Etkisi),
-- Oyun tasarımcılarının kendi oyunlarını oynamaktan işlerine devam edememesinin hikayesi, bağımlılık yapıcı bilgisayar oyunlarının önce oyun konsollarına ardından mobil cihazlara taşınması ve bu durumun hayatımızı nasıl etkilediği (Candy Crush, Tetris, 2048, Süper Mario, FarmVille, World of Warcraft gibi örnekler paylaşılıyor),
-- 'Öğrenmede yakınsal gelişim alanının' oyun tasarımında nasıl kullanıldığı,
-- Bağımlılık yapıcı oyunların ortak tasarım özellikleri,
-- Instagram, Facebook, v.b. sosyal medya bağımlılıkları,
-- Çalışma hayatında belki de en fazla görülen bağımlılıklardan biri olan 'boş posta kutusu' hedefi,
-- 'Neredeyse kazanma deneyimi'nin yol açtıkları,
-- Sınırlı süreyle kampanyalı alışveriş imkanı tanıyan sitelerden yapılan "çoğu gereksiz" alışverişler,
-- The Sopranos'un ve bazı filmlerin/dizilerin adeta havada asılı kalan sonu,
-- Bir ortamda kullanılmasa bile görünür şekilde duran telefonunyüz yüzee iletişimi nasıl etkilediği,
-- Uyurken başucumuzda duran cep telefonunun bizi nasıl etkilediği,
-- Bir internet bağımlılığı merkezi (reStart) ile ilgili ayrıntılar.
+Alter’ın önerisi ise kesin ve net: bağımlılıkları anlamak, onları önlemenin ilk adımıdır. Bu çağda davranışsal bağımlılık neredeyse kaçınılmaz hale geliyor; ancak kendimize karşı daha bilinçli olur, tasarım kurnazlıklarını fark eder ve kendi sınırlarımızı koyarsak, bu döngüyü kırmak hâlâ mümkün.

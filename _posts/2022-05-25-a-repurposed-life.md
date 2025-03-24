@@ -11,13 +11,14 @@ sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/55152009-a-repurposed-life"
 last_modified_at: 2023-01-14
 published: true
-description: "A Life Repurposed, Avustralya'nın lider 'yemek kurtarma' yardım kuruluşu OzHarvest'ın kurucusu Ronni Kahn'in, Güney Afrika'da başlayan, oradan İsrail'e ve sonrasında Avustralya'ya uzanan ilginç hayat hikayesini anlatıyor."
+description: ""
+eng: ""
 posted: 2022-05-25
 tag: "profile"
 reread: "no"
 rating: "3"
 num: "251"
-eng: "A Repurposed Life is a powerful memoir by Ronni Kahn and Jessica Chapnik Kahn, depicting Ronni's transformation from an event planner to a food waste activist. It showcases her founding of OzHarvest, a leading food rescue organization, and her relentless pursuit to combat food waste and hunger. This inspiring book celebrates the capacity for individuals to drive meaningful change."
+update: ""
 image: "/assets/new/a-repurposed-life.jpg"
 ---
 

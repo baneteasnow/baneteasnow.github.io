@@ -8,7 +8,8 @@ yazar: "Steven Pressfield"
 yil: "2019"
 sayfa: "173"
 goodreads: "https://www.goodreads.com/book/show/1319.The_War_of_Art"
-description: "Yaratma Savaşı, yaratıcılık sürecinde karşılaşılan direnci ve dirençle mücadele yöntemlerini anlatıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-16
 published: true
 posted: 2023-02-16
@@ -16,7 +17,7 @@ tag: "yazmak ve yaratıcılık"
 reread: "no"
 rating: "3"
 num: "305"
-eng: "Steven Pressfield's book The War of Art examines the obstacles that prevent people from reaching their creative potential. The concept of 'resistance', which is the force that prevents us from achieving our goals and realizing our potential, is presented in the book. The author contends that resistance manifests itself in a variety of ways, including procrastination, self-doubt, and fear. The book emphasizes that it needs discipline, determination, and a strong work ethic to overcome resistance. Pressfield provides readers with helpful suggestions and guidance to help them get through resistance and succeed in their artistic undertakings."
+update: ""
 image: "/assets/new/the-war-of-art.jpg"
 ---
 

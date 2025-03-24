@@ -8,7 +8,8 @@ yazar: "Tiago Forte"
 yil: "2022"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/59616977-building-a-second-brain"
-description: "Dijitalleşme sayesinde erişilebilir bilgi miktarı her geçen gün artmakta. Building A Second Brain (BASB), bilgi yığınlarını anlamlı hale getirmenin ve kişisel bilgi yönetimi sistemi oluşturmanın yollarını açıklıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-09-10
@@ -16,7 +17,7 @@ tag: "üretkenlik ve teknoloji"
 reread: "yes"
 rating: "5"
 num: "286"
-eng: "Building a Second Brain by Tiago Forte is a book that offers a comprehensive system for organizing, managing, and utilizing digital information effectively. Forte introduces the concept of a second brain, which refers to a digital system that can store and retrieve information from various sources in an organized manner. He provides practical tips and strategies for creating a second brain, including using note-taking tools, developing a knowledge management system, and implementing workflows for information processing. Forte also addresses the potential pitfalls of information overload and the importance of balancing information consumption with productive output."
+update: ""
 image: "/assets/new/building-a-second-brain.jpg"
 ---
 

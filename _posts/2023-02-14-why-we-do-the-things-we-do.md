@@ -8,7 +8,8 @@ yazar: "Joel Levy"
 yil: "2016"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/27762659-why-we-do-the-things-we-do"
-description: "Yaptığımız Şeyleri Neden Yaparız?, psikolojinin temel sorularına kısa cevaplar veriyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-14
 published: true
 posted: 2023-02-14
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "2"
 num: "303"
-eng: "In Why We Do the Things We Do, Joel Levy presents an insightful examination of the intricate motivations underlying human behavior. Utilising a multidisciplinary perspective that encompasses psychology, biology, sociology, and neuroscience, Levy investigates the diverse elements that influence our choices, sentiments, and patterns. Examining the importance of genetics and evolution alongside the effects of culture and socialisation, Levy provides a thorough and accessible overview of the many stimuli that drive human behavior."
+update: ""
 image: "/assets/new/why-we-do-the-things-we-do.jpg"
 ---
 

@@ -9,7 +9,8 @@ yazar: "Alice Miller"
 yil: "2008"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/4887.The_Drama_of_the_Gifted_Child"
-description: "Alice Miller tarafından kaleme alınan Yetenekli Çocuğun Dramı isimli kitapta, çocuklukta yaşanan olayların ve özellikle de ebeveynlerle ilişkinin bireyin yetişkinlik hayatında bıraktığı izler konu ediliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-18
@@ -17,7 +18,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "262"
-eng: "The Drama of the Gifted Child by Alice Miller explores the impact of childhood experiences on individuals' sense of self and emphasizes the importance of healing emotional wounds to reclaim authenticity and fulfillment."
+update: ""
 image: "/assets/new/the-drama-of-the-gifted-child.jpg"
 ---
 

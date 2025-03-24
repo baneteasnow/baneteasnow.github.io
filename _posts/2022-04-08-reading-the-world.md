@@ -8,7 +8,8 @@ yazar: "Ann Morgan"
 yil: "2015"
 sayfa: "337"
 goodreads: "https://www.goodreads.com/book/show/24427168-the-world-between-two-covers"
-description: "Ann Morgan, 2012 yılında dünyadaki her ülkeden birer kitap okuma hedefi ile yola çıkar ve okuduğu kitapları ayearofreadingtheworld.com adresindeki blogunda paylaşır. Reading the World isimli kitabında ise dünya edebiyatından kitapları nasıl seçtiğini ve karşılaştığı zorlukları yer yer akademik açıdan da bakarak anlatıyor. Karşılaştığı başlıca zorluklar arasında kitapların yazıldığı ülkenin kültürel bağlamını iyi anlayabilmek (kültür şoku), kitaplara erişim, çeviri ile ilgili sorunlar ve sansür, politik ve sosyolojik farklılıkların anlaşılması, vb yer alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-04-08
@@ -16,6 +17,7 @@ tag: "kitap okumak ve kitaplar"
 reread: "no"
 rating: "4"
 num: "238"
+update: ""
 image: "/assets/new/reading-the-world.jpg"
 ---
 

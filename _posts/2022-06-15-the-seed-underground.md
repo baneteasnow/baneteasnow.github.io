@@ -10,13 +10,14 @@ sayfa: "242"
 goodreads: "https://www.goodreads.com/book/show/14359315-the-seed-underground"
 last_modified_at: 2022-06-15
 published: true
-description: "The Seed Underground, atalık tohumları korumaya ve başkaları ile paylaşmaya çalışan insanların hikayelerini anlatıyor. Janisse Ray hem kendi bahçıvanlık serüveni paylaşıyor hem de tohumların korunmasının önemine işaret ediyor."
+description: ""
+eng: ""
 posted: 2023-01-14
 tag: "bahçe tarımı"
 reread: "yes"
 rating: "5"
 num: "260"
-eng: "The Seed Underground: A Growing Revolution to Save Food by Janisse Ray is a compelling exploration of the critical role of seed saving in preserving biodiversity and ensuring food security, featuring stories of dedicated seed savers and their efforts to protect rare and endangered plant varieties."
+update: ""
 image: "/assets/new/the-seed-underground.jpg"
 ---
 

@@ -10,17 +10,17 @@ yazar: "The School of Life"
 yil: "2022"
 sayfa: "80"
 goodreads: "https://www.goodreads.com/book/show/35006962-why-you-will-marry-the-wrong-person"
-description: "The book Why You Will Marry the Wrong Person & Other Essays by The School of Life offers thought-provoking insights and guidance on modern relationships, challenging conventional ideas and encouraging a more realistic approach to love."
+description: ""
+eng: ""
 last_modified_at: 2023-06-28
 published: true
 posted: 2023-06-28
 tag: "felsefe"
 reread: "yes"
 rating: "5"
-eng: "The School of Life tarafından yazılan Neden Yanlış Kişiyle Evleneceksiniz adlı kitap, modern ilişkiler üzerine düşündüren içgörüler sunar ve aşka daha gerçekçi bir yaklaşımı teşvik eder."
 num: "350"
-image: "/assets/new/why-you-will-marry-the-wrong-person-and-other-essays.jpg"
 update: "tobeupdated"
+image: "/assets/new/why-you-will-marry-the-wrong-person-and-other-essays.jpg"
 ---
 
 to be updated...

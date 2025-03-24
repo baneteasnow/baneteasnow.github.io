@@ -8,7 +8,8 @@ yazar: "Steve Rother"
 yil: "2017"
 sayfa: "232"
 goodreads: "https://www.goodreads.com/book/show/3268935-spiritual-psychology"
-description: "Ruhsal Psikoloji, geçmişten bugüne kadar olan deneyimlerimizin nasıl yaşam derslerine dönüştüğünü anlatıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-24
 published: true
 posted: 2023-02-24
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "3"
 num: "313"
-eng: "In his book Spiritual Psychology, Steve Rother discusses how spiritual concepts and principles merge with conventional psychology. A comprehensive approach to mental health and well-being is presented in this book, with an emphasis on the significance of a person's spiritual connection and life purpose. The author provides helpful exercises and strategies to help readers increase their spiritual awareness, develop their intuition, get rid of negative emotions, and challenge limiting ideas. Through personal anecdotes and case studies, Rother encourages readers to recognise their own intrinsic strength and potential and to connect with their higher selves."
+update: ""
 image: "/assets/new/spiritual-psychology.jpg"
 ---
 

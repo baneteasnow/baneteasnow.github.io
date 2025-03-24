@@ -9,17 +9,17 @@ yazar: "Amanda Little"
 yil: "2020"
 sayfa: "440"
 goodreads: "https://www.goodreads.com/book/show/41882450-the-fate-of-food"
-description: "Amanda Little'ın The Fate of Food kitabı, dünya gıda sistemini iklim değişikliği ve kaynak sınırlılığı gibi zorluklarla ele alarak gelecekteki çözümleri araştırıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-07
 published: true
 posted: 2023-06-07
 tag: "beslenme"
 reread: "yes"
 rating: "5"
-eng: "The Fate of Food by Amanda Little examines the future of food in a changing world, exploring challenges and innovative solutions for sustainability and food security."
 num: "329"
-image: "/assets/new/the-fate-of-food.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-fate-of-food.jpg"
 ---
 
 to be updated...

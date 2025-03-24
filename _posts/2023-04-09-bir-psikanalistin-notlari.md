@@ -8,14 +8,15 @@ yazar: "Gabriel Rolon"
 yil: "2020"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/51648338-bir-psikanalistin-notlar"
-description: "Gabriel Rolon'un Bir Psikanalistin Notları adlı kitabında 8 farklı danışan öyküsünü işliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-04-09
 published: true
 posted: 2023-04-09
 tag: "psikoloji"
 reread: "no"
 rating: "3"
-eng: "In Historias de diván, Gabriel Rolon shares his experiences as a psychoanalyst. The book contains eight stories, each exploring a different aspect of psychoanalysis."
+update: ""
 num: "319"
 image: "/assets/new/bir-psikanalistin-notlari.jpg"
 ---

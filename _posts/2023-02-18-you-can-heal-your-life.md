@@ -8,7 +8,8 @@ yazar: "Louise L. Hay"
 yil: "2010"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/129603.You_Can_Heal_Your_Life"
-description: "Aklımızdan geçen her bir düşünce kalıbı yaşamımızı şekillendirir. Louise L. Hay, bedenimizdeki hastalıkların da bu şekilde oluştuğunu belirtiyor. Düşünce Gücüyle Tedavi, düşüncelerimizin yaşamımızı nasıl şekillendirdiğini açıklıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-18
 published: true
 posted: 2023-02-18
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "4"
 num: "307"
-eng: "You Can Heal Your Life by Louise L. Hay is a book that explores how our thoughts and emotions can impact our physical health and overall well-being. The author believes that our beliefs and thinking patterns shape our experiences in life, including our health and relationships. The book provides practical techniques like affirmations and visualisation exercises to help readers let go of negative beliefs and adopt positive ones to improve their health, happiness, and success."
+update: ""
 image: "/assets/new/you-can-heal-your-life.jpg"
 ---
 

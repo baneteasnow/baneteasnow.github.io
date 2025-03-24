@@ -8,7 +8,8 @@ yazar: "Nihan Kaya"
 yil: "2021"
 sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/41879768-i-yi-aile-yoktur"
-description: "Nihan Kaya, İyi Aile Yoktur isimli kitabında ebeveynlerin kendi çocuklarını yetiştirirken kendi çocukluk yaşantılarının nasıl da etkisi altında kaldıklarını anlatıyor. Kitabın çıkış noktası Alice Miller'ın 1979 tarihli isimli kitabında ileri sürdüğü bakış açısı."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-03-10
@@ -16,6 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "230"
+update: ""
 image: "/assets/new/iyi-aile-yoktur.jpg"
 ---
 

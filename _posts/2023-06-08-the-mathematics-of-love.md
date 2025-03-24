@@ -10,17 +10,17 @@ yazar: "Hannah Fry"
 yil: "2016"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/23258103-the-mathematics-of-love"
-description: "Hannah Fry, Aşkın Matematiği isimli kitabında matematiksel modeller ve istatistiksel analizler kullanarak aşkın arkasındaki bazı ilginç gerçekleri ortaya koyuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-08
 published: true
 posted: 2023-06-08
 tag: "psikoloji"
 reread: "yes"
 rating: "4"
-eng: "The Mathematics of Love is a book by Hannah Fry that explores love through mathematical models and statistical analysis, revealing the hidden patterns and complexities of romantic relationships."
 num: "330"
-image: "/assets/new/the-mathematics-of-love.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-mathematics-of-love.jpg"
 ---
 
 to be updated...

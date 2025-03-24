@@ -8,7 +8,8 @@ yazar: "Hans Rosling, Anna Rosling Rönnlund, Ola Rosling"
 yil: "2018"
 sayfa: "341"
 goodreads: "https://www.goodreads.com/book/show/34890015-factfulness"
-description: "Factfulness, dünyanın gidişatının aslında o kadar da kötü olmadığını istatistikle ve somut verilerle anlatan bir kitap."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2021-12-17
@@ -16,6 +17,7 @@ tag: "psikoloji"
 reread: "no"
 rating: "4"
 num: "210"
+update: ""
 image: "/assets/new/factfulness.jpg"
 ---
 

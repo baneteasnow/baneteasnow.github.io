@@ -9,17 +9,17 @@ yazar: "Tom Whyman"
 yil: "2021"
 sayfa: "212"
 goodreads: "https://www.goodreads.com/book/show/57521497-infinitely-full-of-hope"
-description: "Tom Whyman'ın Infinitely Full of Hope adlı ilk kitabı, umut felsefesini kötü bir dünyada yeni yaşam getirmenin zalimlik olup olmadığı sorusuyla keşfederken, çağdaş figürler ve önemli düşünürlerin katkılarıyla modern bir yaklaşım sunar. Kitap, Whyman'ın çağdaş dünyadaki umutun yerini sorguladığı ve kendi deneyimlerini, Corbyn hareketi ve iklim krizi gibi konuları ele aldığı bir tartışma ortamı sunar."
+description: ""
+eng: ""
 last_modified_at: 2023-06-23
 published: true
 posted: 2023-06-23
 tag: "felsefe"
 reread: "yes"
 rating: "3"
-eng: "Tom Whyman's first book, Infinitely Full of Hope, explores the philosophy of hope by questioning whether it is cruel to bring new life into a bad world."
 num: "345"
-image: "/assets/new/infinitely-full-of-hope.jpg"
 update: "tobeupdated"
+image: "/assets/new/infinitely-full-of-hope.jpg"
 ---
 
 to be updated...

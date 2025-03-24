@@ -8,7 +8,8 @@ yazar: "Elif Shafak"
 yil: "2022"
 sayfa: "120"
 goodreads: "https://www.amazon.com/How-Stay-Sane-Age-Division-ebook/dp/B083JMK177"
-description: "Elif Şafak, pandeminin rutinleri alt üst ettiği dünyada, kritik bir eşikte olduğumuza işaret ediyor. Çıkış yolunun ise, ancak çok kültürlülüğün desteklenmesi, duyguların inkarından vazgeçilmesi ile mümkün olduğunu tartışıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-12-12
@@ -16,7 +17,7 @@ tag: "felsefe"
 reread: "yes"
 rating: "5"
 num: "291"
-eng: "Elif Shafak's book, How to Stay Sane in an Age of Division, analyzes the state of the world today and offers insights on surviving the current era of polarization and division. Shafak, draws on her personal experiences and research in order to provide a new perspective on some of the most important issues of our time, such as identity politics, social media, and the deterioration of democracy."
+update: ""
 image: "/assets/new/how-to-stay-sane-in-an-age-of-division.jpg"
 ---
 

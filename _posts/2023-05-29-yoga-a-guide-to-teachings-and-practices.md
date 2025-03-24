@@ -8,14 +8,15 @@ yazar: "David Frawley"
 yil: "2022"
 sayfa: "112"
 goodreads: "https://www.goodreads.com/book/show/35721667-yoga"
-description: "Yoga - Bir Dönüşüm Kılavuzu, yogayı bütünsel olarak ele alıyor. Rehber niteliğindeki bu kitap, yoga ile ilgili teknikleri ve kavramları açıklıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-05-29
 published: true
 posted: 2023-05-29
 tag: "lifestyle"
 reread: "yes"
 rating: "4"
-eng: "Yoga: A Guide to the Teachings and Practices by David Frawley is a comprehensive book that explores the essence of yoga. Drawing on his extensive knowledge of ancient yogic texts and practices, Frawley provides readers with a profound understanding of the philosophy, principles and techniques of yoga. Exploring topics such as asanas (postures), pranayama (breathing exercises), meditation and the spiritual dimensions of yoga, the book serves as a practical guide for beginners and experienced practitioners alike. "
+update: ""
 num: "320"
 image: "/assets/new/yoga-a-guide-to-teachings-and-practices.jpg"
 ---

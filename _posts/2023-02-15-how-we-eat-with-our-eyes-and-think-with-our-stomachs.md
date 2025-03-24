@@ -8,7 +8,8 @@ yazar: "Melanie Mühl, Diana von Kopp"
 yil: "2019"
 sayfa: "248"
 goodreads: "https://www.goodreads.com/book/show/33590202-how-we-eat-with-our-eyes-and-think-with-our-stomachs"
-description: "Yemek yemek, gelmiş geçmiş en duyumsal deneyimlerden biridir. Gözümüz Neden Doymaz?, yemek yemekle olan ilişkimizin çeşitli yönlerini ele alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-15
 published: true
 posted: 2023-02-15
@@ -16,7 +17,7 @@ tag: "lifestyle"
 reread: "no"
 rating: "3"
 num: "304"
-eng: "In their book, How We Eat with Our Eyes and Think with Our Stomachs, Melanie Mühl and Diana von Kopp explore the complex relationship between our senses, emotions, and eating habits. The book investigates how our different sensory cues such as sight, smell, and touch can affect our appetite and satisfaction. The authors also discuss how our cultural background can shape our daily food preferences and the way we eat."
+update: ""
 image: "/assets/new/how-we-eat-with-our-eyes-and-think-with-our-stomachs.jpg"
 ---
 

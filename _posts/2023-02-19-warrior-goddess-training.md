@@ -8,7 +8,8 @@ yazar: "Heatherash Amara"
 yil: "2022"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/21544940-warrior-goddess-training"
-description: "Heatherash Amara'nın kaleminden Savaşçı Tanrıça'nın Yolu, kadınların kendi kimliklerini yeniden keşfetmeleri ve dişil enerjilerini yükseltmeleri için rehber bir kitap."
+description: ""
+eng: ""
 last_modified_at: 2023-02-19
 published: true
 posted: 2023-02-19
@@ -16,7 +17,7 @@ tag: "felsefe"
 reread: "no"
 rating: "2"
 num: "308"
-eng: "Warrior Goddess Training by HeatherAsh Amara is a book that helps women reclaim their strength, true selves, and inner balance. It gives practical tips and techniques to overcome insecurities, worries, and self-defeating thoughts, and to nurture self-esteem, calmness, and happiness. The book combines ancient teachings and modern psychology to highlight the significance of staying present, meditating, being creative, and building relationships when exploring oneself and evolving as a person."
+update: ""
 image: "/assets/new/warrior-goddess-training.jpg"
 ---
 

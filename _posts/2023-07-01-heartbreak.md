@@ -10,17 +10,17 @@ yazar: "The School of Life"
 yil: "2022"
 sayfa: "80"
 goodreads: "https://www.goodreads.com/book/show/48495685-heartbreak"
-description: "The School of Life tarafından yazılan Gönül Yarası adlı kitap, duygusal acıları anlayışlı bir şekilde ele alır ve kalp kırıklığıyla başa çıkmak ve iyileşmek için pratik rehberlik sunar."
+description: ""
+eng: ""
 last_modified_at: 2023-07-01
 published: true
 posted: 2023-07-01
 tag: "felsefe"
 reread: "yes"
 rating: "5"
-eng: "The book Heartbreak by The School of Life offers compassionate insights and practical guidance on navigating the emotional challenges of heartbreak and finding healing and growth."
 num: "351"
-image: "/assets/new/heartbreak.jpg"
 update: "tobeupdated"
+image: "/assets/new/heartbreak.jpg"
 ---
 
 to be updated...

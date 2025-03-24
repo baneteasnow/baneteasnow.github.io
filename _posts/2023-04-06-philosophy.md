@@ -9,14 +9,15 @@ yazar: "Nigel Warburton"
 yil: "2022"
 sayfa: "104"
 goodreads: "https://www.goodreads.com/book/show/179590.Philosophy"
-description: "Felsefe Okuma Rehberi, felsefi metinleri ve kitapları okumak, felsefi konularda tartışmak üzerine çeşitli öneriler sunuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-04-06
 published: true
 posted: 2023-04-06
 tag: "felsefe"
 reread: "no"
 rating: "4"
-eng: "Philosophy: The Essential Study Guide provides guidance on how to study philosophy. As philosophy is mainly about questioning, the book identifies four key skills to master in this field, active reading, active listening, active discussion and active writing."
+update: ""
 num: "318"
 image: "/assets/new/philosophy.jpg"
 ---

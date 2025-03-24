@@ -9,17 +9,17 @@ yazar: "Frederic Lenoir"
 yil: "2023"
 sayfa: "72"
 goodreads: "https://www.goodreads.com/book/show/62221568-ng-r-lemeyen-bir-d-nyada-ya-amak"
-description: "Öngörülemeyen Bir Dünyada Yaşamak, Frederic Lenoir'un rehberlik edici ve ilham verici bir kitabıdır, çağdaş dünyadaki belirsizliklerle başa çıkmak ve hayatı anlamlı kılmak için felsefi içgörüler sunar."
+description: ""
+eng: ""
 last_modified_at: 2023-06-22
 published: true
 posted: 2023-06-22
 tag: "felsefe"
 reread: "yes"
 rating: "4"
-eng: "This book explores how to navigate the uncertainties of modern life and find meaning in the midst of change."
 num: "344"
-image: "/assets/new/ongorulemeyen-bir-dunyada-yasamak.jpg"
 update: "tobeupdated"
+image: "/assets/new/ongorulemeyen-bir-dunyada-yasamak.jpg"
 ---
 
 to be updated...

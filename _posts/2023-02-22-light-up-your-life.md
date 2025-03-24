@@ -8,7 +8,8 @@ yazar: "Diana Cooper"
 yil: "2021"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/25397301-light-up-your-life"
-description: "Diana Cooper, Evrensel Yasalar'da hayata umut ve ilhamla bakmak için evrenin yasalarını aktarıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-22
 published: true
 posted: 2023-02-22
@@ -16,7 +17,7 @@ tag: "motivasyon"
 reread: "no"
 rating: "4"
 num: "311"
-eng: "Light Up Your Life by Diana Cooper is a book that offers guidance and tools for individuals looking to increase their vibration and raise their consciousness. The book focuses on empowering readers to embrace their inner light and overcome the challenges of the modern world. Diana Cooper draws on her knowledge of spirituality and personal development to provide practical techniques and exercises to help individuals tap into their inner potential and radiate positivity. This book is a potentially helpful resource for anyone seeking to transform their life and embrace a more joyful, meaningful existence."
+update: ""
 image: "/assets/new/light-up-your-life.jpg"
 ---
 

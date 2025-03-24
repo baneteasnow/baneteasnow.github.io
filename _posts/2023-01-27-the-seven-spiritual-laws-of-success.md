@@ -8,7 +8,8 @@ yazar: "Deepak Chopra"
 yil: "2021"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/773038.The_Seven_Spiritual_Laws_of_Success"
-description: "Başarının Yedi Spiritüel Yasası, doğanın işleyişi ile paralel ilerleyen bir bolluk bilincine yönelik bir öğretinin temelini açıklıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-27
 published: true
 posted: 2023-01-27
@@ -16,7 +17,7 @@ tag: "mindfulness"
 reread: "no"
 rating: "3"
 num: "297"
-eng: "The Seven Spiritual Principles of Success, written by Deepak Chopra, outlines seven rules for success in all facets of life. Each law seeks to teach individuals more about themselves and their relationship to the cosmos and is based on spiritual teachings from Eastern faiths. Chopra's laws emphasize the value of mindfulness, the law of attraction, the effectiveness of intention, and the notion of detachment. The book contains exercises and helpful advice to help readers implement these rules into their daily lives and lead lives that are more successful and satisfying. The Seven Spiritual Laws of Success offers a spiritually based and all-encompassing strategy for success and personal growth."
+update: ""
 image: "/assets/new/the-seven-spiritual-laws-of-success.jpg"
 ---
 

@@ -10,17 +10,17 @@ yazar: "Sandi Mann"
 yil: "2020"
 sayfa: "192"
 goodreads: "https://www.goodreads.com/book/show/51190278-why-do-i-feel-like-an-imposter"
-description: "Why Do I Feel Like an Imposter?kitabı, insanların neden kendilerini bir 'sahtekar' gibi hissettiğini anlamak ve bu durumu aşmak için pratik stratejiler sunan bir kaynaktır."
+description: ""
+eng: ""
 last_modified_at: 2023-06-16
 published: true
 posted: 2023-06-16
 tag: "psikoloji"
 reread: "yes"
 rating: "5"
-eng: "Why Do I Feel Like an Imposter? by Sandi Mann explores the phenomenon of imposter syndrome and offers practical strategies to overcome feelings of self-doubt and inadequacy. It provides insights into the causes, impact, and ways to combat imposter syndrome in various areas of life."
 num: "338"
-image: "/assets/new/why-do-i-feel-like-an-imposter.jpg"
 update: "tobeupdated"
+image: "/assets/new/why-do-i-feel-like-an-imposter.jpg"
 ---
 
 to be updated...

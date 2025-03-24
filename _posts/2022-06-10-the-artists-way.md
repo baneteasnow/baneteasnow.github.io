@@ -8,7 +8,8 @@ yazar: "Julia Cameron"
 yil: "2020"
 sayfa: "237"
 goodreads: "https://www.goodreads.com/book/show/615570.The_Artist_s_Way"
-description: "The Artist's Way, sunduğu 12 haftalık bir program ile okuyucunun yaratıcı yönüne odaklanan, aklına takılanlardan kurtulmasına ve yeniden harekete geçmesine yardımcı olan bir kitap. Kitabın öne sürdüğü iki önemli araç morning pages ve the artist's date."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-10
@@ -16,7 +17,7 @@ tag: "yazmak ve yaratıcılık"
 reread: "yes"
 rating: "5"
 num: "258"
-eng: "The Artist's Way: A Spiritual Path to Higher Creativity by Julia Cameron is a renowned guidebook that helps individuals unlock their creativity and unleash their artistic potential through a 12-week program of self-discovery and reflection."
+update: ""
 image: "/assets/new/the-artists-way.jpg"
 ---
 

@@ -9,17 +9,17 @@ yazar: "The School of Life"
 yil: "2023"
 sayfa: "96"
 goodreads: "https://www.goodreads.com/book/show/35890182-on-confidence"
-description: "The School of Life tarafından kaleme alınan On Confidence kitabı, özgüvenin nasıl geliştirileceği ve sürdürüleceği konusunda pratik rehberlik sunan değerli bir kaynaktır."
+description: ""
+eng: ""
 last_modified_at: 2023-07-02
 published: true
 posted: 2023-07-02
 tag: "felsefe"
 reread: "yes"
 rating: "4"
-eng: "On Confidence is a valuable resource written by The School of Life that provides practical guidance on how to develop and sustain confidence."
 num: "352"
-image: "/assets/new/on-confidence.jpg"
 update: "tobeupdated"
+image: "/assets/new/on-confidence.jpg"
 ---
 
 to be updated...

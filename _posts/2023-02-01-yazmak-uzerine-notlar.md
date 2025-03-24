@@ -8,7 +8,8 @@ yazar: "Jules Renard"
 yil: "2021"
 sayfa: "63"
 goodreads: "https://www.goodreads.com/book/show/23263038-yazmak-zerine-notlar"
-description: "Yazmak Üzerine Notlar, Jules Renard'ın günlüğünden alıntılanmış, yazarlık ve yazma eylemi ile kısa notlarından oluşuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-01
 published: true
 posted: 2023-02-01
@@ -16,7 +17,7 @@ tag: "yazmak ve yaratıcılık"
 reread: "no"
 rating: "3"
 num: "298"
-eng: "Notes on the Writing (Notes sur le métier d'écrire) Profession is a collection of thoughts and insights on the art of writing by French author Jules Renard. Renard shares his reflections on various aspects of the writing profession, including the challenges, rewards, and nature of literature. He offers practical advice on the importance of attention to detail, simplicity and clarity in writing, and the need for discipline and perseverance in the creative process."
+update: ""
 image: "/assets/new/yazmak-uzerine-notlar.jpg"
 ---
 

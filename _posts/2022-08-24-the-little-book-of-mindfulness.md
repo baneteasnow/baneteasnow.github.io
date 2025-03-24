@@ -8,7 +8,8 @@ yazar: "Patrizia Collard"
 yil: "2019"
 sayfa: "96"
 goodreads: "https://www.goodreads.com/book/show/21111460-the-little-book-of-mindfulness"
-description: "Küçük Farkındalık Kitabı, günlük hayatın stresi ile başa çıkmak için 5-10 dakikada uygulanabilecek kısa farkındalık egzersizleri içeriyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-08-24
@@ -16,7 +17,7 @@ tag: "mindfulness"
 reread: "no"
 rating: "2"
 num: "282"
-eng: "The Little Book of Mindfulness by Patrizia Collard is a useful guide to incorporating mindfulness into daily life. The book includes a variety of short, simple activities designed to increase readers' present-moment awareness and help them manage stress and anxiety. Collard advises readers to incorporate mindfulness into everyday activities such as eating and walking by providing instructions on practices such as body awareness, breath meditation, and mindful movement."
+update: ""
 image: "/assets/new/the-little-book-of-mindfulness.jpg"
 ---
 

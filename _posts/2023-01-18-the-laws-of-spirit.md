@@ -8,7 +8,8 @@ yazar: "Dan Millman"
 yil: "2022"
 sayfa: "120"
 goodreads: "https://www.goodreads.com/book/show/35727.The_Laws_of_Spirit"
-description: "Bilge ve Gezgin, kendi aralarında yaşamın önemli prensiplerini çeşitli örneklerle ve metaforlarla tartışıyorlar."
+description: ""
+eng: ""
 last_modified_at: 2023-01-20
 published: true
 posted: 2023-01-20
@@ -16,7 +17,7 @@ tag: "felsefe"
 reread: "no"
 rating: "3"
 num: "294"
-eng: "Dan Millman's spiritual book The Laws of Spirit provides readers with a framework for leading more purposeful and satisfying lives. The book outlines 12 universal laws or principles that can assist readers in developing a higher level of awareness, living in harmony with their environment, and connecting with their higher selves. The laws range in subject matter from presence and balance to surrender and intention, and each is accompanied by doable exercises and meditations to aid readers in incorporating it into their daily lives. In order to present a comprehensive and approachable approach to personal growth, Millman draws on his own experiences as a spiritual teacher and practitioner as well as insights from different spiritual traditions."
+update: ""
 image: "/assets/new/the-laws-of-spirit.jpg"
 ---
 

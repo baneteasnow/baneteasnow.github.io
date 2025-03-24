@@ -8,7 +8,8 @@ yazar: "Bettina Lemke"
 yil: "2019"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/36418696-ikigai-il-metodo-giapponese"
-description: "Bettina Lemke'nin kaleme aldığı Ikigai, yaşam amacını keşfetmeye yönelik çeşitli uygulamaları ve önerileri içeren rehber bir kitap."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2023-01-14
@@ -17,7 +18,7 @@ reread: "no"
 rating: "3"
 num: "293"
 openay: "yes"
-eng: "The Japanese idea of ikigai, or one's life purpose, is explored in Bettina Lemke's book The Book of Ikigai. The book offers readers helpful advice and exercises for figuring out their own ikigai by drawing on the wisdom of the Japanese people, who are renowned for their longevity and contentment. Lemke explains that discovering one's ikigai can result in greater happiness and fulfillment. It is a combination of one's passions, values, talents, and life's purpose. The book offers readers tools for figuring out their strengths, values, and purpose while also covering topics like mindfulness, gratitude, and self-reflection."
+update: ""
 image: "/assets/new/ikigai-bettina-lemke.jpg"
 ---
 

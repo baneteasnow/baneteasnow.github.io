@@ -8,7 +8,8 @@ yazar: "Diana Cooper"
 yil: "2022"
 sayfa: "232"
 goodreads: "https://www.goodreads.com/book/show/962870.A_Little_Light_on_the_Spiritual_Laws"
-description: "Spiritüel Yasalar, hayatın çeşitli yönlerine etki eden yasaları metaforlar ve örneklerle ele alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-02-21
 published: true
 posted: 2023-02-21
@@ -16,7 +17,7 @@ tag: "motivasyon"
 reread: "no"
 num: "310"
 rating: "4"
-eng: "The spiritual laws that govern the universe, such as the law of attraction, the law of cause and effect, and the rule of abundance, are explored in A Little Light on the Spiritual Laws, a book by Diana Cooper. Cooper illustrates how people might have more purposeful, fulfilling lives by comprehending and putting these laws into practice."
+update: ""
 image: "/assets/new/a-little-light-on-the-spiritual-laws.jpg"
 ---
 

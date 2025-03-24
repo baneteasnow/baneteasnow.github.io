@@ -8,7 +8,8 @@ yazar: "Susan Forward"
 yil: "2021"
 sayfa: "311"
 goodreads: "https://www.goodreads.com/book/show/17331330-mothers-who-can-t-love"
-description: "Susan Forward, Sevgisiz Anneler isimli kitabında ise anne-kız ilişkisinde ki olumsuz deneyimlere değiniyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-07-21
@@ -16,7 +17,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "5"
 num: "273"
-eng: "Mothers Who Can't Love: A Healing Guide for Daughters by Susan Forward offers support and guidance for daughters who have struggled with emotionally unavailable or abusive mothers, providing strategies for healing, setting boundaries, and cultivating self-love."
+update: ""
 image: "/assets/new/mothers-who-cant-love.jpg"
 ---
 

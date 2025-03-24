@@ -16,8 +16,7 @@ tag: "psikoloji"
 reread: "yes"
 rating: "4"
 num: "316"
-eng: "Philippa Perry's 'How To Stay Sane' is a brief and informative manual for preserving mental health and well-being in the fast-paced and frequently stressful world of today. According to Perry, the reason why so many people experience feelings of anxiety, sadness, and overload is because they have disconnected from their inner selves and the natural environment. Perry presents doable methods for getting back in touch with oneself and achieving more equilibrium and serenity in daily life by drawing on concepts from psychology, mindfulness, and neuroscience. She advises readers to embrace vulnerability, practice self-reflection, and develop self-compassion as a means of boosting resilience."
-openai: yes
+update: ""
 image: "/assets/new/how-to-stay-sane.jpg"
 ---
 

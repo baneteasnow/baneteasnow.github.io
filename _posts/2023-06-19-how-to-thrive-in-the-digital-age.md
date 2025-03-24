@@ -9,17 +9,17 @@ yazar: "Tom Chatfield"
 yil: "2013"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/13916791-how-to-thrive-in-the-digital-age"
-description: "Tom Chatfield'in How to Thrive in the Digital Age kitabı, dijital teknolojinin hızla değişen dünyasında başarılı olmak için değerli içgörüler ve stratejiler sunuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-06-19
 published: true
 posted: 2023-06-19
 tag: "felsefe"
 reread: "yes"
 rating: "4"
-eng: "How to Thrive in the Digital Age by Tom Chatfield is a comprehensive guide that provides valuable insights and practical strategies for navigating and succeeding in the digital era."
 num: "341"
-image: "/assets/new/how-to-thrive-in-the-digital-age.jpg"
 update: "tobeupdated"
+image: "/assets/new/how-to-thrive-in-the-digital-age.jpg"
 ---
 
 to be updated...
