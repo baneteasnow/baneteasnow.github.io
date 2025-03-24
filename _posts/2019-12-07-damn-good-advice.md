@@ -8,7 +8,8 @@ yazar: "George Lois"
 yil: "2012"
 sayfa: "176"
 goodreads: "https://www.goodreads.com/book/show/12859410-damn-good-advice-for-people-with-talent"
-description: "George Lois, Olağanüstü Tavsiyeler - Yetenekli Kişiler İçin isimli kitabında reklamcılık ve pazarlama ile ilgili tecrübelerini paylaşıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-12-07
@@ -16,6 +17,7 @@ tag: "yaratıcılık"
 reread: "yes"
 rating: "5"
 num: "157"
+update: ""
 image: "/assets/old/damn-good-advice.jpg"
 ---
 

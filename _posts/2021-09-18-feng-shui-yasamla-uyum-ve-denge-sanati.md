@@ -8,7 +8,8 @@ yazar: "Miraç Atuna"
 yil: "1999"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/60392096-feng-shui-ya-amla-uyum-ve-denge-sanat"
-description: "Miraç Atuna, denge ve uyum sanatı olarak nitelediği Feng Shui kavramı ile ilgili ayrıntıları aynı ismi taşıyan kitabında anlatıyor ve bir inançtan çok bir sistem olarak yaklaşıldığında Feng Shui'nin en iyi sonuçlarını verdiğini belirtiyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2021-09-18
@@ -16,6 +17,7 @@ tag: "lifestyle"
 reread: "no"
 rating: "3"
 num: "194"
+update: ""
 image: "/assets/new/feng-shui-yasamla-uyum-ve-denge-sanati.jpg"
 ---
 

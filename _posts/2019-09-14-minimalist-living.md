@@ -8,7 +8,8 @@ yazar: "Aston Sanderson"
 yil: "2018"
 sayfa: "72"
 goodreads: "https://www.goodreads.com/book/show/34910664-minimalist-living"
-description: "Minimalist Yaşam, yaşamınızdaki fazla eşyalardan arınmanızın, yüklerinizden de arınmanızı sağlayacağını  vurguluyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-09-14
@@ -16,6 +17,7 @@ tag: "minimalizm"
 reread: "no"
 rating: "3"
 num: "146"
+update: ""
 image: "/assets/old/minimalist-living.jpg"
 ---
 

@@ -10,12 +10,14 @@ sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/35468340-how-to-create-a-vegan-world"
 last_modified_at: 2023-01-14
 published: true
-description: "Tobias Leenaert, How to Create a Vegan World isimli kitabında 'Veganville (Veganköy)' olarak isimlendirdiği bir dünyaya giden yolu tarif ediyor. Veganville hiç kuşkusuz ki bir ütopya. Leenaert, pragmatik bir anlayışı benimseyerek, veganlığı savunan pek çok kişiden farklı bir perspektif sunuyor."
+description: ""
+eng: ""
 posted: 2021-08-18
 tag: "veganlık"
 reread: "yes"
 rating: "5"
 num: "189"
+update: ""
 image: "/assets/new/how-to-create-a-vegan-world.jpg"
 ---
 

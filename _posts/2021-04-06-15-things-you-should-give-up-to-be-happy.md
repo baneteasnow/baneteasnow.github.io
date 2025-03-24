@@ -8,7 +8,8 @@ yazar: "Luminita D. Saviuc"
 yil: "2016"
 sayfa: "189"
 goodreads: "https://www.goodreads.com/book/show/25776195-15-things-you-should-give-up-to-be-happy"
-description: "Luminita D. Saviuc, blogunda Mutlu Olmanız İçin Vazgeçmeniz Gereken 15 Şey başlıklı bir yazı yayınlar ve bu yazısı viral olur. Aynı ismi taşıyan bu kitabında ise 15 maddeyi daha ayrıntılı  olarak örneklerle ele alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2021-04-06
@@ -16,6 +17,7 @@ tag: "motivasyon"
 reread: "yes"
 rating: "5"
 num: "165"
+update: ""
 image: "/assets/new/15-things-you-should-give-up-to-be-happy.jpg"
 ---
 

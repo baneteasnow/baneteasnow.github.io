@@ -10,12 +10,14 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/23398714-humans-are-underrated"
 last_modified_at: 2023-01-14
 published: true
-description: "Geoff Colvin, Humans Are Underrated isimli kitabında, teknolojideki gelişmeler sayesinde mevcut işlerin otomatize edilerek işgücüne ihtiyacın azalması nedeniyle gelecekte istihdamın çehresinin nasıl değişeceğini tartışıyor."
+description: ""
+eng: ""
 tag: "psikoloji"
 posted: 2021-09-08
 reread: "yes"
 rating: "5"
 num: "192"
+update: ""
 image: "/assets/new/humans-are-underrated.jpg"
 ---
 

@@ -10,12 +10,15 @@ yazar: "Ken Mogi"
 yil: "2018"
 sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/36001608-the-little-book-of-ikigai"
+description: ""
+eng: ""
 posted: 2021-06-09
 last_modified_at: 2023-01-14
 tag: "lifestyle"
 reread: "no"
 rating: "4"
 num: "176"
+update: ""
 image: "/assets/new/ikigai-ken-mogi.jpg"
 ---
 

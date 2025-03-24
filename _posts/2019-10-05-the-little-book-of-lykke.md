@@ -8,7 +8,8 @@ yazar: "Meik Wiking"
 yil: "2018"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/34879265-the-little-book-of-lykke"
-description: "Meik Wiking, Lykke isimli kitabında Danimarkalıların mutluluk sırlarını ve Danimarka’da günlük hayata dair çeşitli ayrıntıları paylaşıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-10-05
@@ -16,6 +17,7 @@ tag: "lifestyle"
 reread: "no"
 rating: "5"
 num: "149"
+update: ""
 image: "/assets/old/the-little-book-of-lykke.jpg"
 ---
 

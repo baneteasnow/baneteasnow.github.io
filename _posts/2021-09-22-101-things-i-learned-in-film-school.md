@@ -10,12 +10,14 @@ sayfa: "218"
 goodreads: "https://www.goodreads.com/book/show/8065938-101-things-i-learned-in-film-school"
 last_modified_at: 2023-01-14
 published: true
-description: "101 Things I Learned in Film School, sinema ve film yapımcılığı ile ilgili temel kavramları aktarıyor."
+description: ""
+eng: ""
 posted: 2021-09-22
 tag: "sanat"
 reread: "no"
 rating: "4"
 num: "195"
+update: ""
 image: "/assets/new/101-things-i-learned-in-film-school.jpg"
 ---
 

@@ -9,13 +9,15 @@ yazar: "Michael Pollan"
 yil: "2009"
 sayfa: "512"
 goodreads: "https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma"
-description: "Michael Pollan, 'Etobur-Otobur İkilemi' isimli kitabında, yediğimiz yiyeceklerin kaynağını gıda zincirine bakarak sorguluyor. Ayrıca, bunun küresel olarak ne anlama geldiğini inceliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 posted: 2021-04-14
 tag: "beslenme"
 reread: "yes"
 rating: "5"
 num: "167"
+update: ""
 image: "/assets/new/the-omnivores-dilemma.jpg"
 ---
 

@@ -9,13 +9,15 @@ yil: "2019"
 sayfa: "226"
 goodreads: "https://www.goodreads.com/book/show/15791130-101-things-i-learned-in-law-school"
 published: true
-description: "Hukukla ilgili temel kavramlara yer veren 101 Things I Learned in Law School, ABD'deki hukuk sisteminin nasıl işlediğini de ele alıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 posted: 2021-07-07
 tag: "hukuk"
 reread: "no"
 rating: "4"
 num: "182"
+update: ""
 image: "/assets/new/101-things-i-learned-in-law-school.jpg"
 ---
 

@@ -8,7 +8,8 @@ yazar: "Courtney Carver"
 yil: "2017"
 sayfa: "234"
 goodreads: "https://www.goodreads.com/book/show/34912787-soulful-simplicity"
-description: "Courtney Carver, stresli, dağınık, yorucu, hep meşgul olduğu, hep daha fazlasını arayan bir hayat tarzından daha sağlıklı, daha minimal, kendine ve sevdiklerine zaman ayırabildiği bir hayat tarzına olan yolculuğunu Soulful Simplicity isimli kitabında anlatıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 posted: 2023-01-14
 published: true
@@ -16,6 +17,7 @@ tag: "minimalizm"
 reread: "no"
 rating: "3"
 num: "172"
+update: ""
 image: "/assets/new/soulful-simplicity.jpg"
 ---
 

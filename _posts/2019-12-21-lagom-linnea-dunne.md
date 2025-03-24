@@ -8,7 +8,8 @@ yazar: "Linnea Dunne"
 yil: "2018"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/35099236-lagom"
-description: "Lagom, İsveç kültürünün önemli bir parçası.  Linnea Dunne, kitabında bu kavramı örneklerle ve önerilerle inceliyor. "
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-12-21
@@ -16,6 +17,7 @@ tag: "lifestyle"
 reread: "no"
 rating: "5"
 num: "159"
+update: ""
 image: "/assets/old/lagom-linnea-dunne.jpg"
 ---
 

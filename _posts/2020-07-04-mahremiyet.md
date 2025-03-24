@@ -8,7 +8,8 @@ yazar: "Eirik Løkke"
 yil: "2018"
 sayfa: "155"
 goodreads: "https://www.goodreads.com/book/show/40054814-mahremiyet"
-description: "Mahremiyet, 21. yüzyılda teknolojinin ve internetin yaygınlaşması ile birlikte bireylerin özel yaşamlarının hangi yönde etkilendiğini inceliyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2020-07-04
@@ -16,6 +17,7 @@ tag: "siber güvenlik"
 reread: "yes"
 rating: "5"
 num: "163"
+update: ""
 image: "/assets/old/mahremiyet.jpg"
 ---
 

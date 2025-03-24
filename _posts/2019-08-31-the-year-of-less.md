@@ -8,7 +8,8 @@ yazar: "Cait Flanders"
 yil: "2018"
 sayfa: "206"
 goodreads: "https://www.goodreads.com/book/show/35488858-the-year-of-less"
-description: "Cait Flanders, bir minimaliste nasıl dönüştüğünü ve alışverişsiz geçirdiği bir yıl sonunda yaptığı tasarrufla borçlarını nasıl ödediğini anlatıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-08-31
@@ -16,6 +17,7 @@ tag: "minimalizm"
 reread: "no"
 rating: "5"
 num: "144"
+update: ""
 image: "/assets/old/the-year-of-less.jpg"
 ---
 

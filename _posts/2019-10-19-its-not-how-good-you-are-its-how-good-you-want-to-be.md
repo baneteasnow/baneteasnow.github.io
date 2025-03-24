@@ -8,7 +8,8 @@ yazar: "Paul Arden"
 yil: "2016"
 sayfa: "218"
 goodreads: "https://www.goodreads.com/book/show/114737.It_s_Not_How_Good_You_Are_It_s_How_Good_You_Want_To_Be"
-description: "Mesele Ne Kadar İyi Olduğun Değil, Ne Kadar İyi Olmak İstediğin, görselliğin önemi, başarılı bir reklamın öğeleri gibi konulara odaklanıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-10-19
@@ -16,6 +17,7 @@ tag: "yaratıcılık"
 reread: "yes"
 rating: "5"
 num: "151"
+update: ""
 image: "/assets/old/its-not-how-good-you-are-its-how-good-you-want-to-be.jpg"
 ---
 

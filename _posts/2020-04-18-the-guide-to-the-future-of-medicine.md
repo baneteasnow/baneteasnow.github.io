@@ -8,7 +8,8 @@ yazar: "Bertalan Meskó"
 yil: "2016"
 sayfa: "280"
 goodreads: "https://www.goodreads.com/book/show/23150975-the-guide-to-the-future-of-medicine"
-description: "Tıbbın Geleceğine Yolculuk, teknolojinin tıp biliminin geleceğini nasıl etkileyeceğini inceliyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2020-04-18
@@ -16,6 +17,7 @@ tag: "tıp"
 reread: "no"
 rating: "3"
 num: "161"
+update: ""
 image: "/assets/old/the-guide-to-the-future-of-medicine.jpg"
 ---
 

@@ -9,13 +9,15 @@ yil: "2020"
 sayfa: "224"
 published: true
 last_modified_at: 2023-01-14
-description: "Keep Going, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolu paylaşıyor."
+description: ""
+eng: ""
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
 posted: 2021-06-23
 tag: "motivasyon"
 reread: "yes"
 rating: "5"
 num: "178"
+update: ""
 image: "/assets/new/keep-going.jpg"
 ---
 

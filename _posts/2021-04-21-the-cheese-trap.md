@@ -9,13 +9,15 @@ yazar: "Neal Barnard"
 yil: "2018"
 sayfa: "358"
 goodreads: "https://www.goodreads.com/book/show/30364205-the-cheese-trap"
-description: "Peynir Tuzağı, yıllardır pek çok kişinin dünyanın en sağlıklı yiyecekleri arasında sayarak tükettiği peyniri ve peynir tüketimini inceliyor."
+description: ""
+eng: ""
 last_modified_at: 2023-01-14
 posted: 2021-04-21
 tag: "beslenme"
 reread: "yes"
 rating: "5"
 num: "168"
+eng: ""
 image: "/assets/new/the-cheese-trap.jpg"
 ---
 

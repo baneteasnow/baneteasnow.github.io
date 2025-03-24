@@ -9,13 +9,15 @@ yazar: "Matthew Walker"
 yil: "2017"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/34466963-why-we-sleep"
-description: "Matthew Walker, Why We Sleep isimli kitabında uyku ve uykuya dair pek çok şeyi anlatıyor."
+description: ""
+eng: ""
 posted: 2021-05-26
 last_modified_at: 2023-01-14
 tag: "sağlık"
 reread: "no"
 rating: "5"
 num: "174"
+update: ""
 image: "/assets/new/why-we-sleep.jpg"
 ---
 

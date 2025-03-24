@@ -8,7 +8,8 @@ tr: "-"
 yazar: "Sung Jang, Martin Thaler, Matthew Frederick"
 yil: "2020"
 sayfa: "216"
-description: "101 Things I Learned in Product Design School, ürün tasarımı hakkında ipuçları veren bir kitap."
+description: ""
+eng: ""
 goodreads: "https://www.goodreads.com/book/show/49188385-101-things-i-learned-in-product-design-school"
 posted: 2021-06-16
 last_modified_at: 2023-01-14
@@ -16,6 +17,7 @@ tag: "endüstriyel tasarım"
 reread: "no"
 rating: "4"
 num: "177"
+update: ""
 image: "/assets/new/101-things-i-learned-in-product-design-school.jpg"
 ---
 

@@ -8,7 +8,8 @@ yazar: "Haemin Sunim"
 yil: "2018"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down"
-description: "Yalnızca Yavaşladığında Görebileceğin Şeyler, yavaşlamak ve sakin kalabilmeyi tekrar öğrenmemiz gerektiğini hatırlatan bir kitap."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-09-21
@@ -16,6 +17,7 @@ tag: "lifestyle"
 reread: "yes"
 rating: "5"
 num: "147"
+update: ""
 image: "/assets/old/the-things-you-can-see-only-when-you-slow-down.jpg"
 ---
 

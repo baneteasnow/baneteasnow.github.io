@@ -8,7 +8,8 @@ yazar: "Klaus Schwab"
 yil: "2016"
 sayfa: "196"
 goodreads: "https://www.goodreads.com/book/show/28570175-the-fourth-industrial-revolution"
-description: "Dördüncü Sanayi Devrimi, dördüncü sanayi devrimine ve bu devrimin etkilerine odaklanıyor. Kitabın yazarı Klaus Schwab."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-08-10
@@ -16,6 +17,7 @@ tag: "teknoloji"
 reread: "yes"
 rating: "4"
 num: "141"
+update: ""
 image: "/assets/old/the-fourth-industrial-revolution.jpg"
 ---
 

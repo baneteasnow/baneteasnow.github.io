@@ -8,7 +8,8 @@ yazar: "Austin Kleon"
 yil: "2012"
 sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/13099738-steal-like-an-artist"
-description: "Keep Going, bir sanatçının yaratıcılığını her daim sürdürerek üretkenliğe devam edebilmesinin on farklı yolu paylaşıyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-11-30
@@ -16,6 +17,7 @@ tag: "yaratıcılık"
 reread: "yes"
 rating: "5"
 num: "156"
+update: ""
 image: "/assets/old/steal-like-an-artist.jpg"
 ---
 

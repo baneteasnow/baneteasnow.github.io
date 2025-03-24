@@ -9,13 +9,15 @@ yazar: "T. Colin Campbell, Thomas M. Campbell (II.)"
 yil: "2016"
 sayfa: "493"
 goodreads: "https://goodreads.com/book/show/178788.The_China_Study"
-description: "The China Study, beslenme ile ilgili olarak bugüne kadar gerçekleştirilen en kapsamlı çalışma olma iddiasını taşıyan China-Cornell-Oxford ortak projesini ve sonuçlarını konu alıyor. Araştırma süresince, Çin'de 3000 yetişkinin diyetlerinin ve yaşam tarzlarının takibi yapılmış ve hayvansal ürünlerin tüketilmesi ile prostat kanseri, meme kanseri, bağırsak kanseri, diyabet, ve kalp krizi gibi çeşitli kronik rahatsızlıklar arasındaki ilişki incelenmiş."
+description: ""
+eng: ""
 posted: 2021-05-05
 last_modified_at: 2022-01-14
 tag: "beslenme"
 reread: "yes"
 rating: "5"
 num: "170"
+update: ""
 image: "/assets/new/the-china-study.jpg"
 ---
 

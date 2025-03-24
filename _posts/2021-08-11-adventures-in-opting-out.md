@@ -9,12 +9,14 @@ sayfa: "273"
 goodreads: "https://www.goodreads.com/book/show/50710787-adventures-in-opting-out"
 last_modified_at: 2023-01-14
 published: true
-description: "The Year of Less isimli kitabında içinde bulunduğu borçlarından ve içinde bulunduğu olumsuz durumdan nasıl kurtulduğunu anlatan Cait Flanders, ikinci kitabı olan Adventures in Opting Out'da ise çevreniz tarafından size yüklenilen hedefleri sorgulamanız gerektiğini hatırlatarak, bu hedeflerden ne kadarını gerçekten istediğinizi keşfetmenin yollarını kişisel deneyiminden örnekler vererek paylaşıyor."
+description: ""
+eng: ""
 posted: 2021-08-11
 tag: "seyahat"
 reread: "no"
 rating: "4"
 num: "187"
+update: ""
 image: "/assets/new/adventures-in-opting-out.jpg"
 ---
 

@@ -10,12 +10,15 @@ yazar: "David Graeber"
 yil: "2018"
 sayfa: "347"
 goodreads: "https://www.goodreads.com/book/show/34466958-bullshit-jobs"
+description: ""
+eng: ""
 posted: 2021-06-02
 last_modified_at: 2023-01-14
 tag: "sosyoloji"
 reread: "yes"
 rating: "5"
 num: "175"
+update: ""
 image: "/assets/new/bullshit-jobs.jpg"
 ---
 

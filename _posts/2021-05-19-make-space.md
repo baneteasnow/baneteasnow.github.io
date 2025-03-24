@@ -9,13 +9,15 @@ yazar: "Regina Wong"
 yil: "2018"
 sayfa: "154"
 goodreads: "https://www.goodreads.com/book/show/31213421-make-space"
-description: "Hayata Yer Aç, daha sade bir yaşam seçenlere pratik uygulamalar sunan rehber bir kitap."
+description: ""
+eng: ""
 posted: 2021-05-19
 last_modified_at: 2023-01-14
 tag: "minimalizm"
 reread: "no"
 rating: "4"
 num: "173"
+update: ""
 image: "/assets/new/make-space.jpg"
 ---
 

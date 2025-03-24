@@ -8,7 +8,8 @@ yazar: "Maurice Nathan Saatchi"
 yil: "2015"
 sayfa: "112"
 goodreads: "https://www.goodreads.com/book/show/12844390-brutal-simplicity-of-thought"
-description: "Düşüncenin Acımasız Basitliği, 'eğer bir şeyi yeterince anlamadıysanız, onu en basite indirgeyerek açıklayamazsınız.' mottosuna dayanan bir kitap."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-11-23
@@ -16,6 +17,7 @@ tag: "motivasyon"
 reread: "yes"
 rating: "5"
 num: "155"
+update: ""
 image: "/assets/old/brutal-simplicity-of-thought.jpg"
 ---
 

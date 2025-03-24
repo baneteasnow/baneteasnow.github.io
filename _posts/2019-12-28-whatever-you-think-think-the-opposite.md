@@ -8,7 +8,8 @@ yazar: "Paul Arden"
 yil: "2018"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/265525.Whatever_You_Think_Think_the_Opposite"
-description: "Aklını Kullan Tersini Düşün, alışıldık yolun tam tersini yapmanın bazen en iyi yöntem olduğunu okuyucuya gösteriyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-12-28
@@ -16,6 +17,7 @@ tag: "motivasyon"
 reread: "yes"
 rating: "5"
 num: "160"
+update: ""
 image: "/assets/old/whatever-you-think-think-the-opposite.jpg"
 ---
 

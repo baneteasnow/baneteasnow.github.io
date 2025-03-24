@@ -8,7 +8,8 @@ yazar: "Niki Brantmark"
 yil: "2018"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/34848677-lagom"
-description: "Niki Brentmark evlendikten sonra İsveç'e yerleşmiş. Kitabında, Lagom kavramını kişisel hayatta, aile ve ilişkilerde ve daha geniş dünyada olmak üzere üç ana başlıkta inceliyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-12-14
@@ -16,6 +17,7 @@ tag: "lifestyle"
 reread: "no"
 rating: "5"
 num: "158"
+update: ""
 image: "/assets/old/lagom-niki-brantmark.jpg"
 ---
 

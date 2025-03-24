@@ -8,7 +8,8 @@ yazar: "Francine Jay"
 yil: "2016"
 sayfa: "231"
 goodreads: "https://www.goodreads.com/book/show/8576972-the-joy-of-less-a-minimalist-living-guide"
-description: "Azla Mutlu Olmak, öncelikle sade yaşamın felsefesini yani minimalist düşünce yapısını ele alıyor ve eşyaların varlık sebebini inceliyor."
+description: ""
+eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-09-07
@@ -16,6 +17,7 @@ tag: "minimalizm"
 reread: "no"
 rating: "4"
 num: "145"
+update: ""
 image: "/assets/old/the-joy-of-less.jpg"
 ---
 
