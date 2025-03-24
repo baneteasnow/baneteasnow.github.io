@@ -8,43 +8,36 @@ yazar: "Caspar Herzberg"
 yil: "2017"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/34146898-smart-cities-digital-nations"
-description: "Akıllı Şehirler Dijital Ülkeler, teknoloji ile şekil değiştiren şehirciliği anlatan bir kitap."
-eng: ""
+description: "Akıllı Şehirler, Dijital Ülkeler, veri, bağlantı ve teknolojiyle şekillenen akıllı şehirlerin, 21. yüzyılda artan nüfus ve altyapı baskısı karşısında kent yaşamını nasıl dönüştürebileceğini inceliyor."
+eng: "Smart Cities, Digital Nations explores how smart cities, driven by data, connectivity, and technology, can reshape urban life and tackle the challenges of population growth and infrastructure stress in the 21st century"
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-24
 posted: 2018-07-14
 tag: "şehir planlama"
 reread: "no"
 rating: "3"
 num: "103"
-update: ""
+update: "done"
 image: "/assets/old/smart-cities-digital-nations.jpg"
 ---
 
-2010 yılı dünyada kentlerde yaşayan kişi sayısının dünya nüfusunun yarısını geçtiği yıl olmuştur. (sayfa 27)
+Caspar Herzberg'in kaleme aldığı _Smart Cities, Digital Nations_ (Akıllı Şehirler, Dijital Ülkeler) kitabı, giderek kalabalıklaşan dünyada şehirlerin karşı karşıya kaldığı altyapı ve veri sorunlarına dijital çözümler üzerinden bir yanıt arıyor. Yazar, artan nüfus baskısının ve karmaşıklaşan altyapı ihtiyacının ancak veri tabanlı, duyarlı, bağlantılı sistemlerle yönetilebileceğini savunuyor.
 
-2050 yılına dek dünya nüfusunun yaklaşık içte ikisi şehir merkezlerinde ya da yakınında yaşıyor olacak. (sayfa 13)
+Kitabın çıkış noktası, 2010 yılında dünyada ilk kez kentsel nüfusun kırsal nüfusu geçmesiydi (sayfa 27). Bu tarihi eşik, şehirlerin gelecekte oynayacağı kritik rolü gözler önüne seriyor. 2050'ye kadar dünya nüfusunun üçte ikisinin şehirlerde yaşayacağı öngörülüyor (sayfa 13). Bu bağlamda Herzberg, "Nesnelerin İnterneti"nden "Her Şyin İnterneti"ne geçişi bir zorunluluk olarak tanımlıyor. Çünkü sadece veri toplayan değil, veriyi akıllı şekilde kullanan şehirler ayakta kalabilecek (sayfa 37-39).
 
-Şehirler bugün iki büyük saldırıyla baş etmeye çalışıyor; bugüne kadar eşi görülmemiş bir nüfus artışı ve çok miktarda büyük verinin anlamlı olarak işlenmesi. Şehirlerin pek çoğunda altyapılar çok eski. Modern teknoloji kullanılabilecekken altyapı uyumsuzluğu nedeni ile pek çok sorun yaşanıyor, teknolojik yatırımlar yeterince yapılmıyor. Ancak, bu uyumsuzluğa çare üretilmediği her gün şehir hizmetlerinin tek bir platform altında toplanmasını geciktiriyor. Fiziksel nesnelerin veri alışverişi yapabildiği "Nesnelerin İnterneti" (IoT) çağından artık yavaş yavaş "Her şeyin İnterneti" (IoE) çağına geçiş yapılacak. Şehirlerin bu duruma hazırlıklı olması bir zorunluluk. Şehirlerin pek çoğu gelecekte mega şehirlere dönüşecek. Aşırı nüfus ve kit kaynakların dağıtımı başlıca sorunlar olacak.
+Yazar, çoğu mevcut şehir altyapısının bu dönüşüme hazır olmadığını söylüyor. Altyapının eski, teknolojinin dağınık olduğu şehirlerde hizmetlerin tek bir platformda birleşmesi gecikiyor. Bu nedenle, yeni şehirler kurmak bir alternatif olarak günemde. Özellikle Çin, Hindistan ve Suudi Arabistan gibi ülkelerde "sıfırdan" planlanan, sensör temelli altyapılara sahip akıllı şehir projeleri geliştiriliyor (sayfa 39-40).
 
-Yeni bir teknolojinin yaratılması çoğu zaman başlangıçta karmakarışık, darmadağınık bir görüntü verir. Modern bir şehir ile geçmişin şehirleri (ve şu andaki çoğu şehir) arasındaki en önemli fark nasıl veri topladıkları ile ilgilidir. İdeal bir akıllı şehirde veri ortak enformasyon haline gelir. Tek bir birim, kamu kurumu ya da çalışma grubu yararına kullanılmak yerine aynı anda bir şehrin birçok işlevi için kullanılabilir. Şehir hizmetlerini birbirinden ayıran silolar ortadan kalkar. Her Şeyin İnternetini akıllı şehrin en birincil semeresi olarak düşünmek uygun olacaktır. (sayfa 37-38-39)
+Kitapta bu projelerden bazıları detaylandırılıyor: Suudi Arabistan'daki Kral Abdullah Ekonomik Şehri, Güney Kore'deki Songdo, Hindistan'daki Dholera gibi örnekler; şehir planlaması, veri entegrasyonu ve dijital altyapılar açısından inceleniyor.
 
-Pek çok ülkede patlama yapması beklenen kentsel nüfus göz önüne alındığında mevcut kentsel manzara yeterli değildir. Ya devlet talimatıyla (Çin'de olduğu gibi) ya da devlet teşvikiyle (Hindistan ve Suudi Arabistan'da olduğu gibi) veya kendi başlarına daha iyi bir şans yakalamaya karar vererek (neredeyse her ülke ve her bölgede olduğu gibi) kırsal kesimlerden ayrılan tüm insanlara yer açmak için tamamen yeni şehirlere ihtiyaç vardır. (sayfa 39)
+Kitabın son bölümlerinde geleceğin şehirlerinin karşı karşıya kalacağı zorluklar listeleniyor:
 
-Çin, Hindistan ve diğer Asya ülkelerinde, gelecek on yıllar içinde şehirlerdeki insanları barındırmak için yeterli kapasite bulunmuyor. Bu ülkeler sıfırdan yeni şehirler kurmak zorundalar. Her şey (binalar, yollar, enerji, içme suyu iletimi, ısırma, atık su tahliyesi, ulaşım, v.b.) yeni, sensörlü, teknolojiye uygun olarak tasarlanıyor. Boş bölgeler üzerine kurulacak olan bu şehirlerin planlanması ve inşa edilmesi nispeten daha kolay ancak çok büyük bütçeler söz konusu. (sayda 39-40)
+- Daha yüksek binalar ve uzun ömürlü yapılara olan ihtiyaç,
+- Daha az enerjiyle daha fazla verim sağlama hedefi,
+- Daha hassas ve küçük sensörlerin yaygınlaşması,
+- Uzaktan çalışmanın kalıcı hale gelmesi ve "ofis" kavramının dönüşmesi,
+- Online eğitimin yaygınlaşması ve ucuzlaması,
+- Siber güvenliğin artan önemi,
+- Şeffaflaşan birey yaşamı ve mahremiyet tartışmaları,
+- Çalışma hayatından dışlanan insanlar ve makinelerin yönetimi gibi konular (sayfa 65 ve sonrası).
 
-Kitapta incelenen örnekler arasında, Suudi Arabistan (Kral Abdullah Ekonomik Şehri), Güney Kore (Songdo), Çin, Hindistan (Dholera) ve Mısır'dan çeşitli projeler bulunuyor.
-
-Kitabın son sayfalarında geleceğin şehirlerinde yaşanacak zorluklar ve mücadele noktaları şöyle listeleniyor:
-
-- Daha yüksek binalara olan ihtiyaç, daha uzun süre dayanacak güçlü yapıları beraberinde getirecek. Genç ve yetenekli nüfus yoğun olarak şehirlerde yaşayacak.
-- Daha azla daha çok verim elde edilecek (aydınlatma, serinletme, ısıtma, v.b.). Daha çok verim, yaygın olarak kullanılan teknolojik altyapı ve programlar sayesinde elde edilecek. Daha az enerji ile daha çok şey yapılabilecek.
-- Daha duyarlı, daha gelişmiş ve daha küçük sensörler kullanılacak. Otomasyon sistemleri, cerrahi ve uzun dönemli bakımda vazgeçilmez olacak.
-- Kısa süreli ve mesafeli seyahatler giderek azalacak. Uzaktan çalışma eğilimi ve kapsamı genişleyecek. 'Ofis' kavramı da değişecek, bugünkü anlamından farklılaşacak.
-- Online eğitim her yere yayılacak, iyice ucuzlayacak ve bir şeyi öğrenmek için ihtiyaç duyulacak tek şey 'kararlılık' olacak.
-- Daha fazla bağlantı sayesinde daha fazla korunan şehirler oluşacak.
-- Modern şehirlerde insanların hayatları daha şeffaf hale gelecek.
-- Siber güvenlik tehditleri çoğalacak.
-- Biraz ütopik olsa da, makinelerin insanların yerini aldığı, insanları işsiz bırakarak huzursuz ettiği günlerin yaşanması halinde makine kullanımını kısıtlayıcı önlemlerin alınması söz konusu olabilecek.
-
-Kitapta anlatılan tüm deneyimler olumlu yönde değil, uygulamaya konulan çoğu şey, aslında tarihte birtakım ilkleri oluşturduğu için yazar önemli olanın hatalardan ders çıkarmak olduğunu, sonraki projelerde bu hataların tekrarlanmaması için gerekli önlemlerin alınması gerektiğini belirtiyor.
+Herzberg, bu vizyonun sadece ütopik bir geleceği değil, aynı zamanda bugün yapılan hatalardan ders çıkarılarak planlanması gereken bir dönüşüm olduğunu savunuyor. Yani akıllı şehirler sadece teknoloji meselesi değil; aynı zamanda insan odaklı, adil, esnek ve dayanıklı yapılar olarak düşünülmeli.

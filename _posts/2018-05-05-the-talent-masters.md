@@ -8,27 +8,29 @@ yazar: "Bill Conaty, Ram Charan"
 yil: "2011"
 sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/9594128-the-talent-masters"
-description: "Yetenek Sarrafları, yeteneği tanıma ve geliştirme konusunda başarılı olan ünlü şirketleri inceliyor."
-eng: ""
+description: "Yetenek Sarrafları, yetenekli liderleri tanıyıp geliştirmeyi öncelik haline getiren şirketlerin neden diğerlerinden sürekli daha başarılı olduğunu açıklıyor."
+eng: "The Talent Masters explains how companies that prioritize identifying and developing great leaders consistently outperform those that don’t."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-24
 posted: 2018-05-05
 tag: "çalışma yaşamı"
 reread: "no"
 rating: "3"
 num: "93"
-update: ""
+update: "done"
 image: "/assets/old/the-talent-masters.jpg"
 ---
 
-Yetenekler rekabet gücünü beraberinde getirse de, yetenekleri yönetebilmek için gerekli olan liderlik gücü pek az sayıda firmada mevcuttur. Başarılı olan firmaları başarısız olanlardan ayıran en önemli nokta yetenekli çalışanlara sahip olmaktır.
+Bill Conaty ve Ram Charan’ın birlikte yazdıkları _Yetenek Sarrafları_, uzun vadeli başarının ancak insanlara yatırım yaparak mümkün olduğunu savunan ve bu fikri kurumsal düzlemde detaylandıran bir kitap. Kitap, insan sermayesini şirketin stratejik merkezine koyan liderlerin neden sürekli kazandığını anlatıyor. Günümüz şirket dünyasında rekabet avantajının sürekliliği, sürekli yenilenebilen bir liderlik akışıyla sağlanabiliyor. Conaty ve Charan’a göre, parasal sermaye bir meta olabilir, ama yetenek şirketin geleceğini belirleyen en değerli kaynaktır. (sayfa 10)
 
-Başarılı şirketlerle başarısız olanlar arasındaki büyük ayrıştırıcı yetenek olacak. Kazananlar, organizasyonlarını değişime uyarlayabilen, doğru stratejik yollar belirleyebilen, hesaplanmış riskler alabilen, yeni değer yaratan fırsatları bulup yönetebilen ve durmaksızın rekabet üstünlüğü inşa edebilen insanların liderliğindeki şirketler olacaktır. (sayfa 10)
+Kitabın ilk bölümünde yazarlar, yeteneğin stratejik bir öncelik olarak nasıl konumlandırılması gerektiğini anlatıyor. Bu noktada General Electric, Procter & Gamble, Hindustan Unilever, Novartis gibi dünya devlerinden örnekler veriliyor. Bu şirketler, yıllar içinde biriken deneyimle, yetenek tanıma ve geliştirme konusunda adeta bir uzmanlık alanı oluşturmuşlar. (sayfa 11) Yazarlar bu kurumlara "yetenek sarrafları" diyor ve bu becerinin, şirketin her kademesine yayılması gereken bir disiplin olduğunu vurguluyor.
 
-Sadece bir tek kurumsal becerinin etkisi sürecektir. O da sürekli, kendini yenileyen bir lider akışı yaratma becerisi. Para sadece bir ticari metadır. Yetenek rekabet üstünlüğü sağlar. (sayfa 10)
+Kitabın merkezinde şu fikir var: Her şirket, geleceğin liderlerini bugün yetiştirmeye başlamalı. Bunun için sadece potansiyel yetenekleri tespit etmek de yetmez; bu kişilerin yetkinliklerini arttıracak, onlara farklı iş deneyimleri sunacak bir sistem de kurulmalıdır. Lider geliştirme konusunda disiplinli olmayan şirketlerin stratejik hedefleri olsa bile bu hedeflere ulaşmaları mümkün olmayabilir.
 
-Kitapta dünya çapında başarılı pek çok firmadan örnekler paylaşılıyor: General Electric, P&G, Hindustan Unilever, Agilent Technologies, Novartis, UniCredit, v.b. Bu firmaların ortak özelliği ise şöyle belirtiliyor: yeteneği tanıma ve geliştirme konusunda yıllar boyu süren ilerlemenin mükemmelleştirdiği kollektif bir uzmanlık. (sayfa 11)
+Conaty ve Charan, yalnızca insan kaynakları departmanına dayalı bir yaklaşımı yeterli bulmaz. Onlara göre, yetenek konusunda gerçek bir başarı sağlanacaksa, şirketin üpper katındaki lider kadro da bu sürece aktif olarak katılmalı. İyi bir CEO, yalnızca sayılara bakmaz; aynı zamanda en kritik koltuklara kimin oturduğuna da dikkat eder.
 
-Kitap, bu tür firmaları 'yetenek sarrafları' olarak isimlendiriyor ve kitap boyunca bunu nasıl yaptıkları okuyucuya aktarılıyor.
+Kitapta, bu anlayışın şirket kültürüne nasıl yerleştirileceği detaylandırılıyor. Örneğin, Procter & Gamble’da her ünite yöneticisinin, bir sonraki lider adayını yetiştirmekle sorumlu olduğu bir sistem kurulmuş. Bu sistemler, kısa vadeli performans değil, uzun vadeli potansiyel üzerinden işliyor.
 
-Bu şirketler, yeteneği gözlemleme, onunla ilgili yargılar oluşturma ve onun nasıl özgürleştirileceğini belirleme alışkanlıklarını kendi kültürlerinde içselleştirmişlerdir. (sayfa 11)
+Yazarlar, liderlik gelişiminin ölçülebilir ve hesap verebilir bir sistem üzerinden yürütülmesini savunuyor. Performans değerlendirmeleri, gözlem, geribildirim, çoklu görüş sistemleri gibi uygulamalar bu yapının temel taşlarını oluşturuyor. Kitapta ayrıca, potansiyel liderleri erkenden tespit etmenin yolları, onlara nasıl yol arkadaşlığı yapılabileceği ve liderlikte hangi becerilerin öne çıktığı konuları da ele alınıyor.
+
+_Yetenek Sarrafları_, yalnızca şirketlerin nasıl büyüyebileceğini anlatan bir kitap değil; aynı zamanda iyi liderliğin, insan tanıma becerisiyle bağlı olduğunu da anlatan bir rehber. İnsanları anlayabilmek, onları gözlemleyebilmek ve potansiyeli fark edebilmek uzun soluklu bir yetkinlik. Conaty ve Charan’ın vurguladığı gibi, sayılar raporlarda kalır, ama yetenek şirketin geleceğini belirler.

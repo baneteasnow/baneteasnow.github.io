@@ -8,37 +8,29 @@ yazar: "Martin Lindstrom"
 yil: "2012"
 sayfa: "318"
 goodreads: "https://www.goodreads.com/book/show/10326084-brandwashed"
-description: "Brandwashed isimli kitapta markaların nasıl kendi logolarını, sloganlarını, ürünlerini tüketicilerin bilinçaltına adeta ilmek ilmek işleyerek yerleştirdikleri ve hatta bunu bebeklikten itibaren yaptıkları anlatılıyor."
+description: "Brandwashed, markaların bilinçaltımıza nasıl yerleştiğini ve duygularımızı kullanarak bizi nasıl etkilediklerini gözler önüne seriyor."
+eng: "Brandwashed reveals how brands begin influencing us from infancy and continue shaping our buying decisions through emotional manipulation and subconscious triggers."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-24
 posted: 2018-07-07
 tag: "tüketici davranışları"
 reread: "yes"
 rating: "4"
-eng: "In a world that is full of advertisement, this book explains how a child is being exposed to hidden impacts of brands; and when he or she becomes an adult how his or her buying behaviour is affected."
-update: ""
+update: "done"
 num: "102"
 image: "/assets/old/brandwashed.jpg"
 ---
 
-Brandwashed isimli kitapta markaların nasıl kendi logolarını, sloganlarını, ürünlerini tüketicilerin bilinçaltına adeta ilmek ilmek işleyerek yerleştirdikleri ve hatta bunu bebeklikten itibaren yaptıkları anlatılıyor. Böylece çocukluk anıları arasında belli markalar bulunan kişiler, yetişkin olup kendi alışverişlerini yapmaya başladıklarında bilinçsiz şekilde o markaları tercih etme eğiliminde oluyorlar. Bu şekilde markalar da gelecekte kendi potansiyel müşterileri olacak nesiller yetişirken onların hep yanı başında yer alıyor.
+Martin Lindstrom’un kaleme aldığı Brandwashed, tüketici davranışlarını yönlendirme konusunda markaların ne denli ince taktikler geliştirdiğini gözler önüne seriyor. Kitap, pazarlama ve reklamcılık dünyasının bilinçaltımızla nasıl oynadığını, daha çocuk yaşlardan itibaren nasıl hedef haline geldiğimizi örneklerle ve araştırmalarla anlatıyor.
 
-Anne karnında duyduğumuz cıngıllar ve reklam melodileri, dünyaya geldikten sonra o müziklere ve müziklerin temsil ettiği ürünlere yönelik bir eğilim geliştirmemizi sağlıyor. (sayfa 24)
+Lindstrom’un savunduğu temel fikirlerden biri şu: Markalar, sadık müşterilerini yetişkinlikte değil, bebeklikte kazanmaya başlıyor. Anne karnında duyulan reklam melodileri ya da cingıllar, ilerleyen yıllarda o markalara karşı bir yakınlık hissi yaratıyor (sayfa 24). Daha üç aylıkken televizyon izlemeye başlayan bebekler, iki yaşına geldiklerinde bu alışkanlıkları pekiştiriyor (sayfa 30). Üstelik, yapılan araştırmalar, 36 aylık bir çocuğun ortalama 100 marka logosunu ayırt edebildiğini ortaya koyuyor (sayfa 31). On yaşına gelen bir çocuk ise yaklaşık 300-400 markayı tanıyor ve bunlar arasında tercih yapabiliyor.
 
-Daha üç aylıkken bebeklerin yüzde kırkı düzenli olarak TV izler hale geliyor ve aynı çocuklar, iki yaşlarına geldiklerinde bu oran yüzde 90'lara çıkıyor. (sayfa 30)
+Kitapta yer verilen kavramlardan biri de “elden ele etkisi”. Bu, ebeveynlerin – özellikle annelerin – çocuklarının marka tercihlerinde oynadığı rolü tanımlıyor (sayfa 39). Lindstrom’a göre, bir annenin hangi bebek bezi markasını seçtiği, çocuğun gelecekteki alışkanlıklarını şekillendiren bir başlangıç noktası.
 
-Berkeley Üniversitesi'nde görevli çocuk psikoloğu Dr. Allen Kanner, yapılan yeni araştırmalarda 36 aylık olduklarında Amerikan çocuklarının, ortalama 100 markanın logosunu ayırt edebildiklerinin tespit edildiğini belirtiyor. (sayfa 31)
+Yalnızca çocuklar değil, yetişkinler de duygu manipülasyonuna açık. Özellikle korku ve suçluluk duygusu, reklamcıların sıkça başvurduğu araçlardan biri. Yeni çocuk sahibi olmuş anneler, bu konuda en hassas grup olarak öne çıkıyor. Doğallık, temizlik, saflık gibi değerlerin öne çıkarıldığı ambalaj tasarımları ya da “çiftlikten sofraya” imajı yaratılan reyonlar bu stratejinin bir parçası. Lindstrom, marketlerde giderek yaygınlaşan bu yöntemi “farmgate” olarak tanımlıyor (sayfa 62).
 
-On yaşına gelen çocuklarsa, Nickelodeon tarafından yapılan bir araştırmaya göre, yaklaşık üç yüz dört yüz markayı ezbere biliyor. Çocuklar ayrıca markalarla ilgili tercihler de oluşturuyor. (sayfa 31)
+Kitapta dikkat çeken diğer başlıklar arasında, reklam ve eğlencenin iç içe geçtiği oyun-reklamlar, bağımlılık yaratan dijital ürünlerin pazarlama yöntemleri, ünlü isimlerin yer aldığı kampanyaların etkisi ve retro ürünlerin nostalji ile nasıl ilişkilendirildiği yer alıyor. Özellikle sadakat programlarıyla tüketicilerin nasıl segmente edildiği ve onlara özel kampanyalar sunularak kararlarının nasıl yönlendirildiği detaylı bir biçimde inceleniyor.
 
-Son dönemde, reklam ve eğlencenin iç içe geçtiği, oyun-reklamların sayısı giderek artıyor. Firmalar, çocukların kalıcı tercihlerinin şekillenmesinde küçük yaşlardan itibaren reklamların büyük etkisinin olduğunu biliyorlar; bir ürünü bir kişi ne kadar küçük yaşta kullanmaya başlarsa o ürünü hayatının geri kalanında da kullanmayı sürdürüyor. (sayfa 33)
+Brandwashed’ın son bölümlerinden biri, oldukça ilginç bir saha deneyine ayrılmış. Lindstrom’un ekibi, The Joneses adlı filmden ilhamla, Güney Kaliforniya’daki bir mahallede gerçek bir “kulaktan kulağa pazarlama” deneyi yapıyor. Sonuç: İnsanlar, çevresinden duyduklarına reklamlardan daha çok güveniyor. Komşularının, arkadaşlarının beğendiği ürünleri tercih etmeye daha yatkınlar. Deney, pazarlamada sosyal etkileşimin ne kadar güçlü olduğunu çarpıcı biçimde ortaya koyuyor.
 
-Ebeveynlerin çocuklarının zevk ve tercihleri üzerindeki etkisi oldukça büyük. Buna "elden ele etkisi" deniliyor. (sayfa 39)
-
-Bazı ürünler de korku ve panik ile karışık bir şekilde pazarlanıyor. Örneğin, 2000'li yılların başından itibaren dünyanın çeşitli bölgelerinde ortaya çıkan ve özellikle uluslararası uçuşlar ile yayılan bazı hastalıkların yarattığı tehlike sonrasında piyasaya sürülen antibakteriyel jel ürünleri için bu hastalıklar bir satış stratejisi olarak kullanılmıştır. Bu tür ürünler hijyen sağlasa da, sadece hijyene dikkat etmek bu hastalıklardan kaçınmak için yeterli değildir. Ancak, yaratılan korku ile bu ürünleri kullanan tüketiciler kendilerini bir nebze olsun rahat hissetmektedirler.
-
-Araştırmalar, kadınların korku ve suçluluk duyguları karşısında erkeklerden daha zayıf olduğunu, en zayıf grubun ise yeni çocuk sahibi olmuş anneler olduğunu ortaya çıkarmış. Bu nedenle, başta çalışan ve yeni çocuğu olmuş anneler olmak üzere, ebeveynlere yönelik olarak suçluluk duygularını ortaya çıkaran reklamlar da sektörde çokça kullanılmaktadır. Son dönemde, tazelik ve saflığa vurgu yapan, doğal yetiştirilmiş / hazırlanmış olduğu iddia edilen ürünlerin sayısı giderek artmaktadır. Marketlerin sebze meyve reyonları, açık hava pazaryerini andıracak şekilde düzenleniyor. Her şey sanki bir çiftlikten çıkmış izlenimi yaratıyor. Sektörde buna "farmgate" ismi veriliyor. (sayfa 62)
-
-Kitabın devamında, internet ve sosyal medya da dahil olmak üzere bağımlılık yaratan ürünler, reklamlarda ürünlerin ünlüler tarafından tanıtılması ve tüketicinin kendisini o ünlü kişi ile özdeşleştirme etkisi, retro ürünlerin artan sayısının geçmişi tatlı tatlı hatırlamakla ilişkisi, marketlerin ve mağazaların sadakat programları ile tüketicileri gruplara ayırmaları ve öneri ürünler ve kuponlar sunmaları anlatılıyor.
-
-Kitabın son bölümünde ise, kulaktan kulağa tanıtımın gücünü test etmek amacı ile Güney Kaliforniya'da Laguna Beach semtinde gerçekleştirilen bir deney anlatılıyor. 2010 yılı yapımı The Joneses filminin gerçek hayata uyarlandığı bu deneyde tüketicilerin satın alma kararı üzerinde komşuları ve arkadaşlarının görüşlerinin etkisi ölçülüyor. Deneyin sonuçları oldukça çarpıcı. Kişinin çevresinden duydukları, maruz kaldığı reklamlara göre satın alma kararında çok daha etkili. Detayları kitabın son bölümünde bulabilirsiniz.
+Lindstrom, tüm bu örneklerle şu soruyu düşündürüyor: Ne kadar özgürüz? Gerçekten mi seçiyoruz, yoksa bize seçtirilenin farkında bile değil miyiz?
