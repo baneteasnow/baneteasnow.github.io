@@ -10,16 +10,16 @@ yil: "2021"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/2332335.The_60_Second_Shrink"
 description: ""
+eng: ""
 last_modified_at: 2025-01-16
 published: true
 posted: 2025-01-16
 tag: "psikoloji"
 reread: "no"
 rating: "1"
-eng: ""
 num: "466"
-image: "/assets/new/the-60-second-shrink.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-60-second-shrink.jpg"
 ---
 
 to be updated

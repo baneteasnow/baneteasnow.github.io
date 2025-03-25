@@ -9,16 +9,16 @@ yil: "2025"
 sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/27485.Mating_in_Captivity"
 description: "Esaret Altındaki İlişkiler, bağlılık ve tutku arasındaki çelişkiyi ele alarak, modern ilişkilerde özgürlüğü ve arzuyu nasıl koruyabileceğimizi sorgulayan cesur bir kitap."
+eng: "Mating in Captivity is a bold exploration of the tension between commitment and desire, questioning how we can sustain freedom and passion in modern relationships."
 last_modified_at: 2025-03-08
 published: true
 posted: 2025-03-08
 tag: "psikoloji"
 reread: "no"
 rating: "2"
-eng: "Mating in Captivity is a bold exploration of the tension between commitment and desire, questioning how we can sustain freedom and passion in modern relationships."
 num: "482"
-image: "/assets/new/mating-in-captivity.jpg"
 update: "done"
+image: "/assets/new/mating-in-captivity.jpg"
 ---
 
 Esther Perel’in Esaret Altındaki İlişkiler kitabı, modern ilişkilerde bağlılık ve özgürlük arasındaki çelişkiyi ele alarak, uzun süreli ilişkilerde tutkunun nasıl korunabileceği sorusuna yanıt arıyor. Perel, cesur ve kışkırtıcı bir yaklaşımla, geleneksel ilişki anlayışlarını sorguluyor ve sadakat, bağlılık, arzu gibi kavramları alışılmışın dışında bir perspektifle ele alıyor. Ancak kitabın önerileri her okuyucuya hitap etmeyebilir.

@@ -10,16 +10,16 @@ yil: "2024"
 sayfa: "432"
 goodreads: "https://www.goodreads.com/book/show/62586003-ultra-processed-people"
 description: ""
+eng: ""
 last_modified_at: 2025-01-15
 published: true
 posted: 2025-01-15
 tag: "saglik"
 reread: "no"
 rating: "5"
-eng: ""
 num: "465"
-image: "/assets/new/ultra-processed-people.jpg"
 update: "tobeupdated"
+image: "/assets/new/ultra-processed-people.jpg"
 ---
 
 to be updated

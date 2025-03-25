@@ -10,16 +10,16 @@ yil: "2023"
 sayfa: "98"
 goodreads: "https://www.goodreads.com/book/show/1880165.The_Science_of_Being_Great"
 description: ""
+eng: ""
 last_modified_at: 2024-11-19
 published: true
 posted: 2024-11-19
 tag: "motivasyon"
 reread: "no"
 rating: "1"
-eng: ""
 num: "445"
-image: "/assets/new/the-science-of-being-great.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-science-of-being-great.jpg"
 ---
 
 to be updated

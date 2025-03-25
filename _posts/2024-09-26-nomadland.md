@@ -10,16 +10,16 @@ yil: "2021"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/38212124-nomadland"
 description: ""
+eng: ""
 last_modified_at: 2024-09-26
 published: true
 posted: 2024-09-26
 tag: "sosyoloji"
 reread: "no"
 rating: "2"
-eng: ""
 num: "438"
-image: "/assets/new/nomadland.jpg"
 update: "tobeupdated"
+image: "/assets/new/nomadland.jpg"
 ---
 
 to be updated

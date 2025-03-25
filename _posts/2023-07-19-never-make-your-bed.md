@@ -1,6 +1,5 @@
 ---
 # to be updated
-# open ai
 layout: post
 category: book
 title: "Never Make Your Bed | Rik Kuiper, Tonie Mudde (Kitap)"
@@ -10,7 +9,8 @@ yazar: "Rik Kuiper, Tonie Mudde"
 yil: "2014"
 sayfa: "203"
 goodreads: "https://www.goodreads.com/book/show/20914358-b-rak-da-n-k-kals-n"
-description: "Bırak Dağınık Kalsın, gündelik hayata dair 115 gerçeğe değiniyor."
+description: ""
+eng: ""
 last_modified_at: 2023-07-19
 published: true
 posted: 2023-07-19
@@ -19,8 +19,8 @@ reread: "no"
 rating: "3"
 eng: "Never Make Your Bed covers 115 strange scientific facts."
 num: "358"
-image: "/assets/new/never-make-your-bed.jpg"
 update: "tobeupdated"
+image: "/assets/new/never-make-your-bed.jpg"
 ---
 
 to be updated...

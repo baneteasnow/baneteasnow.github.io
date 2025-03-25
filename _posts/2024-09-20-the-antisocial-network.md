@@ -9,16 +9,16 @@ yil: "2023"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/57796397-the-antisocial-network"
 description: "Antisosyal Ağ, Reddit’teki bireysel yatırımcıların GameStop hisseleri üzerinden Wall Street’e karşı başlattığı finansal savaşın, sosyal medya ve internet kültürüyle nasıl şekillendiğini anlatan sürükleyici bir hikâyedir."
+eng: "The Antisocial Network is a gripping account of how a group of individual investors on Reddit took on Wall Street through GameStop stocks, reshaping finance with the power of social media and internet culture."
 last_modified_at: 2025-02-24
 published: true
 posted: 2024-09-20
 tag: "profile"
 reread: "no"
 rating: "4"
-eng: "The Antisocial Network is a gripping account of how a group of individual investors on Reddit took on Wall Street through GameStop stocks, reshaping finance with the power of social media and internet culture."
 num: "436"
-image: "/assets/new/the-antisocial-network.jpg"
 update: "done"
+image: "/assets/new/the-antisocial-network.jpg"
 ---
 
 Ben Mezrich’in Antisosyal Ağ kitabı, finans dünyasının görünmez kahramanlarının Wall Street’in devlerine karşı başlattığı sıra dışı mücadelenin çarpıcı hikâyesini anlatıyor. Reddit’in r/wallstreetbets forumunda bir araya gelen amatör yatırımcılar, büyük hedge fonlarının GameStop hisselerine yönelik agresif açığa satış stratejisini fark ediyor. Finans dünyasının en büyük oyuncuları, şirketin değerini düşürerek kâr etmeyi planlarken, internetin derinliklerinden yükselen bir direniş hareketi bu oyunu bozuyor.

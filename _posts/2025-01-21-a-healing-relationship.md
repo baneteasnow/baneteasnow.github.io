@@ -10,16 +10,16 @@ yil: "2024"
 sayfa: "204"
 goodreads: "https://www.goodreads.com/book/show/53280536-a-healing-relationship"
 description: ""
+eng: ""
 last_modified_at: 2025-01-21
 published: true
 posted: 2025-01-21
 tag: "psikoloji"
 reread: "no"
 rating: "5"
-eng: ""
 num: "468"
-image: "/assets/new/a-healing-relationship.jpg"
 update: "tobeupdated"
+image: "/assets/new/a-healing-relationship.jpg"
 ---
 
 to be updated

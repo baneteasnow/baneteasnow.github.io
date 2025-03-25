@@ -10,17 +10,17 @@ yazar: "Robert M. Sapolsky"
 yil: "2021"
 sayfa: "598"
 goodreads: "https://www.goodreads.com/book/show/327.Why_Zebras_Don_t_Get_Ulcers"
-description: "Zebralar Neden Ülser Olmaz?, stres ve sağlık arasındaki karmaşık ilişkiyi araştırıyor ve insanların stresle ilişkili durumlarla daha iyi başa çıkmaları ve yönetmeleri konusunda içgörüler sunuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-07-24
 published: true
 posted: 2023-07-24
 tag: "psikoloji"
 reread: "no"
 rating: "5"
-eng: "Why Zebras Don't Get Ulcers is a book that explores the intricate relationship between stress and health, offering insights into how humans can better cope with and manage stress-related conditions."
 num: "363"
-image: "/assets/new/why-zebras-dont-get-ulcers.jpg"
 update: "tobeupdated"
+image: "/assets/new/why-zebras-dont-get-ulcers.jpg"
 ---
 
 to be updated...

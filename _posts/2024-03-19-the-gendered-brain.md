@@ -18,8 +18,8 @@ reread: "no"
 rating: "4"
 eng: ""
 num: "414"
-image: "/assets/new/the-gendered-brain.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-gendered-brain.jpg"
 ---
 
 to be updated

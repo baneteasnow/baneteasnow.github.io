@@ -10,17 +10,17 @@ yazar: "Daniel Susskind"
 yil: "2021"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/51300408-a-world-without-work"
-description: "Çalışılmayan Bir Dünya, gelecekteki iş gücü dönüşümlerini ve otomasyonun iş hayatına etkilerini ele alırken, teknolojinin işlerimizi nasıl değiştirebileceği konusunda bir perspektif sunuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-07-25
 published: true
 posted: 2023-07-25
 tag: "teknoloji"
 reread: "yes"
 rating: "4"
-eng: "A World Without Work explores the future transformations of the workforce and the impact of automation on labour, providing a perspective on how technology could reshape our jobs."
 num: "364"
-image: "/assets/new/a-world-without-work.jpg"
 update: "tobeupdated"
+image: "/assets/new/a-world-without-work.jpg"
 ---
 
 to be updated...

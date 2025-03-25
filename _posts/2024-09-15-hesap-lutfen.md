@@ -10,16 +10,16 @@ yil: "2021"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/58212875-hesap-l-tfen"
 description: ""
+eng: ""
 last_modified_at: 2024-09-15
 published: true
 posted: 2024-09-15
 tag: "sosyoloji"
 reread: "no"
 rating: "3"
-eng: ""
 num: "434"
-image: "/assets/new/hesap-lutfen.jpg"
 update: "tobeupdated"
+image: "/assets/new/hesap-lutfen.jpg"
 ---
 
 to be updated

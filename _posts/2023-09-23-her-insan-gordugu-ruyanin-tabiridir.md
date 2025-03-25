@@ -10,6 +10,7 @@ yil: "2022"
 sayfa: "72"
 goodreads: "https://www.goodreads.com/book/show/53313803-sigmund-freud"
 description: ""
+eng: ""
 last_modified_at: 2023-09-23
 published: true
 posted: 2023-09-23
@@ -18,8 +19,8 @@ reread: "yes"
 rating: "4"
 eng: ""
 num: "381"
-image: "/assets/new/her-insan-gordugu-ruyanin-tabiridir.jpg"
 update: "tobeupdated"
+image: "/assets/new/her-insan-gordugu-ruyanin-tabiridir.jpg"
 ---
 
 to be updated...

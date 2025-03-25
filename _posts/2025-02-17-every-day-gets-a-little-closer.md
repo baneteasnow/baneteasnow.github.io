@@ -9,16 +9,16 @@ yil: "2018"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/24484886-every-day-gets-a-little-closer"
 description: "Her Gün Biraz Daha Yakın, terapist ve danışanın bakış açılarını yan yana getirerek, içsel değişimin sabır ve zaman gerektiren bir süreç olduğunu gösteren benzersiz bir kitap."
+eng: "Every Day Gets a Little Closer is a unique book that juxtaposes the perspectives of therapist and patient, illustrating how inner transformation is a process that requires patience and time."
 last_modified_at: 2025-02-18
 published: true
 posted: 2025-02-17
 tag: "psikoloji"
 reread: "yes"
 rating: "5"
-eng: "Every Day Gets a Little Closer is a unique book that juxtaposes the perspectives of therapist and patient, illustrating how inner transformation is a process that requires patience and time."
 num: "475"
-image: "/assets/new/every-day-gets-a-little-closer.jpg"
 update: "done"
+image: "/assets/new/every-day-gets-a-little-closer.jpg"
 ---
 
 Irvin D. Yalom ve Ginny Elkin’in "Her Gün Biraz Daha Yakın" kitabı, bir terapistin ve danışanın gözünden terapi sücrecini anlatan çok katmanlı bir metin. Kitapta en dikkat çekici noktalardan biri, Ginny’nin terapi sücrecinde yaşadığı gelgitler ve Yalom’un buna karşı sabırlı ve yapılandırıcı bir tavırla yanıt vermesi.

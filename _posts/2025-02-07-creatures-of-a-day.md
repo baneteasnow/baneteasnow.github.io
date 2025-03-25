@@ -10,16 +10,16 @@ yil: "2016"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/22825544-creatures-of-a-day"
 description: ""
+eng: ""
 last_modified_at: 2025-02-07
 published: true
 posted: 2025-02-07
 tag: "psikoloji"
 reread: "no"
 rating: "5"
-eng: ""
 num: "473"
-image: "/assets/new/creatures-of-a-day.jpg"
 update: "tobeupdated"
+image: "/assets/new/creatures-of-a-day.jpg"
 ---
 
 to be updated

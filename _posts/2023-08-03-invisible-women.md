@@ -9,17 +9,17 @@ yazar: "Caroline Criado Perez"
 yil: "2021"
 sayfa: "440"
 goodreads: "https://www.goodreads.com/book/show/41104077-invisible-women"
-description: "Caroline Criado Perez'ın Görünmez Kadınlar adlı kitabı, cinsiyetle ilgili eksik veriler nedeniyle dünyanın tasarımının, politikalarının ve kararlarının temelde kadınlara karşı önyargılı olduğunu ortaya koyuyor."
+description: ""
+eng: ""
 last_modified_at: 2023-08-03
 published: true
 posted: 2023-08-03
 tag: "sosyoloji"
 reread: "yes"
 rating: "5"
-eng: "Invisible Women by Caroline Criado Perez exposes the pervasive gender data gap, revealing how the world's design, policies, and decisions are fundamentally biased against women due to a lack of gender-inclusive data."
 num: "367"
-image: "/assets/new/invisible-women.jpg"
 update: "tobeupdated"
+image: "/assets/new/invisible-women.jpg"
 ---
 
 to be updated...

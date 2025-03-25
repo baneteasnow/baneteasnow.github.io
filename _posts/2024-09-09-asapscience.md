@@ -9,16 +9,16 @@ yil: "2020"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/22609519-asapscience"
 description: "AsapSCIENCE, dünyanın en garip sorularını yanıtlayan, popüler efsaneleri çürüten ve bilimsel gizemleri herkesin anlayabileceği eğlenceli ve akıcı bir dille açıklayan bir kitap."
+eng: "AsapSCIENCE takes a fun and engaging approach to answering bizarre questions, debunking popular myths, and explaining scientific mysteries in a way that makes complex concepts accessible to everyone."
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-09-09
 tag: "fen bilimleri"
 reread: "no"
 rating: "3"
-eng: "AsapSCIENCE takes a fun and engaging approach to answering bizarre questions, debunking popular myths, and explaining scientific mysteries in a way that makes complex concepts accessible to everyone."
 num: "432"
-image: "/assets/new/asapscience.jpg"
 update: "done"
+image: "/assets/new/asapscience.jpg"
 ---
 
 Bilim dünyasında sıkça karşılaştığımız ancak her zaman net cevaplar bulamadığımız sorulara, günlük dilimize adapte edilmiş, eğlenceli ve anlaşılır açıklamalar getiren AsapSCIENCE - Dünyanın En Garip Sorularına, En Meşhur Söylentilerine ve Açıklanmamış Olaylarına Cevaplar, gündelik yaşamımızın içindeki bilimsel merakımızı kamçılayan, adeta bir bilgi şöleni sunuyor. Mitch Moffit ve Greg Brown’un popüler YouTube kanalı AsapSCIENCE’ın geniş kitlelerce sevilen, bilgilendirici ve eğlenceli içeriklerinden ilham alınarak oluşturulan bu kitap, bilimsel bilgiyi, meraklı zihinlere ulaştırma konusunda yeni bir soluk getiriyor. Sadece akademik çevrelerin değil, günlük hayatta karşılaştığımız ve çoğunlukla yüzeysel bilgilerle geçiştirdiğimiz pek çok soruyu mercek altına alıyor. "Beynimizin yüzde 10’unu mu kullanıyoruz?" gibi yaygın bir efsaneden "Hangover’dan gerçekten kurtulmanın bir yolu var mı?" gibi pratik bir soruya, "Bitkiler acıyı hisseder mi?" gibi düşündürücü bir tartışmadan "Telefonlarımız bizi gerçekten hasta edebilir mi?" gibi güncel bir konuya kadar geniş bir yelpazede sorulara bilimsel yaklaşımlar sunuyor.

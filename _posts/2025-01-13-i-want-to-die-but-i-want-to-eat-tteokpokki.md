@@ -9,16 +9,16 @@ yil: "2024"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/49228706-i-want-to-die-but-i-want-to-eat-tteokpokki"
 description: "Ölmek İstiyorum Ama Tteokbokki de Yemek İstiyorum, Baek Sehee’nin terapi seansları aracılığıyla yüksek işlevli depresyonunu ve içsel çatışmalarını samimi bir şekilde anlattığı, zihinsel sağlığın gündelik hayattaki sessiz mücadelesini anlatan bir kitap."
+eng: "I Want to Die But I Want to Eat Tteokbokki is a raw and intimate exploration of high-functioning depression, where Baek Sehee shares her therapy sessions and inner conflicts, revealing the quiet struggles of mental health in daily life."
 last_modified_at: 2025-02-23
 published: true
 posted: 2025-01-12
 tag: "psikoloji"
 reread: "no"
 rating: "3"
-eng: "I Want to Die But I Want to Eat Tteokbokki is a raw and intimate exploration of high-functioning depression, where Baek Sehee shares her therapy sessions and inner conflicts, revealing the quiet struggles of mental health in daily life."
 num: "464"
-image: "/assets/new/i-want-to-die-but-i-want-to-eat-tteokpokki.jpg"
 update: "done"
+image: "/assets/new/i-want-to-die-but-i-want-to-eat-tteokpokki.jpg"
 ---
 
 Baek Sehee’nin Ölmek İstiyorum Ama Tteokbokki de Yemek İstiyorum adlı kitabı, depresyonla yaşamanın ve günlük hayatı sürdürebilmenin zorluğunu, psikiyatristle yapılan terapilerin ışığında samimi bir şekilde ele alıyor. Kitap, ağır bir psikolojik inceleme sunmak yerine, yazarın kendi duygu durumunu keşfetme sürecini içtenlikle anlatıyor ve birçok kişinin iç dünyasında yankı uyandırabilecek bir iç konuşma sunuyor. Kitabın çarpıcı ismi, depresyonun karmaşık doğasını ve içsel çelişkileri yansıtıyor. Bu başlık, okuyucuda güçlü bir merak uyandırırken, kitabın derinlerindeki çelişkili duyguları da gözler önüne seriyor.

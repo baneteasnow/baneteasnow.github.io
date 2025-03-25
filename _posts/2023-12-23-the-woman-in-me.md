@@ -9,16 +9,16 @@ yil: "2023"
 sayfa: "277"
 goodreads: "https://www.goodreads.com/book/show/63133205-the-woman-in-me"
 description: "The Woman in Me, Britney Spears’in şöhret, özgürlük ve kontrol mücadelesini gözler önüne seren, iç dünyasını cesurca paylaştığı bir anı kitabı."
+eng: "The Woman in Me is a memoir in which Britney Spears bravely shares her inner world, revealing her struggles with fame, freedom, and control."
 last_modified_at: 2025-02-23
 published: true
 posted: 2023-12-23
 tag: "profile"
 reread: "no"
 rating: "5"
-eng: "The Woman in Me is a memoir in which Britney Spears bravely shares her inner world, revealing her struggles with fame, freedom, and control."
 num: "397"
-image: "/assets/new/the-woman-in-me.jpg"
 update: "done"
+image: "/assets/new/the-woman-in-me.jpg"
 ---
 
 Britney Spears’in The Woman in Me adlı kitabı, pop müziğin en büyük ikonlarından birinin sahne ışıklarının ardındaki gerçek hayatını tüm çıplaklığıyla gözler önüne seriyor. Spears, çocuk yaşta başladığı müzik kariyerinden, 13 yıl boyunca babasının kontrolü altında yaşadığı yasal vasiliğe (conservatorship) kadar uzanan çalkantılı ve travmatik süreci, içten, samimi ve sansürsüz bir dille anlatıyor. Bu kitap, sadece bir yıldızın hayatı değil; aynı zamanda kadınların güç, kontrol ve özgürlük mücadelesinin, medyanın acımasız baskısının ve zihinsel sağlığın toplumsal algısının da bir yansıması.

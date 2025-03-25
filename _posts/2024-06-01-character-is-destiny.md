@@ -10,16 +10,16 @@ yil: "1998"
 sayfa: "262"
 goodreads: "https://www.goodreads.com/book/show/8599792-character-is-destiny"
 description: ""
+eng: ""
 last_modified_at: 2024-06-01
 published: true
 posted: 2024-06-01
 tag: "felsefe"
 reread: "no"
 rating: "3"
-eng: ""
 num: "419"
-image: "/assets/new/character-is-destiny.jpg"
 update: "tobeupdated"
+image: "/assets/new/character-is-destiny.jpg"
 ---
 
 to be updated

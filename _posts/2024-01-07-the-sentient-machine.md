@@ -10,16 +10,16 @@ yil: "2019"
 sayfa: "218"
 goodreads: "https://www.goodreads.com/en/book/show/34466959"
 description: ""
+eng: ""
 last_modified_at: 2024-01-07
 published: true
 posted: 2024-01-07
 tag: "yapay zeka"
 reread: "no"
 rating: "2"
-eng: ""
 num: "400"
-image: "/assets/new/the-sentient-machine.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-sentient-machine.jpg"
 ---
 
 to be updated

@@ -10,16 +10,16 @@ yil: "2024"
 sayfa: "180"
 goodreads: "https://www.goodreads.com/book/show/180239.How_I_Made_2_000_000_In_The_Stock_Market"
 description: ""
+eng: ""
 last_modified_at: 2024-11-17
 published: true
 posted: 2024-11-17
 tag: "profile"
 reread: "yes"
 rating: "5"
-eng: ""
 num: "443"
-image: "/assets/new/how-i-made-2000000-dollars-in-the-stock-market.jpg"
 update: "tobeupdated"
+image: "/assets/new/how-i-made-2000000-dollars-in-the-stock-market.jpg"
 ---
 
 to be updated

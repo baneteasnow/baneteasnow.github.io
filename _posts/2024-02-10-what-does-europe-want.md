@@ -10,16 +10,16 @@ yil: "2015"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/19376341-what-does-europe-want"
 description: ""
+eng: ""
 last_modified_at: 2024-02-10
 published: true
 posted: 2024-02-10
 tag: "siyaset bilimi"
 reread: "no"
 rating: "3"
-eng: ""
 num: "407"
-image: "/assets/new/what-does-europe-want.jpg"
 update: "tobeupdated"
+image: "/assets/new/what-does-europe-want.jpg"
 ---
 
 to be updated

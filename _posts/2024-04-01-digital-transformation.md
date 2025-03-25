@@ -10,16 +10,16 @@ yil: "2020"
 sayfa: "268"
 goodreads: "https://www.goodreads.com/book/show/44667878-digital-transformation"
 description: ""
+eng: ""
 last_modified_at: 2024-04-01
 published: true
 posted: 2024-04-01
 tag: "teknoloji"
 reread: "no"
 rating: "4"
-eng: ""
 num: "416"
-image: "/assets/new/digital-transformation.jpg"
 update: "tobeupdated"
+image: "/assets/new/digital-transformation.jpg"
 ---
 
 to be updated

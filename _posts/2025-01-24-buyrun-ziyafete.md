@@ -10,16 +10,16 @@ yil: "2024"
 sayfa: "264"
 goodreads: "https://www.goodreads.com/book/show/75595760-buyurun-ziyafete"
 description: "Buyurun Ziyafete, Vedat Milor’un hayatını, gastronomi tutkusunu ve restoran eleştirmenliğine dair birikimlerini samimi bir anlatımla aktardığı bir kitap."
+eng: "Buyurun Ziyafete is a book where Vedat Milor shares his life, passion for gastronomy, and insights on restaurant criticism with a sincere narrative."
 last_modified_at: 2025-02-18
 published: true
 posted: 2025-01-24
 tag: "profile"
 reread: "no"
 rating: "2"
-eng: "Buyurun Ziyafete is a book where Vedat Milor shares his life, passion for gastronomy, and insights on restaurant criticism with a sincere narrative."
 num: "470"
-image: "/assets/new/buyrun-ziyafete.jpg"
 update: "done"
+image: "/assets/new/buyrun-ziyafete.jpg"
 ---
 
 Buyurun Ziyafete, Vedat Milor’un çocukluk ve gençlik yıllarına uzanan anılarıyla başlıyor. Bugün gastronomi denince akla gelen ilk isimlerden biri olan Milor, çocukluk yıllarında onu etkileyen kişiler ve olayların hayatını nasıl şekillendirdiğini anlatıyor. Türkiye’den Avrupa’ya, oradan da ABD’ye uzanan akademik yolculuğunda ekonomist, hukukçu ve sosyolog unvanlarını kazanan Milor, bu süreçte fırsat buldukça restoran keşiflerine çıkıyor, nadir ve değerli şarapları tadarak gastronomi alanındaki birikimini derinleştiriyor. Farklı disiplinlerden edindiği deneyimleri, yemek kültürü üzerine yazdığı metinlere de yansıyor.

@@ -10,16 +10,16 @@ yil: "2023"
 sayfa: "152"
 goodreads: "https://www.goodreads.com/book/show/122368875-afacan-bir-psikanalistan-d-nc-leri"
 description: ""
+eng: ""
 last_modified_at: 2023-10-30
 published: true
 posted: 2023-10-30
 tag: "psikoloji"
 reread: "yes"
 rating: "4"
-eng: ""
 num: "391"
-image: "/assets/new/afacan-bir-psikanalistan-dusunceleri.jpg"
 update: "tobeupdated"
+image: "/assets/new/afacan-bir-psikanalistan-dusunceleri.jpg"
 ---
 
 to be updated...

@@ -10,17 +10,17 @@ yazar: "Worry Lines"
 yil: "2022"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/58038157-this-book-is-for-you"
-description: "@worry__lines Instagram hesabındaki paylaşımları ile tanınan Worry Lines, Bu Kitap Senin İçin'de ben, umut ve kaygı karakterlerinin maceralarını renkli çizimler ile aktarıyor. "
+description: ""
+eng: ""
 last_modified_at: 2023-07-21
 published: true
 posted: 2023-07-21
 tag: "motivasyon"
 reread: "yes"
 rating: "5"
-eng: "This Book Is for You is a short comic book that covers the adventures of the characters me, worry, and hope by @worry__lines."
 num: "360"
-image: "/assets/new/this-book-is-for-you.jpg"
 update: "tobeupdated"
+image: "/assets/new/this-book-is-for-you.jpg"
 ---
 
 to be updated...

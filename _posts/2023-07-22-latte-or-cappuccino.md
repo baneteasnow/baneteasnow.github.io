@@ -10,17 +10,17 @@ yazar: "Hilly Janes"
 yil: "2013"
 sayfa: "168"
 goodreads: "https://www.goodreads.com/book/show/15779257-latte-or-cappuccino"
-description: "Sütlü mü? Köpüklü mü?, günlük hayattan 125 farklı karar noktası ile ilgili değerlendirmeler paylaşıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-07-22
 published: true
 posted: 2023-07-22
 tag: "sosyal bilimler"
 reread: "no"
 rating: "3"
-eng: "Latte or Cappuccino? - 125 Decisions That Will Change Your Life is a book by Hilly Janes that guides readers in making conscious choices and provides insights into 125 different decisions that can transform their lives."
 num: "361"
-image: "/assets/new/latte-or-cappuccino.jpg"
 update: "tobeupdated"
+image: "/assets/new/latte-or-cappuccino.jpg"
 ---
 
 to be updated...

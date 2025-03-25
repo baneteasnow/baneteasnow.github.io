@@ -10,16 +10,16 @@ yil: "2023"
 sayfa: "232"
 goodreads: "https://www.goodreads.com/book/show/60149538-virtual-society"
 description: ""
+eng: ""
 last_modified_at: 2023-10-12
 published: true
 posted: 2023-10-12
 tag: "teknoloji"
 reread: "no"
 rating: "4"
-eng: ""
 num: "385"
-image: "/assets/new/virtual-society.jpg"
 update: "tobeupdated"
+image: "/assets/new/virtual-society.jpg"
 ---
 
 to be updated...

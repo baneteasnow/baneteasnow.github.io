@@ -10,16 +10,16 @@ yil: "2024"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/123025864-101-things-i-learned-in-psychology-school"
 description: ""
+eng: ""
 last_modified_at: 2024-02-04
 published: true
 posted: 2024-02-04
 tag: "psikoloji"
 reread: "no"
 rating: "3"
-eng: ""
 num: "406"
-image: "/assets/new/101-things-i-learned-in-psychology-school.jpg"
 update: "tobeupdated"
+image: "/assets/new/101-things-i-learned-in-psychology-school.jpg"
 ---
 
 to be updated

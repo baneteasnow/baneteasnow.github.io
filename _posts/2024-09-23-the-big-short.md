@@ -9,16 +9,16 @@ yil: "2011"
 sayfa: "346"
 goodreads: "https://www.goodreads.com/book/show/26889576-the-big-short"
 description: "Büyük Açık, 2008 küresel finans krizinin perde arkasını, Wall Street’in riskli mortgage sistemini nasıl çökerttiğini ve bunu önceden gören yatırımcıların hikâyesini anlatan çarpıcı bir finans kitabıdır."
+eng: "The Big Short is a gripping finance book that reveals the behind-the-scenes story of the 2008 global financial crisis, exposing how Wall Street’s risky mortgage system collapsed and the investors who saw it coming."
 last_modified_at: 2025-02-24
 published: true
 posted: 2024-09-23
 tag: "profile"
 reread: "no"
 rating: "5"
-eng: "The Big Short is a gripping finance book that reveals the behind-the-scenes story of the 2008 global financial crisis, exposing how Wall Street’s risky mortgage system collapsed and the investors who saw it coming."
 num: "437"
-image: "/assets/new/the-big-short.jpg"
 update: "done"
+image: "/assets/new/the-big-short.jpg"
 ---
 
 Michael Lewis’in Büyük Açık - Kıyamet Çarkının İçinde adlı eseri, 2008 küresel finans krizinin yalnızca rakamlarla değil, gerçek insan hikâyeleriyle örülü çarpıcı bir anlatısı. Kitap, Wall Street’in aşırı riskli mortgage kredileriyle nasıl devasa bir finansal balon yarattığını ve bu balonun patlamasıyla ortaya çıkan kaosu, krizi önceden görebilen birkaç yatırımcının gözünden aktarıyor. Lewis, karmaşık finansal kavramları teknik jargonun içine hapsetmek yerine, kriz sürecini anlamayı kolaylaştıran sürükleyici bir hikâye anlatımıyla okuyucuyu olayların merkezine çekiyor.

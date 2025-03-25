@@ -8,17 +8,17 @@ yazar: "Gary Keller, Jay Papasan"
 yil: "2017"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/16256798-the-one-thing"
-description: "Bir Tek Şey, odaklanmanın gücünü vurgulayarak, hayatınızdaki en önemli hedefi belirleyip ona yoğunlaşmanın başarıya ulaşmada nasıl kritik bir rol oynadığını anlatıyor."
+description: ""
+eng: ""
 last_modified_at: 2025-02-24
 published: true
 posted: 2023-08-05
 tag: "üretkenlik ve teknoloji"
 reread: "no"
 rating: "2"
-eng: "The One Thing emphasizes the power of focus, explaining how identifying and concentrating on your most important goal is key to achieving success."
 num: "368"
+update: ""
 image: "/assets/new/the-one-thing.jpg"
-update: "done"
 ---
 
 Günümüzün karmaşık ve dikkat dağıtıcı dünyasında, başarıya ulaşmak giderek zorlaşıyor. Gary Keller ve Jay Papasan'ın "Bir Tek Şey - Olağanüstü Sonuçların Ardındaki Şaşırtıcı Yalın Gerçek" adlı eseri, bu zorluğa etkili bir çözüm sunuyor: Odaklanma. Kitap, hayatımızın her alanında karşımıza çıkan çok sayıda görev ve sorumluluk arasında, en önemli olan "tek bir şeye" odaklanmanın gücünü vurguluyor.

@@ -9,16 +9,16 @@ yil: "2020"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/38744766-mastering-adulthood"
 description: "Yetişkin Olmak, yetişkinliğin getirdiği zorluklarla başa çıkmak için duygusal beceriler ve öz farkındalık üzerine odaklanarak, stres yönetimi, dayanıklılık ve kişisel gelişim için pratik stratejiler sunuyor."
+eng: "Mastering Adulthood explores the emotional skills and self-awareness needed to navigate adulthood, offering practical strategies to manage stress, build resilience, and foster personal growth."
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-03-24
 tag: "psikoloji"
 reread: "no"
 rating: "2"
-eng: "Mastering Adulthood explores the emotional skills and self-awareness needed to navigate adulthood, offering practical strategies to manage stress, build resilience, and foster personal growth."
 num: "415"
-image: "/assets/new/mastering-adulthood.jpg"
 update: "done"
+image: "/assets/new/mastering-adulthood.jpg"
 ---
 
 Lara E. Fielding'in Yetişkin Olmak - Büyümek ve Duygusal Olgunluğa Erişmek adlı kitabı, yetişkinliğe geçiş sürecinde karşılaşılan duygusal iniş çıkışları anlamak ve yönetmek için bir kılavuz niteliğinde. Kitap, sadece yetişkinliğin beraberinde getirdiği sorumluluklarla nasıl başa çıkılacağını anlatmakla kalmıyor, aynı zamanda duygu düzenleme becerilerini geliştirerek, hayat yolculuğunda daha bilinçli ve sağlıklı kararlar alabilmemizi hedefliyor. Örneğin, iş yerinde yaşanan bir anlaşmazlık sonrasında öfkeyle patlamak yerine, duygularımızı sakin bir şekilde ifade etmeyi ve yapıcı bir çözüm yolu bulmayı öğrenmemizi sağlıyor. Fielding, ani tepkiler vermenin çoğu zaman olumsuz sonuçlar doğurabileceğini, bunun yerine duygularımızın farkına varıp onları kontrol etmenin, daha sağlıklı ilişkiler kurmamıza ve hedeflerimize ulaşmamıza yardımcı olacağını vurguluyor.

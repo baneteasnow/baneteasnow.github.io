@@ -8,36 +8,29 @@ yazar: "Rutger Bregman"
 yil: "2018"
 sayfa: "328"
 goodreads: "https://www.goodreads.com/book/show/40876575-utopia-for-realists"
-description: ""
-eng: ""
+description: "Gerçekçiler İçin Ütopya, temel gelir, daha az çalışma süresi ve açık sınırlar gibi bir zamanlar “uçuk” sayılan fikirlerin aslında uygulanabilir olduğunu göstererek, daha adil bir geleceği hayal etmenin mümkün olduğunu savunuyor."
+eng: "Utopia for Realists argues that ideas once seen as radical—like basic income, shorter workweeks, and open borders—are not only realistic but essential to building a fairer future."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-25
 posted: 2018-09-22
 tag: "felsefe"
 reread: "yes"
 rating: "5"
 num: "111"
-update: ""
+update: "done"
 image: "/assets/old/utopia-for-realists.jpg"
 ---
 
-Gerçekçiler İçin Ütopya, içinde bulunduğumuz 'bolluk çağı'nı irdeleyerek başlıyor.
+Rutger Bregman’in kaleme aldığı Gerçekçiler İçin Ütopya, “bolluk çağı” olarak tanımladığımız günümüzdeki toplumsal düzenin çelişkilerini masaya yatıran, iddialı ve sarsıcı bir kitap. Tarih boyunca hayal gibi görülen ama sonra gerçekleşen çok sayıda fikrin izini sürerek, bugün bize ütopya gibi gelen fikirlerin de bir gün gündelik gerçekliğimiz haline gelebileceğini savunuyor.
 
-Günümüzde eski çağlara göre, pek çok insan daha kaliteli, daha sağlıklı ve uzun bir yaşam sürüyor, pek çok imkana ve zenginliğe erişim de daha mümkün hale geldi. Ancak, tüm bu imkanlara rağmen gene de sabahları yataktan çıkmak için bir neden gerekli. Pek çok kişi, belki de hemen herkes bu 'anlamlı' nedeni arıyor durmadan. Ancak, bir yandan da bir duraklama çağındayız. Yazara göre, sanatın, felsefenin yapıldığı, yeni eserlerin ortaya koyulduğu bir çağda değiliz, sadece mevcudun korunduğu bir çağdayız. Geleceği daha iyi kurgulamak için biraz daha fazlasına ihtiyaç var, peki ama nasıl?
+Kitap, günümüz toplumunun bir duraklama döneminde olduğunu söylüyor. Hayatta kalma, sıĿınma, beslenme gibi temel sorunların büyük oranda aşıldığı bir düzende, hala neden mutsuz ve anlamsızlık hissiyle boğuşan insanlar olduğu sorusunu soruyor. Yazar, bu durumu sistemin temelindeki yapısal sorunlara bağlıyor. Artan gelir eşitsizliği, anlamsız işler (bullshit jobs), çalışma saatlerinin uzunluğu, ve küresel düzenin şeffaflıktan uzak yapısı kitapta tartışılan ana meseleler arasında.
 
-İnsanlar mutsuz, memnuniyetsiz ve şikayetçiler. Ama, mevcut sistem bu durumun nedenlerini incelemek yerine belirtilerine eğiliyor. Hastalar doktora, depresyondakiler terapiste, kilo vermek isteyenler diyetisyene gidiyor. Ancak, bu şikayetlerin neden ortaya çıktığını kimse pek sorgulamıyor.
+Bregman'ın çözümlerinden biri, herkese şartsız temel gelir verilmesi. Yoksulluğun sadece maddi koşullardan değil, aynı zamanda yargılayıcı ve kontrol edici politikalarla daha da derinleştiğini söylüyor. Temel gelirin, insanlara sadece maddi rahatlama değil, aynı zamanda saygı ve seçim hakkı kazandıracağını savunuyor. Kitapta, Kanada ve ABD’de yapılan temel gelir denemelerine ve bu denemelerin olumlu sonuçlarına yer veriliyor (sayfa 38).
 
-Tüketim kültürünün ağır bastığı bugünkü ortamda, daha fazla tüketmek için daha fazla çalışıyoruz. Ancak, çoğu kez bu durum bize mutluluk getirmiyor. Bu gidişatın değiştirilmesi, daha büyük fikirlerin ortaya atıldığı bir ortamı yeniden kurgulamak bir ütopya gibi görünüyor olabilir. Ancak yazar, aslında daha iyi bir geleceğin mümkün olduğunu örneklerle açıklıyor. Ütopyaların gerçekleşebileceğini somut verilerle gösteriyor.
+Bir diğer ütopya ise haftalık çalışma saatlerinin azaltılması. Bregman, çok çalışmanın sanıldığı kadar verimli olmadığını, daha kısa çalışma sürelerinin ise hem bireysel mutluluğu hem de toplumsal faydayı artırabileceğini savunuyor. Bu fikir, iklim kriziyle mücadele, toplumsal cinsiyet eşitliği, kazaların azaltılması gibi pek çok başlık altında detaylandırılıyor (sayfa 102).
 
-Ütopyanın yerine koyacak yeni bir hayalimiz yok çünkü elimizdekinden iyi bir dünya hayal edemiyoruz. Gerçek kriz, daha iyi bir şey hayal edemiyor oluşumuz. (sayfa 10-11)
+Yazar ayrıca sınırların kaldırılmasını ve göçmenlerin serbest dolaşım hakkını savunuyor. Çok kültürlü ve açık toplum yapılarının hem ekonomik hem sosyal anlamda daha dirençli olduğuna dair verileri paylaşıyor. Bu bölümlerde söylenenler bir yandan tartışmalı, öte yandan verilerle destekleniyor.
 
-Kitapta incelenen konular arasında şunlar var:
+Bregman'ın tarzı samimi ve çoğu zaman mizahi. Oldukça açık bir dille yazılan kitap, akademik metinlere göre daha akıcı ve genelde tarihsel anekdotlarla zenginleştirilmiş. Fordizm'den sosyal devlete, neoliberal düzene kadar pek çok tarihsel gelişmenin üzerinden geçerken okura şöyle sorular soruyor: "Neden şu anki sistemi doğrudan sorgulamıyoruz?", "Gerçekten farklı bir düzen düşünemiyor muyuz?"
 
-- Çalışsın ya da çalışmasın herkese temel gelir sağlanması (temel gelirin bir hak haline gelmesi),
-- Gerçekleri yansıtmadığı bilinen gayrisafi milli hasılanın (GSMH) halen pek çok konuda gösterge olarak sayılması,
-- Yoksulluğun sonunun nasıl getirilebileceği,
-- İnsanlarla makinelerin yarısını kimin kazanacağı,
-- Haftalık çalışma saatlerinin azaltılmasının aslında stres, iklim değişikliği, kazalar, işsizlik, kadınların özgürleşmesi, yaşlanan nüfus ve eşitsizlik gibi - sorunlara dolaylı ya da dolaysız olarak nasıl çözüm sağlayabileceği,
-- Sınırların açılmasının beraberinde getireceği olumlu şeyler.
-
-Rutger Bregman, uygulanabilir vizyoner fikirlerle yeni bir toplum inşa edilebileceğini öne sürüyor. Bu iddiasını, sıra ile incelediği ütopyalarla destekliyor.
+Son bölümde yazar, bir zamanlar çocuk işçiliğin, oy hakkının sadece erkeklere ait olmasının ya da haftada 40 saatten fazla çalışmanın "normal" kabul edildiğini hatırlatarak, şu an olan düzenin de aslında değişetirilebileceğini vurguluyor. Değişim için ilk adım ise, daha iyi bir dünya düşleyebilme cesaretine sahip olmak.

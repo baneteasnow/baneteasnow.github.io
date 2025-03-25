@@ -10,16 +10,16 @@ yil: "2021"
 sayfa: "279"
 goodreads: "https://www.goodreads.com/book/show/6902351-cehenneme-vg"
 description: ""
+eng: ""
 last_modified_at: 2023-09-13
 published: true
 posted: 2023-09-13
 tag: "felsefe"
 reread: "no"
 rating: "2"
-eng: ""
 num: "378"
-image: "/assets/new/cehenneme-ovgu.jpg"
 update: "tobeupdated"
+image: "/assets/new/cehenneme-ovgu.jpg"
 ---
 
 to be updated...

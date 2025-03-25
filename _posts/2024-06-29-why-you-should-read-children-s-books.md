@@ -10,16 +10,16 @@ yil: "2020"
 sayfa: "74"
 goodreads: "https://www.goodreads.com/book/show/44244323-why-you-should-read-children-s-books-even-though-you-are-so-old-and-wis"
 description: ""
+eng: ""
 last_modified_at: 2024-06-29
 published: true
 posted: 2024-06-29
 tag: "motivasyon"
 reread: "no"
 rating: "4"
-eng: ""
 num: "421"
-image: "/assets/new/why-you-should-read-children-s-books.jpg"
 update: "tobeupdated"
+image: "/assets/new/why-you-should-read-children-s-books.jpg"
 ---
 
 to be updated

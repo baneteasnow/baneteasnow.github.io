@@ -10,16 +10,16 @@ yil: "2022"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/30526576-a-k-n-halleri"
 description: ""
+eng: ""
 last_modified_at: 2024-11-25
 published: true
 posted: 2024-11-25
 tag: "psikoloji"
 reread: "no"
 rating: "4"
-eng: ""
 num: "450"
-image: "/assets/new/askin-halleri.jpg"
 update: "tobeupdated"
+image: "/assets/new/askin-halleri.jpg"
 ---
 
 to be updated

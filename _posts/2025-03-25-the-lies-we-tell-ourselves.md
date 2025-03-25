@@ -9,16 +9,16 @@ yil: "2025"
 sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/30689031-the-lies-we-tell-ourselves"
 description: "Kendimize Söylediğimiz Yalanlar, acı veren duygulardan kaçınmak için geliştirdiğimiz savunmaları gözler önüne seriyor ve yüzleşmenin iyileşmenin ilk adımı olduğunu hatırlatıyor."
+eng: "The Lies We Tell Ourselves reveals the defenses we build to avoid painful emotions, reminding us that healing begins with the courage to face them."
 last_modified_at: 2025-03-25
 published: true
 posted: 2025-03-25
 tag: "lifestyle"
 reread: "no"
 rating: "1"
-eng: "The Lies We Tell Ourselves reveals the defenses we build to avoid painful emotions, reminding us that healing begins with the courage to face them."
 num: "486"
-image: "/assets/new/the-lies-we-tell-ourselves.jpg"
 update: "done"
+image: "/assets/new/the-lies-we-tell-ourselves.jpg"
 ---
 
 Jon Frederickson’ın Kendimize Söylediğimiz Yalanlar kitabı, psikoterapi temelli güçlü bir yüzleşme daveti sunuyor. Frederickson, yıllara dayanan terapistlik deneyiminden yola çıkarak, insanlardaki değişim arzusu ile yüzleşme korkusu arasındaki derin çatışmayı mercek altına alıyor. Ona göre, insanlar genellikle değişmek istediklerini söyleseler de, bu isteğin ardında gerçekte değişim değil, duygulardan kaçma arzusu yatar. Çünkü gerçek bir değişim; samimiyet, cesaret ve özellikle de acı veren duygularla yüzleşmeyi gerektirir. Bu yüzleşmeden kaçındığımızda ise devreye savunma mekanizmaları girer ve kendimizi korumak adına çeşitli yalanlara başvururuz. Frederickson, işte bu yalanların izini sürüyor.

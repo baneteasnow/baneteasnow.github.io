@@ -8,17 +8,17 @@ yazar: "Andrew O'Connell"
 yil: "2013"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/17290915-stats-and-curiosities"
-description: "Kenyalılar Otobüs Şoförlerine Neden Bağırır?, günlük hayatımızda karşılaştığımız olayları istatistiksel verilerden yararlanarak yorumluyor."
+description: ""
+eng: ""
 last_modified_at: 2023-07-20
 published: true
 posted: 2023-07-20
 tag: "sosyal bilimler"
 reread: "no"
 rating: "3"
-eng: "Stats and Curiosities explores everyday topics through the lens of statistics and intriguing facts, providing insights into understanding the world around us."
 num: "359"
+update: "tobeupdated"
 image: "/assets/new/stats-and-curiosities.jpg"
-update: "done"
 ---
 
 Kenyalılar Otobüs Şoförlerine Neden Bağırır, günlük hayatımızda karşılaştığımız olayları istatistiksel verilerle açıklıyor.

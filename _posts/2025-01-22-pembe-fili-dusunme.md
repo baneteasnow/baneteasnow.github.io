@@ -10,16 +10,16 @@ yil: "2020"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/39170895-pembe-fili-d-nme"
 description: "Pembe Fili Düşünme, olumsuz duygularla mücadele etmek yerine onları şefkatle kabul ederek içsel huzura ulaşmanın yollarını anlatan, psikoloji temelli rehber bir kitap."
+eng: "Pembe Fili Düşünme is a psychology-based guide that explores how embracing rather than fighting negative emotions can lead to inner peace."
 last_modified_at: 2025-02-18
 published: true
 posted: 2025-01-22
 tag: "psikoloji"
 reread: "no"
 rating: "4"
-eng: "Pembe Fili Düşünme is a psychology-based guide that explores how embracing rather than fighting negative emotions can lead to inner peace."
 num: "469"
-image: "/assets/new/pembe-fili-dusunme.jpg"
 update: "done"
+image: "/assets/new/pembe-fili-dusunme.jpg"
 ---
 
 Pembe Fili Düşünme, Zeynep Selvili Çarmıklı’nın duygularımızla nasıl sağlıklı bir ilişki kurabileceğimizi anlattığı, psikoloji temelli bir kişisel gelişim kitabı. Kitap, özellikle zorlayıcı duygu ve düşünceleri bastırmak yerine onlarla nasıl yüzleşebileceğimizi ve kabul edebileceğimizi ele alıyor. Yazar, kendi deneyimlerinden ve terapi süreçlerinde öğrendiklerinden yola çıkarak, okuyucuya içsel dünyasını daha iyi anlama ve kendisine karşı daha şefkatli olma yollarını gösteriyor.

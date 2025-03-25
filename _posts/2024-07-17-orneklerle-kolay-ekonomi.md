@@ -9,16 +9,16 @@ yil: "2019"
 sayfa: "192"
 goodreads: "https://www.goodreads.com/book/show/40848081-rneklerle-kolay-ekonomi"
 description: "Mahfi Eğilmez’in Örneklerle Kolay Ekonomi kitabı, temel ekonomik kavramları günlük hayattan örneklerle açıklayarak ekonomiyi herkes için anlaşılır hale getiriyor."
+eng: "Örneklerle Kolay Ekonomi by Mahfi Eğilmez simplifies complex economic concepts through real-life examples, making economics accessible to everyone."
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-07-17
 tag: "ekonomi"
 reread: "no"
 rating: "3"
-eng: "Örneklerle Kolay Ekonomi by Mahfi Eğilmez simplifies complex economic concepts through real-life examples, making economics accessible to everyone."
 num: "424"
-image: "/assets/new/orneklerle-kolay-ekonomi.jpg"
 update: "done"
+image: "/assets/new/orneklerle-kolay-ekonomi.jpg"
 ---
 
 Ekonomi, karmaşık terimler ve anlaşılması güç kavramlarla dolu bir alan olarak görülse de, Mahfi Eğilmez'in "Örneklerle Kolay Ekonomi" kitabı, bu algıyı yıkıyor ve ekonomiyi günlük hayatımızdan örneklerle anlatarak herkesin anlayabileceği bir hale getiriyor.

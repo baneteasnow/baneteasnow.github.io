@@ -10,6 +10,7 @@ yil: "2022"
 sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/61942229-y-zmek-ya-amak-ve-olma-arzusu"
 description: ""
+eng: ""
 last_modified_at: 2023-10-20
 published: true
 posted: 2023-10-20
@@ -18,8 +19,8 @@ reread: "yes"
 rating: "5"
 eng: ""
 num: "389"
-image: "/assets/new/yuzmek-yasamak-ve-olma-arzusu.jpg"
 update: "tobeupdated"
+image: "/assets/new/yuzmek-yasamak-ve-olma-arzusu.jpg"
 ---
 
 to be updated...

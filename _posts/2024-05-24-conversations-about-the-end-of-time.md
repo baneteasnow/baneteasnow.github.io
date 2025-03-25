@@ -10,16 +10,16 @@ yil: "1998"
 sayfa: "262"
 goodreads: "https://www.goodreads.com/book/show/534981.Conversations_About_the_End_of_Time"
 description: ""
+eng: ""
 last_modified_at: 2024-05-24
 published: true
 posted: 2024-05-24
 tag: "felsefe"
 reread: "yes"
 rating: "4"
-eng: ""
 num: "418"
-image: "/assets/new/conversations-about-the-end-of-time.jpg"
 update: "tobeupdated"
+image: "/assets/new/conversations-about-the-end-of-time.jpg"
 ---
 
 to be updated

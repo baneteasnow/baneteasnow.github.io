@@ -10,16 +10,16 @@ yil: "2018"
 sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/41014714-the-naked-lady-who-stood-on-her-head"
 description: ""
+eng: ""
 last_modified_at: 2025-02-26
 published: true
 posted: 2025-02-26
 tag: "psikoloji"
 reread: "yes"
 rating: "5"
-eng: ""
 num: "478"
-image: "/assets/new/the-naked-lady-who-stood-on-her-head.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-naked-lady-who-stood-on-her-head.jpg"
 ---
 
 to be updated

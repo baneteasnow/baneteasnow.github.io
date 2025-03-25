@@ -10,16 +10,16 @@ yil: "2020"
 sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/55822270-carl-gustav-jung"
 description: ""
+eng: ""
 last_modified_at: 2023-09-19
 published: true
 posted: 2023-09-19
 tag: "psikoloji"
 reread: "yes"
 rating: "5"
-eng: ""
 num: "380"
-image: "/assets/new/disa-bakan-ruya-gorur-ice-bakan-uyanir.jpg"
 update: "tobeupdated"
+image: "/assets/new/disa-bakan-ruya-gorur-ice-bakan-uyanir.jpg"
 ---
 
 to be updated...

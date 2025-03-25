@@ -10,16 +10,16 @@ yil: "2023"
 sayfa: "200"
 goodreads: "https://www.goodreads.com/book/show/25950334-yaln-zl-k-zaman-nda-a-k"
 description: ""
+eng: ""
 last_modified_at: 2024-02-15
 published: true
 posted: 2024-02-15
 tag: "psikoloji"
 reread: "yes"
 rating: "4"
-eng: ""
 num: "408"
-image: "/assets/new/yalnizlik-zamaninda-ask.jpg"
 update: "tobeupdated"
+image: "/assets/new/yalnizlik-zamaninda-ask.jpg"
 ---
 
 to be updated

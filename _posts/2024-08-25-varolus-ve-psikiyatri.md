@@ -10,16 +10,16 @@ yil: "2021"
 sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/16282217-varolu-ve-psikiyatri"
 description: ""
+eng: ""
 last_modified_at: 2024-08-25
 published: true
 posted: 2024-08-25
 tag: "psikoloji"
 reread: "no"
 rating: "3"
-eng: ""
 num: "428"
-image: "/assets/new/varolus-ve-psikiyatri.jpg"
 update: "tobeupdated"
+image: "/assets/new/varolus-ve-psikiyatri.jpg"
 ---
 
 to be updated

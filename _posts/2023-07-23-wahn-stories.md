@@ -8,17 +8,17 @@ yazar: "Christof M. Kessler"
 yil: "2021"
 sayfa: "184"
 goodreads: "https://www.goodreads.com/book/show/27208918-y-z-olmayan-adam"
-description: "Yüzü Olmayan Adam isimli kitapta insan zihninin karmaşık yapısı nöroloji alanından hikayeler üzerinden anlatılıyor."
+description: ""
+eng: ""
 last_modified_at: 2023-07-23
 published: true
 posted: 2023-07-23
 tag: "psikoloji"
 reread: "no"
 rating: "2"
-eng: "Wahn: Stories, written by Christof M. Kessler, is a book that delves into the complexities of the human mind by sharing fictional stories from the field of neurology."
 num: "362"
+update: ""
 image: "/assets/new/wahn-stories.jpg"
-update: "done"
 ---
 
 Yüzü Olmayan Adam, bir nörolog olan Kessler tarafından kurgu olarak kaleme alınmış 12 farklı hasta hikayesinden oluşuyor.

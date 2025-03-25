@@ -10,16 +10,16 @@ yil: "2017"
 sayfa: "512"
 goodreads: "https://www.goodreads.com/book/show/7640261-sex-at-dawn"
 description: ""
+eng: ""
 last_modified_at: 2024-07-14
 published: true
 posted: 2024-07-14
 tag: "sosyal bilimler"
 reread: "yes"
 rating: "3"
-eng: ""
 num: "423"
-image: "/assets/new/sex-at-dawn.jpg"
 update: "tobeupdated"
+image: "/assets/new/sex-at-dawn.jpg"
 ---
 
 to be updated

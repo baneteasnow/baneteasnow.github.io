@@ -9,16 +9,16 @@ yil: "2021"
 sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/43706493-novacene"
 description: "Darwin’le Akşam Yemeği, yeme alışkanlıklarımızın evrimsel kökenlerini keşfederek, soframızdaki yiyeceklerin biyoloji ve tarih boyunca nasıl şekillendiğini anlatan büyüleyici bir kitap."
+eng: "Dinner with Darwin is a fascinating exploration of the evolutionary roots of our eating habits, revealing how biology and history have shaped the foods on our table."
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-12-15
 tag: "sosyoloji"
 reread: "no"
 rating: "2"
-eng: "Dinner with Darwin is a fascinating exploration of the evolutionary roots of our eating habits, revealing how biology and history have shaped the foods on our table."
 num: "455"
-image: "/assets/new/dinner-with-darwin.jpg"
 update: "done"
+image: "/assets/new/dinner-with-darwin.jpg"
 ---
 
 Jonathan Silvertown’un Darwin’le Akşam Yemeği adlı kitabı, yemek kültürünü ve mutfak alışkanlıklarını evrimsel biyoloji perspektifinden ele alarak, soframızdaki yiyeceklerin milyonlarca yıllık hikâyesini akıcı ve aydınlatıcı bir dille anlatıyor. Günlük hayatımızın sıradan bir parçası gibi görünen beslenme, aslında doğanın ve evrimin şekillendirdiği karmaşık bir süreçtir ve Silvertown, bu süreci Darwin’in keşifleri ışığında adeta bir dedektif gibi inceliyor. Kitap, yalnızca biyoloji ve mutfak kültürünü birleştirmekle kalmıyor, aynı zamanda okuyucuyu kendi beslenme alışkanlıklarını ve tercihlerini sorgulamaya davet ediyor.

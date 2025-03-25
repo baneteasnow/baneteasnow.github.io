@@ -10,17 +10,17 @@ yazar: "Thomas Cathcart"
 yil: "2016"
 sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/17740627-the-trolley-problem-or-would-you-throw-the-fat-guy-off-the-bridge"
-description: "Troleybüs Problemi ya da Şişman Adamı Üst Geçitten Aşağı Atar mısınız? isimli kitap, felsefi bir düşünce deneyi olan Troleybüs Problemi'ni ele alır."
+description: ""
+eng: ""
 last_modified_at: 2023-07-27
 published: true
 posted: 2023-07-27
 tag: "felsefe"
 reread: "no"
 rating: "4"
-eng: "The Trolley Problem explores a philosophical dilemma that raises questions about moral decision-making."
 num: "365"
-image: "/assets/new/the-trolley-problem-or-would-you-throw-the-fat-guy-off-the-bridge.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-trolley-problem-or-would-you-throw-the-fat-guy-off-the-bridge.jpg"
 ---
 
 to be updated...

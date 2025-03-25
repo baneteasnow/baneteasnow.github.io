@@ -9,17 +9,17 @@ yazar: "Daniel Coyle"
 yil: "2016"
 sayfa: "248"
 goodreads: "https://www.goodreads.com/book/show/5771014-the-talent-code"
-description: "Daniel Coyle'un Yetenek Kodu adlı kitabı, farklı alanlarda yetenek geliştirmenin bilimsel temellerini inceler ve uzmanlık kazanmanın belirli eğitim ve çevresel faktörlere dayandığını, doğuştan gelen bir özellik olmadığını vurgular."
+description: ""
+eng: ""
 last_modified_at: 2023-08-15
 published: true
 posted: 2023-08-15
 tag: "psikoloji"
 reread: "no"
 rating: "3"
-eng: "The Talent Code by Daniel Coyle reveals the principles behind skill development across various disciplines, emphasizing the importance of deliberate practice, coaching, and the myelin sheath in achieving expertise."
 num: "370"
-image: "/assets/new/the-talent-code.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-talent-code.jpg"
 ---
 
 to be updated...

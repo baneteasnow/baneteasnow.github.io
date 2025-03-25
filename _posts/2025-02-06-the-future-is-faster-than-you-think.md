@@ -10,16 +10,16 @@ yil: "2024"
 sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think"
 description: ""
+eng: ""
+tag: ""
 last_modified_at: 2025-06-02
 published: true
 posted: 2025-06-02
-tag: ""
 reread: "no"
 rating: "3"
-eng: ""
 num: "472"
-image: "/assets/new/the-future-is-faster-than-you-think.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-future-is-faster-than-you-think.jpg"
 ---
 
 to be updated

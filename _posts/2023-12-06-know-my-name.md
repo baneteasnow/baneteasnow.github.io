@@ -17,8 +17,8 @@ reread: "no"
 rating: "5"
 eng: "Know My Name is a powerful memoir in which Chanel Miller candidly shares her journey of justice, trauma, and healing after surviving sexual assault."
 num: "394"
-image: "/assets/new/know-my-name.jpg"
 update: "done"
+image: "/assets/new/know-my-name.jpg"
 ---
 
 Chanel Miller'ın "Benim Bir Adım Var", bir cinsel saldırı mağdurunun sadece kendi hikayesini değil, aynı zamanda hayatta kalma, adalet arayışı ve kendi sesini bulma mücadelesini anlattığı güçlü bir eser. 2015 yılında Stanford Üniversitesi'nde uğradığı cinsel saldırının ardından, mahkeme sürecinde "Emily Doe" olarak tanınan Miller, bu anonimlik perdesini kaldırarak kendi kimliğini ve hikayesini geri alma cesaretini gösteriyor. Kitap, bu cesur kararın ardından yaşananları, travmanın derin izlerini ve adaletin karmaşıklığını tüm açıklığıyla okuyucuya sunuyor.

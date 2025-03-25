@@ -9,16 +9,16 @@ yil: "2025"
 sayfa: "136"
 goodreads: "https://www.goodreads.com/book/show/62869048-21-days-to-unlock-the-power-of-affirmations"
 description: "Louise L. Hay’in Olumlamalar: 21 Günde Ustalaş kitabı, olumlamaların gücünü kullanarak düşünceleri dönüştürmeyi, bilinçaltını yeniden programlamayı ve özgüven, bolluk ve mutluluk geliştirmeyi anlatıyor."
+eng: "21 Days to Unlock the Power of Affirmations is a 21-day guide to harnessing the power of affirmations, helping readers transform their thoughts, reprogram their subconscious, and cultivate confidence, abundance, and joy."
 last_modified_at: 2025-03-12
 published: true
 posted: 2025-03-12
 tag: "psikoloji"
 reread: "no"
 rating: "3"
-eng: "21 Days to Unlock the Power of Affirmations is a 21-day guide to harnessing the power of affirmations, helping readers transform their thoughts, reprogram their subconscious, and cultivate confidence, abundance, and joy."
 num: "484"
-image: "/assets/new/21-days-to-unlock-the-power-of-affirmations.jpg"
 update: "done"
+image: "/assets/new/21-days-to-unlock-the-power-of-affirmations.jpg"
 ---
 
 Louise L. Hay’in Olumlamalar - 21 Günde Ustalaş isimli kitabı, olumlamaları hayatımıza nasıl dahil edebileceğimizi ve bilinçaltı zihnimizi olumlu yönde dönüştürebileceğimizi anlatıyor. Louise Hay, zihnin gücünü ve sözlerin hayatımızı nasıl etkilediğini vurgulayan bir yazar olarak tanınıyor. Bu kitapta, olumlamaları bilinçli bir şekilde kullanarak özgüven, bolluk ve mutluluk yaratabileceğimizi söylüyor. Kitabın sunduğu 21 günlük program, her gün belirli bir tema etrafında şekillenen olumlamalarla kendini geliştirme pratiğini içeriyor. Yazar, özellikle şu noktanın altını çiziyor:

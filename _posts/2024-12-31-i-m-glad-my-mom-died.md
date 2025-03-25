@@ -9,16 +9,16 @@ yil: "2022"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/59366244-i-m-glad-my-mom-died"
 description: "Annemin Öldüğüne Sevindim, Jennette McCurdy’nin çocuk oyuncu olarak yaşadığı istismarı, annesinin baskısını ve kendi kimliğini bulma mücadelesini cesurca anlattığı sarsıcı bir anı kitabı."
+eng: "I’m Glad My Mom Died is a powerful memoir in which Jennette McCurdy candidly recounts the abuse she endured as a child actor, her mother’s controlling influence, and her journey to reclaiming her identity."
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-12-31
 tag: "profile"
 reread: "no"
 rating: "5"
-eng: "I’m Glad My Mom Died is a powerful memoir in which Jennette McCurdy candidly recounts the abuse she endured as a child actor, her mother’s controlling influence, and her journey to reclaiming her identity."
 num: "460"
-image: "/assets/new/i-m-glad-my-mom-died.jpg"
 update: "done"
+image: "/assets/new/i-m-glad-my-mom-died.jpg"
 ---
 
 Jennette McCurdy’nin I’m Glad My Mom Died adlı kitabı, çocuk yaşta ün kazanmanın ağırlığını, manipülatif bir anneyle büyümenin psikolojik etkilerini ve kendi sesini bulma sürecini cesurca anlatıyor. Çocuk oyuncuların hayatına dair hafif, nostaljik hikâyeler okumaya alışkın olanlar için bu kitap sert, rahatsız edici ve sarsıcı olabilir. Ama tam da bu yüzden önemli. Kitabın çarpıcı ismi, "Annemin Öldüğüne Sevindim," başlı başına bir tartışma konusu. McCurdy'nin annesiyle olan karmaşık ilişkisini ve bu ilişkiden kurtuluşunu simgeliyor. Bu başlık, okuyucuda güçlü bir ilk etki yaratırken, kitabın derinlerindeki acı ve özgürleşme temalarını da gözler önüne seriyor.

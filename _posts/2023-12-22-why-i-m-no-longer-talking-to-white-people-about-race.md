@@ -10,16 +10,16 @@ yil: "2017"
 sayfa: "273"
 goodreads: "https://www.goodreads.com/book/show/33606119-why-i-m-no-longer-talking-to-white-people-about-race"
 description: ""
+eng: ""
 last_modified_at: 2023-12-22
 published: true
 posted: 2023-12-22
 tag: "sosyoloji"
 reread: "no"
 rating: "4"
-eng: ""
 num: "396"
-image: "/assets/new/why-i-m-no-longer-talking-to-white-people-about-race.jpg"
 update: "tobeupdated"
+image: "/assets/new/why-i-m-no-longer-talking-to-white-people-about-race.jpg"
 ---
 
 to be updated

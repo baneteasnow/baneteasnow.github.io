@@ -9,16 +9,16 @@ yil: "2006"
 sayfa: "290"
 goodreads: "https://www.goodreads.com/book/show/29434.Self_Made_Man"
 description: "Sözde Adam, Norah Vincent’ın bir yıl boyunca erkek kimliğiyle yaşadığı deneyimi ve bu sürecin toplumsal cinsiyet, kimlik ve psikoloji üzerindeki etkilerini samimi ve çarpıcı bir şekilde ele aldığı bir kitap."
+eng: "Self-Made Man is a book in which Norah Vincent candidly and strikingly explores her year-long experience living as a man and its impact on gender, identity, and psychology."
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-01-01
 tag: "sosyal psikoloji"
 reread: "no"
 rating: "3"
-eng: "Self-Made Man is a book in which Norah Vincent candidly and strikingly explores her year-long experience living as a man and its impact on gender, identity, and psychology."
 num: "398"
-image: "/assets/new/self-made-man.jpg"
 update: "done"
+image: "/assets/new/self-made-man.jpg"
 ---
 
 Norah Vincent'ın "Sözde Adam - Erkek Kılığındaki Bir Yılım" adlı kitabı, toplumsal cinsiyetin inşa edilişini bizzat deneyimleyerek sorgulayan çarpıcı bir anlatı sunuyor. Vincent, bir yıl boyunca erkek kılığına girerek, çeşitli sosyal ortamlarda erkek gibi davranıyor ve bu süreç boyunca toplumsal cinsiyet algısının ne kadar derin ve bazen de ne kadar sıkıştırıcı olduğunu gözler önüne seriyor. Vincent’ın deneyimi, erkek olmanın dışarıdan göründüğü gibi bir güç ve ayrıcalık getirmediğini, aksine, erkeklerin de kendi içlerinde yoğun bir duygusal ve sosyal baskıya maruz kaldıklarını gösteriyor. Kitap boyunca, erkeklerin dünyasında samimi ilişkiler kurmanın ne kadar zor olduğuna, sürekli olarak güçlü ve kontrol sahibi görünme zorunluluğuna ve toplumun erkeklere yüklediği sertlik ve dayanıklılık beklentisine dair gözlemlerini paylaşıyor. Kadınken kendisine yönelik nazik ve destekleyici tavırların, erkek olarak yaşadığında nasıl yerini mesafeli ve rekabetçi bir atmosfere bıraktığını detaylı bir şekilde anlatıyor. Vincent, bu süreçte yalnızca erkeklerin dünyasını değil, aynı zamanda kendi kimliğini de yeniden keşfetme fırsatı buldu.

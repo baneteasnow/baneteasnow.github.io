@@ -10,16 +10,16 @@ yil: "2023"
 sayfa: "384"
 goodreads: "https://www.goodreads.com/book/show/46064088-the-upgrade"
 description: ""
+eng: ""
 last_modified_at: 2024-03-13
 published: true
 posted: 2024-03-13
 tag: "psikoloji"
 reread: "no"
 rating: "2"
-eng: ""
 num: "413"
-image: "/assets/new/the-upgrade.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-upgrade.jpg"
 ---
 
 to be updated

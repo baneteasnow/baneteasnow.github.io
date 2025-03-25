@@ -9,16 +9,16 @@ yil: "2023"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/178952426-il-ml-vegan"
 description: "Ilımlı Vegan, veganlığı katı kurallar yerine esneklik ve sürdürülebilirlik çerçevesinde ele alarak, herkesin kendi koşullarına uygun bilinçli tercihler yapabileceğini savunan bir rehberdir."
+eng: "Ilımlı Vegan is a guide that approaches veganism with flexibility and sustainability, advocating for conscious choices tailored to individual circumstances rather than rigid rules."
 last_modified_at: 2025-02-24
 published: true
 posted: 2023-08-07
 tag: "veganlık"
 reread: "no"
 rating: "3"
-eng: "Ilımlı Vegan is a guide that approaches veganism with flexibility and sustainability, advocating for conscious choices tailored to individual circumstances rather than rigid rules."
 num: "369"
-image: "/assets/new/ilimli-vegan.jpg"
 update: "done"
+image: "/assets/new/ilimli-vegan.jpg"
 ---
 
 Oben Budak'ın "Ilımlı Vegan" adlı kitabı, vegan yaşam tarzına geçişi, katı kurallar veya zorunluluklar yerine esneklik ve sürdürülebilirlik ilkeleri üzerine inşa edilmiş bir rehber olarak sunuyor. Yazar, veganlığın sadece bir diyet olmadığını, aynı zamanda bir yaşam felsefesi olduğunu vurgularken, bu süreci bireysel sınırlara göre şekillendirmek isteyenler için ilham verici bir yaklaşım ortaya koyuyor. Budak, veganlığın siyah-beyaz bir karar olmadığını, aksine herkesin kendi koşullarına uygun olarak bu yaşam tarzını benimseyebileceğini savunuyor. Kitap, yalnızca hayvansal gıdalardan kaçınmayı değil, aynı zamanda etik tüketim, çevre bilinci ve sağlıklı beslenme gibi daha geniş bir perspektifi ele alıyor. Yazar, bu sürecin zorlayıcı yönlerini esprili bir dille ele alırken, veganlığa geçişte karşılaşılan toplumsal baskılar, beslenme alışkanlıklarını değiştirme süreci ve etik ikilemler gibi konulara da değiniyor.

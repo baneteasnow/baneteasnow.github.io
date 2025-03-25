@@ -9,16 +9,16 @@ yil: "2024"
 sayfa: "220"
 goodreads: "https://www.goodreads.com/book/show/221162374-merdiven-alt-terapi"
 description: "Deniz Dülgeroğlu, Merdiven Altı Terapi isimli podcastinde anlattığı hikayelerini aynı adı taşıyan kitabında da samimi bir dille paylaşıyor."
+eng: "Deniz Dülgeroğlu, formerly a dentist and now a podcaster, shares her story in her latest book, Merdiven Altı Terapi."
 last_modified_at: 2024-11-26
 published: true
 posted: 2024-11-26
 tag: "profile"
 reread: "no"
 rating: "2"
-eng: "Deniz Dülgeroğlu, formerly a dentist and now a podcaster, shares her story in her latest book, Merdiven Altı Terapi."
 num: "451"
-image: "/assets/new/merdiven-alti-terapi.jpg"
 update: "done"
+image: "/assets/new/merdiven-alti-terapi.jpg"
 ---
 
 Deniz Dülgeroğlu, bir zamanların çene cerrahı diş hekimi, ödüllü bir reklam yazarı ve bugün ‘Merdiven Altı Terapi’ podcastinin samimi sesi. Paylaşımları zeka dolu ve içtenliğiyle dikkat çekiyor. Maruz kaldığı kötü ebeveynliğe, istemediği bir bölümü okumasına ve yaşadığı onca olumsuzluğa rağmen inadına ayakta duran, güçlü bir kadın. Hayat karşısındaki bu direnci, güçlü kalemine de yansımış.

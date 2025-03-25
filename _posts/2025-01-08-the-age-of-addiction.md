@@ -10,16 +10,16 @@ yil: "2021"
 sayfa: "408"
 goodreads: "https://www.goodreads.com/book/show/42585052-the-age-of-addiction"
 description: ""
+eng: ""
 last_modified_at: 2025-01-08
 published: true
 posted: 2025-01-08
 tag: "psikoloji"
 reread: "no"
 rating: "2"
-eng: ""
 num: "462"
-image: "/assets/new/the-age-of-addiction.jpg"
 update: "tobeupdated"
+image: "/assets/new/the-age-of-addiction.jpg"
 ---
 
 to be updated

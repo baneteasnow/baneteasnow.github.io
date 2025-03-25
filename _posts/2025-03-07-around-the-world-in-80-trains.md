@@ -9,16 +9,16 @@ yil: "2024"
 sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/48730164-around-the-world-in-80-trains"
 description: "80 Trenle Dünya Turu, tren yolculukları aracılığıyla farklı coğrafyaları ve kültürleri keşfeden bir gezi kitabı."
+eng: "Around the World in 80 Trains is a travel book that explores various landscapes and cultures through train journeys."
 last_modified_at: 2025-03-07
 published: true
 posted: 2025-03-07
 tag: "profile"
 reread: "no"
 rating: "1"
-eng: "Around the World in 80 Trains is a travel book that explores various landscapes and cultures through train journeys."
 num: "481"
-image: "/assets/new/around-the-world-in-80-trains.jpg"
 update: "done"
+image: "/assets/new/around-the-world-in-80-trains.jpg"
 ---
 
 Monisha Rajesh'in _80 Trenle Dünya Turu_, tren yolculuğunun modern dünyadaki anlamı üzerine sorular sorarak başlıyor: Uzun mesafe tren yolculuklarının sonu mu geldi? Trenle dünyayı gezmek gerçekten unutulmaz bir deneyim mi? Ancak bu soruların cevabını merak eden okuyucu, kitabın ilerleyen sayfalarında beklediği derinliği bulmakta zorlanabilir.
