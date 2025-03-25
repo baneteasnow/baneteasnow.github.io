@@ -8,50 +8,41 @@ yazar: "Peter Thiel, Blake Masters"
 yil: "2016"
 sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/18050143-zero-to-one"
-description: ""
-eng: ""
+description: "Sıfırdan Bire, yeni fikirlerin kopyalamaktan daha değerli olduğunu savunarak, gerçek yeniliğin yalnızca “0’dan 1’e” sıçrayarak mümkün olabileceğini anlatıyor."
+eng: "Zero to One argues that true innovation doesn’t come from copying others, but from creating something entirely new—from going from zero to one."
 published: true
-last_modified_at: 2023-01-13
+last_modified_at: 2025-03-25
 posted: 2018-09-08
 tag: "girişimcilik"
 reread: "no"
 rating: "4"
 num: "109"
-update: ""
+update: "done"
 image: "/assets/old/zero-to-one.jpg"
 ---
 
-PayPal'ın kurucu ortaklarından ve Facebook'un yatırımcılarından biri olan girişimci Peter Thiel'in Thiel Capital COO'su (ve eski öğrencisi) Blake Masters ile birlikte kaleme aldığı Sıfırdan Bire, bir iş modelinin kurgulanması sırasında iki seçenek söz konusu olduğunu açıklayarak başlıyor. Bunlardan birincisi, mevcut ve halihazırda başarılı bir modeli taklit etmek ve ikincisi ise, daha önce denenmemiş bir model kurgulayarak yepyeni bir şey üretmek. Mevcut bir modeli taklit etmek, yeni bir şey yapmaktan daha kolaydır; ancak nasıl yapıldığını bilinen bir şeyi yapmak dünyayı 1'den n'e taşıyacaktır. Yeni bir şey üretildiğinde ise, 0'dan 1'e gitmek söz konusu olur ki, kitaba ismini veren model de budur.
+PayPal’ın kurucu ortaklarından ve Facebook’un erken dönem yatırımcılarından biri olan girisimci Peter Thiel’in, eski öğrencisi ve şu anda Thiel Capital COO‗su olan Blake Masters ile birlikte kaleme aldığı Sıfırdan Bire, girisimcilik dünyasına farklı bir bakış sunuyor. Kitap, bir iş kurarken ya da yeni bir fikir geliştirirken karşımıza çıkan iki ana yoldan bahsediyor: mevcut bir modeli taklit etmek (1'den n'e gitmek) ya da daha önce hiç denenmemiş bir şeyi yaratmak (0'dan 1'e gitmek). Kitaba da ismini veren bu ayrım, aslında yaratıcılığın ve gerçek yeniliğin tanımı gibi sunuluyor.
 
-0'dan 1'e gitmenin diğer bir anlamı ise, dikey ya da yoğun ilerlemedir. Bu tür bir ilerleme, teknolojinin gelişimi anlamına gelir. Yatay ya da kapsamlı ilerleme olarak tanımlanabilecek olan 1'den n'e gitmek ise çalışan şeyleri taklit etmekle mümkün olur. Bu tür bir ilerleme, küreselleşme ile mümkün hale gelmiştir. Bu modelin en iyi örneği, Çin'dir. (sayfa 13) Dünyada kaynaklar kısıtlı olduğuna göre, yeni teknoloji olmadan küreselleşme sürdürülebilir değildir. (sayfa 15)
+Thiel, 0'dan 1'e gitmenin "yoğun ilerleme" anlamı taşıdığını, bu tür ilerlemenin teknoloji sayesinde mümkün olduğunu söylüyor. Buna karşılık, 1'den n'e gitmek ise mevcut bir ürün ya da hizmetin farklı bir versiyonunu yapmaktan ibaret. Thiel'e göre bugün dünyayı ileri taşıyacak olan şey, taklit değil, gerçek anlamda farklı ve yeni bir şey yaratmak. (sayfa 13)
 
-Yeni teknoloji, yeni girişimlerden -startuplardan- gelme eğilimindedir. Bir startup, farklı bir gelecek kurma planı etrafında bir araya getirebileceğiniz en kalabalık gruptur. Yeni bir şirketin en önemli kozu, yeni düşünce tarzıdır.
+Yeni bir teknolojinin ortaya çıkması genellikle startup'larla olur. Thiel startup'ı, "farklı bir gelecek kurma planı etrafında bir araya gelmiş insanlar" olarak tanımlar. Bu tanım, sadece ticari bir girişim değil, aynı zamanda bir vizyon işi olduğunu da ima ediyor.
 
-2000 yılında meydana gelen dot-com balonundan alınan 4 ders vardır: (sayfa 26-27)
+Kitapta dot-com krizinden çıkarılan dört ana dersin tersinin doğru olduğu savunuluyor: (sayfa 26-27)
 
-- Kademeli ilerleyin. Küçük ve kademeli adımlar, ileriye giden tek güvenli yoldur.
-- Yalın ve esnek olun. Girişimcilik, bir tür 'deneyimleme'dir ve plansızlık ve dolayısıyla esneklik de bunun doğasında vardır.
-- Rekabeti geliştirin. Zamanından önce yeni bir pazar yaratmayı denemeyin.
-- Ürünlere odaklanın, satışlara değil. Teknoloji, öncelikle ürün gelişimi üzerine odaklanmıştır.
+- "Küçük adımlarla ilerleyin" demek yerine, "cesur riskler alin"
+- "Esnek olun" yerine, "iyi bir plan, plansızlıktan iyidir"
+- "Rekabete açık olun" yerine, "rekabet karları yok eder"
+- "Ürün odaklı olun" yerine, "satış da en az ürün kadar önemlidir"
 
-Bu ilkelere dikkat etmeyenler 2000 yılında yaşananlardan etkilendilerse de, yazara göre, karşıt ilkeler doğrudur. (sayfa 27)
+Bu bakış açısından yola çıkan Thiel, büyümek isteyen bir şirketin tekel olması gerektiğini söylüyor. Ona göre tüm başarılı şirketler birbirinden farklı, tüm başarısız şirketler ise birbirine benzer. (sayfa 40)
 
-- Önemsiz işler yapmaktansa cesur riskler almak daha iyidir.
-- Kötü bir plan, plansızlıktan iyidir.
-- Rekabetçi bir pazar, karları yok eder.
-- Satış, en az ürün kadar önemlidir.
-- Tüm mutlu şirketler farklıdır; her biri kendine özgü bir sorunu çözerek bir tekel kazanır. Tüm başarısız şirketler ise aynıdır; rekabetten kaçınmayı bilememişlerdir. (sayfa 40)
+Bir startup'ı başarılı kılacak dört temel unsur ise şu sekilde sıralanıyor (sayfa 54):
 
-Bir iş aşağıdaki karakteristiklere göre analiz edildiğinde, o işi sürdürülebilir kılacak yolların ortaya çıkması da sağlanmış olur: (sayfa 54)
+- Tescilli teknoloji
+- Ağ etkisi (network effect)
+- Basit ölçeklenebilirlik
+- Markalaşma
 
-- Tescilli özel teknoloji - kopyalanması zor ya da imkansız. Bunun için daha önce olmayan değerli bir şey inşa etmek gerekir ya da mevcut bir çözümü kökten değiştirmek.
-- Ağ etkisi (daha çok viral olarak bilinir) - Bir ürün, daha çok insan tarafından kullanıldıkça daha değerli hale gelir.
-- Basit ölçeklenebilirlik (ölçek ekonomisi) - İyi bir startup ilk tasarımında büyük ölçek potansiyeline sahip olmalıdır.
-- Markalaşma - Güçlü bir marka yaratmak, tekel olmanın güçlü bir yoludur.
+Thiel, bu unsurların bir kombinasyonunun şirketi benzersiz kılacağını belirtiyor ve her şirketin bu unsurlardan hangilerini nasıl kullanacağına dair net bir strateji belirlemesi gerektiğini vurguluyor. Ayrıca, büyük pazarlardan başlamak yerine, niş bir alanda tekel konumuna geçmeyi, oradan genişlemeyi öneriyor. (sayfa 59)
 
-Her tekel eşsizdir ve genellikle bu dört karakterin belirli bir kombinasyonunu içerir. Bu kombinasyonu çalışır hale getirmek için pazar dikkatle seçilmelidir. Yazara göre, bunun iki yolu vardır:
-
-- Küçük başla ve tekelleş: Her startup başlangıçta küçüktür. Her tekel, pazarının büyük bir bölümünü yönetir. Bu sebeple, her startup çok küçük bir pazar ile başlamalıdır. (sayfa 59) Bir startup için mükemmel hedef pazarı, çok az rakip tarafından hizmet alan ya da hiç hizmet almayan, belli bir yerde yoğunlaşmış küçük bir grup insandır.
-- Yükselmek ve büyümek: Niş bir pazar oluşturup ona egemen olan bir startup için sıra ilgili ve görece daha geniş başka pazarlara doğru büyümeye gelmiş demektir.
-
-Kitap, özellikle girişimcilere ve startuplara hitap ediyor. Çeşitli örneklerle kendine özgün bir fikri olanların nasıl başarılı olabileceklerini anlatıyor.
+Kitapta sunulan fikirler, sadece girişimcilere değil, "nasıl daha farklı ve anlamlı bir şey yaparım" diye düşünen herkese hitap ediyor. Thiel'in zaman zaman tartışmalı ama düşündürtücü fikirleri, rekabetin kutsallaştırıldığı bir düzende aslında "rekabetsizlik" fikrinin neden bu kadar kritik olduğunu çok yalın bir dille ortaya koyuyor.

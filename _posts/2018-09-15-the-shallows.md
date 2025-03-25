@@ -10,14 +10,14 @@ sayfa: "279"
 goodreads: "https://www.goodreads.com/book/show/9778945-the-shallows"
 description: ""
 eng: ""
-last_modified_at: 2023-01-14
+last_modified_at: 2025-03-25
 published: true
 posted: 2018-09-15
 tag: "üretkenlik ve teknoloji"
 reread: "yes"
 rating: "5"
 num: "110"
-update: ""
+update: "done"
 image: "/assets/old/the-shallows.jpg"
 ---
 

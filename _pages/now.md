@@ -78,7 +78,7 @@
 # 2 = audiobook
 # 3,4,5,... = book
 #
-read: 25
+read: 26
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -92,6 +92,7 @@ author1: "Max Chafkin"
 sayfa1: 400
 format1: reading as an ebook
 pageread1: 1
+#
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
@@ -103,6 +104,7 @@ format2: listening as an audiobook
 pageread2: 22
 pagereadsaat2: 0
 pagereaddakika2: 22
+#
 # 3
 booktitle3: "A Year to Change Your Mind"
 bookyear3: 2025
@@ -136,20 +138,12 @@ format6: reading as a book
 pageread6: 1
 #
 # 7
-booktitle7: "The Lies We Tell Ourselves"
+booktitle7: "Metabolical"
 bookyear7: 2025
-author7: "Jon Frederickson"
-sayfa7: 160
+author7: "Robert H. Lustig"
+sayfa7: 400
 format7: reading as a book
-pageread7: 100
-#
-# 8
-booktitle8: "Metabolical"
-bookyear8: 2025
-author8: "Robert H. Lustig"
-sayfa8: 400
-format8: reading as a book
-pageread8: 1
+pageread7: 1
 #
 #
 ---
@@ -317,31 +311,6 @@ _by_ {{ page.author7 }}
     <progress title="{{ page.pageread7 }}/{{ page.sayfa7 }}" value="{{ page.pageread7 }}" max="{{ page.sayfa7 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread7 }}/{{ page.sayfa7 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-  
-  ⁜ {{ page.read | plus: 8 }}
-
-{{ page.booktitle8 }} ({{ page.bookyear8 }})  
-_by_ {{ page.author8 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format8 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa8 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread8 | times: 100 | divided_by: page.sayfa8 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread8 }}/{{ page.sayfa8 }}" value="{{ page.pageread8 }}" max="{{ page.sayfa8 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread8 }}/{{ page.sayfa8 }}
       </span>
   </div>
 
