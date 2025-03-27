@@ -17,7 +17,7 @@ tag: "marka profili"
 reread: "no"
 rating: "3"
 num: "112"
-update: ""
+update: "done"
 image: "/assets/old/the-amazon-way.jpg"
 ---
 
