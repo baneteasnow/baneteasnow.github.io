@@ -2,9 +2,9 @@
 # to be updated
 layout: post
 category: book
-title: "The Sexual Is (Not) Political | Slavoj Zizek (Kitap)"
-kitap: "The Sexual Is (Not) Political"
-tr: "Cinsel Olan Politik midir?"
+title: "Cinsel Olan Politik Midir? | Slavoj Zizek (Kitap)"
+kitap: "Cinsel Olan Politik Midir?"
+tr: "-"
 yazar: "Slavoj Zizek"
 yil: "2022"
 sayfa: "108"
@@ -19,7 +19,8 @@ reread: "yes"
 rating: "3"
 num: "409"
 update: "tobeupdated"
-image: "/assets/new/the-sexual-is-not-political.jpg"
+image: "/assets/new/cinsel-olan-politik-midir.jpg"
 ---
 
 to be updated
+The Sexual Is (Not) Political
