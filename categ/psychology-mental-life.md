@@ -1,0 +1,16 @@
+---
+layout: page-15
+published: true
+last_modified_at: 2025-03-31
+title: "Psychology & Mental Life"
+---
+
+{% for post in site.posts %} {% if post.tag == 'PsychologyMentalLife' %}
+
+<p class="cat1"><a href="{{ post.url }}">{{ post.title | downcase }}</a></p>
+{% endif %} {% endfor %}
+<br />
+
+{% assign psychologymentallifetag = site.posts | where: "tag", "PsychologyMentalLife" | size %}
+
+{{ psychologymentallifetag }}

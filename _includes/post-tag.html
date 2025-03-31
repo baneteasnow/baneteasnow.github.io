@@ -2,70 +2,55 @@
 	style="font-size: 100%; cursor: default; color: #777"
 	class="link1"
 >
-	# {% if page.tag == 'veganlık' or page.tag == 'hayvan hakları' or page.tag ==
-	'etik' %}
-	<a href="/categories/vegan">{{ page.tag | join: ' #' }}</a>
+	# {% if page.tag == 'BiographyLifeStories' %}
+	<a href="/categories/biography-life-stories"># Biography & Life Stories</a>
 
-	{% elsif page.tag == 'sağlık' or page.tag == 'beslenme' or page.tag == 'tıp'
-	%}
-	<a href="/categories/health">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'BusinessEconomics' %}
+	<a href="/categories/business-economics"># Business & Economics</a>
 
-	{% elsif page.tag == 'lifestyle' or page.tag == 'motivasyon' or page.tag ==
-	'mindfulness' or page.tag == 'seyahat' or page.tag == 'yaratıcılık' %}
-	<a href="/categories/motivation">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'ConsumerMarketing' %}
+	<a href="/categories/consumer-marketing"># Consumer & Marketing</a>
 
-	{% elsif page.tag == 'öğrenmeyi öğrenmek' or page.tag == 'üretkenlik ve
-	teknoloji' or page.tag == 'yazmak ve yaratıcılık' or page.tag == 'zaman
-	planlaması' page.tag == 'kitap okumak ve kitaplar' %}
-	<a href="/categories/planning">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'CreativityExpression' %}
+	<a href="/categories/creativity-expression"># Creativity & Expression</a>
 
-	{% elsif page.tag == 'moda markaları' or page.tag == 'moda tasarım' %}
-	<a href="/categories/fashion">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'EnvironmentSustainableLiving' %}
+	<a href="/categories/environment-sustainable-living"
+		># Environment & Sustainable Living</a
+	>
 
-	{% elsif page.tag == 'mimarlık' or page.tag == 'mühendislik' or page.tag ==
-	'endüstriyel tasarım' or page.tag == 'şehir planlama' %}
-	<a href="/categories/architecture">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'HealthNutrition' %}
+	<a href="/categories/health-nutrition"># Health & Nutrition</a>
 
-	{% elsif page.tag == 'sıfır atık yaşam' or page.tag == 'minimalizm' %}
-	<a href="/categories/minimalism">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'PersonalGrowthProductivity' %}
+	<a href="/categories/personal-growth-productivity"
+		>3 Personal Growth & Productivity</a
+	>
 
-	{% elsif page.tag == 'pazarlama' or page.tag == 'reklam' or page.tag ==
-	'tüketici davranışları' %}
-	<a href="/categories/marketing">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'PhilosophyMeaning' %}
+	<a href="/categories/philosophy-meaning"># Philosophy & Meaning</a>
 
-	{% elsif page.tag == 'teknoloji' or page.tag == 'yapay zeka' or page.tag ==
-	'gelecek ve trendler' or page.tag == 'internet' or page.tag == 'internet of
-	things' or page.tag == 'yazılım' or page.tag == 'bilgi sistemleri' or page.tag
-	== 'siber güvenlik' %}
-	<a href="/categories/technology">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'PsychologyMentalLife' %}
+	<a href="/categories/psychology-mental-life"># Psychology & Mental Life</a>
 
-	{% elsif page.tag == 'fen bilimleri' or page.tag == 'küresel ısınma' or
-	page.tag == 'sürdürülebilirlik' or page.tag == 'permakültür' or page.tag ==
-	'bahçe tarımı' or page.tag == 'biyoloji' or page.tag == 'çevre' %}
-	<a href="/categories/science">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'SimpleLivingEverydayComforts' %}
+	<a href="/categories/simple-living-everyday-comforts"
+		># Simple Living & Everyday Comforts</a
+	>
 
-	{% elsif page.tag == 'dijital kültür' or page.tag == 'sosyal medya' or
-	page.tag == 'medya' or page.tag == 'sanat' or page.tag == 'iletişim' %}
-	<a href="/categories/media">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'SocietyCulture' %}
+	<a href="/categories/society-culture"># Society & Culture</a>
 
-	{% elsif page.tag == 'biyografi' or page.tag == 'marka profili' %}
-	<a href="/categories/profile">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'TechnologyTheDigitalWorld' %}
+	<a href="/categories/technology-the-digital-world"
+		># Technology & the Digital World</a
+	>
 
-	{% elsif page.tag == 'çalışma yaşamı' or page.tag == 'kariyer' or page.tag ==
-	'girişimcilik' or page.tag == 'hukuk' or page.tag == 'yönetim' %}
-	<a href="/categories/work">{{ page.tag | join: ' #' }}</a>
-
-	{% elsif page.tag contains 'davranışsal iktisat' %}
-	<a href="/categories/behavioural">{{ page.tag | join: ' #' }}</a>
-
-	{% elsif page.tag == 'psikoloji' or page.tag == 'felsefe' or page.tag ==
-	'siyaset bilim' or page.tag == 'sosyoloji' or page.tag == 'sosyal bilimler' or
-	page.tag == 'eğitim' or page.tag == 'tarih' or page.tag == 'insan kaynakları'
-	or page.tag == 'kişisel gelişim' or page.tag == 'sosyal psikoloji' %}
-	<a href="/categories/social">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'WorkCareer' %}
+	<a href="/categories/work-career"># Work & Career</a>
 
 	{% else %}
-	<a href="/categories/economics">{{ page.tag | join: ' #' }}</a>
+	<a href="/categories/">{{ page.tag | join: ' #' }}</a>
 	{% endif %}
 </span>
 <br />
