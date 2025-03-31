@@ -2,7 +2,7 @@
 layout: page-15
 published: true
 last_modified_at: 2025-03-31
-title: "Health & Nutrition"
+title: "health & nutrition"
 ---
 
 {% for post in site.posts %} {% if post.tag == 'HealthNutrition' %}

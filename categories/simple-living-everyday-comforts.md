@@ -2,7 +2,7 @@
 layout: page-15
 published: true
 last_modified_at: 2025-03-31
-title: "Simple Living & Everyday Comforts"
+title: "simple living & everyday comforts"
 ---
 
 {% for post in site.posts %} {% if post.tag == 'SimpleLivingEverydayComforts' %}

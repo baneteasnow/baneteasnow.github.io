@@ -2,7 +2,7 @@
 layout: page-15
 published: true
 last_modified_at: 2025-03-31
-title: "Psychology & Mental Life"
+title: "psychology & mental life"
 ---
 
 {% for post in site.posts %} {% if post.tag == 'PsychologyMentalLife' %}
