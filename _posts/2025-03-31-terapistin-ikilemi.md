@@ -13,7 +13,7 @@ eng: "Terapistin İkilemi reminds us that true healing requires not only the cli
 last_modified_at: 2025-03-31
 published: true
 posted: 2025-03-31
-tag: "psikoloji"
+tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "487"
