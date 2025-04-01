@@ -12,12 +12,12 @@ goodreads: "https://www.goodreads.com/book/show/208794267-terapistin-i-kilemi"
 description: ""
 eng: ""
 last_modified_at: 2025-03-31
-published: false
+published: true
 posted: 2025-03-31
 tag: "psikoloji"
-reread: "no"
-rating: "3"
-num: ""
+reread: "yes"
+rating: "5"
+num: "487"
 update: "tobeupdated"
 image: "/assets/new/terapistin-ikilemi.jpg"
 ---

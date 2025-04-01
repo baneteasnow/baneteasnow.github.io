@@ -78,11 +78,11 @@
 # 2 = audiobook
 # 3,4,5,... = book
 #
-read: 26
+read: 27
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-03-25
+last_modified_at: 2025-04-01
 published: true
 #
 # 1
@@ -119,7 +119,7 @@ bookyear4: 2024
 author4: "Elvin Aydın Keleş"
 sayfa4: 224
 format4: reading as a book
-pageread4: 57
+pageread4: 224
 #
 # 5
 booktitle5: "Didik Didik Freud"
