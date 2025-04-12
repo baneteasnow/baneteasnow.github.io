@@ -14,7 +14,7 @@ last_modified_at: 2025-03-31
 published: true
 posted: 2025-03-31
 tag: "PsychologyMentalLife"
-reread: "yes"
+reread: "no"
 rating: "5"
 num: "487"
 update: "done"
