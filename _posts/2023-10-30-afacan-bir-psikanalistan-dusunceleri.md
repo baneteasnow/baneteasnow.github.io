@@ -2,8 +2,8 @@
 # to be updated
 layout: post
 category: book
-title: "Afacan Bir Psikanalistan Düşünceleri | Antonino Ferro (Kitap)"
-kitap: "Afacan Bir Psikanalistan Düşünceleri"
+title: "Afacan Bir Psikanalistin Düşünceleri | Antonino Ferro (Kitap)"
+kitap: "Afacan Bir Psikanalistin Düşünceleri"
 tr: "-"
 yazar: "Antonino Ferro"
 yil: "2023"
@@ -19,7 +19,7 @@ reread: "yes"
 rating: "4"
 num: "391"
 update: "tobeupdated"
-image: "/assets/new/afacan-bir-psikanalistan-dusunceleri.jpg"
+image: "/assets/new/afacan-bir-psikanalistin-dusunceleri.jpg"
 ---
 
 to be updated...
