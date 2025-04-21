@@ -82,7 +82,7 @@ read: 27
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-04-01
+last_modified_at: 2025-04-21
 published: true
 #
 # 1
@@ -114,12 +114,12 @@ format3: reading as a book
 pageread3: 1
 #
 # 4
-booktitle4: "Terapistin İkilemi"
-bookyear4: 2024
-author4: "Elvin Aydın Keleş"
-sayfa4: 224
+booktitle4: "The Shock Doctrine"
+bookyear4: 2010
+author4: "Naomi Klein"
+sayfa4: 674
 format4: reading as a book
-pageread4: 224
+pageread4: 29
 #
 # 5
 booktitle5: "Didik Didik Freud"
@@ -143,7 +143,7 @@ bookyear7: 2025
 author7: "Robert H. Lustig"
 sayfa7: 400
 format7: reading as a book
-pageread7: 1
+pageread7: 57
 #
 #
 ---
