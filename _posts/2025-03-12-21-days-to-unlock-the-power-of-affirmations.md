@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "21 Days to Unlock the Power of Affirmations | Irvin D. Yalom (Kitap)"
+title: "21 Days to Unlock the Power of Affirmations | Louise L. Hay (Kitap)"
 kitap: "21 Days to Unlock the Power of Affirmations - Manifest Confidence, Abundance, and Joy"
 tr: "21 Günde Ustalaş - Olumlamalar"
 yazar: "Louise L. Hay"
