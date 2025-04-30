@@ -86,48 +86,48 @@ last_modified_at: 2025-04-30
 published: true
 #
 # .
-booktitle1: "..."
-bookyear1: 0
-author1: "..."
-sayfa1: 0
-format1: reading as an ebook
-pageread1: 1
+# booktitle1: "..."
+# bookyear1: 0
+# author1: "..."
+# sayfa1: 0
+# format1: reading as an ebook
+# pageread1: 1
 #
 # .
-booktitle2: "..."
-bookyear2: 0
-author2: "..."
-suresaat2: 4
-suredakika2: 45
-sayfa2: 285
-format2: listening as an audiobook
-pageread2: 22
-pagereadsaat2: 0
-pagereaddakika2: 22
+# booktitle2: "..."
+# bookyear2: 0
+# author2: "..."
+# suresaat2: 4
+# suredakika2: 45
+# sayfa2: 285
+# format2: listening as an audiobook
+# pageread2: 22
+# pagereadsaat2: 0
+# pagereaddakika2: 22
 #
 # .
-booktitle3: "A Year to Change Your Mind"
-bookyear3: 2025
-author3: "Lucy Maddox"
-sayfa3: 256
-format3: reading as a book
-pageread3: 1
+# booktitle3: "A Year to Change Your Mind"
+# bookyear3: 2025
+# author3: "Lucy Maddox"
+# sayfa3: 256
+# format3: reading as a book
+# pageread3: 1
 #
 # .
-booktitle4: "The Shock Doctrine"
-bookyear4: 2010
-author4: "Naomi Klein"
-sayfa4: 674
-format4: reading as a book
-pageread4: 674
+# booktitle4: "The Shock Doctrine"
+# bookyear4: 2010
+# author4: "Naomi Klein"
+# sayfa4: 674
+# format4: reading as a book
+# pageread4: 674
 #
 # .
-booktitle5: ""
-bookyear5: 0
-author5: ""
-sayfa5: 0
-format5: reading as a book
-pageread5: 1
+# booktitle5: ""
+# bookyear5: 0
+# author5: ""
+# sayfa5: 0
+# format5: reading as a book
+# pageread5: 1
 #
 # 1
 booktitle6: "When You're Ready, This Is How You Heal"
@@ -269,7 +269,7 @@ _by_ {{ page.author5 }}
   <div style="clear: both"></div>
 -->
 
-⁜ {{ page.read | plus: 6 }}
+⁜ {{ page.read | plus: 1 }}
 
 {{ page.booktitle6 }} ({{ page.bookyear6 }})  
 _by_ {{ page.author6 }}
@@ -294,7 +294,7 @@ _by_ {{ page.author6 }}
   <br />
   <div style="clear: both"></div>
 
-⁜ {{ page.read | plus: 7 }}
+⁜ {{ page.read | plus: 2 }}
 
 {{ page.booktitle7 }} ({{ page.bookyear7 }})  
 _by_ {{ page.author7 }}
