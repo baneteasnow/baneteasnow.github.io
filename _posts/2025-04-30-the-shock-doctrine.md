@@ -12,12 +12,12 @@ goodreads: "https://www.goodreads.com/book/show/1237300.The_Shock_Doctrine"
 description: ""
 eng: ""
 last_modified_at: 2025-04-30
-published: false
+published: true
 posted: 2025-04-30
-tag: ""
+tag: "HistoryPoliticalThought"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "489"
 image: "/assets/new/the-shock-doctrine.jpg"
 update: "tobeupdated"
 ---
