@@ -83,7 +83,7 @@ read: 29
 layout: page
 title: şimdi okuduğum kitaplar
 last_modified_at: 2025-04-30
-published: true
+published: false
 #
 # .
 # booktitle1: "..."
