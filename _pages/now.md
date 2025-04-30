@@ -78,25 +78,25 @@
 # 2 = audiobook
 # 3,4,5,... = book
 #
-read: 27
+read: 29
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-04-21
+last_modified_at: 2025-04-30
 published: true
 #
-# 1
-booktitle1: "The Contrarian"
-bookyear1: 2021
-author1: "Max Chafkin"
-sayfa1: 400
+# .
+booktitle1: "..."
+bookyear1: 0
+author1: "..."
+sayfa1: 0
 format1: reading as an ebook
 pageread1: 1
 #
-# 2
-booktitle2: "Rezonans Kanunu"
-bookyear2: 2019
-author2: "Pierre Franckh"
+# .
+booktitle2: "..."
+bookyear2: 0
+author2: "..."
 suresaat2: 4
 suredakika2: 45
 sayfa2: 285
@@ -105,7 +105,7 @@ pageread2: 22
 pagereadsaat2: 0
 pagereaddakika2: 22
 #
-# 3
+# .
 booktitle3: "A Year to Change Your Mind"
 bookyear3: 2025
 author3: "Lucy Maddox"
@@ -113,23 +113,23 @@ sayfa3: 256
 format3: reading as a book
 pageread3: 1
 #
-# 4
+# .
 booktitle4: "The Shock Doctrine"
 bookyear4: 2010
 author4: "Naomi Klein"
 sayfa4: 674
 format4: reading as a book
-pageread4: 29
+pageread4: 674
 #
-# 5
-booktitle5: "Didik Didik Freud"
-bookyear5: 2022
-author5: "Serol Teber, Şenol Ayla"
-sayfa5: 256
+# .
+booktitle5: ""
+bookyear5: 0
+author5: ""
+sayfa5: 0
 format5: reading as a book
 pageread5: 1
 #
-# 6
+# 1
 booktitle6: "When You're Ready, This Is How You Heal"
 bookyear6: 2023
 author6: "Brianna Wiest"
@@ -137,7 +137,7 @@ sayfa6: 280
 format6: reading as a book
 pageread6: 1
 #
-# 7
+# 2
 booktitle7: "Metabolical"
 bookyear7: 2025
 author7: "Robert H. Lustig"
@@ -151,11 +151,10 @@ pageread7: 57
 {% include image-gallery.html folder="/assets/now" %}
 
 <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 1 }}
+<!--
+⁜ {{ page.read | plus: 1 }}  
 {{ page.booktitle1 }} ({{ page.bookyear1 }})
 _by_ {{ page.author1 }}
-
   <div style="font-size: 50%; font-style: italic;"> {{ page.format1 }} </div>
   <div style="font-size: 50%; font-style: italic;">
   {{ page.sayfa1 }} sayfa
@@ -170,12 +169,12 @@ _by_ {{ page.author1 }}
      </span>
  </div>
    <br />
-  <div style="clear: both"></div>
+  <div style="clear: both"></div>-->
 
+<!--
 ⁜ {{ page.read | plus: 2 }}
 {{ page.booktitle2 }} ({{ page.bookyear2 }})
 _by_ {{ page.author2 }}
-
  <div style="font-size: 50%; font-style: italic;"> {{ page.format2 }} </div>
   <div style="font-size: 50%; font-style: italic;">
   {{ page.suresaat2 }} saat {{ page.suredakika2 }} dakika
@@ -190,11 +189,11 @@ _by_ {{ page.author2 }}
       </span>
   </div>
   <br />
-  <div style="clear: both"></div>
-
+  <div style="clear: both"></div>-->
+<!--
 ⁜ {{ page.read | plus: 3 }}
 
-{{ page.booktitle3 }} ({{ page.bookyear3 }})  
+{{ page.booktitle3 }} ({{ page.bookyear3 }})
 _by_ {{ page.author3 }}
 
 <div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
@@ -216,10 +215,11 @@ _by_ {{ page.author3 }}
 
   <br />
   <div style="clear: both"></div>
-
+-->
+<!--
 ⁜ {{ page.read | plus: 4 }}
 
-{{ page.booktitle4 }} ({{ page.bookyear4 }})  
+{{ page.booktitle4 }} ({{ page.bookyear4 }})
 _by_ {{ page.author4 }}
 
 <div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
@@ -241,10 +241,11 @@ _by_ {{ page.author4 }}
 
   <br />
   <div style="clear: both"></div>
-
+-->
+<!--
 ⁜ {{ page.read | plus: 5 }}
 
-{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+{{ page.booktitle5 }} ({{ page.bookyear5 }})
 _by_ {{ page.author5 }}
 
 <div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
@@ -266,6 +267,7 @@ _by_ {{ page.author5 }}
 
   <br />
   <div style="clear: both"></div>
+-->
 
 ⁜ {{ page.read | plus: 6 }}
 
