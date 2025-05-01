@@ -8,8 +8,8 @@ yazar: "Naomi Klein"
 yil: "2010"
 sayfa: "674"
 goodreads: "https://www.goodreads.com/book/show/1237300.The_Shock_Doctrine"
-description: ""
-eng: ""
+description: "Şok Doktrini, modern tarihin dönüm noktalarındaki felaketleri, serbest piyasa ideolojisinin acımasız deney alanlarına dönüştüren politikaların izini sürüyor."
+eng: "The Shock Doctrine traces how pivotal disasters in modern history became testing grounds for ruthless free-market policies."
 last_modified_at: 2025-04-30
 published: true
 posted: 2025-04-30
