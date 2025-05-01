@@ -1,88 +1,125 @@
 ---
 layout: page-6
 published: true
-last_modified_at: 2025-03-31
+last_modified_at: 2025-05-01
 title: "kategoriler"
 ---
 
-<div>
-	<a href="/categories/biography-life-stories">biography & life stories</a>
+<!--size-->
+{% assign biographylifestoriestag = site.posts | where: "tag",
+"BiographyLifeStories" | size %}
+<!--{{}}-->
+{% assign businesseconomicstag = site.posts | where: "tag", "BusinessEconomics" | size %}
+<!--{{}}-->
+{% assign consumermarketingtag = site.posts | where: "tag", "ConsumerMarketing" | size %}
+<!--{{}}-->
+{% assign creativityexpressiontag = site.posts | where: "tag", "CreativityExpression" | size %}
+<!--{{}}-->
+{% assign environmentsustainablelivingtag = site.posts | where: "tag", "EnvironmentSustainableLiving" | size %}
+<!--{{}}-->
+{% assign healthnutritiontag = site.posts | where: "tag", "HealthNutrition" | size %}
+<!--{{}}-->
+{% assign historypoliticalthoughttag = site.posts | where: "tag", "HistoryPoliticalThought" | size %}
+<!--{{}}-->
+{% assign personalgrowthproductivitytag = site.posts | where: "tag", "PersonalGrowthProductivity" | size %}
+<!--{{}}-->
+{% assign philosophymeaningtag = site.posts | where: "tag", "PhilosophyMeaning" | size %}
+<!--{{}}-->
+{% assign psychologymentallifetag = site.posts | where: "tag", "PsychologyMentalLife" | size %}
+<!--{{}}-->
+{% assign sciencediscoverytag = site.posts | where: "tag", "ScienceDiscovery" | size %}
+<!--{{}}-->
+{% assign simplelivingeverydaycomfortstag = site.posts | where: "tag", "SimpleLivingEverydayComforts" | size %}
+<!--{{}}-->
+{% assign societyculturetag = site.posts | where: "tag", "SocietyCulture" | size %}
+<!--{{}}-->
+{% assign technologythedigitalworldtag = site.posts | where: "tag", "TechnologyTheDigitalWorld" | size %}
+<!--{{}}-->
+{% assign workcareertag = site.posts | where: "tag", "WorkCareer" | size %}
+
+
+<!--{{}}-->
+<div style="color: #b7b2b2"><i>
+	{{ biographylifestoriestag }} |
+	<a href="/categories/biography-life-stories">biography & life stories</a></i>
 </div>
 <br />
-
-<div>
-	<a href="/categories/business-economics">business & economics</a>
+<!--{{}}-->
+<div><i>{{ businesseconomicstag }} |
+	<a href="/categories/business-economics">business & economics</a></i>
 </div>
 <br />
-
-<div>
-	<a href="/categories/consumer-marketing">consumer & marketing</a>
+<!--{{}}-->
+<div><i>{{ consumermarketingtag }} |
+	<a href="/categories/consumer-marketing">consumer & marketing</a></i>
 </div>
 <br />
-
-<div>
-	<a href="/categories/creativity-expression">creativity & expression</a>
+<!--{{}}-->
+<div><i>{{ creativityexpressiontag }} |
+	<a href="/categories/creativity-expression">creativity & expression</a></i>
 </div>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ environmentsustainablelivingtag }} |
 	<a href="/categories/environment-sustainable-living"
 		>environment & sustainable living</a
-	>
+	></i>
 </div>
 <br />
-
-<div>
-	<a href="/categories/health-nutrition">health & nutrition</a>
+<!--{{}}-->
+<div><i>{{ healthnutritiontag }} |
+	<a href="/categories/health-nutrition">health & nutrition</a></i>
 </div>
 <br />
-<div>
-	<a href="/categories/health-nutrition">history & political thought</a>
+<!--{{}}-->
+<div><i>{{ historypoliticalthoughttag }} |
+	<a href="/categories/health-nutrition">history & political thought</a></i>
 </div>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ personalgrowthproductivitytag }} |
 	<a href="/categories/personal-growth-productivity"
 		>personal growth & productivity</a
-	>
+	></i>
 </div>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ philosophymeaningtag }} |
 	<a href="/categories/philosophy-meaning">philosophy & meaning</a>
-</div>
+</div></i>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ psychologymentallifetag }} |
 	<a href="/categories/psychology-mental-life">psychology & mental Life</a>
-</div>
+</div></i>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ sciencediscoverytag }} |
 	<a href="/categories/science-discovery">science & discovery</a>
-</div>
+</div></i>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ simplelivingeverydaycomfortstag }} |
 	<a href="/categories/simple-living-everyday-comforts"
 		>simple living & everyday comforts</a
 	>
-</div>
+</div></i>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ societyculturetag }} |
 	<a href="/categories/society-culture">society & culture</a>
-</div>
+</div></i>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ technologythedigitalworldtag }} |
 	<a href="/categories/technology-the-digital-world"
 		>technology & the digital world</a
 	>
-</div>
+</div></i>
 <br />
-
-<div>
+<!--{{}}-->
+<div><i>{{ workcareertag }} |
 	<a href="/categories/work-career">work & career</a>
-</div>
+</div></i>
 <br />
+<!--{{}}-->
