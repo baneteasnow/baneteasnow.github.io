@@ -11,9 +11,9 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/60065353-didik-didik-freud---sigmun-freud-un-ailesel-ve-tarihsel-roman"
 description: ""
 eng: ""
-last_modified_at: 2025-04-30
+last_modified_at: 2025-05-31
 published: false
-posted: 2025-04-30
+posted: 2025-05-31
 tag: "psikoloji"
 reread: "no"
 rating: "3"

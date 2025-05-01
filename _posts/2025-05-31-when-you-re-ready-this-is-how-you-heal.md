@@ -11,9 +11,9 @@ sayfa: "280"
 goodreads: "https://www.goodreads.com/book/show/60153064-when-you-re-ready-this-is-how-you-heal"
 description: ""
 eng: ""
-last_modified_at: 2025-04-30
+last_modified_at: 2025-05-31
 published: false
-posted: 2025-04-30
+posted: 2025-05-31
 tag: "motivasyon"
 reread: "no"
 rating: "3"
