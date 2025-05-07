@@ -14,7 +14,7 @@ last_modified_at: 2025-04-27
 published: true
 posted: 2025-04-27
 tag: "PhilosophyMeaning"
-reread: "no"
+reread: "yes"
 rating: "5"
 num: "490"
 image: "/assets/new/the-boy-the-mole-the-fox-and-the-horse.jpg"
