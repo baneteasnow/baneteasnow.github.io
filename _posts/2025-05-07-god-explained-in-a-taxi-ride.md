@@ -27,4 +27,4 @@ Yazar daha önce reklamcılık alanındaki deneyimiyle tanınıyordu. Bu kitabı
 
 Kimi sayfalar zekice, kimi yerler hafif sinir bozucu; ama hepsi düşündürücü. Kitap boyunca aklına gelen cümle şu olabilir: “Bu adam ne diyor acaba?” Sonra birkaç sayfa geçince fark ediyorsun ki, esas soru bu değil. Esas mesele şu: “Ben ne düşünüyorum?” Arden, bu kısa ama yer yer keskin metinlerle okurun zihnini dürtüyor, soruların peşine düşmeye çağırıyor.
 
-Kitap, klasik anlamda bir hikâye anlatmıyor. Bir anlamda aforizmalarla örülmüş bir iç yolculuk. Tek başına okunup kenara bırakılacak bir metin değil; dönüp dönüp bakmalık. Bazen itiraz ettiriyor,
+Kitap, klasik anlamda bir hikâye anlatmıyor. Bir anlamda aforizmalarla örülmüş bir iç yolculuk. Tek başına okunup kenara bırakılacak bir metin değil; dönüp dönüp bakmalık. Bazen itiraz ettiriyor, bazen gülümsetiyor, bazen de sadece durup düşünüyorsun. En güzel yanı da bu belki: Okura hazır cevaplar değil, kendi sorularını veriyor.
