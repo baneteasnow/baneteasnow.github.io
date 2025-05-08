@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 31
+read: 32
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-07
+last_modified_at: 2025-05-08
 published: true
 #
 # 1
@@ -29,12 +29,12 @@ format6: reading as a book
 pageread6: 1
 #
 # 2
-booktitle7: "Metabolical"
-bookyear7: 2025
-author7: "Robert H. Lustig"
-sayfa7: 400
+booktitle7: "An Unquiet Mind - A Memoir of Moods and Madness"
+bookyear7: 2018
+author7: "Kay Redfield Jamison"
+sayfa7: 232
 format7: reading as a book
-pageread7: 400
+pageread7: 1
 #
 #
 ---
