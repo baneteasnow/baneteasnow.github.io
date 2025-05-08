@@ -34,7 +34,7 @@ bookyear7: 2025
 author7: "Robert H. Lustig"
 sayfa7: 400
 format7: reading as a book
-pageread7: 57
+pageread7: 255
 #
 #
 ---
