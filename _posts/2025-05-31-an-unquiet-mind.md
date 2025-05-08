@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2025-05-31
 published: false
 posted: 2025-05-31
-tag: ""
+tag: "BiographyLifeStories"
 reread: "no"
 rating: "3"
 num: ""
