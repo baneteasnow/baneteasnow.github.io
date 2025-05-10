@@ -59,27 +59,6 @@ _by_ {{ page.author6 }}
   <br />
   <div style="clear: both"></div>
 
-⁜ {{ page.read | plus: 2 }}
-
-{{ page.booktitle7 }} ({{ page.bookyear7 }})  
-_by_ {{ page.author7 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format7 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa7 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread7 | times: 100 | divided_by: page.sayfa7 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread7 }}/{{ page.sayfa7 }}" value="{{ page.pageread7 }}" max="{{ page.sayfa7 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread7 }}/{{ page.sayfa7 }}
-      </span>
-  </div>
 
   <br />
   <div style="clear: both"></div>
