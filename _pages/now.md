@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 32
+read: 33
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-08
+last_modified_at: 2025-05-10
 published: true
 #
 # 1
@@ -27,15 +27,6 @@ author6: "Brianna Wiest"
 sayfa6: 280
 format6: reading as a book
 pageread6: 1
-#
-# 2
-booktitle7: "An Unquiet Mind - A Memoir of Moods and Madness"
-bookyear7: 2018
-author7: "Kay Redfield Jamison"
-sayfa7: 232
-format7: reading as a book
-pageread7: 1
-#
 #
 ---
 
