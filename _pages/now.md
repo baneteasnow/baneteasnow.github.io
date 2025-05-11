@@ -17,7 +17,7 @@ read: 33
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-10
+last_modified_at: 2025-05-11
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear6: 2023
 author6: "Brianna Wiest"
 sayfa6: 280
 format6: reading as a book
-pageread6: 1
+pageread6: 86
 #
 ---
 
@@ -58,7 +58,6 @@ _by_ {{ page.author6 }}
 
   <br />
   <div style="clear: both"></div>
-
 
   <br />
   <div style="clear: both"></div>
