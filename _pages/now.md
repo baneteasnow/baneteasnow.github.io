@@ -13,21 +13,31 @@
 # 3 = book
 #
 #
-read: 33
+read: 34
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-11
+last_modified_at: 2025-05-12
 published: true
 #
 # 1
-booktitle6: "When You're Ready, This Is How You Heal"
-bookyear6: 2023
-author6: "Brianna Wiest"
-sayfa6: 280
-format6: reading as a book
-pageread6: 86
+booktitle1: "Bir Şeyler Eksik - Aşk, Cinsellik ve Hayat Hakkında Bilmek İstemediğimiz Şeyler"
+bookyear1: 2020
+author1: "Bülent Somay"
+sayfa1: 144
+format1: reading as a book
+pageread1: 1
 #
+booktitle2: "Rezonans Kanunu"
+bookyear2: 2019
+author2: "Pierre Franckh"
+suresaat2: 4
+suredakika2: 45
+sayfa2: 285
+format2: listening as an audiobook
+pageread2: 22
+pagereadsaat2: 0
+pagereaddakika2: 22
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -36,29 +46,44 @@ pageread6: 86
 
 ⁜ {{ page.read | plus: 1 }}
 
-{{ page.booktitle6 }} ({{ page.bookyear6 }})  
-_by_ {{ page.author6 }}
+{{ page.booktitle1 }} ({{ page.bookyear1 }})  
+_by_ {{ page.author1 }}
 
-<div style="font-size: 50%; font-style: italic;"> {{ page.format6 }} </div>
+<div style="font-size: 50%; font-style: italic;"> {{ page.format1 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa6 }} sayfa
+  {{ page.sayfa1 }} sayfa
   </div>
 
   <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
+  {{ page.pageread1 | times: 100 | divided_by: page.sayfa1 }}%
   </div>
 
   <div>
-    <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
+    <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread6 }}/{{ page.sayfa6 }}
+      {{ page.pageread1 }}/{{ page.sayfa1 }}
       </span>
   </div>
 
   <br />
   <div style="clear: both"></div>
-
+⁜ {{ page.read | plus: 2 }}
+{{ page.booktitle2 }} ({{ page.bookyear2 }})
+_by_ {{ page.author2 }}
+ <div style="font-size: 50%; font-style: italic;"> {{ page.format2 }} </div>
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.suresaat2 }} saat {{ page.suredakika2 }} dakika
+  </div>
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+  </div>
+  <div>
+    <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pagereadsaat2 }}"{{ page.pagereaddakika2 }}'/{{ page.suresaat2 }}"{{ page.suredakika2 }}'
+      </span>
+  </div>
   <br />
   <div style="clear: both"></div>
 
