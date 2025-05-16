@@ -21,12 +21,12 @@ last_modified_at: 2025-05-16
 published: true
 #
 # 1
-booktitle1: "Bir Şeyler Eksik - Aşk, Cinsellik ve Hayat Hakkında Bilmek İstemediğimiz Şeyler"
-bookyear1: 2020
-author1: "Bülent Somay"
-sayfa1: 144
+booktitle1: "Manic - A Memoir"
+bookyear1: 2009
+author1: "Terri Cheney"
+sayfa1: 248
 format1: reading as a book
-pageread1: 1
+pageread1: 27
 #
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
