@@ -13,20 +13,20 @@
 # 3 = book
 #
 #
-read: 35
+read: 36
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-16
+last_modified_at: 2025-05-18
 published: true
 #
 # 1
-booktitle1: "Manic - A Memoir"
-bookyear1: 2009
-author1: "Terri Cheney"
-sayfa1: 248
+booktitle1: "Darkness Visible: A Memoir of Madness"
+bookyear1: 2024
+author1: "William Styron"
+sayfa1: 100
 format1: reading as a book
-pageread1: 134
+pageread1: 1
 #
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
