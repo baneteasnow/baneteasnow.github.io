@@ -16,7 +16,7 @@ posted: 2025-05-15
 tag: "PhilosophyMeaning"
 reread: "no"
 rating: "5"
-num: "493"
+num: "495"
 image: "/assets/new/bir-seyler-eksik.jpg"
 update: "done"
 ---

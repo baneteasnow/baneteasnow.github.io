@@ -16,7 +16,7 @@ posted: 2025-05-07
 tag: "PhilosophyMeaning"
 reread: "yes"
 rating: "5"
-num: "490"
+num: "491"
 image: "/assets/new/god-explained-in-a-taxi-ride.jpg"
 update: "done"
 ---

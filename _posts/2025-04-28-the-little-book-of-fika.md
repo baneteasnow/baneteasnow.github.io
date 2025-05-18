@@ -16,7 +16,7 @@ posted: 2025-04-28
 tag: "SimpleLivingEverydayComforts"
 reread: "no"
 rating: "4"
-num: "488"
+num: "489"
 image: "/assets/new/the-little-book-of-fika.jpg"
 update: "done"
 ---

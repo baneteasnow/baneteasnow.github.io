@@ -16,7 +16,7 @@ posted: 2025-04-30
 tag: "HistoryPoliticalThought"
 reread: "no"
 rating: "5"
-num: "489"
+num: "490"
 image: "/assets/new/the-shock-doctrine.jpg"
 update: "done"
 ---
