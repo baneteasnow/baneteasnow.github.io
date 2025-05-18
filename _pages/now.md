@@ -26,7 +26,7 @@ bookyear1: 2009
 author1: "Terri Cheney"
 sayfa1: 248
 format1: reading as a book
-pageread1: 27
+pageread1: 134
 #
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
@@ -68,8 +68,8 @@ _by_ {{ page.author1 }}
 
   <br />
   <div style="clear: both"></div>
-⁜ {{ page.read | plus: 2 }}
-{{ page.booktitle2 }} ({{ page.bookyear2 }})
+⁜ {{ page.read | plus: 2 }}  
+{{ page.booktitle2 }} ({{ page.bookyear2 }})  
 _by_ {{ page.author2 }}
  <div style="font-size: 50%; font-style: italic;"> {{ page.format2 }} </div>
   <div style="font-size: 50%; font-style: italic;">
