@@ -13,18 +13,18 @@
 # 3 = book
 #
 #
-read: 36
+read: 37
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-18
+last_modified_at: 2025-05-19
 published: true
 #
 # 1
-booktitle1: "Darkness Visible: A Memoir of Madness"
-bookyear1: 2024
-author1: "William Styron"
-sayfa1: 100
+booktitle1: "Sociopath: A Memoir"
+bookyear1: 2025
+author1: "Patric Gagne"
+sayfa1: 408
 format1: reading as a book
 pageread1: 1
 #
