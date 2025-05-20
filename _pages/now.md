@@ -13,18 +13,18 @@
 # 3 = book
 #
 #
-read: 37
+read: 38
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-19
+last_modified_at: 2025-05-20
 published: true
 #
 # 1
-booktitle1: "Sociopath: A Memoir"
-bookyear1: 2025
-author1: "Patric Gagne"
-sayfa1: 408
+booktitle1: "Night Falls Fast - Understanding Suicide"
+bookyear1: 2023
+author1: "Kay Redfield Jamison"
+sayfa1: 336
 format1: reading as a book
 pageread1: 1
 #
