@@ -24,7 +24,7 @@ published: true
 booktitle1: "Night Falls Fast - Understanding Suicide"
 bookyear1: 2023
 author1: "Kay Redfield Jamison"
-sayfa1: 336
+sayfa1: 258
 format1: reading as a book
 pageread1: 1
 #
