@@ -21,10 +21,10 @@ last_modified_at: 2025-05-22
 published: true
 #
 # 1
-booktitle1: "Night Falls Fast - Understanding Suicide"
+booktitle1: "God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning"
 bookyear1: 2023
 author1: "Kay Redfield Jamison"
-sayfa1: 258
+sayfa1: 288
 format1: reading as a book
 pageread1: 1
 #

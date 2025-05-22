@@ -1,8 +1,8 @@
 ---
 layout: post
 category: book
-title: "Rezonans Kanunu | Kay Redfield Jamison (Kitap)"
-kitap: "Rezonans Kanunu"
+title: "Night Falls Fast | Kay Redfield Jamison (Kitap)"
+kitap: "Night Falls Fast - Understanding Suicide"
 tr: "Erken Çöken Karanlık"
 yazar: "Kay Redfield Jamison"
 yil: "2023"
