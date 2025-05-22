@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 38
+read: 39
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-20
+last_modified_at: 2025-05-22
 published: true
 #
 # 1
