@@ -4,7 +4,7 @@ layout: post
 category: book
 title: "God, Human, Animal, Machine | Meghan O'Gieblyn (Kitap)"
 kitap: "God, Human, Animal, Machine - Technology, Metaphor, and the Search for Meaning"
-tr: "Tanrı, İnsan, Hayvan, Makine"
+tr: "Tanrı, İnsan, Hayvan, Makine - Teknoloji, Metafor ve Anlam Arayışı"
 yazar: "Meghan O'Gieblyn"
 yil: "2023"
 sayfa: "288"
@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2025-05-31
 published: false
 posted: 2025-05-31
-tag: ""
+tag: "PhilosophyMeaning"
 reread: "no"
 rating: "3"
 num: ""
