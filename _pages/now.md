@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 39
+read: 40
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-28
+last_modified_at: 2025-05-29
 published: true
 #
 # 1
@@ -45,14 +45,6 @@ author3: "Amy Blackstone"
 sayfa3: 278
 format3: reading as a book
 pageread3: 117
-# 4
-booktitle4: "This Is Water"
-bookyear4: 2022
-author4: "David Foster Wallace"
-sayfa4: 140
-format4: reading as a book
-pageread4: 17
-#
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -127,31 +119,6 @@ _by_ {{ page.author3 }}
     <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread3 }}/{{ page.sayfa3 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle4 }} ({{ page.bookyear4 }})  
-_by_ {{ page.author4 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa4 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread4 }}/{{ page.sayfa4 }}
       </span>
   </div>
 
