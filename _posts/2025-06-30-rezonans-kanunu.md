@@ -11,9 +11,9 @@ sayfa: "206"
 goodreads: "https://www.goodreads.com/book/show/44563704-rezonans-kanunu"
 description: ""
 eng: ""
-last_modified_at: 2025-05-31
+last_modified_at: 2025-06-30
 published: false
-posted: 2025-05-31
+posted: 2025-06-30
 tag: "PhilosophyMeaning"
 reread: "no"
 rating: "3"

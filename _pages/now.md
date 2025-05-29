@@ -26,7 +26,7 @@ bookyear1: 2023
 author1: "Kay Redfield Jamison"
 sayfa1: 288
 format1: reading as a book
-pageread1: 70
+pageread1: 288
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
@@ -44,7 +44,7 @@ bookyear3: 2023
 author3: "Amy Blackstone"
 sayfa3: 278
 format3: reading as a book
-pageread3: 117
+pageread3: 278
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
