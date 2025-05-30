@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-06-25
 published: true
 posted: 2023-06-25
-tag: "motivasyon"
+tag: ""
 reread: "yes"
 rating: "3"
 num: "347"

@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-13
-tag: "pazarlama"
+tag: ""
 reread: "no"
 rating: "5"
 num: "248"

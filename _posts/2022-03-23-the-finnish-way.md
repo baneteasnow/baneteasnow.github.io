@@ -10,7 +10,7 @@ sayfa: "251"
 goodreads: "https://www.goodreads.com/book/show/52813626-the-finnish-way"
 description: ""
 eng: ""
-tag: "lifestyle"
+tag: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-03-23

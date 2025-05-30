@@ -13,7 +13,7 @@ eng: "Marduk’la Randevu is a research book that explores the connections betwe
 last_modified_at: 2025-02-24
 published: true
 posted: 2024-01-29
-tag: "tarih"
+tag: ""
 reread: "no"
 rating: "4"
 num: "405"

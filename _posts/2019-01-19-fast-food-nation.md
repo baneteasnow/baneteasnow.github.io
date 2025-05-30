@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2024-01-14
 published: true
 posted: 2019-01-19
-tag: "sosyoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "125"

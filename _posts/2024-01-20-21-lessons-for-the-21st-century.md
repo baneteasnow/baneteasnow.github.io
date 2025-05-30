@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2024-01-20
 published: true
 posted: 2024-01-20
-tag: "tarih"
+tag: ""
 reread: "yes"
 rating: "5"
 eng: ""

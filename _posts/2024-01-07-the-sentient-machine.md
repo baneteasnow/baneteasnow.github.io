@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2024-01-07
 published: true
 posted: 2024-01-07
-tag: "yapay zeka"
+tag: ""
 reread: "no"
 rating: "2"
 num: "400"

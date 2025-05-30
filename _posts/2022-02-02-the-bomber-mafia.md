@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: "tarih"
+tag: ""
 posted: 2022-02-02
 reread: "no"
 rating: "3"

@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-08-25
-tag: "şehir planlama"
+tag: ""
 reread: "no"
 rating: "4"
 num: "190"

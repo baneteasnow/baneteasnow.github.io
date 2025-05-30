@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: "öğrenmeyi öğrenmek"
+tag: ""
 posted: 2021-11-03
 reread: "yes"
 rating: "5"

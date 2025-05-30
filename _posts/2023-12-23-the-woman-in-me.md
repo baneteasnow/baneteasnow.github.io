@@ -13,7 +13,7 @@ eng: "The Woman in Me is a memoir in which Britney Spears bravely shares her inn
 last_modified_at: 2025-02-23
 published: true
 posted: 2023-12-23
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "5"
 num: "397"

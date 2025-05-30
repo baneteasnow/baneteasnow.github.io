@@ -13,7 +13,7 @@ description: ""
 eng: ""
 posted: 2021-05-19
 last_modified_at: 2023-01-14
-tag: "minimalizm"
+tag: ""
 reread: "no"
 rating: "4"
 num: "173"

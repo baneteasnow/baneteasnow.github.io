@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-08-04
-tag: "yönetim"
+tag: ""
 reread: "no"
 rating: "4"
 num: "186"

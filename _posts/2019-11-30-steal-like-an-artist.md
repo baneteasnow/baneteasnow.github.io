@@ -13,7 +13,7 @@ eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-11-30
-tag: "yaratıcılık"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "156"

@@ -12,7 +12,7 @@ description: "Benim Bir Adım Var, Chanel Miller’ın cinsel saldırı sonrası
 last_modified_at: 2025-02-23
 published: true
 posted: 2023-12-06
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "5"
 eng: "Know My Name is a powerful memoir in which Chanel Miller candidly shares her journey of justice, trauma, and healing after surviving sexual assault."

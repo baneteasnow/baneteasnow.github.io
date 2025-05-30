@@ -12,7 +12,7 @@ description: "Philippa Perry, Akıl Sağlığımızı Nasıl Koruruz? isimli kit
 last_modified_at: 2023-03-14
 published: true
 posted: 2023-03-14
-tag: "psikoloji"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "316"

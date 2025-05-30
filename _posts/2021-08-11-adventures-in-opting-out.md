@@ -12,7 +12,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-08-11
-tag: "seyahat"
+tag: ""
 reread: "no"
 rating: "4"
 num: "187"

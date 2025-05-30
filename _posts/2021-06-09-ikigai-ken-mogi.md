@@ -14,7 +14,7 @@ description: ""
 eng: ""
 posted: 2021-06-09
 last_modified_at: 2023-01-14
-tag: "lifestyle"
+tag: ""
 reread: "no"
 rating: "4"
 num: "176"

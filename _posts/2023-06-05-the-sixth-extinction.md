@@ -15,7 +15,7 @@ eng: ""
 last_modified_at: 2023-06-05
 published: true
 posted: 2023-06-05
-tag: "çevre"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "327"

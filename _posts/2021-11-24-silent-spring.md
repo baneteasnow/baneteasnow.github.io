@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-11-24
-tag: "çevre"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "206"

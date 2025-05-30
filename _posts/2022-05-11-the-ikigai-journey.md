@@ -10,7 +10,7 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/53677560-the-ikigai-journey"
 description: ""
 eng: ""
-tag: "lifestyle"
+tag: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-05-11

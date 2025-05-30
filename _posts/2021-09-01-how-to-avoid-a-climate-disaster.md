@@ -13,7 +13,7 @@ description: ""
 eng: ""
 posted: 2021-09-01
 last_modified_at: 2023-01-14
-tag: "küresel ısınma"
+tag: ""
 reread: "no"
 rating: "4"
 num: "191"

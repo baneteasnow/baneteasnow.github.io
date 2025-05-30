@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-07-04
 published: true
 posted: 2023-07-04
-tag: "teknoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "354"

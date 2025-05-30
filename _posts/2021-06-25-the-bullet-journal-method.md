@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2021-06-25
-tag: "üretkenlik ve teknoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "179"

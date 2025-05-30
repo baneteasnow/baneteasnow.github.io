@@ -13,7 +13,7 @@ eng: "Örneklerle Kolay Ekonomi by Mahfi Eğilmez simplifies complex economic co
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-07-17
-tag: "ekonomi"
+tag: ""
 reread: "no"
 rating: "3"
 num: "424"

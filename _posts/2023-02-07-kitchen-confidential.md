@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-02-07
 published: true
 posted: 2023-02-07
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "4"
 num: "302"

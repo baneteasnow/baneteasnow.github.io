@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-02-21
 published: true
 posted: 2023-02-21
-tag: "motivasyon"
+tag: ""
 reread: "no"
 num: "310"
 rating: "4"

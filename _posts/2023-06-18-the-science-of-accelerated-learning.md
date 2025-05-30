@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-06-18
 published: true
 posted: 2023-06-18
-tag: "öğrenmeyi öğrenmek"
+tag: ""
 reread: "no"
 rating: "3"
 num: "340"

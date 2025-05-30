@@ -13,7 +13,7 @@ eng: ""
 goodreads: "https://www.goodreads.com/book/show/49188385-101-things-i-learned-in-product-design-school"
 posted: 2021-06-16
 last_modified_at: 2023-01-14
-tag: "endüstriyel tasarım"
+tag: ""
 reread: "no"
 rating: "4"
 num: "177"

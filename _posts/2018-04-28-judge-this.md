@@ -13,7 +13,7 @@ eng: "Chip Kidd’s Judge This reveals how design is not just about looks but a 
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-04-28
-tag: "endüstriyel tasarım"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "92"

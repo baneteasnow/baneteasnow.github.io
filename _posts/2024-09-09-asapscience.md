@@ -13,7 +13,7 @@ eng: "AsapSCIENCE takes a fun and engaging approach to answering bizarre questio
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-09-09
-tag: "fen bilimleri"
+tag: ""
 reread: "no"
 rating: "3"
 num: "432"

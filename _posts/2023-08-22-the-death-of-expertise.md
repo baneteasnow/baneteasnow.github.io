@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-08-22
 published: true
 posted: 2023-08-22
-tag: "sosyoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "372"

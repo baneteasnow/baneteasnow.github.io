@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2023-01-14
-tag: "bahçe tarımı"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "260"

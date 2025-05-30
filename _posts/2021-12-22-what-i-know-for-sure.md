@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: "motivasyon"
+tag: ""
 posted: 2021-12-22
 reread: "no"
 rating: "4"

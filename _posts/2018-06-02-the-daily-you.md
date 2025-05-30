@@ -13,7 +13,7 @@ eng: "The Daily You reveals how digital advertising is quietly shaping our ident
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-06-02
-tag: "reklam"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "97"

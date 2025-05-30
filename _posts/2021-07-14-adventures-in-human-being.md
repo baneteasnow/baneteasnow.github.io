@@ -15,7 +15,7 @@ description: ""
 eng: ""
 posted: 2021-07-14
 published: true
-tag: "tıp"
+tag: ""
 reread: "no"
 rating: "3"
 num: "183"

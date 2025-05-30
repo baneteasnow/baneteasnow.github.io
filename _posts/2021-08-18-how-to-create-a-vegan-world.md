@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-08-18
-tag: "veganlık"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "189"

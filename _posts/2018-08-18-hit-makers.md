@@ -13,7 +13,7 @@ eng: "Hit Makers explores the hidden forces behind why certain ideas, songs, and
 last_modified_at: 2025-03-24
 published: true
 posted: 2018-08-18
-tag: "üretkenlik ve teknoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "106"

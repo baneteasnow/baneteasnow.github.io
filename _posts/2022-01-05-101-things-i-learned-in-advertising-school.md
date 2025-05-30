@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2022-01-05
-tag: "reklam"
+tag: ""
 reread: "no"
 rating: "4"
 num: "213"

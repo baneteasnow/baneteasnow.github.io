@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2019-08-17
-tag: "veganlık"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "142"

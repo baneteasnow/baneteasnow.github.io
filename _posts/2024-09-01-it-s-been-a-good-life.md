@@ -13,7 +13,7 @@ eng: "It’s Been a Good Life is a deeply personal and insightful collection of 
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-09-01
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "4"
 num: "431"

@@ -13,7 +13,7 @@ eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-12-22
-tag: "şehir planlama"
+tag: ""
 reread: "no"
 rating: "4"
 num: "120"

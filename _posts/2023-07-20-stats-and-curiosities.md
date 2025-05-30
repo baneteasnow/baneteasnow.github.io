@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-07-20
 published: true
 posted: 2023-07-20
-tag: "sosyal bilimler"
+tag: ""
 reread: "no"
 rating: "3"
 num: "359"

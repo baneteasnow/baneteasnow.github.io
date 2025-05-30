@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-08-15
 published: true
 posted: 2023-08-15
-tag: "psikoloji"
+tag: ""
 reread: "no"
 rating: "3"
 num: "370"

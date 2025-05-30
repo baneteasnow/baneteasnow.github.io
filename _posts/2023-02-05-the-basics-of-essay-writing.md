@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-02-05
 published: true
 posted: 2023-02-05
-tag: "yazmak ve yaratıcılık"
+tag: ""
 reread: "no"
 rating: "4"
 num: "301"

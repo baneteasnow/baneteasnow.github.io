@@ -13,7 +13,7 @@ eng: "The Antisocial Network is a gripping account of how a group of individual 
 last_modified_at: 2025-02-24
 published: true
 posted: 2024-09-20
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "4"
 num: "436"

@@ -13,7 +13,7 @@ eng: "Ilımlı Vegan is a guide that approaches veganism with flexibility and su
 last_modified_at: 2025-02-24
 published: true
 posted: 2023-08-07
-tag: "veganlık"
+tag: ""
 reread: "no"
 rating: "3"
 num: "369"

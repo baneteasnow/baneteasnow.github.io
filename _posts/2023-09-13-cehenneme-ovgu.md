@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-09-13
 published: true
 posted: 2023-09-13
-tag: "felsefe"
+tag: ""
 reread: "no"
 rating: "2"
 num: "378"

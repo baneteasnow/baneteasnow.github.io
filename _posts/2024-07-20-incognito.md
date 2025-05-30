@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2024-07-20
 published: true
 posted: 2024-07-20
-tag: "fen bilimleri"
+tag: ""
 reread: "no"
 rating: "3"
 num: "425"

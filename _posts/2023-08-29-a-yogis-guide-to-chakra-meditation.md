@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-08-29
 published: true
 posted: 2023-08-29
-tag: "lifestyle"
+tag: ""
 reread: "no"
 rating: "2"
 num: "374"

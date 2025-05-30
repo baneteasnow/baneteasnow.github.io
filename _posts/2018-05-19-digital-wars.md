@@ -13,7 +13,7 @@ eng: "Dijital Savaşlar, Apple, Google ve Microsoft arasındaki amansız rekabet
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-05-19
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "3"
 num: "95"

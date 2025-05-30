@@ -13,7 +13,7 @@ description: ""
 eng: ""
 last_modified_at: 2023-01-14
 posted: 2021-07-07
-tag: "hukuk"
+tag: ""
 reread: "no"
 rating: "4"
 num: "182"

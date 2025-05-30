@@ -13,7 +13,7 @@ eng: "Smart Cities, Digital Nations explores how smart cities, driven by data, c
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-07-14
-tag: "şehir planlama"
+tag: ""
 reread: "no"
 rating: "3"
 num: "103"

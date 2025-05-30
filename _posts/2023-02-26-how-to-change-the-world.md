@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-02-26
 published: true
 posted: 2023-02-26
-tag: "felsefe"
+tag: ""
 reread: "yes"
 openai: yes
 rating: "5"

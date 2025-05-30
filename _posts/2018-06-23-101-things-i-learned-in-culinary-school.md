@@ -13,7 +13,7 @@ eng: "A compact yet insightful guide that distills essential culinary school les
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-06-23
-tag: "lifestyle"
+tag: ""
 reread: "no"
 rating: "5"
 num: "100"

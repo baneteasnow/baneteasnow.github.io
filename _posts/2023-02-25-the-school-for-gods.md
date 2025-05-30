@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-02-25
 published: true
 posted: 2023-02-25
-tag: "felsefe"
+tag: ""
 reread: "no"
 rating: "3"
 num: "314"

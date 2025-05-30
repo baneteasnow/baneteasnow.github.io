@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-10-06
-tag: "üretkenlik ve teknoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "197"

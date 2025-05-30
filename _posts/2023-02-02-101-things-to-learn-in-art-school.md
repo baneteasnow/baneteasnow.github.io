@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-02-02
 published: true
 posted: 2023-02-02
-tag: "sanat"
+tag: ""
 reread: "no"
 rating: "5"
 num: "299"

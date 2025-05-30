@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-10-27
-tag: "sürdürülebilirlik"
+tag: ""
 reread: "no"
 rating: "3"
 num: "201"

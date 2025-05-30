@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: "felsefe"
+tag: ""
 posted: 2022-04-13
 reread: "yes"
 rating: "5"

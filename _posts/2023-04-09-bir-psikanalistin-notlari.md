@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-04-09
 published: true
 posted: 2023-04-09
-tag: "psikoloji"
+tag: ""
 reread: "no"
 rating: "3"
 update: ""

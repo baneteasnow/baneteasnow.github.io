@@ -13,7 +13,7 @@ eng: "Brandwashed reveals how brands begin influencing us from infancy and conti
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-07-07
-tag: "tüketici davranışları"
+tag: ""
 reread: "yes"
 rating: "4"
 update: "done"

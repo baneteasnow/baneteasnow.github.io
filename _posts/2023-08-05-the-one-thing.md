@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2025-02-24
 published: true
 posted: 2023-08-05
-tag: "üretkenlik ve teknoloji"
+tag: ""
 reread: "no"
 rating: "2"
 num: "368"

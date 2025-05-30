@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2019-05-01
-tag: "seyahat"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "131"

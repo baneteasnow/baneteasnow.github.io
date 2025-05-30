@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-07-19
 published: true
 posted: 2023-07-19
-tag: "sosyal bilimler"
+tag: ""
 reread: "no"
 rating: "3"
 eng: "Never Make Your Bed covers 115 strange scientific facts."

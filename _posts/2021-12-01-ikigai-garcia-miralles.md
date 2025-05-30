@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: "lifestyle"
+tag: ""
 posted: 2021-12-01
 reread: "no"
 rating: "4"

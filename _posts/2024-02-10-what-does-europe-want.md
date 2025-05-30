@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2024-02-10
 published: true
 posted: 2024-02-10
-tag: "siyaset bilimi"
+tag: ""
 reread: "no"
 rating: "3"
 num: "407"

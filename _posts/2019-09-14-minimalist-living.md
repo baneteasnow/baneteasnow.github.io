@@ -13,7 +13,7 @@ eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-09-14
-tag: "minimalizm"
+tag: ""
 reread: "no"
 rating: "3"
 num: "146"

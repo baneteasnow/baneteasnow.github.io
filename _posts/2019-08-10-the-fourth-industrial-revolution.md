@@ -13,7 +13,7 @@ eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-08-10
-tag: "teknoloji"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "141"

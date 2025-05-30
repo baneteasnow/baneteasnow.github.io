@@ -13,7 +13,7 @@ description: ""
 eng: ""
 goodreads: "https://www.goodreads.com/book/show/40591677-keep-going"
 posted: 2021-06-23
-tag: "motivasyon"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "178"

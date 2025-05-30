@@ -13,7 +13,7 @@ eng: "Çatalın Neden Tadı Yoktur? explores the fascinating connections between
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-08-28
-tag: "fen bilimleri"
+tag: ""
 reread: "no"
 rating: "3"
 num: "429"

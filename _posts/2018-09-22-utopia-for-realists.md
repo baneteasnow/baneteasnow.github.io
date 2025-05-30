@@ -13,7 +13,7 @@ eng: "Utopia for Realists argues that ideas once seen as radical—like basic in
 published: true
 last_modified_at: 2025-03-25
 posted: 2018-09-22
-tag: "felsefe"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "111"

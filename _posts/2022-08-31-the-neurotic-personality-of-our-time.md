@@ -15,6 +15,7 @@ published: true
 posted: 2022-08-31
 reread: "yes"
 rating: "5"
+tag: ""
 num: "283"
 update: ""
 image: "/assets/new/the-neurotic-personality-of-our-time.jpg"

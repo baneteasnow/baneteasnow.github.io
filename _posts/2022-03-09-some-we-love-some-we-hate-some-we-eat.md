@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: "hayvan hakları"
+tag: ""
 posted: 2022-03-09
 reread: "yes"
 rating: "5"

@@ -13,7 +13,7 @@ eng: "Self-Made Man is a book in which Norah Vincent candidly and strikingly exp
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-01-01
-tag: "sosyal psikoloji"
+tag: ""
 reread: "no"
 rating: "3"
 num: "398"

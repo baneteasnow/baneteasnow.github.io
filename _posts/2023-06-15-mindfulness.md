@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-06-15
 published: true
 posted: 2023-06-15
-tag: "mindfulness"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "337"

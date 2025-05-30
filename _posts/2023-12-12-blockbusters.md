@@ -12,7 +12,7 @@ description: "Blockbusters, eğlence sektöründeki büyük hitlerin nasıl yara
 last_modified_at: 2025-02-24
 published: true
 posted: 2023-12-12
-tag: "pazarlama"
+tag: ""
 reread: "no"
 rating: "1"
 eng: "Blockbusters is a business and media strategy book that analyzes how major hits are created in the entertainment industry and why large investments tend to be more profitable in the long run."

@@ -13,7 +13,7 @@ eng: ""
 published: true
 last_modified_at: 2023-01-14
 posted: 2019-04-13
-tag: "gelecek ve trendler"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "129"

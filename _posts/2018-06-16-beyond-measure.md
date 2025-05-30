@@ -13,7 +13,7 @@ eng: "Beyond Measure is a concise yet powerful book that reveals how meaningful 
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-06-16
-tag: "yönetim"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "99"

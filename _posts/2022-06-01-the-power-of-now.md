@@ -10,7 +10,7 @@ yil: "2010"
 sayfa: "229"
 goodreads: "https://www.goodreads.com/book/show/6708.The_Power_of_Now"
 update: ""
-tag: "felsefe"
+tag: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2022-06-01

@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2022-02-16
-tag: "felsefe"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "224"

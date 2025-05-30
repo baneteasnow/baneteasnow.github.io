@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: "sosyoloji"
+tag: ""
 posted: 2022-05-04
 reread: "yes"
 rating: "5"

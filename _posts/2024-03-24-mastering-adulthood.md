@@ -13,7 +13,7 @@ eng: "Mastering Adulthood explores the emotional skills and self-awareness neede
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-03-24
-tag: "psikoloji"
+tag: ""
 reread: "no"
 rating: "2"
 num: "415"

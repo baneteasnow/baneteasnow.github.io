@@ -13,7 +13,7 @@ eng: "The Amazon Way offers an insider’s perspective on the 14 leadership prin
 published: true
 last_modified_at: 2025-03-29
 posted: 2018-09-29
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "3"
 num: "112"

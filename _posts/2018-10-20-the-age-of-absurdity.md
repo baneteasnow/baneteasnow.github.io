@@ -13,7 +13,7 @@ eng: "The Age of Absurdity explores why modern abundance often leads to restless
 published: true
 last_modified_at: 2025-03-29
 posted: 2018-10-20
-tag: "felsefe"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "114"

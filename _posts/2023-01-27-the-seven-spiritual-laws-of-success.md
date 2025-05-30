@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-01-27
 published: true
 posted: 2023-01-27
-tag: "mindfulness"
+tag: ""
 reread: "no"
 rating: "3"
 num: "297"

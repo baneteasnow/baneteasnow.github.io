@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-05-31
 published: true
 posted: 2023-05-31
-tag: "lifestyle"
+tag: ""
 reread: "no"
 rating: "3"
 update: ""

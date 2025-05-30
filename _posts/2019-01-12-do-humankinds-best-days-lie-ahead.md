@@ -13,7 +13,7 @@ eng: ""
 published: true
 last_modified_at: 2021-07-12
 posted: 2019-01-12
-tag: "felsefe"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "123"

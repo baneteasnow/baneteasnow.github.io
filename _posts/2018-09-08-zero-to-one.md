@@ -13,7 +13,7 @@ eng: "Zero to One argues that true innovation doesn’t come from copying others
 published: true
 last_modified_at: 2025-03-25
 posted: 2018-09-08
-tag: "girişimcilik"
+tag: ""
 reread: "no"
 rating: "4"
 num: "109"

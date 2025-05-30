@@ -13,7 +13,7 @@ description: ""
 eng: ""
 posted: 2021-05-26
 last_modified_at: 2023-01-14
-tag: "sağlık"
+tag: ""
 reread: "no"
 rating: "5"
 num: "174"

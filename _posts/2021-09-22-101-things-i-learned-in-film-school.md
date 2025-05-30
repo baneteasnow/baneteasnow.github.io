@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-09-22
-tag: "sanat"
+tag: ""
 reread: "no"
 rating: "4"
 num: "195"

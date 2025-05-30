@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2023-01-14
 published: true
 posted: 2021-09-18
-tag: "lifestyle"
+tag: ""
 reread: "no"
 rating: "3"
 num: "194"

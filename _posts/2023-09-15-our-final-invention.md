@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2023-09-15
 published: true
 posted: 2023-09-15
-tag: "yapay zeka"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "379"
