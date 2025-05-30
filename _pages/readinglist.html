@@ -20,6 +20,9 @@ title: "okuma listesi"
 		<th style="text-align: left">
 			<div style="color: white">__image__</div>
 		</th>
+		<th style="text-align: left">
+			<div style="color: white">_date_</div>
+		</th>
 	</tr>
 	{%- assign posts = site.posts -%} {%- for post in site.posts -%} {%- if
 	post.category != 'book3'-%}
@@ -106,6 +109,19 @@ title: "okuma listesi"
 				alt="{{ post.title }}"
 				style="width: 40px; height: 40px; display: inline-block"
 			/>
+		</td>
+		<td>
+			<div
+				class="link1"
+				style="color: #777"
+			>
+				<i>{{ post.num }}</i> -
+				<i
+					><time datetime="{{ post.date }}"
+						>{{ post.date | date: "%Y%m%d" }}</time
+					></i
+				>
+			</div>
 		</td>
 	</tr>
 	{%- endif -%} {%- endfor -%}
