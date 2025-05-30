@@ -13,7 +13,7 @@ eng: "A Week at the Airport is an insightful book in which Alain de Botton captu
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-05-27
-tag: "felsefe"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "56"

@@ -12,7 +12,7 @@ description: "Google’da Çalışacak Kadar Akıllı Mısınız?, Google gibi t
 published: true
 last_modified_at: 2024-12-06
 posted: 2015-01-24
-tag: "çalışma yaşamı"
+tag: ""
 reread: "no"
 rating: "3"
 num: "7"

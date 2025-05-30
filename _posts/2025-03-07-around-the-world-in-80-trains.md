@@ -13,7 +13,7 @@ eng: "Around the World in 80 Trains is a travel book that explores various lands
 last_modified_at: 2025-03-07
 published: true
 posted: 2025-03-07
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "1"
 num: "481"

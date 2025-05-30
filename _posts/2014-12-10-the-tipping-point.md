@@ -12,7 +12,7 @@ description: "Kıvılcım Ani, fikirlerin ve davranışların nasıl bir salgın
 published: true
 last_modified_at: 2024-12-06
 posted: 2014-12-10
-tag: "psikoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "6"

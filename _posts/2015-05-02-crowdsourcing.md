@@ -12,7 +12,7 @@ description: "Jeff Howe, Crowdsourcing kitabında, internetin gücüyle bir aray
 last_modified_at: 2024-12-06
 published: true
 posted: 2015-05-02
-tag: "dijital kültür"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "8"

@@ -13,7 +13,7 @@ eng: "How to Find Fulfilling Work explores the paths to building a meaningful an
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-06-24
-tag: "felsefe"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "61"

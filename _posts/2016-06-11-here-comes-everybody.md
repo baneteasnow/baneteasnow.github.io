@@ -12,7 +12,7 @@ description: "Clay Shirky’nin Herkes Örgütlüyor kitabı, internetin bireyle
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-06-11
-tag: "dijital kültür"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "30"

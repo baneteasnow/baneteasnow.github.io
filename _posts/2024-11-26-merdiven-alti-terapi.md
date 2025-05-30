@@ -13,7 +13,7 @@ eng: "Deniz Dülgeroğlu, formerly a dentist and now a podcaster, shares her sto
 last_modified_at: 2024-11-26
 published: true
 posted: 2024-11-26
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "2"
 num: "451"

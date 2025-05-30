@@ -12,7 +12,7 @@ description: "Dan Ariely’nin Dürüst Olmamanın Ardındaki (Dürüst) Gerçek
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-02-20
-tag: "davranışsal iktisat"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "25"

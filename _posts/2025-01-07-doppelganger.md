@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2025-01-07
 published: true
 posted: 2025-01-07
-tag: "sosyoloji"
+tag: ""
 reread: "no"
 rating: "4"
 num: "461"

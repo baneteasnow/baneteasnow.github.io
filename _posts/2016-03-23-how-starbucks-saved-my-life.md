@@ -12,7 +12,7 @@ description: "Starbucks Hayatımı Nasıl Kurtardı, Michael Gates Gill’in hay
 last_modified_at: 2024-12-07
 published: true
 posted: 2016-03-23
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "5"
 num: "26"

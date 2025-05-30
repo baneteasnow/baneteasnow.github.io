@@ -12,7 +12,7 @@ description: "Havuç İlkesi, takdirin liderlikteki dönüştürücü gücünü 
 published: true
 last_modified_at: 2024-12-06
 posted: 2014-07-05
-tag: "çalışma yaşamı"
+tag: ""
 reread: "yes"
 rating: "3"
 num: "10"

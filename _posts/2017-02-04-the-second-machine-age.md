@@ -13,7 +13,7 @@ eng: "The Second Machine Age explores how digitalization, artificial intelligenc
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-02-04
-tag: "teknoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "46"

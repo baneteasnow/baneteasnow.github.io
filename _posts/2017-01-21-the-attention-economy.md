@@ -13,7 +13,7 @@ eng: "The Attention Economy explores how attention has become the scarcest resou
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-01-21
-tag: "teknoloji"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "44"

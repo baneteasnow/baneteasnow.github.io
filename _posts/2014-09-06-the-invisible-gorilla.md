@@ -12,7 +12,7 @@ description: "Görünmez Goril, ‘olsaydı mutlaka fark ederdim’ dediğimiz a
 published: true
 last_modified_at: 2024-12-06
 posted: 2014-09-06
-tag: "psikoloji"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "4"

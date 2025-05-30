@@ -12,7 +12,7 @@ description: "Nassim Nicholas Taleb’in Siyah Kuğu kitabı, beklenmedik, öng�
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-06-01
-tag: "felsefe"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "29"

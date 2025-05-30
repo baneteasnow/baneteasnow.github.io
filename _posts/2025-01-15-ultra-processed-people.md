@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2025-01-15
 published: true
 posted: 2025-01-15
-tag: "saglik"
+tag: ""
 reread: "no"
 rating: "5"
 num: "465"

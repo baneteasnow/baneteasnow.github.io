@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2025-06-30
 published: false
 posted: 2025-06-30
-tag: ""
+tag: "SocietyCulture"
 reread: "no"
 rating: "3"
 num: ""

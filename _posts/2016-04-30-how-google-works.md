@@ -12,7 +12,7 @@ description: "Google Nasıl Yönetiliyor, Google’ın kuruluşundan bugüne kad
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-04-30
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "4"
 num: "27"

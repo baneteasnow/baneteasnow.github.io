@@ -13,7 +13,7 @@ eng: "Every Day Gets a Little Closer is a unique book that juxtaposes the perspe
 last_modified_at: 2025-02-18
 published: true
 posted: 2025-02-17
-tag: "psikoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "475"

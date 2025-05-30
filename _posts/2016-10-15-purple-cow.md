@@ -12,7 +12,7 @@ description: "Mor İnek, Seth Godin’in, pazarlamada sıradanlığı aşarak di
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-10-15
-tag: "marketing"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "35"

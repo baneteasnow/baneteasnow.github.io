@@ -12,7 +12,7 @@ description: "Contagious: Why Things Catch On, ürünlerin, fikirlerin ve davran
 published: true
 last_modified_at: 2024-12-07
 posted: 2015-09-19
-tag: "sosyal psikoloji"
+tag: ""
 reread: "no"
 rating: "5"
 num: "16"

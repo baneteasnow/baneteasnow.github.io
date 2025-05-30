@@ -12,7 +12,7 @@ description: "Deneyim Ekonomisi, Joseph Pine ve James Gilmore’un, tüketiciler
 published: true
 last_modified_at: 2024-12-07
 posted: 2015-11-28
-tag: "tüketici davranışları"
+tag: ""
 reread: "no"
 rating: "4"
 num: "18"

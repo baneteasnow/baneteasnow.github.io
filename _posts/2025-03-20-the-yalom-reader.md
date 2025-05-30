@@ -13,7 +13,7 @@ eng: "The Yalom Reader brings together Irvin D. Yalom’s voice as both therapis
 last_modified_at: 2025-04-02
 published: true
 posted: 2025-03-20
-tag: "psikoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "485"

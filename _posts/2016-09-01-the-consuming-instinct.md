@@ -12,7 +12,7 @@ description: "Tüketim İçgüdüsü, evrimsel psikolojiyi kullanarak tüketici 
 last_modified_at: 2024-12-07
 published: true
 posted: 2016-09-01
-tag: "psikoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "34"

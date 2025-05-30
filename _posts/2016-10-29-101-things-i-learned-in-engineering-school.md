@@ -12,7 +12,7 @@ description: "Mühendislik Okulunda Öğrendiğim 101 Şey, mühendislik dünyas
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-10-29
-tag: "mühendislik"
+tag: ""
 reread: "no"
 rating: "4"
 num: "37"

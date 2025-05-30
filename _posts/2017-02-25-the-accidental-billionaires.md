@@ -13,7 +13,7 @@ eng: "The Accidental Billionaires presents a gripping story of Facebook’s crea
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-02-25
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "4"
 num: "49"

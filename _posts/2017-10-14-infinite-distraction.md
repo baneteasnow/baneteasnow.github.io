@@ -13,7 +13,7 @@ eng: "Infinite Distraction is Dominic Pettman’s sharp critique of how attentio
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-10-14
-tag: "üretkenlik ve teknoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "72"

@@ -13,7 +13,7 @@ eng: "The Internet of Things and the Age of Collaboration explores the transform
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-04-01
-tag: "internet of things"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "52"

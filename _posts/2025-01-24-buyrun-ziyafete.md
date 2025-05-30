@@ -14,7 +14,7 @@ eng: "Buyurun Ziyafete is a book where Vedat Milor shares his life, passion for 
 last_modified_at: 2025-02-18
 published: true
 posted: 2025-01-24
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "2"
 num: "470"

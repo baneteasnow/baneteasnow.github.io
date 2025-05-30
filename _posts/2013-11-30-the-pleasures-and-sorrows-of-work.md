@@ -12,7 +12,7 @@ description: "Alain de Botton, farklı mesleklerden kişilerin sıradan bir gün
 published: true
 last_modified_at: 2024-12-06
 posted: 2013-11-30
-tag: "felsefe"
+tag: ""
 reread: "yes"
 num: "2"
 eng: "Alain de Botton offers insightful observations on the nature of work and people’s diverse attitudes towards it. By following individuals from various professions—such as consulting, painting, fishing, and biscuit manufacturing—he explores why they love or hate their jobs and what aspects they find fulfilling or challenging."

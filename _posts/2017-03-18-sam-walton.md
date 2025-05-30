@@ -13,7 +13,7 @@ eng: "This book explores Sam Walton’s rise in the retail industry, revealing h
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-03-18
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "3"
 num: "51"

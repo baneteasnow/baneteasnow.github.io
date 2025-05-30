@@ -13,7 +13,7 @@ eng: "As technology advances rapidly, this book explores how daily life, the bus
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-06-17
-tag: "yapay zeka"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "60"

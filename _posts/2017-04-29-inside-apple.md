@@ -13,7 +13,7 @@ eng: "Inside Apple explores how Apple, under Steve Jobs’ leadership, became on
 last_modified_at: 2025-03-09
 published: true
 posted: 2017-04-29
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "5"
 num: "54"

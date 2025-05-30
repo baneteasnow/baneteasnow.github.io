@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2024-11-19
 published: true
 posted: 2024-11-19
-tag: "motivasyon"
+tag: ""
 reread: "no"
 rating: "1"
 num: "445"

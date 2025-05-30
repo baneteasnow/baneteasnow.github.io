@@ -13,7 +13,7 @@ eng: "Dinner with Darwin is a fascinating exploration of the evolutionary roots 
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-12-15
-tag: "sosyoloji"
+tag: ""
 reread: "no"
 rating: "2"
 num: "455"

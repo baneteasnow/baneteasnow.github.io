@@ -13,7 +13,7 @@ eng: "In Public Parts, Jeff Jarvis explores how the internet reshapes our unders
 published: true
 last_modified_at: 2025-03-22
 posted: 2018-02-24
-tag: "internet"
+tag: ""
 reread: "yes"
 rating: "3"
 num: "83"

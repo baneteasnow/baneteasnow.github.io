@@ -12,7 +12,7 @@ description: "The Smartest Guys in the Room, Enron’un hızlı yükselişi ve s
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-10-22
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "4"
 num: "36"

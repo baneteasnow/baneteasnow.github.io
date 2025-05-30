@@ -12,7 +12,7 @@ description: "Kitlelerin Bilgeliği, grupların bireylerden daha iyi kararlar ve
 published: true
 last_modified_at: 2023-01-14
 posted: 2015-07-29
-tag: "sosyal psikoloji"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "12"

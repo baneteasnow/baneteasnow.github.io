@@ -12,7 +12,7 @@ description: "Moda Okulunda Öğrendiğim 101 Şey, moda dünyasına dair temel 
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-12-10
-tag: "moda tasarım"
+tag: ""
 eng: "101 Things I Learned in Fashion School presents essential insights into the fashion world, covering everything from design processes to fabric selection in 101 concise notes."
 update: "done"
 reread: "no"

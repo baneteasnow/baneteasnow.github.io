@@ -13,7 +13,7 @@ eng: "Branded Beauty: How Marketing Changed the Way We Look by Mark Tungate expl
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-08-17
-tag: "moda markaları"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "66"

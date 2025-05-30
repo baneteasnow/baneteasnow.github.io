@@ -13,7 +13,7 @@ eng: "In What Would Google Do?, Jeff Jarvis analyzes Google’s way of doing bus
 published: true
 last_modified_at: 2025-03-22
 posted: 2018-03-17
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "3"
 num: "86"

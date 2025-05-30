@@ -13,7 +13,7 @@ eng: "Future Crimes explores how technological advancements are reshaping cyberc
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-01-28
-tag: "siber güvenlik"
+tag: ""
 reread: "no"
 rating: "5"
 num: "45"

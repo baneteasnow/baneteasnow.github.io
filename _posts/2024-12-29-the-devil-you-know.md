@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2024-12-29
 published: true
 posted: 2024-12-29
-tag: "psikoloji"
+tag: ""
 reread: "no"
 rating: "5"
 num: "459"

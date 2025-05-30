@@ -12,7 +12,7 @@ description: "Mutlu Pazartesiler, çalışmanın mutluluğa etkisini sorgulayara
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-12-24
-tag: "çalışma yaşamı"
+tag: ""
 reread: "no"
 rating: "4"
 num: "43"

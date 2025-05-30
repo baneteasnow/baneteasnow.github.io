@@ -13,7 +13,7 @@ eng: "Ege Soley shares her heartfelt perspectives on various aspects of life in 
 last_modified_at: 2024-11-27
 published: true
 posted: 2024-11-27
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "2"
 num: "452"

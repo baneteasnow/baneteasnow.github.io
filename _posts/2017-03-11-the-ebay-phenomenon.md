@@ -13,7 +13,7 @@ eng: "The eBay Phenomenon explores the journey of eBay from its humble beginning
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-03-11
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "4"
 num: "50"

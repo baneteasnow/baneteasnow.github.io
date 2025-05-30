@@ -12,7 +12,7 @@ description: "Mutluluk Dağıtmak, Tony Hsieh’in liderliğinde Zappos’un mü
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-08-04
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "4"
 num: "33"

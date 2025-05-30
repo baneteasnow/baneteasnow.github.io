@@ -13,7 +13,7 @@ eng: "Who Gets What and Why by Alvin E. Roth explores market design and matching
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-07-01
-tag: "tüketici davranışları"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "62"

@@ -13,7 +13,7 @@ eng: "In Work Rules!, Laszlo Bock reveals how Google built a people-centered wor
 last_modified_at: 2025-03-22
 published: true
 posted: 2018-03-10
-tag: "yönetim"
+tag: ""
 reread: "no"
 rating: "4"
 num: "85"

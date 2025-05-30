@@ -13,7 +13,7 @@ eng: "The Big Short is a gripping finance book that reveals the behind-the-scene
 last_modified_at: 2025-02-24
 published: true
 posted: 2024-09-23
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "5"
 num: "437"

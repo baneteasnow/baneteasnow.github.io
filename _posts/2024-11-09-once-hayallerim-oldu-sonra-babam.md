@@ -13,7 +13,7 @@ eng: "Önce Hayallerim Öldü Sonra Babam is a book where the author, Başak Kab
 last_modified_at: 2024-10-31
 published: true
 posted: 2024-10-31
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "1"
 num: "448"

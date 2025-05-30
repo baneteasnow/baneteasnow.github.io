@@ -12,7 +12,7 @@ description: "Trend Avcısı, insanların değişimi nasıl algıladığını, t
 last_modified_at: 2024-12-07
 published: true
 posted: 2015-12-12
-tag: "gelecek ve trendler"
+tag: ""
 reread: "no"
 rating: "3"
 num: "19"

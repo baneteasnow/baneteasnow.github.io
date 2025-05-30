@@ -12,7 +12,7 @@ description: "Merhaba Tembellik, modern iş dünyasının çelişkilerini ve şi
 published: true
 last_modified_at: 2024-12-06
 posted: 2015-06-27
-tag: "çalışma yaşamı"
+tag: ""
 reread: "no"
 rating: "4"
 num: "9"

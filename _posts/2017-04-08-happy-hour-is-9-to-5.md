@@ -13,7 +13,7 @@ eng: "Happy Hour from 9 to 5 explores the impact of workplace happiness on produ
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-04-08
-tag: "çalışma yaşamı"
+tag: ""
 reread: "no"
 rating: "3"
 num: "53"

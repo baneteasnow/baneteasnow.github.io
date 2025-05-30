@@ -13,7 +13,7 @@ eng: "Leading Digital explores how companies across various industries can succe
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-12-09
-tag: "yönetim"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "79"

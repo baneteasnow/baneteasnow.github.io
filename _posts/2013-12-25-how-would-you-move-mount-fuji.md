@@ -12,7 +12,7 @@ description: "Fuji Dağı’nı Nasıl Taşırsınız, yaratıcı düşünmeyi v
 published: true
 last_modified_at: 2024-12-06
 posted: 2013-12-25
-tag: "çalışma yaşamı"
+tag: ""
 reread: "no"
 rating: "3"
 num: "3"

@@ -13,7 +13,7 @@ eng: "Abundance challenges the scarcity-driven pessimism of our times, arguing t
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-12-02
-tag: "gelecek ve trendler"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "78"

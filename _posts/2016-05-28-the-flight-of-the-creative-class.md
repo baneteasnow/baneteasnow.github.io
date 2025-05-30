@@ -12,7 +12,7 @@ description: "Yaratıcı Sınıf Adres Değiştiriyor, Richard Florida’nın ya
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-05-28
-tag: "sosyoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "28"

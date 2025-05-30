@@ -13,7 +13,7 @@ eng: "Gonlum Dilime Dargin explains what relational psychotherapy is and how the
 last_modified_at: 2025-04-01
 published: true
 posted: 2025-03-05
-tag: "psikoloji"
+tag: ""
 reread: "no"
 rating: "5"
 num: "480"

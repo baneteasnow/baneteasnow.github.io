@@ -12,7 +12,7 @@ description: "Walmart Etkisi, perakende devi Walmart’ın iş modeli, tedarik z
 published: true
 last_modified_at: 2025-03-09
 posted: 2017-02-18
-tag: "marka profili"
+tag: ""
 reread: "no"
 num: "48"
 rating: "4"

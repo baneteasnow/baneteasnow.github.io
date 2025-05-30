@@ -12,7 +12,7 @@ description: "Mimarlık Okulunda Öğrendiğim 101 Şey, mimarlık ve tasarım d
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-11-19
-tag: "mimarlık"
+tag: ""
 reread: "no"
 rating: "4"
 num: "39"

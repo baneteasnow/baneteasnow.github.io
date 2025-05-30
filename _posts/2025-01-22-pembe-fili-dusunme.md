@@ -14,7 +14,7 @@ eng: "Pembe Fili Düşünme is a psychology-based guide that explores how embrac
 last_modified_at: 2025-02-18
 published: true
 posted: 2025-01-22
-tag: "psikoloji"
+tag: ""
 reread: "no"
 rating: "4"
 num: "469"

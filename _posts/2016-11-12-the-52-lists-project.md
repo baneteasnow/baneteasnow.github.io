@@ -12,7 +12,7 @@ description: "52 Liste Projesi, bir yıl boyunca çeşitli temalarda listeler ya
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-11-12
-tag: "motivasyon"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "38"

@@ -12,7 +12,7 @@ description: "Herkese Söyle, sosyal medyanın sadece bilgi paylaşımını değ
 published: true
 last_modified_at: 2025-03-22
 posted: 2018-01-06
-tag: "sosyal medya"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "81"

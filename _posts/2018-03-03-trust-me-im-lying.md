@@ -13,7 +13,7 @@ eng: "In Trust Me, I’m Lying, Ryan Holiday exposes how digital media can be ea
 published: true
 last_modified_at: 2025-03-22
 posted: 2018-03-03
-tag: "psikoloji"
+tag: ""
 reread: "no"
 rating: "3"
 num: "84"

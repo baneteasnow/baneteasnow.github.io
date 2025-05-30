@@ -13,7 +13,7 @@ eng: "In The Seven-Day Weekend, Ricardo Semler challenges the rigid boundaries b
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-11-25
-tag: "marka profili"
+tag: ""
 reread: "no"
 rating: "4"
 num: "77"

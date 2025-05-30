@@ -12,7 +12,7 @@ description: "Beşinci Disiplin, organizasyonların öğrenme, uyum sağlama ve 
 published: true
 last_modified_at: 2024-12-06
 posted: 2014-11-26
-tag: "yönetim"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "5"

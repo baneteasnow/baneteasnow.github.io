@@ -13,7 +13,7 @@ eng: "The Inevitable by Kevin Kelly explores how technology will evolve over the
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-09-16
-tag: "teknoloji"
+tag: ""
 reread: "yes"
 rating: "4"
 num: "69"

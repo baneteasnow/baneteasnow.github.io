@@ -12,7 +12,7 @@ description: "Start Where You Are, yaratıcılığı ve farkındalığı artırm
 published: true
 last_modified_at: 2024-12-07
 posted: 2016-12-03
-tag: "motivasyon"
+tag: ""
 reread: "yes"
 rating: "5"
 eng: "Start Where You Are is a journal designed to inspire creativity and mindfulness through thought-provoking exercises and vibrant illustrations."

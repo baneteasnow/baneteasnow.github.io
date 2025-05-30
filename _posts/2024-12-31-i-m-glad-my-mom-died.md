@@ -13,7 +13,7 @@ eng: "I’m Glad My Mom Died is a powerful memoir in which Jennette McCurdy cand
 last_modified_at: 2025-02-23
 published: true
 posted: 2024-12-31
-tag: "profile"
+tag: ""
 reread: "no"
 rating: "5"
 num: "460"

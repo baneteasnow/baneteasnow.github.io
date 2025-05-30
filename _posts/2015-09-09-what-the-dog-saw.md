@@ -12,7 +12,7 @@ description: "What The Dog Saw, Malcolm Gladwell’in farklı konular üzerine y
 published: true
 last_modified_at: 2024-12-06
 posted: 2015-09-09
-tag: "psikoloji"
+tag: ""
 reread: "yes"
 rating: "5"
 num: "15"
