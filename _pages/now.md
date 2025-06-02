@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 42
+read: 43
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-05-29
+last_modified_at: 2025-06-02
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear1: 2024
 author1: "Claire Phillips"
 sayfa1: 224
 format1: reading as a book
-pageread1: 1
+pageread1: 224
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
