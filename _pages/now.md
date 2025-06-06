@@ -13,20 +13,20 @@
 # 3 = book
 #
 #
-read: 43
+read: 44
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-06-02
+last_modified_at: 2025-06-06
 published: true
 #
 # 1
-booktitle1: "A Room with a Darker View"
+booktitle1: "The Age of Guilt"
 bookyear1: 2024
-author1: "Claire Phillips"
-sayfa1: 224
+author1: "Mark Edmundson"
+sayfa1: 198
 format1: reading as a book
-pageread1: 224
+pageread1: 1
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
@@ -46,12 +46,19 @@ sayfa3: 456
 format3: reading as a book
 pageread3: 1
 # 4
-booktitle4: "Monsters"
-bookyear4: 2024
-author4: "Claire Dederer"
-sayfa4: 264
+booktitle4: "Kendine Yabancı"
+bookyear4: 2021
+author4: "Ferhat Jak İçöz"
+sayfa4: 224
 format4: reading as a book
-pageread4: 264
+pageread4: 1
+# 5
+booktitle5: "Post-Truth"
+bookyear5: 2019
+author5: "Lee McIntyre"
+sayfa5: 168
+format5: reading as a book
+pageread5: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -151,6 +158,31 @@ _by_ {{ page.author4 }}
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread4 }}/{{ page.sayfa4 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+_by_ {{ page.author5 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa5 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread5 }}/{{ page.sayfa5 }}
       </span>
   </div>
 
