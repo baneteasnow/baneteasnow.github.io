@@ -51,7 +51,7 @@ bookyear4: 2024
 author4: "Claire Dederer"
 sayfa4: 264
 format4: reading as a book
-pageread4: 1
+pageread4: 264
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
