@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 44
+read: 45
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-06-06
+last_modified_at: 2025-06-08
 published: true
 #
 # 1
@@ -51,7 +51,7 @@ bookyear4: 2021
 author4: "Ferhat Jak İçöz"
 sayfa4: 224
 format4: reading as a book
-pageread4: 1
+pageread4: 224
 # 5
 booktitle5: "Post-Truth"
 bookyear5: 2019
