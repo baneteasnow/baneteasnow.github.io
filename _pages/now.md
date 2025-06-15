@@ -13,7 +13,7 @@
 # 3 = book
 #
 #
-read: 45
+read: 46
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -39,19 +39,12 @@ pageread2: 22
 pagereadsaat2: 0
 pagereaddakika2: 22
 # 3
-booktitle3: "Inside the Criminal Mind"
-bookyear3: 2023
-author3: "Stanton E. Samenow"
-sayfa3: 456
+booktitle3: "Post-Truth"
+bookyear3: 2019
+author3: "Lee McIntyre"
+sayfa3: 168
 format3: reading as a book
 pageread3: 1
-# 4
-booktitle4: "Post-Truth"
-bookyear4: 2019
-author4: "Lee McIntyre"
-sayfa4: 168
-format4: reading as a book
-pageread4: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -126,31 +119,6 @@ _by_ {{ page.author3 }}
     <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread3 }}/{{ page.sayfa3 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle4 }} ({{ page.bookyear4 }})  
-_by_ {{ page.author4 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa4 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread4 }}/{{ page.sayfa4 }}
       </span>
   </div>
 
