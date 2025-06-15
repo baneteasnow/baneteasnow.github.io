@@ -8,8 +8,8 @@ yazar: "Stanton E. Samenow"
 yil: "2023"
 sayfa: "456"
 goodreads: "https://www.goodreads.com/book/show/587876.Inside_the_Criminal_Mind"
-description: "Stanton E. Samenow’un Suçlular Nasıl Düşünür? adlı kitabı, suçun bireysel düşünce yapısından kaynaklandığını savunurken, hem içerik hem yaklaşım bakımından oldukça yüzeysel ve indirgemeci bir anlatı sunuyor."
-eng: "Samenow’s Inside the Criminal Mind offers a reductive take on criminal behavior, focusing narrowly on individual thought patterns while lacking depth or nuance."
+description: "Stanton E. Samenow’un Suçlular Nasıl Düşünür? adlı kitabı, suçun nedenini bireysel düşünce yapısında ararken, sosyal ve kültürel bağlamları göz ardı eden tartışmalı bir yaklaşım sunuyor."
+eng: "Stanton E. Samenow’s Inside the Criminal Mind presents a controversial perspective that attributes crime to individual thinking patterns, often overlooking social and cultural contexts."
 last_modified_at: 2025-06-15
 published: true
 posted: 2025-06-15
@@ -21,9 +21,9 @@ update: "done"
 image: "/assets/new/inside-the-criminal-mind.jpg"
 ---
 
-Stanton E. Samenow’un Suçlular Nasıl Düşünür? adlı kitabı, suça karışmış bireylerin düşünme biçimlerini anlamaya yönelik bir çaba sunuyor. Yazar, onlarca yıllık adli psikoloji deneyimine dayanarak, suçluluğun çevresel faktörlerden çok bireyin düşünce yapısıyla ilişkili olduğunu öne sürüyor. Kitap, özellikle suçlu davranışların tekrar eden örüntülerini ele alıyor ve bu davranışların altında yatan düşünsel çarpıklıkları detaylandırıyor.
+Stanton E. Samenow’un Suçlular Nasıl Düşünür? adlı kitabı, suçun nedenlerini bireyin düşünce yapısına indirgeyen bir yaklaşımla ele alıyor. Samenow, çevresel ya da toplumsal etkenlerden ziyade, suça eğilimli bireylerin kendine özgü düşünsel örüntülerine odaklanıyor. Bu yaklaşım, suç davranışlarının kurbanlaştırma, sorumluluktan kaçma, manipülasyon ya da öfke kontrolü gibi tekrar eden bilişsel çarpıklıklarla açıklanabileceği varsayımına dayanıyor. Yazar, onlarca yıllık adli psikoloji deneyimini aktarırken, bilişsel-davranışçı terapiye yakın duran bir dil kullanıyor: Davranışı değiştirmek için önce düşünce yapısı değişmeli.
 
-Samenow’a göre suç, dış koşullardan ziyade bireysel seçimlerin sonucu; bu nedenle rehabilitasyondan ziyade sorumluluk alma gerekliliği vurgulanıyor. Kitapta yer alan örnekler çoğunlukla ABD ceza sistemine dayalı ve yazar, suça karışan bireylerin manipülatif, empati yoksunu ve sorumluluktan kaçan eğilimlerini açıklamaya çalışıyor.
+Kitap boyunca suçlu zihni, çoğunlukla ABD ceza sistemi örnekleri üzerinden tarif ediliyor. Empati yoksunluğu, hızlı tatmin arayışı ve kendi hatalarını dışsallaştırma gibi eğilimler, Samenow’un “suçlu kişilik” dediği yapının temel bileşenleri olarak sunuluyor. Ancak bu anlatı, bireyi toplumsal bağlamından kopardığı ölçüde eleştiriye açık. Yoksulluk, eşitsizlik, eğitim eksikliği ya da sosyal dışlanma gibi etkenler kitapta neredeyse hiç yer bulmuyor. Samenow’un yaklaşımı, daha çok “kişisel sorumluluk” söylemine yaslanıyor ve suçu, bireyin kendi seçimi olarak çerçeveliyor.
 
-Ancak bu yaklaşım, insan davranışını sosyal, ekonomik ya da kültürel bağlamlardan yalıtarak değerlendirdiği için eleştiriye açık. Yazarın suçlu zihnine dair geliştirdiği genellemeler, zaman zaman indirgemeci ya da katı bir ahlaki bakış açısıyla şekillenmiş gibi duruyor. Kitap, bireysel sorumluluğu mutlaklaştıran tavrıyla, suçun nedenlerini anlamaya çalışan okurlar için sınırlı bir çerçeve sunuyor.
+Bu nedenle kitap, suçun nedenlerini anlamaya çalışan ama daha çok boyutlu analizlere ihtiyaç duyan okurlar için sınırlı bir perspektif sunuyor. Özellikle suçun yapısal boyutlarını göz ardı etmesi ve bireyi mutlak sorumlu ilan etmesi, anlatının dengesini bozuyor. Kuramsal olarak iddialı görünse de, toplumsal gerçekliklerle bağ kurmakta zayıf kalıyor.
 
