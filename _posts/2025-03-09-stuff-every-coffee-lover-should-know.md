@@ -13,7 +13,7 @@ eng: "A compact guide that presents essential coffee knowledge, from its history
 last_modified_at: 2025-03-09
 published: true
 posted: 2025-03-09
-tag: ""
+tag: "SimpleLivingEverydayComforts"
 reread: "no"
 rating: "4"
 num: "483"

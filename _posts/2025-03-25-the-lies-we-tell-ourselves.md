@@ -13,7 +13,7 @@ eng: "The Lies We Tell Ourselves reveals the defenses we build to avoid painful 
 last_modified_at: 2025-03-25
 published: true
 posted: 2025-03-25
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "no"
 rating: "1"
 num: "486"

@@ -13,7 +13,7 @@ eng: "Freud Bana Masal Anlatsa explores how fairy tales can be analyzed through 
 last_modified_at: 2025-02-22
 published: true
 posted: 2025-02-22
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "476"

@@ -13,7 +13,7 @@ eng: "Mating in Captivity is a bold exploration of the tension between commitmen
 last_modified_at: 2025-03-08
 published: true
 posted: 2025-03-08
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "no"
 rating: "2"
 num: "482"

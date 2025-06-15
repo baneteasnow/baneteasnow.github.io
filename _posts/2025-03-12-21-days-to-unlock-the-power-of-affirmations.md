@@ -13,7 +13,7 @@ eng: "21 Days to Unlock the Power of Affirmations is a 21-day guide to harnessin
 last_modified_at: 2025-03-12
 published: true
 posted: 2025-03-12
-tag: ""
+tag: "PersonalGrowthProductivity"
 reread: "no"
 rating: "3"
 num: "484"

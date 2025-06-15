@@ -13,7 +13,7 @@ eng: "The Naked Lady Who Stood on Her Head presents Dr. Gary Small’s most unus
 last_modified_at: 2025-04-02
 published: true
 posted: 2025-02-26
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "478"
