@@ -17,7 +17,7 @@ read: 46
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-06-08
+last_modified_at: 2025-06-20
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear1: 2024
 author1: "Mark Edmundson"
 sayfa1: 198
 format1: reading as a book
-pageread1: 1
+pageread1: 198
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019

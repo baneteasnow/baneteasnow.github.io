@@ -10,12 +10,12 @@ sayfa: "198"
 goodreads: "https://www.goodreads.com/book/show/61871766-the-age-of-guilt"
 description: "Modern bireyin taşıdığı suçluluk duygusunu felsefi bir sorgulamayla ele alan The Age of Guilt, Freud, Nietzsche ve Augustinus’un fikirleri üzerinden çağımızın vicdani krizine ışık tutuyor."
 eng: "The Age of Guilt explores the burden of modern guilt through a philosophical lens, drawing on the ideas of Freud, Nietzsche, and Augustine to illuminate today’s crisis of conscience."
-last_modified_at: 2025-06-30
-published: false
-posted: 2025-06-30
+last_modified_at: 2025-06-3\20
+published: true
+posted: 2025-06-20
 tag: "PhilosophyMeaning"
 reread: "yes"
-rating: "4"
+rating: "2"
 num: "507"
 update: "done"
 image: "/assets/new/the-age-of-guilt.jpg"
