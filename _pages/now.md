@@ -17,16 +17,16 @@ read: 46
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-06-20
+last_modified_at: 2025-06-23
 published: true
 #
 # 1
-booktitle1: "The Age of Guilt"
-bookyear1: 2024
-author1: "Mark Edmundson"
-sayfa1: 198
+booktitle1: "Notes on a Nervous Planet"
+bookyear1: 2022
+author1: "Matt Haig"
+sayfa1: 320
 format1: reading as a book
-pageread1: 198
+pageread1: 1
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
