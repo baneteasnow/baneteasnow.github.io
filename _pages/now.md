@@ -13,18 +13,18 @@
 # 3 = book
 #
 #
-read: 46
+read: 47
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-06-23
+last_modified_at: 2025-06-24
 published: true
 #
 # 1
-booktitle1: "Notes on a Nervous Planet"
-bookyear1: 2022
+booktitle1: "Reasons to Stay Alive"
+bookyear1: 2023
 author1: "Matt Haig"
-sayfa1: 320
+sayfa1: 264
 format1: reading as a book
 pageread1: 1
 # 2
