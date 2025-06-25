@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 47
+read: 48
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-06-24
+last_modified_at: 2025-06-25
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear1: 2023
 author1: "Matt Haig"
 sayfa1: 264
 format1: reading as a book
-pageread1: 1
+pageread1: 264
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
