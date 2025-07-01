@@ -16,7 +16,7 @@ posted: 2025-07-01
 tag: "SocietyCulture"
 reread: "yes"
 rating: "4"
-num: "509"
+num: "510"
 update: "done"
 image: "/assets/new/post-truth.jpg"
 ---
