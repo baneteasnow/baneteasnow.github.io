@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 49
+read: 50
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-01
+last_modified_at: 2025-07-02
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear1: 2016
 author1: "Rosalind Wiseman"
 sayfa1: 520
 format1: reading as a book
-pageread1: 1
+pageread1: 520
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
