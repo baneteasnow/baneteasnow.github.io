@@ -16,7 +16,7 @@ posted: 2025-06-25
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
-num: "508"
+num: "509"
 update: "done"
 image: "/assets/new/reasons-to-stay-alive.jpg"
 ---

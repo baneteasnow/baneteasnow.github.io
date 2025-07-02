@@ -16,7 +16,7 @@ posted: 2025-06-24
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
-num: "507"
+num: "508"
 update: "done"
 image: "/assets/new/notes-on-a-nervous-planet.jpg"
 ---
