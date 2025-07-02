@@ -23,7 +23,7 @@ published: true
 # 1
 booktitle1: "Queen Bees and Wannabes"
 bookyear1: 2016
-author1: "Matt Haig"
+author1: "Rosalind Wiseman"
 sayfa1: 520
 format1: reading as a book
 pageread1: 1
