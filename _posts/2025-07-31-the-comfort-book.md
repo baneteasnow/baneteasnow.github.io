@@ -3,11 +3,11 @@
 layout: post
 category: book
 title: "The Comfort Book | Matt Haig (Kitap)"
-kitap: "A Year to Change Your Mind - Ideas from the Therapy Room to Help You Live Better"
-tr: "Bugün Yeniden Başlıyorsun - Terapi Odasından Tavsiyeler"
+kitap: "The Comfort Book"
+tr: "Rahatlama Kitabı - Suyun Üstünde Kalmamı Sağlayan Düşünceler"
 yazar: "Matt Haig"
-yil: "2025"
-sayfa: "256"
+yil: "2022"
+sayfa: "272"
 goodreads: "https://www.goodreads.com/book/show/55506579-the-comfort-book"
 description: ""
 eng: ""

@@ -13,20 +13,20 @@
 # 3 = book
 #
 #
-read: 50
+read: 51
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-02
+last_modified_at: 2025-07-03
 published: true
 #
 # 1
-booktitle1: "Queen Bees and Wannabes"
-bookyear1: 2016
-author1: "Rosalind Wiseman"
-sayfa1: 520
+booktitle1: "The Comfort Book"
+bookyear1: 2022
+author1: "Matt Haig"
+sayfa1: 272
 format1: reading as a book
-pageread1: 520
+pageread1: 1
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
