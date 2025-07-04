@@ -15,7 +15,7 @@ published: true
 posted: 2025-07-04
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "4"
+rating: "3"
 num: "512"
 update: "done"
 image: "/assets/new/the-comfort-book.jpg"
