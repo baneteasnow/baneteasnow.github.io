@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/55506579-the-comfort-book"
 description: "Rahatlama Kitabı, zor zamanlarda hayata tutunmaya çalışanlara küçük ama etkili hatırlatmalar sunan bir toparlanma ve sakinleşme defteri gibi okunuyor."
 eng: "The Comfort Book reads like a gentle notebook of reminders—small but meaningful reflections for those trying to hold on during hard times."
 last_modified_at: 2025-07-04
-published: false
+published: true
 posted: 2025-07-04
 tag: "PsychologyMentalLife"
 reread: "no"
