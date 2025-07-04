@@ -21,12 +21,12 @@ last_modified_at: 2025-07-04
 published: true
 #
 # 1
-booktitle1: "The Comfort Book"
-bookyear1: 2022
-author1: "Matt Haig"
-sayfa1: 272
+booktitle1: "The Collected Schizophrenias"
+bookyear1: 2021
+author1: "Esmé Weijun Wang"
+sayfa1: 222
 format1: reading as a book
-pageread1: 272
+pageread1: 1
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
