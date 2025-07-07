@@ -21,10 +21,10 @@ last_modified_at: 2025-07-07
 published: true
 #
 # 1
-booktitle1: "The Collected Schizophrenias"
-bookyear1: 2021
-author1: "Esmé Weijun Wang"
-sayfa1: 222
+booktitle1: "The Premonition"
+bookyear1: 2023
+author1: "Michael Lewis"
+sayfa1: 408
 format1: reading as a book
 pageread1: 1
 # 2

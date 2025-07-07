@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "The Premonition| Michael Lewis (Kitap)"
+title: "The Premonition | Michael Lewis (Kitap)"
 kitap: "The Premonition - A Pandemic Story"
 tr: "Önsezi - Bir Pandemi Öyküsü"
 yazar: "Michael Lewis"
