@@ -17,7 +17,7 @@ read: 53
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-07
+last_modified_at: 2025-07-14
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear1: 2023
 author1: "Michael Lewis"
 sayfa1: 408
 format1: reading as a book
-pageread1: 1
+pageread1: 100
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
