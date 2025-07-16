@@ -13,20 +13,20 @@
 # 3 = book
 #
 #
-read: 53
+read: 54
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-14
+last_modified_at: 2025-07-16
 published: true
 #
 # 1
-booktitle1: "The Premonition"
-bookyear1: 2023
-author1: "Michael Lewis"
-sayfa1: 408
+booktitle1: "The Center Cannot Hold"
+bookyear1: 2022
+author1: "Elyn R. Saks"
+sayfa1: 416
 format1: reading as a book
-pageread1: 100
+pageread1: 1
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019
