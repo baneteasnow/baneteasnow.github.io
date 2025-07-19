@@ -13,20 +13,20 @@
 # 3 = book
 #
 #
-read: 54
+read: 55
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-18
+last_modified_at: 2025-07-19
 published: true
 #
 # 1
-booktitle1: "The Center Cannot Hold"
-bookyear1: 2022
-author1: "Elyn R. Saks"
-sayfa1: 416
+booktitle1: "What My Bones Know"
+bookyear1: 2025
+author1: "Stephanie Foo"
+sayfa1: 400
 format1: reading as a book
-pageread1: 214
+pageread1: 1
 # 2
 booktitle2: "Rezonans Kanunu"
 bookyear2: 2019

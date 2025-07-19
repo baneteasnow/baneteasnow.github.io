@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "2"
 num: "513"
-update: "tobeupdated"
+update: "done"
 image: "/assets/new/the-collected-schizophrenias.jpg"
 ---
 
