@@ -13,7 +13,7 @@ eng: "The X and Y of Buy by Elizabeth Pace explores how the differences in male 
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-07-29
-tag: ""
+tag: "ConsumerMarketing"
 reread: "no"
 rating: "4"
 num: "64"

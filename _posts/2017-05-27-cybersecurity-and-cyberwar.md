@@ -13,7 +13,7 @@ eng: "Cybersecurity and Cyberwar explores the dangers of the internet, cyber cri
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-05-27
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "57"

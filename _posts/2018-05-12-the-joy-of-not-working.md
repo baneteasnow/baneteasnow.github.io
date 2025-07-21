@@ -13,7 +13,7 @@ eng: "The Joy of Not Working by Ernie J. Zelinski is a thoughtful and cheerful g
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-05-12
-tag: ""
+tag: "WorkCareer"
 reread: "no"
 rating: "4"
 num: "94"

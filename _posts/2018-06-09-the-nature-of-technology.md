@@ -13,7 +13,7 @@ eng: "Teknolojinin Doğası, teknolojilerin mevcut teknolojilerin birleşimiyle 
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-06-09
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "98"

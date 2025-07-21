@@ -13,7 +13,7 @@ eng: "The Future by Al Gore offers a wide-ranging vision of the six major forces
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-09-30
-tag: ""
+tag: "HistoryPoliticalThought"
 reread: "yes"
 rating: "4"
 num: "70"

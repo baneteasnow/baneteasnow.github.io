@@ -13,7 +13,7 @@ eng: "Hackers & Painters by Paul Graham is a thought-provoking book that explore
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-08-12
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "65"

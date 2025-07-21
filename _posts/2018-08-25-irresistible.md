@@ -13,7 +13,7 @@ eng: "Irresistible explores how modern technologies are deliberately designed to
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-08-25
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "107"

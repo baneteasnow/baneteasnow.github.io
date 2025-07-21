@@ -13,7 +13,7 @@ eng: "Happy as a Dane by Malene Rydahl explores Denmark’s success in global ha
 last_modified_at: 2025-03-11
 published: true
 posted: 2017-07-22
-tag: ""
+tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "63"

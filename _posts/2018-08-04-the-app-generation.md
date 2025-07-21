@@ -13,7 +13,7 @@ eng: "The App Generation is a thought-provoking exploration of how digital apps 
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-08-04
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "105"

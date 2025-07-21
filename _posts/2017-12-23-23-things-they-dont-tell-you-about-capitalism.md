@@ -13,7 +13,7 @@ eng: "23 Things They Don’t Tell You About Capitalism by Ha-Joon Chang challeng
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-12-23
-tag: ""
+tag: "BusinessEconomics"
 reread: "no"
 rating: "4"
 num: "80"

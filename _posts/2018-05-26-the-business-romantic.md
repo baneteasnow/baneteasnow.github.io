@@ -13,7 +13,7 @@ eng: "The Business Romantic explores how mystery, emotion, and meaning can trans
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-05-26
-tag: ""
+tag: "CreativityExpression"
 reread: "no"
 rating: "3"
 num: "96"

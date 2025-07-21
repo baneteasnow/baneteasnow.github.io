@@ -13,7 +13,7 @@ eng: "Timothy A. Pychyl’s Procrastination reveals, with clarity and scientific
 published: true
 last_modified_at: 2025-03-22
 posted: 2018-03-24
-tag: ""
+tag: "PersonalGrowthProductivity"
 reread: "yes"
 rating: "5"
 num: "87"

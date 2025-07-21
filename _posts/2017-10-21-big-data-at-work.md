@@ -13,7 +13,7 @@ eng: "Big Data is a comprehensive guide that explains what big data is, how it c
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-10-21
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "4"
 num: "73"

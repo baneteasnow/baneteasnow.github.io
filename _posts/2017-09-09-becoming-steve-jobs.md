@@ -13,7 +13,7 @@ eng: "Becoming Steve Jobs by Brent Schlender and Rick Tetzeli is an in-depth bio
 published: true
 last_modified_at: 2025-03-11
 posted: 2017-09-09
-tag: ""
+tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "68"

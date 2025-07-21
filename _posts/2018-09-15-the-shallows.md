@@ -13,7 +13,7 @@ eng: "The Shallows is a compelling exploration of how the internet is reshaping 
 last_modified_at: 2025-03-25
 published: true
 posted: 2018-09-15
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "110"

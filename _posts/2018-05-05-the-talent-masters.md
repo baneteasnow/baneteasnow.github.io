@@ -13,7 +13,7 @@ eng: "The Talent Masters explains how companies that prioritize identifying and 
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-05-05
-tag: ""
+tag: "WorkCareer"
 reread: "no"
 rating: "3"
 num: "93"

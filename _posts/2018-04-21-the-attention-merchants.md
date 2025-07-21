@@ -12,7 +12,7 @@ description: "Tim Wu’nun Dikkat Tacirleri kitabı, dikkatimizin nasıl değerl
 published: true
 last_modified_at: 2023-01-14
 posted: 2018-04-21
-tag: ""
+tag: "ConsumerMarketing"
 reread: "yes"
 rating: "5"
 num: "91"

@@ -13,7 +13,7 @@ eng: "FinnishED Leadership reveals how a child-centered approach, trust in teach
 published: true
 last_modified_at: 2025-03-29
 posted: 2018-10-13
-tag: ""
+tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "113"

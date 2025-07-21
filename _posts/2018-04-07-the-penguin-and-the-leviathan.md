@@ -13,7 +13,7 @@ eng: "In The Penguin and the Leviathan, Yochai Benkler argues that human nature 
 last_modified_at: 2025-03-23
 published: true
 posted: 2018-04-07
-tag: ""
+tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "89"

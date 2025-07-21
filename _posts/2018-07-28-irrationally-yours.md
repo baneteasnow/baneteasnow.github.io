@@ -13,7 +13,7 @@ eng: "Irrationally Yours is a witty and thought-provoking collection in which Da
 published: true
 last_modified_at: 2025-03-24
 posted: 2018-07-28
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "104"

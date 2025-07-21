@@ -13,7 +13,7 @@ eng: "The Age of Absurdity explores why modern abundance often leads to restless
 published: true
 last_modified_at: 2025-03-29
 posted: 2018-10-20
-tag: ""
+tag: "PhilosophyMeaning"
 reread: "yes"
 rating: "5"
 num: "114"
@@ -21,7 +21,7 @@ update: "done"
 image: "/assets/old/the-age-of-absurdity.jpg"
 ---
 
-Michael Foley’in Saçmalıklar Çağı (The Age of Absurdity) adlı kitabı, günümüz modern yaşamının bireyi nasıl bir yalnızlık, tatminsizlik ve kafa karışıklığına sürüklediğini hem ciddi hem de ironik bir dille ele alıyor. Kitap, mutluluğun neden bu kadar ulaşılmaz hale geldiğini sorgularken, aslında elimizde çok fazla imkân varken neden bu kadar mutsuz olduğumuzu anlamaya çalışıyor. Foley, tüm kitabı boyunca bireyin mutluluğa dair beklentilerini, bu beklentileri şekillendiren kültürel dinamikleri ve nihayetinde tüm bu sürecin neden kendi içinde çelişkilerle dolu olduğunu detaylı bir şekilde inceliyor.
+Michael Foley’in Saçmalıklar Çağı adlı kitabı, günümüz modern yaşamının bireyi nasıl bir yalnızlık, tatminsizlik ve kafa karışıklığına sürüklediğini hem ciddi hem de ironik bir dille ele alıyor. Kitap, mutluluğun neden bu kadar ulaşılmaz hale geldiğini sorgularken, aslında elimizde çok fazla imkân varken neden bu kadar mutsuz olduğumuzu anlamaya çalışıyor. Foley, tüm kitabı boyunca bireyin mutluluğa dair beklentilerini, bu beklentileri şekillendiren kültürel dinamikleri ve nihayetinde tüm bu sürecin neden kendi içinde çelişkilerle dolu olduğunu detaylı bir şekilde inceliyor.
 
 Yazarın temel tezlerinden biri şu: Mutluluğu modern dünyanın sunduğu bollukta aradıkça, o bolluk daha da yorucu ve anlamsız bir hale geliyor. Oysa pek çok kişi bunun farkında bile değil. Tıpkı kitapların, dizilerin, seyahatlerin, sosyal medya içeriklerinin sınırsızlığı gibi, “daha fazlasına ulaşma” fikri de aslında bireyi sürekli bir yetersizlik hissine sürüklüyor. Foley bu durumu oldukça ironik biçimde ele alıyor: En konforlu çağda yaşıyoruz ama en rahatsızız. En fazla seçeneğe sahibiz ama karar veremiyoruz. Her şeye erişimimiz var ama hiçbir şeyden memnun değiliz.
 
