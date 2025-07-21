@@ -39,16 +39,10 @@ pageread2: 85
 pagereadsaat2: 0
 pagereaddakika2: 57
 # 3
-<<<<<<< HEAD
 booktitle3: "Coffee Self-Talk"
 bookyear3: 2023
 author3: "Kristen Helmstetter"
 sayfa3: 232
-=======
-booktitle3: "Why Has Nobody Told Me This Before?"bookyear3: 2022
-author3: "Julie Smith"
-sayfa3: 328
->>>>>>> c0510fae1df77ee40c427c4a9a2e3dac00a8f17c
 format3: reading as a book
 pageread3: 1
 # 4
