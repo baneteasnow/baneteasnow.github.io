@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 55
+read: 56
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-20
+last_modified_at: 2025-07-21
 published: true
 #
 # 1
@@ -39,26 +39,19 @@ pageread2: 22
 pagereadsaat2: 0
 pagereaddakika2: 30
 # 3
-booktitle3: "Why Has Nobody Told Me This Before?"
-bookyear3: 2022
-author3: "Julie Smith"
-sayfa3: 328
+booktitle3: "Coffee Self-Talk"
+bookyear3: 2023
+author3: "Kristen Helmstetter"
+sayfa3: 232
 format3: reading as a book
-pageread3: 97
+pageread3: 1
 # 4
-booktitle4: "Coffee Self-Talk"
+booktitle4: "The Mountain Is You"
 bookyear4: 2023
-author4: "Kristen Helmstetter"
+author4: "Brianna Wiest"
 sayfa4: 232
 format4: reading as a book
 pageread4: 1
-# 5
-booktitle5: "The Mountain Is You"
-bookyear5: 2023
-author5: "Brianna Wiest"
-sayfa5: 232
-format5: reading as a book
-pageread5: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -164,30 +157,6 @@ _by_ {{ page.author4 }}
   <br />
   <div style="clear: both"></div>
 
-⁜ {{ page.read | plus: 5 }}
-
-{{ page.booktitle5 }} ({{ page.bookyear5 }})  
-_by_ {{ page.author5 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa5 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread5 }}/{{ page.sayfa5 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 
 <div style="clear: both"></div>
