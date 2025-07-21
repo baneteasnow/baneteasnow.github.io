@@ -17,7 +17,7 @@ read: 55
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-19
+last_modified_at: 2025-07-20
 published: true
 #
 # 1
@@ -37,14 +37,14 @@ sayfa2: 285
 format2: listening as an audiobook
 pageread2: 22
 pagereadsaat2: 0
-pagereaddakika2: 22
+pagereaddakika2: 30
 # 3
 booktitle3: "Why Has Nobody Told Me This Before?"
 bookyear3: 2022
 author3: "Julie Smith"
 sayfa3: 328
 format3: reading as a book
-pageread3: 1
+pageread3: 97
 # 4
 booktitle4: "Coffee Self-Talk"
 bookyear4: 2023
