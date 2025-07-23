@@ -3,6 +3,7 @@
  * Copyright 2015-2018, Christian Fei
  * Licensed under the MIT License.
  */
+/*
 !(function () {
 	"use strict"
 	var f = {
@@ -275,4 +276,263 @@
 			)
 		}
 	})(window)
+})()
+*/
+
+/*!
+ * Simple-Jekyll-Search v1.7.2 - Türkçe karakter uyumlu versiyon 230725
+ */
+
+!(function () {
+	"use strict"
+
+	// 🌟 Türkçe normalize fonksiyonu
+	function normalizeTurkish(str) {
+		return str
+			.toLowerCase()
+			.replace(/ç/g, "c")
+			.replace(/ğ/g, "g")
+			.replace(/ı/g, "i")
+			.replace(/ö/g, "o")
+			.replace(/ş/g, "s")
+			.replace(/ü/g, "u")
+	}
+
+	var f = {
+		load: function (t, e) {
+			var n = window.XMLHttpRequest
+				? new XMLHttpRequest()
+				: new ActiveXObject("Microsoft.XMLHTTP")
+			n.open("GET", t, true)
+			n.onreadystatechange = function () {
+				if (4 === n.readyState && 200 === n.status) {
+					try {
+						e(null, JSON.parse(n.responseText))
+					} catch (t) {
+						e(t, null)
+					}
+				}
+			}
+			n.send()
+		},
+	}
+
+	var fuzzySearch = {
+		matches: function (query, text) {
+			var eLen = text.length
+			var qLen = query.length
+			if (eLen < qLen) return false
+			if (qLen === eLen) return query === text
+
+			query = normalizeTurkish(query)
+			text = normalizeTurkish(text)
+
+			outer: for (var i = 0, j = 0; i < qLen; i++) {
+				var ch = query.charCodeAt(i)
+				while (j < eLen) {
+					if (text.charCodeAt(j++) === ch) continue outer
+				}
+				return false
+			}
+			return true
+		},
+	}
+
+	var strictSearch = {
+		matches: function (query, text) {
+			if (!query || !text) return false
+			query = normalizeTurkish(query.trim().toLowerCase())
+			text = normalizeTurkish(text.trim().toLowerCase())
+
+			return query.split(" ").every(function (q) {
+				return text.indexOf(q) !== -1
+			})
+		},
+	}
+
+	var dataStore = {
+		data: [],
+		options: {
+			fuzzy: false,
+			limit: 10,
+			searchStrategy: strictSearch,
+			sort: function () {
+				return 0
+			},
+			exclude: [],
+		},
+
+		put: function (item) {
+			if (typeof item === "object") {
+				this.data.push(item)
+				return this.data
+			}
+		},
+
+		clear: function () {
+			this.data = []
+			return this.data
+		},
+
+		search: function (query) {
+			if (!query) return []
+			var results = []
+
+			for (
+				var i = 0;
+				i < this.data.length && results.length < this.options.limit;
+				i++
+			) {
+				var match = searchInObject(
+					this.data[i],
+					query,
+					this.options.searchStrategy,
+					this.options.exclude
+				)
+				if (match) results.push(match)
+			}
+
+			return results.sort(this.options.sort)
+		},
+
+		setOptions: function (opts) {
+			this.options = {
+				fuzzy: opts.fuzzy || false,
+				limit: opts.limit || 10,
+				searchStrategy: opts.fuzzy ? fuzzySearch : strictSearch,
+				sort:
+					opts.sort ||
+					function () {
+						return 0
+					},
+				exclude: opts.exclude || [],
+			}
+		},
+	}
+
+	function searchInObject(obj, query, strategy, exclude) {
+		for (var key in obj) {
+			if (exclude.includes(key)) continue
+			var value = String(obj[key])
+			if (strategy.matches(query, value)) {
+				return obj
+			}
+		}
+		return null
+	}
+
+	var templater = {
+		template: "",
+		pattern: /\{(.*?)\}/g,
+		middleware: function () {},
+
+		compile: function (data) {
+			return this.template.replace(this.pattern, function (match, key) {
+				var value = data[key]
+				var processed = templater.middleware(key, value, templater.template)
+				return typeof processed !== "undefined" ? processed : value || match
+			})
+		},
+
+		setOptions: function (opts) {
+			this.template = opts.template || this.template
+			this.pattern = opts.pattern || this.pattern
+			if (typeof opts.middleware === "function") {
+				this.middleware = opts.middleware
+			}
+		},
+	}
+
+	var utils = {
+		merge: function (base, extra) {
+			var merged = {}
+			for (var key in base) merged[key] = base[key]
+			for (var key in extra) merged[key] = extra[key]
+			return merged
+		},
+
+		isJSON: function (obj) {
+			try {
+				return !!(obj instanceof Object && JSON.parse(JSON.stringify(obj)))
+			} catch (e) {
+				return false
+			}
+		},
+	}
+
+	window.SimpleJekyllSearch = function (opts) {
+		var defaults = {
+			searchInput: null,
+			resultsContainer: null,
+			json: [],
+			success: function () {},
+			searchResultTemplate:
+				'<li><a href="{url}" title="{desc}">{title}</a></li>',
+			templateMiddleware: function () {},
+			sortMiddleware: function () {
+				return 0
+			},
+			noResultsText: "No results found",
+			limit: 10,
+			fuzzy: false,
+			exclude: [],
+		}
+
+		var required = ["searchInput", "resultsContainer", "json"]
+		required.forEach(function (key) {
+			if (!opts[key]) throw new Error("Missing required option: " + key)
+		})
+
+		var config = utils.merge(defaults, opts)
+		templater.setOptions({
+			template: config.searchResultTemplate,
+			middleware: config.templateMiddleware,
+		})
+
+		dataStore.setOptions({
+			fuzzy: config.fuzzy,
+			limit: config.limit,
+			sort: config.sortMiddleware,
+			exclude: config.exclude,
+		})
+
+		function handleResults(results, query) {
+			config.resultsContainer.innerHTML = ""
+			if (results.length === 0) {
+				config.resultsContainer.innerHTML = config.noResultsText
+				return
+			}
+			results.forEach(function (result) {
+				result.query = query
+				config.resultsContainer.innerHTML += templater.compile(result)
+			})
+		}
+
+		function searchHandler(query) {
+			if (query.length === 0) {
+				config.resultsContainer.innerHTML = ""
+				return
+			}
+			var results = dataStore.search(query)
+			handleResults(results, query)
+		}
+
+		config.searchInput.addEventListener("keyup", function (e) {
+			if ([13, 16, 20, 37, 38, 39, 40, 91].includes(e.which)) return
+			searchHandler(e.target.value)
+		})
+
+		if (utils.isJSON(config.json)) {
+			config.success(config.json)
+			config.json.forEach(dataStore.put, dataStore)
+		} else {
+			f.load(config.json, function (err, data) {
+				if (err) throw new Error("failed to load JSON: " + config.json)
+				config.success(data)
+				data.forEach(dataStore.put, dataStore)
+			})
+		}
+
+		return { search: searchHandler }
+	}
 })()
