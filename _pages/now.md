@@ -35,9 +35,9 @@ suresaat2: 4
 suredakika2: 45
 sayfa2: 206
 format2: listening as an audiobook
-pageread2: 127
-pagereadsaat2: 3
-pagereaddakika2: 24
+pageread2: 206
+pagereadsaat2: 4
+pagereaddakika2: 45
 # 3
 booktitle3: "I Want to Die but I Still Want to Eat Tteokbokki"
 bookyear3: 2025
