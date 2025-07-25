@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 57
+read: 58
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-24
+last_modified_at: 2025-07-25
 published: true
 #
 # 1
@@ -39,10 +39,10 @@ pageread2: 85
 pagereadsaat2: 0
 pagereaddakika2: 57
 # 3
-booktitle3: "Coffee Self-Talk"
-bookyear3: 2023
-author3: "Kristen Helmstetter"
-sayfa3: 232
+booktitle3: "I Want to Die but I Still Want to Eat Tteokbokki"
+bookyear3: 2025
+author3: "Baek Sehee"
+sayfa3: 152
 format3: reading as a book
 pageread3: 1
 ---
