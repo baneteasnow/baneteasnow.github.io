@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 59
+read: 60
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-26
+last_modified_at: 2025-07-27
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear1: 2023
 author1: "Brianna Wiest"
 sayfa1: 232
 format1: reading as a book
-pageread1: 1
+pageread1: 232
 # 2
 booktitle2: "I Want to Die but I Still Want to Eat Tteokbokki"
 bookyear2: 2025
