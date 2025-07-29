@@ -17,16 +17,16 @@ read: 60
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-27
+last_modified_at: 2025-07-29
 published: true
 #
 # 1
-booktitle1: "The Mountain Is You"
-bookyear1: 2023
-author1: "Brianna Wiest"
-sayfa1: 232
+booktitle1: "Running on Empty"
+bookyear1: 2019
+author1: "Jonice Webb"
+sayfa1: 308
 format1: reading as a book
-pageread1: 232
+pageread1: 1
 # 2
 booktitle2: "I Want to Die but I Still Want to Eat Tteokbokki"
 bookyear2: 2025
