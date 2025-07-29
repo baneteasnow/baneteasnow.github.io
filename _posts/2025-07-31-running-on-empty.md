@@ -2,10 +2,10 @@
 # to be updated
 layout: post
 category: book
-title: "Running on Empty | Jonice Webb (Kitap)"
+title: "Running on Empty | Jonice Webb, Christine Musello (Kitap)"
 kitap: "Running on Empty: Overcome Your Childhood Emotional Neglect"
 tr: "Çocuklukta İhmalin İzi - Boşluk Hissi"
-yazar: "Jonice Webb"
+yazar: "Jonice Webb, Christine Musello"
 yil: "2019"
 sayfa: "308"
 goodreads: "https://www.goodreads.com/book/show/15812553-running-on-empty"
