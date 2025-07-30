@@ -13,27 +13,20 @@
 # 3 = book
 #
 #
-read: 60
+read: 62
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-29
+last_modified_at: 2025-07-31
 published: true
 #
 # 1
-booktitle1: "Running on Empty"
-bookyear1: 2019
-author1: "Jonice Webb, Christine Musello"
-sayfa1: 308
+booktitle1: "I Want to Die but I Still Want to Eat Tteokbokki"
+bookyear1: 2025
+author1: "Baek Sehee"
+sayfa1: 152
 format1: reading as a book
-pageread1: 308
-# 2
-booktitle2: "I Want to Die but I Still Want to Eat Tteokbokki"
-bookyear2: 2025
-author2: "Baek Sehee"
-sayfa2: 152
-format2: reading as a book
-pageread2: 1
+pageread1: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -59,31 +52,6 @@ _by_ {{ page.author1 }}
     <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread1 }}/{{ page.sayfa1 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 2 }}
-
-{{ page.booktitle2 }} ({{ page.bookyear2 }})  
-_by_ {{ page.author2 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format2 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa2 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread2 }}/{{ page.sayfa2 }}
       </span>
   </div>
 
