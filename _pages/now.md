@@ -23,10 +23,10 @@ published: true
 # 1
 booktitle1: "Running on Empty"
 bookyear1: 2019
-author1: "Jonice Webb"
+author1: "Jonice Webb, Christine Musello"
 sayfa1: 308
 format1: reading as a book
-pageread1: 1
+pageread1: 308
 # 2
 booktitle2: "I Want to Die but I Still Want to Eat Tteokbokki"
 bookyear2: 2025
