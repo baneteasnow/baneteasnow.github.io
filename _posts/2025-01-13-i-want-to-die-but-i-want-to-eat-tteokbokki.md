@@ -14,8 +14,8 @@ last_modified_at: 2025-02-23
 published: true
 posted: 2025-01-12
 tag: "PsychologyMentalLife"
-reread: "no"
-rating: "3"
+reread: "yes"
+rating: "4"
 num: "464"
 update: "done"
 image: "/assets/new/i-want-to-die-but-i-want-to-eat-tteokbokki.jpg"
