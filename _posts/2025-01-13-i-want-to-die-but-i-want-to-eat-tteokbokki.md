@@ -13,7 +13,7 @@ eng: "I Want to Die But I Want to Eat Tteokbokki is a raw and intimate explorati
 last_modified_at: 2025-02-23
 published: true
 posted: 2025-01-12
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: "464"
