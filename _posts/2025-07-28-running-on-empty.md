@@ -10,9 +10,9 @@ sayfa: "308"
 goodreads: "https://www.goodreads.com/book/show/15812553-running-on-empty"
 description: "Çocuklukta İhmalin İzi, duygusal ihmalin görünmeyen etkilerini tanımlayarak, yetişkinlikteki boşluk hissinin kökenini anlamaya ve duygusal ihtiyaçları yeniden tanımaya yardımcı oluyor."
 eng: "Running on Empty identifies the subtle but lasting effects of childhood emotional neglect and guides readers toward recognizing their emotional needs and building a more connected, authentic inner life."
-last_modified_at: 2025-07-30
+last_modified_at: 2025-07-28
 published: true
-posted: 2025-07-30
+posted: 2025-07-28
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
