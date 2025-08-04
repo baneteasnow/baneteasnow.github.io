@@ -17,7 +17,7 @@ read: 63
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-07-31
+last_modified_at: 2025-08-04
 published: true
 #
 # 1
@@ -27,6 +27,20 @@ author1: "Christopher Lane"
 sayfa1: 312
 format1: reading as a book
 pageread1: 1
+# 2
+booktitle2: "The Man Who Couldn't Stop"
+bookyear2: 2018
+author2: "David Adam"
+sayfa2: 312
+format2: reading as a book
+pageread2: 1
+# 3
+booktitle3: "The Man Who Mistook His Wife for a Hat and Other Clinical Tales"
+bookyear3: 2020
+author3: "Oliver Sacks"
+sayfa3: 264
+format3: reading as a book
+pageread3: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -52,6 +66,56 @@ _by_ {{ page.author1 }}
     <progress title="{{ page.pageread1 }}/{{ page.sayfa1 }}" value="{{ page.pageread1 }}" max="{{ page.sayfa1 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread1 }}/{{ page.sayfa1 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 2 }}
+
+{{ page.booktitle2 }} ({{ page.bookyear2 }})  
+_by_ {{ page.author2 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format2 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa2 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread2 | times: 100 | divided_by: page.sayfa2 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread2 }}/{{ page.sayfa2 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 3 }}
+
+{{ page.booktitle3 }} ({{ page.bookyear3 }})  
+_by_ {{ page.author3 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa3 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread3 }}/{{ page.sayfa3 }}
       </span>
   </div>
 
