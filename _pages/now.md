@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 63
+read: 64
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-08-04
+last_modified_at: 2025-08-06
 published: true
 #
 # 1
@@ -33,7 +33,7 @@ bookyear2: 2018
 author2: "David Adam"
 sayfa2: 312
 format2: reading as a book
-pageread2: 1
+pageread2: 312
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
