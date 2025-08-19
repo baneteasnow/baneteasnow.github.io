@@ -21,12 +21,12 @@ last_modified_at: 2025-08-19
 published: true
 #
 # 1
-booktitle1: "Shyness"
-bookyear1: 2022
-author1: "Christopher Lane"
-sayfa1: 312
+booktitle1: "Look Again"
+bookyear1: 2025
+author1: "Tali Sharot, Cass R. Sunstein"
+sayfa1: 252
 format1: reading as a book
-pageread1: 312
+pageread1: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
