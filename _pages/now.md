@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 66
+read: 67
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-08-16
+last_modified_at: 2025-08-19
 published: true
 #
 # 1
@@ -26,7 +26,7 @@ bookyear1: 2022
 author1: "Christopher Lane"
 sayfa1: 312
 format1: reading as a book
-pageread1: 1
+pageread1: 312
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
