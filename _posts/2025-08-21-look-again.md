@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
 num: "528"
-update: "tobeupdated"
+update: "done"
 image: "/assets/new/look-again.jpg"
 ---
 

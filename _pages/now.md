@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 68
+read: 69
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-08-21
+last_modified_at: 2025-08-22
 published: true
 #
 # 1
@@ -28,19 +28,12 @@ sayfa1: 168
 format1: reading as a book
 pageread1: 1
 # 2
-booktitle2: "Hinch Yourself Happy"
-bookyear2: 2020
-author2: "Mrs. Hinch (Sophie Hinchliffe)"
-sayfa2: 240
+booktitle2: "Ten Arguments for Deleting Your Social Media Accounts Right Now"
+bookyear2: 2022
+author2: "Jaron Lanier"
+sayfa2: 178
 format2: reading as a book
 pageread2: 1
-# 3
-booktitle3: "Ten Arguments for Deleting Your Social Media Accounts Right Now"
-bookyear3: 2022
-author3: "Jaron Lanier"
-sayfa3: 178
-format3: reading as a book
-pageread3: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -91,31 +84,6 @@ _by_ {{ page.author2 }}
     <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread2 }}/{{ page.sayfa2 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 3 }}
-
-{{ page.booktitle3 }} ({{ page.bookyear3 }})  
-_by_ {{ page.author3 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa3 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread3 }}/{{ page.sayfa3 }}
       </span>
   </div>
 
