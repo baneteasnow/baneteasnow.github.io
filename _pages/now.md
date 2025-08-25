@@ -13,27 +13,48 @@
 # 3 = book
 #
 #
-read: 69
+read: 72
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-08-22
+last_modified_at: 2025-08-25
 published: true
 #
 # 1
-booktitle1: "Giysiler Ne Anlatır?"
-bookyear1: 2020
-author1: "Seda Yılmaz"
-sayfa1: 168
+booktitle1: "Yalnız Yaşama Egzersizleri"
+bookyear1: 2006
+author1: "Banu Özdemir"
+sayfa1: 106
 format1: reading as a book
 pageread1: 1
 # 2
-booktitle2: "Ten Arguments for Deleting Your Social Media Accounts Right Now"
-bookyear2: 2022
-author2: "Jaron Lanier"
-sayfa2: 178
+booktitle2: "Modanın İktidarı"
+bookyear2: 2015
+author2: "Arzu Süzmen"
+sayfa2: 128
 format2: reading as a book
 pageread2: 1
+# 3
+booktitle3: "Bad Pharma"
+bookyear3: 2016
+author3: "Ben Goldacre"
+sayfa3: 464
+format3: reading as a book
+pageread3: 1
+# 4
+booktitle4: "30 Mumlu Pasta"
+bookyear4: 2004
+author4: "Banu Özdemir"
+sayfa4: 208
+format4: reading as a book
+pageread4: 1
+# 5
+booktitle5: "Moda Psikolojisi"
+bookyear5: 2025
+author5: "Rana Kutvan"
+sayfa5: 134
+format5: reading as a book
+pageread5: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -84,6 +105,81 @@ _by_ {{ page.author2 }}
     <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread2 }}/{{ page.sayfa2 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 3 }}
+
+{{ page.booktitle3 }} ({{ page.bookyear3 }})  
+_by_ {{ page.author3 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa3 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread3 }}/{{ page.sayfa3 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 4 }}
+
+{{ page.booktitle4 }} ({{ page.bookyear4 }})  
+_by_ {{ page.author4 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa4 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread4 }}/{{ page.sayfa4 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+_by_ {{ page.author5 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa5 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread5 }}/{{ page.sayfa5 }}
       </span>
   </div>
 
