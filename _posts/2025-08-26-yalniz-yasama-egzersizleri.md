@@ -1,15 +1,15 @@
 ---
 layout: post
 category: book
-title: "Yalnız Yaşama Egzersizleri | Banu Özdemir (Kitap)"
+title: "Yalnız Yaşama Egzersizleri | Bahar Öztürk (Kitap)"
 kitap: "Yalnız Yaşama Egzersizleri"
 tr: "-"
-yazar: "Banu Özdemir"
+yazar: "Bahar Öztürk"
 yil: "2006"
 sayfa: "106"
 goodreads: "https://www.goodreads.com/book/show/27425303-yaln-z-ya-ama-egzersizleri"
-description: "Banu Özdemir’in Yalnız Yaşama Egzersizleri kitabı, yalnızlığı bir yoksunluk değil, sessizliğe tahammül etmeyi, içsel gücü keşfetmeyi ve yaşamı yeniden kurmayı sağlayan bir deneyim olarak işliyor."
-eng: "Banu Özdemir’s alnız Yaşama Egzersizleri frames solitude not as a lack, but as a practice of endurance, inner strength, and the rebuilding of life."
+description: "Bahar Öztürk’in Yalnız Yaşama Egzersizleri kitabı, yalnızlığı bir yoksunluk değil, sessizliğe tahammül etmeyi, içsel gücü keşfetmeyi ve yaşamı yeniden kurmayı sağlayan bir deneyim olarak işliyor."
+eng: "Bahar Öztürk’s alnız Yaşama Egzersizleri frames solitude not as a lack, but as a practice of endurance, inner strength, and the rebuilding of life."
 last_modified_at: 2025-08-26
 published: true
 posted: 2025-08-26
@@ -17,13 +17,13 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "2"
 num: "533"
-update: "tobeupdated"
+update: "done"
 image: "/assets/new/yalniz-yasama-egzersizleri.jpg"
 ---
 
-Banu Özdemir’in Yalnız Yaşama Egzersizleri kitabı, yalnızlığı bir boşluk ya da eksiklikten çok, modern yaşamın ritminde sık sık karşılaştığımız bir hal olarak ele alıyor. Yazar, yalnızlığın sadece terk edilmekten ya da kayıptan kaynaklanmadığını, bazen de kalabalıklar içinde hissedilen görünmez bir duvar gibi deneyimlendiğini vurguluyor. Kitap boyunca bu duygu, insanın kendini yeniden kurabileceği bir alan olarak sunuluyor.
+Bahar Öztürk’in Yalnız Yaşama Egzersizleri kitabı, yalnızlığı bir boşluk ya da eksiklikten çok, modern yaşamın ritminde sık sık karşılaştığımız bir hal olarak ele alıyor. Yazar, yalnızlığın sadece terk edilmekten ya da kayıptan kaynaklanmadığını, bazen de kalabalıklar içinde hissedilen görünmez bir duvar gibi deneyimlendiğini vurguluyor. Kitap boyunca bu duygu, insanın kendini yeniden kurabileceği bir alan olarak sunuluyor.
 
-Özdemir, yalnızlık deneyimlerini “egzersiz” olarak adlandırıyor çünkü yalnız kalmak öğrenilen bir şey. Sessizliğe tahammül edebilmek, başkalarının onayına ihtiyaç duymadan zaman geçirmek, kendi kendine konuşmaların anlamını fark etmek… bunların hepsi kitabın işaret ettiği pratikler arasında. Bu noktada yazar, yalnızlığın bizi zayıflatan değil; dayanıklılığımızı sınayan ve geliştiren bir süreç olduğunun altını çiziyor.
+Öztürk, yalnızlık deneyimlerini “egzersiz” olarak adlandırıyor çünkü yalnız kalmak öğrenilen bir şey. Sessizliğe tahammül edebilmek, başkalarının onayına ihtiyaç duymadan zaman geçirmek, kendi kendine konuşmaların anlamını fark etmek… bunların hepsi kitabın işaret ettiği pratikler arasında. Bu noktada yazar, yalnızlığın bizi zayıflatan değil; dayanıklılığımızı sınayan ve geliştiren bir süreç olduğunun altını çiziyor.
 
 Kitapta dikkat çeken noktalardan biri, yalnızlığın toplumsal beklentilerle ilişkisi. Özdemir, toplumun sürekli iletişimde olmayı, sosyal çevreyle iç içe yaşamayı “normal” kabul ettiğini; buna ayak uyduramayan bireylerin ise eksik ya da sorunlu olarak damgalandığını söylüyor. Oysa yalnız kalabilmek, kendi ihtiyaçlarını gözetmek ve bağımsız kararlar alabilmek de en az dışa dönük olmak kadar insani ve değerli.
 
