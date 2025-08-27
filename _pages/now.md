@@ -28,19 +28,12 @@ sayfa1: 134
 format1: reading as a book
 pageread1: 1
 # 2
-booktitle2: "Modanın İktidarı"
-bookyear2: 2015
-author2: "Arzu Süzmen"
-sayfa2: 128
+booktitle2: "Bad Pharma"
+bookyear2: 2016
+author2: "Ben Goldacre"
+sayfa2: 464
 format2: reading as a book
 pageread2: 1
-# 3
-booktitle3: "Bad Pharma"
-bookyear3: 2016
-author3: "Ben Goldacre"
-sayfa3: 464
-format3: reading as a book
-pageread3: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -91,31 +84,6 @@ _by_ {{ page.author2 }}
     <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread2 }}/{{ page.sayfa2 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 3 }}
-
-{{ page.booktitle3 }} ({{ page.bookyear3 }})  
-_by_ {{ page.author3 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa3 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread3 }}/{{ page.sayfa3 }}
       </span>
   </div>
 
