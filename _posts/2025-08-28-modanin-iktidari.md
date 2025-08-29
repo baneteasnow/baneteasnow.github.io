@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/107376420-modanin-iktidari"
 description: "Modanın İktidarı, modayı yalnızca estetik bir alan değil, toplumsal düzeni ve kimlikleri şekillendiren güçlü bir iktidar mekanizması olarak ele alıyor."
 eng: "Modanın İktidarı frames fashion not merely as aesthetics, but as a powerful mechanism that shapes social order and identities."
 last_modified_at: 2025-08-28
-published: false
+published: true
 posted: 2025-08-28
 tag: "ConsumerMarketing"
 reread: "no"
