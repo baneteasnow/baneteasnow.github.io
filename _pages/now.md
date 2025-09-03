@@ -13,18 +13,18 @@
 # 3 = book
 #
 #
-read: 76
+read: 77
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-09-01
+last_modified_at: 2025-09-03
 published: true
 #
 # 1
-booktitle1: "Moda Psikolojisi"
-bookyear1: 2025
-author1: "Rana Kutvan"
-sayfa1: 134
+booktitle1: "Üzerime Giyecek Hiçbir Şeyim Yok!"
+bookyear1: 2020
+author1: "Elise Ricadat, Lydia Taieb"
+sayfa1: 184
 format1: reading as a book
 pageread1: 1
 # 2
@@ -41,13 +41,6 @@ author3: "Tim Marshall"
 sayfa3: 290
 format3: reading as a book
 pageread3: 1
-# 4
-booktitle4: "Üzerime Giyecek Hiçbir Şeyim Yok!"
-bookyear4: 2020
-author4: "Elise Ricadat, Lydia Taieb"
-sayfa4: 184
-format4: reading as a book
-pageread4: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -123,30 +116,6 @@ _by_ {{ page.author3 }}
     <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pageread3 }}/{{ page.sayfa3 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-  ⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle4 }} ({{ page.bookyear4 }})  
-_by_ {{ page.author4 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa4 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread4 }}/{{ page.sayfa4 }}
       </span>
   </div>
 

@@ -11,9 +11,9 @@ sayfa: "184"
 goodreads: "https://www.goodreads.com/book/show/25210111-zerime-giyecek-hi-bir-eyim-yok-giysi"
 description: ""
 eng: ""
-last_modified_at: 2025-08-31
+last_modified_at: 2025-09-30
 published: false
-posted: 2025-08-31
+posted: 2025-09-30
 tag: "ConsumerMarketing"
 reread: "no"
 rating: "3"

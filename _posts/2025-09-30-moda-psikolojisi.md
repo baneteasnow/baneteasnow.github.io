@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Moda Psikolojisi | Rana Kutvan (Kitap)"
@@ -11,14 +10,14 @@ sayfa: "134"
 goodreads: "https://www.goodreads.com/"
 description: ""
 eng: ""
-last_modified_at: 2025-08-31
-published: false
-posted: 2025-08-31
+last_modified_at: 2025-09-03
+published: true
+posted: 2025-09-03
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
-num: ""
-update: "tobeupdated"
+num: "537"
+update: "done"
 image: "/assets/new/moda-psikolojisi.jpg"
 ---
 
