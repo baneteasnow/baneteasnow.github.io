@@ -13,18 +13,18 @@
 # 3 = book
 #
 #
-read: 77
+read: 78
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-09-03
+last_modified_at: 2025-09-13
 published: true
 #
 # 1
-booktitle1: "Üzerime Giyecek Hiçbir Şeyim Yok!"
-bookyear1: 2020
-author1: "Elise Ricadat, Lydia Taieb"
-sayfa1: 184
+booktitle1: "Cogu Zarar Azi Karar - Dunyayi Kuculme Kurtaracak"
+bookyear1: 2021
+author1: "Jason Hickel"
+sayfa1: 304
 format1: reading as a book
 pageread1: 1
 # 2
