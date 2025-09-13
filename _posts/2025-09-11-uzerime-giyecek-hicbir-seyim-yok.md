@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Üzerime Giyecek Hiçbir Şeyim Yok! | Elise Ricadat, Lydia Taieb (Kitap)"
@@ -11,15 +10,13 @@ sayfa: "184"
 goodreads: "https://www.goodreads.com/book/show/25210111-zerime-giyecek-hi-bir-eyim-yok-giysi"
 description: ""
 eng: ""
-last_modified_at: 2025-09-30
+last_modified_at: 2025-09-11
 published: false
-posted: 2025-09-30
+posted: 2025-09-11
 tag: "ConsumerMarketing"
-reread: "no"
-rating: "3"
-num: ""
-update: "tobeupdated"
+reread: "yes"
+rating: "5"
+num: "538"
+update: "done"
 image: "/assets/new/uzerime-giyecek-hicbir-seyim-yok.jpg"
 ---
-
-to be updated
