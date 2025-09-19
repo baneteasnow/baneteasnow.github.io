@@ -13,34 +13,27 @@
 # 3 = book
 #
 #
-read: 78
+read: 79
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-09-13
+last_modified_at: 2025-09-19
 published: true
 #
 # 1
-booktitle1: "Cogu Zarar Azi Karar - Dunyayi Kuculme Kurtaracak"
-bookyear1: 2021
-author1: "Jason Hickel"
-sayfa1: 304
+booktitle1: "Attached"
+bookyear1: 2023
+author1: "Amir Levine, Rachel Heller"
+sayfa1: 240
 format1: reading as a book
-pageread1: 1
+pageread1: 27
 # 2
-booktitle2: "Attached"
-bookyear2: 2023
-author2: "Amir Levine, Rachel Heller"
-sayfa2: 240
+booktitle2: "Prisoners of Geography"
+bookyear2: 2018
+author2: "Tim Marshall"
+sayfa2: 290
 format2: reading as a book
 pageread2: 1
-# 3
-booktitle3: "Prisoners of Geography"
-bookyear3: 2018
-author3: "Tim Marshall"
-sayfa3: 290
-format3: reading as a book
-pageread3: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -97,31 +90,6 @@ _by_ {{ page.author2 }}
   <br />
   <div style="clear: both"></div>
 
-⁜ {{ page.read | plus: 3 }}
-
-{{ page.booktitle3 }} ({{ page.bookyear3 }})  
-_by_ {{ page.author3 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa3 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread3 }}/{{ page.sayfa3 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-  
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 
 <div style="clear: both"></div>
