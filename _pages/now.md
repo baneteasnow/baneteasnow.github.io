@@ -21,12 +21,12 @@ last_modified_at: 2025-09-20
 published: true
 #
 # 1
-booktitle1: "Attached"
-bookyear1: 2023
-author1: "Amir Levine, Rachel Heller"
-sayfa1: 240
+booktitle1: "More - A Memoir of Open Marriage"
+bookyear1: 2025
+author1: "Molly Roden Winter"
+sayfa1: 348
 format1: reading as a book
-pageread1: 27
+pageread1: 33
 # 2
 booktitle2: "Prisoners of Geography"
 bookyear2: 2018
