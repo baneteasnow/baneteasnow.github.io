@@ -18,7 +18,7 @@ reread: "no"
 rating: "2"
 num: "540"
 update: "tobeupdated"
-image: "/assets/new/more.jpg"
+image: "/assets/new/more-a-memoir.jpg"
 ---
 
 Molly Roden Winter’ın Çok adlı kitabı, evli ve çocuklu bir kadının açık ilişki deneyimi üzerinden hem kişisel özgürlük hem de bağlılık üzerine düşündüren bir otobiyografik çalışma. Winter, uzun yıllar süren evliliğinin ardından yaşadığı tatminsizlik hissini bastırmak yerine, kocasının bilgisi ve rızasıyla farklı ilişkiler yaşamaya başlıyor. Kitap, bu süreçte yaşanan heyecanı, çatışmaları, kıskançlıkları ve dönüştürücü keşifleri açıkça aktarıyor.
