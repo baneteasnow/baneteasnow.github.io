@@ -13,27 +13,20 @@
 # 3 = book
 #
 #
-read: 80
+read: 81
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-09-20
+last_modified_at: 2025-09-22
 published: true
 #
 # 1
-booktitle1: "More - A Memoir of Open Marriage"
-bookyear1: 2025
-author1: "Molly Roden Winter"
-sayfa1: 348
+booktitle1: "Prisoners of Geography"
+bookyear1: 2018
+author1: "Tim Marshall"
+sayfa1: 290
 format1: reading as a book
-pageread1: 33
-# 2
-booktitle2: "Prisoners of Geography"
-bookyear2: 2018
-author2: "Tim Marshall"
-sayfa2: 290
-format2: reading as a book
-pageread2: 1
+pageread1: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
