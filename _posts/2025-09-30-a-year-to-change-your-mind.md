@@ -11,9 +11,9 @@ sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/62955857-a-year-to-change-your-mind"
 description: ""
 eng: ""
-last_modified_at: 2025-08-31
+last_modified_at: 2025-09-30
 published: false
-posted: 2025-08-31
+posted: 2025-09-30
 tag: ""
 reread: "no"
 rating: "3"
