@@ -11,9 +11,9 @@ sayfa: "290"
 goodreads: "https://www.goodreads.com/book/show/25135194-prisoners-of-geography"
 description: ""
 eng: ""
-last_modified_at: 2025-09-30
+last_modified_at: 2025-10-31
 published: false
-posted: 2025-09-30
+posted: 2025-10-31
 tag: "HistoryPoliticalThought"
 reread: "no"
 rating: "3"
