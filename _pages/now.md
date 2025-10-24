@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 82
+read: 83
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-10-14
+last_modified_at: 2025-10-24
 published: true
 #
 # 1
@@ -40,7 +40,7 @@ bookyear3: 2020
 author3: "Bartlett Jamie"
 sayfa3: 296
 format3: reading as a book
-pageread3: 1
+pageread3: 296
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
