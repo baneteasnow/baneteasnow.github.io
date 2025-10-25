@@ -18,7 +18,7 @@ reread: "no"
 rating: "5"
 num: "537"
 update: "done"
-image: "/assets/new/moda-psikolojisi.jpg"
+image: "/assets/new/moda-psikolojisi-rena-kutvan.jpg"
 ---
 
 Rana Kutvan’ın Moda Psikolojisi kitabı, moda kavramını yalnızca “trendler” ve “tüketim” çerçevesinde değil, insan davranışlarının ve ruh halinin derinlikleri üzerinden ele alıyor. Kitabın temel sorusu şu: Giyinmek yalnızca bedeni örtmek ya da süslemek midir, yoksa kimliğimizi kurma ve dünyaya kendimizi gösterme biçimimiz midir? Kutvan, bu soruya psikolojik kuramları, sosyal bilimlerin bulgularını ve gündelik hayattan gözlemleri harmanlayarak yanıt arıyor.
