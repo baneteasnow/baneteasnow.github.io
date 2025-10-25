@@ -35,12 +35,12 @@ sayfa2: 424
 format2: reading as a book
 pageread2: 1
 # 3
-booktitle3: "Radicals: Outsiders Changing the World"
-bookyear3: 2020
-author3: "Bartlett Jamie"
-sayfa3: 296
+booktitle3: "Revenge of the Tipping Point"
+bookyear3: 2025
+author3: "Malcolm Gladwell"
+sayfa3: 328
 format3: reading as a book
-pageread3: 296
+pageread3: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
