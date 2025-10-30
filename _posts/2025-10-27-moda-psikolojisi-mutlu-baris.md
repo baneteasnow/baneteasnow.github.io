@@ -16,8 +16,8 @@ posted: 2025-10-27
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
-num: ""
-update: "tobeupdated"
+num: "544"
+update: "done"
 image: "/assets/new/moda-psikolojisi-mutlu-baris.jpg"
 ---
 
