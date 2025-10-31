@@ -17,7 +17,7 @@ read: 86
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-10-86
+last_modified_at: 2025-10-31
 published: true
 #
 # 1
