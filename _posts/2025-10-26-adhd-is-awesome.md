@@ -16,7 +16,7 @@ published: true
 posted: 2025-10-26
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
+rating: "1"
 num: "544"
 update: "tobeupdated"
 image: "/assets/new/adhd-is-awesome.jpg"

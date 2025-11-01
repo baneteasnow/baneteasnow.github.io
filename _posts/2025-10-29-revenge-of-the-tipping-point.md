@@ -15,7 +15,7 @@ published: true
 posted: 2025-10-29
 tag: "PsychologyMentalLife"
 reread: "yes"
-rating: "3"
+rating: "5"
 num: "547"
 update: "tobeupdated"
 image: "/assets/new/revenge-of-the-tipping-point.jpg"
