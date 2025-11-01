@@ -11,13 +11,13 @@ sayfa: "328"
 goodreads: "https://www.goodreads.com/book/show/180352087-adhd-is-awesome"
 description: ""
 eng: ""
-last_modified_at: 2025-10-31
-published: false
-posted: 2025-10-31
+last_modified_at: 2025-10-26
+published: true
+posted: 2025-10-26
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
-num: ""
+num: "544"
 update: "tobeupdated"
 image: "/assets/new/adhd-is-awesome.jpg"
 ---

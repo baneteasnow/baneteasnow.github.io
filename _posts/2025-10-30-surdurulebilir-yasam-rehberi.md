@@ -16,7 +16,7 @@ posted: 2025-10-30
 tag: "EnvironmentSustainableLiving"
 reread: "no"
 rating: "3"
-num: "546"
+num: "548"
 update: "tobeupdated"
 image: "/assets/new/surdurulebilir-yasam-rehberi.jpg"
 ---
