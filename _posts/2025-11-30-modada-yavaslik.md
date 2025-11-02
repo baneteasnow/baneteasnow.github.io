@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Modada Yavaşlık | Şölen Kipöz (Kitap)"
@@ -11,9 +10,9 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/54756602-modada-yava-l-k"
 description: ""
 eng: ""
-last_modified_at: 2025-11-30
-published: false
-posted: 2025-11-30
+last_modified_at: 2025-11-01
+published: true
+posted: 2025-11-01
 tag: "EnvironmentSustainableLiving"
 reread: "no"
 rating: "3"
