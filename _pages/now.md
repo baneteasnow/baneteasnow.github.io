@@ -17,7 +17,7 @@ read: 89
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-11-02
+last_modified_at: 2025-11-03
 published: true
 #
 # 1
@@ -33,7 +33,7 @@ bookyear2: 2022
 author2: "Morgan Housel"
 sayfa2: 312
 format2: reading as a book
-pageread2: 1
+pageread2: 312
 # 3
 booktitle3: "The Fashion Condition"
 bookyear3: 2017
