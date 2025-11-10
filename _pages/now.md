@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 82
+read: 91
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-10-14
+last_modified_at: 2025-11-10
 published: true
 #
 # 1
@@ -28,17 +28,17 @@ sayfa1: 290
 format1: reading as a book
 pageread1: 1
 # 2
-booktitle2: "The Net Delusion"
-bookyear2: 2019
-author2: "Evgeny Morozov"
-sayfa2: 424
+booktitle2: "The Fashion Condition"
+bookyear2: 2017
+author2: "Otto von Busch"
+sayfa2: 144
 format2: reading as a book
 pageread2: 1
 # 3
-booktitle3: "Radicals: Outsiders Changing the World"
-bookyear3: 2020
-author3: "Bartlett Jamie"
-sayfa3: 296
+booktitle3: "The White Album"
+bookyear3: 2017
+author3: "Joan Didion"
+sayfa3: 224
 format3: reading as a book
 pageread3: 1
 ---
