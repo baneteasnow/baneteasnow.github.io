@@ -17,7 +17,7 @@ read: 91
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-11-12
+last_modified_at: 2025-11-13
 published: true
 #
 # 1
@@ -51,10 +51,17 @@ pageread4: 1
 # 5
 booktitle5: "Uluslarin Dususu"
 bookyear5: 2024
-author5: "Daron Acemoğlu,  James A. Robinson"
+author5: "Daron Acemoğlu, James A. Robinson"
 sayfa5: 496
 format5: reading as a book
 pageread5: 1
+# 6
+booktitle6: "Sosyal Curume"
+bookyear6: 2024
+author6: "Zeliha Burtek, Gulsen Iseri"
+sayfa6: 496
+format6: reading as a book
+pageread6: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
