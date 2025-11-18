@@ -15,7 +15,7 @@ published: true
 posted: 2025-11-18
 tag: "SocietyCulture"
 reread: "no"
-rating: "3"
+rating: "2"
 num: "552"
 update: "tobeupdated"
 image: "/assets/new/sosyal-curume.jpg"
