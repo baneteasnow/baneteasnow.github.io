@@ -15,7 +15,7 @@ published: true
 posted: 2025-11-05
 tag: "PersonalGrowthProductivity"
 reread: "no"
-rating: "3"
+rating: "2"
 num: "551"
 update: "tobeupdated"
 image: "/assets/new/braving-the-wilderness.jpg"

@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 92
+read: 93
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-11-18
+last_modified_at: 2025-12-01
 published: true
 #
 # 1
@@ -28,10 +28,10 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 1
 # 2
-booktitle2: "Uluslarin Dususu"
-bookyear2: 2024
-author2: "Daron Acemoğlu, James A. Robinson"
-sayfa2: 496
+booktitle2: "Why Do Women Write More Letters Than They Post?"
+bookyear2: 2020
+author2: "Darian Leader"
+sayfa2: 139
 format2: reading as a book
 pageread2: 1
 ---
@@ -89,7 +89,6 @@ _by_ {{ page.author2 }}
 
   <br />
   <div style="clear: both"></div>
-
 
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 
