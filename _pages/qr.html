@@ -11,6 +11,10 @@ published: true
 		<meta charset="UTF-8" />
 		<title>QR Generator – Image Links</title>
 		<style>
+			* {
+				box-sizing: border-box;
+			}
+
 			body {
 				font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
 					sans-serif;
@@ -29,7 +33,7 @@ published: true
 			p {
 				font-size: 14px;
 				margin-bottom: 12px;
-				color: #000; /* e.g. part is black */
+				color: #000;
 			}
 
 			label,
@@ -49,12 +53,12 @@ published: true
 				margin: 8px 0 12px;
 				border: 1px solid #c9c9c9;
 				border-radius: 6px;
-				background: #ffffff; /* white input */
-				color: #000; /* text black */
+				background: #ffffff;
+				color: #000;
 			}
 
 			input::placeholder {
-				color: #666; /* dark grey placeholder */
+				color: #666;
 			}
 
 			button {
@@ -64,8 +68,8 @@ published: true
 				margin-bottom: 6px;
 				border-radius: 6px;
 				border: 1px solid #999;
-				background: #e5e5e5; /* grey button */
-				color: #000; /* black text */
+				background: #e5e5e5;
+				color: #000;
 			}
 
 			button:hover {
@@ -91,28 +95,6 @@ published: true
 				color: #555;
 				margin-top: 6px;
 			}
-
-			/* Print Mode */
-			@media print {
-				body {
-					margin: 0;
-					padding: 20px;
-					background: #ffffff;
-				}
-				h1,
-				p,
-				label,
-				input,
-				button {
-					display: none !important;
-				}
-				#qrcode,
-				#finalUrl,
-				#generatedDate {
-					display: block !important;
-					text-align: center;
-				}
-			}
 		</style>
 	</head>
 	<body>
@@ -126,8 +108,9 @@ published: true
 					border-radius: 4px;
 				"
 			>
-				assets/new/nexus.jpg </code
-			>)
+				assets/new/nexus.jpg
+			</code>
+			)
 		</p>
 
 		<label for="pathInput">Path / file name</label>
@@ -137,20 +120,20 @@ published: true
 		/>
 
 		<button id="generateBtn">Generate QR</button>
-		<button id="printBtn">Print</button>
 		<button id="downloadBtn">Download PNG</button>
 
 		<div id="finalUrl"></div>
 		<div id="generatedDate"></div>
 		<div id="qrcode"></div>
 
-		<!-- Hidden canvas used for exporting QR + date as an image -->
+		<!-- Hidden canvas used for exporting QR + title + date as an image -->
 		<canvas
 			id="exportCanvas"
 			style="display: none"
 		></canvas>
 		<br />
 		<div style="clear: both"></div>
+
 		<!-- QR library -->
 		<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 		<script>
@@ -159,7 +142,6 @@ published: true
 
 			const input = document.getElementById("pathInput")
 			const btn = document.getElementById("generateBtn")
-			const printBtn = document.getElementById("printBtn")
 			const downloadBtn = document.getElementById("downloadBtn")
 			const finalUrlEl = document.getElementById("finalUrl")
 			const dateEl = document.getElementById("generatedDate")
@@ -238,16 +220,8 @@ published: true
 				dateEl.textContent = "Generated on: " + getEnglishDate()
 			})
 
-			printBtn.addEventListener("click", () => {
-				if (!finalUrlEl.textContent) {
-					alert("Generate a QR code first.")
-					return
-				}
-				window.print()
-			})
-
 			function downloadPng() {
-				if (!finalUrlEl.textContent) {
+				if (!lastUrl) {
 					alert("Generate a QR code first.")
 					return
 				}
@@ -277,10 +251,12 @@ published: true
 				ctx.fillStyle = "#ffffff"
 				ctx.fillRect(0, 0, exportCanvas.width, exportCanvas.height)
 
-				// Draw QR centered
+				// Draw QR
 				const qrX = padding
 				const qrY = padding
 				ctx.drawImage(sourceEl, qrX, qrY, qrSize, qrSize)
+
+				const centerX = exportCanvas.width / 2
 
 				// Title under QR
 				ctx.fillStyle = "#000000"
@@ -288,7 +264,6 @@ published: true
 					"16px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
 				ctx.textAlign = "center"
 				ctx.textBaseline = "top"
-				const centerX = exportCanvas.width / 2
 				ctx.fillText(titleText, centerX, qrY + qrSize + 12)
 
 				// Date under title
