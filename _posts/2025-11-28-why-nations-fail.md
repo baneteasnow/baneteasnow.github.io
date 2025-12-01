@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Why Nations Fail | Daron Acemoğlu, James A. Robinson (Kitap)"
@@ -11,13 +10,13 @@ sayfa: "496"
 goodreads: "https://www.goodreads.com/book/show/22070954-uluslar-n-d"
 description: ""
 eng: ""
-last_modified_at: 2025-11-30
-published: false
-posted: 2025-11-30
-tag: "BiographyLifeStories"
+last_modified_at: 2025-11-28
+published: true
+posted: 2025-11-28
+tag: "HistoryPoliticalThought"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "553"
 update: "tobeupdated"
 image: "/assets/new/why-nations-fail.jpg"
 ---
