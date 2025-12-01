@@ -10,284 +10,142 @@ published: true
 	<head>
 		<meta charset="UTF-8" />
 		<title>QR Tools – Generator & Scanner</title>
+
 		<style>
-			:root {
-				--bg-main: #f5f5f7;
-				--card-bg: #ffffff;
-				--border-subtle: #e0e0e5;
-				--accent: #007aff;
-				--accent-dark: #0051b8;
-				--text-main: #111111;
-				--text-muted: #666666;
-				--input-bg: #1c1c1e; /* anthracite */
-				--input-border: #3a3a3c;
-				--input-text: #ffffff;
-			}
-
-			* {
-				box-sizing: border-box;
-			}
-
 			body {
-				font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-					sans-serif;
-				max-width: 900px;
+				font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+				max-width: 800px;
 				margin: 40px auto;
-				padding: 0 16px 40px;
-				background-color: var(--bg-main);
-				color: var(--text-main);
+				padding: 0 20px 40px;
+				background: #ffffff;
+				color: #000000;
 			}
 
 			h1 {
 				font-size: 26px;
-				margin-bottom: 4px;
+				margin-bottom: 6px;
 			}
 
 			h2 {
 				font-size: 20px;
-				margin: 0 0 8px;
+				margin-bottom: 10px;
 			}
 
 			p {
-				margin: 4px 0 12px;
 				font-size: 14px;
-				color: var(--text-muted);
+				margin-bottom: 12px;
+				color: #000; /* e.g. kısmı artık siyah */
 			}
 
-			.subhead {
-				font-size: 13px;
-				color: var(--text-muted);
-				margin-bottom: 24px;
-			}
-
-			.helper-text {
-				background: transparent !important;
-				color: var(--text-muted);
-				padding: 0;
-			}
-
-			.section-card {
-				background-color: var(--card-bg);
-				border-radius: 16px;
+			.section {
+				border: 1px solid #e5e5e5;
 				padding: 20px;
-				margin-top: 20px;
-				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
-				border: 1px solid var(--border-subtle);
+				border-radius: 12px;
+				margin-top: 22px;
+				background: #fff;
 			}
 
 			label {
 				font-size: 14px;
-				display: block;
 				margin-bottom: 4px;
+				display: block;
 			}
 
 			input {
 				width: 100%;
-				padding: 10px 12px;
-				margin: 4px 0 12px;
+				padding: 10px;
+				margin-bottom: 12px;
+				border: 1px solid #c9c9c9;
+				border-radius: 6px;
+				background: #ffffff; /* white input */
+				color: #000; /* typed text black */
 				font-size: 14px;
-				border-radius: 10px;
-				border: 1px solid var(--input-border);
-				background-color: var(--input-bg);
-				color: var(--input-text);
-				outline: none;
-				transition: border-color 0.15s ease, box-shadow 0.15s ease;
 			}
 
-			/* Placeholder stays white-ish */
 			input::placeholder {
-				color: rgba(255, 255, 255, 0.9);
-				opacity: 1;
-			}
-
-			input:focus {
-				border-color: var(--accent);
-				box-shadow: 0 0 0 2px rgba(0, 122, 255, 0.25);
+				color: #666; /* placeholder grey/black */
 			}
 
 			button {
-				padding: 8px 18px;
+				padding: 8px 16px;
+				margin-right: 6px;
+				margin-bottom: 6px;
 				font-size: 14px;
-				border-radius: 999px;
-				border: none;
+				border-radius: 6px;
+				border: 1px solid #999;
+				background: #e5e5e5; /* grey buttons */
+				color: #000; /* black text */
 				cursor: pointer;
-				margin: 6px 6px 6px 0;
-				transition: background-color 0.15s ease, transform 0.08s ease,
-					box-shadow 0.15s ease;
 			}
 
-			.btn-primary {
-				background-color: var(--accent);
-				color: #ffffff;
-				box-shadow: 0 4px 10px rgba(0, 122, 255, 0.3);
-			}
-
-			.btn-primary:hover {
-				background-color: var(--accent-dark);
-			}
-
-			.btn-primary:active {
-				transform: translateY(1px);
-				box-shadow: 0 2px 6px rgba(0, 122, 255, 0.3);
-			}
-
-			.btn-ghost {
-				background-color: transparent;
-				color: var(--accent);
-				border: 1px solid rgba(0, 122, 255, 0.4);
-			}
-
-			.btn-ghost:hover {
-				background-color: rgba(0, 122, 255, 0.06);
+			button:hover {
+				background: #d4d4d4;
 			}
 
 			#qrcode {
-				margin-top: 24px;
 				text-align: center;
+				margin-top: 20px;
 			}
 
 			#finalUrl,
 			#generatedDate {
-				margin-top: 8px;
 				font-size: 13px;
 				text-align: center;
-				word-break: break-all;
+				margin-top: 6px;
+				color: #000;
 			}
 
-			#generatedDate {
-				font-size: 12px;
-				color: var(--text-muted);
-				margin-top: 4px;
-			}
-
-			/* Scanner styles */
 			video {
 				width: 100%;
-				max-width: 420px;
-				border: 1px solid #d0d0d5;
-				border-radius: 12px;
+				max-width: 450px;
+				border: 1px solid #ccc;
+				border-radius: 8px;
 				margin-top: 16px;
 			}
 
 			#status {
-				margin-top: 12px;
-				font-size: 13px;
-				color: var(--text-muted);
-			}
-
-			#link {
 				margin-top: 10px;
-				word-break: break-all;
 				font-size: 13px;
-			}
-
-			code {
-				font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
-					"Courier New", monospace;
-				font-size: 12px;
-				background: #f0f0f5;
-				padding: 2px 4px;
-				border-radius: 4px;
-			}
-
-			/* Print mode: only show QR block */
-			@media print {
-				body {
-					margin: 0;
-					padding: 20px;
-					background-color: #ffffff;
-				}
-				header,
-				.section-card.scanner-section,
-				label,
-				input,
-				button,
-				.subhead {
-					display: none !important;
-				}
-				.section-card.generator-section {
-					box-shadow: none;
-					border: none;
-					padding: 0;
-					margin: 0;
-				}
-				#qrcode,
-				#finalUrl,
-				#generatedDate {
-					display: block !important;
-					text-align: center;
-				}
 			}
 		</style>
 	</head>
-	<body>
-		<header>
-			<h1>QR Tools</h1>
-			<div class="subhead">
-				Generate QR codes for your own links and scan them on the same page.
-			</div>
-		</header>
 
-		<!-- QR GENERATOR SECTION -->
-		<section class="section-card generator-section">
+	<body>
+		<h1>QR Tools</h1>
+		<p>Generate and scan QR codes for your own site.</p>
+
+		<!-- QR GENERATOR -->
+		<div class="section">
 			<h2>QR Generator</h2>
-			<p class="helper-text">
-				Enter the image file name or path (e.g.
-				<code>assets/new/nexus-harari.jpg</code>).
-			</p>
+
+			<p>Enter the image file name or path (e.g. assets/new/nexus.jpg).</p>
 
 			<label for="pathInput">Path / file name</label>
 			<input
 				id="pathInput"
-				placeholder="assets/new/nexus-harari.jpg"
+				placeholder="assets/new/nexus.jpg"
 			/>
 
-			<div>
-				<button
-					id="generateBtn"
-					class="btn-primary"
-				>
-					Generate QR
-				</button>
-				<button
-					id="printBtn"
-					class="btn-ghost"
-				>
-					Print
-				</button>
-				<button
-					id="downloadBtn"
-					class="btn-ghost"
-				>
-					Download PNG
-				</button>
-			</div>
+			<button id="generateBtn">Generate QR</button>
+			<button id="printBtn">Print</button>
+			<button id="downloadBtn">Download PNG</button>
 
 			<div id="finalUrl"></div>
 			<div id="generatedDate"></div>
 			<div id="qrcode"></div>
 
-			<!-- Hidden canvas used for exporting QR + date as an image -->
 			<canvas
 				id="exportCanvas"
 				style="display: none"
 			></canvas>
-		</section>
+		</div>
 
-		<!-- QR SCANNER SECTION -->
-		<section class="section-card scanner-section">
+		<!-- QR SCANNER -->
+		<div class="section">
 			<h2>QR Scanner</h2>
-			<p>
-				This scanner only accepts QR codes that point to your own domain (e.g.
-				<code>next52books.com</code>).
-			</p>
+			<p>This scanner only accepts QR codes pointing to your own domain.</p>
 
-			<button
-				id="startBtn"
-				class="btn-primary"
-			>
-				Start Camera
-			</button>
+			<button id="startBtn">Start Camera</button>
 
 			<video
 				id="video"
@@ -300,17 +158,15 @@ published: true
 
 			<div id="status">Ready.</div>
 			<div id="link"></div>
-		</section>
+		</div>
 
 		<!-- Libraries -->
 		<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
 
 		<script>
-			/* WRITE YOUR OWN DOMAIN HERE */
 			const BASE_URL = "https://next52books.com/"
 
-			// ----- QR GENERATOR -----
 			const input = document.getElementById("pathInput")
 			const generateBtn = document.getElementById("generateBtn")
 			const printBtn = document.getElementById("printBtn")
@@ -324,184 +180,110 @@ published: true
 			let lastPath = ""
 			let lastUrl = ""
 
-			function createOrUpdateQR(text) {
+			/* Clean file name for title below QR */
+			function extractCleanTitle(path) {
+				if (!path) return "QR Code"
+				let file = path.split("/").pop()
+				file = file.replace(/\.[a-zA-Z0-9]+$/, "")
+				file = file.replace(/-/g, " ")
+				file = file.replace(/\s+/g, " ").trim()
+				return file.replace(/\b\w/g, (c) => c.toUpperCase())
+			}
+
+			function makeSlug(pathOrUrl) {
+				if (!pathOrUrl) return "qr"
+				let base = pathOrUrl.split("/").pop()
+				base = base.replace(/\.[a-zA-Z0-9]+$/, "")
+				return base.toLowerCase().replace(/[^a-z0-9\-]+/g, "-")
+			}
+
+			function getEnglishDate() {
+				return new Date().toLocaleString("en-US", {
+					year: "numeric",
+					month: "short",
+					day: "numeric",
+					hour: "2-digit",
+					minute: "2-digit",
+				})
+			}
+
+			function createQR(text) {
 				if (!qr) {
-					qr = new QRCode(qrContainer, {
-						text,
-						width: 256,
-						height: 256,
-					})
+					qr = new QRCode(qrContainer, { text, width: 256, height: 256 })
 				} else {
 					qr.clear()
 					qr.makeCode(text)
 				}
 			}
 
-			function getEnglishDate() {
-				const now = new Date()
-				const opts = {
-					year: "numeric",
-					month: "short",
-					day: "numeric",
-					hour: "2-digit",
-					minute: "2-digit",
-				}
-				return now.toLocaleString("en-US", opts)
-			}
-
-			// Başlık için: sadece dosya adını temizle (nexus-harari.jpg -> Nexus Harari)
-			function extractCleanTitle(path) {
-				if (!path) return "QR Code"
-				let file = path.split("/").pop()
-				file = file.replace(/\.[a-zA-Z0-9]+$/, "") // extension
-				file = file.replace(/-/g, " ")
-				file = file.replace(/\s+/g, " ").trim()
-				return file.replace(/\b\w/g, (c) => c.toUpperCase())
-			}
-
-			// Dosya adı için slug: sadece dosya adı, orijinal tireler korunur
-			function makeSafeSlug(pathOrUrl) {
-				if (!pathOrUrl) return "qr"
-				// path kısmına odaklan
-				let base = pathOrUrl.split("/").pop() // assets/new/nexus-harari.jpg -> nexus-harari.jpg
-				base = base.replace(/\.[a-zA-Z0-9]+$/, "") // nexus-harari
-				return base
-					.toLowerCase()
-					.replace(/[^a-z0-9\-]+/g, "-")
-					.replace(/-+/g, "-")
-					.replace(/^-|-$/g, "")
-			}
-
 			generateBtn.addEventListener("click", () => {
 				const path = input.value.trim()
 				if (!path) {
-					alert("Please enter a path or file name first.")
+					alert("Please enter a path first.")
 					return
 				}
 
 				const url =
 					BASE_URL.replace(/\/+$/, "") + "/" + path.replace(/^\/+/, "")
-				finalUrlEl.textContent = "URL: " + url
 
 				lastPath = path
 				lastUrl = url
 
-				createOrUpdateQR(url)
-
-				// Add timestamp
+				finalUrlEl.textContent = "URL: " + url
 				dateEl.textContent = "Generated on: " + getEnglishDate()
+
+				createQR(url)
 			})
 
 			printBtn.addEventListener("click", () => {
-				if (!finalUrlEl.textContent) {
-					alert("Generate a QR code first.")
+				if (!lastUrl) {
+					alert("Generate a QR first.")
 					return
 				}
 				window.print()
 			})
 
-			function downloadPng() {
-				if (!finalUrlEl.textContent) {
-					alert("Generate a QR code first.")
+			downloadBtn.addEventListener("click", () => {
+				if (!lastUrl) {
+					alert("Generate a QR first.")
 					return
 				}
 
 				const img = qrContainer.querySelector("img")
-				const qrCanvas = qrContainer.querySelector("canvas")
-				const sourceEl = img || qrCanvas
+				const qrImg = img || qrContainer.querySelector("canvas")
 
-				if (!sourceEl) {
-					alert("QR code image is not ready yet.")
-					return
-				}
+				const title = extractCleanTitle(lastPath)
+				const dateText = dateEl.textContent
 
-				const qrSize = sourceEl.naturalWidth || sourceEl.width || 256
+				const size = 256
+				const padding = 20
 
-				const padding = 16
-				const spacingAfterQR = 12
-				const titleText = extractCleanTitle(lastPath || lastUrl || "QR Code")
-				const hasTitle = !!titleText
-				const hasDate = !!dateEl.textContent
-
-				const titleLineHeight = hasTitle ? 20 : 0
-				const spacingTitleDate = hasTitle && hasDate ? 4 : 0
-				const dateLineHeight = hasDate ? 18 : 0
-
-				const exportWidth = qrSize + padding * 2
-				const exportHeight =
-					padding + // top padding
-					qrSize + // QR
-					(hasTitle ? spacingAfterQR : 0) +
-					titleLineHeight +
-					spacingTitleDate +
-					dateLineHeight +
-					padding // bottom padding
-
-				exportCanvas.width = exportWidth
-				exportCanvas.height = exportHeight
+				exportCanvas.width = size + padding * 2
+				exportCanvas.height = size + 90
 
 				const ctx = exportCanvas.getContext("2d")
 
-				// Background
 				ctx.fillStyle = "#ffffff"
-				ctx.fillRect(0, 0, exportWidth, exportHeight)
+				ctx.fillRect(0, 0, exportCanvas.width, exportCanvas.height)
 
-				// Draw QR (top area)
-				const qrY = padding
-				const qrX = (exportWidth - qrSize) / 2
-				ctx.drawImage(sourceEl, qrX, qrY, qrSize, qrSize)
+				ctx.drawImage(qrImg, padding, padding, size, size)
 
-				// Text block below QR
-				let currentY = qrY + qrSize
+				ctx.textAlign = "center"
+				ctx.fillStyle = "#000"
+				ctx.font = "16px system-ui"
+				ctx.fillText(title, exportCanvas.width / 2, size + padding + 20)
 
-				if (hasTitle) {
-					currentY += spacingAfterQR
-					ctx.fillStyle = "#333333"
-					ctx.font =
-						"15px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-					ctx.textAlign = "center"
-					ctx.textBaseline = "top"
-					ctx.fillText(titleText, exportWidth / 2, currentY)
-					currentY += titleLineHeight
-				}
+				ctx.font = "13px system-ui"
+				ctx.fillStyle = "#555"
+				ctx.fillText(dateText, exportCanvas.width / 2, size + padding + 40)
 
-				if (hasDate) {
-					currentY += spacingTitleDate
-					const dateText = dateEl.textContent
-					ctx.fillStyle = "#555555"
-					ctx.font =
-						"13px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-					ctx.textAlign = "center"
-					ctx.textBaseline = "top"
-					ctx.fillText(dateText, exportWidth / 2, currentY)
-					currentY += dateLineHeight
-				}
+				const link = document.createElement("a")
+				link.download = "qr-" + makeSlug(lastPath) + ".png"
+				link.href = exportCanvas.toDataURL("image/png")
+				link.click()
+			})
 
-				const dataUrl = exportCanvas.toDataURL("image/png")
-
-				const now = new Date()
-				const pad = (n) => String(n).padStart(2, "0")
-
-				const baseForName = lastPath || lastUrl || "qr"
-				const slug = makeSafeSlug(baseForName) || "qr"
-
-				const fileName = `qr-${slug}-${now.getFullYear()}${pad(
-					now.getMonth() + 1
-				)}${pad(now.getDate())}-${pad(now.getHours())}${pad(
-					now.getMinutes()
-				)}.png`
-
-				const a = document.createElement("a")
-				a.href = dataUrl
-				a.download = fileName
-				document.body.appendChild(a)
-				a.click()
-				document.body.removeChild(a)
-			}
-
-			downloadBtn.addEventListener("click", downloadPng)
-
-			// ----- QR SCANNER -----
+			/* ---- QR SCANNER ---- */
 			const startBtn = document.getElementById("startBtn")
 			const video = document.getElementById("video")
 			const canvas = document.getElementById("canvas")
@@ -514,16 +296,15 @@ published: true
 			startBtn.addEventListener("click", async () => {
 				try {
 					stream = await navigator.mediaDevices.getUserMedia({
-						video: { facingMode: "environment" }, // back camera
+						video: { facingMode: "environment" },
 					})
 					video.srcObject = stream
-					await video.play()
+					video.play()
 					scanning = true
-					statusEl.textContent = "Waiting for QR code..."
+					statusEl.textContent = "Scanning..."
 					scanLoop()
-				} catch (err) {
-					console.error(err)
-					statusEl.textContent = "Camera access failed: " + err.message
+				} catch (e) {
+					statusEl.textContent = "Camera error: " + e.message
 				}
 			})
 
@@ -540,39 +321,30 @@ published: true
 
 				canvas.width = width
 				canvas.height = height
+
 				const ctx = canvas.getContext("2d")
 				ctx.drawImage(video, 0, 0, width, height)
-				const imageData = ctx.getImageData(0, 0, width, height)
 
-				const code = jsQR(imageData.data, width, height)
+				const qr = jsQR(
+					ctx.getImageData(0, 0, width, height).data,
+					width,
+					height
+				)
 
-				if (code && code.data) {
-					const text = code.data.trim()
-					statusEl.textContent = "QR detected."
+				if (qr) {
+					scanning = false
+					stream.getTracks().forEach((t) => t.stop())
+
+					const text = qr.data.trim()
 					linkEl.textContent = text
 
-					if (text.startsWith(BASE_URL.replace(/\/+$/, ""))) {
-						scanning = false
-						stopStream()
-						statusEl.textContent = "Valid domain. Redirecting..."
-						const go = confirm("Do you want to open this link?\n" + text)
-						if (go) {
-							window.location.href = text
-						}
+					if (text.startsWith(BASE_URL)) {
+						window.location.href = text
 					} else {
-						statusEl.textContent =
-							"QR detected but domain does not match. Only " +
-							BASE_URL.replace(/\/+$/, "") +
-							" is allowed."
+						statusEl.textContent = "Invalid domain."
 					}
 				} else {
 					requestAnimationFrame(scanLoop)
-				}
-			}
-
-			function stopStream() {
-				if (stream) {
-					stream.getTracks().forEach((t) => t.stop())
 				}
 			}
 		</script>
