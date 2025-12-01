@@ -60,7 +60,6 @@ published: true
 				margin-bottom: 24px;
 			}
 
-			/* helper text under generator title */
 			.helper-text {
 				background: transparent !important;
 				color: var(--text-muted);
@@ -234,13 +233,13 @@ published: true
 			<h2>QR Generator</h2>
 			<p class="helper-text">
 				Enter the image file name or path (e.g.
-				<code>assets/new/nexus.jpg</code>).
+				<code>assets/new/nexus-harari.jpg</code>).
 			</p>
 
 			<label for="pathInput">Path / file name</label>
 			<input
 				id="pathInput"
-				placeholder="assets/new/nexus.jpg"
+				placeholder="assets/new/nexus-harari.jpg"
 			/>
 
 			<div>
@@ -322,6 +321,8 @@ published: true
 			const exportCanvas = document.getElementById("exportCanvas")
 
 			let qr
+			let lastPath = ""
+			let lastUrl = ""
 
 			function createOrUpdateQR(text) {
 				if (!qr) {
@@ -348,6 +349,29 @@ published: true
 				return now.toLocaleString("en-US", opts)
 			}
 
+			// Başlık için: sadece dosya adını temizle (nexus-harari.jpg -> Nexus Harari)
+			function extractCleanTitle(path) {
+				if (!path) return "QR Code"
+				let file = path.split("/").pop()
+				file = file.replace(/\.[a-zA-Z0-9]+$/, "") // extension
+				file = file.replace(/-/g, " ")
+				file = file.replace(/\s+/g, " ").trim()
+				return file.replace(/\b\w/g, (c) => c.toUpperCase())
+			}
+
+			// Dosya adı için slug: sadece dosya adı, orijinal tireler korunur
+			function makeSafeSlug(pathOrUrl) {
+				if (!pathOrUrl) return "qr"
+				// path kısmına odaklan
+				let base = pathOrUrl.split("/").pop() // assets/new/nexus-harari.jpg -> nexus-harari.jpg
+				base = base.replace(/\.[a-zA-Z0-9]+$/, "") // nexus-harari
+				return base
+					.toLowerCase()
+					.replace(/[^a-z0-9\-]+/g, "-")
+					.replace(/-+/g, "-")
+					.replace(/^-|-$/g, "")
+			}
+
 			generateBtn.addEventListener("click", () => {
 				const path = input.value.trim()
 				if (!path) {
@@ -358,6 +382,9 @@ published: true
 				const url =
 					BASE_URL.replace(/\/+$/, "") + "/" + path.replace(/^\/+/, "")
 				finalUrlEl.textContent = "URL: " + url
+
+				lastPath = path
+				lastUrl = url
 
 				createOrUpdateQR(url)
 
@@ -389,44 +416,76 @@ published: true
 				}
 
 				const qrSize = sourceEl.naturalWidth || sourceEl.width || 256
-				const padding = 16
-				const lineHeight = 18
-				const dateText = dateEl.textContent || ""
 
-				const extraHeight = dateText ? padding + lineHeight + 4 : 0
+				const padding = 16
+				const spacingAfterQR = 12
+				const titleText = extractCleanTitle(lastPath || lastUrl || "QR Code")
+				const hasTitle = !!titleText
+				const hasDate = !!dateEl.textContent
+
+				const titleLineHeight = hasTitle ? 20 : 0
+				const spacingTitleDate = hasTitle && hasDate ? 4 : 0
+				const dateLineHeight = hasDate ? 18 : 0
+
 				const exportWidth = qrSize + padding * 2
-				const exportHeight = qrSize + padding * 2 + extraHeight
+				const exportHeight =
+					padding + // top padding
+					qrSize + // QR
+					(hasTitle ? spacingAfterQR : 0) +
+					titleLineHeight +
+					spacingTitleDate +
+					dateLineHeight +
+					padding // bottom padding
 
 				exportCanvas.width = exportWidth
 				exportCanvas.height = exportHeight
 
 				const ctx = exportCanvas.getContext("2d")
 
-				// White background
+				// Background
 				ctx.fillStyle = "#ffffff"
 				ctx.fillRect(0, 0, exportWidth, exportHeight)
 
-				// Draw QR centered
-				const qrX = (exportWidth - qrSize) / 2
+				// Draw QR (top area)
 				const qrY = padding
+				const qrX = (exportWidth - qrSize) / 2
 				ctx.drawImage(sourceEl, qrX, qrY, qrSize, qrSize)
 
-				// Draw date text under QR
-				if (dateText) {
-					ctx.fillStyle = "#555555"
+				// Text block below QR
+				let currentY = qrY + qrSize
+
+				if (hasTitle) {
+					currentY += spacingAfterQR
+					ctx.fillStyle = "#333333"
 					ctx.font =
-						"14px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+						"15px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
 					ctx.textAlign = "center"
 					ctx.textBaseline = "top"
-					const textY = qrY + qrSize + padding
-					ctx.fillText(dateText, exportWidth / 2, textY)
+					ctx.fillText(titleText, exportWidth / 2, currentY)
+					currentY += titleLineHeight
+				}
+
+				if (hasDate) {
+					currentY += spacingTitleDate
+					const dateText = dateEl.textContent
+					ctx.fillStyle = "#555555"
+					ctx.font =
+						"13px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+					ctx.textAlign = "center"
+					ctx.textBaseline = "top"
+					ctx.fillText(dateText, exportWidth / 2, currentY)
+					currentY += dateLineHeight
 				}
 
 				const dataUrl = exportCanvas.toDataURL("image/png")
 
 				const now = new Date()
 				const pad = (n) => String(n).padStart(2, "0")
-				const fileName = `qr-${now.getFullYear()}${pad(
+
+				const baseForName = lastPath || lastUrl || "qr"
+				const slug = makeSafeSlug(baseForName) || "qr"
+
+				const fileName = `qr-${slug}-${now.getFullYear()}${pad(
 					now.getMonth() + 1
 				)}${pad(now.getDate())}-${pad(now.getHours())}${pad(
 					now.getMinutes()
