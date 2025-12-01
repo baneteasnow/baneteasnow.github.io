@@ -162,8 +162,9 @@ published: true
 						border-radius: 4px;
 					"
 				>
-					assets/new/nexus.jpg </code
-				>).
+					assets/new/nexus.jpg
+				</code>
+				).
 			</p>
 
 			<label for="pathInput">Path / file name</label>
@@ -173,7 +174,6 @@ published: true
 			/>
 
 			<button id="generateBtn">Generate QR</button>
-			<button id="printBtn">Print</button>
 			<button id="downloadBtn">Download PNG</button>
 
 			<div id="finalUrl"></div>
@@ -199,8 +199,9 @@ published: true
 						border-radius: 4px;
 					"
 				>
-					next52books.com </code
-				>.
+					next52books.com
+				</code>
+				.
 			</p>
 
 			<div class="scanner-video-wrapper">
@@ -209,7 +210,7 @@ published: true
 					playsinline
 				></video>
 
-				<!-- BUTON ARTIK VİDEONUN ALTINDA -->
+				<!-- button under the video -->
 				<div style="margin-top: 12px">
 					<button id="startBtn">Start Camera</button>
 				</div>
@@ -225,6 +226,7 @@ published: true
 		</div>
 		<br />
 		<div style="clear: both"></div>
+
 		<!-- Libraries -->
 		<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
@@ -235,7 +237,6 @@ published: true
 			/* ----- QR GENERATOR ----- */
 			const input = document.getElementById("pathInput")
 			const generateBtn = document.getElementById("generateBtn")
-			const printBtn = document.getElementById("printBtn")
 			const downloadBtn = document.getElementById("downloadBtn")
 			const finalUrlEl = document.getElementById("finalUrl")
 			const dateEl = document.getElementById("generatedDate")
@@ -304,14 +305,7 @@ published: true
 				createQR(url)
 			})
 
-			printBtn.addEventListener("click", () => {
-				if (!lastUrl) {
-					alert("Generate a QR first.")
-					return
-				}
-				window.print()
-			})
-
+			// ⭐ Download: QR + title + date in PNG, filename with slug + timestamp
 			downloadBtn.addEventListener("click", () => {
 				if (!lastUrl) {
 					alert("Generate a QR first.")
@@ -328,32 +322,52 @@ published: true
 				const size = 256
 				const padding = 20
 
+				// Canvas size: QR + title + date area
 				exportCanvas.width = size + padding * 2
 				exportCanvas.height = size + 90
 
 				const ctx = exportCanvas.getContext("2d")
+
+				// White background
 				ctx.fillStyle = "#ffffff"
 				ctx.fillRect(0, 0, exportCanvas.width, exportCanvas.height)
 
+				// Draw QR
 				ctx.drawImage(qrImg, padding, padding, size, size)
 
-				const title = extractCleanTitle(lastPath)
-				const dateText = dateEl.textContent
+				const title = extractCleanTitle(lastPath || lastUrl || "QR Code")
+				const dateText = dateEl.textContent || ""
 
 				const centerX = exportCanvas.width / 2
 
+				// Title under QR
 				ctx.textAlign = "center"
-				ctx.fillStyle = "#000"
-				ctx.font = "16px system-ui"
+				ctx.fillStyle = "#000000"
+				ctx.font =
+					"16px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
 				ctx.fillText(title, centerX, size + padding + 20)
 
-				ctx.font = "13px system-ui"
-				ctx.fillStyle = "#555"
-				ctx.fillText(dateText, centerX, size + padding + 40)
+				// Date under title
+				if (dateText) {
+					ctx.fillStyle = "#555555"
+					ctx.font =
+						"13px system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+					ctx.fillText(dateText, centerX, size + padding + 40)
+				}
+
+				// Filename: qr-nexus-harari-YYYYMMDD-HHMM.png
+				const now = new Date()
+				const pad = (n) => String(n).padStart(2, "0")
+				const slug = makeSlug(lastPath || lastUrl || "qr")
+				const fileName = `qr-${slug}-${now.getFullYear()}${pad(
+					now.getMonth() + 1
+				)}${pad(now.getDate())}-${pad(now.getHours())}${pad(
+					now.getMinutes()
+				)}.png`
 
 				const link = document.createElement("a")
-				link.download = "qr-" + makeSlug(lastPath) + ".png"
 				link.href = exportCanvas.toDataURL("image/png")
+				link.download = fileName
 				link.click()
 			})
 
