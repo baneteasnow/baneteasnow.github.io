@@ -39,10 +39,6 @@ collections:
     output: false
 
 defaults:
-  - scope:
-      path: "assets/at-a-glance"
-    values:
-      permalink: "/:basename:output_ext"
   -
    scope: 
      path: ""
