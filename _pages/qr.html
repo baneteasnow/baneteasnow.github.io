@@ -35,14 +35,22 @@ published: true
 			}
 			#qrcode {
 				margin-top: 24px;
+				text-align: center;
 			}
-			#finalUrl {
+			#finalUrl,
+			#generatedDate {
 				margin-top: 12px;
 				font-size: 14px;
+				text-align: center;
 				word-break: break-all;
 			}
+			#generatedDate {
+				font-size: 12px;
+				color: #555;
+				margin-top: 6px;
+			}
 
-			/* Print mode: sadece QR ve URL görünsün */
+			/* Print Mode */
 			@media print {
 				body {
 					margin: 0;
@@ -53,16 +61,13 @@ published: true
 				label,
 				input,
 				button {
-					display: none;
+					display: none !important;
 				}
 				#qrcode,
-				#finalUrl {
-					display: block;
+				#finalUrl,
+				#generatedDate {
+					display: block !important;
 					text-align: center;
-				}
-				#finalUrl {
-					margin-top: 16px;
-					font-size: 12px;
 				}
 			}
 		</style>
@@ -83,18 +88,20 @@ published: true
 		<button id="printBtn">Yazdır</button>
 
 		<div id="finalUrl"></div>
+		<div id="generatedDate"></div>
 		<div id="qrcode"></div>
 
-		<!-- QR kütüphanesi -->
+		<!-- QR library -->
 		<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 		<script>
-			// KENDİ DOMAINİNİ BURAYA YAZ
-			const BASE_URL = "https://www.next52books.com/"
+			/* KENDİ DOMAINİNİ BURAYA YAZ */
+			const BASE_URL = "https://next52books.com/"
 
 			const input = document.getElementById("pathInput")
 			const btn = document.getElementById("generateBtn")
 			const printBtn = document.getElementById("printBtn")
 			const finalUrlEl = document.getElementById("finalUrl")
+			const dateEl = document.getElementById("generatedDate")
 			const qrContainer = document.getElementById("qrcode")
 
 			let qr
@@ -112,6 +119,18 @@ published: true
 				}
 			}
 
+			function getEnglishDate() {
+				const now = new Date()
+				const opts = {
+					year: "numeric",
+					month: "short",
+					day: "numeric",
+					hour: "2-digit",
+					minute: "2-digit",
+				}
+				return now.toLocaleString("en-US", opts)
+			}
+
 			btn.addEventListener("click", () => {
 				const path = input.value.trim()
 				if (!path) {
@@ -122,12 +141,16 @@ published: true
 				const url =
 					BASE_URL.replace(/\/+$/, "") + "/" + path.replace(/^\/+/, "")
 				finalUrlEl.textContent = "URL: " + url
+
 				createOrUpdateQR(url)
+
+				// Tarih yaz
+				dateEl.textContent = "Generated on: " + getEnglishDate()
 			})
 
 			printBtn.addEventListener("click", () => {
 				if (!finalUrlEl.textContent) {
-					alert("Önce bir QR üret.")
+					alert("Önce QR üret.")
 					return
 				}
 				window.print()
