@@ -39,6 +39,10 @@ collections:
     output: false
 
 defaults:
+  - scope:
+      path: "assets/at-a-glance"
+    values:
+      permalink: "/:basename:output_ext"
   -
    scope: 
      path: ""
@@ -57,13 +61,7 @@ defaults:
     path: ""
    values:
     layout: "page-10"
-    published: false
-  - 
-    scope:
-      path: "assets/at-a-glance"
-    values:
-      permalink: "/:basename:output_ext"
-      
+    published: false  
       # values:
       # the default layout to use if none is specified layout: post
       # published: true or false OR future OR unpublished
