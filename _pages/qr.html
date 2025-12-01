@@ -31,6 +31,7 @@ published: true
 			button {
 				padding: 8px 16px;
 				cursor: pointer;
+				margin-right: 8px;
 			}
 			#qrcode {
 				margin-top: 24px;
@@ -39,6 +40,30 @@ published: true
 				margin-top: 12px;
 				font-size: 14px;
 				word-break: break-all;
+			}
+
+			/* Print mode: sadece QR ve URL görünsün */
+			@media print {
+				body {
+					margin: 0;
+					padding: 20px;
+				}
+				h1,
+				p,
+				label,
+				input,
+				button {
+					display: none;
+				}
+				#qrcode,
+				#finalUrl {
+					display: block;
+					text-align: center;
+				}
+				#finalUrl {
+					margin-top: 16px;
+					font-size: 12px;
+				}
 			}
 		</style>
 	</head>
@@ -55,11 +80,12 @@ published: true
 		/>
 
 		<button id="generateBtn">QR üret</button>
+		<button id="printBtn">Yazdır</button>
 
 		<div id="finalUrl"></div>
 		<div id="qrcode"></div>
 
-		<!-- Basit bir QR kütüphanesi (qrcodejs) -->
+		<!-- QR kütüphanesi -->
 		<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 		<script>
 			// KENDİ DOMAINİNİ BURAYA YAZ
@@ -67,13 +93,13 @@ published: true
 
 			const input = document.getElementById("pathInput")
 			const btn = document.getElementById("generateBtn")
+			const printBtn = document.getElementById("printBtn")
 			const finalUrlEl = document.getElementById("finalUrl")
 			const qrContainer = document.getElementById("qrcode")
 
 			let qr
 
 			function createOrUpdateQR(text) {
-				// İlk seferde yarat, sonrasında içeriğini güncelle
 				if (!qr) {
 					qr = new QRCode(qrContainer, {
 						text,
@@ -93,12 +119,18 @@ published: true
 					return
 				}
 
-				// Çift slash olmasın diye ufak temizlik
 				const url =
 					BASE_URL.replace(/\/+$/, "") + "/" + path.replace(/^\/+/, "")
-
 				finalUrlEl.textContent = "URL: " + url
 				createOrUpdateQR(url)
+			})
+
+			printBtn.addEventListener("click", () => {
+				if (!finalUrlEl.textContent) {
+					alert("Önce bir QR üret.")
+					return
+				}
+				window.print()
 			})
 		</script>
 	</body>

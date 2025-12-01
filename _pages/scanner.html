@@ -1,0 +1,149 @@
+---
+layout: page
+title: QR Scanner
+last_modified_at: 2025-12-01
+published: true
+---
+
+<!DOCTYPE html>
+<html lang="tr">
+	<head>
+		<meta charset="UTF-8" />
+		<title>QR Scanner – Only my domain</title>
+		<style>
+			body {
+				font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+					sans-serif;
+				max-width: 600px;
+				margin: 20px auto;
+				padding: 0 16px;
+				text-align: center;
+			}
+			video {
+				width: 100%;
+				max-width: 400px;
+				border: 1px solid #ccc;
+				border-radius: 8px;
+				margin-top: 16px;
+			}
+			#status {
+				margin-top: 12px;
+				font-size: 14px;
+			}
+			#link {
+				margin-top: 12px;
+				word-break: break-all;
+				font-size: 14px;
+			}
+			button {
+				padding: 8px 16px;
+				margin-top: 12px;
+				cursor: pointer;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>QR Scanner</h1>
+		<p>
+			Bu scanner sadece kendi domain’indeki (ör. <code>next52books.com</code>)
+			QR kodlarını kabul eder.
+		</p>
+
+		<button id="startBtn">Kamerayı Başlat</button>
+
+		<video
+			id="video"
+			playsinline
+		></video>
+		<canvas
+			id="canvas"
+			style="display: none"
+		></canvas>
+
+		<div id="status">Hazır.</div>
+		<div id="link"></div>
+
+		<!-- jsQR kütüphanesi -->
+		<script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
+		<script>
+			// KENDİ DOMAINİNİ BURAYA YAZ
+			const BASE_URL = "https://www.next52books.com"
+
+			const startBtn = document.getElementById("startBtn")
+			const video = document.getElementById("video")
+			const canvas = document.getElementById("canvas")
+			const statusEl = document.getElementById("status")
+			const linkEl = document.getElementById("link")
+
+			let stream
+			let scanning = false
+
+			startBtn.addEventListener("click", async () => {
+				try {
+					stream = await navigator.mediaDevices.getUserMedia({
+						video: { facingMode: "environment" }, // arka kamera
+					})
+					video.srcObject = stream
+					await video.play()
+					scanning = true
+					statusEl.textContent = "QR bekleniyor..."
+					scanLoop()
+				} catch (err) {
+					console.error(err)
+					statusEl.textContent = "Kameraya erişilemedi: " + err.message
+				}
+			})
+
+			function scanLoop() {
+				if (!scanning) return
+
+				const width = video.videoWidth
+				const height = video.videoHeight
+
+				if (!width || !height) {
+					requestAnimationFrame(scanLoop)
+					return
+				}
+
+				canvas.width = width
+				canvas.height = height
+				const ctx = canvas.getContext("2d")
+				ctx.drawImage(video, 0, 0, width, height)
+				const imageData = ctx.getImageData(0, 0, width, height)
+
+				const code = jsQR(imageData.data, width, height)
+				if (code && code.data) {
+					const text = code.data.trim()
+					statusEl.textContent = "QR bulundu."
+					linkEl.textContent = text
+
+					// Domain kontrolü
+					if (text.startsWith(BASE_URL)) {
+						scanning = false
+						stopStream()
+						statusEl.textContent = "Geçerli domain. Yönlendiriliyor..."
+						// İstersen önce confirm sorabilirsin:
+						const go = confirm("Bu linke gitmek istiyor musun?\n" + text)
+						if (go) {
+							window.location.href = text
+						}
+					} else {
+						statusEl.textContent =
+							"QR bulundu ama domain uyuşmuyor. Sadece " +
+							BASE_URL +
+							" kabul ediliyor."
+					}
+				} else {
+					// QR yoksa taramaya devam
+					requestAnimationFrame(scanLoop)
+				}
+			}
+
+			function stopStream() {
+				if (stream) {
+					stream.getTracks().forEach((t) => t.stop())
+				}
+			}
+		</script>
+	</body>
+</html>
