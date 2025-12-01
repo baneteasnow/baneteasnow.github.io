@@ -9,9 +9,12 @@ published: true
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>QR Tools – Generator & Scanner</title>
+		<title>QR Tools – next52books.com</title>
 
 		<style>
+			* {
+				box-sizing: border-box;
+			}
 			body {
 				font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 				max-width: 800px;
@@ -34,7 +37,7 @@ published: true
 			p {
 				font-size: 14px;
 				margin-bottom: 12px;
-				color: #000; /* e.g. kısmı artık siyah */
+				color: #000;
 			}
 
 			.section {
@@ -43,6 +46,11 @@ published: true
 				border-radius: 12px;
 				margin-top: 22px;
 				background: #fff;
+			}
+
+			.helper-text {
+				font-size: 14px; /* BURASI: diğer metinlerle aynı boy */
+				margin-bottom: 8px;
 			}
 
 			label {
@@ -57,13 +65,13 @@ published: true
 				margin-bottom: 12px;
 				border: 1px solid #c9c9c9;
 				border-radius: 6px;
-				background: #ffffff; /* white input */
-				color: #000; /* typed text black */
+				background: #ffffff;
+				color: #000;
 				font-size: 14px;
 			}
 
 			input::placeholder {
-				color: #666; /* placeholder grey/black */
+				color: #666;
 			}
 
 			button {
@@ -73,8 +81,8 @@ published: true
 				font-size: 14px;
 				border-radius: 6px;
 				border: 1px solid #999;
-				background: #e5e5e5; /* grey buttons */
-				color: #000; /* black text */
+				background: #e5e5e5;
+				color: #000;
 				cursor: pointer;
 			}
 
@@ -95,16 +103,43 @@ published: true
 				color: #000;
 			}
 
+			#generatedDate {
+				font-size: 12px;
+				color: #555;
+			}
+
+			/* Scanner */
+			.scanner-section {
+				text-align: center; /* buton + video ortalansın */
+			}
+
+			.scanner-video-wrapper {
+				display: inline-block;
+			}
+
 			video {
 				width: 100%;
 				max-width: 450px;
 				border: 1px solid #ccc;
 				border-radius: 8px;
 				margin-top: 16px;
+				display: block;
 			}
 
 			#status {
 				margin-top: 10px;
+				font-size: 13px;
+			}
+
+			#link {
+				margin-top: 8px;
+				font-size: 13px;
+				word-break: break-all;
+			}
+
+			code {
+				font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+					"Courier New", monospace;
 				font-size: 13px;
 			}
 		</style>
@@ -118,17 +153,12 @@ published: true
 		<div class="section">
 			<h2>QR Generator</h2>
 
-			Enter the image file name or path (e.g.
-			<code
-				style="
-					color: #000;
-					background: #f1f1f1;
-					padding: 2px 4px;
-					border-radius: 4px;
-				"
-			>
-				assets/new/nexus.jpg </code
-			>)
+			<p class="helper-text">
+				Enter the image file name or path (e.g.
+				<code style="background: #f1f1f1; padding: 2px 4px; border-radius: 4px">
+					assets/new/nexus.jpg </code
+				>).
+			</p>
 
 			<label for="pathInput">Path / file name</label>
 			<input
@@ -149,32 +179,29 @@ published: true
 				style="display: none"
 			></canvas>
 		</div>
-		<br />
-		<div style="clear: both"></div>
 
 		<!-- QR SCANNER -->
-		<div class="section">
+		<div class="section scanner-section">
 			<h2>QR Scanner</h2>
 			<p>
 				This scanner only accepts QR codes linking to
-				<code
-					style="
-						color: #000;
-						background: #f1f1f1;
-						padding: 2px 4px;
-						border-radius: 4px;
-					"
-				>
-					next52books.com
-				</code>
+				<code style="background: #f1f1f1; padding: 2px 4px; border-radius: 4px">
+					next52books.com </code
+				>.
 			</p>
 
-			<button id="startBtn">Start Camera</button>
+			<div class="scanner-video-wrapper">
+				<video
+					id="video"
+					playsinline
+				></video>
 
-			<video
-				id="video"
-				playsinline
-			></video>
+				<!-- BUTON ARTIK VİDEONUN ALTINDA -->
+				<div style="margin-top: 12px">
+					<button id="startBtn">Start Camera</button>
+				</div>
+			</div>
+
 			<canvas
 				id="canvas"
 				style="display: none"
@@ -183,8 +210,7 @@ published: true
 			<div id="status">Ready.</div>
 			<div id="link"></div>
 		</div>
-		<br />
-		<div style="clear: both"></div>
+
 		<!-- Libraries -->
 		<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
@@ -192,6 +218,7 @@ published: true
 		<script>
 			const BASE_URL = "https://next52books.com/"
 
+			/* ----- QR GENERATOR ----- */
 			const input = document.getElementById("pathInput")
 			const generateBtn = document.getElementById("generateBtn")
 			const printBtn = document.getElementById("printBtn")
@@ -205,21 +232,13 @@ published: true
 			let lastPath = ""
 			let lastUrl = ""
 
-			/* Clean file name for title below QR */
-			function extractCleanTitle(path) {
-				if (!path) return "QR Code"
-				let file = path.split("/").pop()
-				file = file.replace(/\.[a-zA-Z0-9]+$/, "")
-				file = file.replace(/-/g, " ")
-				file = file.replace(/\s+/g, " ").trim()
-				return file.replace(/\b\w/g, (c) => c.toUpperCase())
-			}
-
-			function makeSlug(pathOrUrl) {
-				if (!pathOrUrl) return "qr"
-				let base = pathOrUrl.split("/").pop()
-				base = base.replace(/\.[a-zA-Z0-9]+$/, "")
-				return base.toLowerCase().replace(/[^a-z0-9\-]+/g, "-")
+			function createQR(text) {
+				if (!qr) {
+					qr = new QRCode(qrContainer, { text, width: 256, height: 256 })
+				} else {
+					qr.clear()
+					qr.makeCode(text)
+				}
 			}
 
 			function getEnglishDate() {
@@ -232,13 +251,24 @@ published: true
 				})
 			}
 
-			function createQR(text) {
-				if (!qr) {
-					qr = new QRCode(qrContainer, { text, width: 256, height: 256 })
-				} else {
-					qr.clear()
-					qr.makeCode(text)
-				}
+			function extractCleanTitle(pathOrUrl) {
+				if (!pathOrUrl) return "QR Code"
+				let file = pathOrUrl.split("/").pop()
+				file = file.replace(/\.[a-zA-Z0-9]+$/, "")
+				file = file.replace(/-/g, " ")
+				file = file.replace(/\s+/g, " ").trim()
+				return file.replace(/\b\w/g, (c) => c.toUpperCase())
+			}
+
+			function makeSlug(pathOrUrl) {
+				if (!pathOrUrl) return "qr"
+				let base = pathOrUrl.split("/").pop()
+				base = base.replace(/\.[a-zA-Z0-9]+$/, "")
+				return base
+					.toLowerCase()
+					.replace(/[^a-z0-9\-]+/g, "-")
+					.replace(/-+/g, "-")
+					.replace(/^-|-$/g, "")
 			}
 
 			generateBtn.addEventListener("click", () => {
@@ -276,9 +306,10 @@ published: true
 
 				const img = qrContainer.querySelector("img")
 				const qrImg = img || qrContainer.querySelector("canvas")
-
-				const title = extractCleanTitle(lastPath)
-				const dateText = dateEl.textContent
+				if (!qrImg) {
+					alert("QR code is not ready yet.")
+					return
+				}
 
 				const size = 256
 				const padding = 20
@@ -287,20 +318,24 @@ published: true
 				exportCanvas.height = size + 90
 
 				const ctx = exportCanvas.getContext("2d")
-
 				ctx.fillStyle = "#ffffff"
 				ctx.fillRect(0, 0, exportCanvas.width, exportCanvas.height)
 
 				ctx.drawImage(qrImg, padding, padding, size, size)
 
+				const title = extractCleanTitle(lastPath)
+				const dateText = dateEl.textContent
+
+				const centerX = exportCanvas.width / 2
+
 				ctx.textAlign = "center"
 				ctx.fillStyle = "#000"
 				ctx.font = "16px system-ui"
-				ctx.fillText(title, exportCanvas.width / 2, size + padding + 20)
+				ctx.fillText(title, centerX, size + padding + 20)
 
 				ctx.font = "13px system-ui"
 				ctx.fillStyle = "#555"
-				ctx.fillText(dateText, exportCanvas.width / 2, size + padding + 40)
+				ctx.fillText(dateText, centerX, size + padding + 40)
 
 				const link = document.createElement("a")
 				link.download = "qr-" + makeSlug(lastPath) + ".png"
@@ -308,7 +343,7 @@ published: true
 				link.click()
 			})
 
-			/* ---- QR SCANNER ---- */
+			/* ----- QR SCANNER ----- */
 			const startBtn = document.getElementById("startBtn")
 			const video = document.getElementById("video")
 			const canvas = document.getElementById("canvas")
@@ -358,15 +393,21 @@ published: true
 
 				if (qr) {
 					scanning = false
-					stream.getTracks().forEach((t) => t.stop())
+					if (stream) {
+						stream.getTracks().forEach((t) => t.stop())
+					}
 
 					const text = qr.data.trim()
 					linkEl.textContent = text
 
 					if (text.startsWith(BASE_URL)) {
-						window.location.href = text
+						statusEl.textContent = "Valid QR code. Redirecting..."
+						const go = confirm("Do you want to open this link?\n" + text)
+						if (go) {
+							window.location.href = text
+						}
 					} else {
-						statusEl.textContent = "Invalid domain."
+						statusEl.textContent = "QR detected, but domain is not allowed."
 					}
 				} else {
 					requestAnimationFrame(scanLoop)
