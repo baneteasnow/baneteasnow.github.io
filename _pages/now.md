@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 93
+read: 94
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-12-01
+last_modified_at: 2025-12-02
 published: true
 #
 # 1
@@ -28,10 +28,10 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 1
 # 2
-booktitle2: "Why Do Women Write More Letters Than They Post?"
-bookyear2: 2020
-author2: "Darian Leader"
-sayfa2: 139
+booktitle2: "On Fire"
+bookyear2: 2021
+author2: "Naomi Klein"
+sayfa2: 352
 format2: reading as a book
 pageread2: 1
 ---

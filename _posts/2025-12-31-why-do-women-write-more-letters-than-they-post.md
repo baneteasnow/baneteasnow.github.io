@@ -11,9 +11,9 @@ sayfa: "140"
 goodreads: "https://www.goodreads.com/book/show/850188.Why_Do_Women_Write_More_Letters_Than_They_Post_"
 description: ""
 eng: ""
-last_modified_at: 2025-11-30
+last_modified_at: 2025-12-31
 published: false
-posted: 2025-11-30
+posted: 2025-12-31
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
