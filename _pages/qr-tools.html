@@ -266,12 +266,12 @@ published: true
 			}
 
 			function extractCleanTitle(pathOrUrl) {
-				if (!pathOrUrl) return "QR Code"
+				if (!pathOrUrl) return "qr code"
 				let file = pathOrUrl.split("/").pop()
 				file = file.replace(/\.[a-zA-Z0-9]+$/, "")
 				file = file.replace(/-/g, " ")
 				file = file.replace(/\s+/g, " ").trim()
-				return file.replace(/\b\w/g, (c) => c.toUpperCase())
+				return file.toLowerCase()
 			}
 
 			function makeSlug(pathOrUrl) {
