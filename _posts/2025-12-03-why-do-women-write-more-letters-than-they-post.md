@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Why Do Women Write More Letters Than They Post? | Darian Leader (Kitap)"
@@ -11,13 +10,13 @@ sayfa: "140"
 goodreads: "https://www.goodreads.com/book/show/850188.Why_Do_Women_Write_More_Letters_Than_They_Post_"
 description: ""
 eng: ""
-last_modified_at: 2025-12-31
-published: false
-posted: 2025-12-31
+last_modified_at: 2025-12-03
+published: true
+posted: 2025-12-03
 tag: "PsychologyMentalLife"
-reread: "no"
-rating: "3"
-num: ""
+reread: "yes"
+rating: "5"
+num: "554"
 update: "tobeupdated"
 image: "/assets/new/why-do-women-write-more-letters-than-they-post.jpg"
 ---
