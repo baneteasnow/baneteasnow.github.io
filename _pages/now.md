@@ -33,14 +33,14 @@ bookyear2: 2021
 author2: "Naomi Klein"
 sayfa2: 352
 format2: reading as a book
-pageread2: 1
+pageread2: 147
 # 3
 booktitle3: "Missing Out"
 bookyear3: 2023
 author3: "Adam Phillips"
 sayfa3: 168
 format3: reading as a book
-pageread3: 1
+pageread3: 41
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
