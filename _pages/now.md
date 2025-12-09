@@ -26,7 +26,7 @@ bookyear1: 2017
 author1: "Joan Didion"
 sayfa1: 224
 format1: reading as a book
-pageread1: 1
+pageread1: 119
 # 2
 booktitle2: "On Fire"
 bookyear2: 2021
@@ -40,7 +40,7 @@ bookyear3: 2023
 author3: "Adam Phillips"
 sayfa3: 168
 format3: reading as a book
-pageread3: 41
+pageread3: 73
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
