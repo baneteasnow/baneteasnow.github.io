@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 94
+read: 95
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-12-06
+last_modified_at: 2025-12-10
 published: true
 #
 # 1
@@ -40,7 +40,7 @@ bookyear3: 2023
 author3: "Adam Phillips"
 sayfa3: 168
 format3: reading as a book
-pageread3: 73
+pageread3: 168
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
