@@ -17,7 +17,7 @@ read: 95
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-12-10
+last_modified_at: 2025-12-15
 published: true
 #
 # 1
@@ -35,12 +35,19 @@ sayfa2: 352
 format2: reading as a book
 pageread2: 147
 # 3
-booktitle3: "Missing Out"
-bookyear3: 2023
-author3: "Adam Phillips"
-sayfa3: 168
+booktitle3: "Mothers, Daughters, and Body Image"
+bookyear3: 2021
+author3: "Hillary L. McBride"
+sayfa3: 268
 format3: reading as a book
-pageread3: 168
+pageread3: 1
+# 4
+booktitle4: "The Wisdom of Your Body"
+bookyear4: 2023
+author4: "Hillary L. McBride"
+sayfa4: 288
+format4: reading as a book
+pageread4: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -122,6 +129,30 @@ _by_ {{ page.author3 }}
   <br />
   <div style="clear: both"></div>
 
+⁜ {{ page.read | plus: 4 }}
+
+{{ page.booktitle4 }} ({{ page.bookyear4 }})  
+_by_ {{ page.author4 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa4 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
+      {{ page.pageread4 }}/{{ page.sayfa4 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 
 <div style="clear: both"></div>
