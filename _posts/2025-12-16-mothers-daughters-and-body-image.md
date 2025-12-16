@@ -10,13 +10,13 @@ sayfa: "268"
 goodreads: "https://www.goodreads.com/book/show/34466741-mothers-daughters-and-body-image"
 description: ""
 eng: ""
-last_modified_at: 2025-12-31
-published: false
-posted: 2025-12-31
+last_modified_at: 2025-12-16
+published: true
+posted: 2025-12-16
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "556"
 update: "tobeupdated"
 image: "/assets/new/mothers-daughters-and-body-image.jpg"
 ---
