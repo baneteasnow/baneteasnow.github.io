@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 96
+read: 97
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-12-16
+last_modified_at: 2025-12-24
 published: true
 #
 # 1
@@ -40,7 +40,7 @@ bookyear3: 2023
 author3: "Hillary L. McBride"
 sayfa3: 288
 format3: reading as a book
-pageread3: 1
+pageread3: 288
 ---
 
 {% include image-gallery.html folder="/assets/now" %}

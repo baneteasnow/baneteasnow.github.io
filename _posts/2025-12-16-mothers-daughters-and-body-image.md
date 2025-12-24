@@ -15,7 +15,7 @@ published: true
 posted: 2025-12-16
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "4"
+rating: "3"
 num: "556"
 update: "tobeupdated"
 image: "/assets/new/mothers-daughters-and-body-image.jpg"
