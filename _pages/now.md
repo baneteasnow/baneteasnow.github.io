@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 97
+read: 98
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-12-24
+last_modified_at: 2025-12-25
 published: true
 #
 # 1
@@ -28,19 +28,12 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 119
 # 2
-booktitle2: "On Fire"
-bookyear2: 2021
-author2: "Naomi Klein"
-sayfa2: 352
+booktitle2: "Liquid Modernity"
+bookyear2: 2017
+author2: "Zygmunt Bauman"
+sayfa2: 312
 format2: reading as a book
-pageread2: 147
-# 3
-booktitle3: "The Wisdom of Your Body"
-bookyear3: 2023
-author3: "Hillary L. McBride"
-sayfa3: 288
-format3: reading as a book
-pageread3: 288
+pageread2: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
