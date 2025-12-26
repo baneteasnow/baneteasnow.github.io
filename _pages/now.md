@@ -89,34 +89,6 @@ _by_ {{ page.author2 }}
 
   <br />
   <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 3 }}
-
-{{ page.booktitle3 }} ({{ page.bookyear3 }})  
-_by_ {{ page.author3 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa3 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread3 }}/{{ page.sayfa3 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-  <br />
-  <div style="clear: both"></div>
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 
 <div style="clear: both"></div>
