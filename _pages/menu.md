@@ -10,7 +10,8 @@ _[tl;dr](/summary.html)_
 _[kategoriler](/categories.html)_  
 _[TBR](https://homelibrary.next52books.com/tbr)_  
 _[tekrar okumaya değer kitaplar](/reread.html)_  
-_[okuma listesi](/readinglist.html)_  
+_[okuma listesi](/readinglist.html)_
+_[2026](/2026.html)_  
 _[2025](/2025.html)_  
 _[2024](/2024.html)_  
 _[2023](/2023.html)_  
