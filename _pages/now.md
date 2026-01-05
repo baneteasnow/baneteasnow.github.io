@@ -33,7 +33,7 @@ bookyear2: 2017
 author2: "Zygmunt Bauman"
 sayfa2: 312
 format2: reading as a book
-pageread2: 1
+pageread2: 116
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
