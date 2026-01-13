@@ -11,9 +11,9 @@ sayfa: "312"
 goodreads: "https://www.goodreads.com/book/show/168787.Liquid_Modernity"
 description: ""
 eng: ""
-last_modified_at: 2025-12-31
+last_modified_at: 2026-01-31
 published: false
-posted: 2025-12-31
+posted: 2026-01-31
 tag: "SocietyCulture"
 reread: "no"
 rating: "3"

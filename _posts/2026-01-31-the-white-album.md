@@ -11,9 +11,9 @@ sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/421.The_White_Album"
 description: ""
 eng: ""
-last_modified_at: 2025-12-31
+last_modified_at: 2026-01-31
 published: false
-posted: 2025-12-31
+posted: 2026-01-31
 tag: "BiographyLifeStories"
 reread: "no"
 rating: "3"

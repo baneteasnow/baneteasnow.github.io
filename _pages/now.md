@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 98
+read: 1
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-12-25
+last_modified_at: 2026-01-31
 published: true
 #
 # 1
@@ -33,7 +33,7 @@ bookyear2: 2017
 author2: "Zygmunt Bauman"
 sayfa2: 312
 format2: reading as a book
-pageread2: 116
+pageread2: 161
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
