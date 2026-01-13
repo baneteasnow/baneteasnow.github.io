@@ -63,6 +63,7 @@ defaults:
       # published: true or false OR future OR unpublished
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   
