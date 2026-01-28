@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 1
+read: 2
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-01-18
+last_modified_at: 2026-01-28
 published: true
 #
 # 1
@@ -28,12 +28,12 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 119
 # 2
-booktitle2: "Liquid Modernity"
-bookyear2: 2017
-author2: "Zygmunt Bauman"
-sayfa2: 312
+booktitle2: "Dopamine Nation"
+bookyear2: 2025
+author2: "Anna Lembke"
+sayfa2: 208
 format2: reading as a book
-pageread2: 161
+pageread2: 1
 # 3
 booktitle3: "Irvin D. Yalom - Psikoterapi ve İnsan Olmak Üzerine"
 bookyear3: 2022
