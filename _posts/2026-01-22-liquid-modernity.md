@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Liquid Modernity | Zygmunt Bauman (Kitap)"
@@ -11,13 +10,13 @@ sayfa: "312"
 goodreads: "https://www.goodreads.com/book/show/168787.Liquid_Modernity"
 description: ""
 eng: ""
-last_modified_at: 2026-01-31
-published: false
-posted: 2026-01-31
+last_modified_at: 2026-01-22
+published: true
+posted: 2026-01-22
 tag: "SocietyCulture"
-reread: "no"
-rating: "3"
-num: ""
+reread: "yes"
+rating: "5"
+num: "560"
 update: "tobeupdated"
 image: "/assets/new/liquid-modernity.jpg"
 ---
