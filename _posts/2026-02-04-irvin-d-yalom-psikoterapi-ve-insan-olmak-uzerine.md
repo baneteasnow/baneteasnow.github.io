@@ -15,7 +15,7 @@ published: true
 posted: 2026-02-04
 tag: "BiographyLifeStories"
 reread: "no"
-rating: "3"
+rating: "5"
 num: "561"
 update: "tobeupdated"
 image: "/assets/new/irvin-d-yalom-psikoterapi-ve-insan-olmak-uzerine.jpg"

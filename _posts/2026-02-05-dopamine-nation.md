@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Dopamine Nation | Anna Lembke (Kitap)"
@@ -11,13 +10,13 @@ sayfa: "206"
 goodreads: ""
 description: ""
 eng: ""
-last_modified_at: 2026-02-28
-published: false
-posted: 2026-02-28
+last_modified_at: 2026-02-05
+published: true
+posted: 2026-02-05
 tag: ""
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "562"
 update: "tobeupdated"
 image: "/assets/new/dopamine-nation.jpg"
 ---
