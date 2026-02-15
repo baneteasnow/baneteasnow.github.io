@@ -11,13 +11,13 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/41717504-this-is-not-propaganda"
 description: ""
 eng: ""
-last_modified_at: 2026-02-28
-published: false
-posted: 2026-02-28
-tag: ""
+last_modified_at: 2026-02-12
+published: true
+posted: 2026-02-12
+tag: "SocietyCulture"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "564"
 update: "tobeupdated"
 image: "/assets/new/this-is-not-propaganda.jpg"
 ---

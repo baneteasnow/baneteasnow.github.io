@@ -7,13 +7,13 @@ tr: "-"
 yazar: "Anna Lembke"
 yil: "2025"
 sayfa: "206"
-goodreads: ""
+goodreads: "https://www.goodreads.com/book/show/55723020-dopamine-nation"
 description: ""
 eng: ""
 last_modified_at: 2026-02-05
 published: true
 posted: 2026-02-05
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
 num: "562"

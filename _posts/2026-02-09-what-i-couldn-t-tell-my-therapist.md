@@ -11,13 +11,13 @@ sayfa: "280"
 goodreads: "https://www.goodreads.com/book/show/209306466-what-i-couldn-t-tell-my-therapist"
 description: ""
 eng: ""
-last_modified_at: 2026-02-28
-published: false
-posted: 2026-02-28
-tag: ""
+last_modified_at: 2026-02-09
+published: true
+posted: 2026-02-09
+tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "563"
 update: "tobeupdated"
 image: "/assets/new/what-i-couldn-t-tell-my-therapist.jpg"
 ---
