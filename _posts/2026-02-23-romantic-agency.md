@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Romantic Agency | Luke Brunning (Kitap)"
@@ -11,13 +10,13 @@ sayfa: "264"
 goodreads: "https://www.goodreads.com/book/show/203251452-romantic-agency"
 description: ""
 eng: ""
-last_modified_at: 2026-02-28
-published: false
-posted: 2026-02-28
+last_modified_at: 2026-02-23
+published: true
+posted: 2026-02-23
 tag: "PhilosophyMeaning"
 reread: "no"
 rating: "3"
-num: ""
+num: "565"
 update: "tobeupdated"
 image: "/assets/new/romantic-agency.jpg"
 ---

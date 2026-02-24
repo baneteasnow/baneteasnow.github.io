@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 6
+read: 7
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-02-15
+last_modified_at: 2026-02-24
 published: true
 #
 # 1
@@ -47,7 +47,7 @@ bookyear4: 2025
 author4: "Luke Brunning"
 sayfa4: 264
 format4: reading as a book
-pageread4: 1
+pageread4: 264
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
