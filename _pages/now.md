@@ -13,7 +13,7 @@
 # 3 = book
 #
 #
-read: 8
+read: 9
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -28,27 +28,20 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 119
 # 2
-booktitle2: "Over the Influence"
-bookyear2: 2025
-author2: "Kara Alaimo"
-sayfa2: 288
+booktitle2: "Nobody's Girl"
+bookyear2: 2026
+author2: "Virginia Roberts Giuffre"
+sayfa2: 432
 format2: reading as a book
-pageread2: 1
+pageread2: 208
 # 3
-booktitle3: "Nobody's Girl"
-bookyear3: 2026
-author3: "Virginia Roberts Giuffre"
-sayfa3: 432
+booktitle3: "Men Explain Things to Me"
+bookyear3: 2024
+author3: "Rebecca Solnit"
+sayfa3: 136
 format3: reading as a book
-pageread3: 208
+pageread3: 1
 # 4
-booktitle4: "Men Explain Things to Me"
-bookyear4: 2024
-author4: "Rebecca Solnit"
-sayfa4: 136
-format4: reading as a book
-pageread4: 1
-# 5
 booktitle4: "Abolish the Family"
 bookyear4: 2025
 author4: "Sophie Lewis"
@@ -153,30 +146,6 @@ _by_ {{ page.author4 }}
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
       {{ page.pageread4 }}/{{ page.sayfa4 }}
-      </span>
-  </div>
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 5 }}
-
-{{ page.booktitle5 }} ({{ page.bookyear5 }})  
-_by_ {{ page.author45 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa5 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-      {{ page.pageread5 }}/{{ page.sayfa5 }}
       </span>
   </div>
   <br />

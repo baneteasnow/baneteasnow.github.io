@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/175743018-over-the-influence"
 description: ""
 eng: ""
 last_modified_at: 2026-02-26
-published: false
+published: true
 posted: 2026-02-26
 tag: "TechnologyTheDigitalWorld"
 reread: "no"
