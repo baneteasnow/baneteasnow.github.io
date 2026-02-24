@@ -13,7 +13,7 @@
 # 3 = book
 #
 #
-read: 7
+read: 8
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -35,19 +35,26 @@ sayfa2: 288
 format2: reading as a book
 pageread2: 1
 # 3
-booktitle3: "History, Disrupted"
-bookyear3: 2024
-author3: "Jason Steinhauer"
-sayfa3: 208
+booktitle3: "Nobody's Girl"
+bookyear3: 2026
+author3: "Virginia Roberts Giuffre"
+sayfa3: 432
 format3: reading as a book
-pageread3: 1
+pageread3: 208
 # 4
-booktitle4: "Romantic Agency"
-bookyear4: 2025
-author4: "Luke Brunning"
-sayfa4: 264
+booktitle4: "Men Explain Things to Me"
+bookyear4: 2024
+author4: "Rebecca Solnit"
+sayfa4: 136
 format4: reading as a book
-pageread4: 264
+pageread4: 1
+# 5
+booktitle4: "Abolish the Family"
+bookyear4: 2025
+author4: "Sophie Lewis"
+sayfa4: 128
+format4: reading as a book
+pageread4: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -146,6 +153,30 @@ _by_ {{ page.author4 }}
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
       {{ page.pageread4 }}/{{ page.sayfa4 }}
+      </span>
+  </div>
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+_by_ {{ page.author45 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa5 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+      {{ page.pageread5 }}/{{ page.sayfa5 }}
       </span>
   </div>
   <br />
