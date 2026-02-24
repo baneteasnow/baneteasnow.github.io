@@ -33,7 +33,7 @@ bookyear2: 2026
 author2: "Virginia Roberts Giuffre"
 sayfa2: 432
 format2: reading as a book
-pageread2: 208
+pageread2: 1
 # 3
 booktitle3: "Men Explain Things to Me"
 bookyear3: 2024
