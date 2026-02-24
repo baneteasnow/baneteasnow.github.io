@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "History, Disrupted | Jason Steinhauer (Kitap)"
@@ -11,13 +10,13 @@ sayfa: "208"
 goodreads: "https://www.goodreads.com/book/show/59895070-history-disrupted"
 description: ""
 eng: ""
-last_modified_at: 2026-02-28
-published: false
-posted: 2026-02-28
+last_modified_at: 2026-02-25
+published: true
+posted: 2026-02-25
 tag: "HistoryPoliticalThought"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "566"
 update: "tobeupdated"
 image: "/assets/new/history-disrupted.jpg"
 ---
