@@ -21,4 +21,4 @@ update: "tobeupdated"
 image: "/assets/new/over-the-influence.jpg"
 ---
 
-to be updated
+to be updated...
