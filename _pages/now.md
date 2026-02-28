@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 9
+read: 10
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-02-24
+last_modified_at: 2026-02-27
 published: true
 #
 # 1
@@ -26,28 +26,28 @@ bookyear1: 2017
 author1: "Joan Didion"
 sayfa1: 224
 format1: reading as a book
-pageread1: 119
+pageread1: 126
 # 2
 booktitle2: "Nobody's Girl"
 bookyear2: 2026
 author2: "Virginia Roberts Giuffre"
 sayfa2: 432
 format2: reading as a book
-pageread2: 1
+pageread2: 432
 # 3
 booktitle3: "Men Explain Things to Me"
 bookyear3: 2024
 author3: "Rebecca Solnit"
 sayfa3: 136
 format3: reading as a book
-pageread3: 1
+pageread3: 59
 # 4
 booktitle4: "Abolish the Family"
 bookyear4: 2025
 author4: "Sophie Lewis"
 sayfa4: 128
 format4: reading as a book
-pageread4: 1
+pageread4: 38
 ---
 
 {% include image-gallery.html folder="/assets/now" %}

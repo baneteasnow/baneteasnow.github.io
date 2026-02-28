@@ -10,13 +10,13 @@ sayfa: "432"
 goodreads: "https://www.goodreads.com/book/show/193388653-nobody-s-girl"
 description: ""
 eng: ""
-last_modified_at: 2026-02-28
-published: false
-posted: 2026-02-28
+last_modified_at: 2026-02-27
+published: true
+posted: 2026-02-27
 tag: "BiographyLifeStories"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "568"
 update: "tobeupdated"
 image: "/assets/new/nobody-s-girl.jpg"
 ---
