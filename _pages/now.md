@@ -28,12 +28,12 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "Nobody's Girl"
-bookyear2: 2026
-author2: "Virginia Roberts Giuffre"
-sayfa2: 432
+booktitle2: "The Anxious Generation"
+bookyear2: 2025
+author2: "Jonathan Haidt"
+sayfa2: 464
 format2: reading as a book
-pageread2: 432
+pageread2: 1
 # 3
 booktitle3: "Men Explain Things to Me"
 bookyear3: 2024

@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Over the Influence | Kara Alaimo (Kitap)"
 kitap: "Over the Influence: Why Social Media is Toxic for Women and Girls--And How We Can Take it Back"
-tr: "Çevrimiçi Tuzaklar"
+tr: "Çevrimiçi Tuzaklar - Sosyal Medyanın Kadınlar ve Kız Çocukları Üzerindeki Etkisi ve Buna Karşı Koymanın Yolları"
 yazar: "Kara Alaimo"
 yil: "2025"
 sayfa: "288"

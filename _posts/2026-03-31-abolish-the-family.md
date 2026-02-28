@@ -10,9 +10,9 @@ sayfa: "128"
 goodreads: "https://www.goodreads.com/book/show/59893962-abolish-the-family"
 description: ""
 eng: ""
-last_modified_at: 2026-02-28
+last_modified_at: 2026-03-31
 published: false
-posted: 2026-02-28
+posted: 2026-03-31
 tag: "SocietyCulture"
 reread: "no"
 rating: "3"
