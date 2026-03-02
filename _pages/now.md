@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 10
+read: 11
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-02-28
+last_modified_at: 2026-03-02
 published: true
 #
 # 1
@@ -40,7 +40,7 @@ bookyear3: 2024
 author3: "Rebecca Solnit"
 sayfa3: 136
 format3: reading as a book
-pageread3: 59
+pageread3: 136
 # 4
 booktitle4: "Abolish the Family"
 bookyear4: 2025
