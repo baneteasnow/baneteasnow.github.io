@@ -16,7 +16,7 @@ posted: 2026-03-02
 tag: "SocietyCulture"
 reread: "no"
 rating: "3"
-num: ""
+num: "569"
 update: "tobeupdated"
 image: "/assets/new/abolish-the-family.jpg"
 ---
