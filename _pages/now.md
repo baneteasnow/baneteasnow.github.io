@@ -13,7 +13,7 @@
 # 3 = book
 #
 #
-read: 12
+read: 13
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -40,7 +40,7 @@ bookyear3: 2018
 author3: "Alain De Botton"
 sayfa3: 104
 format3: reading as a book
-pageread3: 1
+pageread3: 104
 # 4
 booktitle4: "The Information Bomb"
 bookyear4: 2021
