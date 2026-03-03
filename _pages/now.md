@@ -17,7 +17,7 @@ read: 12
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-02
+last_modified_at: 2026-03-03
 published: true
 #
 # 1
@@ -33,70 +33,21 @@ bookyear2: 2025
 author2: "Jonathan Haidt"
 sayfa2: 464
 format2: reading as a book
-pageread2: 1
+pageread2: 41
 # 3
-#booktitle3: "Men Explain Things to Me"
-#bookyear3: 2024
-#author3: "Rebecca Solnit"
-#sayfa3: 136
-#format3: reading as a book
-#pageread3: 136
+booktitle3: "On Seeing and Noticing"
+bookyear3: 2018
+author3: "Alain De Botton"
+sayfa3: 104
+format3: reading as a book
+pageread3: 1
 # 4
-#booktitle4: "Abolish the Family"
-#bookyear4: 2025
-#author4: "Sophie Lewis"
-#sayfa4: 128
-#format4: reading as a book
-#pageread4: 128
-#
-#⁜ {{ page.read | plus: 3 }}
-#
-#{{ page.booktitle3 }} ({{ page.bookyear3 }})
-#_by_ {{ page.author3 }}
-#
-#<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
-#
-#<div style="font-size: 50%; font-style: italic;">
-#{{ page.sayfa3 }} sayfa
-#</div>
-#
-#<div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-#{{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
-#</div>
-#
-#<div>
-#<progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
-#<span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-#{{ page.pageread3 }}/{{ page.sayfa3 }}
-#</span>
-#</div>
-#<br />
-#<div style="clear: both"></div>
-#
-#⁜ {{ page.read | plus: 4 }}
-#
-#{{ page.booktitle4 }} ({{ page.bookyear4 }})
-#_by_ {{ page.author4 }}
-#
-#<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
-#
-#<div style="font-size: 50%; font-style: italic;">
-#{{ page.sayfa4 }} sayfa
-#</div>
-
-#<div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-#{{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
-#</div>
-#
-#<div>
-#<progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-#<span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-#{{ page.pageread4 }}/{{ page.sayfa4 }}
-#</span>
-#</div>
-#<br />
-#<div style="clear: both"></div>
-#
+booktitle4: "The Information Bomb"
+bookyear4: 2021
+author4: "Paul Virilio"
+sayfa4: 144
+format4: reading as a book
+pageread4: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -151,6 +102,54 @@ _by_ {{ page.author2 }}
   </div>
   <br />
   <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 3 }}
+
+{{ page.booktitle3 }} ({{ page.bookyear3 }})
+_by_ {{ page.author3 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
+
+<div style="font-size: 50%; font-style: italic;">
+{{ page.sayfa3 }} sayfa
+</div>
+
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+{{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
+</div>
+
+<div>
+<progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
+<span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+{{ page.pageread3 }}/{{ page.sayfa3 }}
+</span>
+</div>
+<br />
+<div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 4 }}
+
+{{ page.booktitle4 }} ({{ page.bookyear4 }})
+_by_ {{ page.author4 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
+
+<div style="font-size: 50%; font-style: italic;">
+{{ page.sayfa4 }} sayfa
+</div>
+
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+{{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
+</div>
+
+<div>
+<progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
+<span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+{{ page.pageread4 }}/{{ page.sayfa4 }}
+</span>
+</div>
+<br />
+<div style="clear: both"></div>
 
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 
