@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 13
+read: 14
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-03
+last_modified_at: 2026-03-06
 published: true
 #
 # 1
@@ -28,26 +28,26 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "The Anxious Generation"
+booktitle2: "On Our Best Behavior"
 bookyear2: 2025
-author2: "Jonathan Haidt"
-sayfa2: 464
+author2: "Elise Loehnen"
+sayfa2: 408
 format2: reading as a book
-pageread2: 464
+pageread2: 1
 # 3
-booktitle3: "On Seeing and Noticing"
-bookyear3: 2018
-author3: "Alain De Botton"
-sayfa3: 104
+booktitle3: "Lost Connections"
+bookyear3: 2019
+author3: "Johann Hari"
+sayfa3: 368
 format3: reading as a book
-pageread3: 104
+pageread3: 1
 # 4
 booktitle4: "The Information Bomb"
 bookyear4: 2021
 author4: "Paul Virilio"
 sayfa4: 144
 format4: reading as a book
-pageread4: 1
+pageread4: 46
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
