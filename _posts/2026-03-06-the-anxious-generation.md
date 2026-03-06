@@ -10,13 +10,13 @@ sayfa: "464"
 goodreads: "https://www.goodreads.com/book/show/171681821-the-anxious-generation"
 description: ""
 eng: ""
-last_modified_at: 2026-03-31
-published: false
-posted: 2026-03-31
+last_modified_at: 2026-03-06
+published: true
+posted: 2026-03-06
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "571"
 update: "tobeupdated"
 image: "/assets/new/the-anxious-generation.jpg"
 ---

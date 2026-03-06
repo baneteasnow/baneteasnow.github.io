@@ -33,7 +33,7 @@ bookyear2: 2025
 author2: "Jonathan Haidt"
 sayfa2: 464
 format2: reading as a book
-pageread2: 41
+pageread2: 464
 # 3
 booktitle3: "On Seeing and Noticing"
 bookyear3: 2018
