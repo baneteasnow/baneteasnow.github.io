@@ -48,6 +48,13 @@ author4: "Paul Virilio"
 sayfa4: 144
 format4: reading as a book
 pageread4: 46
+# 5
+booktitle5: "Prozac Nation"
+bookyear5: 2021
+author5: "Paul Virilio"
+sayfa5: 144
+format5: reading as a book
+pageread5: 46
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
