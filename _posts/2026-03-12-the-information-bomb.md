@@ -10,13 +10,13 @@ sayfa: "144"
 goodreads: "https://www.goodreads.com/book/show/203092.The_Information_Bomb"
 description: ""
 eng: ""
-last_modified_at: 2026-03-31
-published: false
-posted: 2026-03-31
+last_modified_at: 2026-03-12
+published: true
+posted: 2026-03-12
 tag: "TechnologyTheDigitalWorld"
-reread: "no"
-rating: "3"
-num: ""
+reread: "yes"
+rating: "4"
+num: "572"
 update: "tobeupdated"
 image: "/assets/new/the-information-bomb.jpg"
 ---
