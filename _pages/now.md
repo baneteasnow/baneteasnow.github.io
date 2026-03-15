@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 14
+read: 15
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-06
+last_modified_at: 2026-03-15
 published: true
 #
 # 1
@@ -42,12 +42,12 @@ sayfa3: 368
 format3: reading as a book
 pageread3: 1
 # 4
-booktitle4: "The Information Bomb"
-bookyear4: 2021
-author4: "Paul Virilio"
-sayfa4: 144
+booktitle4: "Feminism Is for Everybody"
+bookyear4: 2026
+author4: "Bell Hooks"
+sayfa4: 148
 format4: reading as a book
-pageread4: 46
+pageread4: 1
 # 5
 booktitle5: "Prozac Nation"
 bookyear5: 2005
@@ -153,6 +153,30 @@ _by_ {{ page.author4 }}
 <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
 <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
 {{ page.pageread4 }}/{{ page.sayfa4 }}
+</span>
+</div>
+<br />
+<div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})
+_by_ {{ page.author5 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
+
+<div style="font-size: 50%; font-style: italic;">
+{{ page.sayfa5 }} sayfa
+</div>
+
+<div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+{{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+</div>
+
+<div>
+<progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+<span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+{{ page.pageread5 }}/{{ page.sayfa5 }}
 </span>
 </div>
 <br />
