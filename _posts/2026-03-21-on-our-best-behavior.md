@@ -10,13 +10,13 @@ sayfa: "408"
 goodreads: "https://www.goodreads.com/book/show/63876551-on-our-best-behavior"
 description: ""
 eng: ""
-last_modified_at: 2026-03-31
-published: false
-posted: 2026-03-31
+last_modified_at: 2026-03-21
+published: true
+posted: 2026-03-21
 tag: "SocietyCulture"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "574"
 update: "tobeupdated"
 image: "/assets/new/on-our-best-behavior.jpg"
 ---

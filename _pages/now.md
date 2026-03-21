@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 16
+read: 18
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-18
+last_modified_at: 2026-03-21
 published: true
 #
 # 1
@@ -33,14 +33,14 @@ bookyear2: 2025
 author2: "Elise Loehnen"
 sayfa2: 408
 format2: reading as a book
-pageread2: 1
+pageread2: 408
 # 3
 booktitle3: "Lost Connections"
 bookyear3: 2019
 author3: "Johann Hari"
 sayfa3: 368
 format3: reading as a book
-pageread3: 1
+pageread3: 368
 # 4
 booktitle4: "Feminism Is for Everybody"
 bookyear4: 2026

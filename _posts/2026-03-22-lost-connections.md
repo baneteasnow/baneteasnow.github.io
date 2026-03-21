@@ -10,13 +10,13 @@ sayfa: "368"
 goodreads: "https://www.goodreads.com/book/show/34921573-lost-connections"
 description: ""
 eng: ""
-last_modified_at: 2026-03-31
+last_modified_at: 2026-03-22
 published: false
-posted: 2026-03-31
+posted: 2026-03-22
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "575"
 update: "tobeupdated"
 image: "/assets/new/lost-connections.jpg"
 ---
