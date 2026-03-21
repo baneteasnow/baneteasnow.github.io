@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/34921573-lost-connections"
 description: ""
 eng: ""
 last_modified_at: 2026-03-22
-published: false
+published: true
 posted: 2026-03-22
 tag: "PsychologyMentalLife"
 reread: "no"
