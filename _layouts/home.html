@@ -84,4 +84,17 @@ layout: default
 				style="width: 15px; height: 15px; display: inline-block"
 		/></a>
 	</div>
+	{% assign now = 'now' | date: '%s' %} {% assign start_of_year = 'now' | date:
+	'%Y-01-01 00:00:00' | date: '%s' %} {% assign end_of_year = 'now' | date:
+	'%Y-12-31 23:59:59' | date: '%s' %} {% assign seconds_in_day = 86400 %} {%
+	assign day_of_year = now | minus: start_of_year | divided_by: seconds_in_day |
+	plus: 1 %} {% assign total_days = end_of_year | minus: start_of_year |
+	divided_by: seconds_in_day | plus: 1 %} {% assign remaining_days = total_days
+	| minus: day_of_year %} {% assign remaining_percent = remaining_days | times:
+	100 | divided_by: total_days %}
+
+	<p>
+		Day {{ day_of_year }} of {{ total_days }} — {{ remaining_percent }}% of the
+		year remaining
+	</p>
 </center>
