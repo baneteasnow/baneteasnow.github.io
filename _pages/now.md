@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 18
+read: 19
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-21
+last_modified_at: 2026-03-24
 published: true
 #
 # 1
@@ -33,7 +33,7 @@ bookyear2: 2019
 author2: "Robert A. Johnson"
 sayfa2: 108
 format2: reading as a book
-pageread2: 1
+pageread2: 108
 # 3
 booktitle3: "All About Love"
 bookyear3: 2018

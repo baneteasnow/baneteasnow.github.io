@@ -10,13 +10,13 @@ sayfa: "108"
 goodreads: "https://www.goodreads.com/book/show/43673239-owning-your-own-shadow"
 description: ""
 eng: ""
-last_modified_at: 2026-03-31
-published: false
-posted: 2026-03-31
+last_modified_at: 2026-03-24
+published: true
+posted: 2026-03-24
 tag: "PsychologyMentalLife"
-reread: "no"
-rating: "3"
-num: ""
+reread: "yes"
+rating: "4"
+num: "576"
 update: "tobeupdated"
 image: "/assets/new/owning-your-own-shadow.jpg"
 ---
