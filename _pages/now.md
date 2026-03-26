@@ -17,7 +17,7 @@ read: 19
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-24
+last_modified_at: 2026-03-26
 published: true
 #
 # 1
@@ -28,12 +28,12 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "Owning Your Own Shadow"
-bookyear2: 2019
-author2: "Robert A. Johnson"
-sayfa2: 108
+booktitle2: "Sevmek, Sevilmek, Cinsellik"
+bookyear2: 2026
+author2: "Nihan Kaya"
+sayfa2: 320
 format2: reading as a book
-pageread2: 108
+pageread2: 1
 # 3
 booktitle3: "All About Love"
 bookyear3: 2018
