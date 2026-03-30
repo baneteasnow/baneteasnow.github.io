@@ -17,7 +17,7 @@ read: 19
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-26
+last_modified_at: 2026-03-28
 published: true
 #
 # 1
@@ -28,10 +28,10 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "Sevmek, Sevilmek, Cinsellik"
-bookyear2: 2026
-author2: "Nihan Kaya"
-sayfa2: 320
+booktitle2: "Overtime"
+bookyear2: 2021
+author2: "Will Stronge, Kyle Lewis"
+sayfa2: 104
 format2: reading as a book
 pageread2: 1
 # 3
@@ -55,13 +55,6 @@ author5: "Sara Ahmed"
 sayfa5: 320
 format5: reading as a book
 pageread5: 1
-# 6
-booktitle6: "Overtime"
-bookyear6: 2021
-author6: "Will Stronge, Kyle Lewis"
-sayfa6: 104
-format6: reading as a book
-pageread6: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -184,30 +177,6 @@ _by_ {{ page.author5 }}
 <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
 <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
 {{ page.pageread5 }}/{{ page.sayfa5 }}
-</span>
-</div>
-<br />
-<div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 6 }}
-
-{{ page.booktitle6 }} ({{ page.bookyear6 }})
-_by_ {{ page.author6 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format6 }} </div>
-
-<div style="font-size: 50%; font-style: italic;">
-{{ page.sayfa6 }} sayfa
-</div>
-
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-{{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
-</div>
-
-<div>
-<progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
-<span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-{{ page.pageread6 }}/{{ page.sayfa6 }}
 </span>
 </div>
 <br />

@@ -10,12 +10,12 @@ sayfa: "320"
 goodreads: "https://www.goodreads.com/"
 description: ""
 eng: ""
-last_modified_at: 2026-03-31
-published: false
-posted: 2026-03-31
+last_modified_at: 2026-03-28
+published: true
+posted: 2026-03-28
 tag: "PsychologyMentalLife"
-reread: "no"
-rating: "3"
+reread: "yes"
+rating: "5"
 num: ""
 update: "tobeupdated"
 image: "/assets/new/sevmek-sevilmek-cinsellik.jpg"
