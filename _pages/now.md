@@ -47,7 +47,7 @@ bookyear4: 2026
 author4: "Bell Hooks"
 sayfa4: 148
 format4: reading as a book
-pageread4: 1
+pageread4: 148
 # 5
 booktitle5: "The Feminist Killjoy Handbook"
 bookyear5: 2024

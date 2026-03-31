@@ -11,12 +11,12 @@ goodreads: "https://www.goodreads.com/book/show/22481283-feminism-is-for-everybo
 description: ""
 eng: ""
 last_modified_at: 2026-03-31
-published: false
+published: true
 posted: 2026-03-31
 tag: "SocietyCulture"
 reread: "no"
 rating: "3"
-num: ""
+num: "578"
 update: "tobeupdated"
 image: "/assets/new/feminism-is-for-everybody.jpg"
 ---
