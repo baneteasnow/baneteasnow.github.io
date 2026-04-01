@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 21
+read: 22
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-03-28
+last_modified_at: 2026-04-01
 published: true
 #
 # 1
@@ -33,7 +33,7 @@ bookyear2: 2021
 author2: "Will Stronge, Kyle Lewis"
 sayfa2: 104
 format2: reading as a book
-pageread2: 1
+pageread2: 104
 # 3
 booktitle3: "All About Love"
 bookyear3: 2018
