@@ -10,13 +10,13 @@ sayfa: "228"
 goodreads: "https://www.goodreads.com/book/show/209342003-beni-zorla-sa-ma-b-rak-ben-emzireyim-seni"
 description: ""
 eng: ""
-last_modified_at: 2026-03-31
-published: false
-posted: 2026-03-31
+last_modified_at: 2026-04-05
+published: true
+posted: 2026-04-05
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "580"
 update: "tobeupdated"
 image: "/assets/new/beni-zorla-sagma-birak-ben-emzireyim-seni.jpg"
 ---
