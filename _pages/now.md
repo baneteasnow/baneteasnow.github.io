@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 22
+read: 23
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-04-01
+last_modified_at: 2026-04-05
 published: true
 #
 # 1
@@ -47,7 +47,7 @@ bookyear4: 2024
 author4: "Nihan Kaya"
 sayfa4: 228
 format4: reading as a book
-pageread4: 1
+pageread4: 228
 # 5
 booktitle5: "Fildisi Kuyu 1 - Aile ve Toplum Tarafindan Dislanma"
 bookyear5: 2024
