@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 24
+read: 25
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-04-11
+last_modified_at: 2026-04-16
 published: true
 #
 # 1
@@ -40,7 +40,7 @@ bookyear3: 2018
 author3: "Bell Hooks"
 sayfa3: 216
 format3: reading as a book
-pageread3: 1
+pageread3: 216
 # 4
 booktitle4: "Fildisi Kuyu 2 - Yaraticilik, Cinsellik ve Psikanaliz"
 bookyear4: 2024
