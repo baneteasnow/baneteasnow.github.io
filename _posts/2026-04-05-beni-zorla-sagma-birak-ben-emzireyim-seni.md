@@ -16,7 +16,7 @@ posted: 2026-04-05
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
-num: "580"
+num: "581"
 update: "tobeupdated"
 image: "/assets/new/beni-zorla-sagma-birak-ben-emzireyim-seni.jpg"
 ---

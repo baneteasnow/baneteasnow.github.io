@@ -16,7 +16,7 @@ posted: 2026-04-11
 tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
-num: "581"
+num: "582"
 update: "tobeupdated"
 image: "/assets/new/fildisi-kuyu-1.jpg"
 ---

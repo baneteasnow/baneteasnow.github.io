@@ -28,26 +28,19 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "Overtime"
-bookyear2: 2021
-author2: "Will Stronge, Kyle Lewis"
-sayfa2: 104
+booktitle2: "The Feminist Killjoy Handbook"
+bookyear2: 2024
+author2: "Sara Ahmed"
+sayfa2: 320
 format2: reading as a book
-pageread2: 104
+pageread2: 136
 # 3
-booktitle3: "All About Love"
-bookyear3: 2018
-author3: "Bell Hooks"
-sayfa3: 216
+booktitle3: "Fildisi Kuyu 2 - Yaraticilik, Cinsellik ve Psikanaliz"
+bookyear3: 2024
+author3: "Nihan Kaya"
+sayfa3: 240
 format3: reading as a book
-pageread3: 216
-# 4
-booktitle4: "Fildisi Kuyu 2 - Yaraticilik, Cinsellik ve Psikanaliz"
-bookyear4: 2024
-author4: "Nihan Kaya"
-sayfa4: 240
-format4: reading as a book
-pageread4: 1
+pageread3: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -125,32 +118,6 @@ _by_ {{ page.author3 }}
 </span>
 </div>
 <br />
-<div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle4 }} ({{ page.bookyear4 }})
-_by_ {{ page.author4 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
-
-<div style="font-size: 50%; font-style: italic;">
-{{ page.sayfa4 }} sayfa
-</div>
-
-<div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-{{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
-</div>
-
-<div>
-<progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-<span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-{{ page.pageread4 }}/{{ page.sayfa4 }}
-</span>
-</div>
-<br />
-<div style="clear: both"></div>
-
 <div style="clear: both"></div>
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
 <div style="clear: both"></div>

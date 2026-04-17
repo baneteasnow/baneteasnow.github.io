@@ -16,7 +16,7 @@ posted: 2026-03-22
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
-num: "575"
+num: "576"
 update: "tobeupdated"
 image: "/assets/new/lost-connections.jpg"
 ---

@@ -16,7 +16,7 @@ posted: 2026-03-06
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
-num: "571"
+num: "572"
 update: "tobeupdated"
 image: "/assets/new/the-anxious-generation.jpg"
 ---

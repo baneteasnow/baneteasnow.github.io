@@ -16,7 +16,7 @@ posted: 2026-03-24
 tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "4"
-num: "576"
+num: "577"
 update: "tobeupdated"
 image: "/assets/new/owning-your-own-shadow.jpg"
 ---

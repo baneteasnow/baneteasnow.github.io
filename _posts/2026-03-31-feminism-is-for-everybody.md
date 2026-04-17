@@ -16,7 +16,7 @@ posted: 2026-03-31
 tag: "SocietyCulture"
 reread: "no"
 rating: "3"
-num: "578"
+num: "579"
 update: "tobeupdated"
 image: "/assets/new/feminism-is-for-everybody.jpg"
 ---

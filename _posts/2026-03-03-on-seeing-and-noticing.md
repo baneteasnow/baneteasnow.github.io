@@ -16,7 +16,7 @@ posted: 2026-03-03
 tag: "PhilosophyMeaning"
 reread: "no"
 rating: "4"
-num: "570"
+num: "571"
 update: "tobeupdated"
 image: "/assets/new/on-seeing-and-noticing.jpg"
 ---
