@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "The Psychology of Money | Morgan Housel (Kitap)"
 kitap: "The Psychology of Money"
-tr: "Moda Praksisi"
+tr: "Paranin Psikolojisi - Servet, Acgözlülük ve Mutluluk Üzerine Sonsuza Dek Degismeyecek Dersler"
 yazar: "Morgan Housel"
 yil: "2022"
 sayfa: "312"
