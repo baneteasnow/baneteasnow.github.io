@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Dopamine Nation | Anna Lembke (Kitap)"
 kitap: "Dopamine Nation - Finding Balance in the Age of Indulgence"
-tr: "-"
+tr: "Dopamin Toplumu - Haz Çağında Dengeyi Bulmak"
 yazar: "Anna Lembke"
 yil: "2025"
 sayfa: "206"
