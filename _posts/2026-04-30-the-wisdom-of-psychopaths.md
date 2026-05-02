@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Wisdom of Psychopaths | Kevin Dutton (Kitap)"
@@ -12,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/13539039-the-wisdom-of-psychopat
 description: ""
 eng: ""
 last_modified_at: 2026-04-30
-published: false
+published: true
 posted: 2026-04-30
 tag: "BiographyLifeStories"
 reread: "no"

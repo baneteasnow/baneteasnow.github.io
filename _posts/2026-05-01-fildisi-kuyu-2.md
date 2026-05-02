@@ -10,9 +10,9 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/15825528-fildi-i-kuyu"
 description: ""
 eng: ""
-last_modified_at: 2026-04-30
+last_modified_at: 2026-05-01
 published: false
-posted: 2026-04-30
+posted: 2026-05-01
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"

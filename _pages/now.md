@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 25
+read: 26
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-04-16
+last_modified_at: 2026-05-02
 published: true
 #
 # 1
@@ -47,7 +47,7 @@ bookyear4: 2022
 author4: "Kevin Dutton"
 sayfa4: 280
 format4: reading as a book
-pageread4: 1
+pageread4: 280
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
