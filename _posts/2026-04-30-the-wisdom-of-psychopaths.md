@@ -16,7 +16,7 @@ posted: 2026-04-30
 tag: "BiographyLifeStories"
 reread: "no"
 rating: "3"
-num: ""
+num: "584"
 update: "tobeupdated"
 image: "/assets/new/the-wisdom-of-psychopaths.jpg"
 ---
