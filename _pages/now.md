@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 26
+read: 27
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-05-02
+last_modified_at: 2026-05-22
 published: true
 #
 # 1
@@ -40,7 +40,7 @@ bookyear3: 2024
 author3: "Nihan Kaya"
 sayfa3: 240
 format3: reading as a book
-pageread3: 1
+pageread3: 240
 # 4
 booktitle4: "The Wisdom of Psychopaths"
 bookyear4: 2022

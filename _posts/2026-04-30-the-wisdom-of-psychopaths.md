@@ -13,9 +13,9 @@ eng: ""
 last_modified_at: 2026-04-30
 published: true
 posted: 2026-04-30
-tag: "BiographyLifeStories"
+tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
+rating: "5"
 num: "584"
 update: "tobeupdated"
 image: "/assets/new/the-wisdom-of-psychopaths.jpg"
