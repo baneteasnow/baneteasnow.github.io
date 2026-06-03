@@ -5,7 +5,7 @@ last_modified_at: 2025-12-01
 published: true
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
@@ -16,7 +16,11 @@ published: true
 				box-sizing: border-box;
 			}
 			body {
-				font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+				font-family:
+					system-ui,
+					-apple-system,
+					BlinkMacSystemFont,
+					sans-serif;
 				max-width: 800px;
 				margin: 40px auto;
 				padding: 0 20px 40px;
@@ -138,7 +142,8 @@ published: true
 			}
 
 			code {
-				font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+				font-family:
+					SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
 					"Courier New", monospace;
 				font-size: 13px;
 			}
@@ -273,7 +278,15 @@ published: true
 				file = file.replace(/\s+/g, " ").trim()
 				return file.toLowerCase()
 			}
+			function buildUrl(value) {
+				const trimmed = value.trim()
 
+				if (/^https?:\/\//i.test(trimmed)) {
+					return trimmed
+				}
+
+				return BASE_URL.replace(/\/+$/, "") + "/" + trimmed.replace(/^\/+/, "")
+			}
 			function makeSlug(pathOrUrl) {
 				if (!pathOrUrl) return "qr"
 				let base = pathOrUrl.split("/").pop()
@@ -292,8 +305,7 @@ published: true
 					return
 				}
 
-				const url =
-					BASE_URL.replace(/\/+$/, "") + "/" + path.replace(/^\/+/, "")
+				const url = buildUrl(path)
 
 				lastPath = path
 				lastUrl = url
@@ -359,9 +371,9 @@ published: true
 				const pad = (n) => String(n).padStart(2, "0")
 				const slug = makeSlug(lastPath || lastUrl || "qr")
 				const fileName = `qr-${slug}-${now.getFullYear()}${pad(
-					now.getMonth() + 1
+					now.getMonth() + 1,
 				)}${pad(now.getDate())}-${pad(now.getHours())}${pad(
-					now.getMinutes()
+					now.getMinutes(),
 				)}.png`
 
 				const link = document.createElement("a")
@@ -415,7 +427,7 @@ published: true
 				const qr = jsQR(
 					ctx.getImageData(0, 0, width, height).data,
 					width,
-					height
+					height,
 				)
 
 				if (qr) {
