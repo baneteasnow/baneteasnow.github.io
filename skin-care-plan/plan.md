@@ -11,4 +11,4 @@ published: true
 <a href="https://www.next52books.com/skin-care-plan/Mavala-hand-care.png">Mavala Hand Care</a>  
 <a href="https://www.next52books.com/skin-care-plan/mavala-hand-care-plan.png">Mavala Hand Care Plan</a>  
 <a href="https://www.next52books.com/skin-care-plan/Supplements-Jun26.png">Supplements June 26</a>  
-<a href="https://www.next52books.com/skin-care-plan/SC-HC.png">Skincare & hand care concerns and goals</a>
+<a href="https://www.next52books.com/skin-care-plan/SC-HC.png">Skincare & Hand Care Concerns & Goals</a>
