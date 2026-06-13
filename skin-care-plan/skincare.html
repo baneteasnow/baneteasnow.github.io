@@ -1,0 +1,123 @@
+---
+layout: page
+title: Skincare Routine
+last_modified_at: 2026-06-13
+published: true
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Skincare Routine</title>
+
+		<style>
+			* {
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family:
+					system-ui,
+					-apple-system,
+					BlinkMacSystemFont,
+					sans-serif;
+				max-width: 700px;
+				margin: 40px auto;
+				padding: 0 20px 40px;
+				background: #ffffff;
+				color: #000000;
+			}
+
+			p {
+				font-size: 14px;
+				margin-bottom: 16px;
+			}
+
+			.days {
+				display: flex;
+				gap: 8px;
+				flex-wrap: wrap;
+				margin-bottom: 20px;
+			}
+
+			.days button {
+				padding: 8px 12px;
+				border: 1px solid #999;
+				background: #e5e5e5;
+				color: #000;
+				border-radius: 6px;
+				font-size: 14px;
+				cursor: pointer;
+			}
+
+			.days button:hover {
+				background: #d4d4d4;
+			}
+
+			.days button.active {
+				background: #cfcfcf;
+				border-color: #666;
+			}
+
+			#routineImage {
+				width: 100%;
+				display: block;
+				border-radius: 8px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<p>Select a day to view the skincare routine.</p>
+
+		<div class="days">
+			<button data-day="monday">Mon</button>
+			<button data-day="tuesday">Tue</button>
+			<button data-day="wednesday">Wed</button>
+			<button data-day="thursday">Thu</button>
+			<button data-day="friday">Fri</button>
+			<button data-day="saturday">Sat</button>
+			<button data-day="sunday">Sun</button>
+		</div>
+
+		<img
+			id="routineImage"
+			src=""
+			alt="Skincare routine"
+		/>
+
+		<script>
+			const buttons = document.querySelectorAll(".days button")
+			const image = document.getElementById("routineImage")
+
+			const days = [
+				"sunday",
+				"monday",
+				"tuesday",
+				"wednesday",
+				"thursday",
+				"friday",
+				"saturday",
+			]
+
+			function selectDay(day) {
+				buttons.forEach((button) => {
+					button.classList.toggle("active", button.dataset.day === day)
+				})
+
+				image.src = `/assets/skincare/${day}.jpg`
+				image.alt = `${day} skincare routine`
+			}
+
+			const today = days[new Date().getDay()]
+			selectDay(today)
+
+			buttons.forEach((button) => {
+				button.addEventListener("click", () => {
+					selectDay(button.dataset.day)
+				})
+			})
+		</script>
+	</body>
+</html>
