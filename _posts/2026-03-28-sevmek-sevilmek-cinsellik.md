@@ -7,7 +7,7 @@ tr: "-"
 yazar: "Nihan Kaya"
 yil: "2026"
 sayfa: "320"
-goodreads: "https://www.goodreads.com/"
+goodreads: "https://www.goodreads.com/book/show/252920959-sevmek-sevilmek-cinsellik"
 description: ""
 eng: ""
 last_modified_at: 2026-03-28

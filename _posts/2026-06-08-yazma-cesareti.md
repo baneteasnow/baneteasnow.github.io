@@ -7,7 +7,7 @@ tr: "-"
 yazar: "Nihan Kaya"
 yil: "2019"
 sayfa: "336"
-goodreads: "https://www.goodreads.com/book/show/15825528-fildi-i-kuyu"
+goodreads: "https://www.goodreads.com/book/show/21920665-yazma-cesareti"
 description: ""
 eng: ""
 last_modified_at: 2026-06-08
@@ -16,7 +16,7 @@ posted: 2026-06-08
 tag: "CreativityExpression"
 reread: "no"
 rating: "5"
-num: "585"
+num: "586"
 update: "tobeupdated"
 image: "/assets/new/yazma-cesareti.jpg"
 ---
