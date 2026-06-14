@@ -10,13 +10,13 @@ sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/103489828-the-feminist-killjoy-handbook"
 description: ""
 eng: ""
-last_modified_at: 2026-05-31
-published: false
-posted: 2026-05-31
+last_modified_at: 2026-06-10
+published: true
+posted: 2026-06-10
 tag: "SocietyCulture"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "587"
 update: "tobeupdated"
 image: "/assets/new/the-feminist-killjoy-handbook.jpg"
 ---

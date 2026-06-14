@@ -10,9 +10,9 @@ sayfa: "272"
 goodreads: "https://www.goodreads.com/"
 description: ""
 eng: ""
-last_modified_at: 2026-05-31
+last_modified_at: 2026-06-30
 published: false
-posted: 2026-05-31
+posted: 2026-06-30
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
