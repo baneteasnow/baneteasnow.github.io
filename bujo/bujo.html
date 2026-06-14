@@ -1,0 +1,90 @@
+---
+layout: page
+title: BuJo
+last_modified_at: 2026-06-14
+published: true
+---
+
+<p>Select an item to view the related table.</p>
+
+<div class="items">
+	<button data-item="budget">Budget</button>
+	<button data-item="weekly">Weekly</button>
+	<button data-item="notes">Notes</button>
+	<button data-item="sleep">Sleep</button>
+	<button data-item="pilates">Pilates</button>
+	<button data-item="book-cover">Book Cover</button>
+	<button data-item="now">Now</button>
+	<button data-item="new">New</button>
+</div>
+
+<img
+	id="routineImage"
+	src="/assets/bujo/budget.jpg"
+	alt="Budget BuJo"
+/>
+
+<style>
+	* {
+		box-sizing: border-box;
+	}
+
+	p {
+		font-size: 14px;
+		margin-bottom: 16px;
+	}
+
+	.items {
+		display: flex;
+		gap: 8px;
+		flex-wrap: wrap;
+		margin-bottom: 20px;
+	}
+
+	.items button {
+		padding: 8px 12px;
+		border: 1px solid #999;
+		background: #e5e5e5;
+		color: #000;
+		border-radius: 6px;
+		font-size: 14px;
+		cursor: pointer;
+	}
+
+	.items button:hover {
+		background: #d4d4d4;
+	}
+
+	.items button.active {
+		background: #cfcfcf;
+		border-color: #666;
+	}
+
+	#routineImage {
+		width: 100%;
+		display: block;
+		border-radius: 8px;
+	}
+</style>
+
+<script>
+	const buttons = document.querySelectorAll(".items button")
+	const image = document.getElementById("routineImage")
+
+	function selectItem(item) {
+		buttons.forEach((button) => {
+			button.classList.toggle("active", button.dataset.item === item)
+		})
+
+		image.src = `/assets/bujo/${item}.jpg`
+		image.alt = `${item} BuJo`
+	}
+
+	buttons.forEach((button) => {
+		button.addEventListener("click", () => {
+			selectItem(button.dataset.item)
+		})
+	})
+
+	selectItem("budget")
+</script>
