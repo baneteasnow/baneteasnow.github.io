@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 29
+read: 30
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-06-14
+last_modified_at: 2026-06-15
 published: true
 #
 # 1
@@ -28,10 +28,10 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "Carl Jung - Wounded Healer of the Soul"
-bookyear2: 2024
-author2: "Claire Dunne"
-sayfa2: 320
+booktitle2: "Men Who Hate Women"
+bookyear2: 2026
+author2: "Laura Bates"
+sayfa2: 4800
 format2: reading as a book
 pageread2: 1
 ---
