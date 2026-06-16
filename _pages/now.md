@@ -31,9 +31,9 @@ pageread1: 126
 booktitle2: "Men Who Hate Women"
 bookyear2: 2026
 author2: "Laura Bates"
-sayfa2: 4800
+sayfa2: 480
 format2: reading as a book
-pageread2: 1
+pageread2: 42
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
