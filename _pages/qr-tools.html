@@ -231,12 +231,52 @@ published: true
 		<br />
 		<div style="clear: both"></div>
 
+		<!-- QR CHECK -->
+		<div class="section">
+			<h2>QR Check</h2>
+
+			<p>Upload a QR code image to view the URL stored inside it.</p>
+
+			<input
+				type="file"
+				id="qrFileInput"
+				accept="image/png,image/jpeg,image/jpg,image/webp"
+			/>
+
+			<div
+				id="decodedUrl"
+				style="margin-top: 12px"
+			></div>
+
+			<div style="margin-top: 12px">
+				<button
+					id="copyUrlBtn"
+					style="display: none"
+				>
+					Copy URL
+				</button>
+
+				<button
+					id="openUrlBtn"
+					style="display: none"
+				>
+					Open URL
+				</button>
+			</div>
+		</div>
 		<!-- Libraries -->
 		<script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
 
 		<script>
 			const BASE_URL = "https://www.next52books.com/"
+
+			function isAllowedDomain(url) {
+				return (
+					url.startsWith("https://www.next52books.com/") ||
+					url.startsWith("https://next52books.com/")
+				)
+			}
 
 			/* ----- QR GENERATOR ----- */
 			const input = document.getElementById("pathInput")
@@ -439,7 +479,7 @@ published: true
 					const text = qr.data.trim()
 					linkEl.textContent = text
 
-					if (text.startsWith(BASE_URL)) {
+					if (isAllowedDomain(text)) {
 						statusEl.textContent = "Valid QR code. Redirecting..."
 						const go = confirm("Do you want to open this link?\n" + text)
 						if (go) {
@@ -452,6 +492,77 @@ published: true
 					requestAnimationFrame(scanLoop)
 				}
 			}
+			/* ----- QR CHECK ----- */
+
+			const qrFileInput = document.getElementById("qrFileInput")
+			const decodedUrlEl = document.getElementById("decodedUrl")
+			const copyUrlBtn = document.getElementById("copyUrlBtn")
+			const openUrlBtn = document.getElementById("openUrlBtn")
+
+			let decodedUrl = ""
+
+			qrFileInput.addEventListener("change", (event) => {
+				const file = event.target.files[0]
+
+				if (!file) return
+
+				const reader = new FileReader()
+
+				reader.onload = function (e) {
+					const img = new Image()
+
+					img.onload = function () {
+						const tempCanvas = document.createElement("canvas")
+						const tempCtx = tempCanvas.getContext("2d")
+
+						tempCanvas.width = img.width
+						tempCanvas.height = img.height
+
+						tempCtx.drawImage(img, 0, 0)
+
+						const imageData = tempCtx.getImageData(0, 0, img.width, img.height)
+
+						const result = jsQR(imageData.data, img.width, img.height)
+
+						if (!result) {
+							decodedUrlEl.textContent = "No QR code could be detected."
+							copyUrlBtn.style.display = "none"
+							openUrlBtn.style.display = "none"
+							return
+						}
+
+						decodedUrl = result.data
+
+						decodedUrlEl.innerHTML =
+							"<strong>Decoded URL:</strong><br>" + decodedUrl
+
+						copyUrlBtn.style.display = "inline-block"
+						openUrlBtn.style.display = "inline-block"
+					}
+
+					img.src = e.target.result
+				}
+
+				reader.readAsDataURL(file)
+			})
+
+			copyUrlBtn.addEventListener("click", async () => {
+				if (!decodedUrl) return
+
+				await navigator.clipboard.writeText(decodedUrl)
+
+				copyUrlBtn.textContent = "Copied!"
+
+				setTimeout(() => {
+					copyUrlBtn.textContent = "Copy URL"
+				}, 1500)
+			})
+
+			openUrlBtn.addEventListener("click", () => {
+				if (!decodedUrl) return
+
+				window.open(decodedUrl, "_blank")
+			})
 		</script>
 	</body>
 </html>
