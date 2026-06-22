@@ -10,13 +10,13 @@ sayfa: "480"
 goodreads: "https://www.goodreads.com/book/show/581233.Carl_Jung"
 description: ""
 eng: ""
-last_modified_at: 2026-06-30
-published: false
-posted: 2026-06-30
+last_modified_at: 2026-06-21
+published: true
+posted: 2026-06-21
 tag: "SocietyCulture"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "589"
 update: "tobeupdated"
 image: "/assets/new/men-who-hate-women.jpg"
 ---

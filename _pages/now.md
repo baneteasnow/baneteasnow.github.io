@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 30
+read: 31
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-06-15
+last_modified_at: 2026-06-21
 published: true
 #
 # 1
@@ -28,12 +28,12 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "Men Who Hate Women"
-bookyear2: 2026
-author2: "Laura Bates"
-sayfa2: 480
+booktitle2: "All In Her Head"
+bookyear2: 2025
+author2: "Misty Pratt"
+sayfa2: 288
 format2: reading as a book
-pageread2: 42
+pageread2: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
