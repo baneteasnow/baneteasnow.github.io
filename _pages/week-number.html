@@ -1,12 +1,9 @@
 ---
 layout: page
-published: true
+title: Week Number Finder
 last_modified_at: 2026-06-24
-title: "week number finder"
+published: true
 ---
-
---- layout: page title: Week Number Finder last_modified_at: 2026-06-24
-published: true ---
 
 <!doctype html>
 <html lang="en">
@@ -86,79 +83,6 @@ published: true ---
 				color: #111111;
 			}
 
-			.result-area {
-				margin-top: 54px;
-			}
-
-			.label {
-				margin: 0 0 10px;
-				font-size: 19px;
-				color: #2f3747;
-			}
-
-			.selected-date {
-				margin: 0;
-				font-size: 25px;
-				font-weight: 750;
-				color: #111111;
-			}
-
-			.divider {
-				width: 170px;
-				height: 1px;
-				margin: 30px auto;
-				background: #dddddd;
-			}
-
-			.week-number-label {
-				margin: 0 0 8px;
-				font-size: 19px;
-				color: #2f3747;
-			}
-
-			.week-number {
-				margin: 0;
-				font-size: 50px;
-				font-weight: 800;
-				line-height: 1;
-				color: #0b63f6;
-			}
-
-			.compact-result {
-				max-width: 620px;
-				margin: 32px auto 0;
-				padding: 22px 28px;
-				border: 1px solid #e4e4e4;
-				border-radius: 16px;
-				background: #ffffff;
-				box-shadow: 0 14px 34px rgba(0, 0, 0, 0.05);
-				display: flex;
-				align-items: center;
-				gap: 18px;
-			}
-
-			.icon-box {
-				width: 56px;
-				height: 56px;
-				border-radius: 12px;
-				background: #eaf1ff;
-				display: flex;
-				align-items: center;
-				justify-content: center;
-				font-size: 28px;
-			}
-
-			.compact-text strong {
-				display: block;
-				font-size: 24px;
-				margin-bottom: 4px;
-			}
-
-			.compact-text span {
-				font-size: 18px;
-				color: #2f3747;
-			}
-
 			.split-result {
 				max-width: 620px;
 				margin: 26px auto 0;
@@ -219,10 +143,6 @@ published: true ---
 					font-size: 18px;
 				}
 
-				.week-number {
-					font-size: 44px;
-				}
-
 				.split-result {
 					grid-template-columns: 1fr;
 					gap: 18px;
@@ -249,35 +169,6 @@ published: true ---
 					id="datePicker"
 					class="date-input"
 				/>
-
-				<div class="result-area">
-					<p class="label">Selected Date</p>
-					<p
-						class="selected-date"
-						id="selectedDate"
-					>
-						—
-					</p>
-
-					<div class="divider"></div>
-
-					<p class="week-number-label">Week Number</p>
-					<p
-						class="week-number"
-						id="weekNumber"
-					>
-						—
-					</p>
-				</div>
-			</section>
-
-			<section class="compact-result">
-				<div class="icon-box">📅</div>
-
-				<div class="compact-text">
-					<strong id="compactWeek">Week —</strong>
-					<span id="compactDate">Select a date</span>
-				</div>
 			</section>
 
 			<section class="split-result">
@@ -337,13 +228,6 @@ published: true ---
 				const date = new Date(value + "T00:00:00")
 				const weekNumber = getISOWeekNumber(date)
 				const formattedDate = formatDate(date)
-
-				document.getElementById("selectedDate").textContent = formattedDate
-				document.getElementById("weekNumber").textContent = weekNumber
-
-				document.getElementById("compactWeek").textContent =
-					`📅 Week ${weekNumber}`
-				document.getElementById("compactDate").textContent = formattedDate
 
 				document.getElementById("splitDate").textContent = formattedDate
 				document.getElementById("splitWeek").textContent = weekNumber
