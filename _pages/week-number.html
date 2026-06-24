@@ -1,0 +1,101 @@
+---
+layout: page-
+published: true
+last_modified_at: 2026-06-24
+title: "week number finder"
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+		<title>Week Number Calculator</title>
+
+		<style>
+			* {
+				box-sizing: border-box;
+			}
+
+			body {
+				margin: 0;
+				min-height: 100vh;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				font-family: system-ui, sans-serif;
+				background: #ffffff;
+			}
+
+			.container {
+				text-align: center;
+				padding: 30px;
+				border: 1px solid #ddd;
+				border-radius: 12px;
+				width: 320px;
+			}
+
+			h1 {
+				font-size: 22px;
+				margin-bottom: 20px;
+			}
+
+			input[type="date"] {
+				padding: 8px;
+				font-size: 16px;
+				width: 100%;
+			}
+
+			.result {
+				margin-top: 20px;
+				font-size: 20px;
+				font-weight: 600;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<h1>Week Number</h1>
+
+			<input
+				type="date"
+				id="datePicker"
+			/>
+
+			<div
+				class="result"
+				id="result"
+			>
+				Select a date
+			</div>
+		</div>
+
+		<script>
+			function getISOWeekNumber(date) {
+				const d = new Date(
+					Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()),
+				)
+
+				d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7))
+
+				const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1))
+
+				return Math.ceil(((d - yearStart) / 86400000 + 1) / 7)
+			}
+
+			document
+				.getElementById("datePicker")
+				.addEventListener("change", function () {
+					const date = new Date(this.value)
+
+					if (!isNaN(date)) {
+						const weekNumber = getISOWeekNumber(date)
+						document.getElementById("result").textContent = `Week ${weekNumber}`
+					}
+				})
+		</script>
+	</body>
+</html>
