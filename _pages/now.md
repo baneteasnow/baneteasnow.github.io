@@ -33,7 +33,7 @@ bookyear2: 2025
 author2: "Misty Pratt"
 sayfa2: 288
 format2: reading as a book
-pageread2: 28i
+pageread2: 288
 # 3
 booktitle3: "Fluke"
 bookyear3: 2026
