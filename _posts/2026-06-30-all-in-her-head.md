@@ -10,13 +10,13 @@ sayfa: "288"
 goodreads: "https://www.goodreads.com/book/show/182099478-all-in-her-head"
 description: ""
 eng: ""
-last_modified_at: 2026-06-30
+last_modified_at: 2026-06-28
 published: true
-posted: 2026-06-30
+posted: 2026-06-28
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "590"
 update: "tobeupdated"
 image: "/assets/new/all-in-her-head.jpg"
 ---
