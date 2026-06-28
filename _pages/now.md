@@ -13,7 +13,7 @@
 # 3 = book
 #
 #
-read: 31
+read: 33
 #
 layout: page
 title: şimdi okuduğum kitaplar
