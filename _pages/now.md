@@ -17,7 +17,7 @@ read: 31
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-06-22
+last_modified_at: 2026-06-28
 published: true
 #
 # 1
@@ -33,14 +33,14 @@ bookyear2: 2025
 author2: "Misty Pratt"
 sayfa2: 288
 format2: reading as a book
-pageread2: 1
+pageread2: 28i
 # 3
 booktitle3: "Fluke"
 bookyear3: 2026
 author3: "Brian Klaas"
 sayfa3: 372
 format3: reading as a book
-pageread3: 1
+pageread3: 372
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
