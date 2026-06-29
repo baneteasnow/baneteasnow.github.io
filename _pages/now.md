@@ -17,7 +17,7 @@ read: 33
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-06-28
+last_modified_at: 2026-06-29
 published: true
 #
 # 1
@@ -41,6 +41,13 @@ author3: "Brian Klaas"
 sayfa3: 372
 format3: reading as a book
 pageread3: 372
+# 4
+booktitle4: ""
+bookyear4: 2026
+author4: "Brian Klaas"
+sayfa4: 372
+format4: reading as a book
+pageread4: 372
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
