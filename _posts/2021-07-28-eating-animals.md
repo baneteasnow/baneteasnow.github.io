@@ -13,7 +13,7 @@ published: true
 description: ""
 eng: ""
 posted: 2021-07-28
-tag: ""
+tag: "PhilosophyMeaning"
 reread: "yes"
 rating: "5"
 num: "185"
