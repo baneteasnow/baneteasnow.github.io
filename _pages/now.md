@@ -28,26 +28,26 @@ sayfa1: 224
 format1: reading as a book
 pageread1: 126
 # 2
-booktitle2: "All In Her Head"
-bookyear2: 2025
-author2: "Misty Pratt"
-sayfa2: 288
+booktitle2: "Chaos - Making a New Science"
+bookyear2: 2016
+author2: "James Gleick"
+sayfa2: 390
 format2: reading as a book
-pageread2: 288
+pageread2: 1
 # 3
-booktitle3: "Fluke"
-bookyear3: 2026
-author3: "Brian Klaas"
-sayfa3: 372
+booktitle3: "The Elements of Choice - Why the Way We Decide Matters"
+bookyear3: 2025
+author3: "Eric J. Johnson"
+sayfa3: 392
 format3: reading as a book
-pageread3: 372
+pageread3: 1
 # 4
-booktitle4: ""
-bookyear4: 2026
-author4: "Brian Klaas"
-sayfa4: 372
+booktitle4: "The Signal and the Noise - Why So Many Predictions Fail—But Some Don't"
+bookyear4: 2018
+author4: "Nate Silver"
+sayfa4: 576
 format4: reading as a book
-pageread4: 372
+pageread4: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -122,6 +122,30 @@ _by_ {{ page.author3 }}
     <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
       {{ page.pageread3 }}/{{ page.sayfa3 }}
+      </span>
+  </div>
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 4 }}
+
+{{ page.booktitle4 }} ({{ page.bookyear4 }})  
+_by_ {{ page.author4 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa4 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+      {{ page.pageread4 }}/{{ page.sayfa4 }}
       </span>
   </div>
   <br />
