@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Why We Love Dogs, Eat Pigs, and Wear Cows | Melanie Joy (Kitap)"
 kitap: "Why We Love Dogs, Eat Pigs, and Wear Cows: An Introduction to Carnism"
-tr: "-"
+tr: "Neden Köpekleri Sever, Tavukları Yer, İnekleri Giyeriz?"
 yazar: "Melanie Joy"
 yil: "2020"
 sayfa: "221"
@@ -12,7 +12,7 @@ last_modified_at: 2023-01-14
 published: true
 description: ""
 eng: ""
-tag: ""
+tag: "PhilosophyMeaning"
 posted: 2022-02-09
 reread: "yes"
 rating: "5"
