@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "At a Glance"
+title: Glance
 last_modified_at: 2026-06-30
 published: true
 ---
