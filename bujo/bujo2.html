@@ -1,0 +1,150 @@
+---
+layout: page
+title: BuJo Tables
+last_modified_at: 2026-07-01
+published: true
+---
+
+<p>Select an item to view the related table.</p>
+
+<div class="items">
+	<button data-item="book-cover">Book Cover</button>
+	<button data-item="now-new">Now - New</button>
+	<button data-item="weekly">Weekly</button>
+	<button data-item="notes">Notes</button>
+	<button data-item="sleep">Sleep</button>
+	<button data-item="budget">Budget</button>
+	<button data-item="pilates">Pilates</button>
+	<button data-item="at-a-glance">At a Glance</button>
+	<button data-item="end-of-month">End of Month</button>
+	<button data-item="legacy">Legacy</button>
+</div>
+
+<img
+	id="routineImage"
+	src="/assets/bujo/book-cover.png"
+	alt="Book Cover"
+/>
+
+<style>
+	* {
+		box-sizing: border-box;
+	}
+
+	body {
+		background: #ffffff;
+	}
+
+	p {
+		max-width: 760px;
+		margin: 0 auto 22px;
+		font-size: 14px;
+		line-height: 1.6;
+		color: #555555;
+		text-align: center;
+	}
+
+	.items {
+		max-width: 760px;
+		margin: 0 auto 28px;
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 12px;
+	}
+
+	.items button {
+		height: 46px;
+		padding: 0 14px;
+		border: 1px solid #d7d7d7;
+		border-radius: 10px;
+		background: #ffffff;
+		color: #222222;
+		font-size: 14px;
+		font-weight: 500;
+		cursor: pointer;
+		transition:
+			background 0.18s ease,
+			border-color 0.18s ease,
+			transform 0.18s ease,
+			box-shadow 0.18s ease;
+	}
+
+	.items button:hover {
+		transform: translateY(-2px);
+		border-color: #999999;
+		box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+	}
+
+	.items button.active {
+		background: #fafafa;
+		border-color: #222222;
+		box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
+	}
+
+	#routineImage {
+		width: 100%;
+		max-width: 760px;
+		margin: 0 auto;
+		display: block;
+		border: 1px solid #ececec;
+		border-radius: 14px;
+		box-shadow: 0 14px 32px rgba(0, 0, 0, 0.08);
+		opacity: 1;
+		transition: opacity 0.18s ease;
+	}
+
+	@media (max-width: 700px) {
+		.items {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+
+	@media (max-width: 430px) {
+		p {
+			text-align: left;
+		}
+
+		.items {
+			grid-template-columns: 1fr;
+			gap: 10px;
+		}
+
+		.items button {
+			height: 48px;
+		}
+	}
+</style>
+
+<script>
+	const buttons = document.querySelectorAll(".items button")
+	const image = document.getElementById("routineImage")
+
+	function formatAltText(item) {
+		return item
+			.split("-")
+			.map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+			.join(" ")
+	}
+
+	function selectItem(item) {
+		buttons.forEach((button) => {
+			button.classList.toggle("active", button.dataset.item === item)
+		})
+
+		image.style.opacity = 0
+
+		setTimeout(() => {
+			image.src = `/assets/bujo/${item}.png`
+			image.alt = `${formatAltText(item)} BuJo`
+			image.style.opacity = 1
+		}, 150)
+	}
+
+	buttons.forEach((button) => {
+		button.addEventListener("click", () => {
+			selectItem(button.dataset.item)
+		})
+	})
+
+	selectItem("book-cover")
+</script>
