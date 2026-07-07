@@ -5,272 +5,339 @@ last_modified_at: 2026-06-29
 published: true
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta
-			name="viewport"
-			content="width=device-width, initial-scale=1.0"
+<div class="week-page">
+	<section class="date-card">
+		<p>Select a date to get the week number.</p>
+
+		<input
+			type="date"
+			id="datePicker"
+			class="date-input"
 		/>
+	</section>
 
-		<style>
-			* {
-				box-sizing: border-box;
+	<section class="calendar-card">
+		<div class="calendar-header" id="calendarHeader"></div>
+
+		<div class="calendar-weekdays">
+			<span>Mon</span>
+			<span>Tue</span>
+			<span>Wed</span>
+			<span>Thu</span>
+			<span>Fri</span>
+			<span>Sat</span>
+			<span>Sun</span>
+		</div>
+
+		<div
+			class="calendar-grid"
+			id="calendarGrid"
+		></div>
+	</section>
+
+	<section class="result-card">
+		<div>
+			<p class="result-label">Selected Date</p>
+			<p
+				class="selected-date"
+				id="selectedDate"
+			>
+				—
+			</p>
+			<p
+				class="selected-day"
+				id="selectedDay"
+			>
+				—
+			</p>
+		</div>
+
+		<div class="divider"></div>
+
+		<div>
+			<p class="result-label">Week Number</p>
+			<p
+				class="week-number"
+				id="weekNumber"
+			>
+				—
+			</p>
+		</div>
+	</section>
+</div>
+
+<style>
+	* {
+		box-sizing: border-box;
+	}
+
+	.week-page {
+		width: 100%;
+		max-width: 640px;
+		margin: 0 auto;
+		padding: 0 16px 40px;
+	}
+
+	.date-card,
+	.calendar-card,
+	.result-card {
+		width: 100%;
+		border: 1px solid #e2e2e2;
+		border-radius: 18px;
+		background: #ffffff;
+		box-shadow: 0 14px 32px rgba(0, 0, 0, 0.06);
+	}
+
+	.date-card {
+		padding: 34px 28px;
+		text-align: center;
+	}
+
+	.date-card p {
+		margin: 0 0 24px;
+		font-size: 14px;
+		line-height: 1.5;
+		color: #333333;
+	}
+
+	.date-input {
+		display: block;
+		width: 100%;
+		max-width: 420px;
+		min-width: 0;
+		margin: 0 auto;
+		padding: 12px 14px;
+		border: 1px solid #cfd3da;
+		border-radius: 10px;
+		background: #ffffff;
+		color: #111111;
+		font-size: 14px;
+		font-family: inherit;
+		text-align: center;
+		appearance: auto;
+		-webkit-appearance: auto;
+	}
+
+	.calendar-card {
+		margin-top: 24px;
+		padding: 26px 22px 24px;
+	}
+
+	.calendar-header {
+		margin-bottom: 18px;
+		text-align: center;
+		font-size: 14px;
+		font-weight: 700;
+		color: #111111;
+	}
+
+	.calendar-weekdays,
+	.calendar-grid {
+		display: grid;
+		grid-template-columns: repeat(7, 1fr);
+		gap: 8px;
+		text-align: center;
+	}
+
+	.calendar-weekdays {
+		margin-bottom: 10px;
+		font-size: 12px;
+		color: #777777;
+	}
+
+	.calendar-day {
+		width: 32px;
+		height: 32px;
+		margin: 0 auto;
+		border-radius: 50%;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 13px;
+		color: #222222;
+	}
+
+	.calendar-day.empty {
+		color: transparent;
+	}
+
+	.calendar-day.selected {
+		background: #111111;
+		color: #ffffff;
+		font-weight: 700;
+	}
+
+	.result-card {
+		margin-top: 24px;
+		padding: 34px 28px;
+		text-align: center;
+	}
+
+	.result-label {
+		margin: 0 0 8px;
+		font-size: 14px;
+		color: #333333;
+	}
+
+	.selected-date {
+		margin: 0;
+		font-size: 14px;
+		font-weight: 700;
+		color: #111111;
+	}
+
+	.selected-day {
+		margin: 8px 0 0;
+		font-size: 14px;
+		color: #777777;
+	}
+
+	.divider {
+		width: 100%;
+		height: 1px;
+		margin: 28px 0;
+		background: #e2e2e2;
+	}
+
+	.week-number {
+		margin: 0;
+		font-size: 42px;
+		font-weight: 800;
+		line-height: 1;
+		color: #0b63f6;
+	}
+
+	@media (max-width: 430px) {
+		.week-page {
+			padding: 0 12px 36px;
+		}
+
+		.date-card {
+			padding: 30px 18px;
+		}
+
+		.calendar-card {
+			padding: 24px 14px 22px;
+		}
+
+		.calendar-weekdays,
+		.calendar-grid {
+			gap: 6px;
+		}
+
+		.calendar-day {
+			width: 30px;
+			height: 30px;
+			font-size: 12px;
+		}
+
+		.result-card {
+			padding: 32px 20px;
+		}
+
+		.week-number {
+			font-size: 40px;
+		}
+	}
+</style>
+
+<script>
+	const datePicker = document.getElementById("datePicker")
+	const selectedDateEl = document.getElementById("selectedDate")
+	const selectedDayEl = document.getElementById("selectedDay")
+	const weekNumberEl = document.getElementById("weekNumber")
+	const calendarHeader = document.getElementById("calendarHeader")
+	const calendarGrid = document.getElementById("calendarGrid")
+
+	function getISOWeekNumber(date) {
+		const d = new Date(
+			Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()),
+		)
+
+		d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7))
+
+		const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1))
+
+		return Math.ceil(((d - yearStart) / 86400000 + 1) / 7)
+	}
+
+	function formatDate(date) {
+		return date.toLocaleDateString("en-US", {
+			year: "numeric",
+			month: "long",
+			day: "numeric",
+		})
+	}
+
+	function formatDay(date) {
+		return date.toLocaleDateString("en-US", {
+			weekday: "long",
+		})
+	}
+
+	function formatMonth(date) {
+		return date.toLocaleDateString("en-US", {
+			month: "long",
+			year: "numeric",
+		})
+	}
+
+	function renderCalendar(date) {
+		calendarGrid.innerHTML = ""
+
+		const year = date.getFullYear()
+		const month = date.getMonth()
+		const selectedDay = date.getDate()
+
+		calendarHeader.textContent = formatMonth(date)
+
+		const firstDay = new Date(year, month, 1)
+		const lastDay = new Date(year, month + 1, 0)
+
+		const firstWeekday = (firstDay.getDay() + 6) % 7
+		const daysInMonth = lastDay.getDate()
+
+		for (let i = 0; i < firstWeekday; i++) {
+			const empty = document.createElement("span")
+			empty.className = "calendar-day empty"
+			empty.textContent = "."
+			calendarGrid.appendChild(empty)
+		}
+
+		for (let day = 1; day <= daysInMonth; day++) {
+			const dayEl = document.createElement("span")
+			dayEl.className = "calendar-day"
+			dayEl.textContent = day
+
+			if (day === selectedDay) {
+				dayEl.classList.add("selected")
 			}
 
-			body {
-				margin: 0;
-				padding: 0 20px 60px;
-				background: #ffffff;
-				color: #111111;
-				font-family:
-					system-ui,
-					-apple-system,
-					BlinkMacSystemFont,
-					"Segoe UI",
-					sans-serif;
-			}
+			calendarGrid.appendChild(dayEl)
+		}
+	}
 
-			.page-wrap {
-				max-width: 820px;
-				margin: 0 auto;
-			}
+	function updatePage() {
+		const value = datePicker.value
 
-			.page-title {
-				margin: 36px 0 28px;
-				font-family: Georgia, "Times New Roman", serif;
-				font-size: 42px;
-				font-style: italic;
-				font-weight: 700;
-				color: #444444;
-				text-transform: lowercase;
-			}
+		if (!value) {
+			return
+		}
 
-			.card {
-				max-width: 620px;
-				margin: 0 auto;
-				padding: 52px 48px 48px;
-				border: 1px solid #e4e4e4;
-				border-radius: 18px;
-				background: #ffffff;
-				box-shadow: 0 18px 45px rgba(0, 0, 0, 0.06);
-				text-align: center;
-			}
+		const date = new Date(value + "T00:00:00")
+		const weekNumber = getISOWeekNumber(date)
 
-			.card h1 {
-				margin: 0 0 20px;
-				font-size: 36px;
-				font-weight: 800;
-				letter-spacing: -0.03em;
-			}
+		selectedDateEl.textContent = formatDate(date)
+		selectedDayEl.textContent = formatDay(date)
+		weekNumberEl.textContent = weekNumber
 
-			.description {
-				margin: 0 0 34px;
-				font-size: 18px;
-				color: #2f3747;
-			}
+		renderCalendar(date)
+	}
 
-			.date-input {
-				width: 100%;
-				max-width: 460px;
-				padding: 14px 16px;
-				border: 1px solid #cfd3da;
-				border-radius: 8px;
-				font-size: 22px;
-				background: #ffffff;
-				color: #111111;
-			}
+	const today = new Date()
+	datePicker.value = today.toISOString().split("T")[0]
 
-			.split-result {
-				max-width: 620px;
-				margin: 26px auto 0;
-				padding: 24px 28px;
-				border: 1px solid #e4e4e4;
-				border-radius: 16px;
-				background: #ffffff;
-				box-shadow: 0 14px 34px rgba(0, 0, 0, 0.05);
-				display: grid;
-				grid-template-columns: 1fr 1px 1fr;
-				align-items: center;
-				text-align: center;
-			}
+	datePicker.addEventListener("change", updatePage)
 
-			.vertical-divider {
-				width: 1px;
-				height: 78px;
-				background: #dddddd;
-			}
-
-			.split-label {
-				margin: 0 0 8px;
-				font-size: 17px;
-				color: #2f3747;
-			}
-
-			.split-date {
-				margin: 0;
-				font-size: 22px;
-				font-weight: 750;
-			}
-
-			.split-day {
-				margin: 6px 0 0;
-				font-size: 16px;
-				color: #5f6673;
-			}
-
-			.split-week {
-				margin: 0;
-				font-size: 38px;
-				font-weight: 800;
-				color: #0b63f6;
-			}
-
-			@media (max-width: 640px) {
-				body {
-					padding: 0 16px 48px;
-				}
-
-				.page-title {
-					margin-top: 28px;
-					font-size: 34px;
-					line-height: 1.1;
-				}
-
-				.card {
-					padding: 34px 22px 36px;
-					border-radius: 16px;
-				}
-
-				.card h1 {
-					font-size: 29px;
-				}
-
-				.description {
-					font-size: 16px;
-				}
-
-				.date-input {
-					max-width: 100%;
-					font-size: 18px;
-				}
-
-				.split-result {
-					grid-template-columns: 1fr;
-					gap: 22px;
-					padding: 26px 22px;
-				}
-
-				.vertical-divider {
-					width: 100%;
-					height: 1px;
-				}
-
-				.split-date {
-					font-size: 21px;
-				}
-
-				.split-week {
-					font-size: 42px;
-				}
-			}
-		</style>
-	</head>
-
-	<body>
-		<main class="page-wrap">
-			<section class="card">
-				<p class="description">Select a date to get the week number.</p>
-				<input
-					type="date"
-					id="datePicker"
-					class="date-input"
-				/>
-			</section>
-			<section class="split-result">
-				<div>
-					<p class="split-label">Selected Date</p>
-					<p
-						class="split-date"
-						id="splitDate"
-					>
-						—
-					</p>
-					<p
-						class="split-day"
-						id="splitDay"
-					>
-						—
-					</p>
-				</div>
-
-				<div class="vertical-divider"></div>
-
-				<div>
-					<p class="split-label">Week Number</p>
-					<p
-						class="split-week"
-						id="splitWeek"
-					>
-						—
-					</p>
-				</div>
-			</section>
-		</main>
-
-		<script>
-			function getISOWeekNumber(date) {
-				const d = new Date(
-					Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()),
-				)
-
-				d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7))
-
-				const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1))
-
-				return Math.ceil(((d - yearStart) / 86400000 + 1) / 7)
-			}
-
-			function formatDate(date) {
-				return date.toLocaleDateString("en-US", {
-					year: "numeric",
-					month: "long",
-					day: "numeric",
-				})
-			}
-
-			function formatDay(date) {
-				return date.toLocaleDateString("en-US", {
-					weekday: "long",
-				})
-			}
-
-			function updateWeekNumber() {
-				const input = document.getElementById("datePicker")
-				const value = input.value
-
-				if (!value) {
-					return
-				}
-
-				const date = new Date(value + "T00:00:00")
-				const weekNumber = getISOWeekNumber(date)
-
-				document.getElementById("splitDate").textContent = formatDate(date)
-				document.getElementById("splitDay").textContent = formatDay(date)
-				document.getElementById("splitWeek").textContent = weekNumber
-			}
-
-			const today = new Date()
-			const todayString = today.toISOString().split("T")[0]
-
-			document.getElementById("datePicker").value = todayString
-			document
-				.getElementById("datePicker")
-				.addEventListener("change", updateWeekNumber)
-
-			updateWeekNumber()
-		</script>
-	</body>
-</html>
+	updatePage()
+</script>
