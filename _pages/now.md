@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 33
+read: 34
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-06-29
+last_modified_at: 2026-07-10
 published: true
 #
 # 1
@@ -49,10 +49,10 @@ sayfa4: 576
 format4: reading as a book
 pageread4: 132
 # 5
-booktitle5: "The Enigma of Desire"
-bookyear5: 2021
+booktitle5: "Emotional Inheritance"
+bookyear5: 2022
 author5: "Galit Atlas"
-sayfa5: 272
+sayfa5: 224
 format5: reading as a book
 pageread5: 67
 ---
