@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Emotional Inheritance | Galit Atlas (Kitap)"
@@ -11,13 +10,13 @@ sayfa: "224"
 goodreads: "https://www.goodreads.com/book/show/57941223-emotional-inheritance"
 description: ""
 eng: ""
-last_modified_at: 2026-07-31
-published: false
-posted: 2026-07-31
+last_modified_at: 2026-07-12
+published: true
+posted: 2026-07-12
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "593"
 update: "tobeupdated"
 image: "/assets/new/emotional-inheritance.jpg"
 ---

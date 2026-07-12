@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 34
+read: 35
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-10
+last_modified_at: 2026-07-12
 published: true
 #
 # 1
@@ -49,12 +49,12 @@ sayfa4: 576
 format4: reading as a book
 pageread4: 132
 # 5
-booktitle5: "Emotional Inheritance"
-bookyear5: 2022
-author5: "Galit Atlas"
-sayfa5: 224
+booktitle5: "Women Who Love Too Much"
+bookyear5: 2019
+author5: "Robin Norwood"
+sayfa5: 328
 format5: reading as a book
-pageread5: 67
+pageread5: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
