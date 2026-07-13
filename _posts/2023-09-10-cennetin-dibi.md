@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Cennetin Dibi | Gündüz Vassaf (Kitap)"

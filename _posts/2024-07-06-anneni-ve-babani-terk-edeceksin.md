@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Anneni ve Babani Terk Edeceksin | Philippe Julien (Kitap)"

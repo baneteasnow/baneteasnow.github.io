@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Men on My Couch | Brandy Engler, David Rensin (Kitap)"

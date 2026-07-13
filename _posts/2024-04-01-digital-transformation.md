@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Digital Transformation | Thomas M. Siebel (Kitap)"

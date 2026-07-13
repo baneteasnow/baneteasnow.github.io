@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Science of Getting Rich | Wallace D. Wattles (Kitap)"

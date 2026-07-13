@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Beyond the Power of Your Subconscious Mind | C. James Jensen (Kitap)"
@@ -23,13 +22,3 @@ image: "/assets/new/beyond-the-power-of-your-subconscious-mind.jpg"
 ---
 
 to be updated...
-
-C. James Jensen, Bilinçaltı Zihninizin Gücü isimli kitabında, bilinçaltı gücünün keşfedilmesi ve potansiyelinen üst düzeye çıkarılması için yol göstermektedir. Yazar, Joseph Murphy'nin ünlü "The Power of Your Subconscious Mind" (Bilinçaltının Gücü) kitabını güncel nöroloji ve psikoloji araştırmaları ile zenginleştirerek güncellemiştir.
-
-Güncellenmiş olan kitap, tıpki orijinali gibi, bilinçaltının insanların düşüncelerini, inançlarını ve davranışlarını nasıl etkilediğini açıklar. Bilinçaltının pozitif veya negatif düşüncelerin gerçeklik yaratma sürecine nasıl katkıda bulunduğunu anlatır. Ayrıca, kişinin kendi düşüncelerini ve inançlarını bilinçli bir şekilde yönlendirerek, daha iyi bir hayat yaşayabileceğini vurgular.
-
-Kitap, bilinçaltının gücünü kullanarak sağlık, zenginlik, başarı ve mutluluk gibi isteklerin nasıl gerçekleştirilebileceğini anlatır. Murphy, bilinçaltınızı nasıl programlayacağınızı, olumlu düşünceleri nasıl güçlendireceğinizi ve hedeflerinize nasıl odaklanacağınızı adım adım açıklamıştır. Ayrıca, zihinsel resimleme, olumlu aforizmalar, olumlamalar ve affirmasyonlar gibi pratik teknikleri de paylaşmıştır.
-
-Kitap, bilinçaltının nasıl çalıştığına dair temel bilgileri açıklar. Bilinçaltının düşüncelerimizi ve davranışlarımızı nasıl etkilediğini anlamamızı sağlar. Ayrıca, olumsuz düşünce kalıplarını değiştirme, olumlu inançlar ve alışkanlıklar oluşturma konularında rehberlik sunar.
-
-Jensen, pratik adımlar ve tekniklerle bilinçaltının gücünü nasıl kullanabileceğinizi gösterir. Kendi içsel programlamalarınızı yeniden düzenleyerek, kendi potansiyelinizi gerçekleştirmek için bilinçaltınızı nasıl yönlendirebileceğinizi anlatır. Ayrıca, hedef belirleme, motivasyon artırma ve stresle başa çıkma gibi konularda stratejiler sunar.

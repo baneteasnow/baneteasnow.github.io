@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "A Yogi's Guide to Chakra Meditation | Paul Grilley (Kitap)"

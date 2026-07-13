@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Notes from an Apocalypse | Mark O'Connell (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "21 Lessons for the 21st Century | Yuval Noah Harari (Kitap)"

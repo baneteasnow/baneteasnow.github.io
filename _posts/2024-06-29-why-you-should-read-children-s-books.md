@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Why You Should Read Children's Books, Even Though You Are So Old and Wise | Katherine Rundell (Kitap)"

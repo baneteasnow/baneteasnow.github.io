@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Bir Terapistin Arka Bahçesi | Alper Hasanoğlu (Kitap)"

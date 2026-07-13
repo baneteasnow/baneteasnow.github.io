@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Aşkın Halleri | Alper Hasanoğlu (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Dışa Bakan Rüya Görür, Içe Bakan Uyanır | Carl Gustav Jung (Kitap)"

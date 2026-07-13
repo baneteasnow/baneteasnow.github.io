@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Varoluş ve Psikiyatri | Engin Geçtan (Kitap)"

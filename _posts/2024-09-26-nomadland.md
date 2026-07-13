@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Nomadland | Jessica Bruder (Kitap)"

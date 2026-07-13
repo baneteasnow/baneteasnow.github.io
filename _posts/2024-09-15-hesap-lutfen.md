@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Hesap Lütfen! | Vedat Milor, Nurhak Kaya (Kitap)"

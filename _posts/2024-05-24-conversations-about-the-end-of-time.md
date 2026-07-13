@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Conversations About The End of Time | Jean-Claude Carriere, Jean Delumeau, Umberto Eco, Stephen Jay Gould (Kitap)"

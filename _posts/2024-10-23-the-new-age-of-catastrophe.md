@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The New Age of Catastrophe | Alex Callinicos (Kitap)"

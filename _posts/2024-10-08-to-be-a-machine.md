@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "To Be a Machine | Mark O'Connell (Kitap)"

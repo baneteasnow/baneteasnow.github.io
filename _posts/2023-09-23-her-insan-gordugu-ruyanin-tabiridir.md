@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Her Insan Gördüğü Rüyanın Tabiridir | Sigmund Freud (Kitap)"

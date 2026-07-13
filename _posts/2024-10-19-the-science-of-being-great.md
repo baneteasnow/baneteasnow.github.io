@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Science of Being Great | Wallace D. Wattles (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Hayat Bilgisi | Alper Hasanoğlu (Kitap)"

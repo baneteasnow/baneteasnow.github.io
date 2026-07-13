@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "101 Things I Learned in Psychology School | Tim Bono, Matthew Frederick (Kitap)"

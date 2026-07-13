@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Afacan Bir Psikanalistin Düşünceleri | Antonino Ferro (Kitap)"

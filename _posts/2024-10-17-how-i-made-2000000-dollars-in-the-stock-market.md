@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "How I Made $2.000.000 In The Stock Market | Nicolas Darvas (Kitap)"

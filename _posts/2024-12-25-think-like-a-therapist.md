@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Think Like a Therapist | Stephen Joseph (Kitap)"

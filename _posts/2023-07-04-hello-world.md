@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Hello World | Hannah Fry (Kitap)"
@@ -23,11 +22,3 @@ image: "/assets/new/hello-world.jpg"
 ---
 
 to be updated...
-
-Hannah Fry tarafından kaleme alınan Hello World kitabı, modern dünyanın vazgeçilmez bir parçası haline gelen algoritmaların gücünü ve etkilerini ele alıyor. Kitap, farklı alanlarda kullanılan algoritmaların nasıl çalıştığını, kararlarımızı nasıl etkilediğini ve toplumsal düzeyde nasıl bir dönüşüm yarattığını inceliyor.
-
-Kitap, algoritmaların günlük hayatımızda nasıl kullanıldığına dair ilginç örnekler sunuyor. Örneğin, algoritma tabanlı hedefleme reklamları ve öneri sistemleri, internet üzerindeki deneyimimizi şekillendirirken, suç öngörü algoritmaları ve yapay zeka destekli sağlık sistemleri ise karar alma süreçlerini etkileyebilir. Fry, bu örnekler üzerinden algoritmaların neden önemli olduğunu ve nasıl etkili bir şekilde kullanılabileceğini anlatıyor.
-
-Kitap aynı zamanda algoritmaların potansiyel tehlikelerine de dikkat çekiyor. Örneğin, veri manipülasyonu ve algoritmalardaki önyargılar, insan haklarına ve adaletin sağlanmasına zarar verebilir. Fry, bu sorunlara karşı nasıl önlemler alınabileceğini ve etik bir algoritma kullanımının nasıl sağlanabileceğini tartışır.
-
-Fry, algoritmaların hayatımızdaki yerini anlamamıza yardımcı olurken, gelecekteki gelişmeler ve etkileri hakkında da önemli ipuçları sunuyor. Kitap, teknolojinin toplum üzerindeki etkilerini anlamak isteyen herkes için değerli bir kaynak niteliği taşıyor.

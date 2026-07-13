@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "It Didn't Start With You | Mark Wolynn (Kitap)"
@@ -23,13 +22,3 @@ image: "/assets/new/it-didnt-start-with-you.jpg"
 ---
 
 to be updated...
-
-It Didn't Start With You, geçmiş travmaların nasıl bugünkü hayatımızı etkileyebileceği üzerine odaklanıyor. Wolynn, bu etkilerin genellikle nesilden nesile geçtiğini ve bilinçli olmadığımız şekillerde davranışlarımızı, ilişkilerimizi ve sağlığımızı etkileyebileceğini öne sürüyor.
-
-Kitap, okuyucuları geçmiş travmaların izlerini keşfetmeye ve anlamaya teşvik ediyor. Wolynn, bu izleri bulmanın ve bunları çözmenin, daha sağlıklı ve bilinçli bir yaşam sürmek için önemli bir adım olduğunu vurgulayarak, geçmiş travmalara dayalı düşünce, hissetme ve davranış kalıplarını fark etmenin ve değiştirmenin önemine işaret ediyor.
-
-It Didn't Start With You, kişisel hikayeler ve klinik çalışmalar aracılığıyla bir dizi gerçek örnek sunuyor. Kitapta geçmiş travmalardan kaynaklanan sorunları anlamak ve iyileştirmek için kullanılabilecek farklı teknikler ve araçlar da yer buluyor. Bu süreçte, anılarımızın ve deneyimlerimizin nasıl bağlantılı olduğunu anlamak önemlidir.
-
-Kitap, aile geçmişi ve atalarımızın deneyimlerinin nasıl şu anda yaşadığımız sorunları etkileyebileceğine odaklanıyor. Wolynn, genetik miras ve nesilden nesile geçen travmaların etkilerini inceliyor. Ayrıca, bu travmaların bilinçsizce aktarıldığını ve çocukluk dönemimizdeki deneyimlerimizle nasıl etkileşime girdiğini açıklıyor.
-
-It Didn't Start With You kitabı, bireylerin kendilerini ve ilişkilerini daha sağlıklı bir şekilde sürdürebilmeleri için geçmişten gelen izlerin farkında olmayı teşvik ediyor. Wolynn'ın deneyimlerinden ve araştırmalarından yola çıkarak yazılan bu kitap, miras alınan travmaların nasıl üstesinden gelinebileceği konusunda da derin bir iç görü sunuyor.

@@ -1,6 +1,4 @@
 ---
-# to be updated
-# open ai
 layout: post
 category: book
 title: "Dunk Your Biscuit Horizontally | Rik Kuiper, Tonie Mudde (Kitap)"
@@ -24,18 +22,3 @@ image: "/assets/new/dunk-your-biscuit-horizontally.jpg"
 ---
 
 to be updated...
-
-Bisküviyi Çaya Yatay Bandırın, gündelik hayata dair 104 gerçeğe değiniyor. Bir popüler kültür kitabı niteliğinde olan bu kitap ilginç gerçekler, anekdotlar ve günlük yaşamla ilgili ilginç olaylara yer veriyor.
-
-104 maddenin her birine kısaca değinilmiş ve alıntı yapılan makale ve kaynaklar da özellikle belirtilmiş. Kitapta yer alan başlıklardan bazıları şöyle:
-
-- Toplu elektronik posta göndermeyin
-- İlginç yazı karakterleri kullanmaktan kaçının
-- Sakız çiğneyin (ve hafızanız güçlensin)
-- Oturacak yer mi yok? Sormanız yeter
-- Lahanayı kesin (ve iki gün bekletin)
-- Zeytinyağı kullanın
-- Bir emlak komisyoncusuna asla güvenmeyin
-- Kararı ertesi güne bırakın
-- Bayılacağınızı hissettiğinizde bacak bacak üstüne atıp kaslarınızı kasın
-- Okumayı bırakın ve soru sormaya başlayın

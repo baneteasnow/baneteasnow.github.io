@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Cinsel Olan Politik Midir? | Slavoj Zizek (Kitap)"

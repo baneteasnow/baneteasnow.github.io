@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Mutsuz Olmak | Wilhelm Schmid (Kitap)"

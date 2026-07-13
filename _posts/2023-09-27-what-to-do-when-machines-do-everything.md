@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "What To Do When Machines Do Everything | Malcolm Frank, Paul Roehrig, Ben Pring (Kitap)"

@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Yalnızlık Zamanında Aşk | Paul Verhaeghe (Kitap)"

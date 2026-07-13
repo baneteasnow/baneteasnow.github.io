@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Is It Ever Just Sex? | Darian Leader (Kitap)"

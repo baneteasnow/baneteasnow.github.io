@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Sex at Dawn | Christopher Ryan, Cacilda Jethá (Kitap)"

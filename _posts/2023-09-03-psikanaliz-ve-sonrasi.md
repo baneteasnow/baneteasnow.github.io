@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Psikanaliz ve Sonrasi | Engin Geçtan (Kitap)"

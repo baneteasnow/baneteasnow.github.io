@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Yüzmek, Yaşamak ve Olma Arzusu | Nihan Kaya (Kitap)"

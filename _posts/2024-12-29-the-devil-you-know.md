@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Devil You Know | Gwen Adshead, Eileen Horne (Kitap)"

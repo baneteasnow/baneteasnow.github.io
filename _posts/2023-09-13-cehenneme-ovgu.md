@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Cehenneme Övgü | Gündüz Vassaf (Kitap)"

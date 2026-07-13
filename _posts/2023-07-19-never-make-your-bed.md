@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Never Make Your Bed | Rik Kuiper, Tonie Mudde (Kitap)"
@@ -24,21 +23,3 @@ image: "/assets/new/never-make-your-bed.jpg"
 ---
 
 to be updated...
-
-Bırak Dağınık Kalsın, gündelik hayata dair 115 gerçeğe değiniyor. Bir popüler kültür kitabı niteliğinde olan bu kitap ilginç gerçekler, anekdotlar ve günlük yaşamla ilgili ilginç olaylara yer veriyor.
-
-115 maddenin her birine kısaca değinilmiş ve alıntı yapılan makale ve kaynaklar da özellikle belirtilmiş. Kitapta yer alan başlıklardan bazıları şöyle:
-
-- Çirkin bir adamla evlenin
-- Sabah kalkmakta güçlük çekenler daha fazla dışarı çıkın
-- Araba kullanırken hafif müzik dinleyin
-- Tekrarladıkça haklı çıkarsınız
-- Görünüşe göre yargılamayın
-- Toplantınızı ayakta yapın
-- İnekleri izleyip kuzeyi bulun
-- Diş fırçanızı düzenli olarak değiştirin
-- Gümüş yerine bronz madalyayı hedefleyin
-- Bir diyet uygulamayın, daha az yiyin
-- Nesne değil, deneyim satın alın
-- Bir şey satmak için bir sürü sayı kullanın
-- Paranızı başkalarına verip mutlu olun

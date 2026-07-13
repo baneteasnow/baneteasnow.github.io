@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Constant Craving | Doreen Virtue (Kitap)"
@@ -23,9 +22,3 @@ image: "/assets/new/constant-craving.jpg"
 ---
 
 to be updated...
-
-"Duygusal Açlık" kitabı, duygusal açlığın doğasını, nedenlerini ve belirtilerini açıklar. Duygusal açlık, içsel bir boşluk veya eksiklik hissiyle ilişkili olup, çoğu zaman yiyecek, ilişkiler, başarı veya maddi şeylerle tatmin etme ihtiyacı olarak kendini gösterir. Doreen Virtue, duygusal açlığın temelinde yatan duygusal ihtiyaçları ve zihinsel kalıpları keşfetmemizi teşvik eder.
-
-Kitap, duygusal açlığın tetikleyicilerini ve bu açlığın nasıl giderilebileceğini ele alıyor. Doreen Virtue, duygusal açlığı besleyen duygusal durumları, düşünce kalıplarını ve alışkanlıkları fark etmemizi çeşitli örnekler vererek sağlıyor. Bunun yanı sıra, sağlıklı bir yaşam tarzı, duygusal denge ve kendi kendini sevgiyle besleme konularında stratejiler sunuyor.
-
-"Duygusal Açlık", duygusal açlığı aşma ve gerçek doyumun nasıl elde edileceği konularında rehberlik sağlıyor. Kitap, öz-sevgi, öz-farkındalık, kişisel gelişim ve sağlıklı ilişkilerin nasıl geliştirileceği konularında pratik adımlar ve egzersizler sunuyor. Ayrıca, meditasyon, nefes teknikleri ve vizyon tahtası kullanımı gibi araçları da paylaşıyor.

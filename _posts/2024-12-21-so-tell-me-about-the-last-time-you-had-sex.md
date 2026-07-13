@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "So Tell Me About the Last Time You Had Sex | Ian Kerner (Kitap)"

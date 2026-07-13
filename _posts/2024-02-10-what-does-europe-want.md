@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "What Does Europe Want? | Srecko Horvat, Slavoj Zizek (Kitap)"

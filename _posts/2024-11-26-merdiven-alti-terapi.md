@@ -21,8 +21,4 @@ update: "done"
 image: "/assets/new/merdiven-alti-terapi.jpg"
 ---
 
-Deniz Dülgeroğlu, bir zamanların çene cerrahı diş hekimi, ödüllü bir reklam yazarı ve bugün ‘Merdiven Altı Terapi’ podcastinin samimi sesi. Paylaşımları zeka dolu ve içtenliğiyle dikkat çekiyor. Maruz kaldığı kötü ebeveynliğe, istemediği bir bölümü okumasına ve yaşadığı onca olumsuzluğa rağmen inadına ayakta duran, güçlü bir kadın. Hayat karşısındaki bu direnci, güçlü kalemine de yansımış.
-
-Podcastiyle aynı adı taşıyan kitabında, yayınlarında ele aldığı konuları işliyor. Kitap ve podcast bölümleri aynı başlıkları taşıyor ve paralel bir yapıda ilerliyor. Deniz Dülgeroğlu’ndan, kitabında daha önce anlatmadığı hikayelerle karşılaşmayı ve belki de onun dünyasına farklı bir bakış açısıyla dahil olmayı umuyordum. Ancak okuduğum, ufak eklemelerle zenginleşmiş ve podcast tadını koruyan bir kitaptı. Umarım yazmaya devam ederse, sonraki kitaplarında daha önce paylaşmadığı hikayelerine ve hayallerine yer verir. Onu hem dinlemekten hem de okumaktan keyif alıyorum ve daha fazlasını sabırsızlıkla bekliyorum.
-
-> Yaşadığımız dünyada hepimiz, herkes gibi olup 'normal' sayılmak için bizi biz yapan gerçek hikayelerimizden vazgeçip kusursuz ama bir o kadar da yüzeysel insanlar olmaya, neredeyse bir Android'e dönüşmeye çabalıyoruz. (sayfa 27)
+to be updated

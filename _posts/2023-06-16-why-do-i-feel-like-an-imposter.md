@@ -1,6 +1,4 @@
 ---
-# to be updated
-# open ai
 layout: post
 category: book
 title: "Why Do I Feel Like An Imposter? | Sandi Mann (Kitap)"
@@ -24,11 +22,3 @@ image: "/assets/new/why-do-i-feel-like-an-imposter.jpg"
 ---
 
 to be updated...
-
-"Why Do I Feel Like an Imposter?" kitabı, imposter sendromu olarak bilinen psikolojik bir durumu ele alıyor. Bu sendromu yaşayanlar haketmedikleri başarıları şans eseri elde ettiklerini düşünürler ve kendilerini adeta bir sahtekar gibi hissederler. Yazar Sandi Mann, insanların kendilerini başarısız, sahte veya yetersiz hissetme eğilimini anlamaya ve bu hislerle başa çıkmaya odaklanır. Kitap, bu durumun nedenlerini, yaygınlığını ve etkilerini inceler.
-
-Kitap, imposter sendromunun çeşitli alanlarda nasıl ortaya çıkabileceğini açıklar. İş yaşamı, akademik dünya, ilişkiler ve kişisel hedefler gibi alanlarda insanların kendilerini imposter gibi hissetme eğilimini araştırır. Yazar, bu durumu etkileyen faktörleri, toplumsal normları ve kişisel deneyimleri ele alırken, okuyucuya kendini tanıma ve farkındalık geliştirme konusunda rehberlik eder.
-
-Kitap aynı zamanda imposter sendromunun nasıl etkiler yarattığını ve insanların yaşam kalitesini nasıl etkilediğini açıklar. Yetersizlik duygularının, özgüven eksikliğinin, kariyer ilerlemesinin engellenmesinin ve yaşamın keyifli yanlarının gözden kaçmasının imposter sendromuyla ilişkili olabileceğini vurgular. Yazar, bu durumu anlamak ve etkilerini azaltmak için okuyucuya pratik stratejiler sunar.
-
-İmposter Sendromu kitabı, okuyuculara imposter sendromunu aşmaları ve gerçek potansiyellerini keşfetmeleri konusunda ilham veriyor. Yazar, özgüvenin geliştirilmesi, olumlu düşünce kalıplarının oluşturulması ve kendi değerlerimizin farkına varmanın önemini vurgular. Kitap, okuyucuları imposter sendromuyla mücadele etme konusunda cesaretlendirir ve kendilerine olan güvenlerini yeniden kazanmalarına yardımcı olur.

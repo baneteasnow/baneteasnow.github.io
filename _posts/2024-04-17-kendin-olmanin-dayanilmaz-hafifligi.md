@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Kendin Olmanın Dayanılmaz Hafifliği | Ferhat Jak Içöz (Kitap)"

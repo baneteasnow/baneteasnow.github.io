@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Death Of Expertise | Thomas M. Nichols (Kitap)"
