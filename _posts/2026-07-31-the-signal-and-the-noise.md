@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Signal and the Noise | Nate Silver (Kitap)"

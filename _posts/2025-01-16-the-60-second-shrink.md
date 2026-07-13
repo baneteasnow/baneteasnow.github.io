@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The 60-Second Shrink | Arnold A. Lazarus, Clifford N. Lazarus (Kitap)"

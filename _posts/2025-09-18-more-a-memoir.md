@@ -21,8 +21,4 @@ update: "tobeupdated"
 image: "/assets/new/more-a-memoir.jpg"
 ---
 
-Molly Roden Winter’ın Çok adlı kitabı, evli ve çocuklu bir kadının açık ilişki deneyimi üzerinden hem kişisel özgürlük hem de bağlılık üzerine düşündüren bir otobiyografik çalışma. Winter, uzun yıllar süren evliliğinin ardından yaşadığı tatminsizlik hissini bastırmak yerine, kocasının bilgisi ve rızasıyla farklı ilişkiler yaşamaya başlıyor. Kitap, bu süreçte yaşanan heyecanı, çatışmaları, kıskançlıkları ve dönüştürücü keşifleri açıkça aktarıyor.
-
-Winter, sadece kendi hikâyesini değil, aynı zamanda cinsellik, arzu, sadakat ve evlilik kurumuna dair toplumsal beklentileri de tartışıyor. Açık ilişki fikrinin modern toplumda yarattığı gerilimi, hem özgürleşme hem de yıkıcı riskler barındıran bir deneyim olarak ele alıyor. Özellikle çocuk sahibi olduktan sonra kadınların cinsel arzularının görünmez hale getirildiğine değiniyor ve bu sessizliğin kırılması gerektiğini savunuyor.
-
-Kitap, çok eşliliğin idealize edilmeden ama romantikleştirilmeden aktarılmasıyla dikkat çekiyor. Winter, kimi zaman zorlayıcı ve kırıcı, kimi zaman da dönüştürücü olan bu deneyimlerden hareketle, arzu ve sevgi arasındaki karmaşık bağları sorguluyor. Bu yönüyle More, bireysel deneyimlerin ötesinde, çağdaş ilişkilerin sınırlarını ve olasılıklarını tartışmaya açıyor.
+to be updated

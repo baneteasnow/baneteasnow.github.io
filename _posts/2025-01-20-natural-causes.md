@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Natural Causes | Barbara Ehrenreich (Kitap)"

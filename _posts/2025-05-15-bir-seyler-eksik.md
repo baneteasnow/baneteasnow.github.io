@@ -21,12 +21,4 @@ image: "/assets/new/bir-seyler-eksik.jpg"
 update: "done"
 ---
 
-Bülent Somay bu kitabında, aşk, arzu, cinsellik ve iktidar ekseninde şekillenen ilişkilerin yüzeyde görünen anlatılarının arkasında yatan daha derin bir meseleyi ele alıyor: eksiklik. Kitabın başlığında yer alan bu duygu, Somay’a göre sadece bireysel bir boşluk hissi değil; modern bireyin yapısal bir deneyimi. Lacancı psikanalizden postyapısalcı düşünceye, mitlerden edebiyata uzanan bir hat üzerinden bu eksiklikle nasıl başa çıkmaya çalıştığımızı, onu nasıl bastırdığımızı ya da yok saydığımızı tartışıyor. Ancak önerdiği şey eksikliği gidermek değil, onunla birlikte yaşamayı öğrenmek.
-
-Kitap, aşkın “tamamlanma” ya da “bir olma” gibi vaatlerine mesafeli duruyor. Somay’a göre aşk, insanı bütünleştiren değil, onda zaten var olan eksikliği görünür kılan bir deneyim. Yani aşk, tatmin sunmaktan çok bir yüzleşme alanı işlevi görüyor. Freud’un haz ilkesi, Lacan’ın arzu teorisi, Barthes’ın Aşıkların Söylemi ve Antik Yunan mitolojisi bu tartışmaya arka plan oluşturuyor. Teorik referanslar yer yer yoğun ama anlatım sade ve erişilebilir.
-
-Somay, günümüzün tüketim toplumunda aşkın ve cinselliğin giderek temsiller üzerinden yaşandığını söylüyor. Gerçek bağlar kurmak yerine, aşkı filmlerden, reklamlardan ve şarkılardan bildiğimiz biçimleriyle deneyimliyoruz. Bu da aşkın kendisinden çok, onun dışavurumlarıyla oyalanmamıza neden oluyor. Arzunun peşinden giderken tatmine değil, daha da derinleşen bir yetersizlik duygusuna çarpıyoruz.
-
-Benzer şekilde, cinsellik de kitapta sadece bir haz deneyimi olarak değil, bireyin sınırlarını muğlaklaştıran, kontrolün kolayca kaybedilebildiği bir alan olarak ele alınıyor. Bastırılmış arzular ve toplumsal normlar iç içe geçerken, cinsellik de bu karmaşık dinamiklerin içinde yeniden yorumlanıyor. Freud’un bastırma kavramı çağdaş psikanalitik yaklaşımlarla birlikte ele alınıyor.
-
-Kitabın ilerleyen sayfalarında kuramsal tartışmalardan çok, bu meselelerin gündelik hayattaki izdüşümleri öne çıkıyor. Somay kişisel deneyimlere, edebiyata ve felsefeye yer vererek “aşk” ve “hayat” gibi kavramların sınırlarını sorguluyor. Okuyucuya bir çözüm sunmuyor; aksine, eksikliğe yer açmanın, onu bastırmak yerine anlamaya çalışmanın daha sağlıklı ve sürdürülebilir bir yaklaşım olduğunu hatırlatıyor.
+to be updated

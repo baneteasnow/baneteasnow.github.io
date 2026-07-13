@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Ultra-Processed People | Chris van Tulleken (Kitap)"

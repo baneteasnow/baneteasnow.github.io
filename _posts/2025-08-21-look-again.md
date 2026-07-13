@@ -21,16 +21,4 @@ update: "done"
 image: "/assets/new/look-again.jpg"
 ---
 
-Tali Sharot ve Cass R. Sunstein’ın Bir Daha Bak kitabı, gündelik hayatta gözümüzün önünde duran şeyleri nasıl atladığımızı ve küçük bir bakış değişikliğinin hem bireysel hem toplumsal düzeyde nasıl sonuçlar üretebileceğini inceliyor. Yazarlar, dikkat ve algının nasıl çalıştığını psikoloji, nörobilim ve davranış biliminden örneklerle ele alıyor; “alışkanlığın körlüğü”nün yaşamı daralttığını, yeniden bakma pratiğinin ise karar alma ve iyi oluş üzerinde belirgin etkileri olabileceğini gösteriyor.
-
-Kitabın merkezinde “hedonik adaptasyon” yer alıyor. Yeni bir eve taşınmak, terfi almak ya da uzun zamandır beklenen bir hedefe ulaşmak kısa süreli bir yükseliş yaratıyor; ardından durum sıradanlaşıyor. Sharot ve Sunstein, bu eğilimin farkında olmanın seçimleri daha bilinçli kılabileceğini; kalıcı tatminin çoğu zaman dış koşullardan ziyade bakışı tazeleme becerisiyle ilgili olduğunu savunuyor. “Bir daha bakmak” tam da bu: sıradanlaşmış olana yeniden dikkat vermek.
-
-Yazarlar, dikkatimizin nasıl daraldığını da tartışıyor. Seçici dikkat, odaklandığımız alanı keskinleştirirken çevredeki başka sinyalleri kaçırmamıza yol açabiliyor. Bu sadece laboratuvar bulgusu değil; iş akışından risk değerlendirmesine, kamusal tartışmalardan gündelik iletişime kadar birçok alanda etkisi görülüyor. Neye baktığımız ve neyi görmezden geldiğimiz; ilişkilerimizi, üretkenliğimizi ve toplumsal tercihleri şekillendiriyor.
-
-Kitap, nörobilim bulgularını davranışsal ekonomiyle buluşturuyor. Tekrarın ikna üzerindeki etkisi, olumsuz bilgilere aşırı ağırlık verme eğilimi, alışveriş ve medya tüketiminde dikkatin nasıl yakalandığı gibi başlıklarda somut örnekler var. Sunstein’in “dürtme” yaklaşımından hareketle, küçük yapısal düzenlemelerin (bilgi sunum biçimi, varsayılan seçenekler, hatırlatıcılar) bakış açısını değiştirmede nasıl işe yaradığını anlatıyor.
-
-Bireysel ilişkiler boyutunda, “yeniden bakma” pratiği; partner, aile ya da ekip içi etkileşimlerde zamanla görünmez olan olumlu işaretleri yeniden görmeyi mümkün kılıyor. Alışkanlığın körleştirdiği alanlarda bilinçli dikkat, hem empatiyi hem de tatmini artırabiliyor.
-
-Kitap, bireyselin ötesinde kamusal alan için de “bir daha bak” çağrısı yapıyor. Demokrasi, adalet, iklim ve sağlık gibi konularda, alıştığımız anlatılar yeni işaretleri perdeleyebiliyor. Yazarlar, bu otomatikliği kırmanın politika tasarımından kurumsal yönetişime kadar birçok alanda düşünmeyi açtığını gösteriyor.
-
-Sonuçta Look Again, beynin doğal eğilimlerini tanımlarken pratik bir öneriyle ilerliyor: Dur, dikkati tazele, yeniden gör. Çünkü çoğu zaman aradığımız şey zaten orada; mesele ona yeniden bakmayı seçmek.
+to be updated

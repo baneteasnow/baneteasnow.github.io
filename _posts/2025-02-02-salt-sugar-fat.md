@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Salt Sugar Fat | Michael Moss (Kitap)"

@@ -21,8 +21,4 @@ image: "/assets/new/the-little-book-of-fika.jpg"
 update: "done"
 ---
 
-Fika, İsveçlilerin gün içinde yavaşlayıp bir fincan kahve eşliğinde durup dinlenmek için yarattığı küçük ama anlamlı bir mola. Ama mesele sadece kahve içmek değil; yanına bir dilim kek ya da bir kurabiye koymak, biriyle sohbet etmek, o anın hakkını vermek demek. Lynda Balslev’in Fika kitabı da tam bu ruhun etrafına kurulmuş.
-
-Kitap sadece İsveç’e özgü bir kahve molası kültürünü anlatmakla kalmıyor; aynı zamanda yavaşlamanın, birlikte olmanın ve anın içinde kalmanın değerini hatırlatıyor. İçinde tatlılar, çörekler, kurabiyeler ve elbette kahveyle tamamlanan anlar var. Ama bu tariflerin ötesinde, yavaşlamayı bir yaşam biçimi olarak benimseyen bir felsefe var. Yazarın anlatımı sıcak ve sade. Tarifler ulaşılabilir ama asıl güzellik, onların çevresine kurulan bakışta saklı: Daha yavaş, daha huzurlu, daha bağlantılı bir hayat mümkün.
-
-Kitap boyunca hissedilen o dinginlik, yalnızca tariflerin sadeliğinden değil, aynı zamanda bu yaşam tarzının neye dayandığını hatırlatan anlatım biçiminden geliyor. Sayfalar mutfağa davet gibi görünse de, aslında bir durup düşünme çağrısı. Bir fincan kahveyle gelen küçük mutlulukları hatırlatma çabası. Fika, tariflerin değil, onların çevresinde şekillenen hayatın kitabı.
+to be updated

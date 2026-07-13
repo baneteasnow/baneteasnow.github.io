@@ -21,9 +21,4 @@ update: "done"
 image: "/assets/new/inside-the-criminal-mind.jpg"
 ---
 
-Stanton E. Samenow’un Suçlular Nasıl Düşünür? adlı kitabı, suçun nedenlerini bireyin düşünce yapısına indirgeyen bir yaklaşımla ele alıyor. Samenow, çevresel ya da toplumsal etkenlerden ziyade, suça eğilimli bireylerin kendine özgü düşünsel örüntülerine odaklanıyor. Bu yaklaşım, suç davranışlarının kurbanlaştırma, sorumluluktan kaçma, manipülasyon ya da öfke kontrolü gibi tekrar eden bilişsel çarpıklıklarla açıklanabileceği varsayımına dayanıyor. Yazar, onlarca yıllık adli psikoloji deneyimini aktarırken, bilişsel-davranışçı terapiye yakın duran bir dil kullanıyor: Davranışı değiştirmek için önce düşünce yapısı değişmeli.
-
-Kitap boyunca suçlu zihni, çoğunlukla ABD ceza sistemi örnekleri üzerinden tarif ediliyor. Empati yoksunluğu, hızlı tatmin arayışı ve kendi hatalarını dışsallaştırma gibi eğilimler, Samenow’un “suçlu kişilik” dediği yapının temel bileşenleri olarak sunuluyor. Ancak bu anlatı, bireyi toplumsal bağlamından kopardığı ölçüde eleştiriye açık. Yoksulluk, eşitsizlik, eğitim eksikliği ya da sosyal dışlanma gibi etkenler kitapta neredeyse hiç yer bulmuyor. Samenow’un yaklaşımı, daha çok “kişisel sorumluluk” söylemine yaslanıyor ve suçu, bireyin kendi seçimi olarak çerçeveliyor.
-
-Bu nedenle kitap, suçun nedenlerini anlamaya çalışan ama daha çok boyutlu analizlere ihtiyaç duyan okurlar için sınırlı bir perspektif sunuyor. Özellikle suçun yapısal boyutlarını göz ardı etmesi ve bireyi mutlak sorumlu ilan etmesi, anlatının dengesini bozuyor. Kuramsal olarak iddialı görünse de, toplumsal gerçekliklerle bağ kurmakta zayıf kalıyor.
-
+to be updated

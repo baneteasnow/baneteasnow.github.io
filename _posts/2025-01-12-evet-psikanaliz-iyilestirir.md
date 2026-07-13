@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "Evet, Psikanaliz Iyileştirir! | J. D. Nasio (Kitap)"

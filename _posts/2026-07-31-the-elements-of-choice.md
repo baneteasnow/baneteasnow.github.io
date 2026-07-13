@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Elements of Choice | Eric J. Johnson (Kitap)"

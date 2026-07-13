@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "A Healing Relationship | Richard G. Erskine (Kitap)"

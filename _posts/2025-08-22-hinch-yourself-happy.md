@@ -21,10 +21,4 @@ update: "done"
 image: "/assets/new/hinch-yourself-happy.jpg"
 ---
 
-Sophie Hinchliffe, bilinen adıyla Mrs. Hinch, önce Instagram’daki @mrshinchhome hesabıyla geniş bir takipçi kitlesine ulaştı. Ev temizliği üzerine paylaştığı pratik ipuçları, düzen fikirleri ve sade anlatımı, kısa sürede milyonlarca insanın ilgisini çekti. Bu popülerliğin ardından yazdığı Evim Temiz Mutluyum kitabı, yalnızca temizlik önerilerinden ibaret değil; aynı zamanda temizliğin sadece hijyen değil, ruhsal bir rahatlama aracı da olabileceğini hatırlatan bir kitap.
-
-Kitapta Mrs. Hinch’in “Hinching” adını verdiği temizlik yöntemleri adım adım anlatılıyor. Yüzeyleri parlatmaktan, temizlik ürünlerini düzenli kullanmaya; küçük detaylarla ev ortamını daha ferah hale getirmekten, kısa sürede tamamlanabilecek rutinlere kadar birçok pratik öneri mevcut. Bu önerilerin bir kısmı sosyal medyada paylaşımlarından tanıdık gelebilir, ancak kitapta bunlar daha sistematik ve takip edilebilir bir şekilde bir araya getirilmiş.
-
-Mrs. Hinch’in en dikkat çeken yönü, temizlik konusuna yalnızca evin fiziksel düzeni açısından yaklaşmaması. Ona göre temizlik aynı zamanda kaygıyı azaltan, zihinsel dağınıklığı toparlayan ve kişiye kontrol hissi veren bir eylem. Kendi hayatından paylaştığı deneyimlerle, temizlik sayesinde nasıl daha huzurlu hissettiğini ve bu alışkanlığın günlük yaşamını nasıl dönüştürdüğünü okurla paylaşıyor.
-
-Evim Temiz Mutluyum, yalnızca ev düzenlemeyi sevenler için değil; gündelik hayatında küçük değişikliklerle kendini daha iyi hissetmek isteyen herkes için samimi ve pratik bir kitap. Mrs. Hinch’in dili, okuyucuyu temizlik rutinlerine eşlik eden bir huzur ve basitlik duygusuyla buluşturuyor.
+to be updated

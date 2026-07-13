@@ -21,4 +21,4 @@ update: "tobeupdated"
 image: "/assets/new/revenge-of-the-tipping-point.jpg"
 ---
 
-...to be updated
+to be updated

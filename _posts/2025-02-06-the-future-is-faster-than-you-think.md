@@ -1,5 +1,4 @@
 ---
-# to be updated
 layout: post
 category: book
 title: "The Future Is Faster Than You Think | Peter H. Diamandis, Steven Kotler (Kitap)"
