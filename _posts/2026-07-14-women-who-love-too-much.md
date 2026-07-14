@@ -10,13 +10,13 @@ sayfa: "328"
 goodreads: "https://www.goodreads.com/book/show/9786.Women_Who_Love_Too_Much"
 description: ""
 eng: ""
-last_modified_at: 2026-07-31
-published: false
-posted: 2026-07-31
+last_modified_at: 2026-07-14
+published: true
+posted: 2026-07-14
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "594"
 update: "tobeupdated"
 image: "/assets/new/women-who-love-too-much.jpg"
 ---

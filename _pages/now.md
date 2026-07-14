@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 35
+read: 36
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-12
+last_modified_at: 2026-07-14
 published: true
 #
 # 1
@@ -49,9 +49,9 @@ sayfa4: 576
 format4: reading as a book
 pageread4: 132
 # 5
-booktitle5: "Women Who Love Too Much"
-bookyear5: 2019
-author5: "Robin Norwood"
+booktitle5: "Dirty Work"
+bookyear5: 2023
+author5: "Eyal Press"
 sayfa5: 328
 format5: reading as a book
 pageread5: 1
