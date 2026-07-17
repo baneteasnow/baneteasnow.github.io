@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 36
+read: 37
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-14
+last_modified_at: 2026-07-17
 published: true
 #
 # 1
@@ -35,14 +35,14 @@ sayfa2: 390
 format2: reading as a book
 pageread2: 103
 # 3
-booktitle3: "The Elements of Choice - Why the Way We Decide Matters"
+booktitle3: "The Elements of Choice"
 bookyear3: 2025
 author3: "Eric J. Johnson"
 sayfa3: 392
 format3: reading as a book
-pageread3: 96
+pageread3: 392
 # 4
-booktitle4: "The Signal and the Noise - Why So Many Predictions Fail—But Some Don't"
+booktitle4: "The Signal and the Noise"
 bookyear4: 2018
 author4: "Nate Silver"
 sayfa4: 576

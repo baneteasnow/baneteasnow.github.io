@@ -10,13 +10,13 @@ sayfa: "392"
 goodreads: "https://www.goodreads.com/book/show/57155088-the-elements-of-choice"
 description: ""
 eng: ""
-last_modified_at: 2026-07-31
-published: false
-posted: 2026-07-31
+last_modified_at: 2026-07-17
+published: true
+posted: 2026-07-17
 tag: ""
 reread: "no"
-rating: "3"
-num: ""
+rating: "4"
+num: "595"
 update: "tobeupdated"
 image: "/assets/new/the-elements-of-choice.jpg"
 ---
