@@ -1,0 +1,26 @@
+{
+	"id": "/skin-care-plan/skincare.html",
+	"name": "Skincare Routine",
+	"short_name": "Skincare",
+	"description": "My skincare routine and product plan",
+	"icons": [
+		{
+			"src": "/assets/images/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/assets/images/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"theme_color": "#ffffcc",
+	"background_color": "#ffffcc",
+	"display": "standalone",
+	"orientation": "natural",
+	"start_url": "/skin-care-plan/skincare.html",
+	"scope": "/skin-care-plan/"
+}

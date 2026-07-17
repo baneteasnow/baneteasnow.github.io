@@ -62,10 +62,11 @@
 		crossorigin="anonymous"
 		referrerpolicy="no-referrer"
 	/>
-	<link
-		rel="manifest"
-		href="https://raw.githubusercontent.com/baneteasnow/baneteasnow.github.io/gh-pages/site.webmanifest"
-	/>
+{% if page.custom_manifest %}
+	<link rel="manifest" href="{{ page.custom_manifest | relative_url }}" />
+{% else %}
+	<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}" />
+{% endif %}
 	<meta
 		name="theme-color"
 		content="#DDDDDD"
