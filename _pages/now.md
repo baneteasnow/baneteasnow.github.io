@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 37
+read: 38
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-17
+last_modified_at: 2026-07-19
 published: true
 #
 # 1
@@ -47,7 +47,7 @@ bookyear4: 2018
 author4: "Nate Silver"
 sayfa4: 576
 format4: reading as a book
-pageread4: 132
+pageread4: 576
 # 5
 booktitle5: "Dirty Work"
 bookyear5: 2023
