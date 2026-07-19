@@ -15,7 +15,7 @@ published: true
 posted: 2026-07-17
 tag: ""
 reread: "no"
-rating: "4"
+rating: "3"
 num: "595"
 update: "tobeupdated"
 image: "/assets/new/the-elements-of-choice.jpg"

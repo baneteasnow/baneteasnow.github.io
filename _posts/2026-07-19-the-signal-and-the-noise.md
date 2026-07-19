@@ -10,13 +10,13 @@ sayfa: "576"
 goodreads: "https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise"
 description: ""
 eng: ""
-last_modified_at: 2026-07-31
-published: false
-posted: 2026-07-31
-tag: ""
+last_modified_at: 2026-07-19
+published: true
+posted: 2026-07-19
+tag: "ScienceDiscovery"
 reread: "no"
 rating: "3"
-num: ""
+num: "596"
 update: "tobeupdated"
 image: "/assets/new/the-signal-and-the-noise.jpg"
 ---
