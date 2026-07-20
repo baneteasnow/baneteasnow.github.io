@@ -35,32 +35,18 @@ sayfa2: 390
 format2: reading as a book
 pageread2: 103
 # 3
-booktitle3: "The Elements of Choice"
-bookyear3: 2025
-author3: "Eric J. Johnson"
-sayfa3: 392
+booktitle3: "Dirty Work"
+bookyear3: 2023
+author3: "Eyal Press"
+sayfa3: 328
 format3: reading as a book
-pageread3: 392
+pageread3: 1
 # 4
-booktitle4: "The Signal and the Noise"
-bookyear4: 2018
-author4: "Nate Silver"
-sayfa4: 576
+booktitle4: "All the Lonely People"
+bookyear4: 2026
+author4: "Sam Carr"
+sayfa4: 269
 format4: reading as a book
-pageread4: 576
-# 5
-booktitle5: "Dirty Work"
-bookyear5: 2023
-author5: "Eyal Press"
-sayfa5: 328
-format5: reading as a book
-pageread5: 1
-# 6
-booktitle6: "All the Lonely People"
-bookyear6: 2026
-author6: "Sam Carr"
-sayfa6: 269
-format6: reading as a book
 pageread6: 1
 ---
 
@@ -160,54 +146,6 @@ _by_ {{ page.author4 }}
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
       {{ page.pageread4 }}/{{ page.sayfa4 }}
-      </span>
-  </div>
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 5 }}
-
-{{ page.booktitle5 }} ({{ page.bookyear5 }})  
-_by_ {{ page.author5 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa5 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-      {{ page.pageread5 }}/{{ page.sayfa5 }}
-      </span>
-  </div>
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 6 }}
-
-{{ page.booktitle6 }} ({{ page.bookyear6 }})  
-_by_ {{ page.author6 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format6 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa6 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-  {{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-      {{ page.pageread6 }}/{{ page.sayfa6 }}
       </span>
   </div>
   <br />
