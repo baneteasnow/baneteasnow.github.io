@@ -35,12 +35,12 @@ sayfa2: 390
 format2: reading as a book
 pageread2: 103
 # 3
-booktitle3: "Dirty Work"
-bookyear3: 2023
-author3: "Eyal Press"
-sayfa3: 328
+booktitle3: "Feminist Therapy"
+bookyear3: 2022
+author3: "Laura S. Brown"
+sayfa3: 160
 format3: reading as a book
-pageread3: 328
+pageread3: 1
 # 4
 booktitle4: "All the Lonely People"
 bookyear4: 2026
