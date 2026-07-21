@@ -1,19 +1,19 @@
 ---
 layout: post
 category: book
-title: "Feminist Therapy | James Gleick (Kitap)"
+title: "Feminist Therapy | Laura S. Brown (Kitap)"
 kitap: "Feminist Therapy"
 tr: "Feminist Teori"
-yazar: "James Gleick"
-yil: "2016"
-sayfa: "390"
+yazar: "Laura S. Brown"
+yil: "2022"
+sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/7149199-feminist-therapy"
 description: ""
 eng: ""
 last_modified_at: 2026-07-31
 published: false
 posted: 2026-07-31
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: ""
