@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 38
+read: 39
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-19
+last_modified_at: 2026-07-21
 published: true
 #
 # 1
@@ -40,7 +40,7 @@ bookyear3: 2023
 author3: "Eyal Press"
 sayfa3: 328
 format3: reading as a book
-pageread3: 1
+pageread3: 328
 # 4
 booktitle4: "All the Lonely People"
 bookyear4: 2026
