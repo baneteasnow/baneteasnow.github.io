@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2026-07-31
 published: false
 posted: 2026-07-31
-tag: ""
+tag: "BiographyLifeStories"
 reread: "no"
 rating: "3"
 num: ""
