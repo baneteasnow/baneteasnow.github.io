@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 39
+read: 40
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-21
+last_modified_at: 2026-07-22
 published: true
 #
 # 1
@@ -45,7 +45,7 @@ pageread3: 1
 booktitle4: "All the Lonely People"
 bookyear4: 2026
 author4: "Sam Carr"
-sayfa4: 269
+sayfa4: 260
 format4: reading as a book
 pageread6: 1
 ---

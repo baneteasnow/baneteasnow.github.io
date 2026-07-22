@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Feminist Therapy | Laura S. Brown (Kitap)"
 kitap: "Feminist Therapy"
-tr: "Feminist Teori"
+tr: "Feminist Terapi"
 yazar: "Laura S. Brown"
 yil: "2022"
 sayfa: "160"
