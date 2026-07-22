@@ -42,12 +42,19 @@ sayfa3: 160
 format3: reading as a book
 pageread3: 1
 # 4
-booktitle4: "All the Lonely People"
-bookyear4: 2026
-author4: "Sam Carr"
-sayfa4: 260
+booktitle4: "Travelers to Unimaginable Lands"
+bookyear4: 2025
+author4: "Dasha Kiper"
+sayfa4: 240
 format4: reading as a book
 pageread6: 1
+# 5
+booktitle5: "The Truth Will Set You Free, But First It Will Piss You Off!"
+bookyear5: 2025
+author5: "Gloria Steinem"
+sayfa5: 176
+format5: reading as a book
+pageread5: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
