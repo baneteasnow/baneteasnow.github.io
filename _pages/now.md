@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 41
+read: 42
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-22
+last_modified_at: 2026-07-26
 published: true
 #
 # 1
@@ -54,7 +54,7 @@ bookyear5: 2025
 author5: "Gloria Steinem"
 sayfa5: 176
 format5: reading as a book
-pageread5: 1
+pageread5: 176
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
