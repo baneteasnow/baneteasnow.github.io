@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2026-07-17
 published: true
 posted: 2026-07-17
-tag: ""
+tag: "ConsumerMarketing"
 reread: "no"
 rating: "3"
 num: "595"
