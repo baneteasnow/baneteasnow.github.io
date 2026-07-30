@@ -14,7 +14,7 @@ eng: ""
 last_modified_at: 2026-02-12
 published: true
 posted: 2026-02-12
-tag: "SocietyCulture"
+tag: "HistoryPoliticalThought"
 reread: "no"
 rating: "4"
 num: "564"
