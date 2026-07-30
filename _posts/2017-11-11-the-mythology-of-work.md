@@ -13,7 +13,7 @@ eng: "The Mythology of Work by Peter Fleming offers a critical analysis of how w
 published: true
 last_modified_at: 2025-03-22
 posted: 2017-11-11
-tag: "WorkCareer"
+tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "75"
