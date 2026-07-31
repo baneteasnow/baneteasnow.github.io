@@ -13,7 +13,7 @@ eng: "What My Bones Know explores the long-term effects of childhood trauma thro
 last_modified_at: 2025-07-24
 published: true
 posted: 2025-07-24
-tag: "PsychologyMentalLife"
+tag: "BiographyLifeStories"
 reread: "no"
 rating: "4"
 num: "517"
