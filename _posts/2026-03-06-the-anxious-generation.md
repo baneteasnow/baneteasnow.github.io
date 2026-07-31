@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2026-03-06
 published: true
 posted: 2026-03-06
-tag: "PsychologyMentalLife"
+tag: "SocietyCulture"
 reread: "no"
 rating: "4"
 num: "572"
