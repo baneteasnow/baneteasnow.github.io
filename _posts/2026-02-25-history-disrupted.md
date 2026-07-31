@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2026-02-25
 published: true
 posted: 2026-02-25
-tag: "HistoryPoliticalThought"
+tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "4"
 num: "566"

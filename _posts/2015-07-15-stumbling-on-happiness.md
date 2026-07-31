@@ -12,7 +12,7 @@ description: "Mutluluk Üzerine Çeşitlemeler, insan mutluluğunun doğasını,
 published: true
 last_modified_at: 2024-12-06
 posted: 2015-07-15
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "11"
