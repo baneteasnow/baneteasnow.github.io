@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Week Number Finder
-last_modified_at: 2026-06-29
+last_modified_at: 2026-08-01
 published: true
 ---
 
@@ -17,9 +17,13 @@ published: true
 	</section>
 
 	<section class="calendar-card">
-		<div class="calendar-header" id="calendarHeader"></div>
+		<div
+			class="calendar-header"
+			id="calendarHeader"
+		></div>
 
 		<div class="calendar-weekdays">
+			<span class="week-heading">Wk</span>
 			<span>Mon</span>
 			<span>Tue</span>
 			<span>Wed</span>
@@ -38,12 +42,14 @@ published: true
 	<section class="result-card">
 		<div>
 			<p class="result-label">Selected Date</p>
+
 			<p
 				class="selected-date"
 				id="selectedDate"
 			>
 				—
 			</p>
+
 			<p
 				class="selected-day"
 				id="selectedDay"
@@ -56,6 +62,7 @@ published: true
 
 		<div>
 			<p class="result-label">Week Number</p>
+
 			<p
 				class="week-number"
 				id="weekNumber"
@@ -111,8 +118,8 @@ published: true
 		border-radius: 10px;
 		background: #ffffff;
 		color: #111111;
-		font-size: 14px;
 		font-family: inherit;
+		font-size: 14px;
 		text-align: center;
 		appearance: auto;
 		-webkit-appearance: auto;
@@ -125,40 +132,69 @@ published: true
 
 	.calendar-header {
 		margin-bottom: 18px;
-		text-align: center;
+		color: #111111;
 		font-size: 14px;
 		font-weight: 700;
-		color: #111111;
+		text-align: center;
 	}
 
 	.calendar-weekdays,
 	.calendar-grid {
 		display: grid;
-		grid-template-columns: repeat(7, 1fr);
-		gap: 8px;
+		grid-template-columns: 30px repeat(7, minmax(0, 1fr));
+		column-gap: 6px;
 		text-align: center;
 	}
 
 	.calendar-weekdays {
 		margin-bottom: 10px;
-		font-size: 12px;
 		color: #777777;
+		font-size: 12px;
+	}
+
+	.calendar-weekdays span {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		min-width: 0;
+	}
+
+	.week-heading {
+		color: #aaaaaa;
+		font-style: italic;
+	}
+
+	.calendar-grid {
+		row-gap: 8px;
+	}
+
+	.calendar-week-number {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 30px;
+		height: 32px;
+		color: #b0b0b0;
+		font-size: 11px;
+		font-style: italic;
+		font-weight: 400;
 	}
 
 	.calendar-day {
+		display: flex;
+		align-items: center;
+		justify-content: center;
 		width: 32px;
 		height: 32px;
 		margin: 0 auto;
 		border-radius: 50%;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		font-size: 13px;
 		color: #222222;
+		font-size: 13px;
 	}
 
 	.calendar-day.empty {
 		color: transparent;
+		pointer-events: none;
 	}
 
 	.calendar-day.selected {
@@ -175,21 +211,21 @@ published: true
 
 	.result-label {
 		margin: 0 0 8px;
-		font-size: 14px;
 		color: #333333;
+		font-size: 14px;
 	}
 
 	.selected-date {
 		margin: 0;
+		color: #111111;
 		font-size: 14px;
 		font-weight: 700;
-		color: #111111;
 	}
 
 	.selected-day {
 		margin: 8px 0 0;
-		font-size: 14px;
 		color: #777777;
+		font-size: 14px;
 	}
 
 	.divider {
@@ -201,10 +237,10 @@ published: true
 
 	.week-number {
 		margin: 0;
+		color: #0b63f6;
 		font-size: 42px;
 		font-weight: 800;
 		line-height: 1;
-		color: #0b63f6;
 	}
 
 	@media (max-width: 430px) {
@@ -217,12 +253,27 @@ published: true
 		}
 
 		.calendar-card {
-			padding: 24px 14px 22px;
+			padding: 24px 10px 22px;
 		}
 
 		.calendar-weekdays,
 		.calendar-grid {
-			gap: 6px;
+			grid-template-columns: 24px repeat(7, minmax(0, 1fr));
+			column-gap: 2px;
+		}
+
+		.calendar-weekdays {
+			font-size: 11px;
+		}
+
+		.calendar-grid {
+			row-gap: 7px;
+		}
+
+		.calendar-week-number {
+			width: 24px;
+			height: 30px;
+			font-size: 10px;
 		}
 
 		.calendar-day {
@@ -237,6 +288,28 @@ published: true
 
 		.week-number {
 			font-size: 40px;
+		}
+	}
+
+	@media (max-width: 360px) {
+		.calendar-card {
+			padding-right: 8px;
+			padding-left: 8px;
+		}
+
+		.calendar-weekdays,
+		.calendar-grid {
+			grid-template-columns: 22px repeat(7, minmax(0, 1fr));
+			column-gap: 1px;
+		}
+
+		.calendar-week-number {
+			width: 22px;
+		}
+
+		.calendar-day {
+			width: 28px;
+			height: 28px;
 		}
 	}
 </style>
@@ -282,38 +355,91 @@ published: true
 		})
 	}
 
-	function renderCalendar(date) {
+	function formatDateForInput(date) {
+		const year = date.getFullYear()
+		const month = String(date.getMonth() + 1).padStart(2, "0")
+		const day = String(date.getDate()).padStart(2, "0")
+
+		return `${year}-${month}-${day}`
+	}
+
+	function datesAreEqual(firstDate, secondDate) {
+		return (
+			firstDate.getFullYear() === secondDate.getFullYear() &&
+			firstDate.getMonth() === secondDate.getMonth() &&
+			firstDate.getDate() === secondDate.getDate()
+		)
+	}
+
+	function renderCalendar(selectedDate) {
 		calendarGrid.innerHTML = ""
 
-		const year = date.getFullYear()
-		const month = date.getMonth()
-		const selectedDay = date.getDate()
+		const year = selectedDate.getFullYear()
+		const month = selectedDate.getMonth()
 
-		calendarHeader.textContent = formatMonth(date)
+		calendarHeader.textContent = formatMonth(selectedDate)
 
-		const firstDay = new Date(year, month, 1)
-		const lastDay = new Date(year, month + 1, 0)
+		const firstDayOfMonth = new Date(year, month, 1)
+		const lastDayOfMonth = new Date(year, month + 1, 0)
 
-		const firstWeekday = (firstDay.getDay() + 6) % 7
-		const daysInMonth = lastDay.getDate()
+		/*
+		 * Takvim Pazartesi günü başlıyor.
+		 * Ayın ilk gününün bulunduğu haftanın Pazartesi gününü buluyoruz.
+		 */
+		const firstDayOffset = (firstDayOfMonth.getDay() + 6) % 7
 
-		for (let i = 0; i < firstWeekday; i++) {
-			const empty = document.createElement("span")
-			empty.className = "calendar-day empty"
-			empty.textContent = "."
-			calendarGrid.appendChild(empty)
-		}
+		const calendarStart = new Date(year, month, 1 - firstDayOffset)
 
-		for (let day = 1; day <= daysInMonth; day++) {
-			const dayEl = document.createElement("span")
-			dayEl.className = "calendar-day"
-			dayEl.textContent = day
+		/*
+		 * Ayın son gününün bulunduğu haftanın Pazar gününü buluyoruz.
+		 */
+		const lastDayOffset = (7 - lastDayOfMonth.getDay()) % 7
 
-			if (day === selectedDay) {
-				dayEl.classList.add("selected")
+		const calendarEnd = new Date(
+			year,
+			month,
+			lastDayOfMonth.getDate() + lastDayOffset,
+		)
+
+		const currentWeekStart = new Date(calendarStart)
+
+		while (currentWeekStart <= calendarEnd) {
+			/*
+			 * Her satır Pazartesi ile başladığı için
+			 * hafta numarasını bu Pazartesi tarihinden hesaplıyoruz.
+			 */
+			const weekNumberElement = document.createElement("span")
+			weekNumberElement.className = "calendar-week-number"
+			weekNumberElement.textContent = getISOWeekNumber(currentWeekStart)
+			weekNumberElement.title = `Week ${getISOWeekNumber(currentWeekStart)}`
+
+			calendarGrid.appendChild(weekNumberElement)
+
+			for (let dayOffset = 0; dayOffset < 7; dayOffset++) {
+				const currentDate = new Date(
+					currentWeekStart.getFullYear(),
+					currentWeekStart.getMonth(),
+					currentWeekStart.getDate() + dayOffset,
+				)
+
+				const dayElement = document.createElement("span")
+				dayElement.className = "calendar-day"
+
+				if (currentDate.getMonth() !== month) {
+					dayElement.classList.add("empty")
+					dayElement.textContent = ""
+				} else {
+					dayElement.textContent = currentDate.getDate()
+
+					if (datesAreEqual(currentDate, selectedDate)) {
+						dayElement.classList.add("selected")
+					}
+				}
+
+				calendarGrid.appendChild(dayElement)
 			}
 
-			calendarGrid.appendChild(dayEl)
+			currentWeekStart.setDate(currentWeekStart.getDate() + 7)
 		}
 	}
 
@@ -324,19 +450,19 @@ published: true
 			return
 		}
 
-		const date = new Date(value + "T00:00:00")
-		const weekNumber = getISOWeekNumber(date)
+		const selectedDate = new Date(`${value}T00:00:00`)
+		const weekNumber = getISOWeekNumber(selectedDate)
 
-		selectedDateEl.textContent = formatDate(date)
-		selectedDayEl.textContent = formatDay(date)
+		selectedDateEl.textContent = formatDate(selectedDate)
+		selectedDayEl.textContent = formatDay(selectedDate)
 		weekNumberEl.textContent = weekNumber
 
-		renderCalendar(date)
+		renderCalendar(selectedDate)
 	}
 
 	const today = new Date()
-	datePicker.value = today.toISOString().split("T")[0]
 
+	datePicker.value = formatDateForInput(today)
 	datePicker.addEventListener("change", updatePage)
 
 	updatePage()
