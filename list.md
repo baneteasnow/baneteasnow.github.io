@@ -12,5 +12,6 @@ published: true
 <a href="https://www.next52books.com/skin-care-plan/plan">Skincare Plan</a>  
 <a href="https://www.next52books.com/week-number.html">Week Number Finder</a>  
 <a href="https://homelibrary.next52books.com/shelves">Shelves</a>  
+<a href="https://homelibrary.next52books.com/browse">Browse</a>  
 <a href="https://homelibrary.next52books.com/categories/categories">Categories</a>  
 <a href="https://www.next52books.com/glance">At a Glance</a>
