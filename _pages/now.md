@@ -17,7 +17,7 @@ read: 42
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-07-26
+last_modified_at: 2026-08-05
 published: true
 #
 # 1
@@ -49,12 +49,12 @@ sayfa4: 240
 format4: reading as a book
 pageread6: 1
 # 5
-booktitle5: "The Truth Will Set You Free, But First It Will Piss You Off!"
-bookyear5: 2025
+booktitle5: "Why We Love"
+bookyear5: 6
 author5: "Gloria Steinem"
-sayfa5: 176
+sayfa5: 320
 format5: reading as a book
-pageread5: 176
+pageread5: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
