@@ -14,4 +14,5 @@ published: true
 <a href="https://homelibrary.next52books.com/shelves">Shelves</a>  
 <a href="https://homelibrary.next52books.com/browse">Browse</a>  
 <a href="https://homelibrary.next52books.com/categories/categories">Categories</a>  
-<a href="https://www.next52books.com/glance">At a Glance</a>
+<a href="https://www.next52books.com/glance">At a Glance</a>  
+<a href="https://homelibrary.next52books.com/heic-converter">HEIC to jpg / HEIC to png</a>
