@@ -10,9 +10,9 @@ sayfa: "160"
 goodreads: "https://www.goodreads.com/book/show/7149199-feminist-therapy"
 description: ""
 eng: ""
-last_modified_at: 2026-07-31
+last_modified_at: 2026-08-31
 published: false
-posted: 2026-07-31
+posted: 2026-08-31
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
