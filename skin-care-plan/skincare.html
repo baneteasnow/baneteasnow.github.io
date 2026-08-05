@@ -68,13 +68,7 @@ custom_manifest: /skin-care-plan/skincare.webmanifest
 			}
 		</style>
 	</head>
-	<div style="clear: both"></div>
-	<i
-		><a href="https://www.next52books.com/skin-care-plan/handcare.html"
-			>handcare</a
-		></i
-	>
-	<div style="clear: both"></div>
+
 	<body>
 		<p>Select a day to view the skincare routine.</p>
 
@@ -113,7 +107,7 @@ custom_manifest: /skin-care-plan/skincare.webmanifest
 					button.classList.toggle("active", button.dataset.day === day)
 				})
 
-				image.src = `/assets/skincare/${day}.jpg`
+				image.src = `/assets/skincare/skincare/${day}.jpg`
 				image.alt = `${day} skincare routine`
 			}
 
@@ -126,5 +120,12 @@ custom_manifest: /skin-care-plan/skincare.webmanifest
 				})
 			})
 		</script>
+		<div style="clear: both"></div>
+		<i
+			><a href="https://www.next52books.com/skin-care-plan/handcare.html"
+				>handcare</a
+			></i
+		>
+		<div style="clear: both"></div>
 	</body>
 </html>
