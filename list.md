@@ -16,4 +16,5 @@ published: true
 <a href="https://homelibrary.next52books.com/categories/categories">Categories</a>  
 <a href="https://www.next52books.com/glance">At a Glance</a>  
 <a href="https://homelibrary.next52books.com/heic-converter">HEIC to jpg / HEIC to png</a>  
-<a href="https://homelibrary.next52books.com/image-resizer">Image Resizer</a>
+<a href="https://homelibrary.next52books.com/image-resizer">Image Resizer</a>  
+<a href="https://homelibrary.next52books.com/image-optimizer">Image Optimizer</a>
