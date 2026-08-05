@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Skincare Routine
-last_modified_at: 2026-06-13
+title: Handcare Routine
+last_modified_at: 2026-08-05
 published: true
-custom_manifest: /skin-care-plan/skincare.webmanifest
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>Skincare Routine</title>
+		<title>Handcare Routine</title>
 
 		<style>
 			* {
@@ -70,13 +69,13 @@ custom_manifest: /skin-care-plan/skincare.webmanifest
 	</head>
 	<div style="clear: both"></div>
 	<i
-		><a href="https://www.next52books.com/skin-care-plan/handcare.html"
-			>handcare</a
+		><a href="https://www.next52books.com/skin-care-plan/skincare.html"
+			>skincare</a
 		></i
 	>
 	<div style="clear: both"></div>
 	<body>
-		<p>Select a day to view the skincare routine.</p>
+		<p>Select a day to view the handcare routine.</p>
 
 		<div class="days">
 			<button data-day="monday">Mon</button>
@@ -91,7 +90,7 @@ custom_manifest: /skin-care-plan/skincare.webmanifest
 		<img
 			id="routineImage"
 			src=""
-			alt="Skincare routine"
+			alt="Handcare routine"
 		/>
 
 		<script>
@@ -113,8 +112,8 @@ custom_manifest: /skin-care-plan/skincare.webmanifest
 					button.classList.toggle("active", button.dataset.day === day)
 				})
 
-				image.src = `/assets/skincare/${day}.jpg`
-				image.alt = `${day} skincare routine`
+				image.src = `/assets/skincare/handcare/${day}.jpg`
+				image.alt = `${day} handcare routine`
 			}
 
 			const today = days[new Date().getDay()]
