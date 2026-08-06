@@ -17,7 +17,7 @@ read: 42
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-08-04
+last_modified_at: 2026-08-06
 published: true
 #
 # 1
@@ -47,10 +47,10 @@ bookyear4: 2025
 author4: "Dasha Kiper"
 sayfa4: 240
 format4: reading as a book
-pageread6: 1
+pageread4: 1
 # 5
 booktitle5: "Why We Love"
-bookyear5: 6
+bookyear5: 2025
 author5: "Gloria Steinem"
 sayfa5: 320
 format5: reading as a book
