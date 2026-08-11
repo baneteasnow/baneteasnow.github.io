@@ -13,7 +13,7 @@ eng: "Üzerime Giyecek Hiçbir Şeyim Yok! reveals how clothing choices are not 
 last_modified_at: 2025-09-11
 published: true
 posted: 2025-09-11
-tag: "PsychologyMentalLife"
+tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "538"
