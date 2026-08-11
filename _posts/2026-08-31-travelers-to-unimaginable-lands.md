@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2026-08-31
 published: false
 posted: 2026-08-31
-tag: "HealthNutrition"
+tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: ""
