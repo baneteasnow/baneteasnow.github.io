@@ -13,7 +13,7 @@ eng: "Night Falls Fast approaches suicide not merely as a personal act, but as a
 last_modified_at: 2025-05-22
 published: true
 posted: 2025-05-22
-tag: "PsychologyMentalLife"
+tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "499"
