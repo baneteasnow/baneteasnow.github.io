@@ -13,7 +13,7 @@ eng: "Through the eyes of a daughter forced to face the dark, this is the story 
 last_modified_at: 2025-06-02
 published: true
 posted: 2025-06-02
-tag: "PsychologyMentalLife"
+tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "503"

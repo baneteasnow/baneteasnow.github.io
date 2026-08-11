@@ -13,7 +13,7 @@ eng: "The Center Cannot Hold is Elyn R. Saks’s powerful account of living with
 last_modified_at: 2025-07-18
 published: true
 posted: 2025-07-18
-tag: "PsychologyMentalLife"
+tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "515"
