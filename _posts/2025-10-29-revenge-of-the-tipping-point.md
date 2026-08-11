@@ -13,7 +13,7 @@ eng: "."
 last_modified_at: 2025-10-29
 published: true
 posted: 2025-10-29
-tag: "PsychologyMentalLife"
+tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "547"
