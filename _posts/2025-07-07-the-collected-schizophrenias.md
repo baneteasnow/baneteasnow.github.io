@@ -13,7 +13,7 @@ eng: "The Collected Schizophrenias shares Esmé Weijun Wang’s experience of li
 last_modified_at: 2025-07-07
 published: true
 posted: 2025-07-07
-tag: "PsychologyMentalLife"
+tag: "BiographyLifeStories"
 reread: "yes"
 rating: "2"
 num: "513"
