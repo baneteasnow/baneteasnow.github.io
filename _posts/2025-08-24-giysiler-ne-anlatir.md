@@ -13,7 +13,7 @@ eng: "Seda Yılmaz’s Giysiler Ne Anlatır? shows that clothing is not just abo
 last_modified_at: 2025-08-24
 published: true
 posted: 2025-08-24
-tag: "ConsumerMarketing"
+tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "531"
