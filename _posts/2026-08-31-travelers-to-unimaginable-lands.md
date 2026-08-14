@@ -10,13 +10,13 @@ sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/61065376-travelers-to-unimaginable-lands"
 description: ""
 eng: ""
-last_modified_at: 2026-08-31
-published: false
-posted: 2026-08-31
+last_modified_at: 2026-08-14
+published: true
+posted: 2026-08-14
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
-num: ""
+rating: "2"
+num: "601"
 update: "tobeupdated"
 image: "/assets/new/travelers-to-unimaginable-lands.jpg"
 ---
