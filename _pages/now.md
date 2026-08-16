@@ -17,7 +17,7 @@ read: 43
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-08-14
+last_modified_at: 2026-08-16
 published: true
 #
 # 1
@@ -42,9 +42,9 @@ sayfa3: 160
 format3: reading as a book
 pageread3: 1
 # 4
-booktitle4: "Why We Love"
-bookyear4: 2025
-author4: "Gloria Steinem"
+booktitle4: "Stolen Focus"
+bookyear4: 2022
+author4: "Johann Hari"
 sayfa4: 320
 format4: reading as a book
 pageread4: 1
