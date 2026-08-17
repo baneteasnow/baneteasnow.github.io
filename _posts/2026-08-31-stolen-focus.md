@@ -1,7 +1,7 @@
 ---
 layout: post
 category: book
-title: "Stolen Focus: | Johann Hari (Kitap)"
+title: "Stolen Focus | Johann Hari (Kitap)"
 kitap: "Stolen Focus - Why You Can't Pay Attention— and How to Think Deeply Again"
 tr: "Çalınan Dikkat"
 yazar: "Johann Hari"

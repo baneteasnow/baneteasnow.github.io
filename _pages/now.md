@@ -17,7 +17,7 @@ read: 44
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-08-16
+last_modified_at: 2026-08-17
 published: true
 #
 # 1
@@ -48,6 +48,13 @@ author4: "Johann Hari"
 sayfa4: 320
 format4: reading as a book
 pageread4: 1
+# 5
+booktitle5: "Filterworld"
+bookyear5: 2025
+author5: "Kyle Chayka"
+sayfa5: 304
+format5: reading as a book
+pageread5: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
