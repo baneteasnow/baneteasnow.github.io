@@ -11,7 +11,7 @@ goodreads: "https://www.goodreads.com/book/show/134119018-filterworld"
 description: ""
 eng: ""
 last_modified_at: 2026-08-31
-published: true
+published: false
 posted: 2026-08-31
 tag: "TechnologyTheDigitalWorld"
 reread: "no"
