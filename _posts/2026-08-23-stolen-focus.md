@@ -10,13 +10,13 @@ sayfa: "320"
 goodreads: "https://www.goodreads.com/book/show/57933306-stolen-focus"
 description: ""
 eng: ""
-last_modified_at: 2026-08-31
-published: false
-posted: 2026-08-31
+last_modified_at: 2026-08-23
+published: true
+posted: 2026-08-23
 tag: "PsychologyMentalLife"
-reread: "no"
-rating: "3"
-num: ""
+reread: "yes"
+rating: "5"
+num: "603"
 update: "tobeupdated"
 image: "/assets/new/stolen-focus.jpg"
 ---

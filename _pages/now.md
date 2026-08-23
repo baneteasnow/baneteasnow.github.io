@@ -13,7 +13,7 @@
 # 3 = book
 #
 #
-read: 44
+read: 45
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -47,7 +47,7 @@ bookyear4: 2022
 author4: "Johann Hari"
 sayfa4: 320
 format4: reading as a book
-pageread4: 1
+pageread4: 320
 # 5
 booktitle5: "Filterworld"
 bookyear5: 2025
