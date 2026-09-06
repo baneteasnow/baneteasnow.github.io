@@ -35,26 +35,19 @@ sayfa2: 390
 format2: reading as a book
 pageread2: 231
 # 3
-booktitle3: "Feminist Therapy"
-bookyear3: 2022
-author3: "Laura S. Brown"
-sayfa3: 160
+booktitle3: "Guns, Germs, and Steel"
+bookyear3: 2018
+author3: "Mustafa Suleyman, Michael Bhaskar"
+sayfa3: 664
 format3: reading as a book
-pageread3: 27
+pageread3: 1
 # 4
-booktitle4: "Guns, Germs, and Steel"
-bookyear4: 2018
-author4: "Mustafa Suleyman, Michael Bhaskar"
-sayfa4: 664
+booktitle4: "Filterworld"
+bookyear4: 2025
+author4: "Kyle Chayka"
+sayfa4: 304
 format4: reading as a book
-pageread4: 1
-# 5
-booktitle5: "Filterworld"
-bookyear5: 2025
-author5: "Kyle Chayka"
-sayfa5: 304
-format5: reading as a book
-pageread5: 27
+pageread4: 27
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -153,30 +146,6 @@ _by_ {{ page.author4 }}
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
       {{ page.pageread4 }}/{{ page.sayfa4 }}
-      </span>
-  </div>
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 5 }}
-
-{{ page.booktitle5 }} ({{ page.bookyear5 }})  
-_by_ {{ page.author5 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa5 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
-      {{ page.pageread5 }}/{{ page.sayfa5 }}
       </span>
   </div>
   <br />
