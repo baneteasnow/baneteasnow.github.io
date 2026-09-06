@@ -13,7 +13,7 @@
 # 3 = book
 #
 #
-read: 45
+read: 46
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -42,12 +42,12 @@ sayfa3: 160
 format3: reading as a book
 pageread3: 27
 # 4
-booktitle4: "The Coming Wave"
-bookyear4: 2024
+booktitle4: "Guns, Germs, and Steel"
+bookyear4: 2018
 author4: "Mustafa Suleyman, Michael Bhaskar"
-sayfa4: 432
+sayfa4: 664
 format4: reading as a book
-pageread4: 17
+pageread4: 1
 # 5
 booktitle5: "Filterworld"
 bookyear5: 2025

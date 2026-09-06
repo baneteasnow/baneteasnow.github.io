@@ -10,13 +10,13 @@ sayfa: "432"
 goodreads: "https://www.goodreads.com/book/show/90590134-the-coming-wave"
 description: ""
 eng: ""
-last_modified_at: 2026-08-31
-published: false
-posted: 2026-08-31
+last_modified_at: 2026-09-06
+published: true
+posted: 2026-09-06
 tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
-num: ""
+num: "604"
 update: "tobeupdated"
 image: "/assets/new/the-coming-wave.jpg"
 ---
