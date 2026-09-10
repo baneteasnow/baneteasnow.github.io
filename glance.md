@@ -14,4 +14,5 @@ published: true
 <a href="https://www.next52books.com/assets/at-a-glance/apr-26.png">Apr 2026</a>  
 <a href="https://www.next52books.com/assets/at-a-glance/may-26.png">May 2026</a>  
 <a href="https://www.next52books.com/assets/at-a-glance/jun-26.png">Jun 2026</a>  
-<a href="https://www.next52books.com/assets/at-a-glance/jul-26.png">Jul 2026</a>
+<a href="https://www.next52books.com/assets/at-a-glance/jul-26.png">Jul 2026</a>  
+<a href="https://www.next52books.com/assets/at-a-glance/aug-26.png">Aug 2026</a>
