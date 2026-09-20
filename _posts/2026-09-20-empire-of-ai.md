@@ -10,13 +10,13 @@ sayfa: "480"
 goodreads: "https://www.goodreads.com/book/show/222725518-empire-of-ai"
 description: ""
 eng: ""
-last_modified_at: 2026-09-30
-published: false
-posted: 2026-09-30
+last_modified_at: 2026-09-20
+published: true
+posted: 2026-09-20
 tag: ""
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "606"
 update: "tobeupdated"
 image: "/assets/new/empire-of-ai.jpg"
 ---
