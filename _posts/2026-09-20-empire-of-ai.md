@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2026-09-20
 published: true
 posted: 2026-09-20
-tag: ""
+tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "5"
 num: "606"

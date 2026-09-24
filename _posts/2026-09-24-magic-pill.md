@@ -10,13 +10,13 @@ sayfa: "336"
 goodreads: "https://www.goodreads.com/book/show/201319612-magic-pill"
 description: ""
 eng: ""
-last_modified_at: 2026-09-30
-published: false
-posted: 2026-09-30
-tag: ""
+last_modified_at: 2026-09-24
+published: true
+posted: 2026-09-24
+tag: "HealthNutrition"
 reread: "no"
-rating: "3"
-num: ""
+rating: "5"
+num: "607"
 update: "tobeupdated"
 image: "/assets/new/magic-pill.jpg"
 ---

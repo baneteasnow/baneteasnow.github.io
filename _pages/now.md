@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 48
+read: 49
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-09-20
+last_modified_at: 2026-09-24
 published: true
 #
 # 1
@@ -54,7 +54,7 @@ bookyear5: 2024
 author5: "Johann Hari"
 sayfa5: 336
 format5: reading as a book
-pageread5: 1
+pageread5: 336
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
