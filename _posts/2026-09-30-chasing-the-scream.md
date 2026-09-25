@@ -3,7 +3,7 @@ layout: post
 category: book
 title: "Chasing the Scream | Johann Hari (Kitap)"
 kitap: "Chasing the Scream - The Search for the Truth About Addiction"
-tr: "Kayıp Ruhlarla Savaş"
+tr: "Kayıp Ruhlarla Savaş - Uyuşturucuyla Mücadelenin Başarısız Tarihi"
 yazar: "Johann Hari"
 yil: "2025"
 sayfa: "528"
