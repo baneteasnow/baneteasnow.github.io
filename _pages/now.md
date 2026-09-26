@@ -62,6 +62,13 @@ author6: "Johann Hari"
 sayfa6: 528
 format6: reading as a book
 pageread6: 1
+# 7
+booktitle7: ""
+bookyear7:
+author7: ""
+sayfa7:
+format7: reading as a book
+pageread7: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
