@@ -61,7 +61,7 @@ bookyear6: 2025
 author6: "Johann Hari"
 sayfa6: 528
 format6: reading as a book
-pageread6: 1
+pageread6: 528
 # 7
 booktitle7: "Yesteryear"
 bookyear7: 2026

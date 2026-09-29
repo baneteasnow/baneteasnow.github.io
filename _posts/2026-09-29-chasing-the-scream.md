@@ -10,9 +10,9 @@ sayfa: "528"
 goodreads: "https://www.goodreads.com/book/show/22245552-chasing-the-scream"
 description: ""
 eng: ""
-last_modified_at: 2026-09-30
-published: false
-posted: 2026-09-30
+last_modified_at: 2026-09-29
+published: true
+posted: 2026-09-29
 tag: ""
 reread: "no"
 rating: "3"
