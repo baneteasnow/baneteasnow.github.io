@@ -69,6 +69,13 @@ published: true
 			>
 				—
 			</p>
+
+			<p
+				class="day-of-year"
+				id="dayOfYear"
+			>
+				—
+			</p>
 		</div>
 	</section>
 </div>
@@ -243,6 +250,13 @@ published: true
 		line-height: 1;
 	}
 
+	.day-of-year {
+		margin: 8px 0 0;
+		color: #999999;
+		font-size: 12px;
+		font-style: italic;
+	}
+
 	@media (max-width: 430px) {
 		.week-page {
 			padding: 0 12px 36px;
@@ -321,7 +335,18 @@ published: true
 	const weekNumberEl = document.getElementById("weekNumber")
 	const calendarHeader = document.getElementById("calendarHeader")
 	const calendarGrid = document.getElementById("calendarGrid")
+	const dayOfYearEl = document.getElementById("dayOfYear")
+	function getDayOfYear(date) {
+		const startOfYear = new Date(date.getFullYear(), 0, 1)
 
+		const difference = date - startOfYear
+
+		return Math.floor(difference / 86400000) + 1
+	}
+
+	function getDaysInYear(year) {
+		return new Date(year, 1, 29).getMonth() === 1 ? 366 : 365
+	}
 	function getISOWeekNumber(date) {
 		const d = new Date(
 			Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()),
@@ -452,11 +477,12 @@ published: true
 
 		const selectedDate = new Date(`${value}T00:00:00`)
 		const weekNumber = getISOWeekNumber(selectedDate)
-
+		const dayOfYear = getDayOfYear(selectedDate)
+		const daysInYear = getDaysInYear(selectedDate.getFullYear())
 		selectedDateEl.textContent = formatDate(selectedDate)
 		selectedDayEl.textContent = formatDay(selectedDate)
 		weekNumberEl.textContent = weekNumber
-
+		dayOfYearEl.textContent = `${dayOfYear} / ${daysInYear}`
 		renderCalendar(selectedDate)
 	}
 
