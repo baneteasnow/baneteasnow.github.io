@@ -13,7 +13,7 @@ eng: ""
 last_modified_at: 2026-09-29
 published: true
 posted: 2026-09-29
-tag: ""
+tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: "608"
