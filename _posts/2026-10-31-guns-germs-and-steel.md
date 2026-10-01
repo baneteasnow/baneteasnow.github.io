@@ -10,10 +10,10 @@ sayfa: "664"
 goodreads: "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel"
 description: ""
 eng: ""
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-31
 published: false
-posted: 2026-09-30
-tag: ""
+posted: 2026-10-31
+tag: "ScienceDiscovery"
 reread: "no"
 rating: "3"
 num: ""

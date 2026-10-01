@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 50
+read: 51
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-01
 published: true
 #
 # 1
@@ -42,10 +42,10 @@ sayfa3: 664
 format3: reading as a book
 pageread3: 1
 # 4
-booktitle4: "Start Making Sense"
-bookyear4: 2026
-author4: "Steven J. Heine"
-sayfa4: 344
+booktitle4: "Finding Meaning in the Second Half of Life"
+bookyear4: 2020
+author4: "James Hollis"
+sayfa4: 304
 format4: reading as a book
 pageread4: 1
 # 5
@@ -56,12 +56,12 @@ sayfa5: 704
 format5: reading as a book
 pageread5: 1
 # 6
-booktitle6: "Chasing the Scream"
-bookyear6: 2025
-author6: "Johann Hari"
-sayfa6: 528
+booktitle6: "Rich Dad Poor Dad"
+bookyear6: 2024
+author6: "Robert T. Kiyosaki"
+sayfa6: 400
 format6: reading as a book
-pageread6: 528
+pageread6: 1
 # 7
 booktitle7: "Yesteryear"
 bookyear7: 2026
@@ -69,6 +69,13 @@ author7: "Caro Claire Burke"
 sayfa7: 400
 format7: reading as a book
 pageread7: 1
+# 8
+booktitle8: "The Scar"
+bookyear8: 2023
+author8: "Mary Cregan"
+sayfa8: 240
+format8: reading as a book
+pageread8: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}

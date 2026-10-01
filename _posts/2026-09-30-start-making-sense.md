@@ -11,12 +11,12 @@ goodreads: "https://www.goodreads.com/book/show/212924046-start-making-sense"
 description: ""
 eng: ""
 last_modified_at: 2026-09-30
-published: false
+published: true
 posted: 2026-09-30
-tag: ""
+tag: "PhilosophyMeaning"
 reread: "no"
 rating: "3"
-num: ""
+num: "609"
 update: "tobeupdated"
 image: "/assets/new/start-making-sense.jpg"
 ---
