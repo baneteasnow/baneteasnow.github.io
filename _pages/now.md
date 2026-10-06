@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 51
+read: 52
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-10-01
+last_modified_at: 2026-10-06
 published: true
 #
 # 1
@@ -69,13 +69,6 @@ author7: "Caro Claire Burke"
 sayfa7: 400
 format7: reading as a book
 pageread7: 1
-# 8
-booktitle8: "The Scar"
-bookyear8: 2023
-author8: "Mary Cregan"
-sayfa8: 240
-format8: reading as a book
-pageread8: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
