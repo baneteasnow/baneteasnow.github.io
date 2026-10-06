@@ -14,7 +14,7 @@ last_modified_at: 2026-09-30
 published: true
 posted: 2026-09-30
 tag: "PhilosophyMeaning"
-reread: "no"
+reread: "yes"
 rating: "3"
 num: "609"
 update: "tobeupdated"
