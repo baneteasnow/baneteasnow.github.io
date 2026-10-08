@@ -37,7 +37,7 @@ pageread2: 27
 # 3
 booktitle3: "Guns, Germs, and Steel"
 bookyear3: 2018
-author3: "Mustafa Suleyman, Michael Bhaskar"
+author3: "Jared Diamond"
 sayfa3: 664
 format3: reading as a book
 pageread3: 1
