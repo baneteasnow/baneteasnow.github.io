@@ -17,10 +17,8 @@ tag: ""
 reread: "no"
 rating: "2"
 num: "362"
-update: ""
+update: "tobeupdated"
 image: "/assets/new/wahn-stories.jpg"
 ---
 
-Yüzü Olmayan Adam, bir nörolog olan Kessler tarafından kurgu olarak kaleme alınmış 12 farklı hasta hikayesinden oluşuyor.
-
-Kitapta yer alan hikayeler, beyin ve zihin arasındaki ilişkiyi anlamaya ve insan deneyimlerini derinlemesine incelemeye odaklanıyor. Bu hikayeler, farklı nörolojik durumlar, beyin hasarları ve benzeri konulara ışık tutarak zihinsel dünyamızın karmaşıklığını ve çeşitliliğini gösteriyor.
+to be updated
