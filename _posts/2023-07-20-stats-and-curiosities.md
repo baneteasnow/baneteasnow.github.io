@@ -21,21 +21,4 @@ update: "tobeupdated"
 image: "/assets/new/stats-and-curiosities.jpg"
 ---
 
-Kenyalılar Otobüs Şoförlerine Neden Bağırır, günlük hayatımızda karşılaştığımız olayları istatistiksel verilerle açıklıyor.
-
-Harvard Business Review'de "Daily Stats" başlığıyla yayımlanan istatistik ve araştırmalardan en ilgi çekici olanları bu kitapta toplanmış. Ele alınan konular arasında davranışsal iktisat, ekonomi, çalışma yaşamı ve sağlık gibi alanlar yer alıyor.
-
-Kitaptan bir kaç başlık şöyle:
-
-- Yüksek statü insanlarda onay gördükleri yanılgısı yaratır.
-- Güçlü insanlar daha uzun olduklarına inanırlar.
-- Tüketiciler yıpranmış paralardan rahatsız olur ve hemen harcamak ister.
-- İlgisiz enformasyon okumak düşünme kapasitesini kötü etkiler.
-- Zamanın parasal değerini düşünmek, insanın keyfini kaçırıyor.
-- İnsanlar e-postalarda, yüz yüze olduklarından daha fazla yalan söylüyorlar.
-- İnsanın kendini gülümsemeye zorlaması stresi azaltabilir.
-- Evinden çalışanlar yaratıcı işlerde daha verimliler, tekdüze işlerde ise daha verimsiz
-- İyi eğitimli çalışanlar daha memnuniyetsiz
-- Pahalı nesneler ucuz mallarla aynı pakete konursa (tüketicinin gözünde) değer yitirir.
-
-Bu başlıklar kısa kısa işlenirken, aynı zamanda istatistiklerin nasıl kullanıldığına, verilerin nasıl yorumlandığına ve gerçeklerin arkasındaki hikayelerin nasıl anlaşılması gerektiğine dair bilgiler de paylaşılıyor.
+to be updated

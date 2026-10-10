@@ -16,13 +16,9 @@ posted: 2023-05-30
 tag: ""
 reread: "no"
 rating: "4"
-update: ""
+update: "tobeupdated"
 num: "321"
 image: "/assets/new/maybe-you-should-talk-to-someone.jpg"
 ---
 
-Belki De Biriyle Konuşmalısın, bir terapistin psikolojik desteğe ihtiyaç duymasına yol açan bir ayrılık yaşaması ile başlıyor. Kitap boyunca hem farklı danışanların hikayeleri hem de terapistin kendi terapi süreci ele alınmış.
-
-Terapinin öncelikli amacı kişinin hem kendisini hem de başkalarını daha iyi anlamaya başlamasını sağlamak. Terapiye başlarken terapist danışanına terapiden beklentisinin ne olduğunu sorar. Aylara yayılan terapi süreci boyunca bu amaç bazen gerçekleşir, bazen de gerçekleşmez. Kitapta vurgulanan en önemli noktalardan biri, değişimin ancak danışanın değişmeye hazır olduğunu kabul ettiği noktada başlaması. Terapi, kişinin kendi yaşantısına bakmasını ve bazı davranışların altındaki esas nedeni keşfetmesini sağlayan bir süreç. Terapi, bir anda mucizeler yaratmasa da daha iyi olmaya doğru giden yola bir kapı aralıyor.
-
-Kitabın en ilgi çekici yönü, gün boyu danışanlarına yardımcı olan bir terapistin erkek arkadaşından ayrılma sürecinde yaşadığı ani duygusal yıkım nedeni ile bir meslektaşından psikolojik destek almaya başlaması ve bizzat danışan koltuğunda otururken hissettiklerini ve deneyimlediklerini paylaşması. Bu deneyim kimi zaman bir terapist olmanın etiksel gereklilikleri açısından sınırları istemeden de olsa zorlamasına yol açsa da, yazarın hayatına daha da güçlenerek devam etmesini sağlıyor.
+to be updated
