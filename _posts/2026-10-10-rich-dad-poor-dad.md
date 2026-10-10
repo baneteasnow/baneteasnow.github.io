@@ -15,7 +15,7 @@ published: true
 posted: 2026-10-10
 tag: "BusinessEconomics"
 reread: "no"
-rating: "3"
+rating: "1"
 num: "611"
 update: "updated"
 image: "/assets/new/rich-dad-poor-dad.jpg"
