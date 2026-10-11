@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "103"
-update: "done"
+update: ""
 image: "/assets/old/smart-cities-digital-nations.jpg"
 ---
 

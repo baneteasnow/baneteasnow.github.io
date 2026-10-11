@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "57"
-update: "done"
+update: ""
 image: "/assets/old/cybersecurity-and-cyberwar.jpg"
 ---
 

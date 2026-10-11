@@ -17,7 +17,7 @@ reread: "no"
 num: "48"
 rating: "4"
 eng: "The Walmart Effect examines how the retail giant Walmart shapes the global economy, its business model and supply chain strategies, and the impact of its low-price approach on consumers and competitors."
-update: "done"
+update: ""
 image: "/assets/old/the-walmart-effect.jpg"
 ---
 

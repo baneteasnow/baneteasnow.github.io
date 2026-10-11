@@ -17,7 +17,7 @@ tag: "ScienceDiscovery"
 reread: "yes"
 rating: "5"
 num: "78"
-update: "done"
+update: ""
 image: "/assets/old/abundance.jpg"
 ---
 

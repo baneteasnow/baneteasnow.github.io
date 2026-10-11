@@ -17,7 +17,7 @@ tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "89"
-update: "done"
+update: ""
 image: "/assets/old/the-penguin-and-the-leviathan.jpg"
 ---
 

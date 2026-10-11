@@ -17,7 +17,7 @@ tag: "BusinessEconomics"
 reread: "no"
 rating: "3"
 num: "112"
-update: "done"
+update: ""
 image: "/assets/old/the-amazon-way.jpg"
 ---
 

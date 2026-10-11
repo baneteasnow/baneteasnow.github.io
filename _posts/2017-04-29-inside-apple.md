@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "5"
 num: "54"
-update: "done"
+update: ""
 image: "/assets/old/inside-apple.jpg"
 ---
 

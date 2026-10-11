@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "107"
-update: "done"
+update: ""
 image: "/assets/old/irresistible.jpg"
 ---
 

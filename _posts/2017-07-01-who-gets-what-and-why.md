@@ -17,7 +17,7 @@ tag: "BusinessEconomics"
 reread: "yes"
 rating: "4"
 num: "62"
-update: "done"
+update: ""
 image: "/assets/old/who-gets-what-and-why.jpg"
 ---
 

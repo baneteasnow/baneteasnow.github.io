@@ -17,7 +17,7 @@ tag: "HistoryPoliticalThought"
 reread: "yes"
 rating: "4"
 num: "70"
-update: "done"
+update: ""
 image: "/assets/old/the-future.jpg"
 ---
 

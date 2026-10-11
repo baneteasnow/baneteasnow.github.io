@@ -16,7 +16,7 @@ tag: ""
 reread: "no"
 rating: "4"
 num: "37"
-update: "done"
+update: ""
 eng: "101 Things I Learned in Engineering School explores fundamental engineering concepts through concise notes and engaging illustrations."
 image: "/assets/old/101-things-i-learned-in-engineering-school.jpg"
 ---

@@ -17,7 +17,7 @@ reread: "no"
 rating: "4"
 num: "36"
 eng: "The Smartest Guys in the Room delves into Enron’s meteoric rise and scandalous collapse, exposing how accounting fraud and leadership greed drove the company to one of the biggest financial scandals in history."
-update: "done"
+update: ""
 image: "/assets/old/the-smartest-guys-in-the-room.jpg"
 ---
 

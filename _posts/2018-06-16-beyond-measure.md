@@ -17,7 +17,7 @@ tag: "WorkCareer"
 reread: "yes"
 rating: "4"
 num: "99"
-update: "done"
+update: ""
 image: "/assets/old/beyond-measure.jpg"
 ---
 

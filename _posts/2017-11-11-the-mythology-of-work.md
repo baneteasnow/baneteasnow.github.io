@@ -17,7 +17,7 @@ tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "75"
-update: "done"
+update: ""
 image: "/assets/old/the-mythology-of-work.jpg"
 ---
 

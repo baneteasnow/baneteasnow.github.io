@@ -17,7 +17,7 @@ reread: "no"
 rating: "4"
 num: "43"
 eng: "Happy Mondays explores the relationship between work and happiness, emphasizing that a job is not just an obligation but a source of meaning and identity."
-update: "done"
+update: ""
 image: "/assets/old/happy-mondays.jpg"
 ---
 

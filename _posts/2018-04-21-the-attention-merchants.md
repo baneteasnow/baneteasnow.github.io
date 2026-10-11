@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "91"
 eng: "In The Attention Merchants, Tim Wu reveals how our attention has become one of the most valuable commodities—captured, packaged, and sold by media, advertisers, and tech giants."
-update: "done"
+update: ""
 image: "/assets/old/the-attention-merchants.jpg"
 ---
 

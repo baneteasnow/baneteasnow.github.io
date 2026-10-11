@@ -17,7 +17,7 @@ reread: "yes"
 rating: "4"
 num: "17"
 eng: "Connected: The Surprising Power of Our Social Networks delves into how social networks not only connect individuals but also shape lives and societal structures. Through scientific studies and compelling examples, the authors reveal how social influence extends up to three degrees, illustrating the complex yet systematic nature of these interactions."
-update: "done"
+update: ""
 image: "/assets/old/connected.jpg"
 ---
 

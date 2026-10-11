@@ -17,7 +17,7 @@ reread: "no"
 rating: "4"
 num: "39"
 eng: "101 Things I Learned in Architecture School explores essential concepts of architecture and design through concise notes and illustrative sketches."
-update: "done"
+update: ""
 image: "/assets/old/101-things-i-learned-in-architecture-school.jpg"
 ---
 

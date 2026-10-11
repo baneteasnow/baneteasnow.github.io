@@ -17,7 +17,7 @@ reread: "yes"
 rating: "4"
 num: "30"
 eng: "Clay Shirky’s Here Comes Everybody explores how the internet enables individuals to come together effortlessly and how these groups, empowered by social tools, can achieve remarkable influence."
-updated: "done"
+updated: ""
 image: "/assets/old/here-comes-everybody.jpg"
 ---
 

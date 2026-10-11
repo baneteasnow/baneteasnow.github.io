@@ -17,7 +17,7 @@ tag: "BusinessEconomics"
 reread: "no"
 rating: "4"
 num: "80"
-update: "done"
+update: ""
 image: "/assets/old/23-things-they-dont-tell-you-about-capitalism.jpg"
 ---
 

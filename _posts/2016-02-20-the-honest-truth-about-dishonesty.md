@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "25"
 eng: "Dan Ariely’s The Honest Truth About Dishonesty explores human behaviors related to honesty and lying. The book delves into how even small acts of dishonesty challenge moral boundaries and examines the psychological factors shaping our understanding of honesty."
-update: "done"
+update: ""
 image: "/assets/old/the-honest-truth-about-dishonesty.jpg"
 ---
 

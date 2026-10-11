@@ -17,7 +17,7 @@ tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "111"
-update: "done"
+update: ""
 image: "/assets/old/utopia-for-realists.jpg"
 ---
 

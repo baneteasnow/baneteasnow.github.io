@@ -17,7 +17,7 @@ reread: "yes"
 rating: "4"
 num: "38"
 eng: "The 52 Lists Project invites you to explore yourself and gain awareness by creating themed lists throughout the year."
-update: "done"
+update: ""
 image: "/assets/old/the-52-lists-project.jpg"
 ---
 

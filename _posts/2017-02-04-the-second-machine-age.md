@@ -17,7 +17,7 @@ tag: ""
 reread: "yes"
 rating: "5"
 num: "46"
-update: "done"
+update: ""
 image: "/assets/old/the-second-machine-age.jpg"
 ---
 

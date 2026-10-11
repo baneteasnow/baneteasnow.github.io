@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "4"
 num: "50"
-update: "done"
+update: ""
 image: "/assets/old/the-ebay-phenomenon.jpg"
 ---
 

@@ -17,7 +17,7 @@ reread: "no"
 rating: "4"
 num: "42"
 eng: "The New Digital Age explores the transformations brought by the internet and the opportunities and challenges of a hyper-connected world. Eric Schmidt and Jared Cohen examine how the merging of virtual and physical realms will impact individuals, businesses, and governments."
-update: "done"
+update: ""
 image: "/assets/old/the-new-digital-age.jpg"
 ---
 

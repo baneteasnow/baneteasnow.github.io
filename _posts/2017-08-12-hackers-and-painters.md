@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "65"
-update: "done"
+update: ""
 image: "/assets/old/hackers-and-painters.jpg"
 ---
 

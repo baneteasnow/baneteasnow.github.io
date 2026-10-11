@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "3"
 num: "83"
-update: "done"
+update: ""
 image: "/assets/old/public-parts.jpg"
 ---
 

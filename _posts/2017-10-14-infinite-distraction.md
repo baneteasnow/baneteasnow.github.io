@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "72"
-update: "done"
+update: ""
 image: "/assets/old/infinite-distraction.jpg"
 ---
 

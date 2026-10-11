@@ -16,7 +16,7 @@ posted: 2018-07-07
 tag: "ConsumerMarketing"
 reread: "yes"
 rating: "4"
-update: "done"
+update: ""
 num: "102"
 image: "/assets/old/brandwashed.jpg"
 ---

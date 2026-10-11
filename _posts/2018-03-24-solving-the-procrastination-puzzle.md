@@ -17,7 +17,7 @@ tag: "PersonalGrowthProductivity"
 reread: "yes"
 rating: "5"
 num: "87"
-update: "done"
+update: ""
 image: "/assets/old/solving-the-procrastination-puzzle.jpg"
 ---
 

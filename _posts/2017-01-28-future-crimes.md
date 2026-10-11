@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "5"
 num: "45"
-update: "done"
+update: ""
 image: "/assets/old/future-crimes.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "4"
 num: "73"
-update: "done"
+update: ""
 image: "/assets/old/big-data-at-work.jpg"
 ---
 

@@ -17,7 +17,7 @@ reread: "no"
 rating: "5"
 num: "26"
 eng: "How Starbucks Saved My Life tells the story of Michael Gates Gill’s transformation and his journey of starting over. After facing challenges following wealth and success, he finds new meaning in life through a job at Starbucks, realizing that simplicity is the key to true happiness."
-update: "done"
+update: ""
 image: "/assets/old/how-starbucks-saved-my-life.jpg"
 ---
 

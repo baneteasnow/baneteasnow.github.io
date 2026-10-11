@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "34"
 eng: "The Consuming Instinct examines the biological, psychological, and cultural foundations of consumer behavior through the lens of evolutionary psychology. Gad Saad explores the underlying dynamics of our shopping habits with a scientific approach."
-update: "done"
+update: ""
 image: "/assets/old/the-consuming-instinct.jpg"
 ---
 

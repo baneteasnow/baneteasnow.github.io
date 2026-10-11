@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "24"
 eng: "Dan Ariely’s The Upside of Irrationality explores the irrational behaviors in human decision-making and the factors influencing these actions, highlighting the differences between classical economics and behavioral economics. Through experiments and real-life examples, the book delves into concepts like motivation, loss aversion, and hedonic adaptation."
-update: "done"
+update: ""
 image: "/assets/old/the-upside-of-irrationality.jpg"
 ---
 

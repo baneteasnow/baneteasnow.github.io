@@ -17,7 +17,7 @@ reread: "yes"
 rating: "3"
 num: "10"
 eng: "The Carrot Principle highlights the transformative power of appreciation in leadership, offering practical strategies and examples to boost employee motivation and engagement."
-update: "done"
+update: ""
 image: "/assets/old/the-carrot-principle.jpg"
 ---
 

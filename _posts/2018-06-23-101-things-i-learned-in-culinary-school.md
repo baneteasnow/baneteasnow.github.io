@@ -17,7 +17,7 @@ tag: "SimpleLivingEverydayComforts"
 reread: "no"
 rating: "5"
 num: "100"
-update: "done"
+update: ""
 image: "/assets/old/101-things-i-learned-in-culinary-school.jpg"
 ---
 

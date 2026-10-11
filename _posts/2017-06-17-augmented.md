@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "60"
-update: "done"
+update: ""
 image: "/assets/old/augmented.jpg"
 ---
 

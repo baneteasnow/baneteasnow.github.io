@@ -17,7 +17,7 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "68"
-update: "done"
+update: ""
 image: "/assets/old/becoming-steve-jobs.jpg"
 ---
 

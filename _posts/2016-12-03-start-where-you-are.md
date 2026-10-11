@@ -16,7 +16,7 @@ tag: ""
 reread: "yes"
 rating: "5"
 eng: "Start Where You Are is a journal designed to inspire creativity and mindfulness through thought-provoking exercises and vibrant illustrations."
-update: "done"
+update: ""
 num: "40"
 image: "/assets/old/start-where-you-are.jpg"
 ---

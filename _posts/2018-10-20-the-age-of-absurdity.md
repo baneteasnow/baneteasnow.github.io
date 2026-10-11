@@ -17,7 +17,7 @@ tag: "PhilosophyMeaning"
 reread: "yes"
 rating: "5"
 num: "114"
-update: "done"
+update: ""
 image: "/assets/old/the-age-of-absurdity.jpg"
 ---
 

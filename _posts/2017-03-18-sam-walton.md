@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "51"
-update: "done"
+update: ""
 image: "/assets/old/sam-walton.jpg"
 ---
 

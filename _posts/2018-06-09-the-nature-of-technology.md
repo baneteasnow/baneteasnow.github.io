@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "98"
-update: "done"
+update: ""
 image: "/assets/old/the-nature-of-technology.jpg"
 ---
 

@@ -16,7 +16,7 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "19"
-update: "done"
+update: ""
 eng: "Everything We Know is Wrong explores how people perceive change, why trends are often overlooked, and the importance of adopting new ways of thinking to understand the future. Magnus Lindkvist argues that individuals and societies need to move beyond short-term perspectives and consider long-term impacts."
 image: "/assets/old/everything-we-know-is-wrong.jpg"
 ---

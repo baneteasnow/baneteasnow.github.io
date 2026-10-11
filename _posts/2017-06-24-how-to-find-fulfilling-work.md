@@ -17,7 +17,7 @@ tag: "WorkCareer"
 reread: "yes"
 rating: "5"
 num: "61"
-update: "done"
+update: ""
 image: "/assets/old/how-to-find-fulfilling-work.jpg"
 ---
 

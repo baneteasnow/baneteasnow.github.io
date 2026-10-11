@@ -10,21 +10,23 @@ sayfa: "352"
 goodreads: "https://www.goodreads.com/book/show/11786911-are-you-smart-enough-to-work-at-google"
 description: "Google’da Çalışacak Kadar Akıllı Mısınız?, Google gibi teknoloji devlerinin yenilikçi mülakat tekniklerini ve sıra dışı sorularla adayların yaratıcılık ve problem çözme yeteneklerini nasıl değerlendirdiğini inceliyor."
 published: true
-last_modified_at: 2024-12-06
+last_modified_at: 2026-10-11
 posted: 2015-01-24
-tag: ""
+tag: "WorkCareer"
 reread: "no"
 rating: "3"
 num: "7"
 eng: "Are You Smart Enough to Work at Google? explores the innovative interview techniques of tech giants like Google and examines how unconventional questions assess candidates’ creativity and problem-solving skills."
-update: "done"
+update: "updated"
 image: "/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 
-Google’da Çalışacak Kadar Akıllı Mısınız?, William Poundstone’un sıra dışı mülakat sorularını ele aldığı ve yaratıcı problem çözme süreçlerini incelediği bir kitap. Daha önce Fuji Dağı’nı Nasıl Taşırsınız? kitabında 90’lı yıllar ve 2000’lerin başında popüler olan şirket kültürlerine odaklanan yazar, bu kez dünyanın en prestijli işverenlerinden biri olarak görülen Google’a odaklanıyor.
+William Poundstone’un _Google’da Çalışacak Kadar Akıllı Mısınız?_ kitabı, Google’ın işe alım süreçlerinde kullandığı sıra dışı mülakat sorularını ve bu soruların ardındaki düşünceyi inceliyor. Yazar, daha önce _Fuji Dağı’nı Nasıl Taşırsınız?_ kitabında Microsoft’un mülakat yaklaşımını ele alırken, bu kez odağını Google’ın işe alım uygulamalarına ve şirket kültürüne çeviriyor.
 
-Kitap, Google’ın alışılmışın dışındaki “yenilikçi” mülakat tekniklerine ışık tutuyor. Davranış odaklı klasik sorular yerine, yaratıcı düşünceyi ve analitik becerileri test eden sıra dışı soruların nasıl tasarlandığını açıklıyor. Örneğin, “Bir okul otobüsüne kaç golf topu sığar?” ya da “Başınızı nasıl tartarsınız?” gibi sorular, Google’ın doğru cevaptan çok, adayların bu sorulara nasıl yaklaştığını ve düşünme biçimlerini değerlendirdiğini gösteriyor. Poundstone, bu yöntemin yaratıcı ve fark yaratma potansiyeline sahip bireyleri seçmek için etkili bir araç olduğunu savunuyor. Kitap, Googleplex’e mülakata gelen bir adayın hikâyesiyle başlayarak okuyucuyu bu özel işe alım sürecinin içine çekiyor.
+Kitapta “Bir okul otobüsüne kaç golf topu sığar?” veya “Başınızı nasıl tartarsınız?” gibi sorular üzerinden adayların analitik düşünme, problem çözme ve yaratıcılık becerilerinin nasıl değerlendirilmeye çalışıldığı anlatılıyor. Bu sorularda her zaman doğru cevaba ulaşmaktan çok, adayın problemi nasıl ele aldığı, hangi varsayımlardan hareket ettiği ve çözümünü nasıl gerekçelendirdiği önem taşıyor. Poundstone, Googleplex’e mülakata gelen bir adayın hikâyesiyle başlayarak okuyucuyu bu alışılmışın dışındaki işe alım dünyasına götürüyor.
 
-Kitap ayrıca, Google’daki mülakat süreçlerini detaylandırarak, insan kaynakları politikalarını ve Googleplex’te çalışanlar için sunulan benzersiz olanakları gözler önüne seriyor. Örneğin, Googleplex’te ücretsiz yemeklerin arkasındaki mantık, şirketin “bağlamın gücü” ilkesine dayalı kültürünü yansıtıyor. Bunun yanında, mülakatta “yanlış pozitif” ve “yanlış negatif” kararların sonuçları gibi kavramlar, işe alım süreçlerinde karşılaşılan zorlukları anlamaya yardımcı oluyor.
+Kitap yalnızca mülakat sorularıyla sınırlı değil. Google’ın insan kaynakları uygulamalarına, çalışanlarına sunduğu olanaklara ve şirket kültürüne de değiniyor. Örneğin, Googleplex’teki ücretsiz yemekler, çalışma ortamının çalışan davranışlarını nasıl etkileyebileceğine ilişkin bir örnek olarak ele alınıyor. İşe alım kararlarında karşılaşılan yanlış pozitif ve yanlış negatif sonuçlar ise uygun adayları seçmenin ne kadar karmaşık olabileceğini gösteriyor.
 
-Kitapta ele alınan bazı başlıklar, yalnızca Google değil, Zappos, Apple ve Morgan Stanley gibi diğer önemli şirketlerin mülakat süreçlerine de değiniyor. Yaratıcılık ile zeka arasındaki ilişki, algoritma ve mantık soruları, tahmin problemleri gibi konular, okuyucuyu mülakat dünyasının perde arkasına götürüyor. Ayrıca, bu süreçte adayların hayal gücünü zorlayan soruların neden tercih edildiği, mühendislik düşüncesinin ötesine geçmenin neden önemli olduğu gibi sorular da detaylıca ele alınıyor.
+Poundstone ayrıca Zappos, Apple ve Morgan Stanley gibi şirketlerin mülakat uygulamalarına, zekâ ve yaratıcılık arasındaki ilişkiye, mantık ve tahmin problemlerine de yer veriyor. Bu yönüyle kitap, yalnızca Google’ın işe alım süreçlerini değil, teknoloji şirketlerinin belirli bir dönemde yeteneği nasıl tanımladığını ve değerlendirmeye çalıştığını da gösteriyor.
+
+_Google’da Çalışacak Kadar Akıllı Mısınız?_, günümüzün işe alım uygulamalarını öğrenmekten çok, teknoloji şirketlerinin bir dönem benimsediği işe alım anlayışını ve şirket kültürünü anlamak açısından okunmaya değer bir kitap. Google’ın çalışma ortamına, çalışanlarına sunduğu olanaklara ve işe alım kararlarında karşılaşılan hata türlerine ayrılan bölümler, kitabı yalnızca sıra dışı mülakat sorularını inceleyen bir çalışmanın ötesine taşıyor. _Fuji Dağı’nı Nasıl Taşırsınız?_ ile birlikte değerlendirildiğinde ise iki kitap, işe alım uygulamalarının zaman içinde nasıl değiştiğini ve bir işe alım profesyoneli olarak nereden nereye geldiğimizi görmek açısından ilginç birer kaynak.

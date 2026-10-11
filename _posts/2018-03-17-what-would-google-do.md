@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "86"
-update: "done"
+update: ""
 image: "/assets/old/what-would-google-do.jpg"
 ---
 

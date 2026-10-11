@@ -17,7 +17,7 @@ tag: "CreativityExpression"
 reread: "yes"
 rating: "5"
 num: "92"
-update: "done"
+update: ""
 image: "/assets/old/judge-this.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "113"
-update: "done"
+update: ""
 image: "/assets/old/finnished-leadership.jpg"
 ---
 

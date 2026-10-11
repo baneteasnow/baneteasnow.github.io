@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "4"
 num: "49"
-update: "done"
+update: ""
 image: "/assets/old/the-accidental-billionaires.jpg"
 ---
 

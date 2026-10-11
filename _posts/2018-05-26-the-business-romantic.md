@@ -17,7 +17,7 @@ tag: "CreativityExpression"
 reread: "no"
 rating: "3"
 num: "96"
-update: "done"
+update: ""
 image: "/assets/old/the-business-romantic.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: ""
 reread: "yes"
 rating: "5"
 num: "56"
-update: "done"
+update: ""
 image: "/assets/old/a-week-at-the-airport.jpg"
 ---
 

@@ -17,7 +17,7 @@ reread: "no"
 rating: "4"
 num: "27"
 eng: "How Google Works explores how Google achieved its success from its founding to the present, delving into the management strategies behind it. The book covers a wide range of topics, including Google’s culture, recruitment processes, innovation strategies, and internal communication in detail."
-update: "done"
+update: ""
 image: "/assets/old/how-google-works.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "105"
-update: "done"
+update: ""
 image: "/assets/old/the-app-generation.jpg"
 ---
 

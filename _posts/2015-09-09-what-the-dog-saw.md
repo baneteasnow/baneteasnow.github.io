@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "15"
 eng: "What the Dog Saw is a collection of Malcolm Gladwell’s essays, offering profound insights into human behavior, societal dynamics, and decision-making processes."
-update: "done"
+update: ""
 image: "/assets/old/what-the-dog-saw.jpg"
 ---
 

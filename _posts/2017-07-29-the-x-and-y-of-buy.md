@@ -17,7 +17,7 @@ tag: "ConsumerMarketing"
 reread: "no"
 rating: "4"
 num: "64"
-update: "done"
+update: ""
 image: "/assets/old/the-x-and-y-of-buy.jpg"
 ---
 

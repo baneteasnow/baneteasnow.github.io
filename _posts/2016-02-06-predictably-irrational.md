@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "23"
 eng: "Predictably Irrational examines the irrational behaviors in decision-making processes and their predictable patterns, as explored by Dan Ariely. Drawing from behavioral economics and psychology, the book offers a fresh perspective on human behavior through compelling social experiments."
-update: "done"
+update: ""
 image: "/assets/old/predictably-irrational.jpg"
 ---
 

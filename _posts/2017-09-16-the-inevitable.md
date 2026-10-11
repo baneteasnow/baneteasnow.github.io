@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "4"
 num: "69"
-update: "done"
+update: ""
 image: "/assets/old/the-inevitable.jpg"
 ---
 

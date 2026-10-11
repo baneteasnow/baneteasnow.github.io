@@ -17,7 +17,7 @@ tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "63"
-update: "done"
+update: ""
 image: "/assets/old/happy-as-a-dane.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: "WorkCareer"
 reread: "no"
 rating: "4"
 num: "77"
-update: "done"
+update: ""
 image: "/assets/old/the-seven-day-weekend.jpg"
 ---
 

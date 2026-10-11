@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "81"
 eng: "Tell Everyone explores how social media has transformed not only the way we share information, but also how we shape our collective identity, one post at a time."
-update: "done"
+update: ""
 image: "/assets/old/tell-everyone.jpg"
 ---
 

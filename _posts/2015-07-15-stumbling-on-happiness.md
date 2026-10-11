@@ -17,7 +17,7 @@ reread: "yes"
 rating: "5"
 num: "11"
 eng: "Stumbling on Happiness delves into the nature of human happiness, the flaws in how we perceive the future, and the common missteps in our pursuit of fulfillment, blending scientific research with profound philosophical insight."
-update: "done"
+update: ""
 image: "/assets/old/stumbling-on-happiness.jpg"
 ---
 

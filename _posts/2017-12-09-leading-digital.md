@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "4"
 num: "79"
-update: "done"
+update: ""
 image: "/assets/old/leading-digital.jpg"
 ---
 

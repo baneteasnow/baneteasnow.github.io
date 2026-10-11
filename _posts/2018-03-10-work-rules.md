@@ -17,7 +17,7 @@ tag: "WorkCareer"
 reread: "no"
 rating: "4"
 num: "85"
-update: "done"
+update: ""
 image: "/assets/old/work-rules.jpg"
 ---
 

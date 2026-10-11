@@ -17,7 +17,7 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "95"
-update: "done"
+update: ""
 image: "/assets/old/digital-wars.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: "ConsumerMarketing"
 reread: "no"
 rating: "3"
 num: "84"
-update: "done"
+update: ""
 image: "/assets/old/trust-me-im-lying.jpg"
 ---
 

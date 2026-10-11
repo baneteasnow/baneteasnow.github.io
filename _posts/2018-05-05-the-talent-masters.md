@@ -17,7 +17,7 @@ tag: "WorkCareer"
 reread: "no"
 rating: "3"
 num: "93"
-update: "done"
+update: ""
 image: "/assets/old/the-talent-masters.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: "PhilosophyMeaning"
 reread: "yes"
 rating: "5"
 num: "185"
-update: "PhilosophyMeaning"
+update: ""
 image: "/assets/new/eating-animals.jpg"
 ---
 

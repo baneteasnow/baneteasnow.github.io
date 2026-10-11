@@ -17,7 +17,7 @@ tag: "WorkCareer"
 reread: "no"
 rating: "4"
 num: "94"
-update: "done"
+update: ""
 image: "/assets/old/the-joy-of-not-working.jpg"
 ---
 

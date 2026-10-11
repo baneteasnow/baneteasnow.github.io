@@ -17,7 +17,7 @@ tag: "ConsumerMarketing"
 reread: "yes"
 rating: "5"
 num: "66"
-update: "done"
+update: ""
 image: "/assets/old/branded-beauty.jpg"
 ---
 

@@ -16,7 +16,7 @@ tag: ""
 reread: "yes"
 rating: "5"
 num: "29"
-update: "done"
+update: ""
 eng: "Nassim Nicholas Taleb’s The Black Swan explores rare, unpredictable events with extraordinary impacts, termed as Black Swans. Taleb argues that understanding uncertainty is more critical than attempting to predict it, emphasizing the profound role of randomness in shaping life."
 image: "/assets/old/the-black-swan.jpg"
 ---

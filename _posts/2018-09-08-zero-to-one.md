@@ -17,7 +17,7 @@ tag: "BusinessEconomics"
 reread: "no"
 rating: "4"
 num: "109"
-update: "done"
+update: ""
 image: "/assets/old/zero-to-one.jpg"
 ---
 
