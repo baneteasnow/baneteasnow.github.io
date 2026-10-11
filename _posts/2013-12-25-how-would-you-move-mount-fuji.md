@@ -42,12 +42,12 @@ Sonuç olarak, kitap sadece işe alım sürecine ilgi duyanlara değil, aynı za
 > Dünyada kaç tane piyano akortçusu vardır?
 > Aynadaki görüntüde neden yukarı ve aşağı yer değiştirmez de sağ ve sol yer değiştirir?
 
-[2]: Geleneksel mülakat sorularına örnekler
+[^2]: Geleneksel mülakat sorularına örnekler
 
 > “Beş yıl sonra kendinizi nerede görüyorsunuz?”,
 > “Güçlü ve zayıf yönleriniz nelerdir?”
 
-[3]: STAR tekniğinde kullanılan sorulara örnekler
+[^3]: STAR tekniğinde kullanılan sorulara örnekler
 
 > “Geçmişte karşılaştığınız ve üstesinden geldiğiniz bir sorunu anlatın.”,
 > “Zamanın yetersiz olduğu bir durumu ve nasıl başa çıktığınızı anlatın.”
