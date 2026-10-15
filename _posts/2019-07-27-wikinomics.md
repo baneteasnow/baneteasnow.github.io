@@ -11,9 +11,9 @@ goodreads: "https://www.goodreads.com/book/show/154341.Wikinomics"
 description: ""
 eng: ""
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2026-10-15
 posted: 2019-07-27
-tag: ""
+tag: "BusinessEconomics"
 reread: "no"
 rating: "3"
 num: "139"
