@@ -13,7 +13,7 @@ eng: "The eBay Phenomenon explores the journey of eBay from its humble beginning
 published: true
 last_modified_at: 2026-10-16
 posted: 2017-03-11
-tag: ""
+tag: "BusinessEconomics"
 reread: "no"
 rating: "4"
 num: "50"
