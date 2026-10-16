@@ -8,8 +8,8 @@ yazar: "Don Tapscott, Anthony D. Williams "
 yil: "2007"
 sayfa: "420"
 goodreads: "https://www.goodreads.com/book/show/154341.Wikinomics"
-description: ""
-eng: ""
+description: "Don Tapscott ve Anthony D. Williams, internetin mümkün kıldığı kitlesel işbirliğinin bilgi üretimini, inovasyonu ve şirketlerin çalışma biçimlerini nasıl dönüştürdüğünü inceliyor."
+eng: "Don Tapscott and Anthony D. Williams explore how internet-enabled mass collaboration is transforming knowledge creation, innovation, and the way businesses operate."
 published: true
 last_modified_at: 2026-10-15
 posted: 2019-07-27
@@ -17,56 +17,30 @@ tag: "BusinessEconomics"
 reread: "no"
 rating: "3"
 num: "139"
-update: ""
+update: "updated"
 image: "/assets/old/wikinomics.jpg"
 ---
 
-Vikinomi, kitlesel işbirliğini ve crowdsourcing kavramını ele alan bir kitap. Kitlesel iş birliği ile kitlelerin (çoğu kez kendiliğinden) bir araya gelmesini, kendi içinde örgütlenmesini ve bir konu özelinde iş birliği yapmasını çeşitli örneklerle anlatıyor. Yazarlar Don Tapscott ve Anthony D. Williams, 2010 yılında kitabın devamını Macrowikinomics: New Solutions for a Connected Planet ismi ile yazmışlar.
+Don Tapscott ve Anthony D. Williams, _Vikinomi – Kitlesel İşbirliği Her Şeyi Değiştiriyor_ (_Wikinomics: How Mass Collaboration Changes Everything_) adlı kitaplarında internetin yaygınlaşmasıyla ortaya çıkan kitlesel işbirliği modellerini ve bunların iş dünyası üzerindeki etkilerini inceliyor. Yazarlar, farklı yerlerde bulunan insanların ortak ilgi alanları ve hedefler etrafında bir araya gelerek bilgi, ürün ve hizmet üretmesini, yeni bir ekonomik düzenin temel özelliklerinden biri olarak değerlendiriyor.
 
-İnternet üzerinden ortak bir ilgi alanı etrafında bir araya gelen kişilerin inovasyon ve değer üretme biçimleri kitapta 'peer production' ve 'peering' olarak (yani katılıma açık iş birliği) isimlendirilmiş.
+Kitabın merkezinde _peer production_ ve _peering_ kavramları bulunuyor. Bu kavramlar, bireylerin ve kuruluşların geleneksel hiyerarşik yapılara bağlı olmadan, daha yatay ve katılımcı biçimlerde işbirliği yapabilmesini ifade ediyor. İnternet ve iletişim teknolojileri, birbirinden bağımsız kişilerin bilgi ve uzmanlıklarını bir araya getirmesini, ortak projeler geliştirmesini ve ekonomik değer üretmesini mümkün kılıyor. Yazarlar bu yeni üretim ve organizasyon anlayışını _vikinomi_ olarak adlandırıyor.
 
-Kitlesel iş birliği, verilerin ve sonuçların gönüllü örgütlenmelerce paylaşıldığı, iletişim teknolojileri sayesinde geniş bir alanda dağınık biçimde örgütlenmiş bireyler ve şirketler üzerinden işlemektedir. Tüm dünyayı etkisi altına alan bu işbirliğine yazarlar 'vikinomi' ismini vermişler. Bu terimi yeni bir ortaklık ve katılım çağını tanımlamak için bir metafor olarak kullanmışlar. Vikinomi, yeni bir çalışma biçimi de beraberinde getirmiştir; kapılarını dünyaya açan, herkesle ortaklaşa inovasyon yapan, eskiden saklanılan kaynakları paylaşan, kitlesel işbirliğinin gücünden yararlanan ve çok uluslu olmak yerine global olabilen. (sayfa 31 ve 34) Bu yeni düzen, önceki dönemde geçerli olan hiyerarşik, kapalı, sır saklayan ve dar görüşlü uluslararası şirket anlayışından farklıdır. (sayfa 47)
+Tapscott ve Williams’a göre vikinominin dört temel ilkesi açıklık, eşler arası işbirliği (_peering_), paylaşım ve küresel hareket etme. Açıklık, şirketlerin bilgi ve uzmanlık kaynaklarını yalnızca kendi çalışanlarıyla sınırlamaması, dışarıdaki fikir ve yeteneklerden de yararlanması anlamına geliyor. Peering, geleneksel hiyerarşilerin yanında daha yatay ve katılımcı üretim yapılarının gelişmesini ifade ediyor. Paylaşım, şirketlerin sahip oldukları bilgi ve fikrî mülkiyetin belirli bölümlerini ortak kullanıma açmasını kapsıyor. Küresel hareket etmek ise yalnızca farklı ülkelerde faaliyet göstermekten daha fazlasını, bilgi, kaynak ve uzmanlığı dünya çapında organize edebilmeyi gerektiriyor.
 
-Vikinominin 4 ilkesi vardır:
+Yazarlar, geleneksel şirketlerin kapalı organizasyon yapılarının ve bilgi saklama alışkanlıklarının değişen rekabet koşullarında yetersiz kalabileceğini savunuyor. Bu yaklaşımı açıklamak için Kanadalı madencilik şirketi Goldcorp’un deneyimini ele alıyorlar. Şirketin jeolojik verilerini dışarıdan uzmanların kullanımına açarak altın arama çalışmalarında farklı kişilerin katkılarından yararlanması, inovasyonun yalnızca kurum içindeki bilgi ve uzmanlıkla sınırlı olmadığını gösteren örneklerden biri.
 
-##### [Açık olmak](#acik-olmak)
+Kitap boyunca işbirliği ekonomisinin yedi farklı modeli inceleniyor. Açık kaynak yazılımlar ve Wikipedia gibi kolektif üretim örneklerinden küresel fikir pazarlarına, tüketicilerin ürün geliştirme süreçlerine katılımından bilimsel araştırmalarda bilgi paylaşımına kadar uzanan bu modeller, işbirliğinin farklı alanlarda nasıl gerçekleşebileceğini gösteriyor. Ayrıca şirketlerin dışarıdan katılıma açık platformlar oluşturması, fiziksel ürünlerin küresel üretim ağları üzerinden geliştirilmesi ve işyerlerinde daha yatay çalışma biçimlerinin ortaya çıkması da ele alınıyor. Bütün bu modellerin ortak noktası, şirketlerin kendi sınırları dışındaki bilgi, kaynak ve yeteneklerden yararlanarak inovasyon ve rekabet kapasitelerini geliştirebilmesi.
 
-{: #acik-olmak }
-Şirketlerin ellerindeki bilgiyi inovasyon oluşturulması için paylaşması, kendi yetenekli çalışanlarının yanı sıra, global yetenek havuzuna da açılmasıdır.
+Ancak kitapta ele alınan işbirliği biçimleri arasında önemli farklılıklar bulunuyor. Açık kaynak projelerde veya Wikipedia gibi örneklerde katılımcılar ortak bir amaç etrafında büyük ölçüde kendiliğinden örgütlenebilirken, şirketlerin yürüttüğü _crowdsourcing_ uygulamalarında işbirliğinin koşullarını çoğunlukla şirketler belirliyor. Bir problemi geniş bir topluluğun çözümüne açmak ile insanların kendi inisiyatifleriyle ortak bir ürün geliştirmesi aynı organizasyon modeli değil. Her iki yaklaşım da kurum dışındaki bilgi ve uzmanlıktan yararlanmayı mümkün kılsa da katılımcıların karar alma süreçlerindeki rolleri ve ortaya çıkan değer üzerindeki kontrolleri farklılaşabiliyor.
 
-##### [Peering](#peering)
+Kitabın organizasyon yönetimi açısından dikkat çekici yönlerinden biri de geleneksel hiyerarşilerin sorgulanması. Yazarlar, çalışanların bilgi ve uzmanlıklarını daha açık biçimde paylaşabildiği, departmanlar arasındaki sınırların esnetildiği ve kurum dışındaki ağlarla işbirliği kurulabildiği organizasyonların inovasyon açısından avantaj sağlayabileceğini öne sürüyor. Bu bakımdan vikinomi, yalnızca teknolojik bir gelişmeyi değil, şirketlerin bilgiye, çalışanlarına ve dış dünyayla kurdukları ilişkilere bakışındaki değişimi de ele alıyor.
 
-{: #peering }
+_Vikinomi_’nin 2006 yılında yayımlanmış olması, kitabı bugün değerlendirmeyi ayrıca ilginç kılıyor. İnternetin ekonomik etkilerinin çoğunlukla yeni teknolojiler ve çevrimiçi ticaret üzerinden tartışıldığı bir dönemde yazarlar, daha kapsamlı bir dönüşüme dikkat çekiyor: Bilginin kim tarafından üretildiği, yeniliklerin nereden geldiği ve şirketlerin nasıl organize olduğu değişiyor. Açık kaynak projeler, kullanıcıların üretime katılımı, dijital platformlar ve küresel işbirliği gibi bugün oldukça tanıdık gelen gelişmeleri ortak bir ekonomik çerçevede ele almaları, kitabın güçlü yönlerinden biri. Bununla birlikte, sonraki yıllarda yaşanan gelişmeler, kitlesel işbirliğinin ekonomik ve toplumsal sonuçlarının yazarların çizdiği iyimser tablodan daha karmaşık olduğunu da gösteriyor.
 
-Hiyerarşiler yakın zamanda ortadan kalkacak gibi durmasa da, bilgiye dayalı olarak hareket eden, peering olarak adlandırılan yatay yapılar ortaya çıkmıştır. En güzel örneklerinden birisi Linux işletim sisteminin oluşturulma sürecidir.
+Kitlesel işbirliği, daha fazla insanın bilgi ve üretim süreçlerine katılmasını mümkün kılmış olsa da herkes için eşit fırsatlar yarattığı söylenemez. İnsanların teknolojiye erişimi, uzmanlıkları, zamanları ve ekonomik kaynakları birbirinden farklı. Üstelik katılımın yaygınlaşması, ortaya çıkan ekonomik değerin aynı ölçüde paylaşılmasını da garanti etmiyor. Dijital platformların gelişimi, kullanıcıların katkılarıyla büyüyen ekonomik yapıların aynı zamanda önemli ölçüde güç ve kontrolü belirli şirketlerde toplayabildiğini gösteriyor. Dolayısıyla üretime katılımın demokratikleşmesi ile ekonomik gücün demokratikleşmesi arasında önemli bir fark bulunuyor. Benzer şekilde, şirketlerin dışarıdaki insanların bilgi ve uzmanlığından yararlanması, bu kişilerin karar alma süreçlerinde eşit söz sahibi olduğu anlamına gelmiyor.
 
-##### [Paylaşım](#paylasim)
+Kitabın temel düşüncelerini günümüzde yeniden değerlendirmeyi ilginç kılan gelişmelerden biri de yapay zekâ. Tapscott ve Williams, internetin çok sayıda insanın bilgi ve uzmanlığını bir araya getirerek değer üretmesini mümkün kıldığını anlatırken, bugün üretken yapay zekâ sistemleri insan katkılarından öğrenerek bilgi ve içerik üretiminin biçimini yeniden değiştiriyor. Bu gelişme, kitabın ele aldığı işbirliği ve değer üretimi konularına yeni sorular ekliyor. Özellikle yapay zekâ sistemlerinin geliştirilmesinde kullanılan bilgi ve içeriklerin sahipliği, katkıda bulunanların hakları ve ortaya çıkan ekonomik değerin nasıl paylaşıldığı önem kazanıyor. Böylece _Vikinomi_’nin temel sorularından biri bugün farklı bir bağlamda karşımıza çıkıyor: Değeri kim üretiyor, kim kontrol ediyor ve ekonomik faydadan kim yararlanıyor?
 
-{: #paylasim }
+Bu açıdan bakıldığında, yazarların kitlesel işbirliğine ilişkin iyimserliği hem kitabın güçlü yönlerinden biri hem de eleştirel değerlendirmeye açık bir tarafı. Tapscott ve Williams, internetin şirketler ve bireyler için yaratabileceği fırsatları geniş bir perspektifle ele alıyor. Ancak işbirliğinin hangi koşullarda gerçekleştiği, katkıda bulunanların nasıl karşılık aldığı ve ortaya çıkan değerin kim tarafından kontrol edildiği soruları da en az işbirliğinin kendisi kadar önemli.
 
-Firmanın elindeki entelektüel mülkiyetini müşterek bir fon olarak görmesi ve bazılarını korurken bazılarını da paylaşıma açmasını içerir. Böylece, kamuya açık veritabanları üzerinden ortak araştırmalar yürütülebilecektir.
-
-##### [Global hareket etme](#global-hareket-etme)
-
-{: #global-hareket-etme}
-
-Sadece global düşünmeyi değil global olarak hareket edebilmeyi kapsar. Büyük şirketlerin global değil, uluslararası olmaları bazı sorunlara yol açmaktadır.  
-İşbirliğine yönelik yeni global platform, global hareket etme yönünde sayısız fırsat sunmaktadır. Dünya eğitim, iş ve girişim fırsatlarıyla kaynamaktadır - bu fırsatlardan pay kapabilmek için bireyin ihtiyaç duyduğu şey yetenek, motivasyon, yaşam boyu öğrenme kapasitesi ve bir internet bağlantısıdır. (sayfa 47)
-
-Vikinomi'nin dört ilkesi - açık olma, peering, paylaşım ve global hareket etme - 21. yüzyıl şirketlerinin nasıl rekabet ettiklerini en iyi şekilde açıklamaktadır. Yeni düzen geçen yüzyıla damgasını vuran hiyerarşik, kapalı, sır saklayan ve dar görüşlü uluslararası şirket anlayışından çok farklıdır. (sayfa 47)
-
-Kitlesel işbirliğinin endüstriyi bir gecede yeniden şekillendirebildiği bir çağda hiyerarşik çalışma ve inovasyon örgütlenme yöntemleri, bir şirketin günün koşullarında rekabetçi kalabilmesi için gerekli çeviklik, yaratıcılık ve bağlanabilirlik düzeylerini karşılayamamaktadır. Şimdi artık her bireyin ekonomide oynayacağı bir rol ve her şirketin bir seçeneği bulunmaktadır - emtialaştırmak ya da ilişki geliştirmek. (sayfa 47-48)
-
-İşbirliği ekonomisinde şirketlerin rekabetçi güç kazanmak ve büyümek için yaralanabilecekleri 7 farklı model kitapta incelenmektedir. Modellerden her biri, rekabete yönelik yeni ve benzersiz bir yolu temsil etmektedir. Hepsinin ortak noktası ise, bu yeni peer production biçimlerinin firmalara dış bilgilerden, kaynaklardan ve yeteneklerden daha öncesinde mümkün olmayacak derecede yararlanma imkanı sunmasıdır. (sayfa 363)
-
-Bu modeller kısaca şöyledir (sayfa 362-363):
-
-- Peer Öncüleri parçalardan oluşan ürünler yaratmak için açık kaynak ilkelerini - işletim sistemlerinden ansiklopedilere varana dek - kullanmaktadırlar.
-- İdegoralar şirketlere problem çözme kapasitelerini geliştirmek amacıyla global fikirler, inovasyonlar ve eşsiz kalifiye beyinler pazarına erişim imkanı sunmaktadır.
-- Şirketlerin tüketicilere değer yaratma süreçlerine katılmaları için ihtiyaç duydukları araçları temin etmeleri durumunda üreten tüketici topluluklar harikulade bir inovasyon kaynağı haline gelebilirler.
-- Yeni İskenderiyeliler maliyetleri düşürecek ve endüstriyel teknolojinin gelişim sürecine ivme kazandıracak yeni bir iş birliği modeli geliştirmektedirler.
-- Katılım platformaları büyük ortak topluluklarının değer ve çoğu zaman oldukça sinerjik bir ekosistem bünyesinde yeni teşebbüsler yaratabilecekleri bir global sahne yaratmaktadırlar.
-- Global İmalathaneler, fiziksel eşyaların tasarımı ve montajına yönelik olarak sınırların ve kurumsal sınırların ötesindeki insan sermayesinin gücünden yararlanmaktadırlar.
-- Viki işyerleri eşine pek rastlanmayan yollarla kurumsal hiyerarşileri yararak inovasyonları ve morali arttırmaktadır.
-
-Kitabın son sayfaları ise, bu yeni kurumsal bakış açısını geliştirmek ve işler hale getirebilmek için ortaya konulması gereken liderlik modellerini incelemektedir.
+_Vikinomi_, internetin ekonomik etkilerini yalnızca yeni teknolojiler üzerinden değil, üretim, inovasyon ve organizasyon biçimlerindeki dönüşüm üzerinden değerlendiren bir kitap. Yayımlandığı dönemin dijital gelişmelerini anlamak için kapsamlı bir çerçeve sunarken, bugün bu gelişmelerin hangi sonuçları doğurduğunu yeniden düşünmeye de imkân tanıyor. Kitabın üzerinde durduğu açıklık, paylaşım ve işbirliği ilkeleri önemini koruyor; ancak bu ilkelerin uygulanması, kendiliğinden daha demokratik veya eşitlikçi bir ekonomik düzen ortaya çıkarmıyor. Bu nedenle _Vikinomi_’yi yalnızca geleceğe ilişkin öngörüler sunan bir kaynak olarak değil, dijital ekonominin gelişimini ve beraberinde getirdiği çelişkileri değerlendirmek için de okumak mümkün.
