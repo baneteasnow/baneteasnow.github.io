@@ -11,13 +11,13 @@ goodreads: "https://www.goodreads.com/book/show/1729295.The_Ebay_Phenomenon"
 description: "eBay Fenomeni, online açık artırma devi eBay’in kuruluşundan küresel bir markaya dönüşüm sürecini, iş modelini ve topluluk odaklı stratejilerini detaylı bir şekilde ele alıyor."
 eng: "The eBay Phenomenon explores the journey of eBay from its humble beginnings to becoming a global brand, analyzing its business model and community-driven strategies in depth."
 published: true
-last_modified_at: 2025-03-09
+last_modified_at: 2026-10-16
 posted: 2017-03-11
 tag: ""
 reread: "no"
 rating: "4"
 num: "50"
-update: ""
+update: "updated"
 image: "/assets/old/the-ebay-phenomenon.jpg"
 ---
 
