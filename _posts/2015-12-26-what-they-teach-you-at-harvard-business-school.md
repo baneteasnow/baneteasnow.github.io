@@ -12,7 +12,7 @@ description: "Philip Delves Broughton, Harvard Business School’da geçirdiği 
 published: true
 last_modified_at: 2026-10-11
 posted: 2015-12-26
-tag: ""
+tag: "BusinessEconomics"
 reread: "no"
 rating: "4"
 num: "21"
