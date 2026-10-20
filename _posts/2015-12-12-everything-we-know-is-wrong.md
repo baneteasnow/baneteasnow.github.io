@@ -8,16 +8,16 @@ yazar: "Magnus Lindkvist"
 yil: "2009"
 sayfa: "182"
 goodreads: "https://www.goodreads.com/book/show/7059612-everything-we-know-is-wrong"
-description: "Trend Avcısı, insanların değişimi nasıl algıladığını, trendlerin neden görmezden gelindiğini ve geleceği anlamlandırmak için farklı düşünme biçimlerinin önemini araştırıyor. Magnus Lindkvist, bireylerin ve toplumların, kısa vadeli düşüncelerin ötesine geçerek uzun vadeli etkileri göz önünde bulundurması gerektiğini savunuyor."
-last_modified_at: 2024-12-07
+description: "Magnus Lindkvist, Trend Avcısı kitabında, insanların değişimleri ve trendleri neden gözden kaçırdığını, algısal sınırlılıklarımızın geleceği anlama biçimimizi nasıl etkilediğini inceliyor."
+eng: "In Everything We Know Is Wrong, Magnus Lindkvist explores why we often fail to recognize emerging trends and how the limitations of human perception shape our understanding of the future."
+last_modified_at: 2026-10-20
 published: true
 posted: 2015-12-12
 tag: ""
 reread: "no"
 rating: "3"
 num: "19"
-update: ""
-eng: "Everything We Know is Wrong explores how people perceive change, why trends are often overlooked, and the importance of adopting new ways of thinking to understand the future. Magnus Lindkvist argues that individuals and societies need to move beyond short-term perspectives and consider long-term impacts."
+update: "updated"
 image: "/assets/old/everything-we-know-is-wrong.jpg"
 ---
 
