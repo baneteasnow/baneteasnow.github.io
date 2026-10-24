@@ -13,11 +13,11 @@
 # 3 = book
 #
 #
-read: 53
+read: 56
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-24
 published: true
 #
 # 1
@@ -42,19 +42,40 @@ sayfa3: 664
 format3: reading as a book
 pageread3: 1
 # 4
-booktitle4: "Finding Meaning in the Second Half of Life"
-bookyear4: 2020
-author4: "James Hollis"
-sayfa4: 304
+booktitle4: "This Changes Everything"
+bookyear4: 2015
+author4: "Naomi Klein"
+sayfa4: 704
 format4: reading as a book
 pageread4: 1
 # 5
-booktitle5: "This Changes Everything"
-bookyear5: 2015
-author5: "Naomi Klein"
-sayfa5: 704
+booktitle5: "Will I Ever Be Good Enough?"
+bookyear5: 2019
+author5: "Karyl McBride"
+sayfa5: 280
 format5: reading as a book
 pageread5: 1
+# 6
+booktitle6: "Boundaries"
+bookyear6: 2019
+author6: "John Townsend, Henry Cloud"
+sayfa6: 312
+format6: reading as a book
+pageread6: 1
+# 7
+booktitle7: "A Paradise Built in Hell"
+bookyear7: 2024
+author7: "Rebecca Solnit"
+sayfa7: 480
+format7: reading as a book
+pageread7: 1
+# 8
+booktitle8: "The Myth of Normal"
+bookyear8: 2023
+author8: "Gabor Mate, Daniel Mate"
+sayfa8: 552
+format8: reading as a book
+pageread8: 1
 ---
 
 {% include image-gallery.html folder="/assets/now" %}
@@ -182,6 +203,76 @@ _by_ {{ page.author5 }}
   <br />
   <div style="clear: both"></div>
 
+⁜ {{ page.read | plus: 6 }}
+
+{{ page.booktitle6 }} ({{ page.bookyear6 }})  
+_by_ {{ page.author6 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format6 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa6 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+  {{ page.pageread6 | times: 100 | divided_by: page.sayfa6 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread6 }}/{{ page.sayfa6 }}" value="{{ page.pageread6 }}" max="{{ page.sayfa6 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+      {{ page.pageread6 }}/{{ page.sayfa6 }}
+      </span>
+  </div>
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 7 }}
+
+{{ page.booktitle7 }} ({{ page.bookyear7 }})  
+_by_ {{ page.author7 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format7 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa7 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+  {{ page.pageread7 | times: 100 | divided_by: page.sayfa7 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread7 }}/{{ page.sayfa7 }}" value="{{ page.pageread7 }}" max="{{ page.sayfa7 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+      {{ page.pageread7 }}/{{ page.sayfa7 }}
+      </span>
+  </div>
+  <br />
+  <div style="clear: both"></div>
+  ⁜ {{ page.read | plus: 8 }}
+
+{{ page.booktitle8 }} ({{ page.bookyear8 }})  
+_by_ {{ page.author8 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format8 }} </div>
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa8 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+  {{ page.pageread8 | times: 100 | divided_by: page.sayfa8 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread8 }}/{{ page.sayfa8 }}" value="{{ page.pageread8 }}" max="{{ page.sayfa8 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2026">
+      {{ page.pageread8 }}/{{ page.sayfa8 }}
+      </span>
+  </div>
+  <br />
+  <div style="clear: both"></div>
 <br />
 <div style="clear: both"></div>
 _[through the year](https://www.next52books.com/through-the-year.html "through the year")_
