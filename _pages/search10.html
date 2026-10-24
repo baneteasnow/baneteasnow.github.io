@@ -19,7 +19,10 @@ permalink: /search10.html
 		/>
 	</div>
 
-	<p class="search-help">
+	<p
+		class="search-help"
+		id="searchHelp"
+	>
 		Search for a book or author, or click
 		<button
 			type="button"
@@ -569,11 +572,22 @@ permalink: /search10.html
 		 */
 
 		function updateShowAllButton() {
+			const help = document.getElementById("searchHelp")
+
 			showAllButton.textContent = showAll ? "Hide All" : "Show All"
 
 			showAllButton.setAttribute("aria-expanded", String(showAll))
-		}
 
+			const description = showAll
+				? "Showing all books. "
+				: "Search for a book or author, or click "
+
+			help.replaceChildren(document.createTextNode(description), showAllButton)
+
+			if (!showAll) {
+				help.appendChild(document.createTextNode("."))
+			}
+		}
 		/*
 		 * Render a list of books.
 		 */
