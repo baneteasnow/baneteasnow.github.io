@@ -1,0 +1,306 @@
+---
+layout: page-16
+title: Author
+published: true
+permalink: /author.html
+---
+
+<div class="author-archive">
+	<h1 id="authorName"></h1>
+	<p
+		id="authorCount"
+		class="author-count"
+	></p>
+	<fieldset class="author-category-choice" id="authorCategoryChoice" aria-label="Category display">
+		<label><input type="radio" name="authorCategories" value="without" checked /> Without categories</label>
+		<label><input type="radio" name="authorCategories" value="with" /> With categories</label>
+	</fieldset>
+	<div id="authorBooks"></div>
+</div>
+
+<style>
+	.author-archive {
+		max-width: 760px;
+		margin: 0 auto;
+	}
+
+	.author-archive h1 {
+		font-size: 26px;
+		font-weight: 600;
+		margin-bottom: 8px;
+	}
+
+	.author-count {
+		font-size: 13px;
+		color: #777;
+		margin-bottom: 28px;
+	}
+
+	.author-book {
+		padding: 15px 0;
+		border-bottom: 1px solid #eee;
+	}
+
+	.author-book-title {
+		display: block;
+		color: #222;
+		font-size: 14px;
+		font-weight: 600;
+		text-decoration: none;
+	}
+
+	.author-book-title:hover {
+		text-decoration: underline;
+	}
+
+	.author-book-turkish {
+		min-width: 0;
+		font-size: 13px;
+		color: #777;
+		overflow-wrap: anywhere;
+	}
+
+	.author-book-meta {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 12px;
+		margin-top: 5px;
+	}
+	.author-book-date {
+		font-size: 12px;
+		color: #999;
+		white-space: nowrap;
+		margin-left: auto;
+	}
+	@media (max-width: 430px) {
+		.author-book-meta {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 3px;
+		}
+		.author-book-date { margin-left: 0; }
+	}
+	.author-category-choice { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 0 0 12px; padding: 0; border: 0; color: #666; font-size: 12px; }
+	.author-category-choice label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+	.author-category-choice input { margin: 0; accent-color: #555; }
+	.author-book-category { margin-top: 7px; color: #888; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; }
+
+	.author-category-choice[hidden] { display: none; }
+	.author-book-category a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+	.author-index { list-style: none; margin: 0; padding: 0; }
+	.author-index li { padding: 10px 0; border-bottom: 1px solid #eee; }
+	.author-index a { color: inherit; text-decoration: underline; text-decoration-color: #bbb; text-underline-offset: 3px; }
+	.author-index a:hover { text-decoration-color: currentColor; }
+	.author-letter { margin: 25px 0 7px; font-size: 16px; color: #777; }
+
+	/* Override theme restrictions on search width */
+
+	.book-search {
+		display: block !important;
+		width: 100% !important;
+		max-width: 760px !important;
+		min-width: 0 !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+
+	.book-search .search-box {
+		display: block !important;
+		width: 100% !important;
+		max-width: 100% !important;
+	}
+
+	.book-search #bookSearchInput {
+		display: block !important;
+		width: 100% !important;
+		max-width: 100% !important;
+		min-width: 0 !important;
+	}
+</style>
+
+<script>
+	;(function () {
+		"use strict"
+
+		const params = new URLSearchParams(window.location.search)
+		const author = params.get("name")
+
+		const nameElement = document.getElementById("authorName")
+		const countElement = document.getElementById("authorCount")
+		const booksElement = document.getElementById("authorBooks")
+		let authorBooks = []
+		let showCategories = false
+
+		document.querySelectorAll('input[name="authorCategories"]').forEach(function (radio) {
+			radio.addEventListener("change", function () {
+				showCategories = radio.value === "with"
+				renderAuthorBooks(authorBooks)
+			})
+		})
+
+		const isIndex = !author || !author.trim()
+		if (isIndex) {
+			nameElement.textContent = "Authors"
+			document.getElementById("authorCategoryChoice").hidden = true
+		} else {
+			nameElement.textContent = author
+		}
+		countElement.textContent = "Loading books..."
+
+		function normalizeText(value) {
+			return String(value || "")
+				.toLocaleLowerCase("tr-TR")
+				.replace(/ı/g, "i")
+				.replace(/ç/g, "c")
+				.replace(/ğ/g, "g")
+				.replace(/ö/g, "o")
+				.replace(/ş/g, "s")
+				.replace(/ü/g, "u")
+				.normalize("NFD")
+				.replace(/[\u0300-\u036f]/g, "")
+		}
+
+		function formatDate(value) {
+			if (!value) return ""
+
+			const parts = value.split("-")
+
+			if (parts.length !== 3) return value
+
+			const date = new Date(
+				Number(parts[0]),
+				Number(parts[1]) - 1,
+				Number(parts[2]),
+			)
+
+			return date.toLocaleDateString("en-GB", {
+				day: "numeric",
+				month: "short",
+				year: "numeric",
+			})
+		}
+
+		function renderAuthorBooks(matches) {
+			booksElement.replaceChildren()
+				const fragment = document.createDocumentFragment()
+
+				matches.forEach(function (book) {
+					const item = document.createElement("div")
+					item.className = "author-book"
+
+					const title = document.createElement("a")
+					title.className = "author-book-title"
+					title.href = book.url
+					title.textContent = book.book || book.title
+
+					item.appendChild(title)
+
+					const meta = document.createElement("div")
+					meta.className = "author-book-meta"
+
+					if (book.turkish) {
+						const turkish = document.createElement("span")
+						turkish.className = "author-book-turkish"
+						turkish.textContent = book.turkish
+						meta.appendChild(turkish)
+					}
+
+					const date = document.createElement("span")
+					date.className = "author-book-date"
+					date.textContent = formatDate(book.date)
+
+					meta.appendChild(date)
+					item.appendChild(meta)
+					if (showCategories) {
+						const category = document.createElement("div")
+						category.className = "author-book-category"
+						const tags = (Array.isArray(book.tag) ? book.tag : [book.tag])
+							.map(t => String(t || "").trim()).filter(Boolean)
+						if (tags.length) {
+							tags.forEach((tag, i) => {
+								if (i) category.appendChild(document.createTextNode(", "))
+								const link = document.createElement("a")
+								link.href = "{{ '/category.html' | relative_url }}?tag=" + encodeURIComponent(tag)
+								link.textContent = tag
+								category.appendChild(link)
+							})
+							item.appendChild(category)
+						}
+					}
+					fragment.appendChild(item)
+				})
+
+				booksElement.appendChild(fragment)
+		}
+
+		fetch("{{ '/search.json' | relative_url }}?v=categories-2", { cache: "no-store" })
+			.then(function (response) {
+				if (!response.ok) {
+					throw new Error("Unable to load books")
+				}
+
+				return response.json()
+			})
+			.then(function (books) {
+				if (isIndex) {
+					const names = new Map()
+					books.forEach(book => String(book.author || "").split(/\s*,\s*/).forEach(raw => {
+						const n = raw.trim()
+						if (n && !names.has(normalizeText(n))) names.set(normalizeText(n), n)
+					}))
+					const sorted = [...names.values()].sort((a,b) => a.localeCompare(b, 'en', {sensitivity:'base'}))
+					countElement.textContent = sorted.length + (sorted.length === 1 ? ' author' : ' authors')
+					const ul = document.createElement('ul')
+					ul.className = 'author-index'
+					let letter = ''
+					sorted.forEach(n => {
+						const first = n.charAt(0).toLocaleUpperCase('en')
+						if (first !== letter) {
+							letter = first
+							const heading = document.createElement('h2')
+							heading.className = 'author-letter'
+							heading.textContent = letter
+							ul.appendChild(heading)
+						}
+						const li = document.createElement('li')
+						const a = document.createElement('a')
+						a.href = "{{ '/author.html' | relative_url }}?name=" + encodeURIComponent(n)
+						 a.textContent = n
+						li.appendChild(a)
+						ul.appendChild(li)
+					})
+					booksElement.replaceChildren(ul)
+					return
+				}
+				const selectedAuthor = normalizeText(author.trim())
+
+				const matches = books.filter(function (book) {
+					return String(book.author || "")
+						.split(/\s*,\s*/)
+						.some(function (name) {
+							return normalizeText(name.trim()) === selectedAuthor
+						})
+				})
+
+				matches.sort(function (a, b) {
+					return (b.date || "").localeCompare(a.date || "")
+				})
+
+				countElement.textContent =
+					matches.length + (matches.length === 1 ? " book" : " books")
+
+				if (matches.length === 0) {
+					booksElement.textContent = "No books found for this author."
+					return
+				}
+
+				authorBooks = matches
+				renderAuthorBooks(matches)
+			})
+			.catch(function (error) {
+				console.error(error)
+				countElement.textContent = "Unable to load books."
+			})
+	})()
+</script>
