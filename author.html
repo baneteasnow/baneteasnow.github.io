@@ -11,27 +11,9 @@ permalink: /author.html
 		id="authorCount"
 		class="author-count"
 	></p>
-	<fieldset
-		class="author-category-choice"
-		aria-label="Category display"
-	>
-		<label
-			><input
-				type="radio"
-				name="authorCategories"
-				value="without"
-				checked
-			/>
-			Without categories</label
-		>
-		<label
-			><input
-				type="radio"
-				name="authorCategories"
-				value="with"
-			/>
-			With categories</label
-		>
+	<fieldset class="author-category-choice" aria-label="Category display">
+		<label><input type="radio" name="authorCategories" value="without" checked /> Without categories</label>
+		<label><input type="radio" name="authorCategories" value="with" /> With categories</label>
 	</fieldset>
 	<div id="authorBooks"></div>
 </div>
@@ -72,50 +54,37 @@ permalink: /author.html
 	}
 
 	.author-book-turkish {
+		min-width: 0;
 		font-size: 13px;
 		color: #777;
-		margin-top: 3px;
+		overflow-wrap: anywhere;
 	}
 
+	.author-book-meta {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 12px;
+		margin-top: 5px;
+	}
 	.author-book-date {
 		font-size: 12px;
 		color: #999;
 		white-space: nowrap;
-		margin-top: 5px;
-		text-align: right;
+		margin-left: auto;
 	}
-	.author-book-meta {
-		display: flex;
-		justify-content: flex-end;
-		align-items: center;
+	@media (max-width: 430px) {
+		.author-book-meta {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 3px;
+		}
+		.author-book-date { margin-left: 0; }
 	}
-	.author-category-choice {
-		display: flex;
-		flex-wrap: wrap;
-		gap: 8px 20px;
-		margin: 0 0 12px;
-		padding: 0;
-		border: 0;
-		color: #666;
-		font-size: 12px;
-	}
-	.author-category-choice label {
-		display: inline-flex;
-		align-items: center;
-		gap: 6px;
-		cursor: pointer;
-	}
-	.author-category-choice input {
-		margin: 0;
-		accent-color: #555;
-	}
-	.author-book-category {
-		margin-top: 7px;
-		color: #888;
-		font-size: 12px;
-		line-height: 1.5;
-		overflow-wrap: anywhere;
-	}
+	.author-category-choice { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 0 0 12px; padding: 0; border: 0; color: #666; font-size: 12px; }
+	.author-category-choice label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+	.author-category-choice input { margin: 0; accent-color: #555; }
+	.author-book-category { margin-top: 7px; color: #888; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; }
 
 	/* Override theme restrictions on search width */
 
@@ -155,14 +124,12 @@ permalink: /author.html
 		let authorBooks = []
 		let showCategories = false
 
-		document
-			.querySelectorAll('input[name="authorCategories"]')
-			.forEach(function (radio) {
-				radio.addEventListener("change", function () {
-					showCategories = radio.value === "with"
-					renderAuthorBooks(authorBooks)
-				})
+		document.querySelectorAll('input[name="authorCategories"]').forEach(function (radio) {
+			radio.addEventListener("change", function () {
+				showCategories = radio.value === "with"
+				renderAuthorBooks(authorBooks)
 			})
+		})
 
 		if (!author || !author.trim()) {
 			nameElement.textContent = "Author not specified"
@@ -207,54 +174,51 @@ permalink: /author.html
 
 		function renderAuthorBooks(matches) {
 			booksElement.replaceChildren()
-			const fragment = document.createDocumentFragment()
+				const fragment = document.createDocumentFragment()
 
-			matches.forEach(function (book) {
-				const item = document.createElement("div")
-				item.className = "author-book"
+				matches.forEach(function (book) {
+					const item = document.createElement("div")
+					item.className = "author-book"
 
-				const title = document.createElement("a")
-				title.className = "author-book-title"
-				title.href = book.url
-				title.textContent = book.book || book.title
+					const title = document.createElement("a")
+					title.className = "author-book-title"
+					title.href = book.url
+					title.textContent = book.book || book.title
 
-				item.appendChild(title)
+					item.appendChild(title)
 
-				if (book.turkish) {
-					const turkish = document.createElement("div")
-					turkish.className = "author-book-turkish"
-					turkish.textContent = book.turkish
-					item.appendChild(turkish)
-				}
+					const meta = document.createElement("div")
+					meta.className = "author-book-meta"
 
-				const meta = document.createElement("div")
-				meta.className = "author-book-meta"
+					if (book.turkish) {
+						const turkish = document.createElement("span")
+						turkish.className = "author-book-turkish"
+						turkish.textContent = book.turkish
+						meta.appendChild(turkish)
+					}
 
-				const date = document.createElement("span")
-				date.className = "author-book-date"
-				date.textContent = formatDate(book.date)
+					const date = document.createElement("span")
+					date.className = "author-book-date"
+					date.textContent = formatDate(book.date)
 
-				meta.appendChild(date)
-				item.appendChild(meta)
+					meta.appendChild(date)
+					item.appendChild(meta)
+					if (showCategories) {
+						const category = document.createElement("div")
+						category.className = "author-book-category"
+						const value = Array.isArray(book.category)
+							? book.category.filter(Boolean).join(", ").trim()
+							: String(book.category || "").trim()
+						category.textContent = value || "Category: –"
+						item.appendChild(category)
+					}
+					fragment.appendChild(item)
+				})
 
-				if (showCategories) {
-					const category = document.createElement("div")
-					category.className = "author-book-category"
-					const value = Array.isArray(book.category)
-						? book.category.filter(Boolean).join(", ").trim()
-						: String(book.category || "").trim()
-					category.textContent = value || "Category: –"
-					item.appendChild(category)
-				}
-				fragment.appendChild(item)
-			})
-
-			booksElement.appendChild(fragment)
+				booksElement.appendChild(fragment)
 		}
 
-		fetch("{{ '/search10.json' | relative_url }}?v=categories-2", {
-			cache: "no-store",
-		})
+		fetch("{{ '/search.json' | relative_url }}?v=categories-2", { cache: "no-store" })
 			.then(function (response) {
 				if (!response.ok) {
 					throw new Error("Unable to load books")
