@@ -34,6 +34,7 @@ permalink: /search10.html
 		max-width: 760px;
 		margin: 0 auto 40px;
 		padding: 0 12px;
+		box-sizing: border-box;
 	}
 
 	.book-search * {
@@ -47,6 +48,7 @@ permalink: /search10.html
 	#bookSearchInput {
 		display: block;
 		width: 100%;
+		max-width: 100%;
 		min-width: 0;
 		padding: 14px 16px;
 		border: 1px solid #d8d8d8;
@@ -120,6 +122,19 @@ permalink: /search10.html
 		line-height: 1.5;
 	}
 
+	.search-author {
+		min-width: 0;
+	}
+
+	.search-author-link {
+		color: inherit;
+		text-decoration: none;
+	}
+
+	.search-author-link:hover {
+		text-decoration: underline;
+	}
+
 	.search-date {
 		color: #999999;
 		white-space: nowrap;
@@ -190,6 +205,7 @@ permalink: /search10.html
 			const item = document.createElement("div")
 			item.className = "search-item"
 
+			// Book title
 			const title = document.createElement("a")
 			title.className = "search-title"
 			title.href = book.url
@@ -197,6 +213,7 @@ permalink: /search10.html
 
 			item.appendChild(title)
 
+			// Turkish title
 			if (book.turkish && book.turkish.trim() !== "") {
 				const turkish = document.createElement("p")
 				turkish.className = "search-turkish"
@@ -205,17 +222,45 @@ permalink: /search10.html
 				item.appendChild(turkish)
 			}
 
+			// Author and date
 			const meta = document.createElement("div")
 			meta.className = "search-meta"
 
-			const author = document.createElement("span")
-			author.textContent = book.author || ""
+			const authorContainer = document.createElement("span")
+			authorContainer.className = "search-author"
+
+			// Create a separate link for each author
+			const authors = String(book.author || "")
+				.split(",")
+				.map(function (name) {
+					return name.trim()
+				})
+				.filter(function (name) {
+					return name.length > 0
+				})
+
+			authors.forEach(function (authorName, index) {
+				if (index > 0) {
+					authorContainer.appendChild(document.createTextNode(", "))
+				}
+
+				const authorLink = document.createElement("a")
+				authorLink.className = "search-author-link"
+
+				authorLink.href =
+					"{{ '/author.html' | relative_url }}?name=" +
+					encodeURIComponent(authorName)
+
+				authorLink.textContent = authorName
+
+				authorContainer.appendChild(authorLink)
+			})
 
 			const date = document.createElement("span")
 			date.className = "search-date"
 			date.textContent = formatDate(book.date)
 
-			meta.appendChild(author)
+			meta.appendChild(authorContainer)
 			meta.appendChild(date)
 
 			item.appendChild(meta)
@@ -246,7 +291,7 @@ permalink: /search10.html
 			})
 
 			matches.sort(function (a, b) {
-				return b.date.localeCompare(a.date)
+				return (b.date || "").localeCompare(a.date || "")
 			})
 
 			status.textContent =
