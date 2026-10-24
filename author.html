@@ -1,0 +1,183 @@
+---
+layout: page-16
+title: Author
+published: true
+permalink: /author.html
+---
+
+<div class="author-archive">
+	<h1 id="authorName"></h1>
+	<p
+		id="authorCount"
+		class="author-count"
+	></p>
+	<div id="authorBooks"></div>
+</div>
+
+<style>
+	.author-archive {
+		max-width: 760px;
+		margin: 0 auto;
+	}
+
+	.author-archive h1 {
+		font-size: 26px;
+		font-weight: 600;
+		margin-bottom: 8px;
+	}
+
+	.author-count {
+		font-size: 13px;
+		color: #777;
+		margin-bottom: 28px;
+	}
+
+	.author-book {
+		padding: 15px 0;
+		border-bottom: 1px solid #eee;
+	}
+
+	.author-book-title {
+		display: block;
+		color: #222;
+		font-size: 14px;
+		font-weight: 600;
+		text-decoration: none;
+	}
+
+	.author-book-title:hover {
+		text-decoration: underline;
+	}
+
+	.author-book-turkish {
+		font-size: 13px;
+		color: #777;
+		margin-top: 3px;
+	}
+
+	.author-book-date {
+		font-size: 12px;
+		color: #888;
+		margin-top: 5px;
+	}
+</style>
+
+<script>
+	;(function () {
+		"use strict"
+
+		const params = new URLSearchParams(window.location.search)
+		const author = params.get("name")
+
+		const nameElement = document.getElementById("authorName")
+		const countElement = document.getElementById("authorCount")
+		const booksElement = document.getElementById("authorBooks")
+
+		if (!author || !author.trim()) {
+			nameElement.textContent = "Author not specified"
+			return
+		}
+
+		nameElement.textContent = author
+		countElement.textContent = "Loading books..."
+
+		function normalizeText(value) {
+			return String(value || "")
+				.toLocaleLowerCase("tr-TR")
+				.replace(/ı/g, "i")
+				.replace(/ç/g, "c")
+				.replace(/ğ/g, "g")
+				.replace(/ö/g, "o")
+				.replace(/ş/g, "s")
+				.replace(/ü/g, "u")
+				.normalize("NFD")
+				.replace(/[\u0300-\u036f]/g, "")
+		}
+
+		function formatDate(value) {
+			if (!value) return ""
+
+			const parts = value.split("-")
+
+			if (parts.length !== 3) return value
+
+			const date = new Date(
+				Number(parts[0]),
+				Number(parts[1]) - 1,
+				Number(parts[2]),
+			)
+
+			return date.toLocaleDateString("en-GB", {
+				day: "numeric",
+				month: "short",
+				year: "numeric",
+			})
+		}
+
+		fetch("{{ '/search10.json' | relative_url }}")
+			.then(function (response) {
+				if (!response.ok) {
+					throw new Error("Unable to load books")
+				}
+
+				return response.json()
+			})
+			.then(function (books) {
+				const selectedAuthor = normalizeText(author.trim())
+
+				const matches = books.filter(function (book) {
+					return String(book.author || "")
+						.split(/\s*,\s*/)
+						.some(function (name) {
+							return normalizeText(name.trim()) === selectedAuthor
+						})
+				})
+
+				matches.sort(function (a, b) {
+					return (b.date || "").localeCompare(a.date || "")
+				})
+
+				countElement.textContent =
+					matches.length + (matches.length === 1 ? " book" : " books")
+
+				if (matches.length === 0) {
+					booksElement.textContent = "No books found for this author."
+					return
+				}
+
+				const fragment = document.createDocumentFragment()
+
+				matches.forEach(function (book) {
+					const item = document.createElement("div")
+					item.className = "author-book"
+
+					const title = document.createElement("a")
+					title.className = "author-book-title"
+					title.href = book.url
+					title.textContent = book.book || book.title
+
+					item.appendChild(title)
+
+					if (book.turkish) {
+						const turkish = document.createElement("div")
+						turkish.className = "author-book-turkish"
+						turkish.textContent = book.turkish
+						item.appendChild(turkish)
+					}
+
+					const date = document.createElement("div")
+					date.className = "author-book-date"
+					date.textContent = formatDate(book.date)
+
+					item.appendChild(date)
+					fragment.appendChild(item)
+				})
+
+				booksElement.appendChild(fragment)
+			})
+			.catch(function (error) {
+				console.error(error)
+				countElement.textContent = "Unable to load books."
+			})
+	})()
+</script>
