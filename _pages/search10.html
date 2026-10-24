@@ -276,7 +276,7 @@ permalink: /search10.html
 
 		status.textContent = "Loading books..."
 
-		fetch("{{ '/search1.json' | relative_url }}")
+		fetch("{{ '/search10.json' | relative_url }}")
 			.then(function (response) {
 				if (!response.ok) {
 					throw new Error("Unable to load search index")
