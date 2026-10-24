@@ -1,7 +1,7 @@
 ---
 layout: page-9
 title: "to be updated - short list"
-published: true
+published: false
 ---
 
 {% assign posts_data = site.posts %}
