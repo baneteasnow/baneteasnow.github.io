@@ -2,7 +2,7 @@
 layout: page-7
 title: bookmarks
 last_modified_at: 2022-07-01
-published: true
+published: false
 ---
 
 _to be updated_

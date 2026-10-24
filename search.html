@@ -589,10 +589,22 @@ permalink: /search.html
 			if (showCategories) {
 				const category = document.createElement("div")
 				category.className = "search-category"
-				const value = Array.isArray(book.category)
-					? book.category.filter(Boolean).join(", ").trim()
-					: String(book.category || "").trim()
-				category.textContent = value || "Category: –"
+				const tags = (Array.isArray(book.tag) ? book.tag : String(book.tag || "").split(","))
+					.map(function (tag) { return String(tag).trim() })
+					.filter(Boolean)
+				if (tags.length) {
+					tags.forEach(function (tag, index) {
+						if (index > 0) category.appendChild(document.createTextNode(", "))
+						const link = document.createElement("a")
+						link.href = "{{ '/category.html' | relative_url }}?tag=" + encodeURIComponent(tag)
+						link.textContent = tag
+						link.style.color = "inherit"
+						link.style.textDecoration = "underline"
+						category.appendChild(link)
+					})
+				} else {
+					category.textContent = "Category: –"
+				}
 				item.appendChild(category)
 			}
 
