@@ -1,0 +1,235 @@
+---
+layout: page-16
+title: Essays
+published: true
+permalink: /substack.html
+---
+
+<section
+	class="essay-archive"
+	aria-label="Essays archive"
+>
+	<p class="essay-intro">
+		Longer thoughts on books, ideas, and the questions they raise.
+	</p>
+	<div class="essay-controls">
+		<label
+			class="essay-search-label"
+			for="essaySearch"
+			>Search essays</label
+		>
+		<input
+			id="essaySearch"
+			type="search"
+			placeholder="Search by title or topic..."
+			autocomplete="off"
+		/>
+	</div>
+	<p
+		id="essayStatus"
+		class="essay-status"
+		role="status"
+		aria-live="polite"
+	>
+		Loading essays...
+	</p>
+	<div
+		id="essayList"
+		class="essay-list"
+	></div>
+</section>
+
+<style>
+	.essay-archive {
+		width: min(480px, calc(100vw - 40px));
+		max-width: none;
+		position: relative;
+		left: 50%;
+		transform: translateX(-50%);
+		box-sizing: border-box;
+		margin-bottom: 40px;
+	}
+	.essay-archive,
+	.essay-archive * {
+		box-sizing: border-box;
+	}
+	.essay-intro {
+		color: #666;
+		font-size: 14px;
+		line-height: 1.7;
+		margin: 0 0 24px;
+	}
+	.essay-search-label {
+		display: block;
+		color: #666;
+		font-size: 12px;
+		margin-bottom: 7px;
+	}
+	.essay-controls input {
+		display: block;
+		width: 100%;
+		min-width: 0;
+		padding: 13px 15px;
+		border: 1px solid #d8d8d8;
+		border-radius: 8px;
+		background: white;
+		color: #222;
+		font: inherit;
+		font-size: 16px;
+	}
+	.essay-controls input:focus {
+		outline: 1px solid #777;
+	}
+	.essay-status {
+		margin: 18px 0 8px;
+		color: #888;
+		font-size: 12px;
+	}
+	.essay-item {
+		padding: 20px 4px;
+		border-bottom: 1px solid #eee;
+	}
+	.essay-title {
+		display: block;
+		color: #222;
+		font-size: 15px;
+		font-weight: 600;
+		line-height: 1.5;
+		text-decoration: none;
+		overflow-wrap: anywhere;
+	}
+	.essay-title:hover {
+		text-decoration: underline;
+	}
+	.essay-description {
+		margin: 7px 0;
+		font-size: 13px;
+		line-height: 1.7;
+		color: #666;
+	}
+	.essay-meta {
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		gap: 4px 12px;
+		margin-top: 9px;
+		font-size: 12px;
+		color: #999;
+	}
+	@media (max-width: 600px) {
+		body:has(.essay-archive) .w {
+			width: 100% !important;
+			max-width: 100% !important;
+			min-width: 0 !important;
+			padding-left: 20px !important;
+			padding-right: 20px !important;
+			box-sizing: border-box !important;
+		}
+		.essay-archive {
+			position: static;
+			left: auto;
+			transform: none;
+			width: 100%;
+		}
+	}
+</style>
+
+<script>
+	;(function () {
+		"use strict"
+		const search = document.getElementById("essaySearch")
+		const list = document.getElementById("essayList")
+		const status = document.getElementById("essayStatus")
+		let essays = []
+
+		function normalized(value) {
+			return String(value || "")
+				.toLocaleLowerCase("tr-TR")
+				.replace(/ı/g, "i")
+				.replace(/ç/g, "c")
+				.replace(/ğ/g, "g")
+				.replace(/ö/g, "o")
+				.replace(/ş/g, "s")
+				.replace(/ü/g, "u")
+				.normalize("NFD")
+				.replace(/[\u0300-\u036f]/g, "")
+		}
+		function displayDate(value) {
+			if (!/^\d{4}-\d{2}-\d{2}$/.test(String(value || ""))) return value || ""
+			const [year, month, day] = value.split("-").map(Number)
+			const date = new Date(year, month - 1, day)
+			return date.toLocaleDateString("en-GB", {
+				day: "numeric",
+				month: "short",
+				year: "numeric",
+			})
+		}
+		function render() {
+			list.replaceChildren()
+			const query = normalized(search.value.trim())
+			const terms = query.split(/\s+/).filter(Boolean)
+			const matches = essays.filter((item) => {
+				const content = normalized(
+					[item.title, item.description, item.category].join(" "),
+				)
+				return terms.every((term) => content.includes(term))
+			})
+			status.textContent = !essays.length
+				? "No essays published yet."
+				: !matches.length
+					? "No essays found."
+					: matches.length + (matches.length === 1 ? " essay" : " essays")
+			for (const essay of matches) {
+				const item = document.createElement("article")
+				item.className = "essay-item"
+				const title = document.createElement("a")
+				title.className = "essay-title"
+				title.href = essay.url
+				title.textContent = essay.title || "Untitled essay"
+				title.rel = "noopener noreferrer"
+				if (/^https?:\/\//.test(essay.url || "")) title.target = "_blank"
+				item.appendChild(title)
+				if (essay.description) {
+					const desc = document.createElement("p")
+					desc.className = "essay-description"
+					desc.textContent = essay.description
+					item.appendChild(desc)
+				}
+				const meta = document.createElement("div")
+				meta.className = "essay-meta"
+				if (essay.category) {
+					const category = document.createElement("span")
+					category.textContent = essay.category
+					meta.appendChild(category)
+				}
+				if (essay.date) {
+					const date = document.createElement("span")
+					date.textContent = displayDate(essay.date)
+					meta.appendChild(date)
+				}
+				item.appendChild(meta)
+				list.appendChild(item)
+			}
+		}
+		search.addEventListener("input", render)
+		fetch("{{ '/substack.json' | relative_url }}", { cache: "no-store" })
+			.then((response) => {
+				if (!response.ok) throw new Error("Unable to load essays")
+				return response.json()
+			})
+			.then((data) => {
+				if (!Array.isArray(data)) throw new Error("Invalid essays index")
+				essays = data.filter(
+					(item) => item && typeof item === "object" && item.url,
+				)
+				essays.sort((a, b) =>
+					String(b.date || "").localeCompare(String(a.date || "")),
+				)
+				render()
+			})
+			.catch((error) => {
+				console.error(error)
+				status.textContent = "Unable to load essays."
+			})
+	})()
+</script>
