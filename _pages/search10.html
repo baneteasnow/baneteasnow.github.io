@@ -5,7 +5,10 @@ published: true
 permalink: /search10.html
 ---
 
-<div class="book-search">
+<div
+	class="book-search"
+	id="bookSearch"
+>
 	<div class="search-box">
 		<input
 			type="search"
@@ -15,6 +18,17 @@ permalink: /search10.html
 			aria-label="Search books"
 		/>
 	</div>
+
+	<p class="search-help">
+		Search for a book or author, or click
+		<button
+			type="button"
+			id="showAllButton"
+			class="search-toggle"
+		>
+			Show All</button
+		>.
+	</p>
 
 	<div
 		id="searchStatus"
@@ -29,28 +43,49 @@ permalink: /search10.html
 </div>
 
 <style>
+	/*
+	 * Main search container
+	 *
+	 * The negative-margin technique allows the search interface
+	 * to extend beyond a narrow parent container in page-16.
+	 */
+
 	.book-search {
-		width: 100%;
-		max-width: 760px;
-		margin: 0 auto 40px;
-		padding: 0 12px;
+		display: block !important;
+		position: relative;
+		left: 50%;
+		transform: translateX(-50%);
+		width: min(760px, calc(100vw - 40px)) !important;
+		max-width: none !important;
+		min-width: 0 !important;
+		margin: 0 0 40px !important;
+		padding: 0 !important;
 		box-sizing: border-box;
 	}
 
+	.book-search,
 	.book-search * {
 		box-sizing: border-box;
 	}
 
-	.search-box {
-		width: 100%;
+	/* Search input */
+
+	.book-search .search-box {
+		display: block !important;
+		width: 100% !important;
+		max-width: none !important;
+		min-width: 0 !important;
+		margin: 0 !important;
+		padding: 0 !important;
 	}
 
-	#bookSearchInput {
-		display: block;
-		width: 100%;
-		max-width: 100%;
-		min-width: 0;
-		padding: 14px 16px;
+	.book-search #bookSearchInput {
+		display: block !important;
+		width: 100% !important;
+		max-width: none !important;
+		min-width: 0 !important;
+		height: auto !important;
+		padding: 14px 16px !important;
 		border: 1px solid #d8d8d8;
 		border-radius: 8px;
 		background: #ffffff;
@@ -63,35 +98,89 @@ permalink: /search10.html
 		appearance: none;
 	}
 
-	#bookSearchInput:focus {
+	.book-search #bookSearchInput:focus {
 		border-color: #777777;
 	}
 
-	#bookSearchInput::placeholder {
+	.book-search #bookSearchInput::placeholder {
 		color: #999999;
+		opacity: 1;
 	}
 
-	.search-status {
+	/* Show All / Hide All */
+
+	.book-search .search-help {
+		margin: 10px 0 0;
+		color: #888888;
+		font-size: 12px;
+		line-height: 1.6;
+	}
+
+	.book-search .search-toggle {
+		display: inline !important;
+		width: auto !important;
+		min-width: 0 !important;
+		height: auto !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		border: 0 !important;
+		border-radius: 0 !important;
+		background: transparent !important;
+		box-shadow: none !important;
+		color: #444444 !important;
+		font-family: inherit;
+		font-size: inherit !important;
+		font-weight: 600;
+		line-height: inherit !important;
+		text-decoration: underline;
+		text-underline-offset: 2px;
+		cursor: pointer;
+		vertical-align: baseline;
+		-webkit-appearance: none;
+		appearance: none;
+	}
+
+	.book-search .search-toggle:hover {
+		color: #000000 !important;
+	}
+
+	.book-search .search-toggle:focus-visible {
+		outline: 2px solid #777777;
+		outline-offset: 3px;
+	}
+
+	/* Status */
+
+	.book-search .search-status {
 		margin: 20px 0 10px;
 		color: #888888;
 		font-size: 12px;
+		line-height: 1.5;
 	}
 
-	.search-results {
+	.book-search .search-status:empty {
+		display: none;
+	}
+
+	/* Results */
+
+	.book-search .search-results {
 		width: 100%;
 	}
 
-	.search-item {
+	.book-search .search-item {
 		padding: 18px 10px;
 		border-bottom: 1px solid #eeeeee;
 		transition: background 0.15s ease;
 	}
 
-	.search-item:hover {
+	.book-search .search-item:hover {
 		background: #fafafa;
 	}
 
-	.search-title {
+	/* Book title */
+
+	.book-search .search-title {
 		display: block;
 		margin: 0 0 5px;
 		color: #222222;
@@ -99,20 +188,26 @@ permalink: /search10.html
 		font-weight: 600;
 		line-height: 1.5;
 		text-decoration: none;
+		overflow-wrap: anywhere;
 	}
 
-	.search-title:hover {
+	.book-search .search-title:hover {
 		text-decoration: underline;
 	}
 
-	.search-turkish {
+	/* Turkish title */
+
+	.book-search .search-turkish {
 		margin: 0 0 8px;
 		color: #888888;
 		font-size: 13px;
 		line-height: 1.5;
+		overflow-wrap: anywhere;
 	}
 
-	.search-meta {
+	/* Author and date */
+
+	.book-search .search-meta {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
@@ -122,37 +217,52 @@ permalink: /search10.html
 		line-height: 1.5;
 	}
 
-	.search-author {
+	.book-search .search-author {
 		min-width: 0;
+		overflow-wrap: anywhere;
 	}
 
-	.search-author-link {
+	.book-search .search-author-link {
 		color: inherit;
 		text-decoration: none;
 	}
 
-	.search-author-link:hover {
+	.book-search .search-author-link:hover {
 		text-decoration: underline;
 	}
 
-	.search-date {
+	.book-search .search-date {
 		color: #999999;
 		white-space: nowrap;
 	}
 
+	/* Highlight matching words */
+
+	.book-search .search-highlight {
+		background: transparent;
+		color: inherit;
+		font-weight: 700;
+	}
+
+	/* Mobile */
+
 	@media (max-width: 430px) {
 		.book-search {
-			padding: 0 4px;
+			width: calc(100vw - 28px) !important;
 		}
 
-		.search-item {
+		.book-search .search-item {
 			padding: 16px 4px;
 		}
 
-		.search-meta {
+		.book-search .search-meta {
 			flex-direction: column;
 			align-items: flex-start;
 			gap: 3px;
+		}
+
+		.book-search #bookSearchInput {
+			font-size: 16px;
 		}
 	}
 </style>
@@ -164,9 +274,16 @@ permalink: /search10.html
 		const input = document.getElementById("bookSearchInput")
 		const resultsContainer = document.getElementById("searchResults")
 		const status = document.getElementById("searchStatus")
+		const showAllButton = document.getElementById("showAllButton")
 
 		let books = []
-		let searchTimer
+		let searchTimer = null
+		let isLoaded = false
+		let showAll = false
+
+		/*
+		 * Normalize Turkish characters and accents.
+		 */
 
 		function normalizeText(value) {
 			return String(value || "")
@@ -181,6 +298,10 @@ permalink: /search10.html
 				.replace(/[\u0300-\u036f]/g, "")
 		}
 
+		/*
+		 * Date formatting
+		 */
+
 		function formatDate(value) {
 			if (!value) return ""
 
@@ -194,6 +315,10 @@ permalink: /search10.html
 				Number(parts[2]),
 			)
 
+			if (Number.isNaN(date.getTime())) {
+				return value
+			}
+
 			return date.toLocaleDateString("en-GB", {
 				day: "2-digit",
 				month: "short",
@@ -201,35 +326,134 @@ permalink: /search10.html
 			})
 		}
 
-		function createResult(book) {
+		/*
+		 * Highlight matching text.
+		 *
+		 * This method compares normalized characters while
+		 * preserving the original spelling in the displayed text.
+		 *
+		 * It uses DOM text nodes rather than inserting raw HTML.
+		 */
+
+		function appendHighlightedText(element, value, query) {
+			const original = String(value || "")
+			const normalizedQuery = normalizeText(query).trim()
+
+			if (!original || !normalizedQuery) {
+				element.textContent = original
+				return
+			}
+
+			const terms = normalizedQuery.split(/\s+/).filter(Boolean)
+
+			if (terms.length === 0) {
+				element.textContent = original
+				return
+			}
+
+			/*
+			 * Build a normalized string and map its characters
+			 * back to positions in the original string.
+			 */
+
+			let normalized = ""
+			const positions = []
+
+			for (let i = 0; i < original.length; i++) {
+				const character = original[i]
+				const converted = normalizeText(character)
+
+				for (let j = 0; j < converted.length; j++) {
+					normalized += converted[j]
+					positions.push(i)
+				}
+			}
+
+			const highlighted = new Array(original.length).fill(false)
+
+			terms.forEach(function (term) {
+				let searchFrom = 0
+
+				while (searchFrom < normalized.length) {
+					const matchIndex = normalized.indexOf(term, searchFrom)
+
+					if (matchIndex === -1) break
+
+					const start = positions[matchIndex]
+					const end = positions[matchIndex + term.length - 1]
+
+					if (start !== undefined && end !== undefined) {
+						for (let i = start; i <= end; i++) {
+							highlighted[i] = true
+						}
+					}
+
+					searchFrom = matchIndex + term.length
+				}
+			})
+
+			let position = 0
+
+			while (position < original.length) {
+				const shouldHighlight = highlighted[position]
+				let end = position + 1
+
+				while (end < original.length && highlighted[end] === shouldHighlight) {
+					end++
+				}
+
+				const text = original.slice(position, end)
+
+				if (shouldHighlight) {
+					const mark = document.createElement("mark")
+					mark.className = "search-highlight"
+					mark.textContent = text
+					element.appendChild(mark)
+				} else {
+					element.appendChild(document.createTextNode(text))
+				}
+
+				position = end
+			}
+		}
+
+		/*
+		 * Create a result row.
+		 */
+
+		function createResult(book, query) {
 			const item = document.createElement("div")
 			item.className = "search-item"
 
 			// Book title
+
 			const title = document.createElement("a")
 			title.className = "search-title"
 			title.href = book.url
-			title.textContent = book.book || book.title
+
+			appendHighlightedText(title, book.book || book.title, query)
 
 			item.appendChild(title)
 
 			// Turkish title
-			if (book.turkish && book.turkish.trim() !== "") {
+
+			if (book.turkish && String(book.turkish).trim() !== "") {
 				const turkish = document.createElement("p")
 				turkish.className = "search-turkish"
-				turkish.textContent = book.turkish
+
+				appendHighlightedText(turkish, book.turkish, query)
 
 				item.appendChild(turkish)
 			}
 
 			// Author and date
+
 			const meta = document.createElement("div")
 			meta.className = "search-meta"
 
 			const authorContainer = document.createElement("span")
 			authorContainer.className = "search-author"
 
-			// Create a separate link for each author
 			const authors = String(book.author || "")
 				.split(",")
 				.map(function (name) {
@@ -251,7 +475,7 @@ permalink: /search10.html
 					"{{ '/author.html' | relative_url }}?name=" +
 					encodeURIComponent(authorName)
 
-				authorLink.textContent = authorName
+				appendHighlightedText(authorLink, authorName, query)
 
 				authorContainer.appendChild(authorLink)
 			})
@@ -268,15 +492,93 @@ permalink: /search10.html
 			return item
 		}
 
-		function searchBooks(query) {
-			const normalizedQuery = normalizeText(query.trim())
+		/*
+		 * Sort by original publication date, newest first.
+		 */
 
-			resultsContainer.innerHTML = ""
+		function sortByDate(items) {
+			return items.sort(function (a, b) {
+				return String(b.date || "").localeCompare(String(a.date || ""))
+			})
+		}
 
-			if (!normalizedQuery) {
-				status.textContent = ""
+		/*
+		 * Update the URL without reloading the page.
+		 */
+
+		function updateSearchURL(query) {
+			const url = new URL(window.location.href)
+			const value = query.trim()
+
+			if (value) {
+				url.searchParams.set("q", value)
+			} else {
+				url.searchParams.delete("q")
+			}
+
+			window.history.replaceState(
+				null,
+				"",
+				url.pathname + url.search + url.hash,
+			)
+		}
+
+		/*
+		 * Update Show All / Hide All button.
+		 */
+
+		function updateShowAllButton() {
+			showAllButton.textContent = showAll ? "Hide All" : "Show All"
+
+			showAllButton.setAttribute("aria-expanded", String(showAll))
+		}
+
+		/*
+		 * Render a list of books.
+		 */
+
+		function renderResults(matches, query, allMode) {
+			resultsContainer.replaceChildren()
+
+			status.textContent =
+				matches.length + (matches.length === 1 ? " result" : " results")
+
+			if (matches.length === 0) {
+				status.textContent = "No results found."
 				return
 			}
+
+			const fragment = document.createDocumentFragment()
+
+			matches.forEach(function (book) {
+				fragment.appendChild(createResult(book, allMode ? "" : query))
+			})
+
+			resultsContainer.appendChild(fragment)
+		}
+
+		/*
+		 * Main search function.
+		 */
+
+		function searchBooks(query) {
+			if (!isLoaded) return
+
+			const normalizedQuery = normalizeText(query.trim())
+
+			if (!normalizedQuery) {
+				if (showAll) {
+					renderResults(sortByDate(books.slice()), "", true)
+				} else {
+					resultsContainer.replaceChildren()
+					status.textContent = ""
+				}
+
+				return
+			}
+
+			showAll = false
+			updateShowAllButton()
 
 			const terms = normalizedQuery.split(/\s+/)
 
@@ -290,36 +592,90 @@ permalink: /search10.html
 				})
 			})
 
-			matches.sort(function (a, b) {
-				return (b.date || "").localeCompare(a.date || "")
-			})
+			sortByDate(matches)
 
-			status.textContent =
-				matches.length + (matches.length === 1 ? " result" : " results")
-
-			if (matches.length === 0) {
-				status.textContent = "No results found."
-				return
-			}
-
-			const fragment = document.createDocumentFragment()
-
-			matches.forEach(function (book) {
-				fragment.appendChild(createResult(book))
-			})
-
-			resultsContainer.appendChild(fragment)
+			renderResults(matches, query, false)
 		}
+
+		/*
+		 * Search input
+		 */
 
 		input.addEventListener("input", function () {
 			clearTimeout(searchTimer)
+
+			showAll = false
+			updateShowAllButton()
+
+			updateSearchURL(input.value)
 
 			searchTimer = setTimeout(function () {
 				searchBooks(input.value)
 			}, 150)
 		})
 
+		/*
+		 * Show All / Hide All
+		 */
+
+		showAllButton.addEventListener("click", function () {
+			clearTimeout(searchTimer)
+
+			if (showAll) {
+				showAll = false
+				input.value = ""
+				updateSearchURL("")
+
+				resultsContainer.replaceChildren()
+				status.textContent = ""
+			} else {
+				showAll = true
+				input.value = ""
+				updateSearchURL("")
+
+				if (isLoaded) {
+					renderResults(sortByDate(books.slice()), "", true)
+				}
+			}
+
+			updateShowAllButton()
+		})
+
+		/*
+		 * Restore search from URL.
+		 */
+
+		const initialParams = new URLSearchParams(window.location.search)
+
+		const initialQuery = initialParams.get("q") || ""
+
+		if (initialQuery.trim()) {
+			input.value = initialQuery
+		}
+
+		/*
+		 * Restore the visible search when navigating
+		 * through browser history.
+		 */
+
+		window.addEventListener("popstate", function () {
+			clearTimeout(searchTimer)
+
+			const params = new URLSearchParams(window.location.search)
+
+			input.value = params.get("q") || ""
+			showAll = false
+
+			updateShowAllButton()
+			searchBooks(input.value)
+		})
+
+		/*
+		 * Load the search index.
+		 */
+
 		status.textContent = "Loading books..."
+		updateShowAllButton()
 
 		fetch("{{ '/search10.json' | relative_url }}")
 			.then(function (response) {
@@ -330,11 +686,18 @@ permalink: /search10.html
 				return response.json()
 			})
 			.then(function (data) {
+				if (!Array.isArray(data)) {
+					throw new Error("Invalid search index format")
+				}
+
 				books = data
+				isLoaded = true
 
 				status.textContent = ""
 
-				if (input.value.trim()) {
+				if (showAll) {
+					renderResults(sortByDate(books.slice()), "", true)
+				} else if (input.value.trim()) {
 					searchBooks(input.value)
 				}
 			})
