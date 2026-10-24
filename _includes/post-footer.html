@@ -30,8 +30,11 @@
       {% endif %}
       <div class="book-details-links">
         {% if page.goodreads and page.goodreads != "" %}
-          <a href="{{ page.goodreads }}" target="_blank" rel="noopener noreferrer nofollow">Goodreads ↗</a>
+          <a href="{{ page.goodreads }}" target="_blank" rel="noopener noreferrer nofollow">Goodreads</a>
         {% endif %}
+        {% assign search_book_title = page.kitap | default: page.title %}
+        {% assign google_query = search_book_title | append: " " | append: page.yazar | url_encode %}
+        <a href="https://www.google.com/search?q={{ google_query }}" target="_blank" rel="noopener noreferrer nofollow">Google Search</a>
         {% if page.reread == "yes" %}
           <a href="{{ '/reread.html' | relative_url }}">Worth rereading</a>
         {% endif %}
