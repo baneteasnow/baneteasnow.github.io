@@ -1,7 +1,7 @@
 ---
 layout: page-16
 title: Search
-published: true
+published: false
 permalink: /search10.html
 ---
 
@@ -19,9 +19,27 @@ permalink: /search10.html
 		/>
 	</div>
 
-	<fieldset class="category-choice" aria-label="Category display">
-		<label><input type="radio" name="searchCategories" value="without" checked /> Without categories</label>
-		<label><input type="radio" name="searchCategories" value="with" /> With categories</label>
+	<fieldset
+		class="category-choice"
+		aria-label="Category display"
+	>
+		<label
+			><input
+				type="radio"
+				name="searchCategories"
+				value="without"
+				checked
+			/>
+			Without categories</label
+		>
+		<label
+			><input
+				type="radio"
+				name="searchCategories"
+				value="with"
+			/>
+			With categories</label
+		>
 	</fieldset>
 
 	<p
@@ -126,9 +144,23 @@ permalink: /search10.html
 		color: #666;
 		font-size: 12px;
 	}
-	.book-search .category-choice label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
-	.book-search .category-choice input { margin: 0; accent-color: #555; }
-	.book-search .search-category { margin: 7px 0 0; color: #888; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; }
+	.book-search .category-choice label {
+		display: inline-flex;
+		align-items: center;
+		gap: 6px;
+		cursor: pointer;
+	}
+	.book-search .category-choice input {
+		margin: 0;
+		accent-color: #555;
+	}
+	.book-search .search-category {
+		margin: 7px 0 0;
+		color: #888;
+		font-size: 12px;
+		line-height: 1.5;
+		overflow-wrap: anywhere;
+	}
 
 	/* Show All / Hide All */
 
@@ -683,12 +715,14 @@ permalink: /search10.html
 			renderResults(matches, query, false)
 		}
 
-		document.querySelectorAll('input[name="searchCategories"]').forEach(function (radio) {
-			radio.addEventListener("change", function () {
-				showCategories = radio.value === "with"
-				searchBooks(input.value)
+		document
+			.querySelectorAll('input[name="searchCategories"]')
+			.forEach(function (radio) {
+				radio.addEventListener("change", function () {
+					showCategories = radio.value === "with"
+					searchBooks(input.value)
+				})
 			})
-		})
 
 		/*
 		 * Search input
@@ -770,7 +804,9 @@ permalink: /search10.html
 		status.textContent = "Loading books..."
 		updateShowAllButton()
 
-		fetch("{{ '/search10.json' | relative_url }}?v=categories-2", { cache: "no-store" })
+		fetch("{{ '/search10.json' | relative_url }}?v=categories-2", {
+			cache: "no-store",
+		})
 			.then(function (response) {
 				if (!response.ok) {
 					throw new Error("Unable to load search index")

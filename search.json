@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /search10.json
+permalink: /search.json
 ---
 [
 {% assign sorted_posts = site.posts | sort: "posted" | reverse %}

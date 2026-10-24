@@ -19,9 +19,27 @@ permalink: /search.html
 		/>
 	</div>
 
-	<fieldset class="category-choice" aria-label="Category display">
-		<label><input type="radio" name="searchCategories" value="without" checked /> Without categories</label>
-		<label><input type="radio" name="searchCategories" value="with" /> With categories</label>
+	<fieldset
+		class="category-choice"
+		aria-label="Category display"
+	>
+		<label
+			><input
+				type="radio"
+				name="searchCategories"
+				value="without"
+				checked
+			/>
+			Without categories</label
+		>
+		<label
+			><input
+				type="radio"
+				name="searchCategories"
+				value="with"
+			/>
+			With categories</label
+		>
 	</fieldset>
 
 	<p
@@ -126,9 +144,23 @@ permalink: /search.html
 		color: #666;
 		font-size: 12px;
 	}
-	.book-search .category-choice label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
-	.book-search .category-choice input { margin: 0; accent-color: #555; }
-	.book-search .search-category { margin: 7px 0 0; color: #888; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; }
+	.book-search .category-choice label {
+		display: inline-flex;
+		align-items: center;
+		gap: 6px;
+		cursor: pointer;
+	}
+	.book-search .category-choice input {
+		margin: 0;
+		accent-color: #555;
+	}
+	.book-search .search-category {
+		margin: 7px 0 0;
+		color: #888;
+		font-size: 12px;
+		line-height: 1.5;
+		overflow-wrap: anywhere;
+	}
 
 	/* Show All / Hide All */
 
@@ -270,7 +302,7 @@ permalink: /search.html
 	/* Mobile */
 
 	@media (max-width: 430px) {
-		/* Search10 sayfasının ana kapsayıcısı */
+		/* Search sayfasının ana kapsayıcısı */
 		body:has(#bookSearch) .w {
 			width: 100% !important;
 			max-width: 100% !important;
@@ -314,7 +346,7 @@ permalink: /search.html
 			font-size: 16px;
 		}
 	}
-	/* Prevent horizontal overflow on Search10 */
+	/* Prevent horizontal overflow on Search */
 
 	@media (max-width: 600px) {
 		body:has(#bookSearch) .w {
@@ -683,12 +715,14 @@ permalink: /search.html
 			renderResults(matches, query, false)
 		}
 
-		document.querySelectorAll('input[name="searchCategories"]').forEach(function (radio) {
-			radio.addEventListener("change", function () {
-				showCategories = radio.value === "with"
-				searchBooks(input.value)
+		document
+			.querySelectorAll('input[name="searchCategories"]')
+			.forEach(function (radio) {
+				radio.addEventListener("change", function () {
+					showCategories = radio.value === "with"
+					searchBooks(input.value)
+				})
 			})
-		})
 
 		/*
 		 * Search input
@@ -770,7 +804,9 @@ permalink: /search.html
 		status.textContent = "Loading books..."
 		updateShowAllButton()
 
-		fetch("{{ '/search.json' | relative_url }}?v=categories-2", { cache: "no-store" })
+		fetch("{{ '/search.json' | relative_url }}?v=categories-2", {
+			cache: "no-store",
+		})
 			.then(function (response) {
 				if (!response.ok) {
 					throw new Error("Unable to load search index")

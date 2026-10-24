@@ -90,7 +90,7 @@ permalink: /category.html
 				year: "numeric",
 			})
 		}
-		fetch("{{ '/search10.json' | relative_url }}")
+		fetch("{{ '/search.json' | relative_url }}")
 			.then((r) => {
 				if (!r.ok) throw Error("Unable to load books")
 				return r.json()
