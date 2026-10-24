@@ -11,6 +11,10 @@ permalink: /author.html
 		id="authorCount"
 		class="author-count"
 	></p>
+	<fieldset class="author-category-choice" aria-label="Category display">
+		<label><input type="radio" name="authorCategories" value="without" checked /> Without categories</label>
+		<label><input type="radio" name="authorCategories" value="with" /> With categories</label>
+	</fieldset>
 	<div id="authorBooks"></div>
 </div>
 
@@ -60,6 +64,11 @@ permalink: /author.html
 		color: #888;
 		margin-top: 5px;
 	}
+	.author-category-choice { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 0 0 12px; padding: 0; border: 0; color: #666; font-size: 12px; }
+	.author-category-choice label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+	.author-category-choice input { margin: 0; accent-color: #555; }
+	.author-book-category { margin-top: 7px; color: #888; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; }
+
 	/* Override theme restrictions on search width */
 
 	.book-search {
@@ -95,6 +104,15 @@ permalink: /author.html
 		const nameElement = document.getElementById("authorName")
 		const countElement = document.getElementById("authorCount")
 		const booksElement = document.getElementById("authorBooks")
+		let authorBooks = []
+		let showCategories = false
+
+		document.querySelectorAll('input[name="authorCategories"]').forEach(function (radio) {
+			radio.addEventListener("change", function () {
+				showCategories = radio.value === "with"
+				renderAuthorBooks(authorBooks)
+			})
+		})
 
 		if (!author || !author.trim()) {
 			nameElement.textContent = "Author not specified"
@@ -137,6 +155,48 @@ permalink: /author.html
 			})
 		}
 
+		function renderAuthorBooks(matches) {
+			booksElement.replaceChildren()
+				const fragment = document.createDocumentFragment()
+
+				matches.forEach(function (book) {
+					const item = document.createElement("div")
+					item.className = "author-book"
+
+					const title = document.createElement("a")
+					title.className = "author-book-title"
+					title.href = book.url
+					title.textContent = book.book || book.title
+
+					item.appendChild(title)
+
+					if (book.turkish) {
+						const turkish = document.createElement("div")
+						turkish.className = "author-book-turkish"
+						turkish.textContent = book.turkish
+						item.appendChild(turkish)
+					}
+
+					const date = document.createElement("div")
+					date.className = "author-book-date"
+					date.textContent = formatDate(book.date)
+
+					item.appendChild(date)
+					if (showCategories) {
+						const category = document.createElement("div")
+						category.className = "author-book-category"
+						const value = Array.isArray(book.category)
+							? book.category.filter(Boolean).join(", ").trim()
+							: String(book.category || "").trim()
+						category.textContent = value || "Category: –"
+						item.appendChild(category)
+					}
+					fragment.appendChild(item)
+				})
+
+				booksElement.appendChild(fragment)
+		}
+
 		fetch("{{ '/search10.json' | relative_url }}")
 			.then(function (response) {
 				if (!response.ok) {
@@ -168,35 +228,8 @@ permalink: /author.html
 					return
 				}
 
-				const fragment = document.createDocumentFragment()
-
-				matches.forEach(function (book) {
-					const item = document.createElement("div")
-					item.className = "author-book"
-
-					const title = document.createElement("a")
-					title.className = "author-book-title"
-					title.href = book.url
-					title.textContent = book.book || book.title
-
-					item.appendChild(title)
-
-					if (book.turkish) {
-						const turkish = document.createElement("div")
-						turkish.className = "author-book-turkish"
-						turkish.textContent = book.turkish
-						item.appendChild(turkish)
-					}
-
-					const date = document.createElement("div")
-					date.className = "author-book-date"
-					date.textContent = formatDate(book.date)
-
-					item.appendChild(date)
-					fragment.appendChild(item)
-				})
-
-				booksElement.appendChild(fragment)
+				authorBooks = matches
+				renderAuthorBooks(matches)
 			})
 			.catch(function (error) {
 				console.error(error)

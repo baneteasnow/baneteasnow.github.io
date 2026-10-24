@@ -19,6 +19,11 @@ permalink: /search10.html
 		/>
 	</div>
 
+	<fieldset class="category-choice" aria-label="Category display">
+		<label><input type="radio" name="searchCategories" value="without" checked /> Without categories</label>
+		<label><input type="radio" name="searchCategories" value="with" /> With categories</label>
+	</fieldset>
+
 	<p
 		class="search-help"
 		id="searchHelp"
@@ -109,6 +114,21 @@ permalink: /search10.html
 		color: #999999;
 		opacity: 1;
 	}
+
+	/* Optional category display */
+	.book-search .category-choice {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px 20px;
+		margin: 12px 0 0;
+		padding: 0;
+		border: 0;
+		color: #666;
+		font-size: 12px;
+	}
+	.book-search .category-choice label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+	.book-search .category-choice input { margin: 0; accent-color: #555; }
+	.book-search .search-category { margin: 7px 0 0; color: #888; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; }
 
 	/* Show All / Hide All */
 
@@ -324,6 +344,7 @@ permalink: /search10.html
 		let searchTimer = null
 		let isLoaded = false
 		let showAll = false
+		let showCategories = false
 
 		/*
 		 * Normalize Turkish characters and accents.
@@ -533,6 +554,16 @@ permalink: /search10.html
 
 			item.appendChild(meta)
 
+			if (showCategories) {
+				const category = document.createElement("div")
+				category.className = "search-category"
+				const value = Array.isArray(book.category)
+					? book.category.filter(Boolean).join(", ").trim()
+					: String(book.category || "").trim()
+				category.textContent = value || "Category: –"
+				item.appendChild(category)
+			}
+
 			return item
 		}
 
@@ -651,6 +682,13 @@ permalink: /search10.html
 
 			renderResults(matches, query, false)
 		}
+
+		document.querySelectorAll('input[name="searchCategories"]').forEach(function (radio) {
+			radio.addEventListener("change", function () {
+				showCategories = radio.value === "with"
+				searchBooks(input.value)
+			})
+		})
 
 		/*
 		 * Search input
