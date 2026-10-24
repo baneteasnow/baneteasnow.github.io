@@ -5,20 +5,38 @@ published: true
 last_modified_at: 2021-07-08
 ---
 
-{% for post in site.posts %} {% if post.category != 'book3' %}
-<a href="{{ post.url }}"
-	><img
-		src="{{ post.image }}"
-		style="float: left; height: 64%; margin: 0 0 1% 1%; width: 17%"
-		title="{{ post.title }}"
-/></a>
-{% endif %} {% endfor %}
-<br />
-<div style="clear: both"></div>
-<br />
-<div
-	class="link1"
-	style="position: fixed; right: 3%; top: 85%"
->
-	<a href="#"><i>yukarı</i> &#8593;</a>
+<style>
+  .bookshelf-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 6px;
+    width: 100%;
+  }
+  .bookshelf-grid a {
+    display: block;
+    min-width: 0;
+    line-height: 0;
+  }
+  .bookshelf-grid img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  @media (max-width: 480px) {
+    .bookshelf-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+</style>
+
+<div class="bookshelf-grid">
+  {% for post in site.posts %}
+    {% if post.category != 'book3' and post.image %}
+      <a href="{{ post.url }}" title="{{ post.title | escape }}">
+        <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" decoding="async" />
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div class="link1" style="position: fixed; right: 3%; top: 85%">
+  <a href="#"><i>yukarı</i> &#8593;</a>
 </div>
