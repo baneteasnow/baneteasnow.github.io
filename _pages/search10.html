@@ -770,7 +770,7 @@ permalink: /search10.html
 		status.textContent = "Loading books..."
 		updateShowAllButton()
 
-		fetch("{{ '/search10.json' | relative_url }}")
+		fetch("{{ '/search10.json' | relative_url }}?v=categories-2", { cache: "no-store" })
 			.then(function (response) {
 				if (!response.ok) {
 					throw new Error("Unable to load search index")
