@@ -1,6 +1,6 @@
 ---
 layout: page-15
-published: true
+published: false
 last_modified_at: 2025-03-31
 title: "personal growth & productivity"
 ---
