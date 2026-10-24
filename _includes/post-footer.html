@@ -1,40 +1,41 @@
-<a href="{{ page.image }}"><img src="{{ page.image }}" width="20%" height="20%" align="right" float="right" alt="{{ page.kitap }}" title="{{ page.kitap }}" style="margin:10px 0 10px 15px"/></a>
-<span style="font-size: 100%; color: #777;">
-    {{ page.kitap }} <br />
-{% if page.tr != "" and page.tr != nil and page.tr != "-" %}
-   {{ page.tr }} <br />
-{% else %}
-    <div style="visibility: hidden;"></div>
-{% endif %}
-    {{ page.yazar }}
-      <br />
-    {{ page.yil }}
-      <br />
-    {{ page.sayfa }} sayfa
-      <br />
-    </span>
-         <div class="link1">  
-           <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ page.url | split: "/" | last | replace: ".html","" }}">tl;dr</a>
-          </div>
-{% if page.eng %}
-   <div class="link1">  
-     <a name="{{ page.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ page.url | split: "/" | last | replace: ".html","" }}">eng</a>
-  </div>
-  {% else %}
-    <div style="visibility: hidden;"></div>
-{% endif %}
-    <span class="link1" style="font-size: 100%;">
-     <a href="{{ page.goodreads }}" target="_blank" rel="noreferrer,nofollow" title="goodreads">goodreads</a>&nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;">
-    </span>
-<br />
-   <span class="link1" style="font-size: 100%;">
-         {% if page.reread != "yes" %}
-    <div style="visibility: hidden;"></div>
-    {% else %}
-    <i><a href="/reread.html">tekrar okumaya değer!</a></i><br />
+<section class="book-details" aria-label="Book details">
+  <style>
+    .book-details { clear: both; margin: 28px 0 22px; padding: 18px 0; border-top: 1px solid #e6e6e6; border-bottom: 1px solid #e6e6e6; color: #777; font-size: 13px; line-height: 1.65; }
+    .book-details-heading { margin: 0 0 12px; color: #555; font-size: 11px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; }
+    .book-details-body { display: flex; align-items: flex-start; gap: 18px; }
+    .book-details-cover { flex: 0 0 84px; width: 84px; height: auto; display: block; }
+    .book-details-info { min-width: 0; flex: 1; overflow-wrap: anywhere; }
+    .book-details-title { color: #333; font-style: italic; }
+    .book-details-edition { margin-top: 7px; }
+    .book-details-links { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+    .book-details-links a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+    @media (max-width: 430px) { .book-details-body { gap: 12px; } .book-details-cover { flex-basis: 66px; width: 66px; } }
+  </style>
+  <h2 class="book-details-heading">Book details</h2>
+  <div class="book-details-body">
+    {% if page.image and page.image != "" %}
+      <a href="{{ page.image | relative_url }}" aria-label="View book cover">
+        <img class="book-details-cover" src="{{ page.image | relative_url }}" alt="Cover of {{ page.kitap | default: page.title | escape }}" loading="lazy" />
+      </a>
     {% endif %}
-    </span>
-<div class="link1">  
-     <a name="{{ page.title | split: "|" }}" title="google search" href="https://www.google.com/search?q={{ page.title | split: "|" | first | replace: " ","+" }}{{ page.yazar | url_encode }}" target="_blank" rel="noreferrer,nofollow">google search</a>&nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;">
+    <div class="book-details-info">
+      <div class="book-details-title">{{ page.kitap | default: page.title }}</div>
+      <div>
+        {% if page.yazar and page.yazar != "" %}{{ page.yazar }}{% endif %}
+        {% if page.yil and page.yil != "" %} · {{ page.yil }}{% endif %}
+        {% if page.sayfa and page.sayfa != "" %} · {{ page.sayfa }} pages{% endif %}
+      </div>
+      {% if page.tr and page.tr != "" and page.tr != "-" %}
+        <div class="book-details-edition">Turkish edition: <i>{{ page.tr }}</i></div>
+      {% endif %}
+      <div class="book-details-links">
+        {% if page.goodreads and page.goodreads != "" %}
+          <a href="{{ page.goodreads }}" target="_blank" rel="noopener noreferrer nofollow">Goodreads ↗</a>
+        {% endif %}
+        {% if page.reread == "yes" %}
+          <a href="{{ '/reread.html' | relative_url }}">Worth rereading</a>
+        {% endif %}
+      </div>
+    </div>
   </div>
-<!-- post-entry -->
+</section>
