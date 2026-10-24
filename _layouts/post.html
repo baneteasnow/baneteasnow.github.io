@@ -6,43 +6,27 @@ layout: default
 <!-- <span class="link1">{%-include back_link.html-%}</span> -->
 
 <article>
-	<p
-		class="post-meta"
-		style="font-size: 85% !important"
-	>
-		<i>
-			<a
-				href="#links"
-				style="font-style: normal; color: #777; font-size: 90% !important"
-			>
-				{% assign mes_index = page.date | date: "%-m" | minus: 1 %} {% assign
-				mes = site.data.tr.meses[mes_index] %}
-				<time datetime="{{ page.date }}"
-					>{{ mes }} {{ page.date | date: "%-d, %Y" }}</time
-				></a
-			></i
-		>
-	</p>
-	<i
-		><h4><a href="/">{{ page.title }}</a></h4></i
-	>
-	<div class="ind10">{{ content }}</div>
+  <div class="post-top-meta">
+    {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+    {% assign mes = site.data.tr.meses[mes_index] %}
+    <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time>
+    {% if page.tag and page.tag != "" %}
+      <a href="{{ '/category.html' | relative_url }}?tag={{ page.tag | url_encode }}">{{ page.tag }}</a>
+    {% endif %}
+  </div>
+  <i><h4><a href="/">{{ page.title }}</a></h4></i>
+  <div class="ind10">{{ content }}</div>
 </article>
 <br />
-
-<div class="fs85">
-	{%-include post-footer.html-%} {%-include post-tag.html-%}
-</div>
-<div class="fs85">{%-include copy.html-%} {%-include zettelkasten.html-%}</div>
-
+{%- include post-footer.html -%}
+<div class="post-simple-links"><a href="{{ '/search10.html' | relative_url }}">Search</a> · <a href="{{ '/map' | relative_url }}">More</a></div>
 <br />
-{%-include post-nav1.html-%}
-<div style="clear: both"></div>
+{%- include post_list-9.html -%}
 <br />
-<br />
-{%-include footer-links8.html-%}
-<br />
-<br />
-{%-include post_list-9.html-%}
-<br />
-<br />
+<style>
+.post-top-meta{text-align:right;color:#777;font-size:12px;line-height:1.7;margin-bottom:14px}
+.post-top-meta time,.post-top-meta a{display:block}
+.post-top-meta a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.post-simple-links{font-size:13px;color:#777;margin:20px 0}
+.post-simple-links a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+</style>

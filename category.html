@@ -1,0 +1,155 @@
+---
+layout: page-6
+title: Category
+published: true
+permalink: /category.html
+---
+
+<section
+	class="category-archive"
+	aria-label="Books by category"
+>
+	<h1 id="categoryName"></h1>
+	<p
+		id="categoryCount"
+		class="category-count"
+	></p>
+	<div id="categoryBooks"></div>
+</section>
+<style>
+	.category-archive {
+		max-width: 760px;
+		margin: 0 auto;
+	}
+	.category-archive h1 {
+		font-size: 26px;
+		font-weight: 600;
+		margin-bottom: 8px;
+		overflow-wrap: anywhere;
+	}
+	.category-count {
+		font-size: 13px;
+		color: #777;
+		margin-bottom: 28px;
+	}
+	.category-book {
+		padding: 15px 0;
+		border-bottom: 1px solid #eee;
+	}
+	.category-book-title {
+		display: block;
+		color: #222;
+		font-size: 14px;
+		font-weight: 600;
+		text-decoration: none;
+	}
+	.category-book-title:hover {
+		text-decoration: underline;
+	}
+	.category-book-turkish {
+		font-size: 13px;
+		color: #777;
+		margin-top: 3px;
+	}
+	.category-book-author {
+		font-size: 13px;
+		color: #666;
+		margin-top: 4px;
+	}
+	.category-book-author a {
+		color: inherit;
+		text-decoration: underline;
+		text-underline-offset: 2px;
+	}
+	.category-book-date {
+		font-size: 12px;
+		color: #888;
+		margin-top: 5px;
+	}
+</style>
+<script>
+	;(function () {
+		"use strict"
+		const params = new URLSearchParams(window.location.search)
+		const tag = (params.get("tag") || "").trim()
+		const name = document.getElementById("categoryName")
+		const count = document.getElementById("categoryCount")
+		const list = document.getElementById("categoryBooks")
+		if (!tag) {
+			name.textContent = "Category not specified"
+			return
+		}
+		name.textContent = tag
+		count.textContent = "Loading books..."
+		function formatDate(value) {
+			if (!/^\d{4}-\d{2}-\d{2}$/.test(value || "")) return value || ""
+			const [y, m, d] = value.split("-").map(Number)
+			return new Date(y, m - 1, d).toLocaleDateString("en-GB", {
+				day: "numeric",
+				month: "short",
+				year: "numeric",
+			})
+		}
+		fetch("{{ '/search10.json' | relative_url }}")
+			.then((r) => {
+				if (!r.ok) throw Error("Unable to load books")
+				return r.json()
+			})
+			.then((books) => {
+				const matches = books
+					.filter((b) => String(b.tag || "").trim() === tag)
+					.sort((a, b) =>
+						String(b.date || "").localeCompare(String(a.date || "")),
+					)
+				count.textContent =
+					matches.length + (matches.length === 1 ? " book" : " books")
+				if (!matches.length) {
+					list.textContent = "No books found in this category."
+					return
+				}
+				const frag = document.createDocumentFragment()
+				matches.forEach((b) => {
+					const row = document.createElement("div")
+					row.className = "category-book"
+					const title = document.createElement("a")
+					title.className = "category-book-title"
+					title.href = b.url
+					title.textContent = b.book || b.title || ""
+					row.appendChild(title)
+					if (b.turkish) {
+						const tr = document.createElement("div")
+						tr.className = "category-book-turkish"
+						tr.textContent = b.turkish
+						row.appendChild(tr)
+					}
+					if (b.author) {
+						const author = document.createElement("div")
+						author.className = "category-book-author"
+						String(b.author)
+							.split(/\s*,\s*/)
+							.filter(Boolean)
+							.forEach((a, i) => {
+								if (i) author.appendChild(document.createTextNode(", "))
+								const link = document.createElement("a")
+								link.href =
+									"{{ '/author.html' | relative_url }}?name=" +
+									encodeURIComponent(a)
+								link.textContent = a
+								author.appendChild(link)
+							})
+						row.appendChild(author)
+					}
+					const date = document.createElement("div")
+					date.className = "category-book-date"
+					date.textContent = formatDate(b.date)
+					row.appendChild(date)
+					frag.appendChild(row)
+				})
+				list.appendChild(frag)
+			})
+			.catch((e) => {
+				console.error(e)
+				count.textContent = "Unable to load books."
+			})
+	})()
+</script>

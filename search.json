@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /search.json
+permalink: /search10.json
 ---
 [
 {% assign sorted_posts = site.posts | sort: "posted" | reverse %}
@@ -10,7 +10,7 @@ permalink: /search.json
   "book": {{ post.kitap | default: post.title | jsonify }},
   "turkish": {{ post.tr | default: "" | jsonify }},
   "author": {{ post.yazar | default: "" | jsonify }},
-  "category": {{ post.tag | default: "" | jsonify }},
+  "tag": {{ post.tag | default: "" | jsonify }},
   "date": {{ post.posted | default: post.date | date: "%Y-%m-%d" | jsonify }},
   "url": {{ post.url | relative_url | jsonify }}
 }{% unless forloop.last %},{% endunless %}
