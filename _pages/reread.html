@@ -1,18 +1,40 @@
 ---
-layout: page-5
-title: 'tekrar okumaya değer kitaplar'
-published: false
-last_modified_at: 2021-07-08
+layout: page-16
+title: Worth Rereading
+published: true
+permalink: /reread.html
 ---
 
-</br>
-        {% for post in site.posts %}
-           {% if post.reread == 'yes' %}
-       <a href="{{ post.url }}"><img src="{{ post.image }}" style="float: left; height: 70%; margin: 0 0 1% 1%; width: 20%;" /></a>
-            {% endif %}
-        {% endfor %} 
-    <br />
-<div style="clear: both;"></div>
-<br />
-
-<a href="https://homelibrary.next52books.com/reread">updated version</a>
+{% assign reread_posts = site.posts | where: 'reread', 'yes' | sort: 'posted' | reverse %}
+<div class="reread-page">
+  <p class="reread-count">{{ reread_posts.size }} {% if reread_posts.size == 1 %}book{% else %}books{% endif %}</p>
+  <div class="reread-list">
+    {% for post in reread_posts %}
+    <div class="reread-item">
+      <a class="reread-title" href="{{ post.url | relative_url }}">{{ post.kitap | default: post.title }}</a>
+      {% if post.tr and post.tr != '' and post.tr != '-' %}<div class="reread-turkish">{{ post.tr }}</div>{% endif %}
+      <div class="reread-meta">
+        <span class="reread-author">{% assign authors = post.yazar | split: ',' %}{% for author in authors %}{% assign author_name = author | strip %}<a href="{{ '/author.html' | relative_url }}?name={{ author_name | url_encode }}">{{ author_name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+        <span class="reread-date">{{ post.posted | default: post.date | date: '%d %b %Y' }}</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<style>
+.reread-page{position:relative;left:50%;transform:translateX(-50%);width:min(480px,calc(100vw - 40px));max-width:none;margin:0 0 40px;box-sizing:border-box}
+.reread-page *{box-sizing:border-box}
+.reread-count{margin:0 0 12px;color:#888;font-size:12px}
+.reread-item{padding:18px 10px;border-bottom:1px solid #eee;transition:background .15s ease}
+.reread-item:hover{background:#fafafa}
+.reread-title{display:block;margin:0 0 5px;color:#222;font-size:14px;font-weight:600;line-height:1.5;text-decoration:none;overflow-wrap:anywhere}
+.reread-title:hover{text-decoration:underline}
+.reread-turkish{margin:0 0 8px;color:#888;font-size:13px;line-height:1.5}
+.reread-meta{display:flex;align-items:center;justify-content:space-between;gap:12px;color:#666;font-size:12px;line-height:1.5}
+.reread-author{min-width:0;overflow-wrap:anywhere}
+.reread-author a{color:inherit;text-decoration:none}
+.reread-author a:hover{text-decoration:underline}
+.reread-date{color:#999;white-space:nowrap}
+@media(max-width:600px){body:has(.reread-page) .w{display:block!important;width:100%!important;max-width:100%!important;min-width:0!important;margin-left:auto!important;margin-right:auto!important;padding-left:20px!important;padding-right:20px!important;box-sizing:border-box!important}.reread-page{position:static;left:auto;transform:none;width:100%;max-width:100%}}
+@media(max-width:430px){.reread-item{padding:16px 4px}.reread-meta{flex-direction:column;align-items:flex-start;gap:3px}}
+</style>
