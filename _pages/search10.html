@@ -247,12 +247,34 @@ permalink: /search10.html
 	/* Mobile */
 
 	@media (max-width: 430px) {
-		.book-search {
-			width: calc(100vw - 64px) !important;
+		/* Search10 sayfasının ana kapsayıcısı */
+		body:has(#bookSearch) .w {
+			width: 100% !important;
 			max-width: 100% !important;
-			left: 0 !important;
+			padding: 4rem 20px !important;
+			box-sizing: border-box !important;
+		}
+
+		/* Arama alanı */
+		.book-search {
+			position: static !important;
+			left: auto !important;
 			transform: none !important;
+
+			width: 100% !important;
+			max-width: 100% !important;
+			min-width: 0 !important;
+
 			margin: 0 0 40px !important;
+			padding: 0 !important;
+		}
+
+		.book-search .search-box,
+		.book-search #bookSearchInput,
+		.book-search .search-results {
+			width: 100% !important;
+			max-width: 100% !important;
+			min-width: 0 !important;
 		}
 
 		.book-search .search-item {
@@ -266,7 +288,6 @@ permalink: /search10.html
 		}
 
 		.book-search #bookSearchInput {
-			width: 100% !important;
 			font-size: 16px;
 		}
 	}
