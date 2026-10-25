@@ -5,11 +5,12 @@ goal: 70
 books:
   - id: 56
     month: "Oct"
-    title: "Practices for Embodied Living (2026)"
+    title: "Practices for Embodied Living"
     author: "Hillary L. McBride"
     year: 2026
     pages: 160
     format: "book"
+    categories: "PsychologyMentalLife"
     cover: "/assets/new/practices-for-embodied-living.jpg" # Replace with an existing site image URL
 
   - id: 55
@@ -19,6 +20,7 @@ books:
     year: 2020
     pages: 304
     format: "book"
+    categories: ""
     cover: "/assets/new/finding-meaning-in-the-second-half-of-life.jpg" # Empty = elegant cover placeholder
 
   - id: 54
@@ -28,6 +30,7 @@ books:
     year: 2026
     pages: 400
     format: "book"
+    categories: ""
     cover: "/assets/new/yesteryear.jpg"
 
   - id: 53
@@ -37,6 +40,7 @@ books:
     year: 2024
     pages: 400
     format: "book"
+    categories: ""
     cover: "/assets/new/rich-dad-poor-dad.jpg"
 
   - id: 52
@@ -46,6 +50,7 @@ books:
     year: 2023
     pages: 240
     format: "book"
+    categories: ""
     cover: "/assets/new/the-scar.jpg"
 
   - id: 51
@@ -55,6 +60,7 @@ books:
     year: 2026
     pages: 344
     format: "book"
+    categories: ""
     cover: "/assets/new/start-making-sense.jpg"
 
   - id: 50
@@ -64,6 +70,7 @@ books:
     year: 2025
     pages: 528
     format: "book"
+    categories: ""
     cover: "/assets/new/chasing-the-scream.jpg"
 
   - id: 49
@@ -73,6 +80,7 @@ books:
     year: 2024
     pages: 336
     format: "book"
+    categories: ""
     cover: "/assets/new/magic-pill.jpg"
 
   - id: 48
@@ -82,6 +90,7 @@ books:
     year: 2026
     pages: 480
     format: "book"
+    categories: ""
     cover: "/assets/new/empire-of-ai.jpg"
 
   - id: 47
@@ -91,6 +100,7 @@ books:
     year: 2016
     pages: 390
     format: "book"
+    categories: ""
     cover: "/assets/new/chaos.jpg"
 
   - id: 46
@@ -100,6 +110,7 @@ books:
     year: 2024
     pages: 432
     format: "book"
+    categories: ""
     cover: "/assets/new/the-coming-wave.jpg"
 
   - id: 45
@@ -109,6 +120,7 @@ books:
     year: 2022
     pages: 320
     format: "book"
+    categories: ""
     cover: "/assets/new/stolen-focus.jpg"
 
   - id: 44
@@ -118,6 +130,7 @@ books:
     year: 2026
     pages: 320
     format: "book"
+    categories: ""
     cover: "/assets/new/why-we-love.jpg"
 
   - id: 43
@@ -127,6 +140,7 @@ books:
     year: 2025
     pages: 240
     format: "book"
+    categories: ""
     cover: "/assets/new/travelers-to-unimaginable-lands.jpg"
 
   - id: 42
@@ -136,6 +150,7 @@ books:
     year: 2025
     pages: 176
     format: "book"
+    categories: ""
     cover: "/assets/new/the-truth-will-set-you-free-but-first-it-will-piss-you-off.jpg"
 
   - id: 41
@@ -145,6 +160,7 @@ books:
     year: 2026
     pages: 74
     format: "book"
+    categories: ""
     cover: "/assets/new/last-words-from-barcelona.jpg"
 
   - id: 40
@@ -154,6 +170,7 @@ books:
     year: 2026
     pages: 260
     format: "book"
+    categories: ""
     cover: "/assets/new/all-the-lonely-people.jpg"
 
   - id: 39
@@ -163,6 +180,7 @@ books:
     year: 2023
     pages: 328
     format: "book"
+    categories: ""
     cover: "/assets/new/dirty-work.jpg"
 
   - id: 38
@@ -172,6 +190,7 @@ books:
     year: 2018
     pages: 576
     format: "book"
+    categories: ""
     cover: "/assets/new/the-signal-and-the-noise.jpg"
 
   - id: 37
@@ -181,6 +200,7 @@ books:
     year: 2025
     pages: 392
     format: "book"
+    categories: ""
     cover: "/assets/new/the-elements-of-choice.jpg"
 
   - id: 36
@@ -190,6 +210,7 @@ books:
     year: 2019
     pages: 328
     format: "book"
+    categories: ""
     cover: "/assets/new/women-who-love-too-much.jpg"
 
   - id: 35
@@ -199,6 +220,7 @@ books:
     year: 2022
     pages: 224
     format: "book"
+    categories: ""
     cover: "/assets/new/emotional-inheritance.jpg"
 
   - id: 34
@@ -208,6 +230,7 @@ books:
     year: 2022
     pages: 272
     format: "book"
+    categories: ""
     cover: "/assets/new/the-enigma-of-desire.jpg"
 
   - id: 33
@@ -217,6 +240,7 @@ books:
     year: 2026
     pages: 372
     format: "book"
+    categories: ""
     cover: "/assets/new/fluke.jpg"
 
   - id: 32
@@ -226,6 +250,7 @@ books:
     year: 2025
     pages: 288
     format: "book"
+    categories: ""
     cover: "/assets/new/all-in-her-head.jpg"
 
   - id: 31
@@ -235,6 +260,7 @@ books:
     year: 2026
     pages: 480
     format: "book"
+    categories: ""
     cover: "/assets/new/men-who-hate-women.jpg"
 
   - id: 30
@@ -244,6 +270,7 @@ books:
     year: 2024
     pages: 320
     format: "book"
+    categories: ""
     cover: "/assets/new/carl-jung-wounded-healer-of-the-soul.jpg"
 
   - id: 29
@@ -253,6 +280,7 @@ books:
     year: 2024
     pages: 320
     format: "book"
+    categories: ""
     cover: "/assets/new/the-feminist-killjoy-handbook.jpg"
 
   - id: 28
@@ -262,6 +290,7 @@ books:
     year: 2019
     pages: 336
     format: "book"
+    categories: ""
     cover: "/assets/new/yazma-cesareti.jpg"
 
   - id: 27
@@ -271,6 +300,7 @@ books:
     year: 2024
     pages: 240
     format: "book"
+    categories: ""
     cover: "/assets/new/fildisi-kuyu-2.jpg"
 
   - id: 26
@@ -280,6 +310,7 @@ books:
     year: 2022
     pages: 280
     format: "book"
+    categories: ""
     cover: "/assets/new/the-wisdom-of-psychopaths.jpg"
 
   - id: 25
@@ -289,6 +320,7 @@ books:
     year: 2018
     pages: 216
     format: "book"
+    categories: ""
     cover: "/assets/new/all-about-love.jpg"
 
   - id: 24
@@ -298,6 +330,7 @@ books:
     year: 2024
     pages: 240
     format: "book"
+    categories: ""
     cover: "/assets/new/fildisi-kuyu-1.jpg"
 
   - id: 23
@@ -307,6 +340,7 @@ books:
     year: 2024
     pages: 228
     format: "book"
+    categories: ""
     cover: "/assets/new/beni-zorla-sagma-birak-ben-emzireyim-seni.jpg"
 
   - id: 22
@@ -316,6 +350,7 @@ books:
     year: 2021
     pages: 104
     format: "book"
+    categories: ""
     cover: "/assets/new/overtime.jpg"
 
   - id: 21
@@ -325,6 +360,7 @@ books:
     year: 2026
     pages: 148
     format: "book"
+    categories: ""
     cover: "/assets/new/feminism-is-for-everybody.jpg"
 
   - id: 20
@@ -334,6 +370,7 @@ books:
     year: 2026
     pages: 320
     format: "book"
+    categories: ""
     cover: "/assets/new/sevmek-sevilmek-cinsellik.jpg"
 
   - id: 19
@@ -343,6 +380,7 @@ books:
     year: 2019
     pages: 108
     format: "book"
+    categories: ""
     cover: "/assets/new/owning-your-own-shadow.jpg"
 
   - id: 18
@@ -352,6 +390,7 @@ books:
     year: 2019
     pages: 368
     format: "book"
+    categories: ""
     cover: "/assets/new/lost-connections.jpg"
 
   - id: 17
@@ -361,6 +400,7 @@ books:
     year: 2025
     pages: 408
     format: "book"
+    categories: ""
     cover: "/assets/new/on-our-best-behavior.jpg"
 
   - id: 16
@@ -370,6 +410,7 @@ books:
     year: 2005
     pages: 360
     format: "book"
+    categories: ""
     cover: "/assets/new/prozac-nation.jpg"
 
   - id: 15
@@ -379,6 +420,7 @@ books:
     year: 2021
     pages: 144
     format: "book"
+    categories: ""
     cover: "/assets/new/the-information-bomb.jpg"
 
   - id: 14
@@ -388,6 +430,7 @@ books:
     year: 2025
     pages: 464
     format: "book"
+    categories: ""
     cover: "/assets/new/the-anxious-generation.jpg"
 
   - id: 13
@@ -397,6 +440,7 @@ books:
     year: 2018
     pages: 104
     format: "book"
+    categories: ""
     cover: "/assets/new/on-seeing-and-noticing.jpg"
 
   - id: 12
@@ -406,6 +450,7 @@ books:
     year: 2025
     pages: 128
     format: "book"
+    categories: ""
     cover: "/assets/new/abolish-the-family.jpg"
 
   - id: 11
@@ -415,6 +460,7 @@ books:
     year: 2024
     pages: 136
     format: "book"
+    categories: ""
     cover: "/assets/new/men-explain-things-to-me.jpg"
 
   - id: 10
@@ -424,6 +470,7 @@ books:
     year: 2026
     pages: 432
     format: "book"
+    categories: ""
     cover: "/assets/new/nobody-s-girl.jpg"
 
   - id: 9
@@ -433,6 +480,7 @@ books:
     year: 2025
     pages: 288
     format: "book"
+    categories: ""
     cover: "/assets/new/over-the-influence.jpg"
 
   - id: 8
@@ -442,6 +490,7 @@ books:
     year: 2024
     pages: 208
     format: "book"
+    categories: ""
     cover: "/assets/new/history-disrupted.jpg"
 
   - id: 7
@@ -451,6 +500,7 @@ books:
     year: 2025
     pages: 264
     format: "book"
+    categories: ""
     cover: "/assets/new/romantic-agency.jpg"
 
   - id: 6
@@ -460,6 +510,7 @@ books:
     year: 2021
     pages: 240
     format: "book"
+    categories: ""
     cover: "/assets/new/this-is-not-propaganda.jpg"
 
   - id: 5
@@ -469,6 +520,7 @@ books:
     year: 2025
     pages: 280
     format: "book"
+    categories: ""
     cover: "/assets/new/what-i-couldn-t-tell-my-therapist.jpg"
 
   - id: 4
@@ -478,6 +530,7 @@ books:
     year: 2025
     pages: 208
     format: "book"
+    categories: ""
     cover: "/assets/new/dopamine-nation.jpg"
 
   - id: 3
@@ -487,6 +540,7 @@ books:
     year: 2022
     pages: 152
     format: "book"
+    categories: ""
     cover: "/assets/new/irvin-d-yalom-psikoterapi-ve-insan-olmak-uzerine.jpg"
 
   - id: 2
@@ -496,6 +550,7 @@ books:
     year: 2017
     pages: 312
     format: "book"
+    categories: ""
     cover: "/assets/new/liquid-modernity.jpg"
 
   - id: 1
@@ -505,4 +560,5 @@ books:
     year: 2025
     pages: 192
     format: "book"
+    categories: ""
     cover: "/assets/new/every-day-i-read.jpg"
