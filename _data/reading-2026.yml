@@ -13,10 +13,496 @@ books:
     cover: "/assets/new/practices-for-embodied-living.jpg" # Replace with an existing site image URL
 
   - id: 55
+    month: "Oct"
+    title: "Finding Meaning in the Second Half of Life"
+    author: "James Hollis"
+    year: 2020
+    pages: 304
+    format: "book"
+    cover: "/assets/new/finding-meaning-in-the-second-half-of-life.jpg" # Empty = elegant cover placeholder
+
+  - id: 54
+    month: "Oct"
+    title: "Yesteryear"
+    author: "Caro Claire Burke"
+    year: 2026
+    pages: 400
+    format: "book"
+    cover: "/assets/new/yesteryear.jpg"
+
+  - id: 53
+    month: "Oct"
+    title: "Rich Dad Poor Dad"
+    author: "Robert T. Kiyosaki"
+    year: 2024
+    pages: 400
+    format: "book"
+    cover: "/assets/new/rich-dad-poor-dad.jpg"
+
+  - id: 52
+    month: "Oct"
+    title: "The Scar"
+    author: "Mary Cregan"
+    year: 2023
+    pages: 240
+    format: "book"
+    cover: "/assets/new/the-scar.jpg"
+
+  - id: 51
     month: "Sep"
-    title: "Another Example Book"
-    author: "Another Author"
-    year: 2021
-    pages: 256
-    format: "Kindle"
-    cover: "" # Empty = elegant cover placeholder
+    title: "Start Making Sense"
+    author: "Steven J. Hein"
+    year: 2026
+    pages: 344
+    format: "book"
+    cover: "/assets/new/start-making-sense.jpg"
+
+  - id: 50
+    month: "Sep"
+    title: "Chasing the Scream"
+    author: "Johann Hari"
+    year: 2025
+    pages: 528
+    format: "book"
+    cover: "/assets/new/chasing-the-scream.jpg"
+
+  - id: 49
+    month: "Sep"
+    title: "Magic Pill"
+    author: "Johann Hari"
+    year: 2024
+    pages: 336
+    format: "book"
+    cover: "/assets/new/magic-pill.jpg"
+
+  - id: 48
+    month: "Sep"
+    title: "Empire of AI"
+    author: "Karen Hao"
+    year: 2026
+    pages: 480
+    format: "book"
+    cover: "/assets/new/empire-of-ai.jpg"
+
+  - id: 47
+    month: "Sep"
+    title: "Chaos - Making a New Science"
+    author: "James Gleick"
+    year: 2016
+    pages: 390
+    format: "book"
+    cover: "/assets/new/chaos.jpg"
+
+  - id: 46
+    month: "Sep"
+    title: "The Coming Wave"
+    author: "Mustafa Suleyman, Michael Bhaskar"
+    year: 2024
+    pages: 432
+    format: "book"
+    cover: "/assets/new/the-coming-wave.jpg"
+
+  - id: 45
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 44
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 43
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 42
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 41
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 40
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 39
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 38
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 37
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 36
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 35
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 34
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 33
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 32
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 31
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 30
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 29
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 28
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 27
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 26
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 25
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 24
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 23
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 22
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 21
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 20
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 19
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 18
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 17
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 16
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 15
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 14
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 13
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 12
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 11
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 10
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 9
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 8
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 7
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 6
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 5
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 4
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 3
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 2
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
+
+  - id: 1
+    month: ""
+    title: ""
+    author: ""
+    year:
+    pages:
+    format: "book"
+    cover: ""
