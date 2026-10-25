@@ -6,100 +6,84 @@ layout: default
 <!-- <span class="link1">{%-include back_link.html-%}</span> -->
 
 <article class="book-review">
-	<div class="post-top-meta">
-		{% assign mes_index = page.date | date: "%-m" | minus: 1 %} {% assign mes =
-		site.data.tr.meses[mes_index] %}
-		<time datetime="{{ page.date | date: '%Y-%m-%d' }}"
-			>{{ mes }} {{ page.date | date: "%-d, %Y" }}</time
-		>
-		{% if page.tag and page.tag != "" %}
-		<a
-			href="{{ '/category.html' | relative_url }}?tag={{ page.tag | url_encode }}"
-			>{{ page.tag }}</a
-		>
-		{% endif %}
-	</div>
-	<h4 class="book-review-title"><a href="/">{{ page.title }}</a></h4>
-	<div class="ind10 book-review-body">{{ content }}</div>
+  <div class="post-top-meta">
+    {% assign mes_index = page.date | date: "%-m" | minus: 1 %}
+    {% assign mes = site.data.tr.meses[mes_index] %}
+    <a class="post-date-link" href="{{ '/posts.html' | relative_url }}"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ mes }} {{ page.date | date: "%-d, %Y" }}</time></a>
+    {% if page.tag and page.tag != "" %}
+      <a class="post-category-link" href="{{ '/category.html' | relative_url }}?tag={{ page.tag | url_encode }}">{{ page.tag }}</a>
+    {% endif %}
+  </div>
+  <h4 class="book-review-title"><a href="/">{{ page.title }}</a></h4>
+  <div class="ind10 book-review-body">{{ content }}</div>
 </article>
 <br />
 {%- include post-footer.html -%}
-<div class="post-simple-links">
-	<a href="{{ '/search10.html' | relative_url }}">Search</a> ·
-	<a href="{{ '/map' | relative_url }}">More</a>
-</div>
+<div class="post-simple-links"><a href="{{ '/search10.html' | relative_url }}">Search</a> · <a href="{{ '/map' | relative_url }}">More</a></div>
 <br />
 <details class="post-archive-toggle">
-	<summary>All Posts ↓</summary>
-	{%- include post_list-9.html -%}
+  <summary>All Posts ↓</summary>
+  {%- include post_list-9.html -%}
 </details>
 <br />
 <style>
-	@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap");
-	/* Book review typography only — does not affect page layouts or footer */
-	.book-review .book-review-body {
-		font-family: "EB Garamond", Georgia, serif !important;
-		font-size: 19px;
-		line-height: 1.6;
-	}
-	.book-review .book-review-body p {
-		margin: 0 0 1.1em;
-	}
-	.book-review .book-review-title {
-		font-family: "EB Garamond", Georgia, serif !important;
-		font-size: 26px !important;
-		font-weight: 600 !important;
-		font-style: italic;
-		line-height: 1.25;
-	}
-	.book-review .book-review-title a {
-		font-family: inherit;
-	}
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+/* Book review typography only — does not affect page layouts or footer */
+.book-review .book-review-body {
+  font-family: "EB Garamond", Georgia, serif !important;
+  font-size: 19px;
+  line-height: 1.6;
+}
+.book-review .book-review-body p { margin: 0 0 1.1em; }
+.book-review .book-review-title {
+  font-family: "EB Garamond", Georgia, serif !important;
+  font-size: 26px !important;
+  font-weight: 600 !important;
+  font-style: italic;
+  line-height: 1.25;
+}
+.book-review .book-review-title a { font-family: inherit; }
 
-	.post-top-meta {
-		text-align: right;
-		color: #777;
-		font-size: 12px;
-		line-height: 1.7;
-		margin-bottom: 14px;
-	}
-	.post-top-meta time,
-	.post-top-meta a {
-		display: block;
-	}
-	.post-top-meta a {
-		color: inherit;
-		text-decoration: underline;
-		text-underline-offset: 2px;
-	}
-	.post-simple-links {
-		font-size: 13px;
-		color: #777;
-		margin: 20px 0;
-	}
-	.post-simple-links a {
-		color: inherit;
-		text-decoration: underline;
-		text-underline-offset: 2px;
-	}
-	.post-archive-toggle {
-		margin-top: 2.5rem;
-	}
-
-	.post-archive-toggle summary {
-		display: inline-block;
-		padding: 0;
-		color: #777;
-		font-size: 13px;
-		font-style: italic;
-		cursor: pointer;
-	}
-
-	.post-archive-toggle summary:hover {
-		color: #222;
-	}
-
-	.post-archive-toggle[open] summary {
-		margin-bottom: 1.5rem;
-	}
+/* Post metadata: quiet, aligned, with clear hierarchy */
+.book-review .post-top-meta {
+  text-align: right;
+  color: #777;
+  font-family: "EB Garamond", Georgia, serif;
+  font-size: 12px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.35;
+  margin-bottom: 24px;
+}
+.book-review .post-top-meta .post-date-link,
+.book-review .post-top-meta .post-category-link {
+  display: block;
+  width: fit-content;
+  margin-left: auto;
+  color: inherit;
+  text-decoration: none !important;
+}
+.book-review .post-top-meta .post-category-link {
+  margin-top: 3px;
+  color: #999;
+  font-style: italic;
+}
+.book-review .post-top-meta a:hover {
+  text-decoration: underline !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 3px;
+}
+.post-archive-toggle { margin-top: 2.5rem; }
+.post-archive-toggle summary {
+  display: inline-block;
+  padding: 0;
+  color: #777;
+  font-size: 13px;
+  font-style: italic;
+  cursor: pointer;
+}
+.post-archive-toggle summary:hover { color: #222; }
+.post-archive-toggle[open] summary { margin-bottom: 1.5rem; }
+.post-simple-links{font-size:13px;color:#777;margin:20px 0}
+.post-simple-links a{color:inherit;text-decoration:underline;text-underline-offset:2px}
 </style>
