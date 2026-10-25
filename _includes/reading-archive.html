@@ -6,6 +6,11 @@
   {% assign percentage = 0 %}
   {% if goal > 0 %}{% assign percentage = total | times: 100.0 | divided_by: goal | round %}{% endif %}
   {% assign bar_percentage = percentage | at_most: 100 %}
+  {% assign total_pages = 0 %}
+  {% for book in archive.books %}
+    {% assign book_pages = book.pages | default: 0 | plus: 0 %}
+    {% assign total_pages = total_pages | plus: book_pages %}
+  {% endfor %}
   <section class="reading-archive" aria-label="{{ include.year }} reading archive">
     <div class="ra-kicker">READING ARCHIVE · {{ include.year }}</div>
     <div class="ra-goal" aria-label="Reading goal: {{ total }} of {{ goal }} books">
@@ -13,6 +18,7 @@
       <div class="ra-goal-track" role="progressbar" aria-label="Annual reading goal" aria-valuemin="0" aria-valuemax="{{ goal }}" aria-valuenow="{{ total }}"><span style="width:{{ bar_percentage }}%"></span></div>
       <span class="ra-goal-percent">{{ percentage }}%</span>
     </div>
+    <p class="ra-annual-pages">{{ total_pages }} pages read this year</p>
     <div class="ra-list-heading"><span>Books read</span><span>{{ total }} titles</span></div>
     <div class="ra-list">
       {% for book in archive.books %}
@@ -30,6 +36,35 @@
           </div>
           <div class="ra-month">{{ book.month | escape }}</div>
         </article>
+        {% assign next_index = forloop.index %}
+        {% assign next_book = archive.books[next_index] %}
+        {% if forloop.last or next_book.month != book.month %}
+          {% assign month_books = archive.books | where: 'month', book.month %}
+          {% assign month_pages = 0 %}
+          {% for month_book in month_books %}
+            {% assign page_count = month_book.pages | default: 0 | plus: 0 %}
+            {% assign month_pages = month_pages | plus: page_count %}
+          {% endfor %}
+          {% assign month_name = book.month %}
+          {% case book.month %}
+            {% when 'Jan' %}{% assign month_name = 'January' %}
+            {% when 'Feb' %}{% assign month_name = 'February' %}
+            {% when 'Mar' %}{% assign month_name = 'March' %}
+            {% when 'Apr' %}{% assign month_name = 'April' %}
+            {% when 'May' %}{% assign month_name = 'May' %}
+            {% when 'Jun' %}{% assign month_name = 'June' %}
+            {% when 'Jul' %}{% assign month_name = 'July' %}
+            {% when 'Aug' %}{% assign month_name = 'August' %}
+            {% when 'Sep' %}{% assign month_name = 'September' %}
+            {% when 'Oct' %}{% assign month_name = 'October' %}
+            {% when 'Nov' %}{% assign month_name = 'November' %}
+            {% when 'Dec' %}{% assign month_name = 'December' %}
+          {% endcase %}
+          <div class="ra-month-subtotal" aria-label="{{ month_name }} {{ include.year }} total">
+            <span class="ra-month-subtotal-label">{{ month_name }} {{ include.year }}</span>
+            <span class="ra-month-subtotal-values">{{ month_books.size }} {% if month_books.size == 1 %}book{% else %}books{% endif %} <span aria-hidden="true">·</span> {{ month_pages }} pages</span>
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
     <nav class="ra-years" aria-label="Reading years">
