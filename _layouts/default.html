@@ -12,7 +12,7 @@
       <a href="#">Back to top ↑</a>
       <a href="{{ '/posts.html' | relative_url }}">All Posts</a>
       <a href="{{ '/search10.html' | relative_url }}">Search</a>
-      <a href="{{ '/list' | relative_url }}">Tools</a>
+      <a href="{{ '/qr-tools' | relative_url }}">Tools</a>
     </nav>
     <style>
       .side-links {
@@ -30,7 +30,34 @@
       }
       .side-links a { color: #999; text-decoration: none; }
       .side-links a:hover, .side-links a:focus-visible { color: #555; text-decoration: underline; text-underline-offset: 3px; }
-      @media (max-width: 900px) { .side-links { display: none; } }
+      /* On narrow screens, keep navigation visible without covering the reading column. */
+      @media (max-width: 900px) {
+        .side-links {
+          top: auto;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          flex-direction: row;
+          justify-content: space-evenly;
+          align-items: center;
+          flex-wrap: wrap;
+          gap: 0 8px;
+          padding: 8px 10px calc(8px + env(safe-area-inset-bottom));
+          background: rgba(242, 242, 242, 0.93);
+          -webkit-backdrop-filter: blur(8px);
+          backdrop-filter: blur(8px);
+          border-top: 1px solid rgba(0, 0, 0, 0.06);
+        }
+        .side-links a {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          min-height: 36px;
+          white-space: nowrap;
+          color: #555;
+        }
+        .page-content { padding-bottom: 76px; }
+      }
     </style>
 
     {%-if site.goat_counter and jekyll.environment == "production"-%}
