@@ -1,7 +1,7 @@
 ---
 layout: page
 title: assets
-last_modified_at: 2026-05-31
+last_modified_at: 2026-10-25
 published: true
 ---
 
@@ -13,3 +13,7 @@ published: true
 <a href="https://www.next52books.com/assets/at-a-glance/mar-26.png">mar 26</a>  
 <a href="https://www.next52books.com/assets/at-a-glance/apr-26.png">apr 26</a>  
 <a href="https://www.next52books.com/assets/at-a-glance/may-26.png">may 26</a>
+<a href="https://www.next52books.com/assets/at-a-glance/jun-26.png">jun 26</a>  
+<a href="https://www.next52books.com/assets/at-a-glance/jul-26.png">jul 26</a>  
+<a href="https://www.next52books.com/assets/at-a-glance/aug-26.png">aug 26</a>  
+<a href="https://www.next52books.com/assets/at-a-glance/sep-26.png">sep 26</a>
