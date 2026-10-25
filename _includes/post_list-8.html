@@ -16,7 +16,7 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-details > p {
+details > .archive-expanded {
   border-radius: 0 0 10px 10px;
   background-color: #fff;
   padding: 2px 2px;
@@ -65,20 +65,18 @@ aralık
 {% endif %}
 </span>
     <br />
-<p>
-  {% for post in month.items limit:5 %}
-    <p>
-      <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
-</p>
-  {% endfor %}
-</p>
+{% for post in month.items limit:5 %}
+  <div class="archive-row" style="margin: 1em 0;">
+    <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
+  </div>
+{% endfor %}
 {% endfor %}
   <br />
 {% endfor %}
 <center><div class="cat2" style="color: #404040"><i>devamı</i></div></center>
 <br />
   </summary>
-  <p>  
+  <div class="archive-expanded">
 {% assign postsByYear = site.posts | where_exp: "post", "post.category != 'affirmation'" | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <span style="color: #777; font-weight: bold; font-size: 85%;font-style: italic;">{{ year.name }}</span>
@@ -114,18 +112,16 @@ aralık
 {% endif %}
 </span>
   <br />
-<p>
-  {% for post in month.items %}
-    <p>
-      <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
-</p>
-  {% endfor %}
-</p>
+{% for post in month.items %}
+  <div class="archive-row" style="margin: 1em 0;">
+    <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
+  </div>
+{% endfor %}
 {% endfor %}
   <br />
 {% endfor %}
   
-  </p>
+  </div>
 <br />
 <br />
 <!-- <center> <div class="link1"><a href="#"><i>yukarı</i> &#8593;</a></div> </center> -->
