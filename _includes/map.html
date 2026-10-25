@@ -1,74 +1,97 @@
-<!-- More / Map: a quiet directory of reading and side projects. -->
+<!-- Next52books / More. Install as _includes/map.html -->
 <nav class="more-directory" aria-label="More">
-  <section class="more-section" aria-labelledby="more-reading">
-    <h2 id="more-reading">Reading</h2>
-    <ul>
-      <li><a href="/bookshelf.html">Home Library</a></li>
-      <li><a href="/readinglist.html">Reading List</a></li>
-      <li><a href="/antilibrary.html">Antilibrary</a></li>
-      <li><a href="/reread.html">Worth Rereading</a></li>
-    </ul>
+  <section class="more-section" aria-labelledby="more-explore">
+    <h2 id="more-explore">Explore</h2>
+    <div class="more-links">
+      <a href="{{ '/category.html' | relative_url }}">Categories</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/author.html' | relative_url }}">Authors</a><span class="more-dot" aria-hidden="true">·</span>
+      <!-- TODO: Replace with the All Posts URL when that page is ready. -->
+      <span class="more-pending" title="Page coming soon">All Posts</span><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/search.html' | relative_url }}">Search</a>
+    </div>
   </section>
 
-  <section class="more-section" aria-labelledby="more-writing">
-    <h2 id="more-writing">Writing</h2>
-    <ul>
-      <li><a href="/books.html">English</a></li>
-      <li><a href="/summary.html">tl;dr</a></li>
-    </ul>
+  <section class="more-section" aria-labelledby="more-reading">
+    <h2 id="more-reading">Reading</h2>
+    <div class="more-links">
+      <a href="{{ '/bookshelf.html' | relative_url }}">Bookshelf</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/reread.html' | relative_url }}">Worth Rereading</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/antilibrary.html' | relative_url }}">Antilibrary</a><span class="more-dot" aria-hidden="true">·</span>
+      <!-- TODO: Supply the actual Now page URL. -->
+      <span class="more-pending" title="Link to be added">Now</span>
+    </div>
   </section>
 
   <section class="more-section" aria-labelledby="more-years">
     <h2 id="more-years">Reading by Year</h2>
-    <ul class="more-years">
-      <li><a href="/2026.html">2026</a></li>
-      <li><a href="/2025.html">2025</a></li>
-      <li><a href="/2024.html">2024</a></li>
-      <li><a href="/2023.html">2023</a></li>
-      <li><a href="/2022.html">2022</a></li>
-      <li><a href="/2021.html">2021</a></li>
-    </ul>
+    <div class="more-links">
+      <span class="more-pending" title="2027 page not yet available">2027</span><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/2026.html' | relative_url }}">2026</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/2025.html' | relative_url }}">2025</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/2024.html' | relative_url }}">2024</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/2023.html' | relative_url }}">2023</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/2022.html' | relative_url }}">2022</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="{{ '/2021.html' | relative_url }}">2021</a>
+    </div>
   </section>
 
-  <section class="more-section" aria-labelledby="more-elsewhere">
-    <h2 id="more-elsewhere">Elsewhere &amp; Collections</h2>
-    <ul>
-      <li><a href="/bookmarks.html">Bookmarks</a></li>
-      <li><a href="/media-content.html">Articles, Podcasts &amp; Videos</a></li>
-    </ul>
-  </section>
+  <div class="more-secondary">
+    <section class="more-row" aria-labelledby="more-social">
+      <h2 id="more-social">Social Media</h2>
+      <div class="more-links">
+        <!-- TODO: Insert exact Instagram and Substack profile URLs. -->
+        <span class="more-pending" title="Link to be added">Instagram</span><span class="more-dot" aria-hidden="true">·</span>
+        <span class="more-pending" title="Link to be added">Substack</span>
+      </div>
+    </section>
 
-  <section class="more-section" aria-labelledby="more-projects">
-    <h2 id="more-projects">Side Projects</h2>
-    <ul>
-      <li><a href="https://affirmation.next52books.com/">Affirmations</a></li>
-      <li><a href="https://vegan.next52books.com/">Vegan Recipes</a></li>
-      <li><a href="https://qotd.next52books.com/">Question of the Day</a></li>
-    </ul>
-  </section>
+    <section class="more-row" aria-labelledby="more-collections">
+      <h2 id="more-collections">Collections</h2>
+      <div class="more-links">
+        <a href="{{ '/books.html' | relative_url }}">English</a><span class="more-dot" aria-hidden="true">·</span>
+        <a href="{{ '/summary.html' | relative_url }}">tl;dr</a><span class="more-dot" aria-hidden="true">·</span>
+        <a href="{{ '/readinglist.html' | relative_url }}">Reading List</a><span class="more-dot" aria-hidden="true">·</span>
+        <!-- TODO: TBU and To Be Updated are two distinct pages; add their exact URLs. -->
+        <span class="more-pending" title="Link to be added">TBU</span><span class="more-dot" aria-hidden="true">·</span>
+        <span class="more-pending" title="Link to be added">To Be Updated</span><span class="more-dot" aria-hidden="true">·</span>
+        <a href="{{ '/bookmarks.html' | relative_url }}">Bookmarks</a><span class="more-dot" aria-hidden="true">·</span>
+        <a href="{{ '/media-content.html' | relative_url }}">Articles, Podcasts &amp; Videos</a>
+      </div>
+    </section>
 
-  <div class="more-utilities">
-    <a href="/latestpost.html">Latest Post</a>
-    <span aria-hidden="true">·</span>
-    <a href="/randompost.html">Random Post</a>
-    <span aria-hidden="true">·</span>
-    <a href="/search.html">Search</a>
+    <section class="more-row" aria-labelledby="more-projects">
+      <h2 id="more-projects">Side Projects</h2>
+      <div class="more-links">
+        <a href="https://affirmation.next52books.com/">Affirmations</a><span class="more-dot" aria-hidden="true">·</span>
+        <a href="https://vegan.next52books.com/">Vegan Recipes</a><span class="more-dot" aria-hidden="true">·</span>
+        <!-- TODO: Insert exact Tools page URL. -->
+        <span class="more-pending" title="Link to be added">Tools</span>
+      </div>
+    </section>
   </div>
-  <p class="more-total"><a href="/map">{%- include numberofposts.html -%}</a></p>
+  <p class="more-total">{%- include numberofposts.html -%}</p>
 </nav>
 
 <style>
-  .more-directory { max-width: 540px; margin: 0 auto 3rem; font-style: normal; }
+  .more-directory { width: min(580px, 100%); margin: 0 auto 3rem; color: #333; font-family: inherit; font-style: normal; }
+  .more-directory, .more-directory * { box-sizing: border-box; }
   .more-section { margin: 0 0 2.1rem; }
-  .more-section h2 { margin: 0 0 .75rem; color: #777; font-size: .78rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; font-style: normal; }
-  .more-section ul { list-style: none; margin: 0; padding: 0; }
-  .more-section li { margin: 0; padding: .34rem 0; line-height: 1.65; }
-  .more-directory a { color: inherit; text-decoration: underline; text-decoration-color: #c7c7c7; text-underline-offset: 3px; }
-  .more-directory a:hover, .more-directory a:focus-visible { text-decoration-color: currentColor; }
-  .more-years { display: flex; flex-wrap: wrap; gap: .2rem 1.1rem; }
-  .more-years li { white-space: nowrap; }
-  .more-utilities { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #e8e8e8; color: #666; font-size: .88rem; }
-  .more-utilities span { padding: 0 .35rem; color: #aaa; }
-  .more-total { margin: 1.1rem 0 0; color: #888; font-size: .8rem; }
-  @media (max-width: 600px) { .more-directory { max-width: 100%; } .more-section { margin-bottom: 1.75rem; } }
+  .more-directory h2 { margin: 0 0 .72rem; color: #888; font-family: inherit; font-size: .77rem; font-weight: 600; letter-spacing: .085em; line-height: 1.5; text-transform: uppercase; font-style: normal; }
+  .more-links { font-family: Georgia, 'Times New Roman', serif; font-size: 1.02rem; font-style: normal; line-height: 2; overflow-wrap: anywhere; }
+  .more-links a { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; transition: border-color .15s ease; }
+  .more-links a:hover, .more-links a:focus-visible { border-bottom-color: currentColor; text-decoration: none; }
+  .more-links a:focus-visible { outline: 2px solid #999; outline-offset: 3px; }
+  .more-dot { color: #aaa; padding: 0 .43rem; white-space: nowrap; }
+  .more-pending { color: #999; cursor: default; }
+  .more-total { margin: 1.8rem 0 0; color: #999; font-size: .8rem; text-align: right; }
+  .more-secondary { border-top: 1px solid #e9e9e9; padding-top: 1.5rem; margin-top: .3rem; }
+  .more-row { display: grid; grid-template-columns: 125px minmax(0, 1fr); gap: 16px; align-items: start; margin: 0 0 1.35rem; }
+  .more-row h2 { margin-top: .35rem; }
+  .more-row .more-links { font-size: .94rem; line-height: 1.9; }
+  @media (max-width: 600px) {
+    .more-directory { width: 100%; padding: 0; }
+    .more-row { grid-template-columns: 1fr; gap: .2rem; margin-bottom: 1.6rem; }
+    .more-row h2 { margin-top: 0; }
+    .more-links { font-size: 1rem; }
+  }
 </style>
