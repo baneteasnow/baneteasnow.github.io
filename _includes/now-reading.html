@@ -1,35 +1,14 @@
-{% assign total_read = 0 %}
-{% assign sum_progress = 0 %}
 {% assign active_count = 0 %}
 {% for i in (1..page.book_count) %}
   {% capture title_key %}booktitle{{ i }}{% endcapture %}
   {% capture total_key %}sayfa{{ i }}{% endcapture %}
-  {% capture read_key %}pageread{{ i }}{% endcapture %}
   {% assign title = page[title_key] %}
   {% assign total = page[total_key] | plus: 0 %}
-  {% assign read = page[read_key] | plus: 0 %}
-  {% if title and total > 0 %}
-    {% assign active_count = active_count | plus: 1 %}
-    {% assign total_read = total_read | plus: read %}
-    {% assign percent = read | times: 100.0 | divided_by: total %}
-    {% assign sum_progress = sum_progress | plus: percent %}
-  {% endif %}
+  {% if title and total > 0 %}{% assign active_count = active_count | plus: 1 %}{% endif %}
 {% endfor %}
-{% assign average_progress = 0 %}
-{% if active_count > 0 %}{% assign average_progress = sum_progress | divided_by: active_count | round %}{% endif %}
 <section class="reading-ledger" aria-label="Currently reading">
-  <div class="rl-eyebrow">NEXT52BOOKS / READING NOW</div>
-  <header class="rl-header">
-    <h2>On my reading desk</h2>
-    <span>{{ active_count }} books</span>
-  </header>
-  <p class="rl-intro">A living record of books in progress.</p>
-  <div class="rl-overview" aria-label="Reading overview">
-    <div><strong>{{ total_read }}</strong><span>pages read across this shelf</span></div>
-    <div><strong>{{ average_progress }}%</strong><span>average progress</span></div>
-    <div class="rl-updated">Last updated<br>{{ page.last_modified_at | date: "%d %B %Y" }}</div>
-  </div>
-  <div class="rl-section-title">CURRENTLY READING</div>
+  <div class="rl-summary">currently reading · {{ active_count }} books</div>
+  <p class="rl-updated">Last updated {{ page.last_modified_at | date: "%d %B %Y" }}</p>
   <div class="rl-entries">
   {% for i in (1..page.book_count) %}
     {% capture title_key %}booktitle{{ i }}{% endcapture %}

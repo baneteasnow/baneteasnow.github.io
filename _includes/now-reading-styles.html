@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=DM+Sans:wght@400;500;600&display=swap');
 .reading-ledger{--rl-ink:#302d2a;--rl-muted:#8a827b;--rl-line:#e5e0da;--rl-accent:#7a3e4b;max-width:735px;margin:32px auto 65px;color:var(--rl-ink);font-family:'EB Garamond',Georgia,serif}
 .reading-ledger *{box-sizing:border-box}
-.reading-ledger .rl-eyebrow,.reading-ledger .rl-header>span,.reading-ledger .rl-overview span,.reading-ledger .rl-updated,.reading-ledger .rl-section-title,.reading-ledger .rl-meta,.reading-ledger .rl-percent{font-family:'DM Sans',Arial,sans-serif}
+.reading-ledger .rl-summary,.reading-ledger .rl-updated,.reading-ledger .rl-meta,.reading-ledger .rl-percent{font-family:'DM Sans',Arial,sans-serif}
 .reading-ledger .rl-eyebrow{font-size:10px;letter-spacing:.16em;color:var(--rl-muted)}
 .reading-ledger .rl-header{display:flex;align-items:baseline;justify-content:space-between;gap:15px;margin:10px 0 7px}
 .reading-ledger .rl-header h2{font:italic 600 33px/1.1 'EB Garamond',Georgia,serif;margin:0;color:var(--rl-ink)}
@@ -30,3 +30,8 @@
 .reading-ledger .rl-footer{margin:28px 0 0;font:italic 16px 'EB Garamond',Georgia,serif}.reading-ledger .rl-footer a{color:#6e5158;text-decoration:none;border-bottom:1px solid #c5b5b9}
 @media(max-width:600px){.reading-ledger{margin:22px auto 45px}.reading-ledger .rl-header h2{font-size:29px}.reading-ledger .rl-book{grid-template-columns:27px minmax(0,1fr) 64px;gap:9px;padding:20px 0}.reading-ledger .rl-cover{width:64px;height:96px}.reading-ledger .rl-body h3{font-size:20px}.reading-ledger .rl-overview{gap:12px}.reading-ledger .rl-overview strong{font-size:23px}.reading-ledger .rl-overview span,.reading-ledger .rl-updated{font-size:10px}}
 </style>
+
+/* Reading Ledger: simplified heading and no overview statistics */
+.reading-ledger .rl-summary{font-size:11px;letter-spacing:.075em;color:var(--rl-muted);margin:0 0 8px;text-transform:none}
+.reading-ledger .rl-updated{font-size:11px;line-height:1.5;color:var(--rl-muted);text-align:left;margin:0 0 24px}
+.reading-ledger .rl-footer{margin-top:48px}
