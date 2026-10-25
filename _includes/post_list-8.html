@@ -54,8 +54,7 @@
 			== 'June' %} haziran {% elsif month.name == 'July' %} temmuz {% elsif
 			month.name == 'August' %} ağustos {% elsif month.name == 'September' %}
 			eylül {% elsif month.name == 'October' %} ekim {% elsif month.name ==
-			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif
-			%}
+			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif %}
 		</span>
 		<br />
 		{% for post in month.items limit:5 %}
@@ -69,15 +68,9 @@
 			>
 				<a
 					href="{{ post.url | relative_url }}"
-					{%
-					if
-					post.url=""
-					="site.posts.first.url"
-					%}
+					{% if post.url == site.posts.first.url %}
 					class="active"
-					{%
-					endif
-					%}
+					{% endif %}
 					>{{ post.title | downcase }}</a
 				>
 				&nbsp;
@@ -126,8 +119,7 @@
 			== 'June' %} haziran {% elsif month.name == 'July' %} temmuz {% elsif
 			month.name == 'August' %} ağustos {% elsif month.name == 'September' %}
 			eylül {% elsif month.name == 'October' %} ekim {% elsif month.name ==
-			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif
-			%}
+			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif %}
 		</span>
 		<br />
 		{% for post in month.items %}
@@ -141,15 +133,9 @@
 			>
 				<a
 					href="{{ post.url | relative_url }}"
-					{%
-					if
-					post.url=""
-					="site.posts.first.url"
-					%}
+					{% if post.url == site.posts.first.url %}
 					class="active"
-					{%
-					endif
-					%}
+					{% endif %}
 					>{{ post.title | downcase }}</a
 				>
 				&nbsp;
