@@ -103,406 +103,406 @@ books:
     cover: "/assets/new/the-coming-wave.jpg"
 
   - id: 45
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Aug"
+    title: "Stolen Focus"
+    author: "Johann Hari"
+    year: 2022
+    pages: 320
     format: "book"
-    cover: ""
+    cover: "/assets/new/stolen-focus.jpg"
 
   - id: 44
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Aug"
+    title: "Why We Love"
+    author: "Anna Machin"
+    year: 2026
+    pages: 320
     format: "book"
-    cover: ""
+    cover: "/assets/new/why-we-love.jpg"
 
   - id: 43
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Aug"
+    title: "Travelers to Unimaginable Lands"
+    author: "Dasha Kiper"
+    year: 2025
+    pages: 240
     format: "book"
-    cover: ""
+    cover: "/assets/new/travelers-to-unimaginable-lands.jpg"
 
   - id: 42
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "The Truth Will Set You Free, But First It Will Piss You Off!"
+    author: "Gloria Steinem"
+    year: 2025
+    pages: 176
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-truth-will-set-you-free-but-first-it-will-piss-you-off.jpg"
 
   - id: 41
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "Last Words From Barcelona"
+    author: "Baek Sehee"
+    year: 2026
+    pages: 74
     format: "book"
-    cover: ""
+    cover: "/assets/new/last-words-from-barcelona.jpg"
 
   - id: 40
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "All the Lonely People"
+    author: "Sam Carr"
+    year: 2026
+    pages: 260
     format: "book"
-    cover: ""
+    cover: "/assets/new/all-the-lonely-people.jpg"
 
   - id: 39
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "Dirty Work"
+    author: "Eyal Press"
+    year: 2023
+    pages: 328
     format: "book"
-    cover: ""
+    cover: "/assets/new/dirty-work.jpg"
 
   - id: 38
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "The Signal and the Noise"
+    author: "Nate Silver"
+    year: 2018
+    pages: 576
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-signal-and-the-noise.jpg"
 
   - id: 37
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "The Elements of Choice"
+    author: "Eric J. Johnson"
+    year: 2025
+    pages: 392
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-elements-of-choice.jpg"
 
   - id: 36
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "Women Who Love Too Much"
+    author: "Robin Norwood"
+    year: 2019
+    pages: 328
     format: "book"
-    cover: ""
+    cover: "/assets/new/women-who-love-too-much.jpg"
 
   - id: 35
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "Emotional Inheritance"
+    author: "Galit Atlas"
+    year: 2022
+    pages: 224
     format: "book"
-    cover: ""
+    cover: "/assets/new/emotional-inheritance.jpg"
 
   - id: 34
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jul"
+    title: "The Enigma of Desire"
+    author: "Galit Atlas"
+    year: 2022
+    pages: 272
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-enigma-of-desire.jpg"
 
   - id: 33
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jun"
+    title: "Fluke"
+    author: "Brian Klaas"
+    year: 2026
+    pages: 372
     format: "book"
-    cover: ""
+    cover: "/assets/new/fluke.jpg"
 
   - id: 32
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jun"
+    title: "All In Her Head"
+    author: "Misty Pratt"
+    year: 2025
+    pages: 288
     format: "book"
-    cover: ""
+    cover: "/assets/new/all-in-her-head.jpg"
 
   - id: 31
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jun"
+    title: "Men Who Hate Women"
+    author: "Laura Bates"
+    year: 2026
+    pages: 480
     format: "book"
-    cover: ""
+    cover: "/assets/new/men-who-hate-women.jpg"
 
   - id: 30
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jun"
+    title: "Carl Jung - Wounded Healer of the Soul"
+    author: "Claire Dunne"
+    year: 2024
+    pages: 320
     format: "book"
-    cover: ""
+    cover: "/assets/new/carl-jung-wounded-healer-of-the-soul.jpg"
 
   - id: 29
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jun"
+    title: "The Feminist Killjoy Handbook"
+    author: "Sara Ahmed"
+    year: 2024
+    pages: 320
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-feminist-killjoy-handbook.jpg"
 
   - id: 28
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jun"
+    title: "Yazma Cesareti"
+    author: "Nihan Kaya"
+    year: 2019
+    pages: 336
     format: "book"
-    cover: ""
+    cover: "/assets/new/yazma-cesareti.jpg"
 
   - id: 27
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "May"
+    title: "Fildisi Kuyu 2 - Yaraticilik, Cinsellik ve Psikanaliz"
+    author: "Nihan Kaya"
+    year: 2024
+    pages: 240
     format: "book"
-    cover: ""
+    cover: "/assets/new/fildisi-kuyu-2.jpg"
 
   - id: 26
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Apr"
+    title: "The Wisdom of Psychopaths"
+    author: "Kevin Dutton"
+    year: 2022
+    pages: 280
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-wisdom-of-psychopaths.jpg"
 
   - id: 25
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Apr"
+    title: "All About Love"
+    author: "Bell Hooks"
+    year: 2018
+    pages: 216
     format: "book"
-    cover: ""
+    cover: "/assets/new/all-about-love.jpg"
 
   - id: 24
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Apr"
+    title: "Fildisi Kuyu 1 - Aile ve Toplum Tarafindan Dislanma"
+    author: "Nihan Kaya"
+    year: 2024
+    pages: 240
     format: "book"
-    cover: ""
+    cover: "/assets/new/fildisi-kuyu-1.jpg"
 
   - id: 23
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Apr"
+    title: "Beni Zorla Sagma, Birak Emzireyim Seni"
+    author: "Nihan Kaya"
+    year: 2024
+    pages: 228
     format: "book"
-    cover: ""
+    cover: "/assets/new/beni-zorla-sagma-birak-ben-emzireyim-seni.jpg"
 
   - id: 22
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Apr"
+    title: "Overtime"
+    author: "Will Stronge, Kyle Lewis"
+    year: 2021
+    pages: 104
     format: "book"
-    cover: ""
+    cover: "/assets/new/overtime.jpg"
 
   - id: 21
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "Feminism Is for Everybody"
+    author: "Bell Hooks"
+    year: 2026
+    pages: 148
     format: "book"
-    cover: ""
+    cover: "/assets/new/feminism-is-for-everybody.jpg"
 
   - id: 20
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "Sevmek, Sevilmek, Cinsellik"
+    author: "Nihan Kaya"
+    year: 2026
+    pages: 320
     format: "book"
-    cover: ""
+    cover: "/assets/new/sevmek-sevilmek-cinsellik.jpg"
 
   - id: 19
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "Owning Your Own Shadow"
+    author: "Robert A. Johnson"
+    year: 2019
+    pages: 108
     format: "book"
-    cover: ""
+    cover: "/assets/new/owning-your-own-shadow.jpg"
 
   - id: 18
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "Lost Connections"
+    author: "Johann Hari"
+    year: 2019
+    pages: 368
     format: "book"
-    cover: ""
+    cover: "/assets/new/lost-connections.jpg"
 
   - id: 17
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "On Our Best Behavior"
+    author: "Elise Loehnen"
+    year: 2025
+    pages: 408
     format: "book"
-    cover: ""
+    cover: "/assets/new/on-our-best-behavior.jpg"
 
   - id: 16
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "Prozac Nation"
+    author: "Elizabeth Wurtzel"
+    year: 2005
+    pages: 360
     format: "book"
-    cover: ""
+    cover: "/assets/new/prozac-nation.jpg"
 
   - id: 15
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "The Information Bomb"
+    author: "Paul Virilio"
+    year: 2021
+    pages: 144
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-information-bomb.jpg"
 
   - id: 14
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "The Anxious Generation"
+    author: "Jonathan Haidt"
+    year: 2025
+    pages: 464
     format: "book"
-    cover: ""
+    cover: "/assets/new/the-anxious-generation.jpg"
 
   - id: 13
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "On Seeing and Noticing"
+    author: "Alain De Botton"
+    year: 2018
+    pages: 104
     format: "book"
-    cover: ""
+    cover: "/assets/new/on-seeing-and-noticing.jpg"
 
   - id: 12
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "Abolish the Family"
+    author: "Sophie Lewis"
+    year: 2025
+    pages: 128
     format: "book"
-    cover: ""
+    cover: "/assets/new/abolish-the-family.jpg"
 
   - id: 11
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Mar"
+    title: "Men Explain Things to Me"
+    author: "Rebecca Solnit"
+    year: 2024
+    pages: 136
     format: "book"
-    cover: ""
+    cover: "/assets/new/men-explain-things-to-me.jpg"
 
   - id: 10
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "Nobody’s Girl"
+    author: "Virginia Roberts Giuffre"
+    year: 2026
+    pages: 432
     format: "book"
-    cover: ""
+    cover: "/assets/new/nobody-s-girl.jpg"
 
   - id: 9
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "Over the Influence"
+    author: "Kara Alaimo"
+    year: 2025
+    pages: 288
     format: "book"
-    cover: ""
+    cover: "/assets/new/over-the-influence.jpg"
 
   - id: 8
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "History, Disrupted"
+    author: "Jason Steinhauer"
+    year: 2024
+    pages: 208
     format: "book"
-    cover: ""
+    cover: "/assets/new/history-disrupted.jpg"
 
   - id: 7
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "Romantic Agency"
+    author: "Luke Brunning"
+    year: 2025
+    pages: 264
     format: "book"
-    cover: ""
+    cover: "/assets/new/romantic-agency.jpg"
 
   - id: 6
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "This Is Not Propaganda"
+    author: "Peter Pomerantsev"
+    year: 2021
+    pages: 240
     format: "book"
-    cover: ""
+    cover: "/assets/new/this-is-not-propaganda.jpg"
 
   - id: 5
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "What I Couldn’t Tell My Therapist"
+    author: "Michelle M. May"
+    year: 2025
+    pages: 280
     format: "book"
-    cover: ""
+    cover: "/assets/new/what-i-couldn-t-tell-my-therapist.jpg"
 
   - id: 4
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "Dopamine Nation"
+    author: "Anna Lembke"
+    year: 2025
+    pages: 208
     format: "book"
-    cover: ""
+    cover: "/assets/new/dopamine-nation.jpg"
 
   - id: 3
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Feb"
+    title: "Irvin D. Yalom - Psikoterapi ve İnsan Olmak Üzerine"
+    author: "Ruthellen Josselson"
+    year: 2022
+    pages: 152
     format: "book"
-    cover: ""
+    cover: "/assets/new/irvin-d-yalom-psikoterapi-ve-insan-olmak-uzerine.jpg"
 
   - id: 2
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jan"
+    title: "Liquid Modernity"
+    author: "Zygmunt Bauman"
+    year: 2017
+    pages: 312
     format: "book"
-    cover: ""
+    cover: "/assets/new/liquid-modernity.jpg"
 
   - id: 1
-    month: ""
-    title: ""
-    author: ""
-    year:
-    pages:
+    month: "Jan"
+    title: "Every Day I Read"
+    author: "Hwang Bo-Reum"
+    year: 2025
+    pages: 192
     format: "book"
-    cover: ""
+    cover: "/assets/new/every-day-i-read.jpg"
