@@ -1,0 +1,25 @@
+# Next52books — 2026 reading archive
+# Save this file as: _data/reading-2026.yml
+# Add one block per FINISHED book, newest first.
+# This is a TEMPLATE: replace examples with your real records.
+
+year: 2026
+goal: 70
+
+books:
+  - id: 56
+    month: "Oct"
+    title: "Practices for Embodied Living"
+    author: "Hillary L. McBride"
+    year: 2026
+    pages: 160
+    format: "book"
+    cover: "/assets/books/example-book.jpg"
+
+  - id: 55
+    month: "Sep"
+    title: "Another Example Book"
+    author: "Another Author"
+    year: 2021
+    pages: 256
+    format: "book"

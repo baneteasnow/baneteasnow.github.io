@@ -1,0 +1,22 @@
+# Next52books — reading archive. Add your real books below.
+# The book records below are EXAMPLES; replace them before publishing.
+year: 2026
+goal: 70
+books:
+  - id: 56
+    month: "Oct"
+    title: "Practices for Embodied Living (2026)"
+    author: "Hillary L. McBride"
+    year: 2026
+    pages: 160
+    format: "book"
+    cover: "/assets/new/practices-for-embodied-living.jpg" # Replace with an existing site image URL
+
+  - id: 55
+    month: "Sep"
+    title: "Another Example Book"
+    author: "Another Author"
+    year: 2021
+    pages: 256
+    format: "Kindle"
+    cover: "" # Empty = elegant cover placeholder

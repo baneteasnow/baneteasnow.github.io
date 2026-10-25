@@ -18,7 +18,7 @@ read: 56
 layout: page
 title: şimdi okuduğum kitaplar
 last_modified_at: 2026-10-24
-published: true
+published: false
 #
 # 1
 booktitle1: "The White Album"

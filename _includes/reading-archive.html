@@ -1,0 +1,43 @@
+{% assign archive_key = include.year | prepend: 'reading-' %}
+{% assign archive = site.data[archive_key] %}
+{% if archive %}
+  {% assign total = archive.books.size %}
+  {% assign goal = archive.goal | default: 0 | plus: 0 %}
+  {% assign percentage = 0 %}
+  {% if goal > 0 %}{% assign percentage = total | times: 100.0 | divided_by: goal | round %}{% endif %}
+  {% assign bar_percentage = percentage | at_most: 100 %}
+  <section class="reading-archive" aria-label="{{ include.year }} reading archive">
+    <div class="ra-kicker">READING ARCHIVE · {{ include.year }}</div>
+    <div class="ra-goal" aria-label="Reading goal: {{ total }} of {{ goal }} books">
+      <span class="ra-goal-count"><strong>{{ total }}</strong><span> / {{ goal }} books</span></span>
+      <div class="ra-goal-track" role="progressbar" aria-label="Annual reading goal" aria-valuemin="0" aria-valuemax="{{ goal }}" aria-valuenow="{{ total }}"><span style="width:{{ bar_percentage }}%"></span></div>
+      <span class="ra-goal-percent">{{ percentage }}%</span>
+    </div>
+    <div class="ra-list-heading"><span>Books read</span><span>{{ total }} titles</span></div>
+    <div class="ra-list">
+      {% for book in archive.books %}
+        <article class="ra-book">
+          <div class="ra-number">№ {{ book.id | default: forloop.index }}</div>
+          {% if book.cover and book.cover != '' %}
+            <img class="ra-cover" src="{{ book.cover | relative_url }}" alt="Cover of {{ book.title | escape }}" width="62" height="92" loading="lazy" decoding="async">
+          {% else %}
+            <div class="ra-cover ra-cover-placeholder" aria-hidden="true"><span>{{ book.title | escape }}</span></div>
+          {% endif %}
+          <div class="ra-book-main">
+            <h2>{{ book.title | escape }}</h2>
+            <p class="ra-byline">{{ book.author | escape }}{% if book.year %} · {{ book.year }}{% endif %}</p>
+            <p class="ra-detail">{% if book.pages %}{{ book.pages }} pages{% endif %}{% if book.pages and book.format %} · {% endif %}{{ book.format | escape }}</p>
+          </div>
+          <div class="ra-month">{{ book.month | escape }}</div>
+        </article>
+      {% endfor %}
+    </div>
+    <nav class="ra-years" aria-label="Reading years">
+      <a href="/{{ include.year | minus: 1 }}.html">← {{ include.year | minus: 1 }}</a>
+      <span>{{ include.year }}</span>
+      <a href="/{{ include.year | plus: 1 }}.html">{{ include.year | plus: 1 }} →</a>
+    </nav>
+  </section>
+{% else %}
+  <p>Reading data for {{ include.year }} has not been added yet.</p>
+{% endif %}
