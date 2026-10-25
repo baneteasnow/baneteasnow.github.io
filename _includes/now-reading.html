@@ -1,0 +1,73 @@
+{% assign total_read = 0 %}
+{% assign sum_progress = 0 %}
+{% assign active_count = 0 %}
+{% for i in (1..page.book_count) %}
+  {% capture title_key %}booktitle{{ i }}{% endcapture %}
+  {% capture total_key %}sayfa{{ i }}{% endcapture %}
+  {% capture read_key %}pageread{{ i }}{% endcapture %}
+  {% assign title = page[title_key] %}
+  {% assign total = page[total_key] | plus: 0 %}
+  {% assign read = page[read_key] | plus: 0 %}
+  {% if title and total > 0 %}
+    {% assign active_count = active_count | plus: 1 %}
+    {% assign total_read = total_read | plus: read %}
+    {% assign percent = read | times: 100.0 | divided_by: total %}
+    {% assign sum_progress = sum_progress | plus: percent %}
+  {% endif %}
+{% endfor %}
+{% assign average_progress = 0 %}
+{% if active_count > 0 %}{% assign average_progress = sum_progress | divided_by: active_count | round %}{% endif %}
+<section class="reading-ledger" aria-label="Currently reading">
+  <div class="rl-eyebrow">NEXT52BOOKS / READING NOW</div>
+  <header class="rl-header">
+    <h2>On my reading desk</h2>
+    <span>{{ active_count }} books</span>
+  </header>
+  <p class="rl-intro">A living record of books in progress.</p>
+  <div class="rl-overview" aria-label="Reading overview">
+    <div><strong>{{ total_read }}</strong><span>pages read across this shelf</span></div>
+    <div><strong>{{ average_progress }}%</strong><span>average progress</span></div>
+    <div class="rl-updated">Last updated<br>{{ page.last_modified_at | date: "%d %B %Y" }}</div>
+  </div>
+  <div class="rl-section-title">CURRENTLY READING</div>
+  <div class="rl-entries">
+  {% for i in (1..page.book_count) %}
+    {% capture title_key %}booktitle{{ i }}{% endcapture %}
+    {% capture author_key %}author{{ i }}{% endcapture %}
+    {% capture year_key %}bookyear{{ i }}{% endcapture %}
+    {% capture total_key %}sayfa{{ i }}{% endcapture %}
+    {% capture read_key %}pageread{{ i }}{% endcapture %}
+    {% capture format_key %}format{{ i }}{% endcapture %}
+    {% capture cover_key %}cover{{ i }}{% endcapture %}
+    {% assign title = page[title_key] %}
+    {% assign author = page[author_key] %}
+    {% assign year = page[year_key] %}
+    {% assign total = page[total_key] | plus: 0 %}
+    {% assign read = page[read_key] | plus: 0 %}
+    {% assign format = page[format_key] %}
+    {% assign cover = page[cover_key] %}
+    {% if title and total > 0 %}
+      {% assign pct = read | times: 100.0 | divided_by: total | round %}
+      {% assign number = page.read | plus: i %}
+      <article class="rl-book">
+        <span class="rl-number">№ {{ number }}</span>
+        <div class="rl-body">
+          <h3>{{ title | escape }}</h3>
+          <p class="rl-author">{{ author | escape }}{% if year %} · {{ year }}{% endif %}</p>
+          <p class="rl-meta">{{ read }} of {{ total }} pages{% if format %} · {{ format | escape }}{% endif %}</p>
+          <div class="rl-progress">
+            <div class="rl-track" role="progressbar" aria-label="{{ title | escape }} progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="{{ pct }}"><span style="width: {{ pct | at_most: 100 | at_least: 0 }}%"></span></div>
+            <span class="rl-percent">{{ pct }}%</span>
+          </div>
+        </div>
+        {% if cover %}
+          <img class="rl-cover" src="{{ cover | relative_url }}" alt="{{ title | escape }} cover" loading="lazy" decoding="async" width="82" height="123">
+        {% else %}
+          <div class="rl-cover rl-placeholder" aria-hidden="true">{{ title | escape }}</div>
+        {% endif %}
+      </article>
+    {% endif %}
+  {% endfor %}
+  </div>
+  <p class="rl-footer"><a href="/through-the-year.html">Through the year →</a></p>
+</section>

@@ -1,0 +1,32 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=DM+Sans:wght@400;500;600&display=swap');
+.reading-ledger{--rl-ink:#302d2a;--rl-muted:#8a827b;--rl-line:#e5e0da;--rl-accent:#7a3e4b;max-width:735px;margin:32px auto 65px;color:var(--rl-ink);font-family:'EB Garamond',Georgia,serif}
+.reading-ledger *{box-sizing:border-box}
+.reading-ledger .rl-eyebrow,.reading-ledger .rl-header>span,.reading-ledger .rl-overview span,.reading-ledger .rl-updated,.reading-ledger .rl-section-title,.reading-ledger .rl-meta,.reading-ledger .rl-percent{font-family:'DM Sans',Arial,sans-serif}
+.reading-ledger .rl-eyebrow{font-size:10px;letter-spacing:.16em;color:var(--rl-muted)}
+.reading-ledger .rl-header{display:flex;align-items:baseline;justify-content:space-between;gap:15px;margin:10px 0 7px}
+.reading-ledger .rl-header h2{font:italic 600 33px/1.1 'EB Garamond',Georgia,serif;margin:0;color:var(--rl-ink)}
+.reading-ledger .rl-header>span{font-size:12px;color:var(--rl-muted);white-space:nowrap}
+.reading-ledger .rl-intro{font:17px/1.45 'EB Garamond',Georgia,serif;color:#716960;margin:0 0 29px}
+.reading-ledger .rl-overview{display:flex;align-items:center;gap:24px;border-top:1px solid var(--rl-line);border-bottom:1px solid var(--rl-line);padding:17px 0;margin-bottom:26px}
+.reading-ledger .rl-overview>div:not(.rl-updated){display:flex;flex-direction:column;gap:4px}
+.reading-ledger .rl-overview strong{font:600 27px 'EB Garamond',Georgia,serif}
+.reading-ledger .rl-overview span{font-size:11px;color:var(--rl-muted)}
+.reading-ledger .rl-updated{margin-left:auto;text-align:right;font-size:11px;line-height:1.65;color:var(--rl-muted)}
+.reading-ledger .rl-section-title{font-size:11px;letter-spacing:.09em;color:var(--rl-muted);margin-bottom:9px}
+.reading-ledger .rl-book{display:grid;grid-template-columns:43px minmax(0,1fr) 82px;gap:15px;align-items:start;padding:25px 0;border-bottom:1px solid var(--rl-line)}
+.reading-ledger .rl-number{font:italic 13px 'EB Garamond',Georgia,serif;color:#a49b93;padding-top:4px;white-space:nowrap}
+.reading-ledger .rl-body{min-width:0}
+.reading-ledger .rl-body h3{font:600 23px/1.18 'EB Garamond',Georgia,serif;color:var(--rl-ink);margin:0 0 6px}
+.reading-ledger .rl-author{font:italic 16px/1.3 'EB Garamond',Georgia,serif;color:#5c5550;margin:0 0 12px}
+.reading-ledger .rl-meta{font-size:11px;line-height:1.5;color:var(--rl-muted);margin:0}
+.reading-ledger .rl-progress{display:flex;align-items:center;gap:12px;max-width:420px;margin-top:15px}
+.reading-ledger .rl-track{height:5px;background:#eae6e1;flex:1;border-radius:8px;overflow:hidden}
+.reading-ledger .rl-track>span{display:block;height:100%;background:var(--rl-accent);border-radius:8px}
+.reading-ledger .rl-percent{font-size:12px;font-weight:600;color:#675f59;min-width:38px;text-align:right}
+.reading-ledger .rl-cover{width:82px;height:123px;object-fit:cover;display:block;box-shadow:3px 4px 0 #0000000d}
+.reading-ledger .rl-placeholder{background:#e3d7c9;color:#55443c;display:flex;align-items:center;justify-content:center;padding:9px;text-align:center;font:italic 600 14px/1.12 'EB Garamond',Georgia,serif;overflow-wrap:anywhere;overflow:hidden}
+.reading-ledger .rl-book:nth-child(5n+2) .rl-placeholder{background:#d3dbd4}.reading-ledger .rl-book:nth-child(5n+3) .rl-placeholder{background:#d9d5c8}.reading-ledger .rl-book:nth-child(5n+4) .rl-placeholder{background:#ded4d6}.reading-ledger .rl-book:nth-child(5n+5) .rl-placeholder{background:#cdd7df}
+.reading-ledger .rl-footer{margin:28px 0 0;font:italic 16px 'EB Garamond',Georgia,serif}.reading-ledger .rl-footer a{color:#6e5158;text-decoration:none;border-bottom:1px solid #c5b5b9}
+@media(max-width:600px){.reading-ledger{margin:22px auto 45px}.reading-ledger .rl-header h2{font-size:29px}.reading-ledger .rl-book{grid-template-columns:27px minmax(0,1fr) 64px;gap:9px;padding:20px 0}.reading-ledger .rl-cover{width:64px;height:96px}.reading-ledger .rl-body h3{font-size:20px}.reading-ledger .rl-overview{gap:12px}.reading-ledger .rl-overview strong{font-size:23px}.reading-ledger .rl-overview span,.reading-ledger .rl-updated{font-size:10px}}
+</style>
