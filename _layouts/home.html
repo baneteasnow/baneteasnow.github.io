@@ -39,43 +39,45 @@ layout: default
 			class="link1"
 			id="links"
 		>
-			<a href="/now">şimdi</a> &nbsp; <a href="/map">başka ne var?</a> &nbsp;
+			<a href="/now">şimdi</a>
+			<span
+				class="more-dot"
+				aria-hidden="true"
+				>·</span
+			>
+			<a href="/map">başka ne var?</a>
+			<span
+				class="more-dot"
+				aria-hidden="true"
+				>·</span
+			>
 		</div>
 	</center></i
 >
-
+<!---->
+<section
+	class="more-section"
+	aria-labelledby="more-explore"
+>
+	<h2 id="more-explore">Explore</h2>
+	<div class="more-links">
+		<a href="{{ '/now.html' | relative_url }}">Now</a
+		><span
+			class="more-dot"
+			aria-hidden="true"
+			>·</span
+		>
+		<a href="{{ '/map.html' | relative_url }}">More</a
+		><span
+			class="more-dot"
+			aria-hidden="true"
+			>·</span
+		>
+	</div>
+</section>
+<!---->
 <br />
 <br />
 {%-include post_list-8.html-%}
 <br />
 <br />
-<center>
-	<div class="link1">
-		<a
-			href="/search.html"
-			title="ara"
-			><img
-				src="/assets/search.jpg"
-				alt="search"
-				style="width: 15px; height: 15px; display: inline-block"
-		/></a>
-		&nbsp;
-		<a
-			href="/list.html"
-			title="list"
-			><img
-				src="/assets/camera.png"
-				alt="camera"
-				style="width: 15px; height: 15px; display: inline-block"
-		/></a>
-		&nbsp;
-		<a
-			href="https://homelibrary.next52books.com"
-			title="home library"
-			><img
-				src="/assets/library.png"
-				alt="library"
-				style="width: 15px; height: 15px; display: inline-block"
-		/></a>
-	</div>
-</center>
