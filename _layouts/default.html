@@ -8,6 +8,31 @@
       </div>
     </main>
 
+    <nav class="side-links" aria-label="Quick navigation">
+      <a href="#">Back to top ↑</a>
+      <a href="{{ '/posts.html' | relative_url }}">All Posts</a>
+      <a href="{{ '/search10.html' | relative_url }}">Search</a>
+      <a href="{{ '/list' | relative_url }}">Tools</a>
+    </nav>
+    <style>
+      .side-links {
+        position: fixed;
+        right: 3%;
+        top: 55%;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        z-index: 10;
+        font-family: 'EB Garamond', Georgia, serif;
+        font-size: 14px;
+        font-style: italic;
+        line-height: 1.4;
+      }
+      .side-links a { color: #999; text-decoration: none; }
+      .side-links a:hover, .side-links a:focus-visible { color: #555; text-decoration: underline; text-underline-offset: 3px; }
+      @media (max-width: 900px) { .side-links { display: none; } }
+    </style>
+
     {%-if site.goat_counter and jekyll.environment == "production"-%}
       {%-include goat_counter.html-%}
     {%-endif-%}
