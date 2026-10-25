@@ -1,12 +1,11 @@
 ---
 layout: page-16
-title: ""
+title: Authors
 published: true
 permalink: /author.html
 ---
 
 <div class="author-archive">
-	<h1 id="authorName"></h1>
 	<p
 		id="authorCount"
 		class="author-count"
@@ -22,12 +21,6 @@ permalink: /author.html
 	.author-archive {
 		max-width: 760px;
 		margin: 0 auto;
-	}
-
-	.author-archive h1 {
-		font-size: 21px;
-		font-weight: 600;
-		margin-bottom: 8px;
 	}
 
 	.author-count {
@@ -127,7 +120,7 @@ permalink: /author.html
 		const params = new URLSearchParams(window.location.search)
 		const author = params.get("name")
 
-		const nameElement = document.getElementById("authorName")
+		const nameElement = document.querySelector(".page-content h4 a")
 		const countElement = document.getElementById("authorCount")
 		const booksElement = document.getElementById("authorBooks")
 		let authorBooks = []
@@ -147,6 +140,7 @@ permalink: /author.html
 		} else {
 			nameElement.textContent = author
 		}
+		nameElement.href = isIndex ? "/" : "{{ '/author.html' | relative_url }}"
 		countElement.textContent = "Loading books..."
 
 		function normalizeText(value) {
