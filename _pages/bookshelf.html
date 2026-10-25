@@ -6,37 +6,45 @@ last_modified_at: 2021-07-08
 ---
 
 <style>
-  .bookshelf-grid {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 6px;
-    width: 100%;
-  }
-  .bookshelf-grid a {
-    display: block;
-    min-width: 0;
-    line-height: 0;
-  }
-  .bookshelf-grid img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-  @media (max-width: 480px) {
-    .bookshelf-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-  }
+	.bookshelf-grid {
+		display: grid;
+		grid-template-columns: repeat(5, minmax(0, 1fr));
+		gap: 6px;
+		width: 100%;
+	}
+	.bookshelf-grid a {
+		display: block;
+		min-width: 0;
+		line-height: 0;
+	}
+	.bookshelf-grid img {
+		display: block;
+		width: 100%;
+		height: auto;
+	}
+	@media (max-width: 480px) {
+		.bookshelf-grid {
+			grid-template-columns: repeat(3, minmax(0, 1fr));
+		}
+	}
 </style>
 
 <div class="bookshelf-grid">
-  {% for post in site.posts %}
-    {% if post.category != 'book3' and post.image %}
-      <a href="{{ post.url }}" title="{{ post.title | escape }}">
-        <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" decoding="async" />
-      </a>
-    {% endif %}
-  {% endfor %}
+	{% for post in site.posts %} {% if post.category != 'book3' and post.image %}
+	<a
+		href="{{ post.url }}"
+		title="{{ post.title | escape }}"
+	>
+		<img
+			src="{{ post.image }}"
+			alt="{{ post.title | escape }}"
+			loading="lazy"
+			decoding="async"
+		/>
+	</a>
+	{% endif %} {% endfor %}
 </div>
 
-<div class="link1" style="position: fixed; right: 3%; top: 85%">
+<!--<div class="link1" style="position: fixed; right: 3%; top: 85%">
   <a href="#"><i>yukarı</i> &#8593;</a>
-</div>
+</div>-->
