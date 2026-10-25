@@ -1,6 +1,6 @@
 ---
 layout: page-5
-published: false
+published: true
 last_modified_at: 2024-12-14
 title: "antilibrary"
 ---
