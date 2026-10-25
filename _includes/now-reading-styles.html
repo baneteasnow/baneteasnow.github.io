@@ -1,138 +1,186 @@
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=DM+Sans:wght@400;500;600&display=swap');
+	@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=DM+Sans:wght@400;500;600&display=swap");
 
-  .reading-ledger {
-    --rl-ink: #302d2a;
-    --rl-muted: #8a827b;
-    --rl-line: #e5e0da;
-    --rl-accent: #9a8878; /* Warm Taupe */
-    max-width: 735px;
-    margin: 32px auto 65px;
-    color: var(--rl-ink);
-    font-family: 'EB Garamond', Georgia, serif;
-  }
-  .reading-ledger * { box-sizing: border-box; }
+	.reading-ledger {
+		--rl-ink: #302d2a;
+		--rl-muted: #8a827b;
+		--rl-line: #e5e0da;
+		--rl-accent: #9a8878; /* Warm Taupe */
+		max-width: 735px;
+		margin: 32px auto 65px;
+		color: var(--rl-ink);
+		font-family: "EB Garamond", Georgia, serif;
+	}
+	.reading-ledger * {
+		box-sizing: border-box;
+	}
 
-  /* Page subtitle and update date */
-  .reading-ledger .rl-summary {
-    margin: 0 0 8px;
-    color: #716960;
-    font: italic 17px/1.4 'EB Garamond', Georgia, serif;
-    letter-spacing: 0;
-    text-transform: none;
-  }
-  .reading-ledger .rl-updated {
-    margin: 0 0 24px;
-    color: var(--rl-muted);
-    text-align: left;
-    font: 11px/1.5 'DM Sans', Arial, sans-serif;
-  }
+	/* Page subtitle and update date */
+	.reading-ledger .rl-summary {
+		margin: 0 0 8px;
+		color: #716960;
+		font:
+			italic 17px/1.4 "EB Garamond",
+			Georgia,
+			serif;
+		letter-spacing: 0;
+		text-transform: none;
+	}
+	.reading-ledger .rl-updated {
+		margin: 0 0 24px;
+		color: var(--rl-muted);
+		text-align: left;
+		font:
+			11px/1.5 "DM Sans",
+			Arial,
+			sans-serif;
+	}
 
-  /* Individual book entries */
-  .reading-ledger .rl-book {
-    display: grid;
-    grid-template-columns: 43px minmax(0, 1fr) 82px;
-    gap: 15px;
-    align-items: start;
-    padding: 25px 0;
-    border-bottom: 1px solid var(--rl-line);
-  }
-  .reading-ledger .rl-number {
-    padding-top: 4px;
-    color: #a49b93;
-    white-space: nowrap;
-    font: italic 13px 'EB Garamond', Georgia, serif;
-  }
-  .reading-ledger .rl-body { min-width: 0; }
-  .reading-ledger .rl-body h3 {
-    margin: 0 0 6px;
-    color: var(--rl-ink);
-    font: 600 23px/1.18 'EB Garamond', Georgia, serif;
-  }
-  .reading-ledger .rl-author {
-    margin: 0 0 12px;
-    color: #5c5550;
-    font: italic 16px/1.3 'EB Garamond', Georgia, serif;
-  }
-  .reading-ledger .rl-meta {
-    margin: 0;
-    color: var(--rl-muted);
-    font: 11px/1.5 'DM Sans', Arial, sans-serif;
-  }
+	/* Individual book entries */
+	.reading-ledger .rl-book {
+		display: grid;
+		grid-template-columns: 43px minmax(0, 1fr) 82px;
+		gap: 15px;
+		align-items: start;
+		padding: 25px 0;
+		border-bottom: 1px solid var(--rl-line);
+	}
+	.reading-ledger .rl-number {
+		padding-top: 4px;
+		color: #a49b93;
+		white-space: nowrap;
+		font:
+			italic 13px "EB Garamond",
+			Georgia,
+			serif;
+	}
+	.reading-ledger .rl-body {
+		min-width: 0;
+	}
+	.reading-ledger .rl-body h3 {
+		font:
+			600 20px/1.25 "EB Garamond",
+			Georgia,
+			serif;
+		color: var(--rl-ink);
+		margin: 0 0 6px;
+	}
+	.reading-ledger .rl-author {
+		margin: 0 0 12px;
+		color: #5c5550;
+		font:
+			italic 16px/1.3 "EB Garamond",
+			Georgia,
+			serif;
+	}
+	.reading-ledger .rl-meta {
+		margin: 0;
+		color: var(--rl-muted);
+		font:
+			11px/1.5 "DM Sans",
+			Arial,
+			sans-serif;
+	}
 
-  /* Reading progress */
-  .reading-ledger .rl-progress {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    max-width: 420px;
-    margin-top: 15px;
-  }
-  .reading-ledger .rl-track {
-    flex: 1;
-    height: 5px;
-    overflow: hidden;
-    border-radius: 8px;
-    background: #eae6e1;
-  }
-  .reading-ledger .rl-track > span {
-    display: block;
-    height: 100%;
-    border-radius: 8px;
-    background: var(--rl-accent);
-  }
-  .reading-ledger .rl-percent {
-    min-width: 38px;
-    color: #675f59;
-    text-align: right;
-    font: 600 12px 'DM Sans', Arial, sans-serif;
-  }
+	/* Reading progress */
+	.reading-ledger .rl-progress {
+		display: flex;
+		align-items: center;
+		gap: 12px;
+		max-width: 420px;
+		margin-top: 15px;
+	}
+	.reading-ledger .rl-track {
+		flex: 1;
+		height: 5px;
+		overflow: hidden;
+		border-radius: 8px;
+		background: #eae6e1;
+	}
+	.reading-ledger .rl-track > span {
+		display: block;
+		height: 100%;
+		border-radius: 8px;
+		background: var(--rl-accent);
+	}
+	.reading-ledger .rl-percent {
+		min-width: 38px;
+		color: #675f59;
+		text-align: right;
+		font:
+			600 12px "DM Sans",
+			Arial,
+			sans-serif;
+	}
 
-  /* Covers and fallback */
-  .reading-ledger .rl-cover {
-    display: block;
-    width: 82px;
-    height: 123px;
-    object-fit: cover;
-    box-shadow: 3px 4px 0 #0000000d;
-  }
-  .reading-ledger .rl-placeholder {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 9px;
-    overflow: hidden;
-    overflow-wrap: anywhere;
-    text-align: center;
-    color: #55443c;
-    background: #e3d7c9;
-    font: italic 600 14px/1.12 'EB Garamond', Georgia, serif;
-  }
-  .reading-ledger .rl-book:nth-child(5n + 2) .rl-placeholder { background: #d3dbd4; }
-  .reading-ledger .rl-book:nth-child(5n + 3) .rl-placeholder { background: #d9d5c8; }
-  .reading-ledger .rl-book:nth-child(5n + 4) .rl-placeholder { background: #ded4d6; }
-  .reading-ledger .rl-book:nth-child(5n + 5) .rl-placeholder { background: #cdd7df; }
+	/* Covers and fallback */
+	.reading-ledger .rl-cover {
+		display: block;
+		width: 82px;
+		height: 123px;
+		object-fit: cover;
+		box-shadow: 3px 4px 0 #0000000d;
+	}
+	.reading-ledger .rl-placeholder {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 9px;
+		overflow: hidden;
+		overflow-wrap: anywhere;
+		text-align: center;
+		color: #55443c;
+		background: #e3d7c9;
+		font:
+			italic 600 14px/1.12 "EB Garamond",
+			Georgia,
+			serif;
+	}
+	.reading-ledger .rl-book:nth-child(5n + 2) .rl-placeholder {
+		background: #d3dbd4;
+	}
+	.reading-ledger .rl-book:nth-child(5n + 3) .rl-placeholder {
+		background: #d9d5c8;
+	}
+	.reading-ledger .rl-book:nth-child(5n + 4) .rl-placeholder {
+		background: #ded4d6;
+	}
+	.reading-ledger .rl-book:nth-child(5n + 5) .rl-placeholder {
+		background: #cdd7df;
+	}
 
-  /* Link after the final book */
-  .reading-ledger .rl-footer {
-    margin: 64px 0 0;
-    font: italic 16px 'EB Garamond', Georgia, serif;
-  }
-  .reading-ledger .rl-footer a {
-    color: #6e5158;
-    text-decoration: none;
-    border-bottom: 1px solid #c5b5b9;
-  }
+	/* Link after the final book */
+	.reading-ledger .rl-footer {
+		margin: 64px 0 0;
+		font:
+			italic 16px "EB Garamond",
+			Georgia,
+			serif;
+	}
+	.reading-ledger .rl-footer a {
+		color: #6e5158;
+		text-decoration: none;
+		border-bottom: 1px solid #c5b5b9;
+	}
 
-  @media (max-width: 600px) {
-    .reading-ledger { margin: 22px auto 45px; }
-    .reading-ledger .rl-book {
-      grid-template-columns: 27px minmax(0, 1fr) 64px;
-      gap: 9px;
-      padding: 20px 0;
-    }
-    .reading-ledger .rl-cover { width: 64px; height: 96px; }
-    .reading-ledger .rl-body h3 { font-size: 20px; }
-    .reading-ledger .rl-updated { font-size: 10px; }
-  }
+	@media (max-width: 600px) {
+		.reading-ledger {
+			margin: 22px auto 45px;
+		}
+		.reading-ledger .rl-book {
+			grid-template-columns: 27px minmax(0, 1fr) 64px;
+			gap: 9px;
+			padding: 20px 0;
+		}
+		.reading-ledger .rl-cover {
+			width: 64px;
+			height: 96px;
+		}
+		.reading-ledger .rl-body h3 {
+			font-size: 18px;
+		}
+		.reading-ledger .rl-updated {
+			font-size: 10px;
+		}
+	}
 </style>
