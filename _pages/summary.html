@@ -1,49 +1,31 @@
 ---
-# <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="TLDR" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}"> </a>
 layout: page-6
 published: true
 last_modified_at: 2021-07-16
 title: "tl;dr"
 ---
-
-    <!--<a name="top"></a>
-<div style="text-align:right" class="link1"><i><a href="#bot">sayfa sonu</a></i></div>-->
- <!--<a name="bot"></a><div style="text-align:right" class="link1"><i><a href="#top">sayfa başı</a></i></div>-->
-
-  <div>
+{% include bibliography_styles.html %}
+<section class="bib-directory" aria-label="Book summaries">
+  <p class="bib-intro">Short notes on books · an annotated reading archive</p>
   {% for post in site.posts %}
-        <br />
-{% if post.tr != "" and post.tr != nil and post.tr != "-" %}
-  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.tr }}</a> </div>
-    {% else %}
-  <div class="link1"> <a id="name="{{ post.url | split: "/" | last | replace: ".html","" }}"" name="{{ post.url | split: "/" | last | replace: ".html","" }}" href="/summary.html#{{ post.url | split: "/" | last | replace: ".html","" }}">{{ post.kitap }}</a> </div>
-{% endif %}
-    <div><i> {{ post.yazar }} </i></div>
-    <div><i> {{ post.yil }} </i></div>
-  <a href="{{ post.url }}"><img src="{{ post.image }}" width="18%" height=18%" align="right" float="right" alt="{{ post.kitap }}" title="{{ post.kitap }}" style="margin:18px 0 0 15px;"/></a>
-  <p> 
-      <div>
-    {{ post.description }} 
+    {% assign anchor = post.url | split: '/' | last | replace: '.html', '' %}
+    <article class="bib-entry" id="{{ anchor }}">
+      <div class="bib-number">{{ post.num }}</div>
+      <div class="bib-main">
+        <h2 class="bib-title"><a href="{{ post.url | relative_url }}">{% if post.tr and post.tr != '' and post.tr != '-' %}{{ post.tr }}{% else %}{{ post.kitap }}{% endif %}</a></h2>
+        {% if post.yazar %}<p class="bib-author">{{ post.yazar }}</p>{% endif %}
+        {% if post.yil %}<p class="bib-year">{{ post.yil }}</p>{% endif %}
+        <div class="bib-description">{{ post.description }}</div>
+        <div class="bib-links">
+          {% if post.eng and post.eng != '' and post.eng != '-' %}<a href="{{ '/books.html' | relative_url }}#{{ anchor }}">English →</a>{% endif %}
+          {% if post.goodreads and post.goodreads != '' %}<a href="{{ post.goodreads }}" target="_blank" rel="noopener noreferrer nofollow">Goodreads ↗</a>{% endif %}
+        </div>
       </div>
-      <div>
-      {% if post.eng %}
-   <div class="link1">  
-     <a name="{{ post.url | split: "/" | last | replace: ".html","" }}" title="English" href="/books.html#{{ post.url | split: "/" | last | replace: ".html","" }}">english</a>
-  </div>
-  {% else %}
-    <div style="visibility: hidden;"></div>
-{% endif %}
-     <!-- <div># {{ post.tag }}</div> -->
-         <div class="link1"> 
-      <a href="{{ post.goodreads }}" target="_blank" rel="noreferrer,nofollow">goodreads</a> &nbsp; <img src="/assets/external_link.jpg" alt="external link" style="width:15px; height:15px; display: inline-block;">
-      <div style="font-style: italic; color: #999999;"> {{ post.num }} </div>
-      </div>
-      </div>
-    </p>
-       <br />
-    {% endfor %}
-</div>
-    <div style="clear: both;"></div>
-<br />
-      
-      
+      {% if post.image and post.image != '' %}
+      <a class="bib-cover-link" href="{{ post.url | relative_url }}" aria-label="Read {{ post.kitap | escape }}">
+        <img class="bib-cover" src="{{ post.image | relative_url }}" alt="Cover: {{ post.kitap | escape }}" loading="lazy">
+      </a>
+      {% endif %}
+    </article>
+  {% endfor %}
+</section>
