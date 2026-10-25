@@ -8,6 +8,10 @@ permalink: /reread.html
 {% assign reread_posts = site.posts | where: 'reread', 'yes' | sort: 'posted' | reverse %}
 <div class="reread-page">
   <p class="reread-count">{{ reread_posts.size }} {% if reread_posts.size == 1 %}book{% else %}books{% endif %}</p>
+  <fieldset class="reread-date-choice" aria-label="Date display">
+    <label><input type="radio" name="rereadDate" value="posted" checked> Original date</label>
+    <label><input type="radio" name="rereadDate" value="modified"> Last modified</label>
+  </fieldset>
   <div class="reread-list">
     {% for post in reread_posts %}
     <div class="reread-item">
@@ -15,7 +19,7 @@ permalink: /reread.html
       {% if post.tr and post.tr != '' and post.tr != '-' %}<div class="reread-turkish">{{ post.tr }}</div>{% endif %}
       <div class="reread-meta">
         <span class="reread-author">{% assign authors = post.yazar | split: ',' %}{% for author in authors %}{% assign author_name = author | strip %}<a href="{{ '/author.html' | relative_url }}?name={{ author_name | url_encode }}">{{ author_name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
-        <span class="reread-date">{{ post.posted | default: post.date | date: '%d %b %Y' }}</span>
+        <span class="reread-date" data-original="{{ post.posted | default: post.date | date: '%d %b %Y' }}" data-modified="{% if post.last_modified_at %}{{ post.last_modified_at | date: '%d %b %Y' }}{% endif %}">{{ post.posted | default: post.date | date: '%d %b %Y' }}</span>
       </div>
     </div>
     {% endfor %}
@@ -25,6 +29,9 @@ permalink: /reread.html
 .reread-page{position:relative;left:50%;transform:translateX(-50%);width:min(480px,calc(100vw - 40px));max-width:none;margin:0 0 40px;box-sizing:border-box}
 .reread-page *{box-sizing:border-box}
 .reread-count{margin:0 0 12px;color:#888;font-size:12px}
+.reread-date-choice{display:flex;flex-wrap:wrap;gap:8px 20px;margin:0 0 12px;padding:0;border:0;color:#666;font-size:12px}
+.reread-date-choice label{display:inline-flex;align-items:center;gap:6px;cursor:pointer}
+.reread-date-choice input{margin:0;accent-color:#555}
 .reread-item{padding:18px 10px;border-bottom:1px solid #eee;transition:background .15s ease}
 .reread-item:hover{background:#fafafa}
 .reread-title{display:block;margin:0 0 5px;color:#222;font-size:14px;font-weight:600;line-height:1.5;text-decoration:none;overflow-wrap:anywhere}
@@ -38,3 +45,20 @@ permalink: /reread.html
 @media(max-width:600px){body:has(.reread-page) .w{display:block!important;width:100%!important;max-width:100%!important;min-width:0!important;margin-left:auto!important;margin-right:auto!important;padding-left:20px!important;padding-right:20px!important;box-sizing:border-box!important}.reread-page{position:static;left:auto;transform:none;width:100%;max-width:100%}}
 @media(max-width:430px){.reread-item{padding:16px 4px}.reread-meta{flex-direction:column;align-items:flex-start;gap:3px}}
 </style>
+
+<script>
+(function () {
+  const choices = document.querySelectorAll('input[name="rereadDate"]');
+  const dates = document.querySelectorAll('.reread-page .reread-date');
+  choices.forEach(function (choice) {
+    choice.addEventListener('change', function () {
+      if (!choice.checked) return;
+      dates.forEach(function (date) {
+        date.textContent = choice.value === 'modified'
+          ? (date.dataset.modified || '—')
+          : date.dataset.original;
+      });
+    });
+  });
+})();
+</script>
