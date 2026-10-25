@@ -3,18 +3,7 @@ layout: page
 title: List
 last_modified_at: 2026-06-30
 published: true
+permalink: /list
 ---
 
-<a href="https://www.next52books.com/qr-tools.html">QR Tools</a>  
-<a href="https://www.next52books.com/bujo/bujo.png">BuJo</a>  
-<a href="https://www.next52books.com/bujo/bujo.html">BuJo Tables</a>  
-<a href="https://www.next52books.com/skin-care-plan/skincare.html">Skincare</a>  
-<a href="https://www.next52books.com/skin-care-plan/plan">Skincare Plan</a>  
-<a href="https://www.next52books.com/week-number.html">Week Number Finder</a>  
-<a href="https://homelibrary.next52books.com/shelves">Shelves</a>  
-<a href="https://homelibrary.next52books.com/browse">Browse</a>  
-<a href="https://homelibrary.next52books.com/categories/categories">Categories</a>  
-<a href="https://www.next52books.com/glance">At a Glance</a>  
-<a href="https://homelibrary.next52books.com/heic-converter">HEIC to jpg / HEIC to png</a>  
-<a href="https://homelibrary.next52books.com/image-resizer">Image Resizer</a>  
-<a href="https://homelibrary.next52books.com/image-optimizer">Image Optimizer</a>
+{% include list.html %}

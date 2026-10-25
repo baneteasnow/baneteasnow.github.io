@@ -1,0 +1,154 @@
+<nav class="more-directory" aria-label="Tools and library">
+  <section class="more-section" aria-labelledby="list-tools">
+    <h2 id="list-tools">Tools</h2>
+    <div class="more-links">
+      <a href="https://www.next52books.com/qr-tools.html">QR Tools</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://www.next52books.com/bujo/bujo.png">BuJo</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://www.next52books.com/bujo/bujo.html">BuJo Tables</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://www.next52books.com/skin-care-plan/skincare.html">Skincare</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://www.next52books.com/skin-care-plan/plan">Skincare Plan</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://www.next52books.com/week-number.html">Week Number Finder</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://homelibrary.next52books.com/heic-converter">HEIC to jpg / HEIC to png</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://homelibrary.next52books.com/image-resizer">Image Resizer</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://homelibrary.next52books.com/image-optimizer">Image Optimizer</a>
+    </div>
+  </section>
+  <section class="more-section" aria-labelledby="list-library">
+    <h2 id="list-library">Library</h2>
+    <div class="more-links">
+      <a href="https://homelibrary.next52books.com/shelves">Shelves</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://homelibrary.next52books.com/browse">Browse</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://homelibrary.next52books.com/categories/categories">Categories</a><span class="more-dot" aria-hidden="true">·</span>
+      <a href="https://www.next52books.com/glance">At a Glance</a>
+    </div>
+  </section>
+</nav>
+<style>
+	.more-directory {
+		width: min(580px, 100%);
+		margin: 0 auto 3rem;
+		color: #333;
+		font-family: inherit;
+		font-style: normal;
+	}
+	.more-directory,
+	.more-directory * {
+		box-sizing: border-box;
+	}
+	.more-intro {
+		margin: 0 0 2.25rem;
+		color: #888;
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: 0.98rem;
+		line-height: 1.65;
+		font-weight: 400;
+	}
+	.more-brand {
+		color: #555;
+		font-weight: 600;
+	}
+	.more-intro-dot {
+		color: #aaa;
+		padding: 0 0.5rem;
+	}
+	.more-section {
+		margin: 0 0 2.1rem;
+	}
+	.more-directory h2 {
+		margin: 0 0 0.72rem;
+		color: #888;
+		font-family: inherit;
+		font-size: 0.77rem;
+		font-weight: 600;
+		letter-spacing: 0.085em;
+		line-height: 1.5;
+		text-transform: uppercase;
+		font-style: normal;
+	}
+	.more-links {
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: 1.02rem;
+		font-style: normal;
+		line-height: 2;
+		overflow-wrap: anywhere;
+	}
+	.more-links a {
+		color: inherit;
+		text-decoration: none;
+		border-bottom: 1px solid transparent;
+		transition: border-color 0.15s ease;
+	}
+	.more-links a:hover,
+	.more-links a:focus-visible {
+		border-bottom-color: currentColor;
+		text-decoration: none;
+	}
+	.more-links a:focus-visible {
+		outline: 2px solid #999;
+		outline-offset: 3px;
+	}
+	.more-dot {
+		color: #aaa;
+		padding: 0 0.43rem;
+		white-space: nowrap;
+	}
+	.more-pending {
+		color: #999;
+		cursor: default;
+	}
+	.more-collections-note {
+		margin: 0;
+		color: #999;
+		font-family: inherit;
+		font-size: 0.76rem;
+		font-style: italic;
+		line-height: 1.5;
+	}
+	.more-total {
+		margin: 1.8rem 0 0;
+		color: #999;
+		font-size: 0.8rem;
+		text-align: right;
+	}
+	.more-secondary {
+		border-top: 1px solid #e9e9e9;
+		padding-top: 1.5rem;
+		margin-top: 0.3rem;
+	}
+	.more-collections-heading {
+		border-top: 1px solid #e9e9e9;
+		margin: 0.15rem 0 1.25rem;
+		padding-top: 1.1rem;
+	}
+	.more-row {
+		display: grid;
+		grid-template-columns: 125px minmax(0, 1fr);
+		gap: 16px;
+		align-items: start;
+		margin: 0 0 1.35rem;
+	}
+	.more-row h2 {
+		margin-top: 0.35rem;
+	}
+	.more-row .more-links {
+		font-size: 0.94rem;
+		line-height: 1.9;
+	}
+	@media (max-width: 600px) {
+		.more-directory {
+			width: 100%;
+			padding: 0;
+		}
+		.more-row {
+			grid-template-columns: 1fr;
+			gap: 0.2rem;
+			margin-bottom: 1.6rem;
+		}
+		.more-row h2 {
+			margin-top: 0;
+		}
+		.more-links {
+			font-size: 1rem;
+		}
+	}
+</style>
