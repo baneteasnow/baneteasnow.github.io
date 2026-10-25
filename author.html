@@ -82,9 +82,10 @@ permalink: /author.html
 	.author-category-choice[hidden] { display: none; }
 	.author-book-category a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 	.author-index { list-style: none !important; margin: 0; padding: 0; }
-	.author-index li { list-style: none !important; padding: 10px 0; border-bottom: 1px solid #eee; }
+	.author-index li { list-style: none !important; display: flex; align-items: baseline; justify-content: space-between; gap: 16px; padding: 11px 0; border-bottom: 1px solid #e8e8e8; }
 	.author-index li::before, .author-index li::marker { content: none !important; display: none !important; }
-	.author-index a { color: inherit; text-decoration: underline; text-decoration-color: #bbb; text-underline-offset: 3px; }
+	.author-index a { color: inherit; text-decoration: underline; text-decoration-color: #bbb; text-underline-offset: 3px; overflow-wrap: anywhere; }
+	.author-index .number { color: #888; font-size: 12px; white-space: nowrap; }
 	.author-index a:hover { text-decoration-color: currentColor; }
 	.author-letter { margin: 25px 0 7px; font-size: 16px; color: #777; }
 
@@ -240,16 +241,23 @@ permalink: /author.html
 			.then(function (books) {
 				if (isIndex) {
 					const names = new Map()
-					books.forEach(book => String(book.author || "").split(/\s*,\s*/).forEach(raw => {
-						const n = raw.trim()
-						if (n && !names.has(normalizeText(n))) names.set(normalizeText(n), n)
-					}))
-					const sorted = [...names.values()].sort((a,b) => a.localeCompare(b, 'en', {sensitivity:'base'}))
+					books.forEach(book => {
+						const seen = new Set()
+						String(book.author || "").split(/\s*,\s*/).forEach(raw => {
+							const n = raw.trim()
+							const key = normalizeText(n)
+							if (!n || seen.has(key)) return
+							seen.add(key)
+							if (!names.has(key)) names.set(key, { name: n, count: 0 })
+							names.get(key).count++
+						})
+					})
+					const sorted = [...names.values()].sort((a,b) => a.name.localeCompare(b.name, 'en', {sensitivity:'base'}))
 					countElement.textContent = sorted.length + (sorted.length === 1 ? ' author' : ' authors')
 					const ul = document.createElement('ul')
 					ul.className = 'author-index'
 					let letter = ''
-					sorted.forEach(n => {
+					sorted.forEach(({ name: n, count }) => {
 						const first = n.charAt(0).toLocaleUpperCase('en')
 						if (first !== letter) {
 							letter = first
@@ -263,6 +271,12 @@ permalink: /author.html
 						a.href = "{{ '/author.html' | relative_url }}?name=" + encodeURIComponent(n)
 						 a.textContent = n
 						li.appendChild(a)
+						if (count > 1) {
+							const number = document.createElement('span')
+							number.className = 'number'
+							number.textContent = count + ' books'
+							li.appendChild(number)
+						}
 						ul.appendChild(li)
 					})
 					booksElement.replaceChildren(ul)
