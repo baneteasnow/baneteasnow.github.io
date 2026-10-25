@@ -1,131 +1,171 @@
 <style>
-  details {
-  color: #777;
-}
+	details {
+		color: #777;
+	}
 
-details > summary {
-  padding: 2px 6px;
-  min-width: 15em;
-  background-color: #fff;
-  border: none;
-  cursor: pointer;
-  list-style: none;
-}
+	details > summary {
+		padding: 2px 6px;
+		min-width: 15em;
+		background-color: #fff;
+		border: none;
+		cursor: pointer;
+		list-style: none;
+	}
 
-details > summary::-webkit-details-marker {
-  display: none;
-}
+	details > summary::-webkit-details-marker {
+		display: none;
+	}
 
-details > .archive-expanded {
-  border-radius: 0 0 10px 10px;
-  background-color: #fff;
-  padding: 2px 2px;
-  margin: 0;
-}
-  details[open] summary {
-  display: none;
-}
+	details > .archive-expanded {
+		border-radius: 0 0 10px 10px;
+		background-color: #fff;
+		padding: 2px 2px;
+		margin: 0;
+	}
+	details[open] summary {
+		display: none;
+	}
 </style>
 
-
 <details>
-  <summary>
- {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear limit:1 %}
-<span style="color: #777; font-weight: bold; font-size: 85%;font-style: italic;">{{ year.name }}</span>
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+	<summary>
+		{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date:
+		'%Y'" %} {% for year in postsByYear limit:1 %}
+		<span
+			style="color: #777; font-weight: bold; font-size: 85%; font-style: italic"
+			>{{ year.name }}</span
+		>
+		{% assign postsByMonth = year.items | group_by_exp:"post", "post.date |
+		date: '%B'" %} {% for month in postsByMonth limit:1 %}
 
-{% for month in postsByMonth limit:1 %}
+		<span
+			style="
+				text-align: right;
+				float: right;
+				color: #777;
+				font-weight: bold;
+				font-size: 85%;
+				font-style: italic;
+			"
+		>
+			{% if month.name == 'January' %} ocak {% elsif month.name == 'February' %}
+			şubat {% elsif month.name == 'March' %} mart {% elsif month.name ==
+			'April' %} nisan {% elsif month.name == 'May' %} mayıs {% elsif month.name
+			== 'June' %} haziran {% elsif month.name == 'July' %} temmuz {% elsif
+			month.name == 'August' %} ağustos {% elsif month.name == 'September' %}
+			eylül {% elsif month.name == 'October' %} ekim {% elsif month.name ==
+			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif
+			%}
+		</span>
+		<br />
+		{% for post in month.items limit:5 %}
+		<div
+			class="archive-row"
+			style="margin: 1em 0"
+		>
+			<div
+				class="decorated"
+				style="font-size: 85%"
+			>
+				<a
+					href="{{ post.url | relative_url }}"
+					{%
+					if
+					post.url=""
+					="site.posts.first.url"
+					%}
+					class="active"
+					{%
+					endif
+					%}
+					>{{ post.title | downcase }}</a
+				>
+				&nbsp;
+				<span style="text-align: right; float: right"
+					>{{- post.date | date: '%e' -}}</span
+				>
+			</div>
+		</div>
+		{% endfor %} {% endfor %}
+		<br />
+		{% endfor %}
+		<center>
+			<div
+				class="cat2"
+				style="color: #404040"
+			>
+				<i>Show all posts →</i>
+			</div>
+		</center>
+		<br />
+	</summary>
+	<div class="archive-expanded">
+		{% assign postsByYear = site.posts | where_exp: "post", "post.category !=
+		'affirmation'" | group_by_exp:"post", "post.date | date: '%Y'" %} {% for
+		year in postsByYear %}
+		<span
+			style="color: #777; font-weight: bold; font-size: 85%; font-style: italic"
+			>{{ year.name }}</span
+		>
+		{% assign postsByMonth = year.items | group_by_exp:"post", "post.date |
+		date: '%B'" %} {% for month in postsByMonth %}
 
-<span style="text-align: right; float: right; color: #777; font-weight: bold; font-size: 85%;font-style: italic;">
-{% if month.name == 'January' %}
-ocak
-{% elsif month.name == 'February' %}
-şubat
-{% elsif month.name == 'March' %}
-mart
-{% elsif month.name == 'April' %}
-nisan
-{% elsif month.name == 'May' %}
-mayıs
-{% elsif month.name == 'June' %}
-haziran
-{% elsif month.name == 'July' %}
-temmuz
-{% elsif month.name == 'August' %}
-ağustos
-{% elsif month.name == 'September' %}
-eylül
-{% elsif month.name == 'October' %}
-ekim
-{% elsif month.name == 'November' %}
-kasım 
-{% elsif month.name == 'December' %}
-aralık
-{% endif %}
-</span>
-    <br />
-{% for post in month.items limit:5 %}
-  <div class="archive-row" style="margin: 1em 0;">
-    <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
-  </div>
-{% endfor %}
-{% endfor %}
-  <br />
-{% endfor %}
-<center><div class="cat2" style="color: #404040"><i>devamı</i></div></center>
-<br />
-  </summary>
-  <div class="archive-expanded">
-{% assign postsByYear = site.posts | where_exp: "post", "post.category != 'affirmation'" | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-<span style="color: #777; font-weight: bold; font-size: 85%;font-style: italic;">{{ year.name }}</span>
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-
-{% for month in postsByMonth %}
-
-<span style="text-align: right; float: right; color: #777; font-weight: bold; font-size: 85% !important; font-style: italic;">
-{% if month.name == 'January' %}
-ocak
-{% elsif month.name == 'February' %}
-şubat
-{% elsif month.name == 'March' %}
-mart
-{% elsif month.name == 'April' %}
-nisan
-{% elsif month.name == 'May' %}
-mayıs
-{% elsif month.name == 'June' %}
-haziran
-{% elsif month.name == 'July' %}
-temmuz
-{% elsif month.name == 'August' %}
-ağustos
-{% elsif month.name == 'September' %}
-eylül
-{% elsif month.name == 'October' %}
-ekim
-{% elsif month.name == 'November' %}
-kasım 
-{% elsif month.name == 'December' %}
-aralık
-{% endif %}
-</span>
-  <br />
-{% for post in month.items %}
-  <div class="archive-row" style="margin: 1em 0;">
-    <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == site.posts.first.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right;">{{- post.date | date: '%e' -}}</span></div>
-  </div>
-{% endfor %}
-{% endfor %}
-  <br />
-{% endfor %}
-  
-  </div>
-<br />
-<br />
-<!-- <center> <div class="link1"><a href="#"><i>yukarı</i> &#8593;</a></div> </center> -->
-<!--<div class="link1" style="position: fixed; right: 3%; top: 85%"><a href="#"><i>yukarı</i> &#8593;</a></div>-->
+		<span
+			style="
+				text-align: right;
+				float: right;
+				color: #777;
+				font-weight: bold;
+				font-size: 85% !important;
+				font-style: italic;
+			"
+		>
+			{% if month.name == 'January' %} ocak {% elsif month.name == 'February' %}
+			şubat {% elsif month.name == 'March' %} mart {% elsif month.name ==
+			'April' %} nisan {% elsif month.name == 'May' %} mayıs {% elsif month.name
+			== 'June' %} haziran {% elsif month.name == 'July' %} temmuz {% elsif
+			month.name == 'August' %} ağustos {% elsif month.name == 'September' %}
+			eylül {% elsif month.name == 'October' %} ekim {% elsif month.name ==
+			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif
+			%}
+		</span>
+		<br />
+		{% for post in month.items %}
+		<div
+			class="archive-row"
+			style="margin: 1em 0"
+		>
+			<div
+				class="decorated"
+				style="font-size: 85%"
+			>
+				<a
+					href="{{ post.url | relative_url }}"
+					{%
+					if
+					post.url=""
+					="site.posts.first.url"
+					%}
+					class="active"
+					{%
+					endif
+					%}
+					>{{ post.title | downcase }}</a
+				>
+				&nbsp;
+				<span style="text-align: right; float: right"
+					>{{- post.date | date: '%e' -}}</span
+				>
+			</div>
+		</div>
+		{% endfor %} {% endfor %}
+		<br />
+		{% endfor %}
+	</div>
+	<br />
+	<br />
+	<!-- <center> <div class="link1"><a href="#"><i>yukarı</i> &#8593;</a></div> </center> -->
+	<!--<div class="link1" style="position: fixed; right: 3%; top: 85%"><a href="#"><i>yukarı</i> &#8593;</a></div>-->
 </details>
 
 <br />
