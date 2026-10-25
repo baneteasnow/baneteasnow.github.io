@@ -1,6 +1,6 @@
 ---
 layout: page-16
-title: Author
+title: ""
 published: true
 permalink: /author.html
 ---
@@ -25,7 +25,7 @@ permalink: /author.html
 	}
 
 	.author-archive h1 {
-		font-size: 26px;
+		font-size: 21px;
 		font-weight: 600;
 		margin-bottom: 8px;
 	}
@@ -88,8 +88,9 @@ permalink: /author.html
 
 	.author-category-choice[hidden] { display: none; }
 	.author-book-category a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
-	.author-index { list-style: none; margin: 0; padding: 0; }
-	.author-index li { padding: 10px 0; border-bottom: 1px solid #eee; }
+	.author-index { list-style: none !important; margin: 0; padding: 0; }
+	.author-index li { list-style: none !important; padding: 10px 0; border-bottom: 1px solid #eee; }
+	.author-index li::before, .author-index li::marker { content: none !important; display: none !important; }
 	.author-index a { color: inherit; text-decoration: underline; text-decoration-color: #bbb; text-underline-offset: 3px; }
 	.author-index a:hover { text-decoration-color: currentColor; }
 	.author-letter { margin: 25px 0 7px; font-size: 16px; color: #777; }
