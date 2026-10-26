@@ -11,6 +11,7 @@ permalink: /search.json
   "turkish": {{ post.tr | default: "" | jsonify }},
   "author": {{ post.yazar | default: "" | jsonify }},
   "tag": {{ post.tag | default: "" | jsonify }},
+  "image": {% if post.image %}{{ post.image | relative_url | jsonify }}{% else %}""{% endif %},
   "date": {{ post.posted | default: post.date | date: "%Y-%m-%d" | jsonify }},
   "url": {{ post.url | relative_url | jsonify }}
 }{% unless forloop.last %},{% endunless %}

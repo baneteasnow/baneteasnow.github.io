@@ -42,6 +42,11 @@ permalink: /search.html
 		>
 	</fieldset>
 
+	<fieldset class="cover-choice" aria-label="Book cover display">
+		<label><input type="radio" name="searchCovers" value="without" checked /> Without covers</label>
+		<label><input type="radio" name="searchCovers" value="with" /> With covers</label>
+	</fieldset>
+
 	<p
 		class="search-help"
 		id="searchHelp"
@@ -154,6 +159,45 @@ permalink: /search.html
 		margin: 0;
 		accent-color: #555;
 	}
+	.book-search .cover-choice {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px 20px;
+		margin: 8px 0 0;
+		padding: 0;
+		border: 0;
+		color: #666;
+		font-size: 12px;
+	}
+	.book-search .cover-choice label {
+		display: inline-flex;
+		align-items: center;
+		gap: 6px;
+		cursor: pointer;
+	}
+	.book-search .cover-choice input { margin: 0; accent-color: #555; }
+
+	/* With covers: book information left, cover right. */
+	.book-search .search-item.has-cover {
+		display: flex;
+		align-items: flex-start;
+		gap: 16px;
+	}
+	.book-search .search-item-content { flex: 1; min-width: 0; }
+	.book-search .search-cover-link { display: block; flex: 0 0 68px; margin-left: auto; }
+	.book-search .search-cover {
+		display: block;
+		width: 68px;
+		height: 100px;
+		object-fit: contain;
+		object-position: center top;
+	}
+	@media (max-width: 430px) {
+		.book-search .search-item.has-cover { gap: 12px; }
+		.book-search .search-cover-link { flex-basis: 54px; }
+		.book-search .search-cover { width: 54px; height: 82px; }
+	}
+
 	.book-search .search-category {
 		margin: 7px 0 0;
 		color: #888;
@@ -377,6 +421,7 @@ permalink: /search.html
 		let isLoaded = false
 		let showAll = false
 		let showCategories = false
+		let showCovers = false
 
 		/*
 		 * Normalize Turkish characters and accents.
@@ -522,6 +567,9 @@ permalink: /search.html
 			const item = document.createElement("div")
 			item.className = "search-item"
 
+			const content = document.createElement("div")
+			content.className = "search-item-content"
+
 			// Book title
 
 			const title = document.createElement("a")
@@ -530,7 +578,7 @@ permalink: /search.html
 
 			appendHighlightedText(title, book.book || book.title, query)
 
-			item.appendChild(title)
+			content.appendChild(title)
 
 			// Turkish title
 
@@ -540,7 +588,7 @@ permalink: /search.html
 
 				appendHighlightedText(turkish, book.turkish, query)
 
-				item.appendChild(turkish)
+				content.appendChild(turkish)
 			}
 
 			// Author and date
@@ -584,7 +632,7 @@ permalink: /search.html
 			meta.appendChild(authorContainer)
 			meta.appendChild(date)
 
-			item.appendChild(meta)
+			content.appendChild(meta)
 
 			if (showCategories) {
 				const category = document.createElement("div")
@@ -605,7 +653,31 @@ permalink: /search.html
 				} else {
 					category.textContent = "Category: –"
 				}
-				item.appendChild(category)
+				content.appendChild(category)
+			}
+
+			item.appendChild(content)
+
+			if (showCovers && typeof book.image === "string" && book.image.trim()) {
+				const coverLink = document.createElement("a")
+				coverLink.className = "search-cover-link"
+				coverLink.href = book.url
+				coverLink.setAttribute("aria-label", "View " + (book.book || book.title))
+
+				const cover = document.createElement("img")
+				cover.className = "search-cover"
+				cover.src = book.image
+				cover.alt = "Cover of " + (book.book || book.title)
+				cover.loading = "lazy"
+				cover.decoding = "async"
+				cover.addEventListener("error", function () {
+					coverLink.remove()
+					item.classList.remove("has-cover")
+				})
+
+				coverLink.appendChild(cover)
+				item.appendChild(coverLink)
+				item.classList.add("has-cover")
 			}
 
 			return item
@@ -732,6 +804,15 @@ permalink: /search.html
 			.forEach(function (radio) {
 				radio.addEventListener("change", function () {
 					showCategories = radio.value === "with"
+					searchBooks(input.value)
+				})
+			})
+
+		document
+			.querySelectorAll('input[name="searchCovers"]')
+			.forEach(function (radio) {
+				radio.addEventListener("change", function () {
+					showCovers = radio.value === "with"
 					searchBooks(input.value)
 				})
 			})
