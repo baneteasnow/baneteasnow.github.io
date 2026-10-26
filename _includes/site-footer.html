@@ -1,33 +1,45 @@
-<footer class="n52b-footer" aria-label="Site footer">
-  <span>{{ 'now' | date: '%Y' }}</span>
-  <span aria-hidden="true">·</span>
-  <a href="{{ '/' | relative_url }}">next52books</a>
+<footer
+	class="n52b-footer"
+	aria-label="Site footer"
+>
+	<span>{{ 'now' | date: '%Y' }}</span>
+	<span aria-hidden="true">·</span>
+	<a href="{{ '/' | relative_url }}">next52books</a>
 </footer>
 
 <style>
-  .n52b-footer {
-    box-sizing: border-box;
-    width: 100%;
-    margin-top: 1.5rem;
-    padding: 0.85rem 0 0.75rem;
-    border-top: 1px solid #e8e4df;
-    color: #9a8878;
-    font-family: 'EB Garamond', Georgia, serif;
-    font-size: 14px;
-    line-height: 1.5;
-    text-align: left;
-    white-space: nowrap;
-  }
+	.n52b-footer {
+		box-sizing: border-box;
+		width: 100%;
+		margin-top: 1.5rem;
+		padding: 0.85rem 0 0.75rem;
+		border-top: 1px solid #e8e4df;
+		color: #9a8878;
+		font-family: "EB Garamond", Georgia, serif;
+		font-size: 14px;
+		line-height: 1.5;
+		text-align: left;
+		white-space: nowrap;
+	}
 
-  .n52b-footer a,
-  .n52b-footer a:visited {
-    color: inherit;
-    text-decoration: underline;
-    text-underline-offset: 3px;
-  }
+	.n52b-footer a,
+	.n52b-footer a:visited {
+		color: inherit;
+		text-decoration: underline;
+		text-underline-offset: 3px;
+	}
 
-  .n52b-footer a:hover,
-  .n52b-footer a:focus-visible {
-    color: #6f5d50;
-  }
+	.n52b-footer a:hover,
+	.n52b-footer a:focus-visible {
+		color: #6f5d50;
+	}
+	/* Mobile footer spacing only */
+	@media (max-width: 900px) {
+		.n52b-footer {
+			margin-top: 12px;
+			margin-bottom: 12px;
+			padding-top: 14px;
+			padding-bottom: 0;
+		}
+	}
 </style>
