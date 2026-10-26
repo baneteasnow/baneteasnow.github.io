@@ -177,14 +177,14 @@ permalink: /search.html
 	}
 	.book-search .cover-choice input { margin: 0; accent-color: #555; }
 
-	/* With covers: book information left, cover right. */
+	/* With covers: cover left, book information right. */
 	.book-search .search-item.has-cover {
 		display: flex;
 		align-items: flex-start;
 		gap: 16px;
 	}
-	.book-search .search-item-content { flex: 1; min-width: 0; }
-	.book-search .search-cover-link { display: block; flex: 0 0 68px; margin-left: auto; }
+	.book-search .search-item-content { flex: 1; min-width: 0; order: 2; }
+	.book-search .search-cover-link { display: block; flex: 0 0 68px; order: 1; }
 	.book-search .search-cover {
 		display: block;
 		width: 68px;
