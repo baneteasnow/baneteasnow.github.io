@@ -5,6 +5,8 @@
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
+            {% include site-footer.html %}
+
       </div>
     </main>
 
@@ -17,6 +19,7 @@
       <a href="{{ '/map' | relative_url }}">More</a>
       <a href="https://homelibrary.next52books.com/browse/">homelibrary</a>
     </nav>
+
     <style>
       .side-links {
         position: fixed;
