@@ -183,4 +183,32 @@
 			font-size: 10px;
 		}
 	}
+
+/* Next52books · Warm Editorial v1 — shared visual rhythm */
+
+.reading-ledger {
+  --rl-ink: #292724;
+  --rl-muted: #77716c;
+  --rl-line: #e8e4df;
+  --rl-accent: #9a8878;
+  width: 100%;
+  max-width: 540px;
+  margin: 28px auto 32px;
+}
+.reading-ledger .rl-summary { color: #77716c; margin-bottom: 8px; }
+.reading-ledger .rl-updated { color: var(--rl-muted); margin-bottom: 32px; }
+.reading-ledger .rl-book { grid-template-columns: 34px minmax(0,1fr) 82px; gap: 14px; padding: 16px 0; }
+.reading-ledger .rl-number { color: var(--rl-muted); }
+.reading-ledger .rl-body h3 { font-size: 17px; line-height: 1.3; margin-bottom: 5px; }
+.reading-ledger .rl-author { font-size: 14px; color: #5c5550; margin-bottom: 8px; }
+.reading-ledger .rl-meta { color: var(--rl-muted); font-size: 12px; }
+.reading-ledger .rl-progress { margin-top: 12px; }
+.reading-ledger .rl-footer { margin-top: 32px; }
+.reading-ledger .rl-footer a { color: var(--rl-accent); border-bottom-color: var(--rl-line); }
+@media (max-width: 600px) {
+  .reading-ledger { margin: 20px auto 28px; }
+  .reading-ledger .rl-book { grid-template-columns: 25px minmax(0,1fr) 64px; gap: 9px; padding: 16px 0; }
+  .reading-ledger .rl-body h3 { font-size: 17px; }
+}
+
 </style>
