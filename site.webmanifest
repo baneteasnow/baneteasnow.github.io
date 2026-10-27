@@ -1,46 +1,46 @@
 {
-	"name": "next52books.com",
-	"short_name": "next52books.com",
-	"description": "next52books.com - okuduğum kitaplar",
+	"name": "next52books",
+	"short_name": "n52b",
+	"description": "next52books.com - be curious.",
 	"icons": [
 		{
-			"src": "https://www.next52books.com/assets/images/android-chrome-192x192.png",
+			"src": "/web-app-manifest-192x192.png",
 			"sizes": "192x192",
 			"type": "image/png",
-			"purpose": "any maskable"
+			"purpose": "any"
 		},
 		{
-			"src": "https://www.next52books.com/assets/images/android-chrome-512x512.png",
+			"src": "/web-app-manifest-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png",
-			"purpose": "any maskable"
+			"purpose": "any"
 		}
 	],
-	"theme_color": "#ffffcc",
-	"background_color": "#ffffcc",
+	"theme_color": "#FFFFFF",
+	"background_color": "#E8E4DF",
 	"display": "standalone",
 	"orientation": "natural",
 	"categories": ["books"],
 	"start_url": "https://www.next52books.com",
 	"shortcuts": [
 		{
-			"name": "şimdi",
+			"name": "now",
 			"url": "https://www.next52books.com/now.html",
-			"description": "şimdi okuduğum kitap",
+			"description": "currently reading",
 			"icons": [
 				{
-					"src": "https://www.next52books.com/assets/images/android-chrome-192x192.png",
+					"src": "/web-app-manifest-192x192.png",
 					"sizes": "192x192"
 				}
 			]
 		},
 		{
-			"name": "başka ne var?",
-			"description": "başka ne var?r",
+			"name": "more",
+			"description": "more",
 			"url": "https://www.next52books.com/map.html",
 			"icons": [
 				{
-					"src": "https://www.next52books.com/assets/images/android-chrome-192x192.png",
+					"src": "/web-app-manifest-192x192.png",
 					"sizes": "192x192"
 				}
 			]

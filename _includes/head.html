@@ -14,33 +14,11 @@
 	</title>
 
 	{%-seo title=false-%} {%-feed_meta-%}
-	<link
-		rel="shortcut icon"
-		type="image/x-icon"
-		href="{{ site.favicon | relative_url }}"
-	/>
+	<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any" />
+	<link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}" />
+	<link rel="icon" type="image/png" sizes="96x96" href="{{ '/favicon-96x96.png' | relative_url }}" />
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
-	<link
-		rel="apple-touch-icon"
-		href="/assets/images/apple-touch-icon.png"
-	/>
-	<link
-		rel="apple-touch-icon"
-		sizes="180x180"
-		href="/assets/images/apple-touch-icon.png"
-	/>
-	<link
-		rel="icon"
-		type="image/png"
-		sizes="32x32"
-		href="/assets/images/favicon-32x32.png"
-	/>
-	<link
-		rel="icon"
-		type="image/png"
-		sizes="16x16"
-		href="/assets/images/favicon-16x16.png"
-	/>
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}" />
 
 	<link
 		rel="preconnect"
@@ -72,7 +50,7 @@
 {% endif %}
 	<meta
 		name="theme-color"
-		content="#DDDDDD"
+		content="#FFFFFF"
 	/>
 	<link
 		href="/splashscreens/iphone5_splash.png"
