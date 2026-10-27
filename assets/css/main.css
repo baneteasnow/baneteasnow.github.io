@@ -1,3 +1,16 @@
+/* Next52books · Warm Editorial design tokens (v1) */
+:root {
+  --n52-bg: #ffffff;
+  --n52-text: #292724;
+  --n52-muted: #77716c;
+  --n52-accent: #9a8878;
+  --n52-border: #e8e4df;
+  --n52-space-sm: 16px;
+  --n52-space-md: 24px;
+  --n52-space-lg: 32px;
+  --n52-content-reading: 540px;
+}
+
 body[a="dark"] {
 	filter: invert(1);
 }

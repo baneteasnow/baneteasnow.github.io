@@ -1,57 +1,229 @@
 <style>
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=DM+Sans:wght@400;500;600&display=swap');
-.reading-archive{--ra-ink:#302d2a;--ra-muted:#827970;--ra-line:#e7e1db;--ra-taupe:#9a8878;max-width:780px;margin:28px auto 75px;color:var(--ra-ink);font-family:'EB Garamond',Georgia,serif}
-.reading-archive *{box-sizing:border-box}
-.reading-archive .ra-kicker{font:500 10px 'DM Sans',Arial,sans-serif;letter-spacing:.18em;color:var(--ra-muted);margin-bottom:22px}
-.reading-archive .ra-goal{display:flex;align-items:center;gap:22px;padding:14px 0 24px;border-bottom:1px solid var(--ra-line);margin-bottom:30px}
-.reading-archive .ra-goal-count{white-space:nowrap;font:16px 'EB Garamond',Georgia,serif}.reading-archive .ra-goal-count strong{font-size:27px;font-weight:600}.reading-archive .ra-goal-count span{color:var(--ra-muted)}
-.reading-archive .ra-goal-track{height:7px;flex:1;border-radius:8px;background:#ebe7e3;overflow:hidden}.reading-archive .ra-goal-track span{display:block;height:100%;background:var(--ra-taupe);border-radius:8px}
-.reading-archive .ra-goal-percent{min-width:45px;text-align:right;font:600 17px 'EB Garamond',Georgia,serif}
-/* Annual page total and right-aligned month-end subtotals */
-.reading-archive .ra-annual-pages{margin:-17px 0 27px;text-align:right;font:italic 15px 'EB Garamond',Georgia,serif;color:var(--ra-muted)}
-.reading-archive .ra-month-subtotal{display:flex;flex-direction:column;align-items:flex-end;gap:5px;padding:14px 0 21px;border-bottom:1px solid var(--ra-line);text-align:right}
-.reading-archive .ra-month-subtotal-label{font:600 10px 'DM Sans',Arial,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--ra-muted)}
-.reading-archive .ra-month-subtotal-values{font:italic 17px 'EB Garamond',Georgia,serif;color:var(--ra-ink);border-bottom:2px solid var(--ra-taupe);padding-bottom:5px}
-.reading-archive .ra-list-heading{display:flex;justify-content:space-between;align-items:baseline;padding:0 0 12px;border-bottom:1px solid var(--ra-line);font:italic 19px 'EB Garamond',Georgia,serif}
-.reading-archive .ra-list-heading span:last-child{font:11px 'DM Sans',Arial,sans-serif;color:var(--ra-muted)}
-.reading-archive .ra-book{display:grid;grid-template-columns:46px 62px minmax(0,1fr) 56px;align-items:center;gap:18px;padding:17px 0;border-bottom:1px solid var(--ra-line)}
-.reading-archive .ra-number{font:italic 13px 'EB Garamond',Georgia,serif;color:#9d938b;align-self:start;padding-top:4px;white-space:nowrap}
-.reading-archive .ra-cover{display:block;width:62px;height:92px;object-fit:cover;box-shadow:2px 3px 0 #0000000a}
-.reading-archive .ra-cover-placeholder{background:#e7e0d7;color:#6d6056;display:flex;align-items:center;justify-content:center;text-align:center;padding:7px;overflow:hidden}
-.reading-archive .ra-cover-placeholder span{font:italic 12px/1.15 'EB Garamond',Georgia,serif;overflow-wrap:anywhere}
-.reading-archive .ra-book-main{min-width:0}.reading-archive .ra-book-main h2{font:600 20px/1.17 'EB Garamond',Georgia,serif;margin:0 0 5px;color:var(--ra-ink)}
-.reading-archive .ra-byline{font:italic 15px/1.3 'EB Garamond',Georgia,serif;margin:0 0 7px;color:#5c5550}
-.reading-archive .ra-detail{font:10px/1.4 'DM Sans',Arial,sans-serif;color:var(--ra-muted);margin:0}
-.reading-archive .ra-month{text-align:right;align-self:center;font:italic 14px 'EB Garamond',Georgia,serif;color:var(--ra-muted)}
-.reading-archive .ra-years{display:flex;justify-content:space-between;align-items:center;margin-top:35px;font:italic 16px 'EB Garamond',Georgia,serif}
-.reading-archive .ra-years a{color:#876c5b;text-decoration:none}.reading-archive .ra-years a:hover{text-decoration:underline}
-.reading-archive .ra-years span{font-style:normal;font-weight:600}
-@media(max-width:600px){.reading-archive{margin:20px auto 50px}.reading-archive .ra-goal{gap:12px}.reading-archive .ra-book{grid-template-columns:26px 48px minmax(0,1fr);gap:10px;padding:14px 0}.reading-archive .ra-cover{width:48px;height:72px}.reading-archive .ra-book-main h2{font-size:18px}.reading-archive .ra-byline{font-size:14px}.reading-archive .ra-month{grid-column:3;justify-self:start;text-align:left;font-size:12px;margin-top:-4px}.reading-archive .ra-number{font-size:11px}}
-
-/* Next52books · Warm Editorial v1 — shared visual rhythm */
-
 .reading-archive {
   --ra-ink: #292724;
   --ra-muted: #77716c;
   --ra-line: #e8e4df;
   --ra-taupe: #9a8878;
-  width: 100%;
   max-width: 540px;
   margin: 28px auto 32px;
+  color: var(--ra-ink);
+  font-family: "EB Garamond",Georgia,serif;
+  width: 100%;
 }
-.reading-archive .ra-kicker { margin-bottom: 24px; }
-.reading-archive .ra-goal { margin-bottom: 32px; }
-.reading-archive .ra-book { grid-template-columns: 28px 62px minmax(0,1fr) 44px; gap: 12px; padding: 16px 0; }
-.reading-archive .ra-number { color: var(--ra-muted); }
-.reading-archive .ra-book-main h2 { font-size: 17px; line-height: 1.3; }
-.reading-archive .ra-byline { font-size: 14px; }
-.reading-archive .ra-detail { font-size: 12px; }
-.reading-archive .ra-years a { color: var(--ra-taupe); }
+.reading-archive * {
+  box-sizing: border-box;
+}
+.reading-archive .ra-kicker {
+  font: 500 10px "DM Sans",Arial,sans-serif;
+  letter-spacing: .18em;
+  color: var(--ra-muted);
+  margin-bottom: 24px;
+}
+.reading-archive .ra-goal {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  padding: 14px 0 24px;
+  border-bottom: 1px solid var(--ra-line);
+  margin-bottom: 32px;
+}
+.reading-archive .ra-goal-count {
+  white-space: nowrap;
+  font: 16px "EB Garamond",Georgia,serif;
+}
+.reading-archive .ra-goal-count strong {
+  font-size: 27px;
+  font-weight: 600;
+}
+.reading-archive .ra-goal-count span {
+  color: var(--ra-muted);
+}
+.reading-archive .ra-goal-track {
+  height: 7px;
+  flex: 1;
+  border-radius: 8px;
+  background: #ebe7e3;
+  overflow: hidden;
+}
+.reading-archive .ra-goal-track span {
+  display: block;
+  height: 100%;
+  background: var(--ra-taupe);
+  border-radius: 8px;
+}
+.reading-archive .ra-goal-percent {
+  min-width: 45px;
+  text-align: right;
+  font: 600 17px "EB Garamond",Georgia,serif;
+}
+.reading-archive .ra-annual-pages {
+  margin: -17px 0 27px;
+  text-align: right;
+  font: italic 15px "EB Garamond",Georgia,serif;
+  color: var(--ra-muted);
+}
+.reading-archive .ra-month-subtotal {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 5px;
+  padding: 14px 0 21px;
+  border-bottom: 1px solid var(--ra-line);
+  text-align: right;
+}
+.reading-archive .ra-month-subtotal-label {
+  font: 600 10px "DM Sans",Arial,sans-serif;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+  color: var(--ra-muted);
+}
+.reading-archive .ra-month-subtotal-values {
+  font: italic 17px "EB Garamond",Georgia,serif;
+  color: var(--ra-ink);
+  border-bottom: 2px solid var(--ra-taupe);
+  padding-bottom: 5px;
+}
+.reading-archive .ra-list-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0 0 12px;
+  border-bottom: 1px solid var(--ra-line);
+  font: italic 19px "EB Garamond",Georgia,serif;
+}
+.reading-archive .ra-list-heading span:last-child {
+  font: 11px "DM Sans",Arial,sans-serif;
+  color: var(--ra-muted);
+}
+.reading-archive .ra-book {
+  display: grid;
+  grid-template-columns: 28px 62px minmax(0,1fr) 44px;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--ra-line);
+}
+.reading-archive .ra-number {
+  font: italic 13px "EB Garamond",Georgia,serif;
+  color: var(--ra-muted);
+  align-self: start;
+  padding-top: 4px;
+  white-space: nowrap;
+}
+.reading-archive .ra-cover {
+  display: block;
+  width: 62px;
+  height: 92px;
+  object-fit: cover;
+  box-shadow: 2px 3px 0 #0000000a;
+}
+.reading-archive .ra-cover-placeholder {
+  background: #e7e0d7;
+  color: #6d6056;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 7px;
+  overflow: hidden;
+}
+.reading-archive .ra-cover-placeholder span {
+  font: italic 12px/1.15 "EB Garamond",Georgia,serif;
+  overflow-wrap: anywhere;
+}
+.reading-archive .ra-book-main {
+  min-width: 0;
+}
+.reading-archive .ra-book-main h2 {
+  font: 600 20px/1.17 "EB Garamond",Georgia,serif;
+  margin: 0 0 5px;
+  color: var(--ra-ink);
+  font-size: 17px;
+  line-height: 1.3;
+}
+.reading-archive .ra-byline {
+  font: italic 15px/1.3 "EB Garamond",Georgia,serif;
+  margin: 0 0 7px;
+  color: #5c5550;
+  font-size: 14px;
+}
+.reading-archive .ra-detail {
+  font: 10px/1.4 "DM Sans",Arial,sans-serif;
+  color: var(--ra-muted);
+  margin: 0;
+  font-size: 12px;
+}
+.reading-archive .ra-month {
+  text-align: right;
+  align-self: center;
+  font: italic 14px "EB Garamond",Georgia,serif;
+  color: var(--ra-muted);
+}
+.reading-archive .ra-years {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 35px;
+  font: italic 16px "EB Garamond",Georgia,serif;
+}
+.reading-archive .ra-years a {
+  color: var(--ra-taupe);
+  text-decoration: none;
+}
+.reading-archive .ra-years a:hover {
+  text-decoration: underline;
+}
+.reading-archive .ra-years span {
+  font-style: normal;
+  font-weight: 600;
+}
+@media (max-width:600px) {
+  .reading-archive {
+    margin: 20px auto 50px;
+  }
+  .reading-archive .ra-goal {
+    gap: 12px;
+  }
+  .reading-archive .ra-book {
+    grid-template-columns: 26px 48px minmax(0,1fr);
+    gap: 10px;
+    padding: 14px 0;
+  }
+  .reading-archive .ra-cover {
+    width: 48px;
+    height: 72px;
+  }
+  .reading-archive .ra-book-main h2 {
+    font-size: 18px;
+  }
+  .reading-archive .ra-byline {
+    font-size: 14px;
+  }
+  .reading-archive .ra-month {
+    grid-column: 3;
+    justify-self: start;
+    text-align: left;
+    font-size: 12px;
+    margin-top: -4px;
+  }
+  .reading-archive .ra-number {
+    font-size: 11px;
+  }
+}
 @media (max-width: 600px) {
-  .reading-archive { margin: 20px auto 28px; }
-  .reading-archive .ra-book { grid-template-columns: 24px 48px minmax(0,1fr); gap: 9px; padding: 16px 0; }
-  .reading-archive .ra-book-main h2 { font-size: 17px; }
-  .reading-archive .ra-byline { font-size: 14px; }
+  .reading-archive {
+    margin: 20px auto 28px;
+  }
+  .reading-archive .ra-book {
+    grid-template-columns: 24px 48px minmax(0,1fr);
+    gap: 9px;
+    padding: 16px 0;
+  }
+  .reading-archive .ra-book-main h2 {
+    font-size: 17px;
+  }
+  .reading-archive .ra-byline {
+    font-size: 14px;
+  }
 }
-
 </style>
