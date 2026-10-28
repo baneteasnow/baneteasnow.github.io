@@ -1,6 +1,19 @@
 
-<h4><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h4>
+<h4 class="home-featured-title"><a href="{{ site.posts.first.url | relative_url }}">{{ site.posts.first.title }}</a></h4>
 
 <div class="ind10">
 {{  site.posts.first.content }}
 </div>
+
+<style>
+/* Featured post title — shared editorial typography with post pages. */
+.home-featured-title {
+  font-family: "EB Garamond", Georgia, serif !important;
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  font-style: italic;
+  line-height: 1.25;
+  color: #292724;
+}
+.home-featured-title a { color: inherit; }
+</style>
