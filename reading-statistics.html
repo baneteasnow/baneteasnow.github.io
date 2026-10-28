@@ -1,0 +1,71 @@
+---
+layout: page
+title: Reading Statistics
+permalink: /reading-statistics.html
+published: true
+---
+
+{% assign reading_months = 'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec' | split: ',' %}
+{% assign reading_data = site.data | sort | reverse %}
+
+<section class="reading-statistics" aria-labelledby="reading-statistics-title">
+  <h1 id="reading-statistics-title">Reading Statistics</h1>
+  <p class="rs-intro">Books read each month, across the years.</p>
+
+  <div class="rs-scroll" role="region" aria-label="Monthly reading statistics" tabindex="0">
+    <table class="rs-table">
+      <thead>
+        <tr>
+          <th scope="col">Year</th>
+          {% for month in reading_months %}<th scope="col">{{ month }}</th>{% endfor %}
+          <th scope="col">Total</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign has_reading_years = false %}
+        {% for entry in reading_data %}
+          {% assign data_key = entry[0] %}
+          {% assign key_prefix = data_key | slice: 0, 8 %}
+          {% if key_prefix == 'reading-' %}
+            {% assign archive = entry[1] %}
+            {% if archive.books %}
+              {% assign has_reading_years = true %}
+              {% assign archive_year = data_key | remove_first: 'reading-' %}
+              <tr>
+                <th scope="row"><a href="{{ '/' | append: archive_year | append: '.html' | relative_url }}">{{ archive_year }}</a></th>
+                {% for month in reading_months %}
+                  {% assign monthly_books = archive.books | where: 'month', month %}
+                  <td>{{ monthly_books.size }}</td>
+                {% endfor %}
+                <td class="rs-total">{{ archive.books.size }}</td>
+              </tr>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% unless has_reading_years %}
+          <tr><td colspan="14">No reading archive data found.</td></tr>
+        {% endunless %}
+      </tbody>
+    </table>
+  </div>
+  <p class="rs-note">Figures are calculated automatically from the <code>reading-YYYY.yml</code> files. Select a year to open its reading archive.</p>
+</section>
+
+<style>
+  .reading-statistics { color: #292724; font-family: 'EB Garamond', Georgia, serif; }
+  .reading-statistics h1 { margin: 0 0 10px; font-size: 26px; font-weight: 600; font-style: italic; line-height: 1.25; }
+  .reading-statistics .rs-intro { margin: 0 0 32px; color: #77716c; font-size: 17px; }
+  .reading-statistics .rs-scroll { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .reading-statistics .rs-table { width: 100%; min-width: 600px; border-collapse: collapse; table-layout: auto; font-family: 'DM Sans', Arial, sans-serif; font-size: 12px; font-variant-numeric: tabular-nums; }
+  .reading-statistics .rs-table th, .reading-statistics .rs-table td { border: 0; border-bottom: 1px solid #e8e4df; padding: 12px 8px; text-align: right; color: #292724; white-space: nowrap; }
+  .reading-statistics .rs-table thead th { color: #77716c; font-weight: 500; border-top: 1px solid #e8e4df; }
+  .reading-statistics .rs-table th:first-child { text-align: left; padding-left: 0; }
+  .reading-statistics .rs-table th:last-child, .reading-statistics .rs-table td:last-child { padding-right: 0; }
+  .reading-statistics .rs-table tbody th { font-weight: 600; }
+  .reading-statistics .rs-table tbody th a { color: #292724; text-decoration: underline !important; text-decoration-color: #9a8878 !important; text-underline-offset: 3px; }
+  .reading-statistics .rs-table tbody th a:hover { color: #9a8878; }
+  .reading-statistics .rs-table .rs-total { font-weight: 700; }
+  .reading-statistics .rs-note { margin: 20px 0 0; color: #77716c; font-size: 13px; line-height: 1.5; }
+  .reading-statistics .rs-note code { color: inherit; background: transparent; font-family: monospace; font-size: 11px; }
+  @media (max-width: 640px) { .reading-statistics .rs-table { font-size: 11px; } .reading-statistics .rs-table th, .reading-statistics .rs-table td { padding: 10px 7px; } }
+</style>
