@@ -1,67 +1,158 @@
-const CACHE = "pwabuilder-offline"
+// Next52books Service Worker
+// Network First + Offline Reading
 
-const offlineFallbackPage = "index.html"
+const CACHE_NAME = "next52books-v2"
+const OLD_CACHE_NAME = "pwabuilder-offline"
 
-// Install stage sets up the index page (home page) in the cache and opens a new cache
-self.addEventListener("install", function (event) {
-	console.log("Install Event processing")
+const HOME_PAGE = "/"
+const POSTS_PAGE = "/posts.html"
 
+const PRECACHE_URLS = [HOME_PAGE, POSTS_PAGE]
+
+// INSTALL
+self.addEventListener("install", (event) => {
 	event.waitUntil(
-		caches.open(CACHE).then(function (cache) {
-			console.log("Cached offline page during install")
+		(async () => {
+			const cache = await caches.open(CACHE_NAME)
 
-			if (offlineFallbackPage === "https://www.next52books.com/offline.html") {
-				return cache.add(
-					new Response(
-						"Update the value of the offlineFallbackPage constant in the serviceworker."
-					)
-				)
-			}
-			return cache.add(offlineFallbackPage)
-		})
+			// Cache the homepage and posts page.
+			await cache.addAll(PRECACHE_URLS)
+
+			// Activate the new service worker.
+			await self.skipWaiting()
+		})(),
 	)
 })
 
-// If any fetch fails, it will look for the request in the cache and serve it from there first
-self.addEventListener("fetch", function (event) {
-	if (event.request.method !== "GET") return
+// ACTIVATE
+self.addEventListener("activate", (event) => {
+	event.waitUntil(
+		(async () => {
+			const cacheNames = await caches.keys()
+
+			await Promise.all(
+				cacheNames
+					.filter(
+						(name) =>
+							name === OLD_CACHE_NAME ||
+							(name.startsWith("next52books-") && name !== CACHE_NAME),
+					)
+					.map((name) => caches.delete(name)),
+			)
+
+			await self.clients.claim()
+		})(),
+	)
+})
+
+// FETCH
+self.addEventListener("fetch", (event) => {
+	const request = event.request
+
+	if (request.method !== "GET") return
+
+	const url = new URL(request.url)
+
+	// Only handle resources from Next52books.
+	if (url.origin !== self.location.origin) return
+
+	// Do not cache the service worker itself.
+	if (url.pathname === "/sw.js") return
 
 	event.respondWith(
-		fetch(event.request)
-			.then(function (response) {
-				console.log("Add page to offline cache: " + response.url)
+		(async () => {
+			const cache = await caches.open(CACHE_NAME)
 
-				// If request was success, add or update it in the cache
-				event.waitUntil(updateCache(event.request, response.clone()))
+			try {
+				const response = await fetch(request)
+
+				// Cache successful responses.
+				if (response.ok && response.type === "basic") {
+					event.waitUntil(cache.put(request, response.clone()).catch(() => {}))
+				}
 
 				return response
-			})
-			.catch(function (error) {
-				console.log(
-					"Network request Failed. Serving content from cache: " + error
-				)
-				return fromCache(event.request)
-			})
+			} catch (error) {
+				// Try to find the requested resource in the cache.
+				const cachedResponse = await cache.match(request, {
+					ignoreSearch: request.mode === "navigate",
+				})
+
+				if (cachedResponse) {
+					return cachedResponse
+				}
+
+				// Show an offline message for uncached pages.
+				if (request.mode === "navigate") {
+					return new Response(
+						`<!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport"
+                  content="width=device-width, initial-scale=1">
+            <title>Offline | Next52books</title>
+            <style>
+              body {
+                margin: 0;
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: #E8E4DF;
+                color: #222;
+                font-family: Georgia, serif;
+                text-align: center;
+              }
+
+              main {
+                padding: 32px;
+                max-width: 420px;
+              }
+
+              h1 {
+                font-size: 42px;
+                font-weight: normal;
+                margin-bottom: 20px;
+              }
+
+              p {
+                font-size: 17px;
+                line-height: 1.7;
+              }
+
+              a {
+                color: #963F50;
+              }
+            </style>
+          </head>
+          <body>
+            <main>
+              <h1>n52b</h1>
+              <p>
+                You're currently offline.
+                This page hasn't been saved for offline reading yet.
+              </p>
+              <p>
+                Connect to the internet and visit this page
+                to make it available offline.
+              </p>
+              <p><a href="/">Back to Home</a></p>
+            </main>
+          </body>
+          </html>`,
+						{
+							status: 200,
+							headers: {
+								"Content-Type": "text/html; charset=utf-8",
+							},
+						},
+					)
+				}
+
+				// Avoid an unhandled rejection for other resources.
+				return Response.error()
+			}
+		})(),
 	)
 })
-
-function fromCache(request) {
-	// Check to see if you have it in the cache
-	// Return response
-	// If not in the cache, then return error page
-	return caches.open(CACHE).then(function (cache) {
-		return cache.match(request).then(function (matching) {
-			if (!matching || matching.status === 404) {
-				return Promise.reject("no-match")
-			}
-
-			return matching
-		})
-	})
-}
-
-function updateCache(request, response) {
-	return caches.open(CACHE).then(function (cache) {
-		return cache.put(request, response)
-	})
-}
