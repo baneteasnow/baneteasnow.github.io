@@ -1,11 +1,11 @@
 ---
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-10-24
+last_modified_at: 2026-10-28
 published: true
-read: 56
+read: 57
 # Kitap sayısını değiştirirsen bu değeri de güncelle.
-book_count: 8
+book_count: 7
 
 # Kapak için isteğe bağlı: cover1: "/assets/now/dosya.jpg"
 # 1
@@ -41,13 +41,13 @@ format4: reading as a book
 pageread4: 1
 cover4: "/assets/now/this-changes-everything.jpg"
 # 5
-booktitle5: "Will I Ever Be Good Enough?"
-bookyear5: 2019
-author5: "Karyl McBride"
-sayfa5: 280
+booktitle5: "The Myth of Normal"
+bookyear5: 2023
+author5: "Gabor Mate, Daniel Mate"
+sayfa5: 552
 format5: reading as a book
 pageread5: 1
-cover5: "/assets/now/will-i-ever-be-good-enough.jpg"
+cover5: "/assets/now/the-myth-of-normal.jpg"
 # 6
 booktitle6: "Boundaries"
 bookyear6: 2019
@@ -64,14 +64,6 @@ sayfa7: 480
 format7: reading as a book
 pageread7: 1
 cover7: "/assets/now/a-paradise-built-in-hell.jpg"
-# 8
-booktitle8: "The Myth of Normal"
-bookyear8: 2023
-author8: "Gabor Mate, Daniel Mate"
-sayfa8: 552
-format8: reading as a book
-pageread8: 1
-cover8: "/assets/now/the-myth-of-normal.jpg"
 ---
 
 {% include now-reading-styles.html %}

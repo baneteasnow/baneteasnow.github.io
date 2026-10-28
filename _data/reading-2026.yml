@@ -3,6 +3,16 @@
 year: 2026
 goal: 70
 books:
+  - id: 57
+    month: "Oct"
+    title: "Will I Ever Be Good Enough?"
+    author: "Karyl McBride"
+    year: 2019
+    pages: 280
+    format: "book"
+    categories: "PsychologyMentalLife"
+    cover: "/assets/new/practices-for-embodied-living.jpg"
+
   - id: 56
     month: "Oct"
     title: "Practices for Embodied Living"
