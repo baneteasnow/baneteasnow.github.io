@@ -1,7 +1,7 @@
 
 <h4 class="home-featured-title"><a href="{{ site.posts.first.url | relative_url }}">{{ site.posts.first.title }}</a></h4>
 
-<div class="ind10">
+<div class="ind10 home-featured-body">
 {{  site.posts.first.content }}
 </div>
 
@@ -16,4 +16,42 @@
   color: #292724;
 }
 .home-featured-title a { color: #292724; }
+/* Match the post layout's full reading-column width, without changing other pages. */
+.w:has(.home-featured-title) { width: auto; }
+
+/* Featured article only: same typography as the individual post. */
+.home-featured-body {
+  font-family: "EB Garamond", Georgia, serif !important;
+  font-size: 19px;
+  line-height: 1.6;
+  color: var(--n52-text, #292724);
+}
+.home-featured-body p { margin: 0 0 1.1em; }
+.home-featured-body h2,
+.home-featured-body h3,
+.home-featured-body h4 {
+  font-family: "EB Garamond", Georgia, serif !important;
+  font-weight: 600;
+  font-style: normal;
+  color: var(--n52-text, #292724);
+  line-height: 1.3;
+  margin: 1.7em 0 0.65em;
+}
+.home-featured-body h2 { font-size: 23px; }
+.home-featured-body h3 { font-size: 21px; }
+.home-featured-body h4 { font-size: 19px !important; }
+.home-featured-body blockquote {
+  border-left-color: var(--n52-border, #e8e4df);
+  color: var(--n52-muted, #77716c);
+  padding: 0.25em 0 0.25em 1em;
+  margin: 1.5em 0;
+}
+.home-featured-body a {
+  color: var(--n52-text, #292724);
+  text-decoration: underline !important;
+  text-decoration-color: var(--n52-accent, #9a8878) !important;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+.home-featured-body a:hover { color: var(--n52-accent, #9a8878); }
 </style>
