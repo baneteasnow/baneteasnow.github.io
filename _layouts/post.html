@@ -63,6 +63,43 @@ layout: default
 		color: inherit;
 	}
 
+	/* Warm Editorial — reading typography, scoped to post content */
+	.book-review .book-review-body {
+		color: var(--n52-text, #292724);
+	}
+	.book-review .book-review-body p {
+		margin: 0 0 1.1em;
+	}
+	.book-review .book-review-body h2,
+	.book-review .book-review-body h3,
+	.book-review .book-review-body h4 {
+		font-family: "EB Garamond", Georgia, serif !important;
+		font-weight: 600;
+		font-style: normal;
+		color: var(--n52-text, #292724);
+		line-height: 1.3;
+		margin: 1.7em 0 0.65em;
+	}
+	.book-review .book-review-body h2 { font-size: 23px; }
+	.book-review .book-review-body h3 { font-size: 21px; }
+	.book-review .book-review-body h4 { font-size: 19px !important; }
+	.book-review .book-review-body blockquote {
+		border-left-color: var(--n52-border, #e8e4df);
+		color: var(--n52-muted, #77716c);
+		padding: 0.25em 0 0.25em 1em;
+		margin: 1.5em 0;
+	}
+	.book-review .book-review-body a {
+		color: var(--n52-text, #292724);
+		text-decoration: underline !important;
+		text-decoration-color: var(--n52-accent, #9a8878) !important;
+		text-decoration-thickness: 1px;
+		text-underline-offset: 3px;
+	}
+	.book-review .book-review-body a:hover {
+		color: var(--n52-accent, #9a8878);
+	}
+
 	/* Post metadata: quiet, aligned, with clear hierarchy */
 	.book-review .post-top-meta {
 		text-align: right;
