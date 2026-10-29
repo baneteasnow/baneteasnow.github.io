@@ -438,7 +438,7 @@ a:hover {
 	content: "";
 	position: absolute;
 	top: 90%;
-	border-bottom: 1px dotted #808080;
+	border-bottom: 1px dotted #e8e4df;
 	width: 100vw;
 	margin: 0 20px;
 }
