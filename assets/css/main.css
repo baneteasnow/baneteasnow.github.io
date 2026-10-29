@@ -269,7 +269,13 @@ a {
 }
 
 ::selection {
-	background: #ffffcc;
+	background: #E8E4DF;
+	color: #292724;
+}
+
+::-moz-selection {
+	background: #E8E4DF;
+	color: #292724;
 }
 
 a:hover {
