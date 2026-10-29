@@ -20,6 +20,10 @@ layout: default
   }
   .home-post-date a { color: inherit; font: inherit; text-decoration: none; }
   .home-post-date a:hover, .home-post-date a:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
+  /* Soft underline highlight for the homepage now · more · search links only. */
+  #links.link1 a {
+    background-image: linear-gradient(0deg, #E8E4DF, #E8E4DF);
+  }
 </style>
 
 {%-include home1.html-%} {{ content }}
