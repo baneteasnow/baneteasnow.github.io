@@ -68,9 +68,17 @@
       {% endfor %}
     </div>
     <nav class="ra-years" aria-label="Reading years">
-      <a href="/{{ include.year | minus: 1 }}.html">← {{ include.year | minus: 1 }}</a>
+      {% if include.year > 2021 %}
+        <a href="{{ include.year | minus: 1 | prepend: '/' | append: '.html' | relative_url }}">← {{ include.year | minus: 1 }}</a>
+      {% else %}
+        <span aria-hidden="true"></span>
+      {% endif %}
       <span>{{ include.year }}</span>
-      <a href="/{{ include.year | plus: 1 }}.html">{{ include.year | plus: 1 }} →</a>
+      {% if include.year < 2027 %}
+        <a href="{{ include.year | plus: 1 | prepend: '/' | append: '.html' | relative_url }}">{{ include.year | plus: 1 }} →</a>
+      {% else %}
+        <span aria-hidden="true"></span>
+      {% endif %}
     </nav>
   </section>
 {% else %}
