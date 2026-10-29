@@ -25,6 +25,28 @@
 	details[open] summary {
 		display: none;
 	}
+
+/* Homepage archive: quieter links and separators. */
+details .archive-row .decorated a,
+details .archive-row .decorated a:hover,
+details .archive-row .decorated a:focus-visible {
+  text-decoration: none !important;
+  background-image: none !important;
+  border-bottom: 0 !important;
+  font-weight: 400 !important;
+}
+details .archive-row .decorated a.active { font-style: normal; }
+details .archive-row .decorated > span::before,
+details .archive-row .decorated > span::after {
+  border-bottom: 1px dotted #E8E4DF;
+}
+details > summary .cat2 {
+  text-decoration: underline !important;
+  text-decoration-color: #9A8878 !important;
+  -webkit-text-decoration-color: #9A8878 !important;
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 3px;
+}
 </style>
 
 <details>
