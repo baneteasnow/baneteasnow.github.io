@@ -10,9 +10,28 @@ permalink: /author.html
 		id="authorCount"
 		class="author-count"
 	></p>
-	<fieldset class="author-category-choice" id="authorCategoryChoice" aria-label="Category display">
-		<label><input type="radio" name="authorCategories" value="without" checked /> Without categories</label>
-		<label><input type="radio" name="authorCategories" value="with" /> With categories</label>
+	<fieldset
+		class="author-category-choice"
+		id="authorCategoryChoice"
+		aria-label="Category display"
+	>
+		<label
+			><input
+				type="radio"
+				name="authorCategories"
+				value="without"
+				checked
+			/>
+			Without categories</label
+		>
+		<label
+			><input
+				type="radio"
+				name="authorCategories"
+				value="with"
+			/>
+			With categories</label
+		>
 	</fieldset>
 	<div id="authorBooks"></div>
 </div>
@@ -72,22 +91,85 @@ permalink: /author.html
 			align-items: flex-start;
 			gap: 3px;
 		}
-		.author-book-date { margin-left: 0; }
+		.author-book-date {
+			margin-left: 0;
+		}
 	}
-	.author-category-choice { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 0 0 12px; padding: 0; border: 0; color: #666; font-size: 12px; }
-	.author-category-choice label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
-	.author-category-choice input { margin: 0; accent-color: #555; }
-	.author-book-category { margin-top: 7px; color: #888; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; }
+	.author-category-choice {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px 20px;
+		margin: 0 0 12px;
+		padding: 0;
+		border: 0;
+		color: #666;
+		font-size: 12px;
+	}
+	.author-category-choice label {
+		display: inline-flex;
+		align-items: center;
+		gap: 6px;
+		cursor: pointer;
+	}
+	.author-category-choice input {
+		margin: 0;
+		accent-color: #555;
+	}
+	.author-book-category {
+		margin-top: 7px;
+		color: #888;
+		font-size: 12px;
+		line-height: 1.5;
+		overflow-wrap: anywhere;
+	}
 
-	.author-category-choice[hidden] { display: none; }
-	.author-book-category a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
-	.author-index { list-style: none !important; margin: 0; padding: 0; }
-	.author-index li { list-style: none !important; display: flex; align-items: baseline; justify-content: space-between; gap: 16px; padding: 11px 0; border-bottom: 1px solid #e8e8e8; }
-	.author-index li::before, .author-index li::marker { content: none !important; display: none !important; }
-	.author-index a { color: inherit; text-decoration: underline; text-decoration-color: #bbb; text-underline-offset: 3px; overflow-wrap: anywhere; }
-	.author-index .number { color: #888; font-size: 12px; white-space: nowrap; }
-	.author-index a:hover { text-decoration-color: currentColor; }
-	.author-letter { margin: 25px 0 7px; font-size: 16px; color: #777; }
+	.author-category-choice[hidden] {
+		display: none;
+	}
+	.author-book-category a {
+		color: inherit;
+		text-decoration: underline;
+		text-underline-offset: 2px;
+	}
+	.author-index {
+		list-style: none !important;
+		margin: 0;
+		padding: 0;
+	}
+	.author-index li {
+		list-style: none !important;
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 16px;
+		padding: 11px 0;
+		border-bottom: 1px solid #e8e8e8;
+	}
+	.author-index li::before,
+	.author-index li::marker {
+		content: none !important;
+		display: none !important;
+	}
+	.author-index a {
+		color: inherit;
+		text-decoration: underline;
+		text-decoration-color: #bbb;
+		text-underline-offset: 3px;
+		overflow-wrap: anywhere;
+	}
+	.author-index .number {
+		color: #888;
+		font-size: 12px;
+		white-space: nowrap;
+	}
+	.author-index a:hover {
+		text-decoration-color: currentColor;
+	}
+	.author-letter {
+		margin: 25px 0 7px;
+		font-size: 16px;
+		color: #777;
+	}
 
 	/* Override theme restrictions on search width */
 
@@ -113,60 +195,105 @@ permalink: /author.html
 		min-width: 0 !important;
 	}
 
-/* Next52books · Warm Editorial — visual styles only */
-.author-archive { color: #292724; }
-.author-archive .author-count, .author-archive .author-index .number,
-.author-archive .author-book-date, .author-archive .author-book-category,
-.author-archive .author-book-turkish { color: #77716C; }
-.author-archive .author-book, .author-archive .author-index li { border-bottom-color: #E8E4DF; }
-.author-archive .author-book-title { font-family: "EB Garamond", Georgia, serif; font-size: 18px; font-weight: 600; color: #292724; line-height: 1.35; }
-.author-archive .author-book-turkish { font-family: "EB Garamond", Georgia, serif; font-size: 14px; }
-.author-archive .author-book-date { font-family: "EB Garamond", Georgia, serif; font-size: 12px; }
-.author-archive .author-count, .author-archive .author-category-choice, .author-archive .author-index .number { font-family: "DM Sans", sans-serif; font-size: 12px; }
-.author-archive .author-category-choice { color: #77716C; }
-.author-archive .author-category-choice input { accent-color: #9A8878; }
-.author-archive .author-index a { color: #292724; text-decoration-color: #9A8878; }
-.author-archive .author-index a:hover { color: #9A8878; }
-.author-archive .author-letter { color: #77716C; }
+	/* Next52books · Warm Editorial — visual styles only */
+	.author-archive {
+		color: #292724;
+	}
+	.author-archive .author-count,
+	.author-archive .author-index .number,
+	.author-archive .author-book-date,
+	.author-archive .author-book-category,
+	.author-archive .author-book-turkish {
+		color: #77716c;
+	}
+	.author-archive .author-book,
+	.author-archive .author-index li {
+		border-bottom-color: #e8e4df;
+	}
+	.author-archive .author-book-title {
+		font-family: "EB Garamond", Georgia, serif;
+		font-size: 18px;
+		font-weight: 600;
+		color: #292724;
+		line-height: 1.35;
+	}
+	.author-archive .author-book-turkish {
+		font-family: "EB Garamond", Georgia, serif;
+		font-size: 14px;
+	}
+	.author-archive .author-book-date {
+		font-family: "EB Garamond", Georgia, serif;
+		font-size: 12px;
+	}
+	.author-archive .author-count,
+	.author-archive .author-category-choice,
+	.author-archive .author-index .number {
+		font-family: "DM Sans", sans-serif;
+		font-size: 12px;
+	}
+	.author-archive .author-category-choice {
+		color: #77716c;
+	}
+	.author-archive .author-category-choice input {
+		accent-color: #9a8878;
+	}
+	.author-archive .author-index a {
+		color: #292724;
+		text-decoration-color: #9a8878;
+	}
+	.author-archive .author-index a:hover {
+		color: #9a8878;
+	}
+	.author-archive .author-index .number {
+		font-style: italic;
+	}
+	.author-archive .author-letter {
+		color: #77716c;
+	}
 
-
-/* Shared book-list rhythm: Authors and Categories */
-..author-archive {
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  width: min(480px, calc(100vw - 40px));
-  max-width: none;
-  margin: 0 0 40px;
-  box-sizing: border-box;
-}
-..author-archive ..author-book {
-  padding: 16px 0;
-  border-bottom: 1px solid #E8E4DF;
-}
-..author-archive ..author-book-title {
-  margin: 0 0 5px;
-  line-height: 1.35;
-}
-..author-archive ..author-book-meta {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 12px;
-  margin-top: 5px;
-}
-..author-archive ..author-book-date {
-  flex: 0 0 auto;
-  margin-left: auto;
-  color: #77716C;
-  white-space: nowrap;
-  text-align: right;
-}
-@media (max-width: 430px) {
-  ..author-archive ..author-book-meta { flex-direction: column; align-items: flex-start; gap: 3px; }
-  ..author-archive ..author-book-date { margin-left: 0; text-align: left; }
-}
-
+	/* Shared book-list rhythm: Authors and Categories */
+	.author-archive {
+		position: relative;
+		left: 50%;
+		transform: translateX(-50%);
+		width: min(480px, calc(100vw - 40px));
+		max-width: none;
+		margin: 0 0 40px;
+		box-sizing: border-box;
+	}
+	.author-archive .author-book {
+		padding: 16px 0;
+		border-bottom: 1px solid #e8e4df;
+	}
+	.author-archive .author-book-title {
+		margin: 0 0 5px;
+		line-height: 1.35;
+	}
+	.author-archive .author-book-meta {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 12px;
+		margin-top: 5px;
+	}
+	.author-archive .author-book-date {
+		flex: 0 0 auto;
+		margin-left: auto;
+		color: #77716c;
+		white-space: nowrap;
+		text-align: right;
+	}
+	@media (max-width: 430px) {
+		.author-archive .author-book-meta {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 3px;
+		}
+		.author-archive .author-book-date {
+			margin-left: 0;
+			text-align: left;
+		}
+	}
 </style>
 
 <script>
@@ -182,12 +309,14 @@ permalink: /author.html
 		let authorBooks = []
 		let showCategories = false
 
-		document.querySelectorAll('input[name="authorCategories"]').forEach(function (radio) {
-			radio.addEventListener("change", function () {
-				showCategories = radio.value === "with"
-				renderAuthorBooks(authorBooks)
+		document
+			.querySelectorAll('input[name="authorCategories"]')
+			.forEach(function (radio) {
+				radio.addEventListener("change", function () {
+					showCategories = radio.value === "with"
+					renderAuthorBooks(authorBooks)
+				})
 			})
-		})
 
 		const isIndex = !author || !author.trim()
 		if (isIndex) {
@@ -234,58 +363,63 @@ permalink: /author.html
 
 		function renderAuthorBooks(matches) {
 			booksElement.replaceChildren()
-				const fragment = document.createDocumentFragment()
+			const fragment = document.createDocumentFragment()
 
-				matches.forEach(function (book) {
-					const item = document.createElement("div")
-					item.className = "author-book"
+			matches.forEach(function (book) {
+				const item = document.createElement("div")
+				item.className = "author-book"
 
-					const title = document.createElement("a")
-					title.className = "author-book-title"
-					title.href = book.url
-					title.textContent = book.book || book.title
+				const title = document.createElement("a")
+				title.className = "author-book-title"
+				title.href = book.url
+				title.textContent = book.book || book.title
 
-					item.appendChild(title)
+				item.appendChild(title)
 
-					const meta = document.createElement("div")
-					meta.className = "author-book-meta"
+				const meta = document.createElement("div")
+				meta.className = "author-book-meta"
 
-					if (book.turkish) {
-						const turkish = document.createElement("span")
-						turkish.className = "author-book-turkish"
-						turkish.textContent = book.turkish
-						meta.appendChild(turkish)
+				if (book.turkish) {
+					const turkish = document.createElement("span")
+					turkish.className = "author-book-turkish"
+					turkish.textContent = book.turkish
+					meta.appendChild(turkish)
+				}
+
+				const date = document.createElement("span")
+				date.className = "author-book-date"
+				date.textContent = formatDate(book.date)
+
+				meta.appendChild(date)
+				item.appendChild(meta)
+				if (showCategories) {
+					const category = document.createElement("div")
+					category.className = "author-book-category"
+					const tags = (Array.isArray(book.tag) ? book.tag : [book.tag])
+						.map((t) => String(t || "").trim())
+						.filter(Boolean)
+					if (tags.length) {
+						tags.forEach((tag, i) => {
+							if (i) category.appendChild(document.createTextNode(", "))
+							const link = document.createElement("a")
+							link.href =
+								"{{ '/category.html' | relative_url }}?tag=" +
+								encodeURIComponent(tag)
+							link.textContent = tag
+							category.appendChild(link)
+						})
+						item.appendChild(category)
 					}
+				}
+				fragment.appendChild(item)
+			})
 
-					const date = document.createElement("span")
-					date.className = "author-book-date"
-					date.textContent = formatDate(book.date)
-
-					meta.appendChild(date)
-					item.appendChild(meta)
-					if (showCategories) {
-						const category = document.createElement("div")
-						category.className = "author-book-category"
-						const tags = (Array.isArray(book.tag) ? book.tag : [book.tag])
-							.map(t => String(t || "").trim()).filter(Boolean)
-						if (tags.length) {
-							tags.forEach((tag, i) => {
-								if (i) category.appendChild(document.createTextNode(", "))
-								const link = document.createElement("a")
-								link.href = "{{ '/category.html' | relative_url }}?tag=" + encodeURIComponent(tag)
-								link.textContent = tag
-								category.appendChild(link)
-							})
-							item.appendChild(category)
-						}
-					}
-					fragment.appendChild(item)
-				})
-
-				booksElement.appendChild(fragment)
+			booksElement.appendChild(fragment)
 		}
 
-		fetch("{{ '/search.json' | relative_url }}?v=categories-2", { cache: "no-store" })
+		fetch("{{ '/search.json' | relative_url }}?v=categories-2", {
+			cache: "no-store",
+		})
 			.then(function (response) {
 				if (!response.ok) {
 					throw new Error("Unable to load books")
@@ -296,40 +430,47 @@ permalink: /author.html
 			.then(function (books) {
 				if (isIndex) {
 					const names = new Map()
-					books.forEach(book => {
+					books.forEach((book) => {
 						const seen = new Set()
-						String(book.author || "").split(/\s*,\s*/).forEach(raw => {
-							const n = raw.trim()
-							const key = normalizeText(n)
-							if (!n || seen.has(key)) return
-							seen.add(key)
-							if (!names.has(key)) names.set(key, { name: n, count: 0 })
-							names.get(key).count++
-						})
+						String(book.author || "")
+							.split(/\s*,\s*/)
+							.forEach((raw) => {
+								const n = raw.trim()
+								const key = normalizeText(n)
+								if (!n || seen.has(key)) return
+								seen.add(key)
+								if (!names.has(key)) names.set(key, { name: n, count: 0 })
+								names.get(key).count++
+							})
 					})
-					const sorted = [...names.values()].sort((a,b) => a.name.localeCompare(b.name, 'en', {sensitivity:'base'}))
-					countElement.textContent = sorted.length + (sorted.length === 1 ? ' author' : ' authors')
-					const ul = document.createElement('ul')
-					ul.className = 'author-index'
-					let letter = ''
+					const sorted = [...names.values()].sort((a, b) =>
+						a.name.localeCompare(b.name, "en", { sensitivity: "base" }),
+					)
+					countElement.textContent =
+						sorted.length + (sorted.length === 1 ? " author" : " authors")
+					const ul = document.createElement("ul")
+					ul.className = "author-index"
+					let letter = ""
 					sorted.forEach(({ name: n, count }) => {
-						const first = n.charAt(0).toLocaleUpperCase('en')
+						const first = n.charAt(0).toLocaleUpperCase("en")
 						if (first !== letter) {
 							letter = first
-							const heading = document.createElement('h2')
-							heading.className = 'author-letter'
+							const heading = document.createElement("h2")
+							heading.className = "author-letter"
 							heading.textContent = letter
 							ul.appendChild(heading)
 						}
-						const li = document.createElement('li')
-						const a = document.createElement('a')
-						a.href = "{{ '/author.html' | relative_url }}?name=" + encodeURIComponent(n)
-						 a.textContent = n
+						const li = document.createElement("li")
+						const a = document.createElement("a")
+						a.href =
+							"{{ '/author.html' | relative_url }}?name=" +
+							encodeURIComponent(n)
+						a.textContent = n
 						li.appendChild(a)
 						if (count > 1) {
-							const number = document.createElement('span')
-							number.className = 'number'
-							number.textContent = count + ' books'
+							const number = document.createElement("span")
+							number.className = "number"
+							number.textContent = count + " books"
 							li.appendChild(number)
 						}
 						ul.appendChild(li)
