@@ -126,8 +126,8 @@ ol {
 }
 .cat2 {
 	text-decoration: underline !important;
-	-webkit-text-decoration-color: rgba(255, 255, 102, 0.5) !important;
-	text-decoration-color: rgba(255, 255, 102, 0.5) !important;
+	-webkit-text-decoration-color: rgba(154, 136, 120, 0.65) !important;
+	text-decoration-color: rgba(154, 136, 120, 0.65) !important;
 	text-decoration-thickness: 6px !important;
 }
 .cat2:hover {
@@ -153,7 +153,7 @@ ol {
 }
 *:target {
 	background: #fff3f5;
-} /* legacy color was yellow */
+} 
 
 .w {
 	width: fit-content;
@@ -163,7 +163,7 @@ ol {
 }
 
 .line1 {
-	border-left: 1px solid #ffff66;
+	border-left: 1px solid #e8e4df;
 	text-align: left;
 	font-size: 100%;
 	padding-left: 6%;
@@ -237,7 +237,7 @@ a.footnote:after {
 
 blockquote {
 	font-style: italic;
-	border-left: 2px solid #ffff66;
+	border-left: 2px solid #e8e4df;
 	padding: 1rem;
 
 	p {
@@ -256,7 +256,7 @@ a {
 	text-decoration: none !important;
 }
 /* a:visited {color: #add8e6;text-decoration: none !important;} */
-/* ::selection {color: red; background: yellow;} */
+/* ::selection {color: red; background: #f3f0ec;} */
 ::selection {
 	background: #E8E4DF;
 	color: #292724;
@@ -279,9 +279,9 @@ a:hover {
 	line-height: 0.85;
 	background-image: linear-gradient(
 		0deg,
-		rgba(255, 255, 102, 0.6),
-		rgba(255, 255, 102, 0.6)
-	); /* #ffff66 */
+		rgba(154, 136, 120, 0.45),
+		rgba(154, 136, 120, 0.45)
+	); /* #e8e4df */
 	background-size: 5px 5px;
 	background-repeat: repeat-x;
 	background-position: bottom;
@@ -292,12 +292,12 @@ a:hover {
 	/* -webkit-text-decoration-color: #777; Safari */
 	/* text-decoration-color: #777 !important; */
 	text-decoration: none !important;
-	border-bottom-color: rgba(255, 255, 51, 0.8) !important;
+	border-bottom-color: rgba(243, 240, 236, 1) !important;
 	background-image: linear-gradient(
 		to top,
-		rgba(255, 255, 51, 0.8),
-		rgba(255, 255, 51, 0.8)
-	) !important; /* #ffff33 */
+		rgba(243, 240, 236, 1),
+		rgba(243, 240, 236, 1)
+	) !important; /* warm hover */
 }
 .link22 a {
 	color: black;
@@ -353,19 +353,19 @@ a:hover {
 		0deg,
 		rgba(237, 242, 247, 0.6),
 		rgba(237, 242, 247, 0.6)
-	); /* #ffff66 */
+	); /* #e8e4df */
 	background-size: 5px 5px;
 	background-repeat: repeat-x;
 	background-position: bottom;
 }
 .link4 a:hover {
 	text-decoration: none !important;
-	border-bottom-color: rgba(255, 255, 51, 0.8) !important;
+	border-bottom-color: rgba(243, 240, 236, 1) !important;
 	background-image: linear-gradient(
 		to top,
-		rgba(255, 255, 51, 0.8),
-		rgba(255, 255, 51, 0.8)
-	) !important; /* #ffff33 */
+		rgba(243, 240, 236, 1),
+		rgba(243, 240, 236, 1)
+	) !important; /* warm hover */
 }
 
 .title1 {
@@ -374,16 +374,10 @@ a:hover {
 	cursor: default !important;
 	text-decoration: underline !important;
 	-webkit-text-decoration-color: rgba(
-		255,
-		255,
-		102,
-		0.5
-	); /* #f3cf2e #f3d02e */ /* Safari */ /* #ffff66 */
+		154, 136, 120, 0.65
+	); /* Safari */
 	text-decoration-color: rgba(
-		255,
-		255,
-		102,
-		0.5
+		154, 136, 120, 0.65
 	) !important; /* rgba(205, 248, 232, 0.7) */
 	text-decoration-thickness: 6px !important;
 }
@@ -418,9 +412,9 @@ a:hover {
 	line-height: 0.85;
 	background-image: linear-gradient(
 		0deg,
-		rgba(255, 255, 102, 0.6),
-		rgba(255, 255, 102, 0.6)
-	); /* #ffff66 */
+		rgba(154, 136, 120, 0.45),
+		rgba(154, 136, 120, 0.45)
+	); /* #e8e4df */
 	background-size: 5px 5px;
 	background-repeat: repeat-x;
 	background-position: bottom;
