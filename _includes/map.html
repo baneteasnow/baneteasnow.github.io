@@ -217,6 +217,7 @@
 </nav>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@600&family=EB+Garamond:wght@400&display=swap");
 	.more-directory {
 		width: min(580px, 100%);
 		margin: 0 auto 3rem;
@@ -344,4 +345,34 @@
 			font-size: 1rem;
 		}
 	}
+
+/* Warm Editorial typography — shared by More and Tools. */
+.more-directory {
+  color: #292724;
+}
+.more-directory h2 {
+  font-family: "DM Sans", Arial, sans-serif !important;
+  font-size: 12px;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 0.085em;
+  color: #77716c;
+}
+.more-directory .more-links,
+.more-directory .more-row .more-links {
+  font-family: "EB Garamond", Georgia, serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2;
+  color: #292724;
+}
+.more-directory .more-links a { color: inherit; }
+.more-directory .more-links a:hover,
+.more-directory .more-links a:focus-visible { color: #9a8878; }
+.more-directory .more-dot { color: #9a8878; }
+@media (max-width: 600px) {
+  .more-directory .more-links,
+  .more-directory .more-row .more-links { font-size: 18px; }
+}
 </style>
