@@ -105,6 +105,44 @@ permalink: /category.html
 .category-archive .category-index a { color: #292724; text-decoration-color: #9A8878; }
 .category-archive .category-index a:hover { color: #9A8878; }
 
+
+/* Shared book-list rhythm: Authors and Categories */
+..category-archive {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(480px, calc(100vw - 40px));
+  max-width: none;
+  margin: 0 0 40px;
+  box-sizing: border-box;
+}
+..category-archive ..category-book {
+  padding: 16px 0;
+  border-bottom: 1px solid #E8E4DF;
+}
+..category-archive ..category-book-title {
+  margin: 0 0 5px;
+  line-height: 1.35;
+}
+..category-archive ..category-book-meta {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 5px;
+}
+..category-archive ..category-book-date {
+  flex: 0 0 auto;
+  margin-left: auto;
+  color: #77716C;
+  white-space: nowrap;
+  text-align: right;
+}
+@media (max-width: 430px) {
+  ..category-archive ..category-book-meta { flex-direction: column; align-items: flex-start; gap: 3px; }
+  ..category-archive ..category-book-date { margin-left: 0; text-align: left; }
+}
+
 </style>
 <script>
 	;(function () {
@@ -139,6 +177,8 @@ permalink: /category.html
 				tr.textContent = b.turkish
 				row.appendChild(tr)
 			}
+			const meta = document.createElement("div")
+			meta.className = "category-book-meta"
 			if (b.author) {
 				const author = document.createElement("div")
 				author.className = "category-book-author"
@@ -154,14 +194,15 @@ permalink: /category.html
 						link.textContent = a
 						author.appendChild(link)
 					})
-				row.appendChild(author)
+				meta.appendChild(author)
 			}
 			if (b.date) {
 				const date = document.createElement("div")
 				date.className = "category-book-date"
 				date.textContent = formatDate(b.date)
-				row.appendChild(date)
+				meta.appendChild(date)
 			}
+			if (meta.childNodes.length) row.appendChild(meta)
 			list.appendChild(row)
 		}
 		fetch("{{ '/search.json' | relative_url }}")

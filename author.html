@@ -129,6 +129,44 @@ permalink: /author.html
 .author-archive .author-index a:hover { color: #9A8878; }
 .author-archive .author-letter { color: #77716C; }
 
+
+/* Shared book-list rhythm: Authors and Categories */
+..author-archive {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(480px, calc(100vw - 40px));
+  max-width: none;
+  margin: 0 0 40px;
+  box-sizing: border-box;
+}
+..author-archive ..author-book {
+  padding: 16px 0;
+  border-bottom: 1px solid #E8E4DF;
+}
+..author-archive ..author-book-title {
+  margin: 0 0 5px;
+  line-height: 1.35;
+}
+..author-archive ..author-book-meta {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 5px;
+}
+..author-archive ..author-book-date {
+  flex: 0 0 auto;
+  margin-left: auto;
+  color: #77716C;
+  white-space: nowrap;
+  text-align: right;
+}
+@media (max-width: 430px) {
+  ..author-archive ..author-book-meta { flex-direction: column; align-items: flex-start; gap: 3px; }
+  ..author-archive ..author-book-date { margin-left: 0; text-align: left; }
+}
+
 </style>
 
 <script>
