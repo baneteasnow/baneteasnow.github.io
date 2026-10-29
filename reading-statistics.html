@@ -6,10 +6,9 @@ published: true
 ---
 
 {% assign reading_months = 'Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec' | split: ',' %}
-{% assign reading_data = site.data | sort | reverse %}
+{% comment %}Look up YAML files by their exact _data filename. Avoid sorting site.data (a Liquid Drop).{% endcomment %}
 
-<section class="reading-statistics" aria-labelledby="reading-statistics-title">
-  <h1 id="reading-statistics-title">Reading Statistics</h1>
+<section class="reading-statistics" aria-label="Monthly reading statistics">
   <p class="rs-intro">Books read each month, across the years.</p>
 
   <div class="rs-scroll" role="region" aria-label="Monthly reading statistics" tabindex="0">
@@ -23,23 +22,20 @@ published: true
       </thead>
       <tbody>
         {% assign has_reading_years = false %}
-        {% for entry in reading_data %}
-          {% assign data_key = entry[0] %}
-          {% assign key_prefix = data_key | slice: 0, 8 %}
-          {% if key_prefix == 'reading-' %}
-            {% assign archive = entry[1] %}
-            {% if archive.books %}
-              {% assign has_reading_years = true %}
-              {% assign archive_year = data_key | remove_first: 'reading-' %}
-              <tr>
-                <th scope="row"><a href="{{ '/' | append: archive_year | append: '.html' | relative_url }}">{{ archive_year }}</a></th>
-                {% for month in reading_months %}
-                  {% assign monthly_books = archive.books | where: 'month', month %}
-                  <td>{{ monthly_books.size }}</td>
-                {% endfor %}
-                <td class="rs-total">{{ archive.books.size }}</td>
-              </tr>
-            {% endif %}
+        {% assign years = (2021..2050) | reverse %}
+        {% for archive_year in years %}
+          {% capture data_key %}reading-{{ archive_year }}{% endcapture %}
+          {% assign archive = site.data[data_key] %}
+          {% if archive and archive.books %}
+            {% assign has_reading_years = true %}
+            <tr>
+              <th scope="row"><a href="{{ '/' | append: archive_year | append: '.html' | relative_url }}">{{ archive_year }}</a></th>
+              {% for month in reading_months %}
+                {% assign monthly_books = archive.books | where: 'month', month %}
+                <td>{{ monthly_books.size }}</td>
+              {% endfor %}
+              <td class="rs-total">{{ archive.books.size }}</td>
+            </tr>
           {% endif %}
         {% endfor %}
         {% unless has_reading_years %}
@@ -53,8 +49,7 @@ published: true
 
 <style>
   .reading-statistics { color: #292724; font-family: 'EB Garamond', Georgia, serif; }
-  .reading-statistics h1 { margin: 0 0 10px; font-size: 26px; font-weight: 600; font-style: italic; line-height: 1.25; }
-  .reading-statistics .rs-intro { margin: 0 0 32px; color: #77716c; font-size: 17px; }
+  .reading-statistics .rs-intro { margin: 0 0 24px; color: #77716c; font-size: 17px; }
   .reading-statistics .rs-scroll { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .reading-statistics .rs-table { width: 100%; min-width: 600px; border-collapse: collapse; table-layout: auto; font-family: 'DM Sans', Arial, sans-serif; font-size: 12px; font-variant-numeric: tabular-nums; }
   .reading-statistics .rs-table th, .reading-statistics .rs-table td { border: 0; border-bottom: 1px solid #e8e4df; padding: 12px 8px; text-align: right; color: #292724; white-space: nowrap; }
