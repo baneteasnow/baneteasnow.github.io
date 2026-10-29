@@ -3,31 +3,24 @@ layout: default
 ---
 
 <header>
-	<p
-		class="post-meta"
-		style="font-size: 85% !important"
-	>
-		<i>
-			<a
-				href="#links"
-				style="font-style: normal; color: #777; font-size: 90% !important"
-			>
-				{% assign mes_index = site.posts.first.date | date: "%-m" | minus: 1 %}
-				{% assign mes = site.data.tr.meses[mes_index] %}
-				<time datetime="{{ site.posts.first.date }}"
-					>{{ mes }} {{ site.posts.first.date | date: "%-d, %Y" }}</time
-				></a
-			></i
-		>
-	</p>
-
-	<p
-		class="title2"
-		style="display: none"
-	>
-		{%-include icon1.html-%}{{ site.title }}
-	</p>
+  <p class="post-meta home-post-date">
+    <a href="#links"><time datetime="{{ site.posts.first.date | date: '%Y-%m-%d' }}">{{ site.posts.first.date | date: "%B %-d, %Y" }}</time></a>
+  </p>
 </header>
+<style>
+  .home-post-date {
+    text-align: right;
+    color: #777;
+    font-family: "EB Garamond", Georgia, serif;
+    font-size: 12px !important;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.35;
+    margin-bottom: 24px;
+  }
+  .home-post-date a { color: inherit; font: inherit; text-decoration: none; }
+  .home-post-date a:hover, .home-post-date a:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
+</style>
 
 {%-include home1.html-%} {{ content }}
 
