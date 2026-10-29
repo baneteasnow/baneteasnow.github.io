@@ -1,31 +1,23 @@
-{% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-<div class="n52b-post-archive">
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-  <section class="n52b-archive-year" aria-label="Posts from {{ year.name }}">
-    <h2 class="n52b-archive-year-heading">{{ year.name }}</h2>
-    {% assign postsByMonth = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
-    {% for month in postsByMonth %}
-      <div class="n52b-archive-month">
-        <h3 class="n52b-archive-month-heading">{{ month.name }}</h3>
-        {% for post in month.items %}
-          <div class="archive-row n52b-archive-row">
-            <a href="{{ post.url | relative_url }}" {% if post.url == page.url %}class="active"{% endif %}>{{ post.title | downcase }}</a>
-            <span class="n52b-archive-day">{{ post.date | date: '%-d' }}</span>
-          </div>
-        {% endfor %}
-      </div>
-    {% endfor %}
-  </section>
+<em> <span style="color: #777;">{{ year.name }}</span> </em> 
+  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+
+{% for month in postsByMonth %}
+
+<em><span style="text-align: right; float: right; color: #777;">
+{{ month.name }}
+</span></em><br />
+{% for post in month.items %}
+  <div class="archive-row" style="margin: 1em 0;">
+    <div class="decorated" style="font-size: 85%;"><a href="{{ post.url | relative_url }}" {% if post.url == page.url %} class="active"{% endif %}>{{ post.title | downcase }}</a> &nbsp; <span style="text-align: right; float: right">{{- post.date | date: '%e' -}}</span></div>
+  </div>
 {% endfor %}
-</div>
+{% endfor %}
+<br />
+{% endfor %}
+
 <style>
-.n52b-post-archive { color: #292724; }
-.n52b-archive-year { margin: 0 0 2.2rem; }
-.n52b-archive-year-heading { margin: 0 0 1.2rem; font-family: "DM Sans", sans-serif; font-size: 13px; font-weight: 600; color: #77716C; letter-spacing: .04em; }
-.n52b-archive-month { margin: 0 0 1.6rem; }
-.n52b-archive-month-heading { margin: 0 0 .35rem; text-align: right; font-family: "DM Sans", sans-serif; font-size: 12px; font-weight: 500; color: #77716C; }
-.n52b-post-archive .n52b-archive-row { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin: 0; padding: 11px 0; border-bottom: 1px solid #E8E4DF; }
-.n52b-archive-row a { min-width: 0; font-family: "EB Garamond", Georgia, serif; font-size: 18px; font-weight: 600; line-height: 1.35; color: #292724; text-decoration: none; overflow-wrap: anywhere; }
-.n52b-archive-row a:hover, .n52b-archive-row a:focus-visible { color: #9A8878; text-decoration: underline; text-underline-offset: 2px; }
-.n52b-archive-day { flex: 0 0 auto; font-family: "EB Garamond", Georgia, serif; font-size: 12px; color: #77716C; }
+/* Keep the original understated archive typography. */
+.archive-row .decorated a { font-weight: 400 !important; }
 </style>
