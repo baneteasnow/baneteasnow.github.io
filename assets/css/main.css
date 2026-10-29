@@ -422,8 +422,8 @@ a:hover {
 	line-height: 0.85;
 	background-image: linear-gradient(
 		0deg,
-		rgba(154, 136, 120, 0.45),
-		rgba(154, 136, 120, 0.45)
+		#E8E4DF,
+		#E8E4DF
 	); /* #e8e4df */
 	background-size: 5px 5px;
 	background-repeat: repeat-x;
@@ -438,7 +438,7 @@ a:hover {
 	content: "";
 	position: absolute;
 	top: 90%;
-	border-bottom: 1px dotted #e8e4df;
+	border-bottom: 1px dotted #E8E4DF;
 	width: 100vw;
 	margin: 0 20px;
 }
