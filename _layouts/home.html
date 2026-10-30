@@ -3,27 +3,39 @@ layout: default
 ---
 
 <header>
-  <p class="post-meta home-post-date">
-    <a href="#links"><time datetime="{{ site.posts.first.date | date: '%Y-%m-%d' }}">{{ site.posts.first.date | date: "%B %-d, %Y" }}</time></a>
-  </p>
+	<p class="post-meta home-post-date">
+		<a href="#links"
+			><time datetime="{{ site.posts.first.date | date: '%Y-%m-%d' }}"
+				>{{ site.posts.first.date | date: "%B %-d, %Y" }}</time
+			></a
+		>
+	</p>
 </header>
 <style>
-  .home-post-date {
-    text-align: right;
-    color: #777;
-    font-family: "EB Garamond", Georgia, serif;
-    font-size: 12px !important;
-    font-weight: 400;
-    font-style: normal;
-    line-height: 1.35;
-    margin-bottom: 24px;
-  }
-  .home-post-date a { color: inherit; font: inherit; text-decoration: none; }
-  .home-post-date a:hover, .home-post-date a:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
-  /* Soft underline highlight for the homepage now · more · search links only. */
-  #links.link1 a {
-    background-image: linear-gradient(0deg, #E8E4DF, #E8E4DF);
-  }
+	.home-post-date {
+		text-align: right;
+		color: #777;
+		font-family: "EB Garamond", Georgia, serif;
+		font-size: 12px !important;
+		font-weight: 400;
+		font-style: normal;
+		line-height: 1.35;
+		margin-bottom: 24px;
+	}
+	.home-post-date a {
+		color: inherit;
+		font: inherit;
+		text-decoration: none;
+	}
+	.home-post-date a:hover,
+	.home-post-date a:focus-visible {
+		text-decoration: underline;
+		text-underline-offset: 3px;
+	}
+	/* Soft underline highlight for the homepage now · more · search links only. */
+	#links.link1 a {
+		background-image: linear-gradient(0deg, #e8e4df, #e8e4df);
+	}
 </style>
 
 {%-include home1.html-%} {{ content }}
@@ -41,6 +53,8 @@ layout: default
 			<a href="/map.html">more</a>
 			<span>·</span>
 			<a href="/search.html">search</a>
+			<span>·</span>
+			<a href="{{ '/discover' | relative_url }}">surprise me</a>
 		</div>
 	</center></i
 >
