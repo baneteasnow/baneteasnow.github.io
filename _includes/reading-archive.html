@@ -15,7 +15,16 @@
     <div class="ra-kicker">READING ARCHIVE · {{ include.year }}</div>
     <div class="ra-goal" aria-label="Reading goal: {{ total }} of {{ goal }} books">
       <span class="ra-goal-count"><strong>{{ total }}</strong><span> / {{ goal }} books</span></span>
-      <div class="ra-goal-track" role="progressbar" aria-label="Annual reading goal" aria-valuemin="0" aria-valuemax="{{ goal }}" aria-valuenow="{{ total }}"><span style="width:{{ bar_percentage }}%"></span></div>
+      <div
+        class="ra-goal-track"
+        role="progressbar"
+        aria-label="Annual reading goal"
+        aria-valuemin="0"
+        aria-valuemax="{{ goal }}"
+        aria-valuenow="{{ total }}"
+      >
+        <span data-progress="{{ bar_percentage }}"></span>
+      </div>
       <span class="ra-goal-percent">{{ percentage }}%</span>
     </div>
     <p class="ra-annual-pages">{{ total_pages }} pages read this year</p>
@@ -81,6 +90,12 @@
       {% endif %}
     </nav>
   </section>
+  <script>
+    document.querySelectorAll(".ra-goal-track span[data-progress]").forEach(function (bar) {
+      const percentage = Number(bar.dataset.progress) || 0;
+      bar.style.width = Math.max(0, Math.min(percentage, 100)) + "%";
+    });
+  </script>
 {% else %}
   <p>Reading data for {{ include.year }} has not been added yet.</p>
 {% endif %}
