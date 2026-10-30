@@ -92,11 +92,7 @@
 			>
 				<a
 					href="{{ post.url | relative_url }}"
-					{%
-					if
-					post.url=""
-					="site.posts.first.url"
-					%}
+					{% if post.url == site.posts.first.url %}
 					class="active"
 					{%
 					endif
@@ -163,11 +159,7 @@
 			>
 				<a
 					href="{{ post.url | relative_url }}"
-					{%
-					if
-					post.url=""
-					="site.posts.first.url"
-					%}
+					{% if post.url == site.posts.first.url %}
 					class="active"
 					{%
 					endif
