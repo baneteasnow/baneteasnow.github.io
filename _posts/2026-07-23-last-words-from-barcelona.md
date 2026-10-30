@@ -18,6 +18,7 @@ reread: "no"
 rating: "5"
 num: "599"
 update: "updated"
+updated: "yes"
 image: "/assets/new/last-words-from-barcelona.jpg"
 ---
 

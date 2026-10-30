@@ -15,7 +15,7 @@ published: true
 posted: 2026-10-29
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
+rating: "4"
 num: "615"
 update: "updated"
 updated: "yes"

@@ -17,7 +17,6 @@ reread: "yes"
 rating: "5"
 num: "5"
 eng: "The Fifth Discipline examines the transformative power of systems thinking and outlines five core disciplines that enable organizations to learn, adapt, and thrive in an ever-changing world."
-update: ""
 image: "/assets/old/the-fifth-discipline.jpg"
 ---
 

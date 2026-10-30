@@ -18,6 +18,7 @@ reread: "no"
 rating: "1"
 num: "611"
 update: "updated"
+updated: "yes"
 image: "/assets/new/rich-dad-poor-dad.jpg"
 ---
 

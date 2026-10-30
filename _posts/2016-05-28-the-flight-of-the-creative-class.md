@@ -18,6 +18,7 @@ rating: "5"
 num: "28"
 eng: "The Creative Class Goes Global is a book by Richard Florida that explores how the creative class makes decisions about where to live and work in the context of globalization and the technology revolution. Florida emphasizes the global movement of talent and its impact on economic growth."
 update: "updated"
+updated: "yes"
 image: "/assets/old/the-flight-of-the-creative-class.jpg"
 ---
 

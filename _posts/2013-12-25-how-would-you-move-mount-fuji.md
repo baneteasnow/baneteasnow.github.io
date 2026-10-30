@@ -17,7 +17,7 @@ reread: "no"
 rating: "3"
 num: "3"
 eng: "How Would You Move Mount Fuji? examines the unconventional interview questions designed to test creative thinking and problem-solving skills, offering a unique perspective on hiring practices."
-update: "updated"
+updated: "yes"
 image: "/assets/old/how-would-you-move-mount-fuji.jpg"
 ---
 

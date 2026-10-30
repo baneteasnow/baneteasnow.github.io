@@ -18,6 +18,7 @@ reread: "yes"
 rating: "4"
 num: "464"
 update: "updated"
+updated: "yes"
 image: "/assets/new/i-want-to-die-but-i-want-to-eat-tteokbokki.jpg"
 ---
 

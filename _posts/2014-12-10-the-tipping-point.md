@@ -17,7 +17,6 @@ reread: "yes"
 rating: "5"
 num: "6"
 eng: "The Tipping Point explores how ideas and behaviors spread like epidemics, triggering sudden social changes, and examines the dynamics of social epidemics through three fundamental rules and compelling real-world examples."
-update: ""
 image: "/assets/old/the-tipping-point.jpg"
 ---
 

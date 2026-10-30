@@ -18,6 +18,7 @@ reread: "no"
 rating: "5"
 num: "26"
 update: "updated"
+updated: "yes"
 image: "/assets/old/how-starbucks-saved-my-life.jpg"
 ---
 

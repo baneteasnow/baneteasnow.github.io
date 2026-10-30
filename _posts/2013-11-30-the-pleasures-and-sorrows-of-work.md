@@ -17,7 +17,6 @@ reread: "yes"
 num: "2"
 eng: "Alain de Botton offers insightful observations on the nature of work and people’s diverse attitudes towards it. By following individuals from various professions—such as consulting, painting, fishing, and biscuit manufacturing—he explores why they love or hate their jobs and what aspects they find fulfilling or challenging."
 rating: "5"
-update: ""
 image: "/assets/old/the-pleasures-and-sorrows-of-work.jpg"
 ---
 

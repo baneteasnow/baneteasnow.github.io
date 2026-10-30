@@ -18,6 +18,7 @@ reread: "no"
 rating: "4"
 num: "302"
 update: "updated"
+updated: "yes"
 image: "/assets/new/kitchen-confidential.jpg"
 ---
 

@@ -18,6 +18,7 @@ rating: "4"
 num: "21"
 eng: "Philip Delves Broughton provides a personal account of his two years at Harvard Business School, exploring the MBA curriculum, its impact on students, and its ties to the business world. The book highlights the opportunities of the program while shedding light on challenges like work-life balance and career satisfaction."
 update: "updated"
+updated: "yes"
 image: "/assets/old/what-they-teach-you-at-harvard-business-school.jpg"
 ---
 

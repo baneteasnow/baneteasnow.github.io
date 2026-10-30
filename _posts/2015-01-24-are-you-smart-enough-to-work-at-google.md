@@ -18,6 +18,7 @@ rating: "3"
 num: "7"
 eng: "Are You Smart Enough to Work at Google? explores the innovative interview techniques of tech giants like Google and examines how unconventional questions assess candidates’ creativity and problem-solving skills."
 update: "updated"
+updated: "yes"
 image: "/assets/old/are-you-smart-enough-to-work-at-google.jpg"
 ---
 
