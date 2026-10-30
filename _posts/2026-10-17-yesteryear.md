@@ -18,6 +18,7 @@ reread: "no"
 rating: "5"
 num: "612"
 update: "tobeupdated"
+updated: "yes"
 image: "/assets/new/yesteryear.jpg"
 ---
 
