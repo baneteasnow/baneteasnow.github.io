@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "3"
 num: ""
-update: "tobeupdated"
 image: "/assets/new/the-white-album.jpg"
 ---
 

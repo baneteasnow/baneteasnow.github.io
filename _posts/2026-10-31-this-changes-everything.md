@@ -17,7 +17,6 @@ tag: "EnvironmentSustainableLiving"
 reread: "no"
 rating: "3"
 num: ""
-update: "tobeupdated"
 image: "/assets/new/this-changes-everything.jpg"
 ---
 
