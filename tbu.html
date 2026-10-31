@@ -1,0 +1,58 @@
+---
+layout: page-3
+published: true
+permalink: /tbu.html
+title: "To Be Updated Books"
+---
+
+{% include reading-archive-styles.html %}
+
+<style>
+  .not-updated-archive .ra-book { grid-template-columns: 40px 62px minmax(0, 1fr); }
+  .not-updated-archive .ra-book-main a { color: inherit; text-decoration: none; }
+  .not-updated-archive .ra-book-main a:hover,
+  .not-updated-archive .ra-book-main a:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
+  .not-updated-archive .ra-cover-link { display: block; width: 62px; }
+  @media (max-width: 600px) {
+    .not-updated-archive .ra-book { grid-template-columns: 35px 48px minmax(0, 1fr); gap: 9px; }
+    .not-updated-archive .ra-cover-link { width: 48px; }
+  }
+</style>
+
+{% assign not_updated_posts = site.posts | where_exp: "post", "post.updated != 'yes'" %}
+
+<section class="reading-archive not-updated-archive" aria-label="Not updated books">
+  <div class="ra-list-heading">
+    <span>Books</span><span>{{ not_updated_posts.size }} titles</span>
+  </div>
+  <div class="ra-list" id="not-updated-books-list">
+    {% for post in not_updated_posts %}
+    <article class="ra-book" data-num="{{ post.num | default: 0 | escape }}">
+      <div class="ra-number">№ {{ post.num | default: '—' }}</div>
+      <a class="ra-cover-link" href="{{ post.url | relative_url }}" aria-label="{{ post.kitap | default: post.title | escape }}">
+        {% if post.image and post.image != '' %}
+        <img class="ra-cover" src="{{ post.image | relative_url }}" alt="Cover of {{ post.kitap | default: post.title | escape }}" width="62" height="92" loading="lazy" decoding="async">
+        {% else %}
+        <div class="ra-cover ra-cover-placeholder" aria-hidden="true"><span>{{ post.kitap | default: post.title | escape }}</span></div>
+        {% endif %}
+      </a>
+      <div class="ra-book-main">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.kitap | default: post.title | escape }}</a></h2>
+        <p class="ra-byline">{{ post.yazar | escape }}{% if post.yil %} · {{ post.yil }}{% endif %}</p>
+        {% if post.sayfa %}<p class="ra-detail">{{ post.sayfa }} pages</p>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% if not_updated_posts.size == 0 %}<p>No books awaiting updates.</p>{% endif %}
+</section>
+
+<script>
+  (() => {
+    const list = document.getElementById('not-updated-books-list');
+    if (!list) return;
+    const items = Array.from(list.querySelectorAll('.ra-book'));
+    items.sort((a, b) => Number(b.dataset.num) - Number(a.dataset.num));
+    list.replaceChildren(...items);
+  })();
+</script>
