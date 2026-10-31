@@ -32,6 +32,16 @@ permalink: /category.html
 		padding: 13px 0;
 		border-bottom: 1px solid #e8e8e8;
 	}
+	.category-book.has-cover { display: flex; align-items: flex-start; gap: 16px; }
+	.category-book-content { flex: 1; min-width: 0; }
+	.category-cover-link { display: block; flex: 0 0 68px; }
+	.category-cover { display: block; width: 68px; height: 100px; object-fit: contain; object-position: center top; }
+	@media (max-width: 430px) {
+		.category-book.has-cover { gap: 12px; }
+		.category-cover-link { flex-basis: 54px; }
+		.category-cover { width: 54px; height: 82px; }
+	}
+
 	.category-book-title {
 		display: block;
 		color: #222;
@@ -107,7 +117,7 @@ permalink: /category.html
 
 
 /* Shared book-list rhythm: Authors and Categories */
-..category-archive {
+.category-archive {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
@@ -116,22 +126,22 @@ permalink: /category.html
   margin: 0 0 40px;
   box-sizing: border-box;
 }
-..category-archive ..category-book {
+.category-archive .category-book {
   padding: 16px 0;
   border-bottom: 1px solid #E8E4DF;
 }
-..category-archive ..category-book-title {
+.category-archive .category-book-title {
   margin: 0 0 5px;
   line-height: 1.35;
 }
-..category-archive ..category-book-meta {
+.category-archive .category-book-meta {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 12px;
   margin-top: 5px;
 }
-..category-archive ..category-book-date {
+.category-archive .category-book-date {
   flex: 0 0 auto;
   margin-left: auto;
   color: #77716C;
@@ -139,8 +149,8 @@ permalink: /category.html
   text-align: right;
 }
 @media (max-width: 430px) {
-  ..category-archive ..category-book-meta { flex-direction: column; align-items: flex-start; gap: 3px; }
-  ..category-archive ..category-book-date { margin-left: 0; text-align: left; }
+  .category-archive .category-book-meta { flex-direction: column; align-items: flex-start; gap: 3px; }
+  .category-archive .category-book-date { margin-left: 0; text-align: left; }
 }
 
 </style>
@@ -170,12 +180,14 @@ permalink: /category.html
 			title.className = "category-book-title"
 			title.href = b.url
 			title.textContent = b.book || b.title || ""
-			row.appendChild(title)
+			const content = document.createElement("div")
+			content.className = "category-book-content"
+			content.appendChild(title)
 			if (b.turkish && b.turkish !== "-") {
 				const tr = document.createElement("div")
 				tr.className = "category-book-turkish"
 				tr.textContent = b.turkish
-				row.appendChild(tr)
+				content.appendChild(tr)
 			}
 			const meta = document.createElement("div")
 			meta.className = "category-book-meta"
@@ -202,7 +214,24 @@ permalink: /category.html
 				date.textContent = formatDate(b.date)
 				meta.appendChild(date)
 			}
-			if (meta.childNodes.length) row.appendChild(meta)
+			if (meta.childNodes.length) content.appendChild(meta)
+			if (typeof b.image === "string" && b.image.trim()) {
+				const coverLink = document.createElement("a")
+				coverLink.className = "category-cover-link"
+				coverLink.href = b.url
+				coverLink.setAttribute("aria-label", "View " + (b.book || b.title))
+				const cover = document.createElement("img")
+				cover.className = "category-cover"
+				cover.src = b.image
+				cover.alt = "Cover of " + (b.book || b.title)
+				cover.loading = "lazy"
+				cover.decoding = "async"
+				cover.addEventListener("error", function () { coverLink.remove(); row.classList.remove("has-cover") })
+				coverLink.appendChild(cover)
+				row.appendChild(coverLink)
+				row.classList.add("has-cover")
+			}
+			row.appendChild(content)
 			list.appendChild(row)
 		}
 		fetch("{{ '/search.json' | relative_url }}")

@@ -53,6 +53,16 @@ permalink: /author.html
 		border-bottom: 1px solid #eee;
 	}
 
+	.author-book.has-cover { display: flex; align-items: flex-start; gap: 16px; }
+	.author-book-content { flex: 1; min-width: 0; }
+	.author-cover-link { display: block; flex: 0 0 68px; }
+	.author-cover { display: block; width: 68px; height: 100px; object-fit: contain; object-position: center top; }
+	@media (max-width: 430px) {
+		.author-book.has-cover { gap: 12px; }
+		.author-cover-link { flex-basis: 54px; }
+		.author-cover { width: 54px; height: 82px; }
+	}
+
 	.author-book-title {
 		display: block;
 		color: #222;
@@ -374,7 +384,9 @@ permalink: /author.html
 				title.href = book.url
 				title.textContent = book.book || book.title
 
-				item.appendChild(title)
+				const content = document.createElement("div")
+				content.className = "author-book-content"
+				content.appendChild(title)
 
 				const meta = document.createElement("div")
 				meta.className = "author-book-meta"
@@ -391,7 +403,7 @@ permalink: /author.html
 				date.textContent = formatDate(book.date)
 
 				meta.appendChild(date)
-				item.appendChild(meta)
+				content.appendChild(meta)
 				if (showCategories) {
 					const category = document.createElement("div")
 					category.className = "author-book-category"
@@ -408,9 +420,26 @@ permalink: /author.html
 							link.textContent = tag
 							category.appendChild(link)
 						})
-						item.appendChild(category)
+						content.appendChild(category)
 					}
 				}
+				if (typeof book.image === "string" && book.image.trim()) {
+					const coverLink = document.createElement("a")
+					coverLink.className = "author-cover-link"
+					coverLink.href = book.url
+					coverLink.setAttribute("aria-label", "View " + (book.book || book.title))
+					const cover = document.createElement("img")
+					cover.className = "author-cover"
+					cover.src = book.image
+					cover.alt = "Cover of " + (book.book || book.title)
+					cover.loading = "lazy"
+					cover.decoding = "async"
+					cover.addEventListener("error", function () { coverLink.remove(); item.classList.remove("has-cover") })
+					coverLink.appendChild(cover)
+					item.appendChild(coverLink)
+					item.classList.add("has-cover")
+				}
+				item.appendChild(content)
 				fragment.appendChild(item)
 			})
 

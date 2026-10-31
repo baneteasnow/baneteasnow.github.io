@@ -43,8 +43,8 @@ permalink: /search.html
 	</fieldset>
 
 	<fieldset class="cover-choice" aria-label="Book cover display">
-		<label><input type="radio" name="searchCovers" value="without" checked /> Without covers</label>
-		<label><input type="radio" name="searchCovers" value="with" /> With covers</label>
+		<label><input type="radio" name="searchCovers" value="without" /> Without covers</label>
+		<label><input type="radio" name="searchCovers" value="with" checked /> With covers</label>
 	</fieldset>
 
 	<p
@@ -438,7 +438,7 @@ permalink: /search.html
 		let isLoaded = false
 		let showAll = false
 		let showCategories = false
-		let showCovers = false
+		let showCovers = true
 
 		/*
 		 * Normalize Turkish characters and accents.
