@@ -15,7 +15,6 @@ published: false
 posted: 2026-10-31
 tag: "PsychologyMentalLife"
 reread: "no"
-rating: "3"
 num: ""
 image: "/assets/new/the-myth-of-normal.jpg"
 ---

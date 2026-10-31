@@ -15,7 +15,6 @@ published: false
 posted: 2026-10-31
 tag: "EnvironmentSustainableLiving"
 reread: "no"
-rating: "3"
 num: ""
 image: "/assets/new/this-changes-everything.jpg"
 ---
