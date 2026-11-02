@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "478"
-update: "done"
+ 
 image: "/assets/new/the-naked-lady-who-stood-on-her-head.jpg"
 ---
 

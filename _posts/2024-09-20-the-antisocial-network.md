@@ -17,6 +17,6 @@ tag: ""
 reread: "no"
 rating: "4"
 num: "436"
-update: "done"
+ 
 image: "/assets/new/the-antisocial-network.jpg"
 ---

@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "4"
 num: "323"
-update: "done"
+ 
 image: "/assets/new/talk-like-ted.jpg"
 ---
 

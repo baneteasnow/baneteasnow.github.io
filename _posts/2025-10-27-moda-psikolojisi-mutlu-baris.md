@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: "545"
-update: "done"
+ 
 image: "/assets/new/moda-psikolojisi-mutlu-baris.jpg"
 ---
 

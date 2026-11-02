@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "603"
-update: "tobeupdated"
 image: "/assets/new/stolen-focus.jpg"
 ---
 

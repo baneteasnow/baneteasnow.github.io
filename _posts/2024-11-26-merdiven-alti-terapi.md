@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "2"
 num: "451"
-update: "done"
+ 
 image: "/assets/new/merdiven-alti-terapi.jpg"
 ---
 

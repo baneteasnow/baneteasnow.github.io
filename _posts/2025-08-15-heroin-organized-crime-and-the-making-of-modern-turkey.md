@@ -17,7 +17,7 @@ tag: "HistoryPoliticalThought"
 reread: "no"
 rating: "1"
 num: "525"
-update: "done"
+ 
 image: "/assets/new/heroin-organized-crime-and-the-making-of-modern-turkey.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "3"
 num: "570"
-update: "tobeupdated"
 image: "/assets/new/abolish-the-family.jpg"
 ---
 

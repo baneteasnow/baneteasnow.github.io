@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "4"
 num: "587"
-update: "tobeupdated"
 image: "/assets/new/the-feminist-killjoy-handbook.jpg"
 ---
 

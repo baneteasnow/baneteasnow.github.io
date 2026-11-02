@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "5"
 num: "437"
-update: "done"
+ 
 image: "/assets/new/the-big-short.jpg"
 ---
 

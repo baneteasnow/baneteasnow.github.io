@@ -17,7 +17,7 @@ tag: "ScienceDiscovery"
 reread: "no"
 rating: "4"
 num: "514"
-update: "done"
+ 
 image: "/assets/new/the-premonition.jpg"
 ---
 

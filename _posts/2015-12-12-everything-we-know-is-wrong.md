@@ -17,7 +17,6 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "19"
-update: "updated"
 updated: "yes"
 image: "/assets/old/everything-we-know-is-wrong.jpg"
 ---

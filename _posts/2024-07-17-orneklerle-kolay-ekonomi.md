@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "424"
-update: "done"
+ 
 image: "/assets/new/orneklerle-kolay-ekonomi.jpg"
 ---
 

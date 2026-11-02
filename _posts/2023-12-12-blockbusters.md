@@ -18,7 +18,7 @@ rating: "1"
 eng: "Blockbusters is a business and media strategy book that analyzes how major hits are created in the entertainment industry and why large investments tend to be more profitable in the long run."
 num: "395"
 image: "/assets/new/blockbusters.jpg"
-update: "done"
+ 
 ---
 
 to be updated

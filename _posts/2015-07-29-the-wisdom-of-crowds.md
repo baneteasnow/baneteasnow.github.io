@@ -17,7 +17,6 @@ reread: "yes"
 rating: "4"
 num: "12"
 eng: "The Wisdom of Crowds explores the dynamics of collective intelligence, demonstrating how groups can make better decisions than individuals across various domains, from business to society."
-update: ""
 image: "/assets/old/the-wisdom-of-crowds.jpg"
 ---
 

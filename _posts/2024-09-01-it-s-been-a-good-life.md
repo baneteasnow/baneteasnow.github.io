@@ -18,7 +18,7 @@ reread: "no"
 rating: "4"
 num: "431"
 image: "/assets/new/it-s-been-a-good-life.jpg"
-update: "done"
+ 
 ---
 
 to be updated

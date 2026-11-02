@@ -17,7 +17,6 @@ tag: "TechnologyTheDigitalWorld"
 reread: "yes"
 rating: "5"
 num: "97"
-update: ""
 image: "/assets/old/the-daily-you.jpg"
 ---
 

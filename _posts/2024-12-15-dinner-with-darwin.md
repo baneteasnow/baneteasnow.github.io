@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "2"
 num: "455"
-update: "done"
+ 
 image: "/assets/new/dinner-with-darwin.jpg"
 ---
 

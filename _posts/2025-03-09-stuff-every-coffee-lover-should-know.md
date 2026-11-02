@@ -17,7 +17,7 @@ tag: "SimpleLivingEverydayComforts"
 reread: "no"
 rating: "4"
 num: "483"
-update: "done"
+ 
 image: "/assets/new/stuff-every-coffee-lover-should-know.jpg"
 ---
 

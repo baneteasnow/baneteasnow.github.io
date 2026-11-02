@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "2"
 num: "470"
-update: "done"
+ 
 image: "/assets/new/buyrun-ziyafete.jpg"
 ---
 

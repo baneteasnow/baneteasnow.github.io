@@ -17,7 +17,7 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "503"
-update: "done"
+ 
 image: "/assets/new/a-room-with-a-darker-view.jpg"
 ---
 

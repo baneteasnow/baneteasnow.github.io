@@ -17,7 +17,6 @@ tag: "ScienceDiscovery"
 reread: "no"
 rating: "3"
 num: "596"
-update: "tobeupdated"
 image: "/assets/new/the-signal-and-the-noise.jpg"
 ---
 

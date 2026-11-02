@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "429"
-update: "done"
+ 
 image: "/assets/new/catalin-neden-tadi-yoktur.jpg"
 ---
 

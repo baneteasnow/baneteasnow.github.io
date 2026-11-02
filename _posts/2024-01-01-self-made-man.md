@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "398"
-update: "done"
+ 
 image: "/assets/new/self-made-man.jpg"
 ---
 

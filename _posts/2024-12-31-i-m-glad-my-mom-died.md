@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "5"
 num: "460"
-update: "done"
+ 
 image: "/assets/new/i-m-glad-my-mom-died.jpg"
 ---
 

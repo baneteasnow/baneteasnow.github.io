@@ -17,7 +17,6 @@ posted: 2025-02-02
 reread: "no"
 rating: "5"
 num: "471"
-update: "tobeupdated"
 image: "/assets/new/salt-sugar-fat.jpg"
 ---
 

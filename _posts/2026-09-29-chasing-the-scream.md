@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: "608"
-update: "tobeupdated"
 image: "/assets/new/chasing-the-scream.jpg"
 ---
 

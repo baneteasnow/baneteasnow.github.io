@@ -17,7 +17,7 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "493"
-update: "done"
+ 
 image: "/assets/new/an-unquiet-mind.jpg"
 ---
 

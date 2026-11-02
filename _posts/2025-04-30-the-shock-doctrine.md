@@ -18,7 +18,7 @@ reread: "no"
 rating: "5"
 num: "490"
 image: "/assets/new/the-shock-doctrine.jpg"
-update: "done"
+ 
 ---
 
 to be updated

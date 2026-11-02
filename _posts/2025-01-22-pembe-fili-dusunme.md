@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "4"
 num: "469"
-update: "done"
+ 
 image: "/assets/new/pembe-fili-dusunme.jpg"
 ---
 

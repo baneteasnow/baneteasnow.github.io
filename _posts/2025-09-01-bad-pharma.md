@@ -17,7 +17,7 @@ tag: "HealthNutrition"
 reread: "no"
 rating: "3"
 num: "536"
-update: "done"
+ 
 image: "/assets/new/bad-pharma.jpg"
 ---
 

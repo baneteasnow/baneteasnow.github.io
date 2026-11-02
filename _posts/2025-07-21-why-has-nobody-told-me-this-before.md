@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "2"
 num: "516"
-update: "done"
 image: "/assets/new/why-has-nobody-told-me-this-before.jpg"
 ---
 

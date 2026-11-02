@@ -17,7 +17,7 @@ tag: "PersonalGrowthProductivity"
 reread: "no"
 rating: "3"
 num: "484"
-update: "done"
+ 
 image: "/assets/new/21-days-to-unlock-the-power-of-affirmations.jpg"
 ---
 

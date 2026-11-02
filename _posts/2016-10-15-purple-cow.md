@@ -16,7 +16,6 @@ tag: ""
 reread: "yes"
 rating: "5"
 num: "35"
-update: ""
 eng: "Purple Cow by Seth Godin emphasizes the importance of being remarkable and standing out in marketing. Through the concept of “Purple Cow,” Godin explains how innovative and sustainable ideas can lead to success with real-world examples."
 image: "/assets/old/purple-cow.jpg"
 ---

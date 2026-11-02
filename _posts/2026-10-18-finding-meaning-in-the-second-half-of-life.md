@@ -17,7 +17,6 @@ tag: "PhilosophyMeaning"
 reread: "no"
 rating: "4"
 num: "613"
-update: "tobeupdated"
 image: "/assets/new/finding-meaning-in-the-second-half-of-life.jpg"
 ---
 

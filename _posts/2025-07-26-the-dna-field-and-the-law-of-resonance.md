@@ -17,7 +17,7 @@ tag: "PhilosophyMeaning"
 reread: "no"
 rating: "4"
 num: "519"
-update: "done"
+ 
 image: "/assets/new/the-dna-field-and-the-law-of-resonance.jpg"
 ---
 

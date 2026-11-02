@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
 num: "615"
-update: "updated"
 updated: "yes"
 image: "/assets/new/will-i-ever-be-good-enough.jpg"
 ---

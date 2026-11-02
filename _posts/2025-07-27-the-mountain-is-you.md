@@ -17,7 +17,7 @@ tag: "PersonalGrowthProductivity"
 reread: "no"
 rating: "1"
 num: "520"
-update: "done"
+ 
 image: "/assets/new/the-mountain-is-you.jpg"
 ---
 

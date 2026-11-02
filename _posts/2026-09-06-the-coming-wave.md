@@ -17,7 +17,6 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: "604"
-update: "tobeupdated"
 image: "/assets/new/the-coming-wave.jpg"
 ---
 

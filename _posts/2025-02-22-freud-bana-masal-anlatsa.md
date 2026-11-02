@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "476"
-update: "done"
+ 
 image: "/assets/new/freud-bana-masal-anlatsa.jpg"
 ---
 

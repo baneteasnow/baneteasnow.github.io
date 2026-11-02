@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "4"
 num: "588"
-update: "tobeupdated"
 image: "/assets/new/carl-jung-wounded-healer-of-the-soul.jpg"
 ---
 

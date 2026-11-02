@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "496"
-update: "done"
 image: "/assets/new/manic-a-memoir.jpg"
 ---
 

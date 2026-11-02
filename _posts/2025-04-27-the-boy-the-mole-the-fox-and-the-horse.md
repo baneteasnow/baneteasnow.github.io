@@ -18,7 +18,7 @@ reread: "yes"
 rating: "5"
 num: "488"
 image: "/assets/new/the-boy-the-mole-the-fox-and-the-horse.jpg"
-update: "done"
+ 
 ---
 
 to be updated

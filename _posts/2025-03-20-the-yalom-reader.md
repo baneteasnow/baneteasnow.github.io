@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "485"
-update: "done"
+ 
 image: "/assets/new/the-yalom-reader.jpg"
 ---
 

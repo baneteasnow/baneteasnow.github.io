@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "593"
-update: "tobeupdated"
 image: "/assets/new/emotional-inheritance.jpg"
 ---
 

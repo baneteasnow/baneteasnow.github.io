@@ -17,7 +17,6 @@ tag: ""
 reread: "yes"
 rating: "4"
 num: "44"
-update: ""
 image: "/assets/old/the-attention-economy.jpg"
 ---
 

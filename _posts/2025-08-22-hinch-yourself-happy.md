@@ -17,7 +17,7 @@ tag: "SimpleLivingEverydayComforts"
 reread: "no"
 rating: "2"
 num: "529"
-update: "done"
+ 
 image: "/assets/new/hinch-yourself-happy.jpg"
 ---
 

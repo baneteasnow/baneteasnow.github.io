@@ -18,7 +18,7 @@ reread: "no"
 rating: "4"
 num: "489"
 image: "/assets/new/the-little-book-of-fika.jpg"
-update: "done"
+ 
 ---
 
 to be updated

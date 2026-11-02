@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "575"
-update: "tobeupdated"
 image: "/assets/new/on-our-best-behavior.jpg"
 ---
 

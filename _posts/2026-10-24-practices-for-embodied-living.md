@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: "614"
-update: "tobeupdated"
 image: "/assets/new/practices-for-embodied-living.jpg"
 ---
 

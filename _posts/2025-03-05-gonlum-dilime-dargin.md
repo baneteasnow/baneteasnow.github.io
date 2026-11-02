@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "480"
-update: "done"
+ 
 image: "/assets/new/gonlum-dilime-dargin.jpg"
 ---
 

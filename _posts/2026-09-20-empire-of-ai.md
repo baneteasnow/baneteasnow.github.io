@@ -17,7 +17,6 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "5"
 num: "606"
-update: "tobeupdated"
 image: "/assets/new/empire-of-ai.jpg"
 ---
 

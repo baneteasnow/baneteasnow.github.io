@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "475"
-update: "done"
+ 
 image: "/assets/new/every-day-gets-a-little-closer.jpg"
 ---
 
