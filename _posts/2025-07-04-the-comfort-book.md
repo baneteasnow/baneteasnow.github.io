@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: "512"
- 
 image: "/assets/new/the-comfort-book.jpg"
 ---
 

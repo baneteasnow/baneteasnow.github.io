@@ -17,7 +17,6 @@ tag: "ConsumerMarketing"
 reread: "no"
 rating: "3"
 num: "535"
- 
 image: "/assets/new/modanin-iktidari.jpg"
 ---
 

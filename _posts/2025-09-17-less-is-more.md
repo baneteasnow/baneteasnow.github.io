@@ -17,7 +17,6 @@ tag: "EnvironmentSustainableLiving"
 reread: "no"
 rating: "4"
 num: "539"
- 
 image: "/assets/new/less-is-more.jpg"
 ---
 

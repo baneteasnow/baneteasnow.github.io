@@ -17,7 +17,6 @@ tag: "ConsumerMarketing"
 reread: "no"
 rating: "1"
 num: "532"
- 
 image: "/assets/new/moda-moda-dedikleri.jpg"
 ---
 

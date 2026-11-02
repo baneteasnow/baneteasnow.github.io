@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "2"
 num: "533"
- 
 image: "/assets/new/yalniz-yasama-egzersizleri.jpg"
 ---
 

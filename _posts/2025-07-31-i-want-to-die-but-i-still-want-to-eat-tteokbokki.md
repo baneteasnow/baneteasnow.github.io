@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "4"
 num: "523"
-update: "updated"
 updated: "yes"
 image: "/assets/new/i-want-to-die-but-i-still-want-to-eat-tteokbokki.jpg"
 ---

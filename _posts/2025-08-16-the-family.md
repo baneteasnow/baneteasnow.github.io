@@ -17,7 +17,6 @@ tag: "HistoryPoliticalThought"
 reread: "no"
 rating: "1"
 num: "526"
- 
 image: "/assets/new/the-family.jpg"
 ---
 

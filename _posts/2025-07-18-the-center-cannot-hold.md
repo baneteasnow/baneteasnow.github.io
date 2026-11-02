@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "515"
- 
 image: "/assets/new/the-center-cannot-hold.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
 num: "521"
- 
 image: "/assets/new/running-on-empty.jpg"
 ---
 

@@ -14,7 +14,6 @@ last_modified_at: 2026-10-11
 posted: 2013-12-25
 tag: "WorkCareer"
 reread: "no"
-rating: "3"
 num: "3"
 eng: "How Would You Move Mount Fuji? examines the unconventional interview questions designed to test creative thinking and problem-solving skills, offering a unique perspective on hiring practices."
 updated: "yes"

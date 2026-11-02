@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
 num: "509"
- 
 image: "/assets/new/reasons-to-stay-alive.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "4"
 num: "517"
- 
 image: "/assets/new/what-my-bones-know.jpg"
 ---
 

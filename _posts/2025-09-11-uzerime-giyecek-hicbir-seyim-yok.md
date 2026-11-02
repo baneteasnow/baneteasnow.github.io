@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "yes"
 rating: "5"
 num: "538"
- 
 image: "/assets/new/uzerime-giyecek-hicbir-seyim-yok.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "498"
- 
 image: "/assets/new/sociopath-a-memoir.jpg"
 ---
 

@@ -14,7 +14,6 @@ last_modified_at: 2026-10-11
 posted: 2015-01-24
 tag: "WorkCareer"
 reread: "no"
-rating: "3"
 num: "7"
 eng: "Are You Smart Enough to Work at Google? explores the innovative interview techniques of tech giants like Google and examines how unconventional questions assess candidates’ creativity and problem-solving skills."
 updated: "yes"

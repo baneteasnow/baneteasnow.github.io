@@ -14,7 +14,6 @@ published: true
 posted: 2015-05-02
 tag: ""
 reread: "yes"
-rating: "4"
 num: "8"
 eng: "Jeff Howe introduced the term ‘crowdsourcing’ in a 2006 Wired article, describing how the internet enables individuals to collectively tackle challenges through voluntary efforts. Crowdsourcing illustrates this concept with compelling examples, showcasing the transformative power of collective intelligence despite its slightly dated perspective."
 image: "/assets/old/crowdsourcing.jpg"

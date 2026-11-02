@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "1"
 num: "524"
-update: "tobeupdated"
 image: "/assets/new/the-man-who-couldnt-stop.jpg"
 ---
 

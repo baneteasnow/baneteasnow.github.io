@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "508"
- 
 image: "/assets/new/notes-on-a-nervous-planet.jpg"
 ---
 

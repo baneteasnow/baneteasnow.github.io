@@ -14,7 +14,6 @@ last_modified_at: 2024-12-06
 posted: 2014-09-06
 tag: ""
 reread: "yes"
-rating: "4"
 num: "4"
 eng: "The Invisible Gorilla explores the things we think we would notice but often miss, using social experiments to reveal how our attention and perceptions can deceive us."
 image: "/assets/old/the-invisible-gorilla.jpg"

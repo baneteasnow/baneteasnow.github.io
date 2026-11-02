@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "1"
 num: "506"
- 
 image: "/assets/new/inside-the-criminal-mind.jpg"
 ---
 
