@@ -13,12 +13,13 @@
       <a href="{{ '/' | relative_url }}">Home</a>
       <a href="{{ '/posts.html' | relative_url }}">All Posts</a>
       <a href="{{ '/search.html' | relative_url }}">Search</a>
-      <a href="{{ '/list' | relative_url }}">Tools</a>
+      <a href="{{ '/list' | relative_url }}" class="desktop-tools">Tools</a>
       <a href="{{ '/map' | relative_url }}">More</a>
       <a href="https://homelibrary.next52books.com/browse/">homelibrary</a>
       {% unless page.url == "/" %}
       <a href="{{ '/discover' | relative_url }}" class="desktop-discover">Discover</a>
       {% endunless %}
+      <a href="{{ '/ideas/' | relative_url }}">Ideas</a>
       <a href="#" class="back-to-top-link" aria-label="Back to top"><span class="desktop-top-label">Back to top ↑</span><span class="mobile-top-label">↑ Top</span></a>
     </nav>
 
@@ -42,7 +43,7 @@
       .side-links a:hover, .side-links a:focus-visible { color: #555; text-decoration: underline; text-underline-offset: 3px; }
       /* On narrow screens, keep navigation visible without covering the reading column. */
       @media (max-width: 900px) {
-        .side-links .desktop-discover { display: none; }
+        .side-links .desktop-discover, .side-links .desktop-tools { display: none; }
         .side-links .desktop-top-label { display: none; }
         .side-links .mobile-top-label { display: inline; }
         .side-links {
