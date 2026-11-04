@@ -36,4 +36,4 @@ Taking pictures, sharing our experiences, or getting inspiration from others’ 
 
 ## Related
 
-- [Yesteryear | Caro Claire Burke (Kitap)](https://www.next52books.com/yesteryear.html)
+- [Yesteryear - Caro Claire Burke (Kitap)](https://www.next52books.com/yesteryear.html)

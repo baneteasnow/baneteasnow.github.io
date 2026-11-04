@@ -34,6 +34,6 @@ After reading both books, I felt that understanding yourself better doesn’t ne
 
 ## Related
 
-- [I Want to Die But I Want to Eat Tteokbokki | Baek Sehee (Kitap)](https://www.next52books.com/i-want-to-die-but-i-want-to-eat-tteokbokki.html)
-- [I Want to Die but I Still Want to Eat Tteokbokki | Baek Sehee (Kitap)](https://www.next52books.com/i-want-to-die-but-i-still-want-to-eat-tteokbokki.html)
-- [Last Words From Barcelona | Baek Sehee (Kitap)](https://www.next52books.com/last-words-from-barcelona.html)
+- [I Want to Die But I Want to Eat Tteokbokki - Baek Sehee (Kitap)](https://www.next52books.com/i-want-to-die-but-i-want-to-eat-tteokbokki.html)
+- [I Want to Die but I Still Want to Eat Tteokbokki - Baek Sehee (Kitap)](https://www.next52books.com/i-want-to-die-but-i-still-want-to-eat-tteokbokki.html)
+- [Last Words From Barcelona - Baek Sehee (Kitap)](https://www.next52books.com/last-words-from-barcelona.html)
