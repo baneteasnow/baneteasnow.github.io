@@ -11,10 +11,23 @@ lang: en
   {% assign ideas = site.ideas | where_exp: "idea", "idea.published != false" | sort: 'date' | reverse %}
   <ul class="n52-ideas-list">
     {% for idea in ideas %}
-    <li class="n52-ideas-entry">
+    {% assign archive_image = idea.thumbnail %}
+    {% assign archive_alt = idea.thumbnail_alt | default: '' %}
+    {% if archive_image == nil or archive_image == "" %}
+      {% assign archive_image = idea.image %}
+      {% assign archive_alt = idea.image_alt | default: '' %}
+    {% endif %}
+    <li class="n52-ideas-entry{% if archive_image and archive_image != "" %} n52-ideas-entry-with-image{% endif %}">
+      <div class="n52-ideas-entry-text">
       <h2><a href="{{ idea.url | relative_url }}">{{ idea.title | escape }}</a></h2>
       {% if idea.subtitle and idea.subtitle != "" %}<p class="n52-idea-subtitle">{{ idea.subtitle | escape }}</p>{% endif %}
       {% if idea.date %}<p class="n52-idea-date"><time datetime="{{ idea.date | date: '%Y-%m-%d' }}">{{ idea.date | date: '%B %-d, %Y' }}</time></p>{% endif %}
+      </div>
+      {% if archive_image and archive_image != "" %}
+      <a class="n52-ideas-thumbnail" href="{{ idea.url | relative_url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ archive_image | relative_url | escape }}" alt="{{ archive_alt | escape }}" loading="lazy" decoding="async" />
+      </a>
+      {% endif %}
     </li>
     {% else %}
     <li>No ideas published yet.</li>

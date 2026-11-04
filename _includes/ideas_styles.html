@@ -79,4 +79,40 @@
 .n52-ideas-list { list-style: none; margin: 1.8rem 0 0; padding: 0; }
 .n52-ideas-entry { margin: 0; padding: 1.3rem 0; border-top: 1px solid var(--n52-border, #e8e4df); }
 .n52-ideas-entry h2 { font-family: inherit; font-size: 21px; font-weight: 400; line-height: 1.3; margin: 0 0 0.45em; }
+/* Archive thumbnails: optional, selected in each idea's front matter. */
+.n52-ideas .n52-ideas-entry-with-image {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 90px;
+  align-items: start;
+  gap: 20px;
+}
+.n52-ideas-entry-text { min-width: 0; }
+.n52-ideas .n52-ideas-thumbnail {
+  display: block;
+  width: 90px;
+  justify-self: end;
+  text-decoration: none !important;
+  border: 0;
+  background: none;
+}
+.n52-ideas .n52-ideas-thumbnail img {
+  display: block !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: 100% !important;
+  max-height: 140px !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  aspect-ratio: auto !important;
+  object-fit: contain !important;
+  float: none !important;
+  margin: 0 0 0 auto !important;
+}
+@media (max-width: 480px) {
+  .n52-ideas .n52-ideas-entry-with-image {
+    grid-template-columns: minmax(0, 1fr) 70px;
+    gap: 12px;
+  }
+  .n52-ideas .n52-ideas-thumbnail { width: 70px; }
+}
 </style>

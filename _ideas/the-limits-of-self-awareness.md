@@ -7,6 +7,8 @@ published: true
 image: /assets/ideas/want-to-eat-tteokbokki.png
 # image_alt: "Describe your photograph"
 image_caption: "My copies of Baek Sehee’s two books"
+thumbnail: /assets/ideas/want-to-eat-tteokbokki.png
+thumbnail_alt: "Görselin kısa açıklaması"
 ---
 
 One of the things that stayed with me while reading Baek Sehee’s “I Want to Die but I Want to Eat Tteokbokki” was how she kept questioning her own behavior, yet continued to struggle with the same problems. She was able to trace the origins of some of her behaviors to her childhood or earlier experiences. In addition, she managed to see how hard she was criticizing herself. But this level of awareness was not always enough to change her behavior.
