@@ -31,5 +31,5 @@ Taking pictures, sharing our experiences, or getting inspiration from others’ 
 
 ## Reference
 
-- Zajonc, R. B. (1968). Attitudinal effects of mere exposure. _Journal of Personality and Social Psychology, 9_(2, Pt. 2), 1–27. 
+- Zajonc, R. B. (1968). Attitudinal effects of mere exposure. _Journal of Personality and Social Psychology, 9_ (2, Pt. 2), 1–27. 
 - Burke, C. C. (2026). _Yesteryear_. Knopf.
