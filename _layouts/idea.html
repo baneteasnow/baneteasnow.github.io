@@ -10,6 +10,7 @@ layout: default
     {% endif %}
     {% if page.date %}
     <p class="n52-idea-date"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %-d, %Y' }}</time></p>
+    <p class="n52-idea-author"><a href="{{ '/' | relative_url }}">n52b</a></p>
     {% endif %}
   </header>
   {% if page.image and page.image != "" %}
