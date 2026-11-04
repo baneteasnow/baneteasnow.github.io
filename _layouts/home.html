@@ -4,7 +4,7 @@ layout: default
 
 <header>
 	<p class="post-meta home-post-date">
-		<a href="{{ '/ideas/' | relative_url }}">ideas</a>
+		<a class="home-ideas-link" href="{{ '/ideas/' | relative_url }}">ideas</a>
 		<a href="#links"
 			><time datetime="{{ site.posts.first.date | date: '%Y-%m-%d' }}"
 				>{{ site.posts.first.date | date: "%B %-d, %Y" }}</time
@@ -45,6 +45,9 @@ layout: default
 	#links.link1 a {
 		background-image: linear-gradient(0deg, #e8e4df, #e8e4df);
 	}
+	.home-post-date a.home-ideas-link {
+  font-size: 14px !important;
+}
 </style>
 
 {%-include home1.html-%} {{ content }}
