@@ -1,12 +1,12 @@
 ---
-title: "Prisoners of Our Choices"
-subtitle: "On habits, freedom, and changing direction"
-date: 2026-11-02 12:00:00 +1100
+title: "Life Through the Lens"
+subtitle: "Are we living our lives, or creating lives to be seen?"
+date: 2026-11-04 12:00:00 +1100
 published: true
 # Remove the leading # to add your own image already uploaded to the site.
-# image: /assets/ideas/your-photo.jpg
+image: /assets/ideas/yesteryear-book cover.png
 # image_alt: "Describe your photograph"
-# image_caption: "Optional caption"
+image_caption: "Yesteryear by "
 ---
 
 This is a sample entry. Replace this paragraph with your own essay before setting `published: true`.
