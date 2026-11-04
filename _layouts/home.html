@@ -4,6 +4,7 @@ layout: default
 
 <header>
 	<p class="post-meta home-post-date">
+		<a href="{{ '/ideas/' | relative_url }}">ideas</a>
 		<a href="#links"
 			><time datetime="{{ site.posts.first.date | date: '%Y-%m-%d' }}"
 				>{{ site.posts.first.date | date: "%B %-d, %Y" }}</time
@@ -13,6 +14,10 @@ layout: default
 </header>
 <style>
 	.home-post-date {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 1em;
 		text-align: right;
 		color: #777;
 		font-family: "EB Garamond", Georgia, serif;

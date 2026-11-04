@@ -7,7 +7,7 @@ lang: en
 ---
 {% include ideas_styles.html %}
 <section class="n52-ideas" aria-labelledby="ideas-title">
-  <h1 id="ideas-title" class="n52-idea-title">{{ page.title | escape }}</h1>
+  <h1 id="ideas-title" class="n52-idea-title"><a href="{{ '/' | relative_url }}" style="color: inherit; font: inherit; text-decoration: none !important; background: none; border: 0;">{{ page.title | escape }}</a></h1>
   {% assign ideas = site.ideas | where_exp: "idea", "idea.published != false" | sort: 'date' | reverse %}
   <ul class="n52-ideas-list">
     {% for idea in ideas %}
