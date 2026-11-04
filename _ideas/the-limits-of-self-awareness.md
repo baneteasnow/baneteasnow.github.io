@@ -27,5 +27,5 @@ After reading both books, I felt that understanding yourself better doesn’t ne
 
 ## References
 
-Baek, S. (2024). Ölmek istiyorum ama tteokbokki de yemek istiyorum (S. Akaydın, Trans.). Nova Kitap. (Original work published 2018)
-Baek, S. (2025). Ölmek istiyorum ama hala tteokbokki yemek istiyorum (B. Uyar, Trans.). Nova Kitap. (Original work published 2019)
+- Baek, S. (2024). _Ölmek istiyorum ama tteokbokki de yemek istiyorum_ (S. Akaydın, Trans.). Nova Kitap. (Original work published 2018)
+- Baek, S. (2025). _Ölmek istiyorum ama hala tteokbokki yemek istiyorum_ (B. Uyar, Trans.). Nova Kitap. (Original work published 2019)
