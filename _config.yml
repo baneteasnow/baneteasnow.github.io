@@ -37,6 +37,9 @@ collections:
     permalink: /:slug
   drafts:
     output: false
+  ideas:
+    output: true
+    permalink: /ideas/:name/
 
 defaults:
   -
@@ -61,6 +64,15 @@ defaults:
       # values:
       # the default layout to use if none is specified layout: post
       # published: true or false OR future OR unpublished
+
+  # Override the site's general unpublished default for Ideas only.
+  - scope:
+      path: ""
+      type: "ideas"
+    values:
+      layout: idea
+      published: true
+      lang: en
 
 plugins:
   - jekyll-remote-theme

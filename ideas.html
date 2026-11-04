@@ -1,0 +1,23 @@
+---
+layout: default
+title: Ideas
+permalink: /ideas/
+published: true
+lang: en
+---
+{% include ideas_styles.html %}
+<section class="n52-ideas" aria-labelledby="ideas-title">
+  <h1 id="ideas-title" class="n52-idea-title">{{ page.title | escape }}</h1>
+  {% assign ideas = site.ideas | where_exp: "idea", "idea.published != false" | sort: 'date' | reverse %}
+  <ul class="n52-ideas-list">
+    {% for idea in ideas %}
+    <li class="n52-ideas-entry">
+      <h2><a href="{{ idea.url | relative_url }}">{{ idea.title | escape }}</a></h2>
+      {% if idea.subtitle and idea.subtitle != "" %}<p class="n52-idea-subtitle">{{ idea.subtitle | escape }}</p>{% endif %}
+      {% if idea.date %}<p class="n52-idea-date"><time datetime="{{ idea.date | date: '%Y-%m-%d' }}">{{ idea.date | date: '%B %-d, %Y' }}</time></p>{% endif %}
+    </li>
+    {% else %}
+    <li>No ideas published yet.</li>
+    {% endfor %}
+  </ul>
+</section>

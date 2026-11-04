@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% include ideas_styles.html %}
+<article class="n52-idea">
+  <header class="n52-idea-heading">
+    <h1 class="n52-idea-title">{{ page.title | escape }}</h1>
+    {% if page.subtitle and page.subtitle != "" %}
+    <p class="n52-idea-subtitle">{{ page.subtitle | escape }}</p>
+    {% endif %}
+    {% if page.date %}
+    <p class="n52-idea-date"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %-d, %Y' }}</time></p>
+    {% endif %}
+  </header>
+  {% if page.image and page.image != "" %}
+  <figure class="n52-idea-figure">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: '' | escape }}" decoding="async" />
+    {% if page.image_caption and page.image_caption != "" %}
+    <figcaption>{{ page.image_caption | escape }}</figcaption>
+    {% endif %}
+  </figure>
+  {% endif %}
+  <div class="n52-idea-body">{{ content }}</div>
+  <p class="n52-idea-back"><a href="{{ '/ideas/' | relative_url }}">All ideas →</a></p>
+</article>
