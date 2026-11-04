@@ -4,10 +4,10 @@ subtitle: "Are we living our lives, or creating lives to be seen?"
 date: 2026-11-04 12:00:00 +1100
 published: true
 # Remove the leading # to add your own image already uploaded to the site.
-image: /assets/ideas/yesteryear-book cover.png
+image: /assets/ideas/yesteryear-book-cover.png
 # image_alt: "Describe your photograph"
 image_caption: "Caro Claire Burke's novel, Yesteryear"
-thumbnail: /assets/ideas/yesteryear-book cover.png
+thumbnail: /assets/ideas/yesteryear-book-cover.png
 thumbnail_alt: "Görselin kısa açıklaması"
 ---
 
