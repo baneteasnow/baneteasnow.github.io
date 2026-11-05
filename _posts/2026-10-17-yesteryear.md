@@ -64,3 +64,7 @@ Beni asıl düşündüren ise çocukların geleceği oldu. Mary’nin beş yıl 
 _Yesteryear_, sosyal medya kültürünü, geleneksel aile ideallerini, başarı hırsını ve ebeveynliğin karanlık yönlerini bir araya getiren, yer yer oldukça eğlenceli ama giderek rahatsız edici hâle gelen bir roman. Burke’ün hiciv anlayışını, ayrıntılardaki gözlem gücünü ve anlatının merkezindeki sürprizi başarılı buldum. Buna karşılık romanın daha sıkı bir kurguya, daha az tekrara ve özellikle bazı yan karakterlerin gelişimine daha fazla alan açılmasına ihtiyacı olduğunu düşündüm.
 
 Natalie’yi anlamaya çalışarak başladığım romanı, ona karşı çok daha az hoşgörü duyarak bitirdim. Son sayfalarda aklımda kalan ise onun kaybettikleri değil, çocuklarının bundan sonra nasıl bir hayat kurabilecekleriydi.
+
+## Related
+
+[Life Through the Lens](https://www.next52books.com/ideas/life-through-the-lens/)
