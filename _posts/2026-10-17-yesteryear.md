@@ -67,4 +67,4 @@ Natalie’yi anlamaya çalışarak başladığım romanı, ona karşı çok daha
 
 ## Related
 
-[Life Through the Lens](https://www.next52books.com/ideas/life-through-the-lens/)
+- [Life Through the Lens](https://www.next52books.com/ideas/life-through-the-lens/)
