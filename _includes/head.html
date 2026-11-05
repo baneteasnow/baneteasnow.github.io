@@ -6,7 +6,7 @@
 	/>
 	<meta
 		name="viewport"
-		content="width=device-width, initial-scale=1"
+		content="width=device-width, initial-scale=1, viewport-fit=cover"
 	/>
 	<title>
 		{%- if page.title -%} {{ page.title }} - next52books.com {%- else -%} {{
@@ -50,7 +50,7 @@
 {% endif %}
 		<meta
 		name="apple-mobile-web-app-status-bar-style"
-		content="default"
+		content="black-translucent"
 	/>
 	<meta
 		name="theme-color"
@@ -123,4 +123,10 @@
 		content="yes"
 	/>
 	
+<!-- Apply the separate status-bar background only in iOS/iPadOS standalone mode. -->
+<script>
+  if (window.navigator.standalone === true) {
+    document.documentElement.classList.add('n52b-ios-pwa');
+  }
+</script>
 </head>

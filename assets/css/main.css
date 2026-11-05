@@ -493,4 +493,30 @@ details > p {
 	margin: 0;
 }
 
-/*# sourceMappingURL=main.css.map */
+/* iOS/iPadOS PWA: independent status-bar and page backgrounds. */
+:root {
+  --n52-page-background: #FFFFFF;
+  --n52-status-bar-background: #E8E4DF;
+}
+html.n52b-ios-pwa {
+  background: var(--n52-status-bar-background);
+}
+html.n52b-ios-pwa body {
+  background: var(--n52-page-background);
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-left: env(safe-area-inset-left, 0px);
+  padding-right: env(safe-area-inset-right, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+html.n52b-ios-pwa::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: env(safe-area-inset-top, 0px);
+  background: var(--n52-status-bar-background);
+  pointer-events: none;
+  z-index: 2147483647;
+}
