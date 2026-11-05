@@ -43,3 +43,7 @@ Kitabın sonunda da mucizevi bir iyileşmeyle karşılaşmıyoruz. Sehee, depres
 Bence kitabın en anlamlı taraflarından biri tam olarak burada ortaya çıkıyor. Sehee’nin kendisini anlamaya başlaması, kendisini sevmeyi öğrendiği anlamına gelmiyor. Ancak başlangıçta kendisi hakkında verdiği kesin hükümler, zamanla yerini daha fazla soruya ve sınırlı da olsa bazı farkındalıklara bırakıyor.
 
 _Ölmek İstiyorum Ama Tteokbokki de Yemek İstiyorum_, psikoterapi hakkında kapsamlı bilgi edinmek isteyenlerden çok, bir insanın ruhsal güçlüklerle mücadele ederken kendi iç dünyasını nasıl deneyimlediğini merak eden okurlara hitap ediyor. Kitabın değeri, iyileşmenin kesin bir yolunu göstermesinde değil; bu sürecin ne kadar karmaşık, yorucu ve belirsiz olabileceğini bütün açıklığıyla ortaya koymasında yatıyor. Sehee’nin hikâyesi, gelişimin her zaman büyük dönüşümlerle ölçülemeyeceğini hatırlatıyor. Bazen insanın kendisini anlamaya başlaması, henüz kendisini sevemiyor olsa bile, başlı başına önemli bir adım.
+
+## Related
+
+[The Limits of Self-Awareness (Ideas)](https://www.next52books.com/ideas/the-limits-of-self-awareness/)
