@@ -8,7 +8,7 @@ image: /assets/ideas/yesteryear-book-cover.png
 # image_alt: "Describe your photograph"
 image_caption: "Caro Claire Burke's novel, Yesteryear"
 thumbnail: /assets/ideas/yesteryear-book-cover.png
-thumbnail_alt: "Görselin kısa açıklaması"
+# thumbnail_alt: "Görselin kısa açıklaması"
 ---
 
 Taking pictures to keep our memories has become a part of everyday life for many of us. Before social media, photos helped us remember and share memories with a close circle of friends; in the age of social media, we can share those same moments with a much wider audience. Caro Claire Burke's novel Yesteryear has made me rethink the relationship between the pieces we share online and the ones we actually live. First, I reviewed the novel through the lens of tradwife culture and its effects on society. Nevertheless, the more I thought about the book, the more I wondered: Could sharing our lives gradually change the way we live them?
