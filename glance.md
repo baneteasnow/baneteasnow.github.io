@@ -2,7 +2,7 @@
 layout: page
 title: At a Glance
 last_modified_at: 2026-06-30
-published: true
+published: false
 ---
 
 <a href="https://www.next52books.com/assets/at-a-glance/nov-26.png">Nov 2026</a>  
