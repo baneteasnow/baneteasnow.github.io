@@ -36,6 +36,7 @@ published: true
 			>
 				—
 			</p>
+			<p class="day-of-year" id="dayOfYear">—</p>
 
 			<p
 				class="selected-day"
@@ -53,13 +54,6 @@ published: true
 			<p
 				class="week-number"
 				id="weekNumber"
-			>
-				—
-			</p>
-
-			<p
-				class="day-of-year"
-				id="dayOfYear"
 			>
 				—
 			</p>
@@ -98,7 +92,7 @@ published: true
 .week-page .selected-day { color:#82786e; font-size:15px; padding-top:4px; }
 .week-page .divider { width:1px; height:75px; background:#e5dfd8; }
 .week-page .week-number { color:#675547; font-size:52px; font-weight:400; line-height:1.2; }
-.week-page .day-of-year { color:#9A8878; font-size:13px; font-style:italic; }
+.week-page .day-of-year { color:#9A8878; font-size:13px; font-style:italic; padding-top:4px; }
 @media(max-width:430px) { .week-page { padding:8px 8px 28px; } .week-page .calendar-weekdays,.week-page .calendar-row { grid-template-columns:24px repeat(7,minmax(0,1fr)); } .week-page .calendar-day { width:30px; height:30px; font-size:16px; } .week-page .calendar-row { min-height:48px; } .week-page .calendar-header h2 { font-size:20px; } .week-page .calendar-header button { font-size:14px; } .week-page .result-card { gap:12px; } .week-page .selected-date { font-size:18px; } }
 
 /* Fine internal rules, with no outer calendar frame. */
