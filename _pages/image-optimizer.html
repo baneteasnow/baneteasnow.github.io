@@ -1,0 +1,473 @@
+---
+layout: page
+published: true
+title: "Image Optimizer"
+permalink: /image-optimizer/
+---
+
+<style>
+.image-compressor,.image-compressor *{box-sizing:border-box}.image-compressor{max-width:640px;margin:0 auto;padding:12px 16px 44px;color:#393632;font-family:"EB Garamond",Georgia,serif;line-height:1.6}.image-compressor p{margin:12px 0 24px}.image-compressor .compressor-controls{padding:24px 0 12px;border-top:1px solid #ded6cc;border-bottom:1px solid #ded6cc}.image-compressor label{display:block;color:#9A8878;font-size:15px;font-style:italic;margin:0 0 6px}.image-compressor input,.image-compressor select{width:100%;min-width:0;max-width:100%;min-height:44px;padding:8px 10px;margin:0 0 18px;border:1px solid #d9d2ca;border-radius:0;background:white;color:inherit;font:inherit}.image-compressor input::file-selector-button{font:inherit;background:#F3F0EC;color:#675547;border:0;padding:4px 10px;margin-right:8px;cursor:pointer}.image-compressor :focus-visible{outline:2px solid #9A8878;outline-offset:3px}.image-compressor #resultCard{display:none;border-top:1px solid #ded6cc;padding:8px 0 24px}.image-compressor .result-row{display:flex;justify-content:space-between;align-items:baseline;gap:18px;padding:12px 0;border-bottom:1px solid #e5dfd8}.image-compressor .result-label{color:#9A8878;font-size:16px;font-style:italic}.image-compressor .result-value{text-align:right;overflow-wrap:anywhere}.image-compressor #downloadButton{display:inline-block;margin-top:24px;padding:9px 22px;min-height:44px;border:1px solid #d9d2ca;background:#F3F0EC;color:#675547;font:inherit;text-decoration:none}.image-compressor [hidden]{display:none!important}.image-compressor #downloadButton:hover{background:#eae4dc}.image-compressor #downloadButton[aria-disabled="true"]{pointer-events:none;opacity:.55}.image-compressor .optimizer-note{font-size:15px;font-style:italic;color:#9A8878;margin:18px 0 0}@media(max-width:430px){.image-compressor{padding:8px 8px 32px}.image-compressor .result-value{max-width:62%}.image-compressor #downloadButton{width:100%;text-align:center}}
+.image-compressor .quality-comparison{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:22px 0}.image-compressor .quality-comparison button{padding:12px 10px;border:1px solid #ded6cc;background:white;color:#675547;font:inherit;font-size:15px;cursor:pointer}.image-compressor .quality-comparison button[aria-pressed="true"]{background:#F3F0EC;border-color:#9A8878}.image-compressor .optimizer-note a{color:#675547;text-underline-offset:3px}@media(max-width:430px){.image-compressor .quality-comparison{grid-template-columns:1fr}}</style>
+<div class="image-compressor">
+	<p>Reduce image file size while keeping the original dimensions.</p>
+	<div class="compressor-controls">
+		<label for="imageInput">Choose image</label>
+
+		<input
+			type="file"
+			id="imageInput"
+			accept="image/jpeg,image/png,image/webp,.jpg,.jpeg,.png,.webp"
+		/>
+
+		<label for="fileNameInput">File name</label>
+
+		<input
+			type="text"
+			id="fileNameInput"
+			placeholder="File name..."
+			disabled
+		/>
+
+		<label for="outputFormat">Output format</label>
+<select id="outputFormat" disabled><option value="image/jpeg">JPG</option><option value="image/png">PNG</option><option value="image/webp">WebP</option></select>
+<p id="imageDimensions" class="optimizer-note">Dimensions: —</p>
+<p class="optimizer-note"><a href="{{ '/image-resizer/' | relative_url }}">Open Image Resizer</a> to change pixel dimensions.</p>
+<label for="qualitySelect">Compression</label>
+
+		<select
+			id="qualitySelect"
+			disabled
+		>
+			<option value="0.95">Maximum quality — 95%</option>
+
+			<option
+				value="0.82"
+				selected
+			>
+				Balanced — 82%
+			</option>
+
+			<option value="0.70">Small file — 70%</option>
+		</select>
+	</div>
+
+	<div id="qualityComparison" class="quality-comparison" hidden aria-label="Compare quality settings"></div>
+<p id="compressorStatus" role="status" aria-live="polite">Choose an image.</p>
+
+	<div id="resultCard" aria-live="polite">
+		<div class="result-row">
+			<span class="result-label">Original</span>
+			<span
+				id="originalSize"
+				class="result-value"
+			>
+				—
+			</span>
+		</div>
+
+		<div class="result-row">
+			<span class="result-label">Optimized</span>
+			<span
+				id="optimizedSize"
+				class="result-value"
+			>
+				—
+			</span>
+		</div>
+
+		<div class="result-row">
+			<span class="result-label">Saved</span>
+			<span
+				id="savedPercent"
+				class="result-value"
+			>
+				—
+			</span>
+		</div>
+
+		<div class="result-row">
+			<span class="result-label">Metadata</span>
+			<span class="result-value"> Original EXIF / GPS removed </span>
+		</div>
+
+		<div class="result-row">
+			<span class="result-label">Result</span>
+			<span
+				id="compressionResult"
+				class="result-value"
+			>
+				—
+			</span>
+		</div>
+
+		<a
+			id="downloadButton"
+			href="#"
+			download
+			aria-disabled="true"
+		>
+			Download Optimized JPG
+		</a>
+	</div>
+<p class="optimizer-note">JPG, PNG and WebP input. Choose JPG, PNG or WebP output. JPG fills transparent areas with white; PNG and WebP preserve transparency. PNG is lossless and has no quality percentage; its file size may not decrease. Your chosen quality is always preserved. Lower quality may reduce detail. Compare all three quality settings below. If the chosen result is not smaller, no download is offered.</p>
+<p class="optimizer-note">Your image stays on your device. Optimization happens in your browser.</p>
+</div>
+
+<script>
+(() => {
+	const imageInput = document.getElementById("imageInput")
+ const outputFormat = document.getElementById("outputFormat")
+ const comparison = document.getElementById("qualityComparison")
+ let variants = null
+ let variantImage = null
+ let variantType = null
+
+	const fileNameInput = document.getElementById("fileNameInput")
+
+	const qualitySelect = document.getElementById("qualitySelect")
+
+	const compressorStatus = document.getElementById("compressorStatus")
+
+	const resultCard = document.getElementById("resultCard")
+
+	const originalSize = document.getElementById("originalSize")
+
+	const optimizedSize = document.getElementById("optimizedSize")
+
+	const savedPercent = document.getElementById("savedPercent")
+
+	const compressionResult = document.getElementById("compressionResult")
+
+	const downloadButton = document.getElementById("downloadButton")
+
+	let selectedFile = null
+	let loadedImage = null
+	let currentDownloadURL = null
+	let processingNumber = 0
+
+	function getBaseName(fileName) {
+		return String(fileName || "image").replace(/\.[^.]+$/, "")
+	}
+
+	function cleanFileName(fileName) {
+		return (
+			String(fileName || "image")
+				.trim()
+				.replace(/[\\/:*?"<>|]+/g, "-")
+				.replace(/\s+/g, " ")
+				.replace(/^\.+|\.+$/g, "") || "image"
+		)
+	}
+
+	function formatBytes(bytes) {
+		if (!Number.isFinite(bytes) || bytes < 0) {
+			return "—"
+		}
+
+		if (bytes < 1024) {
+			return `${bytes} B`
+		}
+
+		if (bytes < 1024 * 1024) {
+			return `${(bytes / 1024).toFixed(1)} KB`
+		}
+
+		return `${(bytes / 1024 / 1024).toFixed(2)} MB`
+	}
+
+	function loadImage(file) {
+		return new Promise((resolve, reject) => {
+			const objectURL = URL.createObjectURL(file)
+
+			const image = new Image()
+
+			image.onload = function () {
+				URL.revokeObjectURL(objectURL)
+				resolve(image)
+			}
+
+			image.onerror = function () {
+				URL.revokeObjectURL(objectURL)
+
+				reject(new Error("The image could not be opened."))
+			}
+
+			image.src = objectURL
+		})
+	}
+
+	function canvasToJPEGBlob(canvas, quality) {
+        const targetType = outputFormat.value
+		return new Promise((resolve, reject) => {
+			canvas.toBlob(
+				(blob) => {
+					if (!blob || blob.type !== targetType) {
+						reject(new Error("The optimized image could not be created."))
+
+						return
+					}
+
+					resolve(blob)
+				},
+				targetType,
+				quality,
+			)
+		})
+	}
+
+	async function createOptimizedJPEG(image, quality) {
+		const canvas = document.createElement("canvas")
+
+		const context = canvas.getContext("2d")
+
+		if (!context) {
+			throw new Error("Canvas is not supported.")
+		}
+
+		canvas.width = image.naturalWidth
+		canvas.height = image.naturalHeight
+
+		/*
+			PNG veya WebP şeffafsa JPEG çıktısında
+			siyah zemin oluşmaması için beyaz zemin.
+		*/
+		if (outputFormat.value === "image/jpeg") {
+ context.fillStyle = "#ffffff"; context.fillRect(0, 0, canvas.width, canvas.height)
+ }
+
+		context.imageSmoothingEnabled = true
+		context.imageSmoothingQuality = "high"
+
+		context.drawImage(image, 0, 0, canvas.width, canvas.height)
+
+		/*
+			Canvas yeniden kodlama yaptığı için EXIF,
+			GPS, kamera ve benzeri metadata çıktıya
+			aktarılmaz.
+		*/
+		return canvasToJPEGBlob(canvas, quality)
+	}
+
+	function getResultText(savedValue) {
+		if (savedValue >= 70) {
+			return "Excellent reduction"
+		}
+
+		if (savedValue >= 50) {
+			return "Very good reduction"
+		}
+
+		if (savedValue >= 30) {
+			return "Good reduction"
+		}
+
+		if (savedValue >= 10) {
+			return "Small reduction"
+		}
+
+		if (savedValue > 0) {
+			return "Minimal reduction"
+		}
+
+		return savedValue < 0 ? "Larger than original" : "Same file size"
+	}
+
+	function revokeCurrentDownloadURL() {
+		if (!currentDownloadURL) {
+			return
+		}
+
+		URL.revokeObjectURL(currentDownloadURL)
+
+		currentDownloadURL = null
+	}
+
+	function updateDownloadName() {
+		if (!currentDownloadURL) {
+			return
+		}
+
+		const typedName = cleanFileName(fileNameInput.value)
+
+		downloadButton.download = `${typedName}-optimized.${outputFormat.value === "image/png" ? "png" : outputFormat.value === "image/webp" ? "webp" : "jpg"}`
+	}
+
+	async function processImage() {
+		if (!selectedFile || !loadedImage) {
+			return
+		}
+
+		const thisProcess = ++processingNumber
+        const sourceFile = selectedFile
+        const sourceImage = loadedImage
+
+		compressorStatus.textContent = "Optimizing..."
+
+		resultCard.style.display = "none"
+        comparison.hidden = true
+        downloadButton.hidden = true
+
+		downloadButton.setAttribute("aria-disabled", "true")
+
+		try {
+			const png = outputFormat.value === "image/png"
+            const quality = png ? 1 : Number(qualitySelect.value)
+
+			const type = outputFormat.value
+            if (variantImage !== sourceImage || variantType !== type || !variants) {
+                const results = await Promise.all((png ? [1] : [0.95, 0.82, 0.70]).map(q => createOptimizedJPEG(sourceImage, q)))
+                if (thisProcess !== processingNumber) return
+                variants = results; variantImage = sourceImage; variantType = type
+            }
+            const levels = png ? [1] : [0.95, 0.82, 0.70]
+            const labels = ['Maximum quality', 'Balanced', 'Small file']
+            comparison.replaceChildren()
+            levels.forEach((q, i) => {
+                const choice = document.createElement('button')
+                choice.type = 'button'
+                choice.setAttribute('aria-pressed', String(q === quality))
+                const delta = sourceFile.size > 0 ? (1 - variants[i].size / sourceFile.size) * 100 : 0
+                choice.textContent = `${labels[i]} · ${Math.round(q * 100)}% — ${formatBytes(variants[i].size)} (${delta > 0 ? delta.toFixed(1) + '% smaller' : delta < 0 ? Math.abs(delta).toFixed(1) + '% larger' : 'same size'})`
+                choice.addEventListener('click', () => { qualitySelect.value = String(q); processImage() })
+                comparison.appendChild(choice)
+            })
+            comparison.hidden = png
+            const optimizedBlob = variants[levels.indexOf(quality)]
+
+			/*
+				Kullanıcı bu sırada başka bir dosya
+				seçtiyse eski işlemin sonucu gösterilmez.
+			*/
+			if (thisProcess !== processingNumber) {
+				return
+			}
+
+			const originalBytes = sourceFile.size
+
+			const optimizedBytes = optimizedBlob.size
+
+			const rawSaved =
+				originalBytes > 0 ? (1 - optimizedBytes / originalBytes) * 100 : 0
+
+			const displayedSaved = Math.max(0, rawSaved)
+
+			originalSize.textContent = formatBytes(originalBytes)
+
+			optimizedSize.textContent = formatBytes(optimizedBytes)
+
+			savedPercent.textContent = `${displayedSaved.toFixed(1)}%`
+
+			compressionResult.textContent = getResultText(rawSaved)
+
+			revokeCurrentDownloadURL()
+
+			currentDownloadURL = URL.createObjectURL(optimizedBlob)
+
+			downloadButton.href = currentDownloadURL
+
+			downloadButton.setAttribute("aria-disabled", String(rawSaved <= 0))
+            downloadButton.hidden = rawSaved <= 0
+
+			updateDownloadName()
+
+			resultCard.style.display = "block"
+            downloadButton.textContent = `Download optimized ${type === "image/png" ? "PNG" : type === "image/webp" ? "WebP" : "JPG"}`
+
+			if (rawSaved > 0) {
+				compressorStatus.textContent = "Optimization complete."
+			} else {
+				compressorStatus.textContent =
+					"The file did not get smaller with these settings. Keep your original, try another format, or reduce the dimensions with Image Resizer."
+			}
+		} catch (error) {
+			if (thisProcess !== processingNumber) return
+			console.error(error)
+
+			compressorStatus.textContent = "The image could not be optimized."
+
+			resultCard.style.display = "none"
+		}
+	}
+
+	imageInput.addEventListener("change", async function () {
+		const file = imageInput.files[0]
+
+		const selectionNumber = ++processingNumber
+        comparison.hidden = true
+        variants = null; variantImage = null; variantType = null
+        document.getElementById("imageDimensions").textContent = "Dimensions: —"
+
+		selectedFile = null
+		loadedImage = null
+
+		revokeCurrentDownloadURL()
+
+		resultCard.style.display = "none"
+
+		fileNameInput.disabled = true
+		qualitySelect.disabled = true
+        outputFormat.disabled = true
+
+		downloadButton.href = "#"
+
+		downloadButton.setAttribute("aria-disabled", "true")
+
+		if (!file) {
+			fileNameInput.value = ""
+
+			compressorStatus.textContent = "Choose an image."
+
+			return
+		}
+
+		const supportedTypes = ["image/jpeg", "image/png", "image/webp"]
+
+		if (!supportedTypes.includes(file.type)) {
+			fileNameInput.value = ""
+
+			compressorStatus.textContent = "Please select a JPG, PNG or WebP image."
+
+			return
+		}
+
+		fileNameInput.value = getBaseName(file.name)
+
+		fileNameInput.disabled = false
+		qualitySelect.disabled = false
+        outputFormat.disabled = false
+
+		compressorStatus.textContent = "Opening image..."
+
+		try {
+			const image = await loadImage(file)
+			if (selectionNumber !== processingNumber) return
+			loadedImage = image
+            document.getElementById("imageDimensions").textContent = `Dimensions: ${image.naturalWidth} × ${image.naturalHeight} px`
+
+			selectedFile = file
+
+			await processImage()
+		} catch (error) {
+			if (selectionNumber !== processingNumber) return
+			console.error(error)
+
+			compressorStatus.textContent = "The image could not be opened."
+		}
+	})
+
+	qualitySelect.addEventListener("change", processImage)
+ function updateQualityVisibility() {
+ const png = outputFormat.value === 'image/png'
+ qualitySelect.hidden = png
+ document.querySelector('label[for="qualitySelect"]').hidden = png
+ if (png) comparison.hidden = true
+ }
+ outputFormat.addEventListener("change", () => { updateQualityVisibility(); return processImage() })
+ updateQualityVisibility()
+
+	fileNameInput.addEventListener("input", updateDownloadName)
+
+	window.addEventListener("beforeunload", revokeCurrentDownloadURL)
+})();
+</script>
+
