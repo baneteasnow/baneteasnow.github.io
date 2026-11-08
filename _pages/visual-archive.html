@@ -30,7 +30,7 @@ The annual archive supplies styling; each post supplies its own metadata.
 {% endcomment %}
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <section class="reading-archive va-archive" aria-label="Visual book archive">
-  <nav class="va-nav" aria-label="Archive views"><a href="{{ '/posts.html' | relative_url }}">All Posts →</a></nav>
+  <nav class="va-nav" aria-label="Archive views"><a href="{{ '/posts.html' | relative_url }}">View as a text list →</a></nav>
   <div class="ra-kicker">READING ARCHIVE · ALL YEARS</div>
   {% for year in postsByYear %}
     <h2 class="va-year">{{ year.name }}</h2>
