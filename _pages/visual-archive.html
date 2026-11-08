@@ -9,6 +9,12 @@ title: "Visual Archive"
 .reading-archive.va-archive .va-year { margin: 36px 0 20px; font: italic 26px "EB Garamond",Georgia,serif; color: var(--ra-ink); }
 .reading-archive.va-archive .va-year:first-of-type { margin-top: 24px; }
 .reading-archive.va-archive .ra-list-heading { margin-top: 24px; }
+.reading-archive.va-archive .va-month-count { font: 11px "DM Sans",Arial,sans-serif; color: var(--ra-muted); }
+.reading-archive.va-archive .ra-list-heading .va-month-name { font: italic 19px "EB Garamond",Georgia,serif; color: var(--ra-ink); }
+.reading-archive.va-archive .ra-book { grid-template-columns: 28px 62px minmax(0,1fr); }
+@media (max-width: 600px) {
+  .reading-archive.va-archive .ra-book { grid-template-columns: 24px 48px minmax(0,1fr); }
+}
 .reading-archive.va-archive .va-book-link { display: block; color: inherit; text-decoration: none; overflow-wrap: anywhere; }
 .reading-archive.va-archive .va-book-link:hover { text-decoration: underline; }
 .reading-archive.va-archive a:focus-visible { outline: 2px solid var(--ra-taupe); outline-offset: 4px; }
@@ -30,7 +36,7 @@ The annual archive supplies styling; each post supplies its own metadata.
     <h2 class="va-year">{{ year.name }}</h2>
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
     {% for month in postsByMonth %}
-      <div class="ra-list-heading"><span>{{ month.name }}</span><span>{{ month.items.size }} {% if month.items.size == 1 %}title{% else %}titles{% endif %}</span></div>
+      <div class="ra-list-heading"><span class="va-month-count">{{ month.items.size }} {% if month.items.size == 1 %}title{% else %}titles{% endif %}</span><span class="va-month-name">{{ month.name }}</span></div>
       <div class="ra-list">
         {% for post in month.items %}
           {% assign book_title = post.kitap | default: post.title %}
@@ -50,7 +56,6 @@ The annual archive supplies styling; each post supplies its own metadata.
               {% endif %}
               {% if post.sayfa and post.sayfa != '' %}<p class="ra-detail">{{ post.sayfa | escape }} pages</p>{% endif %}
             </div>
-            <time class="ra-month" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%e' }}</time>
           </article>
         {% endfor %}
       </div>
