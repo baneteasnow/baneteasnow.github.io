@@ -30,7 +30,7 @@
       <a href="{{ '/discover' | relative_url }}" class="desktop-discover">Discover</a>
       {% endunless %}
       {% unless page.url == "/ideas" or page.url == "/ideas/" or page.url == "/ideas.html" %}
-      <a href="{{ '/ideas/' | relative_url }}">Ideas</a>
+      <a href="{{ '/ideas/' | relative_url }}">_Ideas</a>
       {% endunless %}
       <a href="#" class="back-to-top-link" aria-label="Back to top"><span class="desktop-top-label">Back to top ↑</span><span class="mobile-top-label">↑ Top</span></a>
     </nav>
@@ -45,7 +45,7 @@
         gap: 5px;
         z-index: 10;
         font-family: 'EB Garamond', Georgia, serif;
-        font-size: 14px;
+        font-size: 16px;
         font-style: italic;
         line-height: 1.4;
       }
