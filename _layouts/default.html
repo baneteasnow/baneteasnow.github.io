@@ -19,19 +19,19 @@
       {% unless page.url == "/search" or page.url == "/search/" or page.url == "/search.html" %}
       <a href="{{ '/search.html' | relative_url }}">Search</a>
       {% endunless %}
-      {% unless page.url == "/list" or page.url == "/list/" or page.url == "/list.html" %}
+      {% unless page.url == "/list" or page.url == "/list/" or page.url == "/list.html" or page.url == "/map" or page.url == "/map/" or page.url == "/map.html" %}
       <a href="{{ '/list' | relative_url }}" class="desktop-tools">Tools</a>
       {% endunless %}
       {% unless page.url == "/map" or page.url == "/map/" or page.url == "/map.html" %}
       <a href="{{ '/map' | relative_url }}">More</a>
       {% endunless %}
-      <a href="https://homelibrary.next52books.com/browse/">homelibrary</a>
       {% unless page.url == "/" or page.url == "/index.html" or page.url == "/index/" or page.url == "/discover" or page.url == "/discover/" or page.url == "/discover.html" %}
       <a href="{{ '/discover' | relative_url }}" class="desktop-discover">Discover</a>
       {% endunless %}
       {% unless page.url == "/ideas" or page.url == "/ideas/" or page.url == "/ideas.html" %}
       <a href="{{ '/ideas/' | relative_url }}">_ideas</a>
       {% endunless %}
+      <a href="https://homelibrary.next52books.com/browse/">homelibrary</a>
       <a href="#" class="back-to-top-link" aria-label="Back to top"><span class="desktop-top-label">Back to top ↑</span><span class="mobile-top-label">↑ Top</span></a>
     </nav>
 

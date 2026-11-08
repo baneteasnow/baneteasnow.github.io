@@ -2,7 +2,7 @@
 layout: page
 title: Skin Care Plan
 last_modified_at: 2026-06-01
-published: true
+published: false
 ---
 
 <a href="https://www.next52books.com/skin-care-plan/v1">SC-v1 - Jun 26</a>  
