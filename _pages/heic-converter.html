@@ -1,0 +1,103 @@
+---
+layout: page
+published: true
+title: "Image Converter"
+permalink: /heic-converter/
+last_modified_at: 2026-11-08
+---
+
+<style>
+.heic-page, .heic-page * { box-sizing:border-box; }
+.heic-page { max-width:640px; margin:0 auto; padding:12px 16px 44px; color:#393632; font-family:"EB Garamond",Georgia,serif; line-height:1.6; }
+.heic-page .converter-intro { margin:0 0 28px; font-size:19px; }
+.heic-page .converter-note { color:#9A8878; font-size:15px; font-style:italic; margin:24px 0 0; }
+.heic-page .converter-controls { padding:24px 0; border-top:1px solid #ded6cc; border-bottom:1px solid #ded6cc; display:grid; grid-template-columns:minmax(0,1fr) 110px; gap:24px 18px; }
+.heic-page label { display:block; color:#9A8878; font-size:15px; font-style:italic; margin-bottom:8px; }
+.heic-page input,.heic-page select,.heic-page button { font:inherit; color:inherit; max-width:100%; min-width:0; border:1px solid #d9d2ca; border-radius:0; background:#fff; min-height:44px; }
+.heic-page input { width:100%; padding:8px; font-size:15px; }
+.heic-page input::file-selector-button { font:inherit; background:#F3F0EC; color:#675547; border:0; padding:4px 10px; margin-right:10px; cursor:pointer; }
+.heic-page select { width:100%; padding:8px 10px; }
+.heic-page button { grid-column:1/-1; justify-self:start; padding:8px 26px; background:#F3F0EC; color:#675547; cursor:pointer; }
+.heic-page button:hover { background:#eae4dc; }
+.heic-page :focus-visible { outline:2px solid #9A8878; outline-offset:3px; }
+.heic-page button:disabled { opacity:.6; cursor:wait; }
+.heic-page #status { margin:20px 0 0; font-size:17px; }
+.heic-page #fileInfo { margin:6px 0 0; font-size:15px; color:#82786e; overflow-wrap:anywhere; }
+@media(max-width:430px) { .heic-page { padding:8px 8px 32px; } .heic-page .converter-controls { grid-template-columns:1fr; gap:18px; } .heic-page button { width:100%; } }
+</style>
+<div class="heic-page">
+<p class="converter-intro">Convert your images to JPG or PNG.</p>
+<div class="converter-controls">
+<div><label for="imageInput">Choose an image</label><input type="file" id="imageInput" accept="image/*,.heic,.heif,.hif,.avif,.webp,.tif,.tiff,.ico,.svg,.bmp,.gif,.jfif" aria-describedby="fileInfo" /></div>
+<div><label for="outputFormat">Save as</label><select id="outputFormat"><option value="image/jpeg">JPG</option><option value="image/png">PNG</option></select></div>
+<button type="button" id="convertButton">Convert &amp; download</button>
+</div>
+<p id="status" role="status" aria-live="polite"></p>
+<p id="fileInfo" aria-live="polite"></p>
+<p class="converter-note">HEIC, HEIF, WebP, JPEG, PNG, GIF, BMP, AVIF, SVG, ICO and TIFF. Format support can vary by browser. Animated images and multi-page TIFF files are saved as a single still image. JPG uses a white background for transparency.</p>
+<p class="converter-note">Your image stays on your device. Conversion happens in your browser.</p>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/heic-to@1.5.2/dist/iife/heic-to.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pako@1.0.11/dist/pako.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/utif@3.1.0/UTIF.js"></script>
+<script>
+(() => {
+ const el=id=>document.getElementById(id);
+ const input=el('imageInput'), format=el('outputFormat'), button=el('convertButton'), status=el('status'), info=el('fileInfo');
+ input.addEventListener('change',()=>{ status.textContent=''; info.textContent=input.files[0]?.name || ''; });
+ function download(blob,name) {
+  const url=URL.createObjectURL(blob), a=document.createElement('a');
+  a.href=url; a.download=name; document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(()=>URL.revokeObjectURL(url),10000);
+ }
+ async function toCanvas(file) {
+  if(/\.tiff?$/i.test(file.name) || /image\/(tiff|x-tiff)/i.test(file.type)) {
+   if(typeof UTIF==='undefined') throw new Error('The TIFF reader could not load. Please reload the page and try again.');
+   const buffer=await file.arrayBuffer(), pages=UTIF.decode(buffer);
+   const page=pages.find(p=>p.t256 && p.t257);
+   if(!page) throw new Error('No image was found in this TIFF file.');
+   UTIF.decodeImage(buffer,page);
+   const canvas=document.createElement('canvas'); canvas.width=page.width; canvas.height=page.height;
+   const context=canvas.getContext('2d');
+   const pixels=context.createImageData(page.width,page.height); pixels.data.set(UTIF.toRGBA8(page)); context.putImageData(pixels,0,0);
+   return canvas;
+  }
+  const url=URL.createObjectURL(file);
+  try {
+   const image=new Image(); image.src=url; await image.decode();
+   if(!image.naturalWidth || !image.naturalHeight) throw new Error('This image has no usable dimensions.');
+   const canvas=document.createElement('canvas'); canvas.width=image.naturalWidth; canvas.height=image.naturalHeight;
+   canvas.getContext('2d').drawImage(image,0,0); return canvas;
+  } finally { URL.revokeObjectURL(url); }
+ }
+ button.addEventListener('click',async()=>{
+  const file=input.files[0];
+  if(!file) { status.textContent='Please choose an image first.'; return; }
+  input.disabled=format.disabled=button.disabled=true; status.textContent='Converting…';
+  try {
+   const type=format.value;
+   let source=file;
+   const looksHeic=/\.(heic|heif|hif)$/i.test(file.name) || /image\/(heic|heif)/i.test(file.type);
+   let isHeic=looksHeic;
+   if(!isHeic && typeof HeicTo==='function' && typeof HeicTo.isHeic==='function') isHeic=await HeicTo.isHeic(file);
+   if(isHeic) {
+    if(typeof HeicTo!=='function') throw new Error('The HEIC reader could not load. Please reload the page and try again.');
+    source=await HeicTo({blob:file,type:'image/png',quality:1});
+   }
+   const canvas=await toCanvas(source);
+   if(type==='image/jpeg') {
+    const context=canvas.getContext('2d'); context.globalCompositeOperation='destination-over'; context.fillStyle='#ffffff'; context.fillRect(0,0,canvas.width,canvas.height);
+   }
+   const blob=await new Promise((resolve,reject)=>canvas.toBlob(b=>b?resolve(b):reject(new Error('This image could not be exported.')),type,.92));
+   if(blob.type!==type) throw new Error('Your browser could not export the selected format.');
+   const base=file.name.replace(/\.[^.]+$/,'') || 'converted-image';
+   download(blob,`${base}.${type==='image/png'?'png':'jpg'}`);
+   status.textContent='Conversion complete.';
+  } catch(error) {
+   console.error(error);
+   status.textContent=/could not load|No image was found|no usable dimensions|could not be exported|could not export/.test(error.message)?error.message:'This image could not be read. It may be damaged or use a format your browser does not support.';
+  } finally { input.disabled=format.disabled=button.disabled=false; }
+ });
+})();
+</script>
+
