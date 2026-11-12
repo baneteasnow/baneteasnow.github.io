@@ -9,10 +9,11 @@ permalink: /typography/
 <style>
 .typography-tool {
   --ink: #393632;
-  --muted: #675547;
-  --line: #ded6cc;
-  --control: #f3f0ec;
+  --muted: #756459;
+  --line: #E8E0D7;
+  --control: #F3F0EC;
   max-width: 640px;
+  background: #F8F6F2;
   margin: 0 auto;
   padding: 12px 16px 44px;
   color: var(--ink);
@@ -142,6 +143,40 @@ permalink: /typography/
   border-color: transparent;
   padding-inline: 4px;
   text-decoration: underline;
+}
+
+/* Warm Editorial interface and reliable disclosure indicators */
+.typography-tool .group h2, .typography-tool #live-heading { color: #756459; }
+.typography-tool details > summary {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; width: 100%; min-height: 44px; padding: 8px 0;
+  list-style: none; cursor: pointer; color: #756459;
+}
+.typography-tool details > summary::-webkit-details-marker { display: none; }
+.typography-tool details > summary::marker { content: ''; }
+.typography-tool details > summary::after {
+  content: ''; display: block; flex: 0 0 9px; width: 9px; height: 9px;
+  border-right: 2px solid currentColor; border-bottom: 2px solid currentColor;
+  transform: rotate(45deg); transition: transform .15s ease; margin: -5px 6px 0 0;
+}
+.typography-tool details[open] > summary::after { transform: rotate(225deg); margin-top: 5px; }
+.typography-tool .more-settings summary { width: 100%; }
+.typography-tool .more-settings, .typography-tool .color-settings,
+.typography-tool .more-settings fieldset, .typography-tool .row,
+.typography-tool .row > div, .typography-tool .slider,
+.typography-tool .preview, .typography-tool .preview-paper,
+.typography-tool .page, .typography-tool .editable { min-width: 0; max-width: 100%; }
+.typography-tool .row > div { flex: 1 1 0; }
+.typography-tool .slider input[type="range"] { width: 100%; min-width: 0; }
+.typography-tool .page .editable { overflow-wrap: anywhere; word-break: normal; }
+.typography-tool .page #previewH { max-width: 100%; }
+@media (max-width: 600px) {
+  .typography-tool { width: 100%; }
+  .typography-tool .more-settings .row { flex-direction: column; align-items: stretch; }
+  .typography-tool .more-settings .row > div { width: 100%; flex: none; }
+  .typography-tool .colors { grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .typography-tool .colorbox input[type="text"] { width: min(9ch,100%); }
+  .typography-tool .preview-paper, .typography-tool .page { overflow-wrap: anywhere; }
 }
 </style>
 
@@ -329,7 +364,7 @@ permalink: /typography/
   const fontStylesheet = 'https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300..800;1,300..800&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:ital,wght@0,300..900;1,300..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400..700;1,400..700&family=Manrope:wght@300..800&family=Montserrat:ital,wght@0,300..900;1,300..900&family=Nunito+Sans:ital,wght@0,300..900;1,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,300..900;1,300..900&family=Source+Serif+4:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&family=Work+Sans:ital,wght@0,300..900;1,300..900&display=swap';
   const fonts=['EB Garamond','DM Sans','Inter','Playfair Display','Lora','Libre Baskerville','Source Serif 4','Space Grotesk','Manrope','Montserrat','Nunito Sans','Open Sans','Roboto','Work Sans'];
 const presets=[['Editorial','EB Garamond','DM Sans'],['Modern','Space Grotesk','Inter'],['Literary','Playfair Display','Source Serif 4'],['Classic','Libre Baskerville','Open Sans'],['Warm','Lora','Nunito Sans'],['Minimal','Manrope','DM Sans']];
-const defaults={hfont:'EB Garamond',bfont:'DM Sans',hsize:58,bsize:18,hweight:600,bweight:400,hline:1.12,bline:1.7,hspace:-1,bspace:0,hitalic:false,bitalic:false,hupper:false,bupper:false,bg:'#ffffff',hc:'#393632',bc:'#393632',ac:'#675547',htxt:'The art of choosing type',btxt:'Typography gives a page its voice. A thoughtful pairing creates contrast without competition, allowing the heading to establish a mood while the body text remains effortless to read. Try changing the fonts, spacing, weight and colors to find a combination that feels right.',qtxt:'Good typography is not only what we see, but how comfortably we read.',wide:false};
+const defaults={hfont:'EB Garamond',bfont:'DM Sans',hsize:58,bsize:18,hweight:600,bweight:400,hline:1.12,bline:1.7,hspace:-1,bspace:0,hitalic:false,bitalic:false,hupper:false,bupper:false,bg:'#F8F6F2',hc:'#756459',bc:'#393632',ac:'#756459',htxt:'The art of choosing type',btxt:'Typography gives a page its voice. A thoughtful pairing creates contrast without competition, allowing the heading to establish a mood while the body text remains effortless to read. Try changing the fonts, spacing, weight and colors to find a combination that feels right.',qtxt:'Good typography is not only what we see, but how comfortably we read.',wide:false};
   const modeExtras={
  article:`<h3>Reading between the lines</h3>
 <p>Good typography establishes rhythm and hierarchy. A heading invites the reader in; comfortable line lengths and generous spacing make the story easy to follow.</p>
