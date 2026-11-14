@@ -10,9 +10,9 @@ sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/134119018-filterworld"
 description: ""
 eng: ""
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-30
 published: false
-posted: 2026-10-31
+posted: 2026-11-30
 tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"

@@ -10,9 +10,9 @@ sayfa: "704"
 goodreads: "https://www.goodreads.com/book/show/21913812-this-changes-everything"
 description: ""
 eng: ""
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-30
 published: false
-posted: 2026-10-31
+posted: 2026-11-30
 tag: "EnvironmentSustainableLiving"
 reread: "no"
 num: ""

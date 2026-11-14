@@ -10,12 +10,12 @@ sayfa: "344"
 goodreads: "https://www.goodreads.com/book/show/737300.Women_Who_Think_Too_Much"
 description: ""
 eng: ""
-last_modified_at: 2026-10-31
-published: false
-posted: 2026-10-31
+last_modified_at: 2026-11-14
+published: true
+posted: 2026-11-14
 tag: "PsychologyMentalLife"
 reread: "no"
-num: ""
+num: "616"
 image: "/assets/new/women-who-think-too-much.jpg"
 ---
 

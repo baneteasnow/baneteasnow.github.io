@@ -3,6 +3,16 @@
 year: 2026
 goal: 70
 books:
+  - id: 58
+    month: "Nov"
+    title: "Women Who Think Too Much"
+    author: "Susan Nolen-Hoeksema"
+    year: 2023
+    pages: 344
+    format: "book"
+    categories: "PsychologyMentalLife"
+    cover: "/assets/new/women-who-think-too-much.jpg"
+
   - id: 57
     month: "Oct"
     title: "Will I Ever Be Good Enough?"
