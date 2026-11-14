@@ -14,10 +14,8 @@ last_modified_at: 2024-12-07
 posted: 2015-11-28
 tag: ""
 reread: "no"
-rating: "4"
 num: "18"
 eng: "The Experience Economy by Joseph Pine and James Gilmore explores how businesses can create lasting value by offering consumers memorable experiences beyond mere products or services. The authors present a visionary perspective on the evolving role of experiences as a new economic offering in the modern marketplace."
-update: ""
 image: "/assets/old/the-experience-economy.jpg"
 ---
 

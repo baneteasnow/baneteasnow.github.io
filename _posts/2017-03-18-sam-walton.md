@@ -18,6 +18,7 @@ reread: "no"
 rating: "3"
 num: "51"
 update: "updated"
+updated: "yes"
 image: "/assets/old/sam-walton.jpg"
 ---
 

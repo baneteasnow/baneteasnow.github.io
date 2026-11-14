@@ -18,6 +18,7 @@ reread: "no"
 rating: "3"
 num: "139"
 update: "updated"
+updated: "yes"
 image: "/assets/old/wikinomics.jpg"
 ---
 

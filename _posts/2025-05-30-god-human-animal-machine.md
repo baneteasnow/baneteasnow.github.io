@@ -17,7 +17,6 @@ tag: "PhilosophyMeaning"
 reread: "no"
 rating: "3"
 num: "502"
-update: "done"
 image: "/assets/new/god-human-animal-machine.jpg"
 ---
 

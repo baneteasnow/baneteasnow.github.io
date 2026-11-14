@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "473"
-update: "done"
+ 
 image: "/assets/new/creatures-of-a-day.jpg"
 ---
 

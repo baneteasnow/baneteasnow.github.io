@@ -18,7 +18,7 @@ reread: "no"
 rating: "5"
 num: "495"
 image: "/assets/new/bir-seyler-eksik.jpg"
-update: "done"
+ 
 ---
 
 to be updated

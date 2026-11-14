@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "479"
-update: "done"
+ 
 image: "/assets/new/loves-executioner-and-other-tales-of-psychotherapy.jpg"
 ---
 

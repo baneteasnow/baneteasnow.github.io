@@ -17,7 +17,6 @@ tag: "PhilosophyMeaning"
 reread: "no"
 rating: "3"
 num: "500"
-update: "done"
 image: "/assets/new/this-is-water.jpg"
 ---
 

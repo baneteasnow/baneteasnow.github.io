@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "487"
-update: "done"
+ 
 image: "/assets/new/terapistin-ikilemi.jpg"
 ---
 

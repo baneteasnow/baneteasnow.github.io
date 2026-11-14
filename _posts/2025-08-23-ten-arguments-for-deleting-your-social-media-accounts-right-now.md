@@ -17,7 +17,6 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "4"
 num: "530"
-update: "done"
 image: "/assets/new/ten-arguments-for-deleting-your-social-media-accounts-right-now.jpg"
 ---
 

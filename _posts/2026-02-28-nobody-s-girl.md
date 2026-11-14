@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "568"
-update: "tobeupdated"
 image: "/assets/new/nobody-s-girl.jpg"
 ---
 

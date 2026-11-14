@@ -17,7 +17,6 @@ tag: "ScienceDiscovery"
 reread: "no"
 rating: "4"
 num: "602"
-update: "tobeupdated"
 image: "/assets/new/why-we-love.jpg"
 ---
 

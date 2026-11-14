@@ -14,10 +14,8 @@ last_modified_at: 2024-12-06
 posted: 2015-07-15
 tag: "PsychologyMentalLife"
 reread: "yes"
-rating: "5"
 num: "11"
 eng: "Stumbling on Happiness delves into the nature of human happiness, the flaws in how we perceive the future, and the common missteps in our pursuit of fulfillment, blending scientific research with profound philosophical insight."
-update: ""
 image: "/assets/old/stumbling-on-happiness.jpg"
 ---
 

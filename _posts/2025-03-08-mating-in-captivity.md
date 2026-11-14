@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "2"
 num: "482"
-update: "done"
+ 
 image: "/assets/new/mating-in-captivity.jpg"
 ---
 

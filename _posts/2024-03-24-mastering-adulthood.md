@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "2"
 num: "415"
-update: "done"
+ 
 image: "/assets/new/mastering-adulthood.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "569"
-update: "tobeupdated"
 image: "/assets/new/men-explain-things-to-me.jpg"
 ---
 

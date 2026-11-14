@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "yes"
 rating: "5"
 num: "592"
-update: "tobeupdated"
 image: "/assets/new/the-enigma-of-desire.jpg"
 ---
 

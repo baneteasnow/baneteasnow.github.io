@@ -15,9 +15,7 @@ published: false
 posted: 2026-09-30
 tag: "BiographyLifeStories"
 reread: "no"
-rating: "3"
 num: ""
-update: "tobeupdated"
 image: "/assets/new/the-white-album.jpg"
 ---
 

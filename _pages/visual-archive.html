@@ -1,0 +1,69 @@
+---
+layout: page-3
+published: true
+permalink: /visual-archive.html
+title: "Visual Archive"
+---
+{% include reading-archive-styles.html %}
+<style>
+.reading-archive.va-archive .va-year { text-align: right; margin: 36px 0 20px; font: italic 26px "EB Garamond",Georgia,serif; color: var(--ra-ink); }
+.reading-archive.va-archive .va-year:first-of-type { margin-top: 24px; }
+.reading-archive.va-archive .ra-list-heading { margin-top: 24px; }
+.reading-archive.va-archive .va-month-count { font: 11px "DM Sans",Arial,sans-serif; color: var(--ra-muted); }
+.reading-archive.va-archive .ra-list-heading .va-month-name { font: italic 19px "EB Garamond",Georgia,serif; color: var(--ra-ink); }
+.reading-archive.va-archive .ra-book { grid-template-columns: 28px 62px minmax(0,1fr); }
+@media (max-width: 600px) {
+  .reading-archive.va-archive .ra-book { grid-template-columns: 24px 48px minmax(0,1fr); }
+}
+.reading-archive.va-archive .va-book-link { display: block; color: inherit; text-decoration: none; overflow-wrap: anywhere; }
+.reading-archive.va-archive .va-book-link:hover { text-decoration: underline; }
+.reading-archive.va-archive a:focus-visible { outline: 2px solid var(--ra-taupe); outline-offset: 4px; }
+.reading-archive.va-archive .va-cover-link { display: block; width: fit-content; }
+.reading-archive.va-archive .ra-byline { overflow-wrap: anywhere; }
+.reading-archive.va-archive .va-nav { margin-bottom: 24px; font: italic 16px "EB Garamond",Georgia,serif; }
+.reading-archive.va-archive .va-nav a { color: var(--ra-taupe); }
+</style>
+{% comment %}
+Use exactly the source and grouping from post_list-4.html. Do not sort by num,
+filter by category, or merge annual reading YAML: that would change All Posts.
+The annual archive supplies styling; each post supplies its own metadata.
+{% endcomment %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+<section class="reading-archive va-archive" aria-label="Visual book archive">
+  <nav class="va-nav" aria-label="Archive views"><a href="{{ '/posts.html' | relative_url }}">View as a text list →</a></nav>
+  <div class="ra-kicker">READING ARCHIVE · ALL YEARS</div>
+  {% for year in postsByYear %}
+    <h2 class="va-year">{{ year.name }}</h2>
+    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+    {% for month in postsByMonth %}
+      <div class="ra-list-heading"><span class="va-month-count">{{ month.items.size }} {% if month.items.size == 1 %}title{% else %}titles{% endif %}</span><span class="va-month-name">{{ month.name }}</span></div>
+      <div class="ra-list">
+        {% for post in month.items %}
+          {% assign book_title = post.kitap | default: post.title %}
+          <article class="ra-book">
+            <div class="ra-number">{% if post.num and post.num != '' %}№ {{ post.num | escape }}{% endif %}</div>
+            <a class="va-cover-link" href="{{ post.url | relative_url }}" aria-label="{{ book_title | escape }}">
+              {% if post.image and post.image != '' %}
+                <img class="ra-cover" src="{{ post.image | relative_url | escape }}" alt="Cover of {{ book_title | escape }}" width="62" height="92" loading="lazy" decoding="async">
+              {% else %}
+                <div class="ra-cover ra-cover-placeholder" aria-hidden="true"><span>{{ book_title | escape }}</span></div>
+              {% endif %}
+            </a>
+            <div class="ra-book-main">
+              <h3><a class="va-book-link" href="{{ post.url | relative_url }}">{{ book_title | escape }}</a></h3>
+              {% if post.yazar and post.yazar != '' or post.yil and post.yil != '' %}
+                <p class="ra-byline">{{ post.yazar | escape }}{% if post.yil and post.yil != '' %}{% if post.yazar and post.yazar != '' %} · {% endif %}{{ post.yil | escape }}{% endif %}</p>
+              {% endif %}
+              {% if post.sayfa and post.sayfa != '' %}<p class="ra-detail">{{ post.sayfa | escape }} pages</p>{% endif %}
+            </div>
+          </article>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  {% else %}
+    <p>No posts yet.</p>
+  {% endfor %}
+</section>
+<style>
+.reading-archive.va-archive .ra-book-main h3 { margin: 0 0 5px; color: var(--ra-ink); font: 600 17px/1.3 "EB Garamond",Georgia,serif; }
+</style>

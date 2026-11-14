@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "yes"
 rating: "4"
 num: "510"
-update: "done"
 image: "/assets/new/post-truth.jpg"
 ---
 

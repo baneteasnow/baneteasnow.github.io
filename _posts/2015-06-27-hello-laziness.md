@@ -14,10 +14,8 @@ last_modified_at: 2024-12-06
 posted: 2015-06-27
 tag: ""
 reread: "no"
-rating: "4"
 num: "9"
 eng: "Hello Laziness is a short yet impactful book that humorously critiques the contradictions of modern corporate life and its disregard for employees’ individuality."
-update: ""
 image: "/assets/old/hello-laziness.jpg"
 ---
 

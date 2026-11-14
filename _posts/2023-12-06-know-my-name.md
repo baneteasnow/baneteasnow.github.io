@@ -17,7 +17,7 @@ reread: "no"
 rating: "5"
 eng: "Know My Name is a powerful memoir in which Chanel Miller candidly shares her journey of justice, trauma, and healing after surviving sexual assault."
 num: "394"
-update: "done"
+ 
 image: "/assets/new/know-my-name.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "589"
-update: "tobeupdated"
 image: "/assets/new/men-who-hate-women.jpg"
 ---
 

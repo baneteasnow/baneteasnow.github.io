@@ -1,7 +1,7 @@
 ---
 layout: page-5
 title: "other"
-published: true
+published: false
 last_modified_at: 2024-12-05
 ---
 

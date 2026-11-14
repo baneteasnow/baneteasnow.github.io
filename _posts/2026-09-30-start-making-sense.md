@@ -17,7 +17,6 @@ tag: "PhilosophyMeaning"
 reread: "yes"
 rating: "3"
 num: "609"
-update: "tobeupdated"
 image: "/assets/new/start-making-sense.jpg"
 ---
 

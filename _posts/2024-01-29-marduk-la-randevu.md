@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "4"
 num: "405"
-update: "done"
+ 
 image: "/assets/new/2012-marduk-la-randevu.jpg"
 ---
 

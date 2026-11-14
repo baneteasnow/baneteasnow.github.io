@@ -18,6 +18,7 @@ reread: "no"
 rating: "3"
 num: "559"
 update: "updated"
+updated: "yes"
 image: "/assets/new/every-day-i-read.jpg"
 ---
 

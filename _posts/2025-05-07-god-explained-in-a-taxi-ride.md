@@ -18,7 +18,7 @@ reread: "yes"
 rating: "5"
 num: "491"
 image: "/assets/new/god-explained-in-a-taxi-ride.jpg"
-update: "done"
+ 
 ---
 
 to be updated

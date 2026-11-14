@@ -1,0 +1,167 @@
+---
+layout: page
+published: true
+title: "Image Resizer"
+permalink: /image-resizer/
+---
+
+<style>
+.resizer, .resizer *{box-sizing:border-box}.resizer{max-width:640px;margin:0 auto;padding:12px 16px 44px;color:#393632;font-family:"EB Garamond",Georgia,serif;line-height:1.6}.resizer label{display:block;color:#9A8878;font-size:15px;font-style:italic;margin-bottom:6px}.resizer input,.resizer button{font:inherit;color:inherit;border:1px solid #d9d2ca;border-radius:0;background:white;min-height:44px;min-width:0;max-width:100%;padding:8px 10px}.resizer input:not([type=checkbox]){width:100%}.resizer input::file-selector-button{font:inherit;border:0;background:#F3F0EC;color:#675547;padding:4px 10px;margin-right:8px}.resizer button,.resizer .download-button{cursor:pointer;background:#F3F0EC;color:#675547;padding:8px 16px;border:1px solid #d9d2ca;text-decoration:none;display:inline-block;font-size:16px}.resizer :focus-visible{outline:2px solid #9A8878;outline-offset:3px}.resizer .fields{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:18px 0}.resizer .controls{padding:24px 0;border-top:1px solid #ded6cc;border-bottom:1px solid #ded6cc}.resizer .ratio-label{display:flex;align-items:center;gap:8px;margin:12px 0 18px;color:#675547;font-style:normal}.resizer input[type=checkbox]{min-height:20px;width:18px;height:18px;accent-color:#9A8878}.resizer .note,.resizer #originalSize{font-size:15px;color:#9A8878;font-style:italic}.resizer p{margin:12px 0}.resizer .resize-results{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:28px}.resizer [hidden]{display:none!important}.resizer .resize-card{border-top:1px solid #ded6cc;padding-top:16px;min-width:0}.resizer h3{font-size:20px;font-weight:400;margin:0 0 12px}.resizer .resize-preview{width:100%;height:auto;max-height:280px;object-fit:contain;display:block;margin-bottom:14px}.resizer button:disabled{opacity:.5;cursor:default}@media(max-width:430px){.resizer{padding:8px 8px 32px}.resizer .resize-results{grid-template-columns:1fr}}
+</style><div class="resizer">
+<p>Resize an image using a preset or your own dimensions.</p>
+<div class="controls">
+<label for="imageInput">Choose an image</label><input type="file" id="imageInput" accept="image/jpeg,image/png,image/webp,.jpg,.jpeg,.png,.webp" />
+<p id="originalSize" aria-live="polite">Original size: —</p>
+<label for="fileNameInput">File name</label><input type="text" id="fileNameInput" placeholder="Enter file name" />
+<div class="fields"><div><label for="customWidth">Width (px)</label><input type="number" id="customWidth" min="1" max="16384" step="1" disabled /></div><div><label for="customHeight">Height (px)</label><input type="number" id="customHeight" min="1" max="16384" step="1" disabled /></div></div>
+<label class="ratio-label"><input type="checkbox" id="keepRatio" checked /> Keep aspect ratio</label>
+<button type="button" id="resizeCustom" disabled>Resize custom size</button>
+<p class="note">Presets crop the centre to a square. Custom sizes keep the whole image; turning off the aspect ratio lock may stretch it. Downloads are JPG, with white behind transparent areas.</p>
+</div>
+<p id="status" role="status">Choose an image.</p>
+<div id="resizeResults" class="resize-results" hidden>
+<div class="resize-card"><h3>192 × 192</h3><img id="preview192" class="resize-preview" alt="192 by 192 preview" /><a id="download192" class="download-button" download>Download 192 × 192</a></div><div class="resize-card"><h3>524 × 524</h3><img id="preview524" class="resize-preview" alt="524 by 524 preview" /><a id="download524" class="download-button" download>Download 524 × 524</a></div><div id="customCard" class="resize-card" hidden><h3 id="customTitle">Custom size</h3><img id="previewCustom" class="resize-preview" alt="Custom size preview" /><a id="downloadCustom" class="download-button" download>Download custom size</a></div></div><p class="note">Your image stays on your device. Resizing happens in your browser.</p></div><script>(() => {
+const el=id=>document.getElementById(id);
+const imageInput=el('imageInput'), status=el('status'), resizeResults=el('resizeResults'), fileNameInput=el('fileNameInput');
+const preview192=el('preview192'), preview524=el('preview524'), download192=el('download192'), download524=el('download524');
+const width=el('customWidth'),height=el('customHeight'),lock=el('keepRatio'),resize=el('resizeCustom');
+let currentImage=null, generation=0, customURL=null;
+	let objectURLs = []
+
+	function clearObjectURLs() {
+		objectURLs.forEach((url) => {
+			URL.revokeObjectURL(url)
+		})
+
+		objectURLs = []
+	}
+
+	function getBaseName(fileName) {
+		return String(fileName || "image").replace(/\.[^.]+$/, "")
+	}
+
+	function loadImage(file) {
+		return new Promise((resolve, reject) => {
+			const imageURL = URL.createObjectURL(file)
+			const image = new Image()
+
+			image.onload = function () {
+				URL.revokeObjectURL(imageURL)
+				resolve(image)
+			}
+
+			image.onerror = function () {
+				URL.revokeObjectURL(imageURL)
+				reject(new Error("The image could not be opened."))
+			}
+
+			image.src = imageURL
+		})
+	}
+
+	function canvasToBlob(canvas) {
+		return new Promise((resolve, reject) => {
+			canvas.toBlob(
+				(blob) => {
+					if (!blob) {
+						reject(new Error("The resized image could not be created."))
+						return
+					}
+
+					resolve(blob)
+				},
+				"image/jpeg",
+				0.92,
+			)
+		})
+	}
+
+	async function createSquareImage(image, size) {
+		const canvas = document.createElement("canvas")
+		const context = canvas.getContext("2d")
+
+		canvas.width = size
+		canvas.height = size
+
+		const sourceSize = Math.min(image.naturalWidth, image.naturalHeight)
+
+		const sourceX = (image.naturalWidth - sourceSize) / 2
+
+		const sourceY = (image.naturalHeight - sourceSize) / 2
+
+		context.imageSmoothingEnabled = true
+		context.imageSmoothingQuality = "high"
+
+		context.fillStyle = "#ffffff"
+		context.fillRect(0, 0, canvas.width, canvas.height)
+		context.drawImage(
+			image,
+			sourceX,
+			sourceY,
+			sourceSize,
+			sourceSize,
+			0,
+			0,
+			size,
+			size,
+		)
+
+		return canvasToBlob(canvas)
+	}
+
+	function prepareDownload(blob, previewElement, downloadElement, fileName) {
+		const objectURL = URL.createObjectURL(blob)
+
+		objectURLs.push(objectURL)
+
+		previewElement.src = objectURL
+		downloadElement.href = objectURL
+		downloadElement.download = fileName
+	}
+
+
+const baseName=()=> (fileNameInput.value.trim() || 'image').replace(/\.(jpg|jpeg|png|webp)$/i,'').replace(/[\\/:*?"<>|]/g,'-');
+function updateNames(){
+ download192.download=`${baseName()}-192x192.jpg`; download524.download=`${baseName()}-524x524.jpg`;
+ if(el('downloadCustom').dataset.size) el('downloadCustom').download=`${baseName()}-${el('downloadCustom').dataset.size}.jpg`;
+}
+fileNameInput.addEventListener('input',updateNames);
+function invalidateCustom(){el('customCard').hidden=true;if(customURL){URL.revokeObjectURL(customURL);customURL=null;}}
+function sync(changed){
+ invalidateCustom();
+ if(!currentImage || !lock.checked) return;
+ const ratio=currentImage.naturalWidth/currentImage.naturalHeight;
+ if(changed==='width' && Number(width.value)>0) height.value=Math.max(1,Math.round(Number(width.value)/ratio));
+ if(changed==='height' && Number(height.value)>0) width.value=Math.max(1,Math.round(Number(height.value)*ratio));
+}
+width.addEventListener('input',()=>sync('width'));height.addEventListener('input',()=>sync('height'));lock.addEventListener('change',()=>sync('width'));
+imageInput.addEventListener('change',async()=>{
+ const token=++generation, file=imageInput.files[0];currentImage=null;clearObjectURLs();invalidateCustom();resizeResults.hidden=true;
+ width.disabled=height.disabled=resize.disabled=true; width.value=height.value='';el('originalSize').textContent='Original size: —';
+ if(!file){status.textContent='Choose an image.';return;}
+ status.textContent='Preparing images…';
+ try{
+  const image=await loadImage(file);if(token!==generation)return;
+  currentImage=image;el('originalSize').textContent=`Original size: ${image.naturalWidth} × ${image.naturalHeight} px`;
+  width.value=image.naturalWidth;height.value=image.naturalHeight;fileNameInput.value=getBaseName(file.name);
+  const blobs=await Promise.all([createSquareImage(image,192),createSquareImage(image,524)]);if(token!==generation)return;
+  prepareDownload(blobs[0],preview192,download192,`${baseName()}-192x192.jpg`);
+  prepareDownload(blobs[1],preview524,download524,`${baseName()}-524x524.jpg`);
+  resizeResults.hidden=false;width.disabled=height.disabled=resize.disabled=false;status.textContent='Both preset sizes are ready. You can also enter a custom size.';
+ }catch(error){if(token===generation){currentImage=null;status.textContent='The image could not be opened. Please try a JPG, PNG or WebP image.';}}
+});
+resize.addEventListener('click',async()=>{
+ if(!currentImage)return;
+ const w=Number(width.value),h=Number(height.value);
+ if(!Number.isInteger(w)||!Number.isInteger(h)||w<1||h<1||w>16384||h>16384||w*h>32000000){status.textContent='Enter whole dimensions from 1 to 16384 px, up to 32 million pixels in total.';return;}
+ const token=generation;resize.disabled=true;imageInput.disabled=width.disabled=height.disabled=lock.disabled=true;status.textContent='Resizing…';
+ try{
+  const canvas=document.createElement('canvas');canvas.width=w;canvas.height=h;
+  const ctx=canvas.getContext('2d');ctx.fillStyle='#ffffff';ctx.fillRect(0,0,w,h);ctx.imageSmoothingEnabled=true;ctx.imageSmoothingQuality='high';ctx.drawImage(currentImage,0,0,w,h);
+  const blob=await canvasToBlob(canvas);if(token!==generation)return;invalidateCustom();customURL=URL.createObjectURL(blob);
+  el('previewCustom').src=customURL;el('downloadCustom').href=customURL;el('downloadCustom').dataset.size=`${w}x${h}`;updateNames();el('customTitle').textContent=`${w} × ${h}`;el('customCard').hidden=false;status.textContent='Your custom size is ready.';
+ }catch(error){status.textContent='This size could not be created. Please try smaller dimensions.';}
+ finally{resize.disabled=false;imageInput.disabled=width.disabled=height.disabled=lock.disabled=false;}
+});
+window.addEventListener('beforeunload',()=>{clearObjectURLs();if(customURL)URL.revokeObjectURL(customURL);});
+})();</script>

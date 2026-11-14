@@ -17,7 +17,6 @@ tag: "HealthNutrition"
 reread: "no"
 rating: "5"
 num: "607"
-update: "tobeupdated"
 image: "/assets/new/magic-pill.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "432"
-update: "done"
+ 
 image: "/assets/new/asapscience.jpg"
 ---
 

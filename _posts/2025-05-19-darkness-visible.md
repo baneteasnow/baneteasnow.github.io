@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "497"
-update: "done"
 image: "/assets/new/darkness-visible.jpg"
 ---
 

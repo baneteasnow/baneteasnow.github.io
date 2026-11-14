@@ -1,0 +1,727 @@
+---
+layout: page
+published: true
+title: Typography
+permalink: /typography/
+---
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300..800;1,300..800&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:ital,wght@0,300..900;1,300..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400..700;1,400..700&family=Manrope:wght@300..800&family=Montserrat:ital,wght@0,300..900;1,300..900&family=Nunito+Sans:ital,wght@0,300..900;1,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,300..900;1,300..900&family=Source+Serif+4:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&family=Work+Sans:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+<style>
+.typography-tool {
+  --ink: #393632;
+  --muted: #756459;
+  --line: #E8E0D7;
+  --control: #F3F0EC;
+  max-width: 640px;
+  background: #F8F6F2;
+  margin: 0 auto;
+  padding: 12px 16px 44px;
+  color: var(--ink);
+  font: 18px/1.5 "EB Garamond", Georgia, serif;
+}
+.typography-tool, .typography-tool * { box-sizing: border-box; }
+.typography-tool [hidden] { display: none !important; }
+.typography-tool :focus-visible { outline: 2px solid #806e5e; outline-offset: 3px; }
+.typography-tool .note, .typography-tool .previewbar {
+  color: var(--muted);
+  font-size: 16px;
+  font-style: italic;
+}
+.typography-tool .group, .typography-tool .preview-panel {
+  border-top: 1px solid var(--line);
+  padding: 16px 0 22px;
+  margin: 0;
+  min-width: 0;
+}
+.typography-tool .group h2, .typography-tool #live-heading {
+  margin: 0 0 12px;
+  font: 400 22px/1.2 "EB Garamond", Georgia, serif;
+  color: var(--ink);
+}
+.typography-tool summary { cursor: pointer; color: var(--muted); }
+.typography-tool .more-settings { padding: 0 0 16px; }
+.typography-tool .more-settings summary { width: fit-content; padding: 4px 0; }
+.typography-tool .more-settings fieldset { min-width: 0; margin: 12px 0 0; padding: 0; border: 0; }
+.typography-tool .more-settings fieldset + fieldset { border-top: 1px solid var(--line); }
+.typography-tool .more-settings legend { padding: 0 8px 0 0; }
+.typography-tool .css-export .note { margin: 8px 0 0; }
+.typography-tool .color-settings { margin: 8px 0 14px; }
+.typography-tool .color-settings summary { font-size: 16px; }
+.typography-tool label { display: block; margin: 10px 0 4px; color: var(--muted); font-style: italic; font-size: 16px; }
+.typography-tool button, .typography-tool select, .typography-tool input {
+  font: inherit;
+  color: inherit;
+  max-width: 100%;
+}
+.typography-tool button, .typography-tool select,
+.typography-tool input[type="text"], .typography-tool input[type="color"] {
+  border: 1px solid #cfc5ba;
+  border-radius: 0;
+  background: #fff;
+  padding: 6px 10px;
+  min-height: 44px;
+}
+.typography-tool button { background: var(--control); color: var(--muted); cursor: pointer; }
+.typography-tool button.active { background: var(--muted); color: #fff; border-color: var(--muted); }
+.typography-tool select { display: block; width: 100%; }
+.typography-tool .chips, .typography-tool .modebar, .typography-tool .devicebar, .typography-tool .actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.typography-tool .modebar, .typography-tool .devicebar { margin-bottom: 10px; }
+.typography-tool .devicebar .tag { color: var(--muted); font-style: italic; margin-right: 4px; }
+.typography-tool .styles { margin-top: 10px; }
+.typography-tool .row, .typography-tool .slider { display: flex; align-items: center; gap: 8px; }
+.typography-tool .row > *, .typography-tool .slider input { min-width: 0; flex: 1; }
+.typography-tool .slider input { margin: 0; accent-color: var(--muted); }
+.typography-tool .slider output { min-width: 3.1em; text-align: right; font-variant-numeric: tabular-nums; font-size: 15px; }
+.typography-tool .colors { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px 12px; }
+.typography-tool .background-field { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; }
+.typography-tool .background-field label { margin: 0; }
+.typography-tool .colorbox { display: flex; align-items: center; gap: 6px; }
+.typography-tool .colorbox input[type="color"] { width: 34px; height: 40px; flex: none; padding: 3px; cursor: pointer; }
+.typography-tool .colorbox input[type="text"] { width: 9ch; min-width: 0; font: 13px ui-monospace, monospace; padding: 5px; }
+.typography-tool .background-field input[type="color"] { width: 72px; height: 44px; }
+.typography-tool .background-field input[type="text"] { font-size: 15px; min-height: 44px; padding: 8px; }
+.typography-tool input[aria-invalid="true"] { border-color: #a13322; }
+.typography-tool #hex-help { margin: 8px 0; }
+.typography-tool .contrast { display: flex; flex-wrap: wrap; gap: 2px 14px; margin: 12px 0 16px; color: var(--muted); font-size: 15px; }
+.typography-tool .contrast .low { color: #912f24; }
+.typography-tool .preview { margin: 0 auto; border: 1px solid var(--line); min-width: 0; }
+.typography-tool .device-mobile { max-width: min(390px, 84%); }
+.typography-tool .device-tablet { max-width: min(760px, 94%); }
+.typography-tool .previewbar { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 14px; padding: 8px 12px; background: var(--control); }
+.typography-tool .preview-paper { background: var(--page-bg); color: var(--body-color); overflow-wrap: anywhere; }
+.typography-tool .page { padding: clamp(20px, 4vw, 36px); }
+.typography-tool .device-mobile .page { padding: 22px 16px; }
+.typography-tool .page .overline { color: var(--accent-color); font: 600 12px/1.4 "DM Sans", sans-serif; letter-spacing: .12em; margin: 0 0 16px; }
+.typography-tool .page .editable { white-space: pre-wrap; }
+.typography-tool .page .editable:focus { outline: 1px dashed currentColor; outline-offset: 4px; }
+.typography-tool .page #previewH { margin: 0 0 18px; }
+.typography-tool .page p { margin: 0 0 1em; }
+.typography-tool .page blockquote { margin: 1.2em 0; padding: 0 0 0 14px; border: 0; border-left: 2px solid var(--accent-color); background: none; }
+.typography-tool .page a { color: var(--accent-color); text-decoration: underline; }
+.typography-tool .mocknav { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; align-items: center; border-bottom: 1px solid var(--accent-color); padding: 12px 16px; }
+.typography-tool .mocknav a { color: var(--accent-color); margin-left: 8px; }
+.typography-tool .device-mobile .navlinks { display: none; }
+.typography-tool .mockcard { border: 1px solid var(--accent-color); margin: 16px 0; padding: 16px; }
+.typography-tool .mockcard p { margin: 6px 0; }
+.typography-tool .page .mockbutton { display: inline-block; padding: 6px 12px; margin-top: 6px; background: var(--accent-color); color: var(--button-ink); }
+.typography-tool .bookpage { max-width: 660px; min-height: 590px; margin: auto; }
+.typography-tool .bookfolio { text-align: center; font-size: 14px; margin-top: 45px; }
+.typography-tool .toggle { display: flex; gap: 6px; align-items: center; }
+.typography-tool .toggle input { accent-color: var(--muted); }
+.typography-tool .code { margin: 12px 0 0; padding: 12px; max-height: 300px; overflow: auto; overflow-wrap: anywhere; white-space: pre-wrap; background: var(--control); color: var(--ink); font: 12px/1.5 ui-monospace, monospace; }
+.typography-tool .preview-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  margin-bottom: 12px;
+}
+.typography-tool .preview-heading #live-heading { margin: 0; }
+.typography-tool #reset { background: transparent; border-color: transparent; text-decoration: underline; font-size: 16px; }
+.typography-tool .modebar button, .typography-tool .devicebar button { background: transparent; border-color: transparent; font-size: 16px; }
+.typography-tool .modebar button.active, .typography-tool .devicebar button.active { background: var(--control); border-color: var(--line); color: var(--ink); }
+.typography-tool .palette-import { margin-top: 12px; }
+.typography-tool .palette-import-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.typography-tool #palette-input { flex: 1 1 230px; min-width: 0; }
+.typography-tool #palette-help { margin: 6px 0 0; }
+.typography-tool #palette-help a { color: var(--muted); text-decoration: underline; }
+.typography-tool #palette-status { color: var(--muted); font-size: 16px; }
+.typography-tool .page .editable { min-height: 1em; }
+@media (max-width: 430px) {
+  .typography-tool { padding-inline: 8px; }
+  .typography-tool .colors { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+.typography-tool .css-export button {
+  background: transparent;
+  border-color: transparent;
+  padding-inline: 4px;
+  text-decoration: underline;
+}
+
+/* Warm Editorial interface and reliable disclosure indicators */
+.typography-tool .group h2, .typography-tool #live-heading { color: #756459; }
+.typography-tool details > summary {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; width: 100%; min-height: 44px; padding: 8px 0;
+  list-style: none; cursor: pointer; color: #756459;
+}
+.typography-tool details > summary::-webkit-details-marker { display: none; }
+.typography-tool details > summary::marker { content: ''; }
+.typography-tool details > summary::after {
+  content: ''; display: block; flex: 0 0 9px; width: 9px; height: 9px;
+  border-right: 2px solid currentColor; border-bottom: 2px solid currentColor;
+  transform: rotate(45deg); transition: transform .15s ease; margin: -5px 6px 0 0;
+}
+.typography-tool details[open] > summary::after { transform: rotate(225deg); margin-top: 5px; }
+.typography-tool .more-settings summary { width: 100%; }
+.typography-tool .more-settings, .typography-tool .color-settings,
+.typography-tool .more-settings fieldset, .typography-tool .row,
+.typography-tool .row > div, .typography-tool .slider,
+.typography-tool .preview, .typography-tool .preview-paper,
+.typography-tool .page, .typography-tool .editable { min-width: 0; max-width: 100%; }
+.typography-tool .row > div { flex: 1 1 0; }
+.typography-tool .slider input[type="range"] { width: 100%; min-width: 0; }
+.typography-tool .page .editable { overflow-wrap: anywhere; word-break: normal; }
+.typography-tool .page #previewH { max-width: 100%; }
+@media (max-width: 600px) {
+  .typography-tool { width: 100%; }
+  .typography-tool .more-settings .row { flex-direction: column; align-items: stretch; }
+  .typography-tool .more-settings .row > div { width: 100%; flex: none; }
+  .typography-tool .colors { grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .typography-tool .colorbox input[type="text"] { width: min(9ch,100%); }
+  .typography-tool .preview-paper, .typography-tool .page { overflow-wrap: anywhere; }
+}
+</style>
+
+<div class="typography-tool" id="typography-tool">
+  <section class="group presets">
+<h2>Font presets</h2>
+<div class="chips" id="presets">
+</div>
+</section>
+  <section class="preview-panel" aria-labelledby="live-heading">
+    <div class="preview-heading">
+      <h2 id="live-heading">Live preview</h2>
+      <button type="button" id="reset">Reset to defaults</button>
+    </div>
+    <div class="color-field background-field">
+  <label for="bg">Background</label>
+  <div class="colorbox">
+    <input type="color" id="bg">
+    <input type="text" id="bghex" maxlength="7" spellcheck="false" autocomplete="off" aria-label="Background HEX" >
+  </div>
+</div>
+    <details class="color-settings">
+      <summary>Text colors and palette import</summary>
+      <div class="colors" role="group" aria-label="Text colors">
+        <div class="color-field ">
+  <label for="hc">Heading</label>
+  <div class="colorbox">
+    <input type="color" id="hc">
+    <input type="text" id="hchex" maxlength="7" spellcheck="false" autocomplete="off" aria-label="Heading HEX" aria-describedby="hex-help">
+  </div>
+</div>
+<div class="color-field ">
+  <label for="bc">Body text</label>
+  <div class="colorbox">
+    <input type="color" id="bc">
+    <input type="text" id="bchex" maxlength="7" spellcheck="false" autocomplete="off" aria-label="Body text HEX" aria-describedby="hex-help">
+  </div>
+</div>
+<div class="color-field ">
+  <label for="ac">Accent</label>
+  <div class="colorbox">
+    <input type="color" id="ac">
+    <input type="text" id="achex" maxlength="7" spellcheck="false" autocomplete="off" aria-label="Accent HEX" aria-describedby="hex-help">
+  </div>
+</div>
+      </div>
+      <p class="note" id="hex-help">Enter a 3- or 6-digit HEX code.</p>
+      <div class="palette-import">
+      <label for="palette-input">Import palette</label>
+      <div class="palette-import-row">
+        <input type="text" id="palette-input" autocomplete="off" spellcheck="false" aria-describedby="palette-help palette-status" placeholder="Paste HEX codes or a palette URL">
+        <button type="button" id="apply-palette">Apply palette</button>
+      </div>
+      <p class="note" id="palette-help">Use Copy HEX codes in the <a href="https://www.next52books.com/color-palette-generator/">Color Palette Generator</a>, or copy the palette URL.</p>
+      <div id="palette-status" role="status">
+</div>
+      </div>
+    </details>
+    <div class="modebar" role="group" aria-label="Preview mode">
+<button type="button" data-mode="article" class="active">Article</button>
+<button type="button" data-mode="website">Website</button>
+<button type="button" data-mode="book">Book Page</button>
+</div>
+<div class="devicebar" role="group" aria-label="Preview width"><span class="tag">Width</span>
+<button type="button" data-device="desktop" class="active">Desktop</button>
+<button type="button" data-device="tablet">Tablet</button>
+<button type="button" data-device="mobile">Mobile</button>
+</div>
+<div class="preview device-desktop" id="previewWrap">
+<div class="previewbar"><span id="pairlabel">EB Garamond + DM Sans</span><span>Click the sample text to edit it</span>
+</div>
+<div class="preview-paper" id="paper">
+<div id="siteNav" class="mocknav" hidden><strong>STUDIO / NOTES</strong><span class="navlinks"><a href="#" onclick="return false">Home</a><a href="#" onclick="return false">Journal</a><a href="#" onclick="return false">About</a></span>
+</div>
+<div class="page" id="page">
+<div class="overline" id="overline">
+</div>
+<h2 class="editable" id="previewH" contenteditable="plaintext-only" spellcheck="false">
+</h2>
+<p class="editable" id="previewB" contenteditable="plaintext-only" spellcheck="false">
+</p>
+<blockquote class="editable" id="previewQ" contenteditable="plaintext-only" spellcheck="false">
+</blockquote>
+<div id="modeExtra" class="mode-extra">
+</div>
+</div>
+</div>
+</div>
+    <div class="contrast" id="contrast" role="status" aria-label="Text contrast against the preview background">
+</div>
+    <label class="toggle"><input type="checkbox" id="wide"> Wide text measure</label>
+    <p class="note">Google Fonts load over the internet. Available weights and italics vary by family.</p>
+  </section>
+  <section class="group">
+<h2>Heading</h2>
+<label for="hfont">Font family</label>
+<select id="hfont">
+</select>
+<div class="row">
+<div>
+<label for="hsize">Size</label>
+<div class="slider"><input id="hsize" type="range" min="20" max="100">
+<output id="hsizeOut">
+</output>
+</div>
+</div>
+</div>
+</section>
+  <section class="group">
+<h2>Body text</h2>
+<label for="bfont">Font family</label>
+<select id="bfont">
+</select>
+<label for="bsize">Size</label>
+<div class="slider"><input id="bsize" type="range" min="12" max="30">
+<output id="bsizeOut">
+</output>
+</div>
+</section>
+  <details class="more-settings">
+    <summary>More settings</summary>
+    <fieldset><legend>Heading</legend>
+<label for="hweight">Weight</label>
+<select id="hweight">
+</select>
+<div class="row">
+<div>
+<label for="hline">Line height</label>
+<div class="slider"><input id="hline" type="range" min="0.9" max="1.8" step="0.01">
+<output id="hlineOut">
+</output>
+</div>
+</div>
+<div>
+<label for="hspace">Letter spacing</label>
+<div class="slider"><input id="hspace" type="range" min="-3" max="5" step="0.25">
+<output id="hspaceOut">
+</output>
+</div>
+</div>
+</div>
+<div class="chips styles" role="group" aria-label="Font style">
+<button class="chip" id="hitalic" aria-pressed="false">Italic</button>
+<button class="chip" id="hupper" aria-pressed="false">UPPERCASE</button>
+</div></fieldset>
+    <fieldset><legend>Body text</legend>
+<label for="bweight">Weight</label>
+<select id="bweight">
+</select>
+<div class="row">
+<div>
+<label for="bline">Line height</label>
+<div class="slider"><input id="bline" type="range" min="1" max="2.4" step="0.05">
+<output id="blineOut">
+</output>
+</div>
+</div>
+<div>
+<label for="bspace">Letter spacing</label>
+<div class="slider"><input id="bspace" type="range" min="-1" max="3" step="0.1">
+<output id="bspaceOut">
+</output>
+</div>
+</div>
+</div>
+<div class="chips styles" role="group" aria-label="Font style">
+<button class="chip" id="bitalic" aria-pressed="false">Italic</button>
+<button class="chip" id="bupper" aria-pressed="false">UPPERCASE</button>
+</div></fieldset>
+  </details>
+  <section class="group css-export" aria-label="Export CSS">
+<div class="actions">
+<button class="btn" id="copycss">Copy CSS</button>
+<button class="btn secondary" id="showcss" aria-controls="code" aria-expanded="false">Show CSS</button>
+<button class="btn secondary" id="downloadcss">Download CSS</button>
+</div>
+<p class="note" id="status" role="status">Settings are saved in this browser.</p>
+<pre class="code" id="code" tabindex="0" hidden>
+</pre>
+</section>
+</div>
+<script>
+(() => {
+  'use strict';
+  const fontStylesheet = 'https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300..800;1,300..800&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:ital,wght@0,300..900;1,300..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400..700;1,400..700&family=Manrope:wght@300..800&family=Montserrat:ital,wght@0,300..900;1,300..900&family=Nunito+Sans:ital,wght@0,300..900;1,300..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,300..900;1,300..900&family=Source+Serif+4:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&family=Work+Sans:ital,wght@0,300..900;1,300..900&display=swap';
+  const fonts=['EB Garamond','DM Sans','Inter','Playfair Display','Lora','Libre Baskerville','Source Serif 4','Space Grotesk','Manrope','Montserrat','Nunito Sans','Open Sans','Roboto','Work Sans'];
+const presets=[['Editorial','EB Garamond','DM Sans'],['Modern','Space Grotesk','Inter'],['Literary','Playfair Display','Source Serif 4'],['Classic','Libre Baskerville','Open Sans'],['Warm','Lora','Nunito Sans'],['Minimal','Manrope','DM Sans']];
+const defaults={hfont:'EB Garamond',bfont:'DM Sans',hsize:58,bsize:18,hweight:600,bweight:400,hline:1.12,bline:1.7,hspace:-1,bspace:0,hitalic:false,bitalic:false,hupper:false,bupper:false,bg:'#F8F6F2',hc:'#756459',bc:'#393632',ac:'#756459',htxt:'The art of choosing type',btxt:'Typography gives a page its voice. A thoughtful pairing creates contrast without competition, allowing the heading to establish a mood while the body text remains effortless to read. Try changing the fonts, spacing, weight and colors to find a combination that feels right.',qtxt:'Good typography is not only what we see, but how comfortably we read.',wide:false};
+  const modeExtras={
+ article:`<h3>Reading between the lines</h3>
+<p>Good typography establishes rhythm and hierarchy. A heading invites the reader in; comfortable line lengths and generous spacing make the story easy to follow.</p>
+<p>Try adjusting the text size, weight, and leading. Notice how the same words feel different when the typography changes.</p><a href="#" class="mockbutton" onclick="return false">Keep reading ↗</a>`,
+ website:`<div class="mockcard"><strong>Thoughtfully designed</strong>
+<p>Build a clear visual hierarchy with expressive headings and readable body text.</p><a href="#" class="mockbutton" onclick="return false">Explore more →</a>
+</div>
+<div class="mockcard"><strong>Featured story</strong>
+<p>Typography gives every digital experience its own voice.</p>
+</div>`,
+ book:`<p>There is a particular pleasure in opening a book and finding a page that invites you to stay. The shape of a paragraph, the space between lines, and the quiet of a generous margin all contribute to the experience.</p>
+<p>Typography does not need to call attention to itself. Often its greatest achievement is to disappear into the act of reading.</p>
+<div class="bookfolio">— 27 —</div>`
+};
+
+  const root = document.getElementById('typography-tool');
+  const $ = id => root.querySelector('#' + id);
+  const serifFonts = ['EB Garamond', 'Playfair Display', 'Lora', 'Libre Baskerville', 'Source Serif 4'];
+  const fontFamily = name => `'${name}', ${serifFonts.includes(name) ? 'serif' : 'sans-serif'}`;
+  const weights = {300:'Light', 400:'Regular', 500:'Medium', 600:'Semibold', 700:'Bold', 800:'Extra bold', 900:'Black'};
+  const storageKey = 'n52b-typography';
+  const colors = {bg:'--page-bg', hc:'--heading-color', bc:'--body-color', ac:'--accent-color'};
+  const sliders = ['hsize', 'bsize', 'hline', 'bline', 'hspace', 'bspace'];
+  const fields = ['hfont', 'bfont', 'hweight', 'bweight', ...sliders];
+  const toggles = ['hitalic', 'bitalic', 'hupper', 'bupper'];
+  const editable = {previewH:'htxt', previewB:'btxt', previewQ:'qtxt'};
+  const initial = {...defaults, mode:'article', device:'desktop'};
+  let state = {...initial};
+  let renderedMode;
+
+  for (const id of ['hfont', 'bfont']) {
+    $(id).replaceChildren(...fonts.map(font => new Option(font, font)));
+  }
+  for (const id of ['hweight', 'bweight']) {
+    $(id).replaceChildren(...Object.entries(weights).map(([value, name]) => new Option(value + ' — ' + name, value)));
+  }
+  for (const [index, [name]] of presets.entries()) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'chip';
+    button.dataset.preset = index;
+    button.textContent = name;
+    $('presets').append(button);
+  }
+
+  function parseHex(value, allowShort = false) {
+    const hex = value.trim().replace(/^#/, '');
+    if (/^[a-f0-9]{6}$/i.test(hex)) return '#' + hex.toLowerCase();
+    if (allowShort && /^[a-f0-9]{3}$/i.test(hex)) {
+      return '#' + [...hex.toLowerCase()].map(digit => digit.repeat(2)).join('');
+    }
+    return null;
+  }
+
+  function restore() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey) || localStorage.getItem('typepair-v1') || '{}');
+      if (!saved || typeof saved !== 'object') return;
+      for (const id of fields) {
+        if (!Object.hasOwn(saved, id)) continue;
+        const input = $(id);
+        const value = saved[id];
+        if (input.tagName === 'SELECT' && ![...input.options].some(option => option.value === String(value))) continue;
+        if (sliders.includes(id) && (typeof value !== 'number' || value < +input.min || value > +input.max)) continue;
+        state[id] = typeof initial[id] === 'number' ? Number(value) : value;
+      }
+      for (const key of Object.values(editable)) {
+        if (typeof saved[key] === 'string') state[key] = saved[key];
+      }
+      for (const id of Object.keys(colors)) {
+        if (typeof saved[id] === 'string') state[id] = parseHex(saved[id], true) || initial[id];
+      }
+      for (const id of [...toggles, 'wide']) {
+        if (typeof saved[id] === 'boolean') state[id] = saved[id];
+      }
+      if (Object.hasOwn(modeExtras, saved.mode)) state.mode = saved.mode;
+      if (['desktop', 'tablet', 'mobile'].includes(saved.device)) state.device = saved.device;
+    } catch {
+      $('status').textContent = 'Saved settings could not be loaded.';
+    }
+  }
+
+  function save() {
+    try {
+      localStorage.setItem(storageKey, JSON.stringify(state));
+    } catch {
+      $('status').textContent = 'This browser could not save your settings.';
+    }
+  }
+
+  function luminance(hex) {
+    const channels = [1, 3, 5].map(index => {
+      const channel = parseInt(hex.slice(index, index + 2), 16) / 255;
+      return channel <= 0.04045 ? channel / 12.92 : ((channel + 0.055) / 1.055) ** 2.4;
+    });
+    return 0.2126 * channels[0] + 0.7152 * channels[1] + 0.0722 * channels[2];
+  }
+
+  function contrast(a, b) {
+    const first = luminance(a);
+    const second = luminance(b);
+    return (Math.max(first, second) + 0.05) / (Math.min(first, second) + 0.05);
+  }
+
+  function buttonInk() {
+    return contrast(state.ac, '#ffffff') >= contrast(state.ac, '#000000') ? '#ffffff' : '#000000';
+  }
+
+  function renderContrast() {
+    const checks = [
+      ['Heading', state.hc, state.hsize >= 24 || (state.hsize >= 18.67 && state.hweight >= 700) ? 3 : 4.5],
+      ['Body', state.bc, state.bsize >= 24 || (state.bsize >= 18.67 && state.bweight >= 700) ? 3 : 4.5],
+      ['Accent', state.ac, 4.5]
+    ];
+    const items = checks.map(([label, color, threshold]) => {
+      const ratio = contrast(color, state.bg);
+      const item = document.createElement('span');
+      item.classList.toggle('low', ratio < threshold);
+      item.textContent = `${label} ${ratio.toFixed(2)}:1 · ${ratio >= threshold ? 'AA pass' : 'below AA'}`;
+      return item;
+    });
+    const region = $('contrast');
+    if (region.textContent !== items.map(item => item.textContent).join('')) region.replaceChildren(...items);
+  }
+
+  function typeStyles(prefix) {
+    const heading = prefix === 'h';
+    return {
+      'font-family': fontFamily(state[prefix + 'font']),
+      'font-size': state[prefix + 'size'] + 'px',
+      'font-weight': state[prefix + 'weight'],
+      'font-style': state[prefix + 'italic'] ? 'italic' : 'normal',
+      'text-transform': state[prefix + 'upper'] ? 'uppercase' : 'none',
+      'line-height': state[prefix + 'line'],
+      'letter-spacing': state[prefix + 'space'] + 'px',
+      'color': heading ? state.hc : state.bc,
+      'max-width': state.wide ? 'none' : heading ? '850px' : '70ch'
+    };
+  }
+
+  function applyStyles(element, declarations) {
+    for (const [property, value] of Object.entries(declarations)) element.style.setProperty(property, value);
+  }
+
+  function css() {
+    const rules = {
+      ':root': Object.fromEntries(Object.entries(colors).map(([id, property]) => [property, state[id]])),
+      '.page': {'background-color':'var(--page-bg)', color:'var(--body-color)'},
+      '.heading': typeStyles('h'),
+      '.body-text': typeStyles('b'),
+      '.page a': {color:'var(--accent-color)'},
+      '.page .button': {'background-color':'var(--accent-color)', color:buttonInk()}
+    };
+    return '/* Typography · Next52books */\n' +
+      `@import url("${fontStylesheet}");\n\n` +
+      Object.entries(rules).map(([selector, declarations]) => {
+        const lines = Object.entries(declarations).map(([key, value]) => `  ${key}: ${value};`);
+        return `${selector} {\n${lines.join('\n')}\n}`;
+      }).join('\n\n') + '\n';
+  }
+
+  function setPressed(button, pressed) {
+    button.classList.toggle('active', pressed);
+    button.setAttribute('aria-pressed', String(pressed));
+  }
+
+  function render(force = false) {
+    for (const id of [...fields, ...Object.keys(colors)]) {
+      if (force || document.activeElement !== $(id)) $(id).value = state[id];
+    }
+    for (const id of sliders) {
+      const unit = id.endsWith('size') || id.endsWith('space') ? 'px' : '';
+      $(id + 'Out').textContent = state[id] + unit;
+    }
+    for (const id of toggles) setPressed($(id), state[id]);
+    for (const [id, property] of Object.entries(colors)) {
+      if (force || document.activeElement !== $(id + 'hex')) $(id + 'hex').value = state[id].toUpperCase();
+      $('paper').style.setProperty(property, state[id]);
+    }
+    $('paper').style.setProperty('--button-ink', buttonInk());
+    $('wide').checked = state.wide;
+    $('previewWrap').className = 'preview device-' + state.device;
+    $('siteNav').hidden = state.mode !== 'website';
+    $('page').classList.toggle('bookpage', state.mode === 'book');
+    $('overline').textContent = {article:'', website:'WELCOME TO OUR STUDIO', book:'CHAPTER ONE'}[state.mode];
+    $('overline').hidden = state.mode === 'article';
+    if (renderedMode !== state.mode) {
+      $('modeExtra').innerHTML = modeExtras[state.mode];
+      renderedMode = state.mode;
+    }
+    applyStyles($('previewH'), typeStyles('h'));
+    for (const id of ['previewB', 'previewQ', 'modeExtra', 'siteNav']) {
+      applyStyles($(id), typeStyles('b'));
+    }
+    $('siteNav').style.maxWidth = 'none';
+    for (const [id, key] of Object.entries(editable)) {
+      if (force || (document.activeElement !== $(id) && $(id).textContent !== state[key])) $(id).textContent = state[key];
+    }
+    $('pairlabel').textContent = state.hfont + ' + ' + state.bfont;
+    if (!$('code').hidden) $('code').textContent = css();
+    root.querySelectorAll('[data-preset]').forEach(button => {
+      const [, heading, body] = presets[button.dataset.preset];
+      setPressed(button, heading === state.hfont && body === state.bfont);
+    });
+    for (const key of ['mode', 'device']) {
+      root.querySelectorAll(`[data-${key}]`).forEach(button => setPressed(button, button.dataset[key] === state[key]));
+    }
+    renderContrast();
+    save();
+  }
+
+  for (const id of fields) {
+    $(id).addEventListener('input', event => {
+      const value = event.target.value;
+      state[id] = typeof initial[id] === 'number' ? Number(value) : value;
+      render();
+    });
+  }
+  for (const id of toggles) {
+    $(id).addEventListener('click', () => {
+      state[id] = !state[id];
+      render();
+    });
+  }
+  for (const id of Object.keys(colors)) {
+    const hex = $(id + 'hex');
+    $(id).addEventListener('input', event => {
+      state[id] = event.target.value;
+      hex.removeAttribute('aria-invalid');
+      render();
+    });
+    hex.addEventListener('input', () => {
+      hex.removeAttribute('aria-invalid');
+      const color = parseHex(hex.value);
+      if (color) {
+        state[id] = color;
+        render();
+      }
+    });
+    hex.addEventListener('blur', () => {
+      const color = parseHex(hex.value, true);
+      if (!color) {
+        hex.setAttribute('aria-invalid', 'true');
+        return;
+      }
+      hex.removeAttribute('aria-invalid');
+      state[id] = color;
+      render();
+    });
+    hex.addEventListener('keydown', event => {
+      if (event.key === 'Escape') hex.value = state[id].toUpperCase();
+      if (event.key === 'Enter' || event.key === 'Escape') {
+        event.preventDefault();
+        hex.blur();
+      }
+    });
+  }
+  for (const [id, key] of Object.entries(editable)) {
+    $(id).addEventListener('input', event => {
+      state[key] = event.target.innerText;
+      save();
+    });
+  }
+  const paletteInput = $('palette-input');
+  const paletteStatus = $('palette-status');
+
+  function applyPalette() {
+    const input = paletteInput.value.trim();
+    let entries = input.split(/[,\s]+/);
+    try {
+      const url = new URL(input);
+      entries = (url.searchParams.get('colors') || '').split('-');
+    } catch {
+      // Copied HEX codes are supplied as a list.
+    }
+    const palette = entries.map(entry => parseHex(entry, true));
+    if (palette.length !== 5 || palette.some(color => !color)) {
+      paletteInput.setAttribute('aria-invalid', 'true');
+      paletteStatus.textContent = 'Paste five HEX codes or a palette URL with five colors.';
+      return;
+    }
+
+    // Generator order: Background, Primary, Secondary, Accent, Text.
+    const [background, primary, , , text] = palette;
+    Object.assign(state, {bg:background, hc:text, bc:text, ac:primary});
+    for (const id of Object.keys(colors)) $(id + 'hex').removeAttribute('aria-invalid');
+    paletteInput.removeAttribute('aria-invalid');
+    paletteStatus.textContent = 'Applied background, text and primary color.';
+    render();
+  }
+
+  $('apply-palette').addEventListener('click', applyPalette);
+  paletteInput.addEventListener('input', () => {
+    paletteInput.removeAttribute('aria-invalid');
+    paletteStatus.textContent = '';
+  });
+  paletteInput.addEventListener('keydown', event => {
+    if (event.key === 'Enter') {
+      event.preventDefault();
+      applyPalette();
+    }
+  });
+  $('presets').addEventListener('click', event => {
+    const button = event.target.closest('[data-preset]');
+    if (!button) return;
+    [, state.hfont, state.bfont] = presets[button.dataset.preset];
+    render();
+  });
+  for (const key of ['mode', 'device']) {
+    root.querySelectorAll(`[data-${key}]`).forEach(button => button.addEventListener('click', () => {
+      state[key] = button.dataset[key];
+      render();
+    }));
+  }
+  $('wide').addEventListener('change', event => {
+    state.wide = event.target.checked;
+    render();
+  });
+
+  function showCode(show) {
+    if (show) $('code').textContent = css();
+    $('code').hidden = !show;
+    $('showcss').textContent = show ? 'Hide CSS' : 'Show CSS';
+    $('showcss').setAttribute('aria-expanded', String(show));
+  }
+
+  $('reset').addEventListener('click', () => {
+    state = {...initial};
+    root.querySelectorAll('[aria-invalid]').forEach(input => input.removeAttribute('aria-invalid'));
+    paletteInput.value = '';
+    paletteStatus.textContent = '';
+    showCode(false);
+    $('status').textContent = 'Settings reset.';
+    render(true);
+  });
+  $('showcss').addEventListener('click', () => showCode($('code').hidden));
+  $('copycss').addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(css());
+      $('status').textContent = 'CSS copied.';
+    } catch {
+      showCode(true);
+      $('status').textContent = 'Clipboard unavailable. Select the CSS below or download it.';
+    }
+  });
+  $('downloadcss').addEventListener('click', () => {
+    const url = URL.createObjectURL(new Blob([css()], {type:'text/css'}));
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'typography.css';
+    link.click();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+    $('status').textContent = 'CSS download started.';
+  });
+
+  restore();
+  render();
+
+})();
+</script>

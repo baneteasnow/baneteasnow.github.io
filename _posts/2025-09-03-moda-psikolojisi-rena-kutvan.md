@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "537"
-update: "done"
 image: "/assets/new/moda-psikolojisi-rena-kutvan.jpg"
 ---
 

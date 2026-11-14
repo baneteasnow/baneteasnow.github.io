@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "474"
-update: "done"
+ 
 image: "/assets/new/becoming-myself.jpg"
 ---
 

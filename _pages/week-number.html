@@ -1,36 +1,23 @@
 ---
 layout: page
 title: Week Number Finder
-last_modified_at: 2026-08-01
+last_modified_at: 2026-11-08
 published: true
 ---
 
 <div class="week-page">
-	<section class="date-card">
-		<p>Select a date to get the week number.</p>
-
-		<input
-			type="date"
-			id="datePicker"
-			class="date-input"
-		/>
-	</section>
-
 	<section class="calendar-card">
-		<div
-			class="calendar-header"
-			id="calendarHeader"
-		></div>
+		<nav class="calendar-header" aria-label="Calendar months"><button type="button" id="previousMonth"></button><h2 id="calendarHeader" aria-live="polite"></h2><button type="button" id="nextMonth"></button></nav>
 
 		<div class="calendar-weekdays">
-			<span class="week-heading">.</span>
-			<span>Mon</span>
-			<span>Tue</span>
-			<span>Wed</span>
-			<span>Thu</span>
-			<span>Fri</span>
-			<span>Sat</span>
-			<span>Sun</span>
+			<span class="week-heading">wk</span>
+			<span>M</span>
+			<span>T</span>
+			<span>W</span>
+			<span>T</span>
+			<span>F</span>
+			<span>S</span>
+			<span>S</span>
 		</div>
 
 		<div
@@ -39,7 +26,7 @@ published: true
 		></div>
 	</section>
 
-	<section class="result-card">
+	<section class="result-card" aria-live="polite" aria-atomic="true">
 		<div>
 			<p class="result-label">Selected Date</p>
 
@@ -49,6 +36,7 @@ published: true
 			>
 				—
 			</p>
+			<p class="day-of-year" id="dayOfYear">—</p>
 
 			<p
 				class="selected-day"
@@ -69,427 +57,124 @@ published: true
 			>
 				—
 			</p>
-
-			<p
-				class="day-of-year"
-				id="dayOfYear"
-			>
-				—
-			</p>
 		</div>
 	</section>
 </div>
 
 <style>
-	* {
-		box-sizing: border-box;
-	}
 
-	.week-page {
-		width: 100%;
-		max-width: 640px;
-		margin: 0 auto;
-		padding: 0 16px 40px;
-	}
+.week-page, .week-page * { box-sizing: border-box; }
+.week-page { width:100%; max-width:640px; margin:0 auto; padding:12px 16px 40px; background:#fff; color:#393632; font-family:"EB Garamond",Georgia,serif; line-height:1.5; }
+.week-page button, .week-page input { font:inherit; color:inherit; }
+.week-page .date-card { text-align:center; padding:12px 0 32px; }
+.week-page .date-card label { display:block; margin-bottom:16px; font-size:17px; }
+.week-page .date-input { display:block; width:100%; max-width:300px; min-width:0; margin:auto; padding:10px 14px; border:1px solid #d9d2ca; border-radius:0; background:#fff; text-align:center; }
+.week-page .calendar-card { padding:0; background:#fff; }
+.week-page .calendar-header { display:grid; grid-template-columns:1fr 1.3fr 1fr; align-items:center; gap:8px; margin-bottom:22px; }
+.week-page .calendar-header h2 { margin:0; font:400 23px/1.3 "EB Garamond",Georgia,serif; text-align:center; }
+.week-page .calendar-header button { border:0; padding:10px 0; background:transparent; color:#9A8878; font-size:16px; font-style:italic; cursor:pointer; text-align:left; }
+.week-page .calendar-header button:last-child { text-align:right; }
+.week-page button:hover { color:#55483e; }
+.week-page button:focus-visible, .week-page input:focus-visible { outline:2px solid #9A8878; outline-offset:3px; }
+.week-page .calendar-weekdays, .week-page .calendar-row { display:grid; grid-template-columns:32px repeat(7,minmax(0,1fr)); text-align:center; align-items:center; }
+.week-page .calendar-weekdays { min-height:34px; color:#82786e; font-size:13px; }
+.week-page .week-heading, .week-page .calendar-week-number { color:#9A8878; font-size:12px; font-weight:400; font-style:italic; }
+.week-page .calendar-row { min-height:55px; border-top:1px solid #e5dfd8; }
+.week-page .calendar-row:last-child { border-bottom:1px solid #e5dfd8; }
+.week-page .calendar-row.selected-week { background:#F3F0EC; }
+.week-page .calendar-day { display:flex; align-items:center; justify-content:center; justify-self:center; width:36px; height:36px; padding:0; border:1px solid transparent; border-radius:50%; background:transparent; font-size:17px; font-weight:400; cursor:pointer; }
+.week-page .calendar-day.selected { border-color:#857467; }
+.week-page .calendar-day:hover { background:#ebe6df; }
+.week-page .result-card { display:grid; grid-template-columns:1fr 1px 1fr; align-items:center; gap:24px; margin-top:34px; padding:24px 0; text-align:center; border-top:1px solid #e5dfd8; }
+.week-page .result-card p { margin:0; }
+.week-page .result-label { color:#9A8878; font-size:14px; font-style:italic; }
+.week-page .selected-date { padding-top:9px; font-size:20px; }
+.week-page .selected-day { color:#82786e; font-size:15px; padding-top:4px; }
+.week-page .divider { width:1px; height:75px; background:#e5dfd8; }
+.week-page .week-number { color:#675547; font-size:52px; font-weight:400; line-height:1.2; }
+.week-page .day-of-year { color:#9A8878; font-size:13px; font-style:italic; padding-top:4px; }
+@media(max-width:430px) { .week-page { padding:8px 8px 28px; } .week-page .calendar-weekdays,.week-page .calendar-row { grid-template-columns:24px repeat(7,minmax(0,1fr)); } .week-page .calendar-day { width:30px; height:30px; font-size:16px; } .week-page .calendar-row { min-height:48px; } .week-page .calendar-header h2 { font-size:20px; } .week-page .calendar-header button { font-size:14px; } .week-page .result-card { gap:12px; } .week-page .selected-date { font-size:18px; } }
 
-	.date-card,
-	.calendar-card,
-	.result-card {
-		width: 100%;
-		border: 1px solid #e2e2e2;
-		border-radius: 18px;
-		background: #ffffff;
-		box-shadow: 0 14px 32px rgba(0, 0, 0, 0.06);
-	}
+/* Fine internal rules, with no outer calendar frame. */
+.week-page .calendar-row { position:relative; border-top:0; }
+.week-page .calendar-row:last-child { border-bottom:0; }
+.week-page .calendar-row + .calendar-row::before { content:""; position:absolute; top:0; left:32px; right:0; border-top:1px solid #ded6cc; pointer-events:none; }
+.week-page .calendar-row > :nth-child(n+3) { position:relative; }
+.week-page .calendar-row > :nth-child(n+3)::before { content:""; position:absolute; left:0; top:0; bottom:0; border-left:1px solid #ded6cc; pointer-events:none; }
+.week-page .calendar-cell { display:flex; align-items:center; justify-content:center; align-self:stretch; min-width:0; }
+.week-page .calendar-header button { font-style:normal; font-size:27px; min-height:44px; }
+.week-page .calendar-header { margin-top:12px; }
+@media(max-width:430px) { .week-page .calendar-row + .calendar-row::before { left:24px; } }
 
-	.date-card {
-		padding: 34px 28px;
-		text-align: center;
-	}
-
-	.date-card p {
-		margin: 0 0 24px;
-		font-size: 14px;
-		line-height: 1.5;
-		color: #333333;
-	}
-
-	.date-input {
-		display: block;
-		width: 100%;
-		max-width: 420px;
-		min-width: 0;
-		margin: 0 auto;
-		padding: 12px 14px;
-		border: 1px solid #cfd3da;
-		border-radius: 10px;
-		background: #ffffff;
-		color: #111111;
-		font-family: inherit;
-		font-size: 14px;
-		text-align: center;
-		appearance: auto;
-		-webkit-appearance: auto;
-	}
-
-	.calendar-card {
-		margin-top: 24px;
-		padding: 26px 22px 24px;
-	}
-
-	.calendar-header {
-		margin-bottom: 18px;
-		color: #111111;
-		font-size: 14px;
-		font-weight: 700;
-		text-align: center;
-	}
-
-	.calendar-weekdays,
-	.calendar-grid {
-		display: grid;
-		grid-template-columns: 30px repeat(7, minmax(0, 1fr));
-		column-gap: 6px;
-		text-align: center;
-	}
-
-	.calendar-weekdays {
-		margin-bottom: 10px;
-		color: #777777;
-		font-size: 12px;
-	}
-
-	.calendar-weekdays span {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		min-width: 0;
-	}
-
-	.week-heading {
-		color: #aaaaaa;
-		font-style: italic;
-	}
-
-	.calendar-grid {
-		row-gap: 8px;
-	}
-
-	.calendar-week-number {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 30px;
-		height: 32px;
-		color: #b0b0b0;
-		font-size: 11px;
-		font-style: italic;
-		font-weight: 400;
-	}
-
-	.calendar-day {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 32px;
-		height: 32px;
-		margin: 0 auto;
-		border-radius: 50%;
-		color: #222222;
-		font-size: 13px;
-	}
-
-	.calendar-day.empty {
-		color: transparent;
-		pointer-events: none;
-	}
-
-	.calendar-day.selected {
-		background: #111111;
-		color: #ffffff;
-		font-weight: 700;
-	}
-
-	.result-card {
-		margin-top: 24px;
-		padding: 34px 28px;
-		text-align: center;
-	}
-
-	.result-label {
-		margin: 0 0 8px;
-		color: #333333;
-		font-size: 14px;
-	}
-
-	.selected-date {
-		margin: 0;
-		color: #111111;
-		font-size: 14px;
-		font-weight: 700;
-	}
-
-	.selected-day {
-		margin: 8px 0 0;
-		color: #777777;
-		font-size: 14px;
-	}
-
-	.divider {
-		width: 100%;
-		height: 1px;
-		margin: 28px 0;
-		background: #e2e2e2;
-	}
-
-	.week-number {
-		margin: 0;
-		color: #0b63f6;
-		font-size: 42px;
-		font-weight: 800;
-		line-height: 1;
-	}
-
-	.day-of-year {
-		margin: 8px 0 0;
-		color: #999999;
-		font-size: 12px;
-		font-style: italic;
-	}
-
-	@media (max-width: 430px) {
-		.week-page {
-			padding: 0 12px 36px;
-		}
-
-		.date-card {
-			padding: 30px 18px;
-		}
-
-		.calendar-card {
-			padding: 24px 10px 22px;
-		}
-
-		.calendar-weekdays,
-		.calendar-grid {
-			grid-template-columns: 24px repeat(7, minmax(0, 1fr));
-			column-gap: 2px;
-		}
-
-		.calendar-weekdays {
-			font-size: 11px;
-		}
-
-		.calendar-grid {
-			row-gap: 7px;
-		}
-
-		.calendar-week-number {
-			width: 24px;
-			height: 30px;
-			font-size: 10px;
-		}
-
-		.calendar-day {
-			width: 30px;
-			height: 30px;
-			font-size: 12px;
-		}
-
-		.result-card {
-			padding: 32px 20px;
-		}
-
-		.week-number {
-			font-size: 40px;
-		}
-	}
-
-	@media (max-width: 360px) {
-		.calendar-card {
-			padding-right: 8px;
-			padding-left: 8px;
-		}
-
-		.calendar-weekdays,
-		.calendar-grid {
-			grid-template-columns: 22px repeat(7, minmax(0, 1fr));
-			column-gap: 1px;
-		}
-
-		.calendar-week-number {
-			width: 22px;
-		}
-
-		.calendar-day {
-			width: 28px;
-			height: 28px;
-		}
-	}
+/* Frame the highlighted week across its week-number column too. */
+.week-page .calendar-row.selected-week::before,
+.week-page .calendar-row.selected-week::after { content:""; position:absolute; left:0; right:0; border-top:1px solid #ded6cc; pointer-events:none; }
+.week-page .calendar-row.selected-week::before { top:0; }
+.week-page .calendar-row.selected-week::after { bottom:0; }
+/* The next row shares this boundary; draw it only once. */
+.week-page .calendar-row.selected-week + .calendar-row::before { content:none; }
 </style>
-
 <script>
-	const datePicker = document.getElementById("datePicker")
-	const selectedDateEl = document.getElementById("selectedDate")
-	const selectedDayEl = document.getElementById("selectedDay")
-	const weekNumberEl = document.getElementById("weekNumber")
-	const calendarHeader = document.getElementById("calendarHeader")
-	const calendarGrid = document.getElementById("calendarGrid")
-	const dayOfYearEl = document.getElementById("dayOfYear")
-	function getDayOfYear(date) {
-		const startOfYear = new Date(date.getFullYear(), 0, 1)
 
-		const difference = date - startOfYear
-
-		return Math.floor(difference / 86400000) + 1
-	}
-
-	function getDaysInYear(year) {
-		return new Date(year, 1, 29).getMonth() === 1 ? 366 : 365
-	}
-	function getISOWeekNumber(date) {
-		const d = new Date(
-			Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()),
-		)
-
-		d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7))
-
-		const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1))
-
-		return Math.ceil(((d - yearStart) / 86400000 + 1) / 7)
-	}
-
-	function formatDate(date) {
-		return date.toLocaleDateString("en-US", {
-			year: "numeric",
-			month: "long",
-			day: "numeric",
-		})
-	}
-
-	function formatDay(date) {
-		return date.toLocaleDateString("en-US", {
-			weekday: "long",
-		})
-	}
-
-	function formatMonth(date) {
-		return date.toLocaleDateString("en-US", {
-			month: "long",
-			year: "numeric",
-		})
-	}
-
-	function formatDateForInput(date) {
-		const year = date.getFullYear()
-		const month = String(date.getMonth() + 1).padStart(2, "0")
-		const day = String(date.getDate()).padStart(2, "0")
-
-		return `${year}-${month}-${day}`
-	}
-
-	function datesAreEqual(firstDate, secondDate) {
-		return (
-			firstDate.getFullYear() === secondDate.getFullYear() &&
-			firstDate.getMonth() === secondDate.getMonth() &&
-			firstDate.getDate() === secondDate.getDate()
-		)
-	}
-
-	function renderCalendar(selectedDate) {
-		calendarGrid.innerHTML = ""
-
-		const year = selectedDate.getFullYear()
-		const month = selectedDate.getMonth()
-
-		calendarHeader.textContent = formatMonth(selectedDate)
-
-		const firstDayOfMonth = new Date(year, month, 1)
-		const lastDayOfMonth = new Date(year, month + 1, 0)
-
-		/*
-		 * Takvim Pazartesi günü başlıyor.
-		 * Ayın ilk gününün bulunduğu haftanın Pazartesi gününü buluyoruz.
-		 */
-		const firstDayOffset = (firstDayOfMonth.getDay() + 6) % 7
-
-		const calendarStart = new Date(year, month, 1 - firstDayOffset)
-
-		/*
-		 * Ayın son gününün bulunduğu haftanın Pazar gününü buluyoruz.
-		 */
-		const lastDayOffset = (7 - lastDayOfMonth.getDay()) % 7
-
-		const calendarEnd = new Date(
-			year,
-			month,
-			lastDayOfMonth.getDate() + lastDayOffset,
-		)
-
-		const currentWeekStart = new Date(calendarStart)
-
-		while (currentWeekStart <= calendarEnd) {
-			/*
-			 * Her satır Pazartesi ile başladığı için
-			 * hafta numarasını bu Pazartesi tarihinden hesaplıyoruz.
-			 */
-			const weekNumberElement = document.createElement("span")
-			weekNumberElement.className = "calendar-week-number"
-			weekNumberElement.textContent = getISOWeekNumber(currentWeekStart)
-			weekNumberElement.title = `Week ${getISOWeekNumber(currentWeekStart)}`
-
-			calendarGrid.appendChild(weekNumberElement)
-
-			for (let dayOffset = 0; dayOffset < 7; dayOffset++) {
-				const currentDate = new Date(
-					currentWeekStart.getFullYear(),
-					currentWeekStart.getMonth(),
-					currentWeekStart.getDate() + dayOffset,
-				)
-
-				const dayElement = document.createElement("span")
-				dayElement.className = "calendar-day"
-
-				if (currentDate.getMonth() !== month) {
-					dayElement.classList.add("empty")
-					dayElement.textContent = ""
-				} else {
-					dayElement.textContent = currentDate.getDate()
-
-					if (datesAreEqual(currentDate, selectedDate)) {
-						dayElement.classList.add("selected")
-					}
-				}
-
-				calendarGrid.appendChild(dayElement)
-			}
-
-			currentWeekStart.setDate(currentWeekStart.getDate() + 7)
-		}
-	}
-
-	function updatePage() {
-		const value = datePicker.value
-
-		if (!value) {
-			return
-		}
-
-		const selectedDate = new Date(`${value}T00:00:00`)
-		const weekNumber = getISOWeekNumber(selectedDate)
-		const dayOfYear = getDayOfYear(selectedDate)
-		const daysInYear = getDaysInYear(selectedDate.getFullYear())
-		selectedDateEl.textContent = formatDate(selectedDate)
-		selectedDayEl.textContent = formatDay(selectedDate)
-		weekNumberEl.textContent = weekNumber
-		dayOfYearEl.textContent = `${dayOfYear} / ${daysInYear}`
-		renderCalendar(selectedDate)
-	}
-
-	const today = new Date()
-
-	datePicker.value = formatDateForInput(today)
-	datePicker.addEventListener("change", updatePage)
-
-	updatePage()
+(() => {
+  const el = id => document.getElementById(id);
+  const grid = el('calendarGrid');
+  const previous = el('previousMonth');
+  const next = el('nextMonth');
+  const makeDate = (y,m,d=1) => { const date = new Date(0); date.setFullYear(y,m,d); date.setHours(12,0,0,0); return date; };
+  const utcDay = date => { const d = new Date(0); d.setUTCFullYear(date.getFullYear(),date.getMonth(),date.getDate()); d.setUTCHours(0,0,0,0); return d; };
+  function isoWeek(date) {
+    const d = utcDay(date);
+    d.setUTCDate(d.getUTCDate()+4-(d.getUTCDay() || 7));
+    const start = new Date(d); start.setUTCMonth(0,1);
+    return Math.ceil(((d-start)/86400000+1)/7);
+  }
+  const inputValue = d => `${String(d.getFullYear()).padStart(4,'0')}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+  const monthName = d => d.toLocaleDateString('en-US',{month:'long'});
+  const fullDate = d => d.toLocaleDateString('en-US',{year:'numeric',month:'long',day:'numeric'});
+  let selectedDate = new Date();
+  let displayedMonth = makeDate(selectedDate.getFullYear(),selectedDate.getMonth());
+  function renderCalendar() {
+    const y=displayedMonth.getFullYear(), m=displayedMonth.getMonth();
+    const prev=makeDate(y,m-1), following=makeDate(y,m+1);
+    previous.textContent='<'; next.textContent='>';
+    previous.setAttribute('aria-label',`Show ${monthName(prev)} ${prev.getFullYear()}`);
+    next.setAttribute('aria-label',`Show ${monthName(following)} ${following.getFullYear()}`);
+    el('calendarHeader').textContent=`${monthName(displayedMonth)} ${displayedMonth.getFullYear()}`;
+    grid.replaceChildren();
+    const offset=(displayedMonth.getDay()+6)%7;
+    const last=makeDate(y,m+1,0).getDate();
+    for(let start=1-offset; start<=last; start+=7) {
+      const row=document.createElement('div'); row.className='calendar-row';
+      const monday=makeDate(y,m,start);
+      const sunday=makeDate(y,m,start+6);
+      if(utcDay(selectedDate)>=utcDay(monday) && utcDay(selectedDate)<=utcDay(sunday)) row.classList.add('selected-week');
+      const week=document.createElement('span'); week.className='calendar-week-number';
+      week.textContent=isoWeek(monday); week.setAttribute('aria-label',`ISO week ${isoWeek(monday)}`); row.appendChild(week);
+      for(let i=0;i<7;i++) {
+        const day=start+i;
+        if(day<1 || day>last) { const blank=document.createElement('span'); blank.className='calendar-cell'; blank.setAttribute('aria-hidden','true'); row.appendChild(blank); continue; }
+        const date=makeDate(y,m,day), button=document.createElement('button');
+        button.type='button'; button.className='calendar-day'; button.textContent=day;
+        const chosen=inputValue(date)===inputValue(selectedDate);
+        button.classList.toggle('selected',chosen); button.setAttribute('aria-pressed',String(chosen)); button.setAttribute('aria-label',fullDate(date));
+        button.addEventListener('click',()=>{ selectDate(date); grid.querySelector('[aria-pressed="true"]').focus(); }); const cell=document.createElement('div'); cell.className='calendar-cell'; cell.appendChild(button); row.appendChild(cell);
+      }
+      grid.appendChild(row);
+    }
+  }
+  function selectDate(date) {
+    selectedDate=date; displayedMonth=makeDate(date.getFullYear(),date.getMonth());
+    el('selectedDate').textContent=fullDate(date);
+    el('selectedDay').textContent=date.toLocaleDateString('en-US',{weekday:'long'});
+    el('weekNumber').textContent=isoWeek(date);
+    const ordinal=Math.round((utcDay(date)-utcDay(makeDate(date.getFullYear(),0,1)))/86400000)+1;
+    const total=makeDate(date.getFullYear(),1,29).getMonth()===1?366:365;
+    el('dayOfYear').textContent=`${ordinal} / ${total}`;
+    renderCalendar();
+  }
+  previous.addEventListener('click',()=>{ displayedMonth=makeDate(displayedMonth.getFullYear(),displayedMonth.getMonth()-1); renderCalendar(); });
+  next.addEventListener('click',()=>{ displayedMonth=makeDate(displayedMonth.getFullYear(),displayedMonth.getMonth()+1); renderCalendar(); });
+  selectDate(selectedDate);
+})();
 </script>

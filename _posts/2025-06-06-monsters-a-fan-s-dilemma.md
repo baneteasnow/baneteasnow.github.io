@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "504"
-update: "done"
 image: "/assets/new/monsters-a-fan-s-dilemma.jpg"
 ---
 

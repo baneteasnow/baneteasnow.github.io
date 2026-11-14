@@ -17,7 +17,7 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "1"
 num: "481"
-update: "done"
+ 
 image: "/assets/new/around-the-world-in-80-trains.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "531"
-update: "done"
 image: "/assets/new/giysiler-ne-anlatir.jpg"
 ---
 

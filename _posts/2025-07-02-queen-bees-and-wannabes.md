@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "1"
 num: "511"
-update: "done"
 image: "/assets/new/queen-bees-and-wannabes.jpg"
 ---
 

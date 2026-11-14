@@ -7,13 +7,12 @@ layout: default
 
 <article class="book-review">
 	<div class="post-top-meta">
-		{% assign mes_index = page.date | date: "%-m" | minus: 1 %} {% assign mes =
-		site.data.tr.meses[mes_index] %}
+
 		<a
 			class="post-date-link"
 			href="{{ '/posts.html' | relative_url }}"
 			><time datetime="{{ page.date | date: '%Y-%m-%d' }}"
-				>{{ mes }} {{ page.date | date: "%-d, %Y" }}</time
+				>{{ page.date | date: "%B %-d, %Y" }}</time
 			></a
 		>
 		{% if page.tag and page.tag != "" %}
@@ -103,7 +102,7 @@ layout: default
 	/* Post metadata: quiet, aligned, with clear hierarchy */
 	.book-review .post-top-meta {
 		text-align: right;
-		color: #777;
+		color: #77716C;
 		font-family: "EB Garamond", Georgia, serif;
 		font-size: 12px;
 		font-weight: 400;

@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "5"
 num: "505"
-update: "done"
 image: "/assets/new/kendine-yabanci.jpg"
 ---
 

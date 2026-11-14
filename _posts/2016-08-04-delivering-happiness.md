@@ -17,7 +17,6 @@ reread: "no"
 rating: "4"
 num: "33"
 eng: "Delivering Happiness shares Tony Hsieh’s journey of transforming Zappos by focusing on customer happiness and a strong organizational culture. The book offers an inspiring story of entrepreneurship, leadership, and customer-centric values."
-update: ""
 image: "/assets/old/delivering-happiness.jpg"
 ---
 

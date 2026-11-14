@@ -17,7 +17,7 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "1"
 num: "486"
-update: "done"
+ 
 image: "/assets/new/the-lies-we-tell-ourselves.jpg"
 ---
 

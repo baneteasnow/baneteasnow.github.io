@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "yes"
 rating: "2"
 num: "513"
-update: "done"
 image: "/assets/new/the-collected-schizophrenias.jpg"
 ---
 

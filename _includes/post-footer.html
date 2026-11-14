@@ -67,6 +67,8 @@
   font-size: 14px;
   font-style: italic;
 }
+  .book-details-author-link { color: inherit; text-decoration: none; }
+  .book-details-author-link:hover, .book-details-author-link:focus-visible { text-decoration: underline; text-underline-offset: 2px; }
 </style>
   <h2 class="book-details-heading">Book details</h2>
   <div class="book-details-body">
@@ -78,7 +80,13 @@
     <div class="book-details-info">
       <div class="book-details-title">{{ page.kitap | default: page.title }}</div>
       <div>
-        {% if page.yazar and page.yazar != "" %}{{ page.yazar }}{% endif %}
+        {% if page.yazar and page.yazar != "" %}
+          {% assign authors = page.yazar | split: ',' %}
+          {% for author in authors %}
+            {% assign author_name = author | strip %}
+            {% unless author_name == '' %}<a class="book-details-author-link" href="{{ '/author.html' | relative_url }}?name={{ author_name | url_encode }}">{{ author_name | escape }}</a>{% unless forloop.last %}, {% endunless %}{% endunless %}
+          {% endfor %}
+        {% endif %}
         {% if page.yil and page.yil != "" %} · {{ page.yil }}{% endif %}
         {% if page.sayfa and page.sayfa != "" %} · {{ page.sayfa }} pages{% endif %}
       </div>

@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "3"
 num: "369"
-update: "done"
+ 
 image: "/assets/new/ilimli-vegan.jpg"
 ---
 

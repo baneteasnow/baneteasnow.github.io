@@ -17,7 +17,6 @@ tag: "PersonalGrowthProductivity"
 reread: "no"
 rating: "2"
 num: "518"
-update: "done"
 image: "/assets/new/coffee-self-talk.jpg"
 ---
 

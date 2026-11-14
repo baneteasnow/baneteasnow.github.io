@@ -17,7 +17,6 @@ tag: "PsychologyMentalLife"
 reread: "no"
 rating: "4"
 num: "590"
-update: "tobeupdated"
 image: "/assets/new/all-in-her-head.jpg"
 ---
 

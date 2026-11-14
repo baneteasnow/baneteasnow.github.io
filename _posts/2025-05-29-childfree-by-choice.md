@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "4"
 num: "501"
-update: "done"
 image: "/assets/new/childfree-by-choice.jpg"
 ---
 

@@ -17,7 +17,6 @@ tag: "ScienceDiscovery"
 reread: "no"
 rating: "3"
 num: ""
-update: "tobeupdated"
 image: "/assets/new/guns-germs-and-steel.jpg"
 ---
 

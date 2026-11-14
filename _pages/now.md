@@ -5,7 +5,7 @@ last_modified_at: 2026-10-28
 published: true
 read: 57
 # Kitap sayısını değiştirirsen bu değeri de güncelle.
-book_count: 7
+book_count: 8
 
 # Kapak için isteğe bağlı: cover1: "/assets/now/dosya.jpg"
 # 1
@@ -64,6 +64,14 @@ sayfa7: 480
 format7: reading as a book
 pageread7: 1
 cover7: "/assets/now/a-paradise-built-in-hell.jpg"
+# 8
+booktitle8: "Women Who Think Too Much"
+bookyear8: 2023
+author8: "Susan Nolen-Hoeksema"
+sayfa8: 344
+format8: reading as a book
+pageread8: 1
+cover8: "/assets/now/women-who-think-too-much.jpg"
 ---
 
 {% include now-reading-styles.html %}

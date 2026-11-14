@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "3"
 num: ""
-update: "tobeupdated"
 image: "/assets/new/a-paradise-built-in-hell.jpg"
 ---
 

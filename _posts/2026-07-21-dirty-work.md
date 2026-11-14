@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "no"
 rating: "5"
 num: "597"
-update: "tobeupdated"
 image: "/assets/new/dirty-work.jpg"
 ---
 

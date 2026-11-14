@@ -25,6 +25,30 @@
 	details[open] summary {
 		display: none;
 	}
+
+	/* Homepage archive: quieter links and separators. */
+	details .archive-row .decorated a,
+	details .archive-row .decorated a:hover,
+	details .archive-row .decorated a:focus-visible {
+		text-decoration: none !important;
+		background-image: none !important;
+		border-bottom: 0 !important;
+		font-weight: 400 !important;
+	}
+	details .archive-row .decorated a.active {
+		font-style: normal;
+	}
+	details .archive-row .decorated > span::before,
+	details .archive-row .decorated > span::after {
+		border-bottom: 1px dotted #e8e4df;
+	}
+	details > summary .cat2 {
+		text-decoration: underline !important;
+		text-decoration-color: #9a8878 !important;
+		-webkit-text-decoration-color: #9a8878 !important;
+		text-decoration-thickness: 1px !important;
+		text-underline-offset: 3px;
+	}
 </style>
 
 <details>
@@ -48,13 +72,13 @@
 				font-style: italic;
 			"
 		>
-			{% if month.name == 'January' %} ocak {% elsif month.name == 'February' %}
-			şubat {% elsif month.name == 'March' %} mart {% elsif month.name ==
-			'April' %} nisan {% elsif month.name == 'May' %} mayıs {% elsif month.name
-			== 'June' %} haziran {% elsif month.name == 'July' %} temmuz {% elsif
-			month.name == 'August' %} ağustos {% elsif month.name == 'September' %}
-			eylül {% elsif month.name == 'October' %} ekim {% elsif month.name ==
-			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif %}
+			{% if month.name == 'January' %} jan {% elsif month.name == 'February' %}
+			subat {% elsif month.name == 'March' %} mar {% elsif month.name == 'April'
+			%} apr {% elsif month.name == 'May' %} may {% elsif month.name == 'June'
+			%} jun {% elsif month.name == 'July' %} jul {% elsif month.name ==
+			'August' %} aug {% elsif month.name == 'September' %} sep {% elsif
+			month.name == 'October' %} oct {% elsif month.name == 'November' %} nov {%
+			elsif month.name == 'December' %} dec {% endif %}
 		</span>
 		<br />
 		{% for post in month.items limit:5 %}
@@ -70,7 +94,9 @@
 					href="{{ post.url | relative_url }}"
 					{% if post.url == site.posts.first.url %}
 					class="active"
-					{% endif %}
+					{%
+					endif
+					%}
 					>{{ post.title | downcase }}</a
 				>
 				&nbsp;
@@ -113,13 +139,13 @@
 				font-style: italic;
 			"
 		>
-			{% if month.name == 'January' %} ocak {% elsif month.name == 'February' %}
-			şubat {% elsif month.name == 'March' %} mart {% elsif month.name ==
-			'April' %} nisan {% elsif month.name == 'May' %} mayıs {% elsif month.name
-			== 'June' %} haziran {% elsif month.name == 'July' %} temmuz {% elsif
-			month.name == 'August' %} ağustos {% elsif month.name == 'September' %}
-			eylül {% elsif month.name == 'October' %} ekim {% elsif month.name ==
-			'November' %} kasım {% elsif month.name == 'December' %} aralık {% endif %}
+			{% if month.name == 'January' %} jan {% elsif month.name == 'February' %}
+			feb {% elsif month.name == 'March' %} mar {% elsif month.name == 'April'
+			%} apr {% elsif month.name == 'May' %} may {% elsif month.name == 'June'
+			%} jun {% elsif month.name == 'July' %} jul {% elsif month.name ==
+			'August' %} aug {% elsif month.name == 'September' %} sep {% elsif
+			month.name == 'October' %} oct {% elsif month.name == 'November' %} nov {%
+			elsif month.name == 'December' %} dec {% endif %}
 		</span>
 		<br />
 		{% for post in month.items %}
@@ -135,7 +161,9 @@
 					href="{{ post.url | relative_url }}"
 					{% if post.url == site.posts.first.url %}
 					class="active"
-					{% endif %}
+					{%
+					endif
+					%}
 					>{{ post.title | downcase }}</a
 				>
 				&nbsp;

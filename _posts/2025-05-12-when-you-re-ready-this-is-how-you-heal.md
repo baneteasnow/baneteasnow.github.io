@@ -18,7 +18,7 @@ reread: "no"
 rating: "4"
 num: "494"
 image: "/assets/new/when-you-re-ready-this-is-how-you-heal.jpg"
-update: "done"
+ 
 ---
 
 to be updated

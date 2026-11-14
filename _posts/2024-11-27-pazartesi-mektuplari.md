@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "2"
 num: "452"
-update: "done"
+ 
 image: "/assets/new/pazartesi-mektuplari.jpg"
 ---
 

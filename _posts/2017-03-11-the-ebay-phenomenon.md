@@ -18,6 +18,7 @@ reread: "no"
 rating: "4"
 num: "50"
 update: "updated"
+updated: "yes"
 image: "/assets/old/the-ebay-phenomenon.jpg"
 ---
 

@@ -177,28 +177,17 @@
   font-style: normal;
   font-weight: 600;
 }
-@media (max-width:600px) {
-  .reading-archive {
-    margin: 20px auto 50px;
-  }
-  .reading-archive .ra-goal {
-    gap: 12px;
-  }
+@media (max-width: 600px) {
+  .reading-archive { margin: 20px auto 28px; }
+  .reading-archive .ra-goal { gap: 12px; }
   .reading-archive .ra-book {
-    grid-template-columns: 26px 48px minmax(0,1fr);
-    gap: 10px;
-    padding: 14px 0;
+    grid-template-columns: 24px 48px minmax(0, 1fr);
+    gap: 9px;
+    padding: 16px 0;
   }
-  .reading-archive .ra-cover {
-    width: 48px;
-    height: 72px;
-  }
-  .reading-archive .ra-book-main h2 {
-    font-size: 18px;
-  }
-  .reading-archive .ra-byline {
-    font-size: 14px;
-  }
+  .reading-archive .ra-cover { width: 48px; height: 72px; }
+  .reading-archive .ra-book-main h2 { font-size: 17px; }
+  .reading-archive .ra-byline { font-size: 14px; }
   .reading-archive .ra-month {
     grid-column: 3;
     justify-self: start;
@@ -206,24 +195,6 @@
     font-size: 12px;
     margin-top: -4px;
   }
-  .reading-archive .ra-number {
-    font-size: 11px;
-  }
-}
-@media (max-width: 600px) {
-  .reading-archive {
-    margin: 20px auto 28px;
-  }
-  .reading-archive .ra-book {
-    grid-template-columns: 24px 48px minmax(0,1fr);
-    gap: 9px;
-    padding: 16px 0;
-  }
-  .reading-archive .ra-book-main h2 {
-    font-size: 17px;
-  }
-  .reading-archive .ra-byline {
-    font-size: 14px;
-  }
+  .reading-archive .ra-number { font-size: 11px; }
 }
 </style>

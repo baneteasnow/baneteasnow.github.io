@@ -17,7 +17,6 @@ tag: "ConsumerMarketing"
 reread: "no"
 rating: "3"
 num: "595"
-update: "tobeupdated"
 image: "/assets/new/the-elements-of-choice.jpg"
 ---
 

@@ -14,10 +14,8 @@ last_modified_at: 2024-12-07
 posted: 2015-09-19
 tag: ""
 reread: "no"
-rating: "5"
 num: "16"
 eng: "Contagious: Why Things Catch On explores how products, ideas, and behaviors spread and become popular through six key principles rooted in social psychology."
-update: ""
 image: "/assets/old/contagious.jpg"
 ---
 

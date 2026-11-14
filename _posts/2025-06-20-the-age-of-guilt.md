@@ -17,7 +17,6 @@ tag: "SocietyCulture"
 reread: "yes"
 rating: "2"
 num: "507"
-update: "done"
 image: "/assets/new/the-age-of-guilt.jpg"
 ---
 

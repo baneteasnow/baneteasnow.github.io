@@ -1,0 +1,170 @@
+---
+layout: page
+published: true
+title: Unit Converter
+permalink: /unit-converter/
+---
+
+<style>
+.unit-converter, .unit-converter * { box-sizing: border-box; }
+.unit-converter {
+  --ink: #393632;
+  --muted: #675547;
+  --line: #ded6cc;
+  --control: #f3f0ec;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 12px 16px 44px;
+  color: var(--ink);
+  font: 18px/1.6 "EB Garamond", Georgia, serif;
+}
+.unit-converter .uc-intro, .unit-converter label {
+  color: var(--muted);
+  font-size: 16px;
+  font-style: italic;
+}
+.unit-converter .uc-controls { border-top: 1px solid var(--line); padding-top: 16px; }
+.unit-converter .uc-field { min-width: 0; margin-bottom: 12px; }
+.unit-converter label { display: block; margin-bottom: 4px; }
+.unit-converter input, .unit-converter select, .unit-converter button {
+  min-height: 44px;
+  border: 1px solid #cfc5ba;
+  border-radius: 0;
+  padding: 6px 10px;
+  background: #fff;
+  color: inherit;
+  font: inherit;
+}
+.unit-converter input, .unit-converter select { width: 100%; }
+.unit-converter input[aria-invalid="true"] { border-color: #a13322; }
+.unit-converter button { background: var(--control); color: var(--muted); cursor: pointer; }
+.unit-converter :focus-visible { outline: 2px solid #806e5e; outline-offset: 3px; }
+.unit-converter .uc-units { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 10px; align-items: end; }
+.unit-converter .uc-swap { margin-bottom: 12px; }
+.unit-converter .uc-result { border-block: 1px solid var(--line); margin-top: 12px; padding: 12px 0; }
+.unit-converter output { display: block; font-size: clamp(23px, 6vw, 32px); overflow-wrap: anywhere; font-variant-numeric: tabular-nums; }
+.unit-converter .uc-detail { color: var(--muted); font-size: 16px; overflow-wrap: anywhere; }
+@media (max-width: 430px) {
+  .unit-converter { padding-inline: 8px; }
+  .unit-converter .uc-units { gap: 6px; }
+  .unit-converter select { font-size: 16px; padding-inline: 4px; }
+}
+</style>
+
+<div class="unit-converter" id="unit-converter">
+  <p class="uc-intro">Convert units of length, weight and volume.</p>
+  <div class="uc-controls">
+    <div class="uc-field">
+      <label for="uc-category">Measurement</label>
+      <select id="uc-category">
+        <option value="length">Length</option>
+        <option value="weight">Weight</option>
+        <option value="volume">Volume</option>
+      </select>
+    </div>
+    <div class="uc-field">
+      <label for="uc-amount">Amount</label>
+      <input id="uc-amount" type="text" inputmode="decimal" value="1" autocomplete="off" spellcheck="false">
+    </div>
+    <div class="uc-units">
+      <div class="uc-field">
+        <label for="uc-from">From</label>
+        <select id="uc-from"></select>
+      </div>
+      <button class="uc-swap" id="uc-swap" type="button" aria-label="Swap units" title="Swap units">⇄</button>
+      <div class="uc-field">
+        <label for="uc-to">To</label>
+        <select id="uc-to"></select>
+      </div>
+    </div>
+  </div>
+  <div class="uc-result">
+    <output id="uc-output" for="uc-category uc-amount uc-from uc-to"></output>
+    <div class="uc-detail" id="uc-detail"></div>
+  </div>
+</div>
+
+<script>
+(() => {
+  'use strict';
+
+  // Factors convert to meters, grams or liters.
+  const measurements = {
+    length: {
+      pair: ['m', 'in'],
+      units: {
+        mm: ['Millimeter', 0.001], cm: ['Centimeter', 0.01],
+        m: ['Meter', 1], km: ['Kilometer', 1000],
+        in: ['Inch', 0.0254], ft: ['Foot', 0.3048],
+        yd: ['Yard', 0.9144], mi: ['Mile', 1609.344]
+      }
+    },
+    weight: {
+      pair: ['oz', 'g'],
+      units: {
+        mg: ['Milligram', 0.001], g: ['Gram', 1], kg: ['Kilogram', 1000],
+        oz: ['Ounce', 28.349523125], lb: ['Pound', 453.59237]
+      }
+    },
+    volume: {
+      pair: ['US fl oz', 'mL'],
+      units: {
+        mL: ['Milliliter', 0.001], L: ['Liter', 1],
+        'US fl oz': ['US fluid ounce', 0.0295735295625],
+        'UK fl oz': ['Imperial fluid ounce', 0.0284130625],
+        'US gal': ['US gallon', 3.785411784]
+      }
+    }
+  };
+
+  const $ = id => document.getElementById('uc-' + id);
+  const category = $('category');
+  const amount = $('amount');
+  const from = $('from');
+  const to = $('to');
+  const output = $('output');
+  const detail = $('detail');
+  const normalFormat = new Intl.NumberFormat('en', {useGrouping: false, maximumSignificantDigits: 10});
+  const scientificFormat = new Intl.NumberFormat('en', {notation: 'scientific', maximumSignificantDigits: 10});
+
+  function format(value) {
+    const magnitude = Math.abs(value);
+    return (magnitude > 0 && (magnitude < 0.000001 || magnitude >= 1e12) ? scientificFormat : normalFormat).format(value);
+  }
+
+  function update() {
+    const text = amount.value.trim();
+    const number = /^[+-]?(?:\d+(?:[.,]\d*)?|[.,]\d+)(?:e[+-]?\d+)?$/i.test(text)
+      ? Number(text.replace(',', '.'))
+      : NaN;
+    const units = measurements[category.value].units;
+    const factor = units[from.value][1] / units[to.value][1];
+    const result = number * factor;
+    const invalid = text !== '' && !Number.isFinite(result);
+
+    amount.setAttribute('aria-invalid', String(invalid));
+    output.textContent = !text ? 'Enter an amount.' : invalid ? 'Enter a valid number.' : format(result) + ' ' + to.value;
+    detail.textContent = text && !invalid ? '1 ' + from.value + ' = ' + format(factor) + ' ' + to.value : '';
+  }
+
+  function setUnits() {
+    const {units, pair} = measurements[category.value];
+    for (const select of [from, to]) {
+      select.replaceChildren(...Object.entries(units).map(([symbol, [name]]) => new Option(name + ' (' + symbol + ')', symbol)));
+    }
+    [from.value, to.value] = pair;
+    update();
+  }
+
+  category.addEventListener('change', setUnits);
+  amount.addEventListener('input', update);
+  from.addEventListener('change', update);
+  to.addEventListener('change', update);
+  $('swap').addEventListener('click', () => {
+    [from.value, to.value] = [to.value, from.value];
+    update();
+  });
+
+  setUnits();
+})();
+</script>

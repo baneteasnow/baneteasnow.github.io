@@ -10,13 +10,29 @@
     </main>
 
     <nav class="side-links" aria-label="Quick navigation">
-      <a href="#" class="back-to-top-link" aria-label="Back to top"><span class="desktop-top-label">Back to top ↑</span><span class="mobile-top-label">↑ Top</span></a>
+      {% unless page.url == "/" or page.url == "/index.html" or page.url == "/index/" %}
       <a href="{{ '/' | relative_url }}">Home</a>
+      {% endunless %}
+      {% unless page.url == "/posts" or page.url == "/posts/" or page.url == "/posts.html" %}
       <a href="{{ '/posts.html' | relative_url }}">All Posts</a>
+      {% endunless %}
+      {% unless page.url == "/search" or page.url == "/search/" or page.url == "/search.html" %}
       <a href="{{ '/search.html' | relative_url }}">Search</a>
-      <a href="{{ '/list' | relative_url }}">Tools</a>
+      {% endunless %}
+      {% unless page.url == "/list" or page.url == "/list/" or page.url == "/list.html" or page.url == "/map" or page.url == "/map/" or page.url == "/map.html" %}
+      <a href="{{ '/list' | relative_url }}" class="desktop-tools">Tools</a>
+      {% endunless %}
+      {% unless page.url == "/map" or page.url == "/map/" or page.url == "/map.html" %}
       <a href="{{ '/map' | relative_url }}">More</a>
+      {% endunless %}
+      {% unless page.url == "/" or page.url == "/index.html" or page.url == "/index/" or page.url == "/discover" or page.url == "/discover/" or page.url == "/discover.html" %}
+      <a href="{{ '/discover' | relative_url }}" class="desktop-discover">Discover</a>
+      {% endunless %}
+      {% unless page.url == "/ideas" or page.url == "/ideas/" or page.url == "/ideas.html" %}
+      <a href="{{ '/ideas/' | relative_url }}">_ideas</a>
+      {% endunless %}
       <a href="https://homelibrary.next52books.com/browse/">homelibrary</a>
+      <a href="#" class="back-to-top-link" aria-label="Back to top"><span class="desktop-top-label">Back to top ↑</span><span class="mobile-top-label">↑ Top</span></a>
     </nav>
 
     <style>
@@ -29,15 +45,17 @@
         gap: 5px;
         z-index: 10;
         font-family: 'EB Garamond', Georgia, serif;
-        font-size: 14px;
+        font-size: 16px;
         font-style: italic;
         line-height: 1.4;
       }
       .side-links a { color: #999; text-decoration: none; }
       .side-links .mobile-top-label { display: none; }
+      .side-links .desktop-discover { display: block; }
       .side-links a:hover, .side-links a:focus-visible { color: #555; text-decoration: underline; text-underline-offset: 3px; }
       /* On narrow screens, keep navigation visible without covering the reading column. */
       @media (max-width: 900px) {
+        .side-links .desktop-discover, .side-links .desktop-tools { display: none; }
         .side-links .desktop-top-label { display: none; }
         .side-links .mobile-top-label { display: inline; }
         .side-links {

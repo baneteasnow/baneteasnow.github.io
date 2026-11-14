@@ -17,7 +17,6 @@ tag: "TechnologyTheDigitalWorld"
 reread: "no"
 rating: "3"
 num: ""
-update: "tobeupdated"
 image: "/assets/new/filterworld.jpg"
 ---
 

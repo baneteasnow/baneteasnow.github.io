@@ -17,7 +17,6 @@ tag: "BiographyLifeStories"
 reread: "no"
 rating: "5"
 num: "499"
-update: "done"
 image: "/assets/new/night-falls-fast.jpg"
 ---
 

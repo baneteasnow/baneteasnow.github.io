@@ -18,6 +18,7 @@ reread: "no"
 rating: "2"
 num: "601"
 update: "updated"
+updated: "yes"
 image: "/assets/new/travelers-to-unimaginable-lands.jpg"
 ---
 

@@ -17,7 +17,7 @@ tag: ""
 reread: "no"
 rating: "1"
 num: "448"
-update: "done"
+ 
 image: "/assets/new/once-hayallerim-oldu-sonra-babam.jpg"
 ---
 

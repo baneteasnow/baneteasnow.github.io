@@ -1,0 +1,134 @@
+---
+layout: page
+title: Surprise Me
+permalink: /discover
+---
+
+<style>
+	.surprise-grid {
+		display: grid;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+		gap: 16px;
+		margin: 30px 0 24px;
+	}
+
+	.surprise-book {
+		display: block;
+		aspect-ratio: 1 / 1;
+		overflow: hidden;
+	}
+
+	.surprise-book img {
+		display: block;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	.surprise-actions {
+		text-align: center;
+		margin-top: 24px;
+	}
+
+	.surprise-actions button {
+		background: none;
+		border: none;
+		padding: 0;
+		color: inherit;
+		font: inherit;
+		text-decoration: underline;
+		text-underline-offset: 3px;
+		cursor: pointer;
+	}
+
+	@media (max-width: 480px) {
+		.surprise-grid {
+			gap: 8px;
+		}
+	}
+</style>
+
+<div
+	class="surprise-grid"
+	id="surprise-grid"
+></div>
+
+<div class="surprise-actions">
+	<button
+		type="button"
+		id="surprise-again"
+	>
+		Surprise Me Again ↻
+	</button>
+</div>
+
+<script>
+	;(() => {
+		const grid = document.getElementById("surprise-grid")
+		const button = document.getElementById("surprise-again")
+
+		let books = []
+		let previousUrls = new Set()
+
+		function pickRandomBooks() {
+			if (!books.length) return
+
+			let pool = books.filter((book) => !previousUrls.has(book.url))
+
+			if (pool.length < 3) {
+				pool = [...books]
+			}
+
+			// Fisher-Yates shuffle
+			for (let i = pool.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1))
+				;[pool[i], pool[j]] = [pool[j], pool[i]]
+			}
+
+			const selected = pool.slice(0, 3)
+
+			previousUrls = new Set(selected.map((book) => book.url))
+
+			grid.replaceChildren()
+
+			selected.forEach((book) => {
+				const link = document.createElement("a")
+				link.href = book.url
+				link.className = "surprise-book"
+				link.setAttribute("aria-label", book.book || book.title)
+
+				const img = document.createElement("img")
+				img.src = book.image
+				img.alt = book.book || book.title
+				img.loading = "eager"
+
+				link.appendChild(img)
+				grid.appendChild(link)
+			})
+		}
+
+		async function loadBooks() {
+			try {
+				const response = await fetch("{{ '/search.json' | relative_url }}")
+
+				if (!response.ok) {
+					throw new Error("Could not load books")
+				}
+
+				const data = await response.json()
+
+				books = data.filter((book) => book.image && book.url)
+
+				pickRandomBooks()
+			} catch (error) {
+				grid.textContent = "Unable to load books."
+				button.hidden = true
+				console.error(error)
+			}
+		}
+
+		button.addEventListener("click", pickRandomBooks)
+
+		loadBooks()
+	})()
+</script>

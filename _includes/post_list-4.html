@@ -6,31 +6,7 @@
 {% for month in postsByMonth %}
 
 <em><span style="text-align: right; float: right; color: #777;">
-{% if month.name == 'January' %}
-ocak
-{% elsif month.name == 'February' %}
-şubat
-{% elsif month.name == 'March' %}
-mart
-{% elsif month.name == 'April' %}
-nisan
-{% elsif month.name == 'May' %}
-mayıs
-{% elsif month.name == 'June' %}
-haziran
-{% elsif month.name == 'July' %}
-temmuz
-{% elsif month.name == 'August' %}
-ağustos
-{% elsif month.name == 'September' %}
-eylül
-{% elsif month.name == 'October' %}
-ekim
-{% elsif month.name == 'November' %}
-kasım 
-{% elsif month.name == 'December' %}
-aralık
-{% endif %}
+{{ month.name }}
 </span></em><br />
 {% for post in month.items %}
   <div class="archive-row" style="margin: 1em 0;">
@@ -40,3 +16,8 @@ aralık
 {% endfor %}
 <br />
 {% endfor %}
+
+<style>
+/* Keep the original understated archive typography. */
+.archive-row .decorated a { font-weight: 400 !important; }
+</style>
