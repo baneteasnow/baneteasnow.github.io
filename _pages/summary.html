@@ -18,7 +18,7 @@ title: "tl;dr"
         <div class="bib-description">{{ post.description }}</div>
         <div class="bib-links">
           {% if post.eng and post.eng != '' and post.eng != '-' %}<a href="{{ '/books.html' | relative_url }}#{{ anchor }}">English →</a>{% endif %}
-          {% if post.goodreads and post.goodreads != '' %}<a href="{{ post.goodreads }}" target="_blank" rel="noopener noreferrer nofollow">Goodreads ↗</a>{% endif %}
+          {% if post.goodreads and post.goodreads != '' %}<a href="{{ post.goodreads }}" target="_blank" rel="noopener noreferrer nofollow">Goodreads</a>{% endif %}
         </div>
       </div>
       {% if post.image and post.image != '' %}
