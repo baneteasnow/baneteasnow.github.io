@@ -10,12 +10,12 @@ sayfa: "552"
 goodreads: "https://www.goodreads.com/book/show/58537332-the-myth-of-normal"
 description: ""
 eng: ""
-last_modified_at: 2026-11-30
+last_modified_at: 2026-11-22
 published: true
-posted: 2026-11-30
+posted: 2026-11-22
 tag: "PsychologyMentalLife"
 reread: "no"
-num: "616"
+num: "617"
 image: "/assets/new/the-myth-of-normal.jpg"
 ---
 

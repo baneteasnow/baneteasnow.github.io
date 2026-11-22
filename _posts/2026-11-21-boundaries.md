@@ -10,13 +10,13 @@ sayfa: "312"
 goodreads: "https://www.goodreads.com/book/show/944267.Boundaries"
 description: ""
 eng: ""
-last_modified_at: 2026-11-30
-published: false
-posted: 2026-11-30
+last_modified_at: 2026-11-21
+published: true
+posted: 2026-11-21
 tag: "PsychologyMentalLife"
 reread: "no"
 rating: "3"
-num: ""
+num: "616"
 image: "/assets/new/boundaries.jpg"
 ---
 

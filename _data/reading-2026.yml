@@ -4,6 +4,16 @@ year: 2026
 goal: 70
 books:
 
+  - id: 60
+    month: "Nov"
+    title: "Boundaries"
+    author: "Gabor Mate, Daniel Mate"
+    year: 2019
+    pages: 312
+    format: "book"
+    categories: "PsychologyMentalLife"
+    cover: "/assets/new/boundaries.jpg"
+
   - id: 59
     month: "Nov"
     title: "The Myth of Normal"

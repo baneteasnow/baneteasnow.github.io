@@ -1,11 +1,11 @@
 ---
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-22
 published: true
-read: 59
+read: 60
 # Kitap sayısını değiştirirsen bu değeri de güncelle.
-book_count: 6
+book_count: 5
 
 # Kapak için isteğe bağlı: cover1: "/assets/now/dosya.jpg"
 # 1
@@ -48,15 +48,6 @@ sayfa5: 480
 format5: reading as a book
 pageread5: 1
 cover5: "/assets/now/a-paradise-built-in-hell.jpg"
-# 6
-booktitle6: "Boundaries"
-bookyear6: 2019
-author6: "John Townsend, Henry Cloud"
-sayfa6: 312
-format6: reading as a book
-pageread6: 1
-cover6: "/assets/now/boundaries.jpg"
-
 ---
 
 {% include now-reading-styles.html %}
