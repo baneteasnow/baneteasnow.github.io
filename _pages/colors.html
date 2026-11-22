@@ -1,0 +1,173 @@
+---
+layout: page
+published: true
+title: "Color Palette Generator"
+permalink: /colors/
+---
+
+<style>
+.palette-app { max-width: 90rem; margin: auto; padding: clamp(1rem, 4vw, 3.5rem); color: #251b29; font-family: system-ui, sans-serif; }
+.palette-app * { box-sizing: border-box; }
+.palette-app .palette-toolbar, .palette-app .actions { display: flex; flex-wrap: wrap; align-items: end; gap: .5rem; }
+.palette-app .palette-toolbar { justify-content: space-between; margin-bottom: 1.25rem; gap: 1rem; }
+.palette-app button, .palette-app input { font: inherit; min-height: 44px; border: 1px solid #826f86; background: #fff; color: #251b29; border-radius: .65rem; padding: .45rem .7rem; }
+.palette-app button { cursor: pointer; }
+.palette-app #generate, .palette-app .lock[aria-pressed="true"] { color: #fff; background: #291b30; border-color: #291b30; }
+.palette-app .swatches { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); border-radius: 1.2rem; overflow: hidden; }
+.palette-app .swatch { min-height: clamp(18rem, 58svh, 36rem); padding: .7rem; display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start; gap: .65rem; }
+.palette-app .hex-row { display: flex; flex-wrap: wrap; gap: .3rem; max-width: 100%; }
+.palette-app .hex { width: 7.2em; max-width: 100%; font-family: ui-monospace, monospace; }
+.palette-app #feedback { min-height: 1.5em; }
+.palette-app #manual-copy { width: 100%; }
+@media (max-width: 760px) {
+  .palette-app .swatches { grid-template-columns: 1fr; }
+  .palette-app .swatch { min-height: 6rem; flex-direction: row; align-items: center; flex-wrap: wrap; }
+}
+</style>
+<div class="palette-app">
+  <div class="palette-toolbar">
+    <div class="actions">
+      <button id="share" type="button">Copy palette link</button>
+      <button id="generate" type="button">Generate palette</button>
+    </div>
+  </div>
+  <div id="swatches" class="swatches"></div>
+  <p id="feedback" role="status"></p>
+  <input id="manual-copy" aria-label="Copy this text manually" readonly hidden>
+  <template id="swatch-template">
+    <div class="swatch">
+      <button class="lock" type="button" aria-pressed="false">Lock</button>
+      <div class="hex-row">
+        <input class="hex" type="text" autocomplete="off" spellcheck="false" maxlength="7">
+        <button class="copy" type="button">Copy</button>
+      </div>
+    </div>
+  </template>
+</div>
+<script>
+(() => {
+  const app = document.querySelector('.palette-app');
+  const feedback = app.querySelector('#feedback');
+  const manualCopy = app.querySelector('#manual-copy');
+  const original = ['E6E3EE', '844B8B', 'C295B9', 'C7427B', '201112'];
+  const hexPattern = /^[0-9a-f]{6}$/i;
+  const locked = original.map(() => false);
+
+  function readColors() {
+    const colors = new URL(location.href).searchParams.get('colors')?.split('-');
+    if (colors?.length === original.length && colors.every(color => hexPattern.test(color))) {
+      return colors.map(color => color.toUpperCase());
+    }
+    return [...original];
+  }
+
+  let colors = readColors();
+
+  function paletteUrl() {
+    const url = new URL(location.href);
+    url.searchParams.set('colors', colors.join('-'));
+    return url;
+  }
+
+  function syncUrl() {
+    try { history.replaceState(history.state, '', paletteUrl()); } catch {}
+  }
+
+  function announce(message) {
+    manualCopy.hidden = true;
+    feedback.textContent = message;
+  }
+
+  async function copyText(value, message) {
+    try {
+      await navigator.clipboard.writeText(value);
+      announce(message);
+    } catch {
+      feedback.textContent = 'Select and copy the text below.';
+      manualCopy.hidden = false;
+      manualCopy.value = value;
+      manualCopy.focus();
+      manualCopy.select();
+    }
+  }
+
+  const swatches = colors.map((_, index) => {
+    const card = app.querySelector('#swatch-template').content.firstElementChild.cloneNode(true);
+    const hex = card.querySelector('.hex');
+    const lock = card.querySelector('.lock');
+    const copy = card.querySelector('.copy');
+    hex.setAttribute('aria-label', `Color ${index + 1} HEX`);
+    lock.setAttribute('aria-label', `Lock color ${index + 1}`);
+    copy.setAttribute('aria-label', `Copy color ${index + 1}`);
+
+    function render() {
+      hex.value = '#' + colors[index];
+      card.style.backgroundColor = hex.value;
+      hex.removeAttribute('aria-invalid');
+    }
+
+    function edit() {
+      const value = hex.value.trim().replace(/^#/, '');
+      if (!hexPattern.test(value)) {
+        hex.setAttribute('aria-invalid', 'true');
+        announce('Enter a six-digit HEX code, such as #E6E3EE.');
+        return false;
+      }
+      colors[index] = value.toUpperCase();
+      render();
+      syncUrl();
+      announce(`Color ${index + 1} updated.`);
+      return true;
+    }
+
+    hex.addEventListener('change', edit);
+    hex.addEventListener('keydown', event => {
+      if (event.key === 'Enter') edit();
+      if (event.key === 'Escape') {
+        render();
+        announce('Edit canceled.');
+      }
+    });
+    lock.addEventListener('click', () => {
+      locked[index] = !locked[index];
+      lock.setAttribute('aria-pressed', locked[index]);
+      lock.textContent = locked[index] ? 'Locked' : 'Lock';
+    });
+    copy.addEventListener('click', () => copyText('#' + colors[index], `Copied #${colors[index]}.`));
+    app.querySelector('#swatches').append(card);
+    render();
+    return render;
+  });
+
+  function randomColor() {
+    return Math.floor(Math.random() * 0x1000000).toString(16).padStart(6, '0').toUpperCase();
+  }
+
+  app.querySelector('#generate').addEventListener('click', () => {
+    if (locked.every(Boolean)) {
+      announce('Unlock a color to generate a new palette.');
+      return;
+    }
+    const used = new Set(colors);
+    colors = colors.map((color, index) => {
+      if (locked[index]) return color;
+      let next = randomColor();
+      while (used.has(next)) next = randomColor();
+      used.add(next);
+      return next;
+    });
+    swatches.forEach(render => render());
+    syncUrl();
+    announce('New palette generated.');
+  });
+
+  app.querySelector('#share').addEventListener('click', () => {
+    copyText(paletteUrl().href, 'Palette link copied.');
+  });
+
+  window.addEventListener('popstate', () => {
+    colors = readColors();
+    swatches.forEach(render => render());
+  });
+})();
+</script>
