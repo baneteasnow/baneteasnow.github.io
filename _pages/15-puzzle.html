@@ -1,0 +1,121 @@
+---
+layout: page
+published: true
+title: "15 Puzzle"
+permalink: /15-puzzle/
+---
+
+<style>
+.n52-puzzle { width: min(100%, 24rem); margin: 1.25rem auto; color: #302a24; font: 100% system-ui, sans-serif; }
+.n52-puzzle p { line-height: 1.5; }
+.n52-puzzle .toolbar { display: flex; justify-content: space-between; align-items: center; margin: 1.25rem 0 .65rem; }
+.n52-puzzle button { font: inherit; cursor: pointer; color: inherit; touch-action: manipulation; }
+.n52-puzzle #puzzle-new { background: transparent; border: 1px solid #a99d8c; border-radius: .35rem; min-height: 44px; padding: .35rem .75rem; }
+.n52-puzzle #puzzle-board { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .35rem; border-radius: .7rem; padding: .45rem; background: #e3dbcd; }
+.n52-puzzle .tile, .n52-puzzle .empty { aspect-ratio: 1; min-width: 0; border-radius: .35rem; }
+.n52-puzzle .tile { border: 1px solid #bcb9a6; background: #f9f6ec; font: 600 clamp(1.1rem, 6vw, 2rem) system-ui, sans-serif; }
+.n52-puzzle .tile.movable { background: #e1ebdc; border-color: #a5b39c; color: #294b3e; }
+.n52-puzzle .empty { background: #cec3b1; }
+.n52-puzzle button:focus-visible, .n52-puzzle #puzzle-board:focus-visible { outline: 3px solid #42634e; outline-offset: 2px; }
+.n52-puzzle #puzzle-status { min-height: 1.5em; }
+</style>
+
+<div class="n52-puzzle" lang="en">
+  <p id="puzzle-instructions">Slide tiles into the empty space to put 1 through 15 in order, with the empty space at the bottom right.</p>
+  <div class="toolbar"><span>Moves <strong id="puzzle-moves">0</strong></span><button id="puzzle-new" type="button">New game</button></div>
+  <div id="puzzle-board" role="group" aria-label="Puzzle board" aria-describedby="puzzle-instructions" tabindex="0"></div>
+  <p id="puzzle-status" role="status"></p>
+</div>
+<script>
+(() => {
+  const size = 4;
+  const goal = Array.from({ length: size ** 2 }, (_, index) => (index + 1) % size ** 2);
+  const board = document.querySelector('#puzzle-board');
+  const counter = document.querySelector('#puzzle-moves');
+  const status = document.querySelector('#puzzle-status');
+  const tiles = goal.map(value => {
+    const element = document.createElement(value ? 'button' : 'span');
+    element.className = value ? 'tile' : 'empty';
+    if (value) {
+      element.type = 'button';
+      element.textContent = value;
+      element.addEventListener('click', () => move(state.indexOf(value)));
+    } else {
+      element.setAttribute('aria-label', 'Empty space');
+    }
+    return element;
+  });
+  let state;
+  let moves;
+
+  function neighbors(index) {
+    const row = Math.floor(index / size);
+    const column = index % size;
+    return [row > 0 ? index - size : -1, row < size - 1 ? index + size : -1,
+      column > 0 ? index - 1 : -1, column < size - 1 ? index + 1 : -1]
+      .filter(position => position >= 0);
+  }
+
+  function swap(cells, first, second) {
+    [cells[first], cells[second]] = [cells[second], cells[first]];
+  }
+
+  function solved(cells) {
+    return cells.every((value, index) => value === goal[index]);
+  }
+
+  function shuffle() {
+    const cells = [...goal];
+    let empty = cells.indexOf(0);
+    let previous = -1;
+    for (let turn = 0; turn < 90; turn++) {
+      const options = neighbors(empty).filter(index => index !== previous);
+      const next = options[Math.floor(Math.random() * options.length)];
+      swap(cells, empty, next);
+      previous = empty;
+      empty = next;
+    }
+    if (solved(cells)) swap(cells, empty, neighbors(empty)[0]);
+    return cells;
+  }
+
+  function render(focusedTile) {
+    const movable = solved(state) ? [] : neighbors(state.indexOf(0));
+    const elements = state.map((value, index) => {
+      const tile = tiles[goal.indexOf(value)];
+      tile.classList.toggle('movable', movable.includes(index));
+      return tile;
+    });
+    board.replaceChildren(...elements);
+    counter.textContent = moves;
+    focusedTile?.focus();
+  }
+
+  function move(index) {
+    const empty = state.indexOf(0);
+    if (solved(state) || !neighbors(empty).includes(index)) return;
+    const focusedTile = board.contains(document.activeElement) && document.activeElement !== board
+      ? document.activeElement : null;
+    swap(state, index, empty);
+    moves++;
+    status.textContent = solved(state) ? `Solved in ${moves} ${moves === 1 ? 'move' : 'moves'}!` : '';
+    render(focusedTile);
+  }
+
+  function newGame() {
+    state = shuffle();
+    moves = 0;
+    status.textContent = '';
+    render();
+  }
+
+  board.addEventListener('keydown', event => {
+    const arrows = { ArrowUp: size, ArrowDown: -size, ArrowLeft: 1, ArrowRight: -1 };
+    if (!Object.hasOwn(arrows, event.key)) return;
+    event.preventDefault();
+    move(state.indexOf(0) + arrows[event.key]);
+  });
+  document.querySelector('#puzzle-new').addEventListener('click', newGame);
+  newGame();
+})();
+</script>
