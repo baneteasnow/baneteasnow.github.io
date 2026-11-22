@@ -1,0 +1,140 @@
+---
+layout: page
+published: true
+title: "Sudoku"
+permalink: /sudoku/
+---
+
+<style>
+.n52-sudoku { max-width: 29rem; margin: 1.25rem auto; color: #302a24; }
+.n52-sudoku * { box-sizing: border-box; }
+.n52-sudoku .board { display: grid; grid-template-columns: repeat(9, minmax(0, 1fr)); border: 2px solid #61564b; }
+.n52-sudoku .cell { display: block; width: 100%; min-width: 0; aspect-ratio: 1; margin: 0; padding: 0; border: 0; border-right: 1px solid #ded7cf; border-bottom: 1px solid #ded7cf; border-radius: 0; background: #fffdf9; color: #38594b; text-align: center; font: 500 clamp(16px, 4vw, 22px) system-ui, sans-serif; }
+.n52-sudoku .cell.fixed { background: #f1ece4; color: #302a24; font-weight: 750; }
+.n52-sudoku .cell:nth-child(3n) { border-right: 2px solid #61564b; }
+.n52-sudoku .cell:nth-child(9n) { border-right: 0; }
+.n52-sudoku .cell:nth-child(n+19):nth-child(-n+27),
+.n52-sudoku .cell:nth-child(n+46):nth-child(-n+54) { border-bottom: 2px solid #61564b; }
+.n52-sudoku .cell:nth-child(n+73) { border-bottom: 0; }
+.n52-sudoku .cell:focus, .n52-sudoku .cell.selected { outline: 2px solid #466957; outline-offset: -2px; }
+.n52-sudoku .cell[aria-invalid="true"] { background: #f9ded8; color: #862d25; }
+.n52-sudoku .digits { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .35rem; margin-top: .75rem; }
+.n52-sudoku .actions { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .85rem; }
+.n52-sudoku button { cursor: pointer; background: #f1ece4; color: #302a24; border: 1px solid #b6a99b; border-radius: .35rem; min-height: 44px; font: inherit; padding: .25rem .5rem; }
+.n52-sudoku button[data-check] { background: #38594b; border-color: #38594b; color: white; }
+.n52-sudoku [role="status"] { min-height: 1.5em; margin: .6rem 0 0; }
+</style>
+
+<div class="n52-sudoku" lang="en">
+  <p id="sudoku-help">Place each digit from 1 to 9 exactly once in every row, column, and 3×3 box.</p>
+  <div class="board" role="group" aria-label="Sudoku board" aria-describedby="sudoku-help"></div>
+  <div class="digits" role="group" aria-label="Number pad"></div>
+  <div class="actions">
+    <button type="button" data-check>Check</button>
+    <button type="button" data-reset>Reset</button>
+  </div>
+  <p role="status"></p>
+</div>
+
+<script>
+(() => {
+  const puzzle = '003020600900305001001806400008102900700000008006708200002609500800203009005010300';
+  const solution = '483921657967345821251876493548132976729564138136798245372689514814253769695417382';
+  const app = document.querySelector('.n52-sudoku');
+  const board = app.querySelector('.board');
+  const digits = app.querySelector('.digits');
+  const status = app.querySelector('[role="status"]');
+  let selected = null;
+
+  function clearFeedback() {
+    status.textContent = '';
+    for (const cell of cells) cell.removeAttribute('aria-invalid');
+  }
+
+  function select(cell) {
+    selected?.classList.remove('selected');
+    selected = cell;
+    cell.classList.add('selected');
+  }
+
+  const cells = Array.from(puzzle, (digit, index) => {
+    const cell = document.createElement('input');
+    cell.className = 'cell';
+    cell.type = 'text';
+    cell.inputMode = 'none';
+    cell.autocomplete = 'off';
+    cell.maxLength = 1;
+    cell.setAttribute('aria-label', `Row ${Math.floor(index / 9) + 1}, column ${index % 9 + 1}`);
+    if (digit !== '0') {
+      cell.value = digit;
+      cell.readOnly = true;
+      cell.classList.add('fixed');
+    }
+    cell.addEventListener('focus', () => {
+      select(cell);
+      if (!cell.readOnly) cell.select();
+    });
+    cell.addEventListener('input', () => {
+      cell.value = cell.value.replace(/[^1-9]/g, '');
+      clearFeedback();
+    });
+    cell.addEventListener('keydown', event => {
+      const offsets = { ArrowUp: -9, ArrowDown: 9, ArrowLeft: -1, ArrowRight: 1 };
+      if (Object.hasOwn(offsets, event.key)) {
+        event.preventDefault();
+        if (event.key === 'ArrowLeft' && index % 9 === 0) return;
+        if (event.key === 'ArrowRight' && index % 9 === 8) return;
+        cells[index + offsets[event.key]]?.focus();
+      } else if (!cell.readOnly && /^[1-9]$/.test(event.key) && !event.metaKey && !event.ctrlKey && !event.altKey) {
+        event.preventDefault();
+        cell.value = event.key;
+        clearFeedback();
+      }
+    });
+    board.append(cell);
+    return cell;
+  });
+
+  for (const value of ['1', '2', '3', '4', '5', '6', '7', '8', '9', '']) {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.textContent = value || 'Erase';
+    button.addEventListener('click', () => {
+      if (!selected || selected.readOnly) {
+        status.textContent = 'Select an editable cell first.';
+        return;
+      }
+      selected.value = value;
+      clearFeedback();
+      selected.focus();
+    });
+    digits.append(button);
+  }
+
+  app.querySelector('[data-check]').addEventListener('click', () => {
+    let errors = 0;
+    let blanks = 0;
+    cells.forEach((cell, index) => {
+      const wrong = cell.value !== '' && cell.value !== solution[index];
+      if (!cell.value) blanks++;
+      if (wrong) {
+        errors++;
+        cell.setAttribute('aria-invalid', 'true');
+      } else {
+        cell.removeAttribute('aria-invalid');
+      }
+    });
+    if (errors) status.textContent = `Check ${errors} highlighted ${errors === 1 ? 'cell' : 'cells'}.`;
+    else if (blanks) status.textContent = `All entries are correct so far. ${blanks} empty ${blanks === 1 ? 'cell' : 'cells'} left.`;
+    else status.textContent = 'You solved the Sudoku!';
+  });
+
+  app.querySelector('[data-reset]').addEventListener('click', () => {
+    for (const cell of cells) {
+      if (!cell.readOnly) cell.value = '';
+    }
+    clearFeedback();
+    status.textContent = 'Board reset.';
+  });
+})();
+</script>
