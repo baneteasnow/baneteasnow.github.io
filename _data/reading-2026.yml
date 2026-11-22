@@ -3,6 +3,17 @@
 year: 2026
 goal: 70
 books:
+
+  - id: 59
+    month: "Nov"
+    title: "The Myth of Normal"
+    author: "Gabor Mate, Daniel Mate"
+    year: 2023
+    pages: 552
+    format: "book"
+    categories: "PsychologyMentalLife"
+    cover: "/assets/new/the-myth-of-normal.jpg"
+
   - id: 58
     month: "Nov"
     title: "Women Who Think Too Much"

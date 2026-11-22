@@ -11,11 +11,11 @@ goodreads: "https://www.goodreads.com/book/show/58537332-the-myth-of-normal"
 description: ""
 eng: ""
 last_modified_at: 2026-11-30
-published: false
+published: true
 posted: 2026-11-30
 tag: "PsychologyMentalLife"
 reread: "no"
-num: ""
+num: "616"
 image: "/assets/new/the-myth-of-normal.jpg"
 ---
 
