@@ -1,0 +1,124 @@
+---
+layout: page
+published: true
+title: "Big Clock"
+permalink: /big-clock/
+---
+
+<style>
+.n52-big-clock { color-scheme: dark; --bg: #101517; --ink: #ecf9ef; --muted: #a7bbb1; --line: #63796f; }
+.n52-big-clock[data-theme="light"] { color-scheme: light; --bg: #f3f7ec; --ink: #1a3026; --muted: #476353; --line: #688775; }
+.n52-big-clock * { box-sizing: border-box; }
+.n52-big-clock { display: grid; align-content: center; justify-items: center; padding: 1.25rem; text-align: center; }
+.n52-big-clock header, .n52-big-clock #week { color: var(--muted); letter-spacing: .14em; text-transform: uppercase; }
+.n52-big-clock .face { margin-top: 1rem; }
+.n52-big-clock #time { display: block; font-size: clamp(2.5rem, 15vw, 14rem); line-height: 1; font-weight: 650; letter-spacing: -.075em; font-variant-numeric: tabular-nums; }
+.n52-big-clock #period { font-size: 1rem; letter-spacing: .15em; }
+.n52-big-clock #date { margin: 1.25rem 0 .35rem; font-size: clamp(1.1rem, 3vw, 2rem); }
+.n52-big-clock #week { margin: 0 0 2rem; font-size: .85rem; }
+.n52-big-clock .controls { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; }
+.n52-big-clock button { font: inherit; color: inherit; background: transparent; border: 1px solid var(--line); border-radius: 2rem; min-height: 44px; padding: .5rem 1rem; cursor: pointer; }
+.n52-big-clock button:hover, .n52-big-clock button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.n52-big-clock #notice { min-height: 1.5em; color: var(--muted); }
+.n52-big-clock { background: var(--bg); color: var(--ink); font-family: system-ui, sans-serif; border-radius: 1rem; }
+.n52-big-clock #time { font-size: clamp(2rem, 10vw, 8rem); }
+.n52-big-clock:fullscreen { border-radius: 0; }
+.n52-big-clock:fullscreen #time { font-size: clamp(3rem, 16vw, 16rem); }
+</style>
+
+<div class="n52-big-clock" lang="en">
+  <div class="face"><time id="time"></time><span id="period"></span></div>
+  <p id="date"></p>
+  <p id="week"></p>
+  <div class="controls">
+    <button id="format" type="button" aria-pressed="false">12-hour</button>
+    <button id="theme" type="button">Light theme</button>
+    <button id="fullscreen" type="button" aria-pressed="false">Fullscreen</button>
+  </div>
+  <p id="notice" role="status"></p>
+</div>
+<script>
+(() => {
+const app = document.querySelector('.n52-big-clock');
+const byId = id => app.querySelector('#' + id);
+const format = byId('format');
+const theme = byId('theme');
+const fullscreen = byId('fullscreen');
+const root = app;
+
+function read(key) {
+  try { return localStorage.getItem(key); } catch { return null; }
+}
+
+function save(key, value) {
+  try { localStorage.setItem(key, value); } catch {}
+}
+
+let twelveHour = read('big-clock-format') === '12';
+root.dataset.theme = read('big-clock-theme') ||
+  (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+
+function isoWeek(localDate) {
+  const thursday = new Date(0);
+  thursday.setUTCFullYear(localDate.getFullYear(), localDate.getMonth(), localDate.getDate());
+  thursday.setUTCDate(thursday.getUTCDate() + 4 - (thursday.getUTCDay() || 7));
+  const year = thursday.getUTCFullYear();
+  const january = new Date(0);
+  january.setUTCFullYear(year, 0, 1);
+  return { year, week: Math.floor((thursday - january) / 604800000) + 1 };
+}
+
+const calendar = new Intl.DateTimeFormat('en', { dateStyle: 'full' });
+const pad = value => String(value).padStart(2, '0');
+
+function render() {
+  const now = new Date();
+  const hour = now.getHours();
+  const localTime = [pad(hour), pad(now.getMinutes()), pad(now.getSeconds())].join(':');
+  byId('time').textContent = twelveHour ? (hour % 12 || 12) + localTime.slice(2) : localTime;
+  byId('time').dateTime = localTime;
+  byId('period').textContent = twelveHour ? (hour < 12 ? 'AM' : 'PM') : '';
+  byId('date').textContent = calendar.format(now);
+  const { year, week } = isoWeek(now);
+  byId('week').textContent = `ISO week ${week} · ${year}`;
+}
+
+function updateThemeButton() {
+  theme.textContent = root.dataset.theme === 'dark' ? 'Light theme' : 'Dark theme';
+}
+
+format.setAttribute('aria-pressed', twelveHour);
+format.addEventListener('click', () => {
+  twelveHour = !twelveHour;
+  format.setAttribute('aria-pressed', twelveHour);
+  save('big-clock-format', twelveHour ? '12' : '24');
+  render();
+});
+
+theme.addEventListener('click', () => {
+  root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+  save('big-clock-theme', root.dataset.theme);
+  updateThemeButton();
+});
+
+fullscreen.addEventListener('click', async () => {
+  try {
+    if (document.fullscreenElement) await document.exitFullscreen();
+    else await root.requestFullscreen();
+    byId('notice').textContent = '';
+  } catch {
+    byId('notice').textContent = 'Fullscreen is unavailable in this browser.';
+  }
+});
+
+document.addEventListener('fullscreenchange', () => {
+  fullscreen.setAttribute('aria-pressed', Boolean(document.fullscreenElement));
+  fullscreen.textContent = document.fullscreenElement ? 'Exit fullscreen' : 'Fullscreen';
+});
+
+updateThemeButton();
+render();
+setInterval(render, 200);
+document.addEventListener('visibilitychange', render);
+})();
+</script>

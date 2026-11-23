@@ -1,0 +1,207 @@
+---
+layout: page
+published: true
+title: "Focus Timer"
+permalink: /focus-timer/
+---
+
+<style>
+.n52-focus-timer { color-scheme: light; background: #f0ede4; color: #282914; font: 100% system-ui, sans-serif; }
+.n52-focus-timer * { box-sizing: border-box; }
+.n52-focus-timer { max-width: 70rem; margin: auto; padding: clamp(1rem, 5vw, 4rem); display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); align-content: center; gap: 1rem; }
+.n52-focus-timer section { padding: clamp(1rem, 4vw, 2.5rem); border-radius: 1.5rem; background: #fcfaf3; }
+.n52-focus-timer .timer { background: #dfe6a9; }
+.n52-focus-timer h1, .n52-focus-timer h2 { margin: 0 0 1rem; }
+.n52-focus-timer #display { font-size: clamp(2.75rem, 11vw, 6rem); font-weight: 650; line-height: 1; letter-spacing: -.07em; font-variant-numeric: tabular-nums; }
+.n52-focus-timer #status { min-height: 1.4em; }
+.n52-focus-timer fieldset { border: 0; margin: 0; padding: 0; min-width: 0; }
+.n52-focus-timer legend, .n52-focus-timer label { padding: 0; font-size: .875rem; font-weight: 650; }
+.n52-focus-timer .row { display: flex; gap: .4rem; flex-wrap: wrap; }
+.n52-focus-timer button, .n52-focus-timer input { font: inherit; min-height: 44px; border: 1px solid #65683f; border-radius: .75rem; padding: .4rem .65rem; color: inherit; background: #fcfaf3; }
+.n52-focus-timer button { cursor: pointer; }
+.n52-focus-timer button:disabled, .n52-focus-timer input:disabled { opacity: .65; cursor: default; }
+.n52-focus-timer button[aria-pressed="true"], .n52-focus-timer #start { background: #282914; color: #fffdeb; }
+.n52-focus-timer form, .n52-focus-timer .actions { margin-top: 1rem; }
+.n52-focus-timer form label { display: block; margin-bottom: .25rem; }
+.n52-focus-timer input { width: 7.5rem; }
+.n52-focus-timer #history { padding: 0; margin: 0; list-style: none; }
+.n52-focus-timer #history li { border-bottom: 1px solid #d4d0bc; padding: .7rem 0; }
+@media (max-width: 700px) { .n52-focus-timer { grid-template-columns: 1fr; } }
+.n52-focus-timer { border-radius: 1rem; padding: clamp(.75rem, 3vw, 1.5rem); }
+</style>
+
+<div class="n52-focus-timer" lang="en">
+  <section class="timer" aria-label="Focus countdown">
+    <div id="display" role="timer" aria-label="Time remaining">25:00</div>
+    <p id="status" role="status">Ready</p>
+    <fieldset id="duration">
+      <legend>Session duration</legend>
+      <div class="row">
+        <button type="button" data-minutes="25" aria-pressed="true">25 min</button>
+        <button type="button" data-minutes="45" aria-pressed="false">45 min</button>
+        <button type="button" data-minutes="60" aria-pressed="false">60 min</button>
+      </div>
+      <form id="custom">
+        <label for="minutes">Custom minutes</label>
+        <div class="row">
+          <input id="minutes" type="number" min="0.1" max="999" step="0.1" required>
+          <button type="submit">Set</button>
+        </div>
+      </form>
+    </fieldset>
+    <div class="row actions">
+      <button id="start" type="button">Start</button>
+      <button id="reset" type="button">Reset</button>
+    </div>
+  </section>
+  <section class="history" aria-labelledby="history-heading">
+    <h2 id="history-heading">Completed sessions</h2>
+    <p id="storage-note"></p>
+    <ol id="history"></ol>
+  </section>
+</div>
+<script>
+(() => {
+const app = document.querySelector('.n52-focus-timer');
+const byId = id => app.querySelector('#' + id);
+const start = byId('start');
+const status = byId('status');
+const presets = [...app.querySelectorAll('[data-minutes]')];
+const pageTitle = document.title;
+const historyKey = 'focus-timer-sessions-v1';
+const dateFormat = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short' });
+
+let duration = 25 * 60000;
+let remaining = duration;
+let deadline = 0;
+let interval;
+let state = 'ready';
+let audio;
+let sessions = readHistory();
+
+function readHistory() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(historyKey) || '[]');
+    if (Array.isArray(saved)) {
+      return saved.filter(item => item && Number.isFinite(item.minutes) &&
+        Number.isFinite(new Date(item.ended).getTime()));
+    }
+  } catch {
+    byId('storage-note').textContent = 'Saved sessions could not be loaded.';
+  }
+  return [];
+}
+
+function renderHistory() {
+  const list = byId('history');
+  list.replaceChildren();
+  if (!sessions.length) {
+    const item = document.createElement('li');
+    item.textContent = 'No completed sessions yet.';
+    list.append(item);
+  }
+  for (const session of sessions) {
+    const item = document.createElement('li');
+    item.textContent = `${session.minutes} min · ${dateFormat.format(new Date(session.ended))}`;
+    list.append(item);
+  }
+}
+
+function prepareSound() {
+  try {
+    const Audio = window.AudioContext || window.webkitAudioContext;
+    if (!Audio) return;
+    audio ??= new Audio();
+    audio.resume().catch(() => {});
+  } catch {}
+}
+
+function sound() {
+  if (audio?.state !== 'running') return;
+  [523.25, 659.25, 783.99].forEach((frequency, index) => {
+    const tone = audio.createOscillator();
+    const gain = audio.createGain();
+    const at = audio.currentTime + index * 0.17;
+    tone.frequency.value = frequency;
+    gain.gain.setValueAtTime(0.001, at);
+    gain.gain.exponentialRampToValueAtTime(0.18, at + 0.025);
+    gain.gain.exponentialRampToValueAtTime(0.001, at + 0.32);
+    tone.connect(gain).connect(audio.destination);
+    tone.start(at);
+    tone.stop(at + 0.33);
+  });
+}
+
+function render() {
+  const seconds = Math.ceil(remaining / 1000);
+  const pad = value => String(value).padStart(2, '0');
+  byId('display').textContent = `${pad(Math.floor(seconds / 60))}:${pad(seconds % 60)}`;
+  document.title = state === 'running' ? `${byId('display').textContent} · Focus Timer` : pageTitle;
+}
+
+function setState(next, label) {
+  state = next;
+  status.textContent = label;
+  byId('duration').disabled = next === 'running' || next === 'paused';
+  start.textContent = { ready: 'Start', running: 'Pause', paused: 'Resume', done: 'Start again' }[next];
+  render();
+}
+
+function tick() {
+  if (state !== 'running') return;
+  remaining = Math.max(0, deadline - Date.now());
+  if (remaining) {
+    render();
+    return;
+  }
+  clearInterval(interval);
+  setState('done', 'Session complete');
+  const session = { minutes: duration / 60000, ended: new Date(deadline).toISOString() };
+  const saved = readHistory();
+  const updated = new Map([...sessions, ...saved, session].map(entry => [
+    JSON.stringify([entry.ended, entry.minutes]), entry
+  ]));
+  sessions = [...updated.values()].sort((a, b) => Date.parse(b.ended) - Date.parse(a.ended)).slice(0, 100);
+  try { localStorage.setItem(historyKey, JSON.stringify(sessions)); }
+  catch { byId('storage-note').textContent = 'This browser could not save your history.'; }
+  renderHistory();
+  sound();
+}
+
+function reset() {
+  clearInterval(interval);
+  remaining = duration;
+  setState('ready', 'Ready');
+}
+
+function setDuration(minutes, preset) {
+  duration = Math.round(minutes * 60000);
+  presets.forEach(button => button.setAttribute('aria-pressed', button === preset));
+  reset();
+}
+
+presets.forEach(button => button.addEventListener('click', () => setDuration(Number(button.dataset.minutes), button)));
+byId('custom').addEventListener('submit', event => {
+  event.preventDefault();
+  setDuration(byId('minutes').valueAsNumber);
+});
+byId('reset').addEventListener('click', reset);
+start.addEventListener('click', () => {
+  if (state === 'running') {
+    tick();
+    if (state === 'running') {
+      clearInterval(interval);
+      setState('paused', 'Paused');
+    }
+    return;
+  }
+  prepareSound();
+  if (state === 'done') remaining = duration;
+  deadline = Date.now() + remaining;
+  setState('running', 'Focusing');
+  interval = setInterval(tick, 100);
+});
+document.addEventListener('visibilitychange', tick);
+renderHistory();
+})();
+</script>

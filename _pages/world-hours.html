@@ -1,0 +1,137 @@
+---
+layout: page
+published: true
+title: "World Hours"
+permalink: /world-hours/
+---
+
+<style>
+.n52-world-hours { color-scheme: dark; --bg: #101517; --ink: #ecf9ef; --muted: #a7bbb1; --line: #63796f; }
+.n52-world-hours[data-theme="light"] { color-scheme: light; --bg: #f3f7ec; --ink: #1a3026; --muted: #476353; --line: #688775; }
+.n52-world-hours * { box-sizing: border-box; }
+.n52-world-hours { display: grid; align-content: center; justify-items: center; padding: 1.25rem; text-align: center; }
+.n52-world-hours header, .n52-world-hours #week { color: var(--muted); letter-spacing: .14em; text-transform: uppercase; }
+.n52-world-hours .face { margin-top: 1rem; }
+.n52-world-hours #time { display: block; font-size: clamp(2.5rem, 15vw, 14rem); line-height: 1; font-weight: 650; letter-spacing: -.075em; font-variant-numeric: tabular-nums; }
+.n52-world-hours #period { font-size: 1rem; letter-spacing: .15em; }
+.n52-world-hours #date { margin: 1.25rem 0 .35rem; font-size: clamp(1.1rem, 3vw, 2rem); }
+.n52-world-hours #week { margin: 0 0 2rem; font-size: .85rem; }
+.n52-world-hours .controls { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; }
+.n52-world-hours button { font: inherit; color: inherit; background: transparent; border: 1px solid var(--line); border-radius: 2rem; min-height: 44px; padding: .5rem 1rem; cursor: pointer; }
+.n52-world-hours button:hover, .n52-world-hours button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.n52-world-hours #notice { min-height: 1.5em; color: var(--muted); }
+.n52-world-hours { background: var(--bg); color: var(--ink); font-family: system-ui, sans-serif; border-radius: 1rem; }
+.n52-world-hours #time { font-size: clamp(2rem, 10vw, 8rem); }
+.n52-world-hours:fullscreen { border-radius: 0; }
+.n52-world-hours:fullscreen #time { font-size: clamp(3rem, 16vw, 16rem); }
+.n52-world-hours .cities { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); gap: .75rem; width: 100%; }
+.n52-world-hours .city { min-width: 0; border: 1px solid var(--line); border-radius: .65rem; padding: .9rem .4rem; }
+.n52-world-hours .city h2 { margin: 0 0 .35rem; color: var(--ink); font: 600 1rem system-ui, sans-serif; }
+.n52-world-hours .city time { font: 650 clamp(1.75rem, 5vw, 3.15rem)/1.2 system-ui, sans-serif; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.n52-world-hours .city p { margin: .3rem 0 0; color: var(--muted); font-size: .85rem; }
+.n52-world-hours .controls { margin-top: 1rem; }
+.n52-world-hours:fullscreen .cities { max-width: 80rem; }
+
+</style>
+
+<div class="n52-world-hours" lang="en">
+  <div class="cities" aria-label="City clocks"></div>
+  <div class="controls">
+    <button type="button" data-format aria-pressed="false">12-hour</button>
+    <button type="button" data-theme-button>Light theme</button>
+    <button type="button" data-fullscreen aria-pressed="false">Fullscreen</button>
+  </div>
+  <p id="notice" role="status"></p>
+  <template>
+    <section class="city"><h2></h2><time></time><p></p></section>
+  </template>
+</div>
+<script>
+(() => {
+const cities = [
+  ['New York', 'America/New_York'],
+  ['Mexico City', 'America/Mexico_City'],
+  ['Istanbul', 'Europe/Istanbul'],
+  ['Bali', 'Asia/Makassar'],
+  ['Sydney', 'Australia/Sydney']
+];
+const app = document.querySelector('.n52-world-hours');
+const format = app.querySelector('[data-format]');
+const theme = app.querySelector('[data-theme-button]');
+const fullscreen = app.querySelector('[data-fullscreen]');
+const notice = app.querySelector('[role="status"]');
+
+function preference(key, value) {
+  try {
+    return value === undefined
+      ? localStorage.getItem('world-hours-' + key)
+      : localStorage.setItem('world-hours-' + key, value);
+  } catch { return null; }
+}
+
+let twelve = preference('format') === '12';
+app.dataset.theme = preference('theme') ||
+  (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+
+const template = app.querySelector('template');
+const list = app.querySelector('.cities');
+const clocks = cities.map(([name, timeZone]) => {
+  const card = template.content.firstElementChild.cloneNode(true);
+  card.querySelector('h2').textContent = name;
+  const time = card.querySelector('time');
+  const date = card.querySelector('p');
+  const calendar = new Intl.DateTimeFormat('en', { timeZone, dateStyle: 'medium' });
+  const times = ['h23', 'h12'].map(hourCycle =>
+    new Intl.DateTimeFormat('en', { timeZone, hourCycle, hour: '2-digit', minute: '2-digit' }));
+  list.append(card);
+  return { time, date, calendar, times };
+});
+
+function render() {
+  const now = new Date();
+  for (const clock of clocks) {
+    clock.time.textContent = clock.times[Number(twelve)].format(now);
+    clock.time.dateTime = now.toISOString();
+    clock.date.textContent = clock.calendar.format(now);
+  }
+}
+
+function updateThemeButton() {
+  theme.textContent = app.dataset.theme === 'dark' ? 'Light theme' : 'Dark theme';
+}
+
+format.setAttribute('aria-pressed', twelve);
+format.addEventListener('click', () => {
+  twelve = !twelve;
+  format.setAttribute('aria-pressed', twelve);
+  preference('format', twelve ? '12' : '24');
+  render();
+});
+
+theme.addEventListener('click', () => {
+  app.dataset.theme = app.dataset.theme === 'dark' ? 'light' : 'dark';
+  preference('theme', app.dataset.theme);
+  updateThemeButton();
+});
+
+fullscreen.addEventListener('click', async () => {
+  try {
+    if (document.fullscreenElement === app) await document.exitFullscreen();
+    else await app.requestFullscreen();
+    notice.textContent = '';
+  } catch {
+    notice.textContent = 'Fullscreen is unavailable in this browser.';
+  }
+});
+
+document.addEventListener('fullscreenchange', () => {
+  const active = document.fullscreenElement === app;
+  fullscreen.setAttribute('aria-pressed', active);
+  fullscreen.textContent = active ? 'Exit fullscreen' : 'Fullscreen';
+});
+document.addEventListener('visibilitychange', render);
+updateThemeButton();
+render();
+setInterval(render, 1000);
+})();
+</script>
