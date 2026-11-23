@@ -1,0 +1,217 @@
+---
+layout: page
+published: true
+title: "Tarot Draw"
+permalink: /tarot-draw/
+---
+
+<style>
+.n52-tarot * { box-sizing: border-box; }
+.n52-tarot { width: min(100%, 58rem); margin: clamp(1.5rem, 6vw, 4.5rem) auto; color: #34271f; font: 1rem/1.55 system-ui, sans-serif; }
+.n52-tarot .hero { text-align: center; padding: clamp(1.5rem, 5vw, 3rem) 1rem; border: 1px solid #dac7ab; border-radius: 1.2rem; background: radial-gradient(ellipse at top, #fff9ef, #eee0cc); }
+.n52-tarot h1 { margin: 0; font: 400 clamp(2.85rem, 8vw, 5rem)/1 Georgia, serif; letter-spacing: -.06em; }
+.n52-tarot .hero p { margin: .85rem 0 1.2rem; color: #655040; }
+.n52-tarot .draw-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; }
+.n52-tarot button { min-height: 44px; padding: .65rem 1rem; border: 1px solid #6a463b; border-radius: 2rem; background: transparent; color: #54372e; font: 600 .9rem system-ui, sans-serif; cursor: pointer; }
+.n52-tarot button:hover { background: #ebd8c2; }
+.n52-tarot button[aria-pressed="true"], .n52-tarot button[data-draw="1"]:not([aria-pressed]) { background: #54372e; color: #fff9ef; }
+.n52-tarot button:focus-visible, .n52-tarot a:focus-visible { outline: 2px solid #8b4e36; outline-offset: 3px; }
+.n52-tarot .reading { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .85rem; margin: 1rem auto 0; }
+.n52-tarot .reading[data-count="1"] { display: block; max-width: 40rem; }
+.n52-tarot .draw-card { display: grid; grid-template-rows: auto auto 1fr; align-content: start; padding: 1.15rem; border: 1px solid #dac7ab; border-radius: .85rem; background: #fffbf3; }
+.n52-tarot .card-art { display: block; width: min(100%, 9.25rem); aspect-ratio: 7 / 12; object-fit: contain; margin: 0 auto; border-radius: .22rem; box-shadow: 0 .4rem 1rem #42271826; }
+.n52-tarot .position { margin: 0 0 .7rem; text-align: center; font: 650 .75rem/1.4 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; color: #765449; }
+.n52-tarot .card-copy { margin-top: 1rem; }
+.n52-tarot .card-copy h2 { margin: 0 0 .45rem; font: 400 clamp(1.4rem, 3vw, 1.85rem)/1.1 Georgia, serif; }
+.n52-tarot .interpretation { margin: 0; color: #5c473b; font-size: .94rem; }
+.n52-tarot .reading[data-count="1"] .draw-card { grid-template: auto / minmax(6rem, 9.25rem) minmax(0, 1fr); align-items: center; gap: clamp(1rem, 4vw, 2rem); padding: clamp(1rem, 4vw, 1.8rem); }
+.n52-tarot .reading[data-count="1"] .card-copy { margin: 0; }
+.n52-tarot .status { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+.n52-tarot .reading .art-unavailable { display: block; }
+.n52-tarot [hidden] { display: none !important; }
+.n52-tarot .credit { margin: 1.1rem 0 0; text-align: center; color: #655040; font-size: .8rem; }
+.n52-tarot .credit a { color: #694634; text-underline-offset: .15em; }
+@media (max-width: 660px) {
+  .n52-tarot .reading { grid-template-columns: 1fr; }
+  .n52-tarot .draw-card, .n52-tarot .reading[data-count="1"] .draw-card { grid-template: auto auto / minmax(5rem, 7rem) minmax(0, 1fr); gap: .65rem 1rem; align-items: start; }
+  .n52-tarot .position { grid-column: 1 / -1; text-align: left; margin: 0; }
+  .n52-tarot .card-copy { margin: 0; }
+}
+</style>
+
+
+<div class="n52-tarot" lang="en">
+  <header class="hero">
+  <p>Draw one card or a three-card spread.</p>
+  <div class="draw-actions" role="group" aria-label="Choose a tarot spread">
+    <button type="button" data-draw="1">Draw one card</button>
+    <button type="button" data-draw="3">Draw three cards</button>
+  </div>
+  </header>
+  <p class="status" role="status"></p>
+  <div class="reading" aria-label="Your reading"></div>
+  <p class="credit">Artwork by Pamela Colman Smith. <a href="https://commons.wikimedia.org/wiki/Category:Rider-Waite_tarot_deck">Rider–Waite–Smith deck</a>.</p>
+  <noscript><p>Enable JavaScript to draw cards.</p></noscript>
+  <template>
+    <article class="draw-card">
+      <p class="position"></p>
+      <img class="card-art" alt="" decoding="async">
+      <div class="card-copy">
+        <h2></h2>
+        <p class="interpretation"></p>
+      </div>
+    </article>
+  </template>
+</div>
+
+<script>
+(() => {
+  const deck = [
+  [
+    "The Fool",
+    "New beginnings, spontaneity, and the freedom to step into unfamiliar territory.",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fa/RWS_Tarot_1910_-_00_The_Fool.png"
+  ],
+  [
+    "The Magician",
+    "Skill and initiative turn an idea into something tangible.",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b1/RWS_Tarot_1910_-_01_The_Magician.png"
+  ],
+  [
+    "The High Priestess",
+    "Intuition and quiet awareness bring hidden information into focus.",
+    "https://upload.wikimedia.org/wikipedia/commons/8/89/RWS_Tarot_1910_-_02_The_High_Priestess.png"
+  ],
+  [
+    "The Empress",
+    "Nurturing, abundance, and creativity thrive with steady care.",
+    "https://upload.wikimedia.org/wikipedia/commons/5/50/RWS_Tarot_1910_-_03_The_Empress.png"
+  ],
+  [
+    "The Emperor",
+    "Structure, authority, and firm boundaries create stability.",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d0/RWS_Tarot_1910_-_04_The_Emperor.png"
+  ],
+  [
+    "The Hierophant",
+    "Tradition, teaching, and shared beliefs offer guidance and belonging.",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1d/RWS_Tarot_1910_-_05_The_Hierophant.png"
+  ],
+  [
+    "The Lovers",
+    "Connection and commitment bring important values into a choice.",
+    "https://upload.wikimedia.org/wikipedia/commons/d/dc/RWS_Tarot_1910_-_06_The_Lovers.png"
+  ],
+  [
+    "The Chariot",
+    "Determination brings competing impulses into one clear direction.",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a7/RWS_Tarot_1910_-_07_The_Chariot.png"
+  ],
+  [
+    "Strength",
+    "Quiet courage and patience give strength its staying power.",
+    "https://upload.wikimedia.org/wikipedia/commons/8/8c/RWS_Tarot_1910_-_08_Strength.png"
+  ],
+  [
+    "The Hermit",
+    "Solitude creates room for perspective and inner guidance.",
+    "https://upload.wikimedia.org/wikipedia/commons/5/5e/RWS_Tarot_1910_-_09_The_Hermit.png"
+  ],
+  [
+    "Wheel of Fortune",
+    "A turning point brings changing circumstances and unexpected opportunities.",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a1/RWS_Tarot_1910_-_10_Wheel_of_Fortune.png"
+  ],
+  [
+    "Justice",
+    "Fairness, accountability, and the consequences of past choices come into focus.",
+    "https://upload.wikimedia.org/wikipedia/commons/b/ba/RWS_Tarot_1910_-_11_Justice.png"
+  ],
+  [
+    "The Hanged Man",
+    "A pause allows an old situation to be seen from a different angle.",
+    "https://upload.wikimedia.org/wikipedia/commons/9/94/RWS_Tarot_1910_-_12_The_Hanged_Man.png"
+  ],
+  [
+    "Death",
+    "An ending clears space for a new phase. This card symbolizes transformation.",
+    "https://upload.wikimedia.org/wikipedia/commons/0/03/RWS_Tarot_1910_-_13_Death.png"
+  ],
+  [
+    "Temperance",
+    "Balance comes through moderation, integration, and a sustainable pace.",
+    "https://upload.wikimedia.org/wikipedia/commons/9/96/RWS_Tarot_1910_-_14_Temperance.png"
+  ],
+  [
+    "The Devil",
+    "Attachment and habit can make choices feel more limited than they are.",
+    "https://upload.wikimedia.org/wikipedia/commons/0/0f/RWS_Tarot_1910_-_15_The_Devil.png"
+  ],
+  [
+    "The Tower",
+    "Sudden disruption exposes weaknesses and makes a different foundation possible.",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a8/RWS_Tarot_1910_-_16_The_Tower.png"
+  ],
+  [
+    "The Star",
+    "Hope and renewal return gradually after a difficult period.",
+    "https://upload.wikimedia.org/wikipedia/commons/a/aa/RWS_Tarot_1910_-_17_The_Star.png"
+  ],
+  [
+    "The Moon",
+    "Uncertainty can blur the line between intuition and fear.",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6a/RWS_Tarot_1910_-_18_The_Moon.png"
+  ],
+  [
+    "The Sun",
+    "Clarity, warmth, and confidence make progress easier to recognize.",
+    "https://upload.wikimedia.org/wikipedia/commons/c/ca/RWS_Tarot_1910_-_19_The_Sun.png"
+  ],
+  [
+    "Judgement",
+    "A moment of reckoning brings the past into focus and opens the way to renewal.",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e4/RWS_Tarot_1910_-_20_Judgement.png"
+  ],
+  [
+    "The World",
+    "Completion brings a sense of integration and marks the close of a cycle.",
+    "https://upload.wikimedia.org/wikipedia/commons/d/da/RWS_Tarot_1910_-_21_The_World.png"
+  ]
+];
+
+  const app = document.querySelector('.n52-tarot');
+  const reading = app.querySelector('.reading');
+  const status = app.querySelector('.status');
+  const template = app.querySelector('template');
+  const buttons = app.querySelectorAll('[data-draw]');
+
+  function draw(count) {
+    const pool = [...deck];
+    const positions = count === 1 ? [''] : ['Past', 'Present', 'Future'];
+    const cards = positions.map(position => {
+      const index = Math.floor(Math.random() * pool.length);
+      const [[name, interpretation, imageUrl]] = pool.splice(index, 1);
+      const card = template.content.firstElementChild.cloneNode(true);
+      const label = card.querySelector('.position');
+      label.textContent = position;
+      label.hidden = !position;
+      const image = card.querySelector('.card-art');
+      image.addEventListener('error', () => { image.hidden = true; card.classList.add('art-unavailable'); });
+      image.src = imageUrl;
+      card.querySelector('h2').textContent = name;
+      card.querySelector('.interpretation').textContent = interpretation;
+      return { card, name, position };
+    });
+    for (const button of buttons) {
+      button.setAttribute('aria-pressed', String(Number(button.dataset.draw) === count));
+    }
+    reading.dataset.count = String(count);
+    reading.replaceChildren(...cards.map(({ card }) => card));
+    status.textContent = cards.map(({ name, position }) => position ? `${position}: ${name}` : name).join(' · ');
+  }
+
+  for (const button of buttons) {
+    button.addEventListener('click', () => draw(Number(button.dataset.draw)));
+  }
+})();
+</script>
