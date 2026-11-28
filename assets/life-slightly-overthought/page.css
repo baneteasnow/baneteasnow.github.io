@@ -1,0 +1,188 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: #faf5ed;
+  color: #30332f;
+  font: 16px/1.6 system-ui,sans-serif;
+}
+a {
+  color: inherit;
+}
+.page-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px 12px;
+  flex-wrap: wrap;
+  padding: 8px 16px;
+  border-bottom: 1px solid #d8d0c4;
+}
+.page-nav a {
+  padding: 6px 8px;
+  color: #505b38;
+  font: italic 16px/1.4 Georgia, serif;
+  text-decoration: none;
+}
+.page-nav a:hover,
+.page-nav a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+@media (min-width: 961px) {
+  .page-nav {
+    position: fixed;
+    z-index: 1;
+    top: 50%;
+    right: 16px;
+    transform: translateY(-50%);
+    width: 104px;
+    flex-flow: column nowrap;
+    align-items: flex-end;
+    padding: 0;
+    border: 0;
+  }
+  main {
+    width: calc(100% - 248px);
+  }
+}
+main {
+  max-width: 1150px;
+  margin: auto;
+  padding: 28px 24px;
+}
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1.25fr;
+  align-items: center;
+  gap: 20px;
+}
+h1 {
+  font: italic 52px/1.1 Georgia;
+  margin: 0 0 20px;
+}
+h2 {
+  font: 28px Georgia;
+}
+.hero img {
+  width: 100%;
+  border-radius: 16px;
+}
+.tagline {
+  font: italic 21px Georgia;
+  color: #657346;
+}
+.filters {
+  display: flex;
+  gap: 8px;
+  overflow: auto;
+  border-block: 1px solid #ded6ca;
+  padding: 14px 0;
+  margin: 26px 0;
+}
+button {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid #89926b;
+  background: transparent;
+  color: inherit;
+  border-radius: 24px;
+  padding: 7px 17px;
+  white-space: nowrap;
+}
+button.active,button:hover {
+  background: #747f4c;
+  color: white;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.card {
+  border: 1px solid #d8d0c4;
+  border-radius: 15px;
+  overflow: hidden;
+  background: #fffaf3;
+  cursor: pointer;
+}
+.card img {
+  width: 100%;
+  aspect-ratio: 1.52;
+  object-fit: cover;
+  display: block;
+}
+.card div {
+  padding: 16px;
+}
+.card h3 {
+  margin: 0;
+  font-size: 19px;
+}
+.card p {
+  margin: 6px 0;
+}
+small {
+  color: #686b61;
+}
+.follow {
+  margin: 35px 0;
+  background: #e8eadb;
+  border-radius: 16px;
+  padding: 22px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.follow img {
+  width: 85px;
+  border-radius: 50%;
+}
+.follow a {
+  margin-left: auto;
+}
+dialog {
+  border: 0;
+  border-radius: 16px;
+  background: #faf5ed;
+  max-width: min(90vw,700px);
+  padding: 18px;
+  color: inherit;
+}
+dialog img {
+  display: block;
+  max-width: 100%;
+  max-height: 72vh;
+  margin: auto;
+}
+dialog::backdrop {
+  background: #0009;
+}
+dialog button {
+  float: right;
+  margin-bottom: 10px;
+}
+footer {
+  text-align: center;
+  color: #777;
+  padding: 20px;
+}
+@media(max-width:650px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+  h1 {
+    font-size: 38px;
+  }
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  main {
+    padding: 20px 16px;
+  }
+  .follow a {
+    margin: 0;
+  }
+}

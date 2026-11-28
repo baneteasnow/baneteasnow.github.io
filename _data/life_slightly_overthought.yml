@@ -1,0 +1,46 @@
+# Görseller assets/life-slightly-overthought/ klasöründe.
+# Yeni gönderiyi posts listesinin başına ekle. Kategorileri categories listesinden seç.
+intro:
+  title_first_line: "Life, Slightly"
+  title_second_line: "Overthought."
+  tagline: "A fictional world for very real feelings."
+  paragraphs:
+    - "An illustrated collection of everyday thoughts, quiet contradictions, existential questions and small joys."
+    - "A little anxious, occasionally optimistic, endlessly curious."
+  image: "hero.jpg"
+  alt: "Our thoughtful character at her desk"
+
+categories:
+  - "Thoughts"
+  - "Work & Life"
+  - "Reading"
+  - "Planning"
+  - "Wellbeing"
+  - "Small Joys"
+
+posts:
+  - title: "I want a simpler life."
+    text: "I've made a very complicated plan for it."
+    image: "a-simpler-life.jpg"
+    tags: ["Thoughts", "Planning", "Work & Life"]
+    label: "Illustration concept · Draft"
+
+  - title: "The comfort of re-reading"
+    text: "On returning to the same books, again and again."
+    image: "re-reading.jpg"
+    tags: ["Reading", "Small Joys"]
+    label: "Illustration concept · Draft"
+
+  - title: "A rainy day well spent"
+    text: "Small rituals for a calmer mind."
+    image: "a-rainy-day.jpg"
+    tags: ["Wellbeing", "Small Joys"]
+    label: "Illustration concept · Draft"
+
+story:
+  title: "Hello, World!"
+  image: "hello-world.jpg"
+
+instagram:
+  username: "lifeslightlyoverthought"
+  portrait: "portrait.jpg"
